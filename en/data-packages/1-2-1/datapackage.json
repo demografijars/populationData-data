@@ -11,20 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Deaths",
-                "Live birth",
-                "Natural change"
-              ]
-            },
-            "title": "Births"
-          },
-          {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,6 +23,19 @@
               ]
             },
             "title": "Administrative area"
+          },
+          {
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Deaths",
+                "Live births",
+                "Natural change"
+              ]
+            },
+            "title": "Vital statistics"
           },
           {
             "name": "SEX",
@@ -71,5 +71,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Live births and deaths by entity and sex"
+  "title": "Vital statistics by sex"
 }

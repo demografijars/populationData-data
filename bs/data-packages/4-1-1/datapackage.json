@@ -21,34 +21,34 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
+                "15+",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+",
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Starosna dob"
           },
           {
-            "name": "EDUCATION",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_15",
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
                 ""
               ]
             },
-            "title": "EDUCATION"
+            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Srazmjer djece i mladih: (a) u razredima 2/3; (b) na kraju osnovnog; i (c) na kraju nižeg srednjeg obrazovanja koja postižu najmanje minimalnog nivoa znanja u (i) čitanju i (ii) matematici, po polu"
+  "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kada)"
 }

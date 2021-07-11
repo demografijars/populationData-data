@@ -19,6 +19,19 @@
             "type": "string"
           },
           {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -31,7 +44,7 @@
             }
           },
           {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [

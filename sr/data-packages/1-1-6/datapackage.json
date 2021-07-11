@@ -25,8 +25,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Мушкарци",
-                "Жене",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Године"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
@@ -77,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-6",
-  "title": "global_indicators.1-1-6-title"
+  "title": "Пирамида становништва према старосној групи и полу"
 }

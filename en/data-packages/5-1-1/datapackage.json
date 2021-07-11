@@ -11,31 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "Advanced schools / faculty / academy / university",
+                "Higher school and first grade of faculty",
+                "Incomplete primary education",
+                "No education",
+                "Post-secondary school specialisation",
+                "Primary school",
+                "Secondary school",
+                "Unknown"
               ]
             },
-            "title": "Administrative area"
+            "title": "Educational level"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Real GDP growth",
-                "Total (millions)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -58,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "GDP (BAM) per type"
+  "title": "Population over 15 years of age by educational attainment and sex"
 }

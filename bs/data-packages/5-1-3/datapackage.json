@@ -21,31 +21,35 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "QUANTITY"
+            "title": "Spol"
           },
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -54,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-3",
-  "title": "global_indicators.5-1-3-title"
+  "title": "Stanovništvo u dobi od 25-64 godine upisano u neformalno obrazovanje odraslih, prema starosnoj dobi i spolu"
 }

@@ -11,36 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+",
-                "All"
+                "BiH"
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "FERTILITY_RATE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Age specific fertility rates",
-                "Total fertility rate"
-              ]
-            },
-            "title": "Fertility rate"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -63,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-2",
-  "title": "Fertility rate by type"
+  "title": "Total Fertility rate"
 }

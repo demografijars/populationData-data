@@ -21,48 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
+                "BiH",
                 ""
               ]
             },
-            "title": "Godine"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "employed_as_of_working",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
+            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -71,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "global_indicators.6-1-2-title"
+  "title": "Bruto domaći proizvod – po glavi stanovništva"
 }

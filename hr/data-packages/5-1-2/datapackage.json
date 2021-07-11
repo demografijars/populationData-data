@@ -21,31 +21,35 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
+                "Oba spola",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "QUANTITY"
+            "title": "Spol"
           },
           {
-            "name": "Entity",
+            "name": "ENROLMENT",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
+                "Predškolski odgoj i obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje /sveučilište",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Vrsta obrazovne ustanove"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -54,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "global_indicators.5-1-2-title"
+  "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
 }

@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Godine"
+            "title": "Starosna dob"
           },
           {
             "name": "Municipality",
@@ -99,7 +99,7 @@
                 "Donji Vakuf",
                 "Donji Žabar",
                 "Drvar",
-                "Foča - FBiH",
+                "Foča - FBIH",
                 "Foča - RS",
                 "Fojnica",
                 "Gacko",
@@ -135,7 +135,7 @@
                 "Kozarska Dubica",
                 "Kreševo",
                 "Krupa Na Uni",
-                "Kupres - FBiH",
+                "Kupres - FBIH",
                 "Kupres - RS",
                 "Laktaši",
                 "Livno",
@@ -160,7 +160,7 @@
                 "Orašje",
                 "Osmaci",
                 "Oštra Luka",
-                "Pale - FBiH",
+                "Pale - FBIH",
                 "Pale - RS",
                 "Pelagićevo",
                 "Petrovac",
@@ -191,7 +191,7 @@
                 "Tomislavgrad",
                 "Travnik",
                 "Trebinje",
-                "Trnovo - FBiH",
+                "Trnovo - FBIH",
                 "Trnovo - RS",
                 "Tuzla",
                 "Ugljevik",
@@ -212,11 +212,11 @@
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Općina"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -225,5 +225,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-5",
-  "title": "global_indicators.1-1-5-title"
+  "title": "Stanovništvo po općini, starosnoj grupi i spolu"
 }

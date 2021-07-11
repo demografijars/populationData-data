@@ -21,48 +21,22 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "15 - 24",
-                "25 - 49",
-                "50 - 64",
-                "65+",
-                "15 - 64",
+                "BiH",
+                "Federacija BiH",
+                "Republika Srpska",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Godine"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "Muškarci",
-                "Žene",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ACTIVITY_RATES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "active_labour_force",
-                ""
-              ]
-            },
-            "title": "ACTIVITY_RATES"
+            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -71,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-1",
-  "title": "Udio stanovništva koji koristi usluge bezbijednog upravljanja pitkom vodom"
+  "title": "Bruto domaći proizvod - ukupno (u milijunima)"
 }

@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Oba spola",
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -129,20 +129,20 @@
                 ""
               ]
             },
-            "title": "Godine"
+            "title": "Starosna dob"
           },
           {
-            "name": "Entity",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "Federacija BiH",
                 "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Brčko distrikt BiH",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
@@ -155,5 +155,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-2",
-  "title": "global_indicators.1-1-2-title"
+  "title": "Stanovništvo po entitetima, prema dobi i spolu"
 }

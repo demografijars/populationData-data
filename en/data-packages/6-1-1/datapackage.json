@@ -11,44 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "ACTIVITY_RATES",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Active (Labour Force) as % of working age population"
+                "Brčko District of BiH",
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Activity rates"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 - 24",
-                "15 - 64",
-                "15+",
-                "25 - 49",
-                "50 - 64",
-                "65+"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -57,7 +31,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -71,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-1",
-  "title": "Labour force participation rate (Percentage of active population (labour force) in working age population (15-64) by age group and sex)"
+  "title": "Gross Domestic Product - Total (millions)"
 }

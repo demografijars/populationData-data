@@ -21,31 +21,35 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "real_gdp_growth",
-                "per_capita",
+                "Oba spola",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "QUANTITY"
+            "title": "Spol"
           },
           {
-            "name": "Entity",
+            "name": "EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko Distrikt BiH",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Visoko obrazovanje i prva godina fakulteta",
+                "Napredne škole /fakultet /akademija /sveučilište",
+                "Nepoznato",
+                "Bez obrazovanja",
+                "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "Entitet"
+            "title": "Razina obrazovanja"
           },
           {
             "name": "Value",
@@ -58,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Postojali ili ne zakonski okviri su za promociju, provođenje i nadgledanje jednakost i nediskriminaciju na osnovu pola"
+  "title": "Stanovništvo u dobi iznad 15 godina, prema dostignutoj razini obrazovanja i spolu"
 }

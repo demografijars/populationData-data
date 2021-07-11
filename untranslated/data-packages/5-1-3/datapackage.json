@@ -19,29 +19,33 @@
             "type": "string"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_millions",
-                "per_capita",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Entity",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
+                "25-34",
+                "35-44",
+                "35-45",
+                "45-54",
+                "55-64",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

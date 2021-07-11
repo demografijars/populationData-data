@@ -25,8 +25,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Muškarci",
-                "Žene",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -64,7 +64,7 @@
                 ""
               ]
             },
-            "title": "Godine"
+            "title": "Starosna dob"
           },
           {
             "name": "Value",
@@ -77,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-6",
-  "title": "global_indicators.1-1-6-title"
+  "title": "Piramida stanovništva prema dobnoj skupini i spolu"
 }

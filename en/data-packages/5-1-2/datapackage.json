@@ -11,27 +11,31 @@
       "schema": {
         "fields": [
           {
-            "name": "Entity",
+            "name": "ENROLMENT",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "BiH"
+                "High school",
+                "Higher school/University",
+                "Pre-school",
+                "Primary school"
               ]
             },
-            "title": "Administrative area"
+            "title": "Type of educational institution"
           },
           {
-            "name": "QUANTITY",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Per capita",
-                "Total (millions)"
+                "F",
+                "M",
+                "Both sexes"
               ]
             },
-            "title": "Quantity"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -40,7 +44,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -54,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "GDP per foreign currencies and type (EUR)"
+  "title": "Population enrolled in formal educational institutions by sex and type of educational institution"
 }

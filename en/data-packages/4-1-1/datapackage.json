@@ -11,34 +11,34 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "Primary school",
-                "Secondary school",
-                "Total 15+",
-                "Unknown"
+                "BiH",
+                "Federation of BiH",
+                "Republika Srpska"
               ]
             },
-            "title": "Education"
+            "title": "Administrative area"
           },
           {
-            "name": "SEX",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "15+",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+"
               ]
             },
-            "title": "Sex"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Population over 15 years of age by educational attainment and sex"
+  "title": "Violence against women after the age of 15 (ever)"
 }
