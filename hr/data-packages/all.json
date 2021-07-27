@@ -931,27 +931,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
-                "(J00-J99) Bolesti respiratornog sistema",
-                "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
-                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
-                "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "„(C00-C97,D00-D48) Neoplazme“",
+                "„(I00-I99) Bolesti cirkulacijskog sustava“",
+                "„(J00-J99) Bolesti respiratornog sustava“",
+                "„(K00-K93) Bolesti digestivnog sustava“",
+                "„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",
+                "„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",
+                "„(A00-B99) Zarazne i parazitarne bolesti“",
+                "„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",
+                "„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",
+                "„(F00-F99) Duševni poremećaji i poremećaji ponašanja“",
+                "„(G00-G99) Bolesti nervnog sustava“",
+                "„(H00-H93) Bolesti oka, uha i adneksa\"",
+                "„(L00-L99) Bolesti kože i potkožnog tkiva“",
+                "„(N00-N99) Bolesti genitalno-urinarnog sustava“",
+                "„(P00-P96) Određena stanja nastala u perinatalnom periodu“",
+                "„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",
+                "„(V01-Y98) Vanjski uzroci mortaliteta“",
+                "„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“",
                 "Nepoznato",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“",
+                "„(O00-O99) Trudnoća, porođaj i postporođajni period“",
                 ""
               ]
             },
@@ -1344,14 +1344,14 @@
                 "Osnovna škola",
                 "Srednja škola",
                 "Visoko obrazovanje i prva godina fakulteta",
-                "Napredne škole /fakultet /akademija /univerzitet",
+                "Napredne škole /fakultet /akademija /sveučilište",
                 "Nepoznato",
                 "Bez obrazovanja",
                 "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "Nivo obrazovanja"
+            "title": "Razina obrazovanja"
           },
           {
             "name": "Value",
@@ -1387,9 +1387,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
                 "Omjer starijih i mladih",
                 ""
               ]
@@ -2532,7 +2532,7 @@
                 "Predškolski odgoj i obrazovanje",
                 "Osnovna škola",
                 "Srednja škola",
-                "Visoko obrazovanje /univerzitet",
+                "Visoko obrazovanje /sveučilište",
                 ""
               ]
             },
@@ -3207,27 +3207,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
-                "(J00-J99) Bolesti respiratornog sistema",
-                "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "„(C00-C97,D00-D48) Neoplazme“",
+                "„(I00-I99) Bolesti cirkulacijskog sustava“",
+                "„(J00-J99) Bolesti respiratornog sustava“",
+                "„(K00-K93) Bolesti digestivnog sustava“",
+                "„(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi nesvrstani drugamo“",
+                "„(S00-T98) Ozljede, otrovanja i ostale posljedice vanjskih uzroka“",
                 "Ukupno",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
-                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
-                "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
-                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "„(A00-B99) Zarazne i parazitarne bolesti“",
+                "„(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sustava“",
+                "„(E00-E90) Endokrine bolesti, bolesti prehrane i bolesti metabolizma“",
+                "„(F00-F99) Duševni poremećaji i poremećaji ponašanja“",
+                "„(G00-G99) Bolesti nervnog sustava“",
+                "„(H00-H93) Bolesti oka, uha i adneksa\"",
+                "„(L00-L99) Bolesti kože i potkožnog tkiva“",
+                "„(M00-M99) Bolesti muskuloskeletnog sustava i vezivnog tkiva“",
+                "„(N00-N99) Bolesti genitalno-urinarnog sustava“",
+                "„(O00-O99) Trudnoća, porođaj i postporođajni period“",
+                "„(P00-P96) Određena stanja nastala u perinatalnom periodu“",
+                "„(Q00-Q99) Kongenitalne malformacije, deformiteti i kromosomske abnormalnosti“",
+                "„(V01-Y98) Vanjski uzroci mortaliteta“",
+                "„(Z00-Z99) Čimbenici koji utječu na stanje zdravlja i kontakt sa zdravstvenom službom“",
                 "Nepoznato",
                 ""
               ]
@@ -3273,9 +3273,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
                 "Omjer starijih i mladih",
                 ""
               ]
@@ -3474,7 +3474,7 @@
                 ""
               ]
             },
-            "title": "Veličina domaćinstva"
+            "title": "Veličina kućanstva"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3515,7 +3515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Savremene metode",
+                "Suvremene metode",
                 "Sve metode",
                 "Tradicionalne metode",
                 ""
@@ -4002,7 +4002,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-8-title"
+      "title": "Projicirana piramida stanovništva"
     },
     {
       "path": "3-5-3/data.csv",

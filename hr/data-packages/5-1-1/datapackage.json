@@ -42,14 +42,14 @@
                 "Osnovna škola",
                 "Srednja škola",
                 "Visoko obrazovanje i prva godina fakulteta",
-                "Napredne škole /fakultet /akademija /univerzitet",
+                "Napredne škole /fakultet /akademija /sveučilište",
                 "Nepoznato",
                 "Bez obrazovanja",
                 "Specijalizacija nakon završene srednje škole",
                 ""
               ]
             },
-            "title": "Nivo obrazovanja"
+            "title": "Razina obrazovanja"
           },
           {
             "name": "Value",

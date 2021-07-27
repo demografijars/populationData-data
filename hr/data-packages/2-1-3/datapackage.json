@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
                 "Omjer starijih i mladih",
                 ""
               ]
