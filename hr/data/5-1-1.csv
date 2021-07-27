@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Spol,Razina obrazovanja,Value
+Year,UNIT_MEASURE,Spol,Nivo obrazovanja,Value
 1991,Broj,Oba spola,Nepotpuno osnovno obrazovanje,658356.0
 1991,% od ukupno,Oba spola,Nepotpuno osnovno obrazovanje,16.65
 1991,Broj,M,Nepotpuno osnovno obrazovanje,285421.0
@@ -23,12 +23,12 @@ Year,UNIT_MEASURE,Spol,Razina obrazovanja,Value
 1991,% od ukupno,M,Visoko obrazovanje i prva godina fakulteta,1.69
 1991,Broj,Ž,Visoko obrazovanje i prva godina fakulteta,35742.0
 1991,% od ukupno,Ž,Visoko obrazovanje i prva godina fakulteta,1.07
-1991,Broj,Oba spola,Napredne škole /fakultet /akademija /sveučilište,122967.0
-1991,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /sveučilište,3.67
-1991,Broj,M,Napredne škole /fakultet /akademija /sveučilište,77240.0
-1991,% od ukupno,M,Napredne škole /fakultet /akademija /sveučilište,2.31
-1991,Broj,Ž,Napredne škole /fakultet /akademija /sveučilište,45727.0
-1991,% od ukupno,Ž,Napredne škole /fakultet /akademija /sveučilište,1.37
+1991,Broj,Oba spola,Napredne škole /fakultet /akademija /univerzitet,122967.0
+1991,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /univerzitet,3.67
+1991,Broj,M,Napredne škole /fakultet /akademija /univerzitet,77240.0
+1991,% od ukupno,M,Napredne škole /fakultet /akademija /univerzitet,2.31
+1991,Broj,Ž,Napredne škole /fakultet /akademija /univerzitet,45727.0
+1991,% od ukupno,Ž,Napredne škole /fakultet /akademija /univerzitet,1.37
 1991,Broj,Oba spola,Nepoznato,93903.0
 1991,% od ukupno,Oba spola,Nepoznato,2.8
 1991,Broj,M,Nepoznato,47397.0
@@ -71,12 +71,12 @@ Year,UNIT_MEASURE,Spol,Razina obrazovanja,Value
 2013,% od ukupno,M,Visoko obrazovanje i prva godina fakulteta,1.73
 2013,Broj,Ž,Visoko obrazovanje i prva godina fakulteta,42648.0
 2013,% od ukupno,Ž,Visoko obrazovanje i prva godina fakulteta,1.43
-2013,Broj,Oba spola,Napredne škole /fakultet /akademija /sveučilište,285622.0
-2013,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /sveučilište,9.56
-2013,Broj,M,Napredne škole /fakultet /akademija /sveučilište,137543.0
-2013,% od ukupno,M,Napredne škole /fakultet /akademija /sveučilište,4.6
-2013,Broj,Ž,Napredne škole /fakultet /akademija /sveučilište,148079.0
-2013,% od ukupno,Ž,Napredne škole /fakultet /akademija /sveučilište,4.96
+2013,Broj,Oba spola,Napredne škole /fakultet /akademija /univerzitet,285622.0
+2013,% od ukupno,Oba spola,Napredne škole /fakultet /akademija /univerzitet,9.56
+2013,Broj,M,Napredne škole /fakultet /akademija /univerzitet,137543.0
+2013,% od ukupno,M,Napredne škole /fakultet /akademija /univerzitet,4.6
+2013,Broj,Ž,Napredne škole /fakultet /akademija /univerzitet,148079.0
+2013,% od ukupno,Ž,Napredne škole /fakultet /akademija /univerzitet,4.96
 2013,Broj,Oba spola,Bez obrazovanja,146078.0
 2013,% od ukupno,Oba spola,Bez obrazovanja,4.89
 2013,Broj,M,Bez obrazovanja,24021.0
