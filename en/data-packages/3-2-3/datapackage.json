@@ -11,19 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -44,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-3",
-  "title": "3-2-3"
+  "title": "Cervical cancer incidence per 100,000 female population"
 }

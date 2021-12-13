@@ -19,37 +19,39 @@
             "type": "string"
           },
           {
-            "name": "SEX",
+            "name": "school_year",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "M",
-                "F",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "incomplete_primary_education",
-                "primary_school",
-                "secondary_school",
-                "higher_school_and_first_grade_of_faculty",
-                "advanced_schools_faculty_academy_university",
-                "unknown",
-                "no_education",
-                "post_secondary_school_specialisation",
+                "_T",
+                "public",
+                "private",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

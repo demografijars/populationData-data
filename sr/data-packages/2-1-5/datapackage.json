@@ -16,26 +16,34 @@
             "title": "Година"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
+            "name": "LIVE_BORN_CHILDREN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Нису рађале",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10_and_more",
+                ""
+              ]
+            },
+            "title": "LIVE_BORN_CHILDREN"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -44,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-5",
-  "title": "Пројектована сирова стопа наталитета"
+  "title": "Женско становништво према граду/општини, и укупном броју живорођене дјеце"
 }

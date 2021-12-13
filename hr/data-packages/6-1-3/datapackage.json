@@ -21,17 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
@@ -42,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-3",
-  "title": "Rast realnog BDP-a"
+  "title": "Stopa realnog rasta bruto društvenog proizvoda"
 }

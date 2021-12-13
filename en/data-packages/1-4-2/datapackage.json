@@ -11,15 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "BiH"
+                "F",
+                "M"
               ]
             },
-            "title": "Administrative area"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -42,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-2",
-  "title": "Total Fertility rate"
+  "title": "Average age of population by sex"
 }

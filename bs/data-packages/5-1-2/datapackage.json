@@ -21,11 +21,31 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021",
+                ""
+              ]
+            },
+            "title": "school_year"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "_T",
                 "M",
                 "Ž",
                 ""
@@ -34,22 +54,8 @@
             "title": "Spol"
           },
           {
-            "name": "ENROLMENT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Predškolski odgoj i obrazovanje",
-                "Osnovna škola",
-                "Srednja škola",
-                "Visoko obrazovanje /univerzitet",
-                ""
-              ]
-            },
-            "title": "Vrsta obrazovne ustanove"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -58,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "Stanovništvo upisano u formalne obrazovne ustanove, prema spolu i vrsti obrazovne ustanove"
+  "title": "Broj djece u predškolskim ustanovama prema spolu"
 }

@@ -15,25 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "FBIH",
-                "RS",
-                "BD",
+                "1",
+                "2",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

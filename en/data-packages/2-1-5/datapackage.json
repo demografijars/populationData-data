@@ -11,17 +11,25 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "LIVE_BORN_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Both sexes"
+                "1",
+                "10 and more",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "Did not give birth"
               ]
             },
-            "title": "Sex"
+            "title": "Live-born children"
           },
           {
             "name": "UNIT_MEASURE",
@@ -30,7 +38,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -44,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-5",
-  "title": "Projected crude birth rate"
+  "title": "Female population aged 15 years and over by number of live-born children"
 }

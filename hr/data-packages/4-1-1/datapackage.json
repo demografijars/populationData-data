@@ -21,38 +21,34 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+",
+                "_T",
+                "minor_beneficiaries",
+                "adult_beneficiaries",
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "Type_of_user"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
+                "_T",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Spol"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -61,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Nasilje nad ženama nakon navršenih 15 godina života (bilo kad)"
+  "title": "Korisnici socijalne skrbi prema vrsti korisnika"
 }

@@ -11,18 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "F",
+                "M"
               ]
             },
-            "title": "Administrative area"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-4",
-  "title": "Sex ratio at birth"
+  "title": "Average age at first marriage by sex"
 }

@@ -16,27 +16,25 @@
             "title": "Година"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1",
+                "2",
+                ""
+              ]
+            },
+            "title": "Старосна доб"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Вриједност"
           }
         ]
@@ -45,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-8-1",
-  "title": "Брак"
+  "title": "Процјене становништва према старости и полу"
 }

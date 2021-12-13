@@ -16,22 +16,36 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupan omjer gospodarske potpore",
+                "Omjer gospodarske potpore mladima",
+                "Omjer gospodarske potpore starijim osobama",
+                "Omjer starijih i mladih",
+                ""
+              ]
+            },
+            "title": "Tip odnosa zavisnosti"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -44,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-6",
-  "title": "Projicirana sirova stopa mortaliteta"
+  "title": "Koeficijenti ovisnosti prema spolu"
 }

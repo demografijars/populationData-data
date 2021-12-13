@@ -18,10 +18,24 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Old-age support ratio",
+                "Older persons to youth ratio",
+                "Total support ratio",
+                "Young-age support ratio"
+              ]
+            },
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
@@ -44,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-6",
-  "title": "Projected crude death rate"
+  "title": "Dependency ratios by sex"
 }

@@ -21,19 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Federacija BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
@@ -44,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-4",
-  "title": "Doktori medicine u javnim ustanovama na 100.000 stanovnika"
+  "title": "Broj doktora medicine zaposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
 }

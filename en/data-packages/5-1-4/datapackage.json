@@ -11,31 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75+",
-                "All"
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -43,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -62,6 +37,26 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021"
+              ]
+            },
+            "title": "School year"
           }
         ]
       }
@@ -69,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-4",
-  "title": "Illiterate population over 10 years of age by age groups and sex"
+  "title": "Childcare workers in preschool institutions by sex"
 }

@@ -31,7 +31,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Population by age and sex"
+  "title": "Vital statistics by sex (live births, deaths, natural change)"
 }

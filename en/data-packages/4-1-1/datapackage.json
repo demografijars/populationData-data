@@ -11,34 +11,30 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "F",
+                "M",
+                "Total"
               ]
             },
-            "title": "Administrative area"
+            "title": "Sex"
           },
           {
-            "name": "AGE",
+            "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "15+",
-                "18-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65+"
+                "Total",
+                "Adult beneficiaries",
+                "Minor beneficiaries"
               ]
             },
-            "title": "Age"
+            "title": "Type_of_user"
           },
           {
             "name": "UNIT_MEASURE",
@@ -47,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -61,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Violence against women after the age of 15 (ever)"
+  "title": "Social protection beneficiaries by type of beneficiary"
 }

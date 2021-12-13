@@ -12,34 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Godina"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "13 - 14",
-                "15 - 19",
-                ""
-              ]
-            },
-            "title": "Starosna dob"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
           },
           {
             "name": "UNIT_MEASURE",
@@ -48,7 +22,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -57,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-5",
-  "title": "Porođaj majki u tinejdžerskoj dobi, prema dobnoj skupini"
+  "title": "Prosječna dob prilikom razvoda braka prema spolu"
 }

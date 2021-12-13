@@ -11,18 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Brčko District of BiH",
-                "BiH",
-                "Federation of BiH",
-                "Republika Srpska"
+                "1",
+                "2"
               ]
             },
-            "title": "Administrative area"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
@@ -31,7 +29,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -45,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-8-1",
-  "title": "Marriages"
+  "title": "Population estimates by age and sex"
 }

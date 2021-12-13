@@ -35,7 +35,7 @@
                 "",
                 "F",
                 "M",
-                "Both sexes"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -61,5 +61,5 @@
   ],
   "profile": "data-package",
   "name": "3-7-1",
-  "title": "Persons with disabilities by age groups and sex"
+  "title": "Other"
 }

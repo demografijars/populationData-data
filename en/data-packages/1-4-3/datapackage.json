@@ -11,23 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0-15",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "50+"
+                "F",
+                "M",
+                "Total"
               ]
             },
-            "title": "Age"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -50,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-3",
-  "title": "Age-specific fertility rate"
+  "title": "Average age at death by sex"
 }

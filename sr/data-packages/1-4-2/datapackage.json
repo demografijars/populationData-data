@@ -21,15 +21,16 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
+                "M",
+                "Ж",
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "Пол"
           },
           {
             "name": "Value",
@@ -42,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-2",
-  "title": "Укупна стопа фертилитета"
+  "title": "Просјечна старост становништва према полу"
 }

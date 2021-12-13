@@ -25,25 +25,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "_T",
                 ""
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
           },
           {
             "name": "Value",
@@ -56,5 +42,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-4",
-  "title": "Stopa mrtvorođenih"
+  "title": "Mrtvorođeni prema spolu"
 }

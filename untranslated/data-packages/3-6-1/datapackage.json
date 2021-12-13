@@ -23,22 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "modern_methods",
                 "all_methods",
                 "traditional_methods",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FBIH",
-                "RS",
-                "BiH",
-                "BD",
+                "modern_methods",
                 ""
               ]
             }

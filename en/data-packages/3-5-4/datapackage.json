@@ -11,19 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Brčko District of BiH",
-                "Federation of BiH",
-                "Republika Srpska"
-              ]
-            },
-            "title": "Administrative area"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -44,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-4",
-  "title": "Medical doctors in public institutions per 100,000 population"
+  "title": "Medical doctors employed in health care institutions per 100,000 population"
 }

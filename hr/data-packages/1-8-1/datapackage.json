@@ -16,27 +16,25 @@
             "title": "Godina"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1",
+                "2",
+                ""
+              ]
+            },
+            "title": "Starosna dob"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -45,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-8-1",
-  "title": "Brak"
+  "title": "Procjene stanovništva prema dobi i spolu"
 }

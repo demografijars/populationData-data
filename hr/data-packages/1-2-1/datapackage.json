@@ -21,48 +21,8 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Živorođeni",
-                "Smrtni slučajevi",
-                "Prirodno kretanje",
-                ""
-              ]
-            },
-            "title": "Vitalna statistika"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
@@ -71,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Vitalna statistika prema spolu"
+  "title": "Stopa nataliteta"
 }

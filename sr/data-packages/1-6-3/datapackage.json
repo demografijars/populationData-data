@@ -16,40 +16,13 @@
             "title": "Година"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Оба пола",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Федерација БиХ",
-                "Република Српска",
-                "Брчко дистрикт БиХ",
-                ""
-              ]
-            },
-            "title": "Административно подручје"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -58,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-6-3",
-  "title": "Смртност дојенчади (до навршене прве године живота)"
+  "title": "Разведени бракови"
 }

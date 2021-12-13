@@ -25,27 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Suvremene metode",
                 "Sve metode",
                 "Tradicionalne metode",
+                "Suvremene metode",
                 ""
               ]
             },
             "title": "Metoda"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Federacija BiH",
-                "Republika Srpska",
-                "BiH",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
           },
           {
             "name": "Value",

@@ -11,50 +11,52 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Advanced schools / faculty / academy / university",
-                "Higher school and first grade of faculty",
-                "Incomplete primary education",
-                "No education",
-                "Post-secondary school specialisation",
-                "Primary school",
-                "Secondary school",
-                "Unknown"
-              ]
-            },
-            "title": "Educational level"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Both sexes"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "school_year",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2011/2012",
+                "2012/2013",
+                "2013/2014",
+                "2014/2015",
+                "2015/2016",
+                "2016/2017",
+                "2017/2018",
+                "2018/2019",
+                "2019/2020",
+                "2020/2021"
+              ]
+            },
+            "title": "School year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       }
@@ -62,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-1",
-  "title": "Population over 15 years of age by educational attainment and sex"
+  "title": "Preschool institutions by ownership"
 }

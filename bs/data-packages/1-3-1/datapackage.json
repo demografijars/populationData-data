@@ -21,47 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupan omjer ekonomske podrške",
-                "Omjer ekonomske podrške mladima",
-                "Omjer ekonomske podrške starijim osobama",
-                "Omjer starijih i mladih",
-                ""
-              ]
-            },
-            "title": "Tip odnosa zavisnosti"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Oba spola",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
@@ -72,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1",
-  "title": "Omjer zavisnosti prema spolu"
+  "title": "Stopa mortaliteta"
 }

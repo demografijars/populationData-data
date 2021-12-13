@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "ADMIN_AREA",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
-                ""
-              ]
-            },
-            "title": "Administrativna oblast"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
@@ -36,7 +22,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Vrijednost"
           }
         ]
@@ -45,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-8-2",
-  "title": "Stopa sklapanja braka"
+  "title": "Procjene stanovništva prema dobnim skupinama i spolu"
 }

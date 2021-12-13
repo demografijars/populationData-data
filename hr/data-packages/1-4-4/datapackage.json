@@ -16,23 +16,21 @@
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "BiH",
-                "Federacija BiH",
-                "Republika Srpska",
-                "Brčko distrikt BiH",
+                "M",
+                "Ž",
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Spol"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
@@ -45,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-4",
-  "title": "Odnos spolova pri rođenju"
+  "title": "Prosječna dob prilikom sklapanja prvog braka prema spolu"
 }

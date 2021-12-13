@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Oba spola",
+                "_T",
                 "M",
                 "Ž",
                 ""
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Stanovništvo prema dobi i spolu"
+  "title": "Vitalna statistika prema spolu (živorođeni, umrli i prirodni priraštaj)"
 }

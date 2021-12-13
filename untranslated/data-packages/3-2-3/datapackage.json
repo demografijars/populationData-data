@@ -19,18 +19,6 @@
             "type": "string"
           },
           {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BiH",
-                "RS",
-                "FBIH",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -40,5 +28,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-3",
-  "title": "3-2-3"
+  "title": "global_indicators.3-2-3-title"
 }
