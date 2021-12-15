@@ -25,12 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Performing_agricultural_activity",
-                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
+                "Obavljanje poljoprivredne djelatnosti",
+                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na pijaci",
                 ""
               ]
             },
-            "title": "AGRICULTURAL_ACTIVITY"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",

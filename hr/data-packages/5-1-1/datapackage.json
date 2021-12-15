@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "public",
-                "private",
+                "Ukupno",
+                "Javna",
+                "Privatna",
                 ""
               ]
             },
-            "title": "type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",

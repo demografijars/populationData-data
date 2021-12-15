@@ -38,20 +38,20 @@
                 ""
               ]
             },
-            "title": "school_year_end"
+            "title": "Kraj školske godine"
           },
           {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "gymnasium",
-                "technical_schools",
-                "art_schools",
-                "religion_schools",
-                "vocational_schools",
-                "high_schools_for_children_with_special_needs",
+                "Ukupno",
+                "Gimnazija",
+                "Tehničke škole",
+                "Škole umjetnosti",
+                "Vjerske škole",
+                "Strukovne škole",
+                "Srednje škole za djecu s posebnim potrebama",
                 ""
               ]
             },
@@ -62,7 +62,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""

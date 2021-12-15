@@ -27,7 +27,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -77,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -106,7 +106,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -134,11 +134,11 @@
                 "7",
                 "8",
                 "9",
-                "10_and_more",
+                "10 i više",
                 ""
               ]
             },
-            "title": "LIVE_BORN_CHILDREN"
+            "title": "Živorođena djeca"
           },
           {
             "name": "Value",
@@ -169,7 +169,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -284,7 +284,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -302,17 +302,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "No_education",
-                "Incomplete_primary_education",
-                "Primary_school",
+                "Neobrazovan",
+                "Nezavršeno osnovno obrazovanje",
+                "Osnovna škola",
                 "Secondary_school",
-                "Post-secondary_school_specialization",
-                "High_school_and_first_grade_of_faculty",
-                "Advanced_schools_faculty_academy_university",
+                "Specijalizacija nakon završene srednje škole",
+                "Srednja škola i prva godina fakulteta",
+                "Napredne škole /fakultet/akademija/univerzitet",
                 ""
               ]
             },
-            "title": "Highest_education_atainment"
+            "title": "Najviši dostignuti stepen obrazovanja"
           },
           {
             "name": "Value",
@@ -372,7 +372,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -506,12 +506,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Performing_agricultural_activity",
-                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
+                "Obavljanje poljoprivredne djelatnosti",
+                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na pijaci",
                 ""
               ]
             },
-            "title": "AGRICULTURAL_ACTIVITY"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
@@ -586,7 +586,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1005,7 +1005,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -1152,7 +1152,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1241,11 +1241,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "homes_for_children_and_youth_without_parental_care",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "social_welfare_institutions_for_adults_with_disabilities",
-                "social_welfare_institutions_for_adults",
+                "Ukupno",
+                "Domovi za djecu i mlade bez roditeljskog staranja",
+                "Ustanove socijalne zaštite za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",
+                "Ustanove socijalne zaštite za odrasle osobe s invaliditetom",
+                "Ustanove socijalne zaštite za odrasle",
                 ""
               ]
             },
@@ -1256,7 +1256,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1356,7 +1356,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1540,7 +1540,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1792,13 +1792,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "gymnasium",
-                "technical_schools",
-                "art_schools",
-                "religion_schools",
-                "vocational_schools",
-                "high_schools_for_children_with_special_needs",
+                "Ukupno",
+                "Gimnazija",
+                "Tehničke škole",
+                "Škole umjetnosti",
+                "Vjerske škole",
+                "Škole za stručno obrazovanje",
+                "Srednje škole za djecu s posebnim potrebama",
                 ""
               ]
             },
@@ -1809,7 +1809,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2023,7 +2023,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2065,7 +2065,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2194,7 +2194,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -2229,7 +2229,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2365,7 +2365,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2407,9 +2407,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "minor_beneficiaries",
-                "adult_beneficiaries",
+                "Ukupno",
+                "Maloljetni korisnici",
+                "Odrasli korisnici",
                 ""
               ]
             },
@@ -2420,7 +2420,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2457,7 +2457,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2475,28 +2475,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosniak",
+                "Bošnjački",
                 "Serb",
                 "Croat ",
-                "Bosnian",
-                "Romani",
-                "Muslim",
-                "Bosnian_and_Herzegovinian",
-                "Albanian",
+                "Bosanski",
+                "Romski",
+                "Muslimanska",
+                "Bosansko-hercegovačka",
+                "Albanski",
                 "Yugoslav",
                 "Ukrainian",
                 "Montenegrin",
                 "Turk",
                 "Slovenian",
-                "Orthodox",
+                "Pravoslavna",
                 "Macedonian ",
-                "Others",
-                "Undeclared",
+                "Drugo",
+                "Neopredijeljen",
                 "Unknown",
                 ""
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Etnička/nacionalna pripadnost"
           },
           {
             "name": "Value",
@@ -2527,7 +2527,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2546,29 +2546,29 @@
             "constraints": {
               "enum": [
                 "Islam",
-                "Orthodox",
-                "Catholic",
-                "Muslim",
-                "Roman_Catholic",
-                "Serbian",
-                "jehovah_s_witnesses",
-                "Greek_Catholic",
-                "Protestant",
-                "Romani",
-                "Christian",
-                "Bosniak",
-                "Croat",
+                "Pravoslavna",
+                "Katolička",
+                "Muslimanska",
+                "Rimokatolička",
+                "Srpski",
+                "Jehovini svjedoci",
+                "Grkokatolička",
+                "Protestantska",
+                "Romski",
+                "Kršćanska",
+                "Bošnjački",
+                "Hrvat",
                 "Adventist",
-                "Bosnian",
-                "Agnostic",
-                "Atheist",
-                "Others",
-                "Undeclared",
+                "Bosanski",
+                "Agnostik",
+                "Ateist",
+                "Drugo",
+                "Neopredijeljen",
                 "Unknown",
                 ""
               ]
             },
-            "title": "Religion"
+            "title": "Religija"
           },
           {
             "name": "Value",
@@ -2604,7 +2604,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2662,11 +2662,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "homes_for_children_and_youth_without_parental_care",
-                "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
-                "social_welfare_institutions_for_adults_with_disabilities",
-                "social_welfare_institutions_for_adults",
+                "Ukupno",
+                "Domovi za djecu i mlade bez roditeljskog staranja",
+                "Ustanove socijalne zaštite za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",
+                "Ustanove socijalne zaštite za odrasle osobe s invaliditetom",
+                "Ustanove socijalne zaštite za odrasle",
                 ""
               ]
             },
@@ -2677,7 +2677,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2714,7 +2714,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2793,7 +2793,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -2847,7 +2847,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2959,7 +2959,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3317,7 +3317,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3427,7 +3427,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3527,7 +3527,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3598,7 +3598,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3722,7 +3722,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3837,7 +3837,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3908,7 +3908,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4168,9 +4168,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "minor_beneficiaries",
-                "adult_beneficiaries",
+                "Ukupno",
+                "Maloljetni korisnici",
+                "Odrasli korisnici",
                 ""
               ]
             },
@@ -4542,13 +4542,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "public",
-                "private",
+                "Ukupno",
+                "Javna",
+                "Privatna",
                 ""
               ]
             },
-            "title": "type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",
@@ -4584,7 +4584,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4621,7 +4621,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4705,7 +4705,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4764,7 +4764,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4806,7 +4806,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4825,27 +4825,27 @@
             "constraints": {
               "enum": [
                 "Bosnian ",
-                "Serbian",
-                "Croatian",
-                "Serbo_Croatian",
-                "Romani",
-                "Albanian",
-                "Bosnian_Croatian_Serbian",
-                "Turkish",
-                "Croato_Serbian",
-                "Bosniak",
-                "Ukranian",
-                "Bosnian_Serbian_Croatian",
-                "Bosnian_Croatian",
-                "Bosnian_Herzegovinian",
-                "German",
+                "Srpski",
+                "Hrvatski",
+                "Srpsko-hrvatski",
+                "Romski",
+                "Albanski",
+                "Bosanski-hrvatski-srpski",
+                "Turski",
+                "Hrvatsko-srpski",
+                "Bošnjački",
+                "Ukrajinski",
+                "Bosanski-srpski-hrvatski",
+                "Bosanski-hrvatski",
+                "Bosansko-hercegovački",
+                "Njemački",
                 "Other",
                 "Unknown",
                 "Serbo_Croatian ",
                 ""
               ]
             },
-            "title": "Mother_tongue"
+            "title": "Maternji jezik"
           },
           {
             "name": "Value",
@@ -4922,7 +4922,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -5027,7 +5027,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -5125,7 +5125,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5209,20 +5209,20 @@
                 ""
               ]
             },
-            "title": "school_year_end"
+            "title": "Kraj školske godine"
           },
           {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "gymnasium",
-                "technical_schools",
-                "art_schools",
-                "religion_schools",
-                "vocational_schools",
-                "high_schools_for_children_with_special_needs",
+                "Ukupno",
+                "Gimnazija",
+                "Tehničke škole",
+                "Škole umjetnosti",
+                "Vjerske škole",
+                "Škole za stručno obrazovanje",
+                "Srednje škole za djecu s posebnim potrebama",
                 ""
               ]
             },
@@ -5233,7 +5233,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5270,7 +5270,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5289,7 +5289,7 @@
             "constraints": {
               "enum": [
                 "Literate ",
-                "Illiterate",
+                "Nepismen",
                 ""
               ]
             },
@@ -5329,7 +5329,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5366,7 +5366,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""

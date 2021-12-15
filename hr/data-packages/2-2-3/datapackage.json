@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -39,27 +39,27 @@
             "constraints": {
               "enum": [
                 "Bosnian ",
-                "Serbian",
-                "Croatian",
-                "Serbo_Croatian",
-                "Romani",
-                "Albanian",
-                "Bosnian_Croatian_Serbian",
-                "Turkish",
-                "Croato_Serbian",
-                "Bosniak",
-                "Ukranian",
-                "Bosnian_Serbian_Croatian",
-                "Bosnian_Croatian",
-                "Bosnian_Herzegovinian",
-                "German",
+                "Srpski",
+                "Hrvatski",
+                "Srpsko-hrvatski",
+                "Romski",
+                "Albanski",
+                "Bosanski_hrvatski_srpski",
+                "Turski",
+                "Hrvatsko-srpski",
+                "Bošnjački",
+                "Ukrajinski",
+                "Bosanski-srpski-hrvatski",
+                "Bosanski-hrvatski",
+                "Bosansko-hercegovački",
+                "Njemački",
                 "Other",
                 "Unknown",
                 "Serbo_Croatian ",
                 ""
               ]
             },
-            "title": "Mother_tongue"
+            "title": "Materinski jezik"
           },
           {
             "name": "Value",
