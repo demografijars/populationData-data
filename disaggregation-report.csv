@@ -1,5 +1,5 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,16,179
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,16,178
 AGRICULTURAL_ACTIVITY,Agricultural activity,Poljoprivredna aktivnost,AGRICULTURAL_ACTIVITY,Poljoprivredna aktivnost,1,2
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,22
@@ -16,7 +16,7 @@ PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religija,Religion,Religija,1,20
 school_year_end,End of the school year,Kraj školske godine,school_year_end,Kraj školske godine,1,10
 SEX,Sex,Spol,Пол,Spol,52,4
-Teritory,Teritory,Teritory,Teritory,Teritory,1,65
+Teritory,Teritory,Teritory,Teritory,Teritory,2,74
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 type_of_institution,Type of institution,Vrsta ustanove,type_of_institution,Vrsta ustanove,1,3
