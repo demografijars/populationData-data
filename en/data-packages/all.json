@@ -4602,6 +4602,124 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0-4",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "5-9",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90+",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BERKOVICI",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "CAJNICE",
+                "CELINAC",
+                "DONJI ZABAR",
+                "FOCA",
+                "GACKO",
+                "GRAD BANJA LUKA",
+                "GRAD BIJELJINA",
+                "GRAD DERVENTA",
+                "GRAD DOBOJ",
+                "GRAD GRADISKA",
+                "GRAD ISTOCNO SARAJEVO",
+                "GRAD PRIJEDOR",
+                "GRAD TREBINJE",
+                "GRAD ZVORNIK",
+                "HAN PIJESAK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNO NOVO SARAJEVO",
+                "ISTOČNI STARI GRAD",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KOZARSKA DUBICA",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LJUBINJE",
+                "LOPARE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRNJAVOR",
+                "REPUBLIKA SRPSKA",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "STANARI",
+                "TESLIC",
+                "TRNOVO",
+                "UGLJEVIK",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE"
+              ]
+            },
+            "title": "Teritory"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -4613,7 +4731,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
