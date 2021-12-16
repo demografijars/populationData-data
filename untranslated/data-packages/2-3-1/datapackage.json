@@ -15,29 +15,112 @@
             "type": "integer"
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
             "type": "string",
             "constraints": {
               "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "one_member",
+                "two_members",
+                "three_members",
+                "four_members",
+                "5+",
+                "average_number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

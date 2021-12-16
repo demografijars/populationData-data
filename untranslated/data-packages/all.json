@@ -109,21 +109,99 @@
             "type": "string"
           },
           {
-            "name": "LIVE_BORN_CHILDREN",
+            "name": "Teritory",
             "type": "string",
             "constraints": {
               "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Live births",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
                 "did_not_give_birth",
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "10_and_more",
+                "one_child",
+                "two_children",
+                "three_children",
+                "four_children",
+                "5+",
                 ""
               ]
             }
@@ -258,6 +336,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -270,28 +424,25 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Highest_education_atainment",
+            "name": "Education",
             "type": "string",
             "constraints": {
               "enum": [
-                "No_education",
-                "Incomplete_primary_education",
-                "Primary_school",
-                "Secondary_school",
-                "Post-secondary_school_specialization",
-                "High_school_and_first_grade_of_faculty",
-                "Advanced_schools_faculty_academy_university",
+                "_T",
+                "no_education",
+                "incomplete_elementary",
+                "elementary_education",
+                "secondary_education",
+                "secondary_specialization",
+                "first_degree",
+                "university_degree",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -459,12 +610,85 @@
             "type": "string"
           },
           {
-            "name": "AGRICULTURAL_ACTIVITY",
+            "name": "Teritory",
             "type": "string",
             "constraints": {
               "enum": [
-                "Performing_agricultural_activity",
-                "Performing_agricultural_activity_and_selling_agricultural_products_in_the_market",
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Agricultural households",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "agricultural_households",
+                "agricultural_selling",
                 ""
               ]
             }
@@ -1153,29 +1377,112 @@
             "type": "integer"
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
             "type": "string",
             "constraints": {
               "enum": [
-                "single_household",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5_members",
-                "6_members",
-                "7_members",
-                "8+_members",
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "one_member",
+                "two_members",
+                "three_members",
+                "four_members",
+                "5+",
+                "average_number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2237,6 +2544,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -2249,39 +2632,24 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Ethnicity_national_affiliation",
+            "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosniak",
-                "Serb",
-                "Croat ",
-                "Bosnian",
-                "Romani",
-                "Muslim",
-                "Bosnian_and_Herzegovinian",
-                "Albanian",
-                "Yugoslav",
-                "Ukrainian",
-                "Montenegrin",
-                "Turk",
-                "Slovenian",
-                "Orthodox",
-                "Macedonian ",
-                "Others",
-                "Undeclared",
-                "Unknown",
+                "_T",
+                "bosniaks",
+                "croats",
+                "serbs",
+                "other",
+                "does_not_declare",
+                "unknown",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -2302,6 +2670,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -2314,41 +2758,26 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Religion",
             "type": "string",
             "constraints": {
               "enum": [
-                "Islam",
-                "Orthodox",
-                "Catholic",
-                "Muslim",
-                "Roman_Catholic",
-                "Serbian",
-                "jehovah_s_witnesses",
-                "Greek_Catholic",
-                "Protestant",
-                "Romani",
-                "Christian",
-                "Bosniak",
-                "Croat",
-                "Adventist",
-                "Bosnian",
-                "Agnostic",
-                "Atheist",
-                "Others",
-                "Undeclared",
-                "Unknown",
+                "_T",
+                "islam",
+                "catholic",
+                "ortodox",
+                "agnostic",
+                "atheist",
+                "other",
+                "does_not_declare",
+                "unknown",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
@@ -4390,6 +4819,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4402,28 +4907,26 @@
             }
           },
           {
-            "name": "AGE",
+            "name": "Disabilities",
             "type": "string",
             "constraints": {
               "enum": [
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+",
+                "_T",
+                "disabilities_T",
+                "eyesight",
+                "hearing",
+                "walking",
+                "memory",
+                "dressing",
+                "communication",
+                "more_disabilities",
                 ""
               ]
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -4482,6 +4985,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4494,32 +5073,16 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
-            "name": "Mother_tongue",
+            "name": "Mother tounge",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosnian ",
-                "Serbian",
-                "Croatian",
-                "Serbo_Croatian",
-                "Romani",
-                "Albanian",
-                "Bosnian_Croatian_Serbian",
-                "Turkish",
-                "Croato_Serbian",
-                "Bosniak",
-                "Ukranian",
-                "Bosnian_Serbian_Croatian",
-                "Bosnian_Croatian",
-                "Bosnian_Herzegovinian",
-                "German",
-                "Other",
-                "Unknown",
-                "Serbo_Croatian ",
+                "_T",
+                "bosnian",
+                "croatian",
+                "serbian",
+                "other",
+                "unknown",
                 ""
               ]
             }
@@ -4945,6 +5508,82 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -4957,23 +5596,21 @@
             }
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string"
-          },
-          {
             "name": "Literacy",
             "type": "string",
             "constraints": {
               "enum": [
-                "Literate ",
-                "Illiterate",
+                "_T",
+                "illiterate",
+                "illiterates_percentage",
+                "unknown",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },

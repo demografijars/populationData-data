@@ -1,43 +1,1694 @@
-Year,Sex,Age,UNIT_MEASURE,Value
-2013,Both sexes,0-14,Number,4525.0
-2013,Both sexes,15-19,Number,2886.0
-2013,Both sexes,20-29,Number,6398.0
-2013,Both sexes,30-49,Number,40196.0
-2013,Both sexes,50-59,Number,57495.0
-2013,Both sexes,60-64,Number,34559.0
-2013,Both sexes,65+,Number,147999.0
-2013,Both sexes,0-14,% of total,1.538812071
-2013,Both sexes,15-19,% of total,0.981439036
-2013,Both sexes,20-29,% of total,2.175761244
-2013,Both sexes,30-49,% of total,13.66941216
-2013,Both sexes,50-59,% of total,19.5522652
-2013,Both sexes,60-64,% of total,11.7524434
-2013,Both sexes,65+,% of total,50.3298669
-2013,M,0-14,Number,2606.0
-2013,M,15-19,Number,1641.0
-2013,M,20-29,Number,3821.0
-2013,M,30-49,Number,25762.0
-2013,M,50-59,Number,30653.0
-2013,M,60-64,Number,16157.0
-2013,M,65+,Number,52335.0
-2013,M,0-14,% of total,1.959766873
-2013,M,15-19,% of total,1.234066554
-2013,M,20-29,% of total,2.873472457
-2013,M,30-49,% of total,19.37356646
-2013,M,50-59,% of total,23.05170145
-2013,M,60-64,% of total,12.15040421
-2013,M,65+,% of total,39.357022
-2013,F,0-14,Number,1919.0
-2013,F,15-19,Number,1245.0
-2013,F,20-29,Number,2577.0
-2013,F,30-49,Number,14434.0
-2013,F,50-59,Number,26842.0
-2013,F,60-64,Number,18402.0
-2013,F,65+,Number,95664.0
-2013,F,0-14,% of total,1.191311312
-2013,F,15-19,% of total,0.772893477
-2013,F,20-29,% of total,1.599796378
-2013,F,30-49,% of total,8.960597953
-2013,F,50-59,% of total,16.66345921
-2013,F,60-64,% of total,11.42392431
-2013,F,65+,% of total,59.38801736
+Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
+2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1170342
+2013,Number,REPUBLIKA SRPSKA,M,Total,571812
+2013,Number,REPUBLIKA SRPSKA,F,Total,598530
+2013,Number,BANJA LUKA,Both sexes,Total,180053
+2013,Number,BANJA LUKA,M,Total,86510
+2013,Number,BANJA LUKA,F,Total,93543
+2013,Number,BERKOVICI,Both sexes,Total,2041
+2013,Number,BERKOVICI,M,Total,1032
+2013,Number,BERKOVICI,F,Total,1009
+2013,Number,BIJELJINA,Both sexes,Total,103874
+2013,Number,BIJELJINA,M,Total,50760
+2013,Number,BIJELJINA,F,Total,53114
+2013,Number,BILECA,Both sexes,Total,10607
+2013,Number,BILECA,M,Total,5346
+2013,Number,BILECA,F,Total,5261
+2013,Number,BRATUNAC,Both sexes,Total,18651
+2013,Number,BRATUNAC,M,Total,9210
+2013,Number,BRATUNAC,F,Total,9441
+2013,Number,BROD,Both sexes,Total,15720
+2013,Number,BROD,M,Total,7670
+2013,Number,BROD,F,Total,8050
+2013,Number,VISEGRAD,Both sexes,Total,10118
+2013,Number,VISEGRAD,M,Total,4834
+2013,Number,VISEGRAD,F,Total,5284
+2013,Number,VLASENICA,Both sexes,Total,10657
+2013,Number,VLASENICA,M,Total,5193
+2013,Number,VLASENICA,F,Total,5464
+2013,Number,VUKOSAVLJE,Both sexes,Total,4363
+2013,Number,VUKOSAVLJE,M,Total,2185
+2013,Number,VUKOSAVLJE,F,Total,2178
+2013,Number,GACKO,Both sexes,Total,8710
+2013,Number,GACKO,M,Total,4423
+2013,Number,GACKO,F,Total,4287
+2013,Number,GRADISKA,Both sexes,Total,49196
+2013,Number,GRADISKA,M,Total,23944
+2013,Number,GRADISKA,F,Total,25252
+2013,Number,DERVENTA,Both sexes,Total,25922
+2013,Number,DERVENTA,M,Total,12629
+2013,Number,DERVENTA,F,Total,13293
+2013,Number,DOBOJ,Both sexes,Total,68514
+2013,Number,DOBOJ,M,Total,33222
+2013,Number,DOBOJ,F,Total,35292
+2013,Number,DONJI ZABAR,Both sexes,Total,3669
+2013,Number,DONJI ZABAR,M,Total,1853
+2013,Number,DONJI ZABAR,F,Total,1816
+2013,Number,ZVORNIK,Both sexes,Total,54407
+2013,Number,ZVORNIK,M,Total,26803
+2013,Number,ZVORNIK,F,Total,27604
+2013,Number,ISTOCNA ILIDZA,Both sexes,Total,14437
+2013,Number,ISTOCNA ILIDZA,M,Total,6905
+2013,Number,ISTOCNA ILIDZA,F,Total,7532
+2013,Number,ISTOCNI DRVAR,Both sexes,Total,66
+2013,Number,ISTOCNI DRVAR,M,Total,44
+2013,Number,ISTOCNI DRVAR,F,Total,22
+2013,Number,ISTOCNI MOSTAR,Both sexes,Total,244
+2013,Number,ISTOCNI MOSTAR,M,Total,138
+2013,Number,ISTOCNI MOSTAR,F,Total,106
+2013,Number,ISTOCNI STARI GRAD,Both sexes,Total,1116
+2013,Number,ISTOCNI STARI GRAD,M,Total,552
+2013,Number,ISTOCNI STARI GRAD,F,Total,564
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,Total,10401
+2013,Number,ISTOCNO NOVO SARAJEVO,M,Total,4936
+2013,Number,ISTOCNO NOVO SARAJEVO,F,Total,5465
+2013,Number,JEZERO,Both sexes,Total,1039
+2013,Number,JEZERO,M,Total,534
+2013,Number,JEZERO,F,Total,505
+2013,Number,KALINOVIK,Both sexes,Total,1962
+2013,Number,KALINOVIK,M,Total,950
+2013,Number,KALINOVIK,F,Total,1012
+2013,Number,KNEZEVO,Both sexes,Total,9368
+2013,Number,KNEZEVO,M,Total,4632
+2013,Number,KNEZEVO,F,Total,4736
+2013,Number,KOZARSKA DUBICA,Both sexes,Total,20681
+2013,Number,KOZARSKA DUBICA,M,Total,10094
+2013,Number,KOZARSKA DUBICA,F,Total,10587
+2013,Number,KOSTAJNICA,Both sexes,Total,5645
+2013,Number,KOSTAJNICA,M,Total,2780
+2013,Number,KOSTAJNICA,F,Total,2865
+2013,Number,KOTOR VAROS,Both sexes,Total,18361
+2013,Number,KOTOR VAROS,M,Total,9007
+2013,Number,KOTOR VAROS,F,Total,9354
+2013,Number,KRUPA NA UNI,Both sexes,Total,1560
+2013,Number,KRUPA NA UNI,M,Total,841
+2013,Number,KRUPA NA UNI,F,Total,719
+2013,Number,KUPRES,Both sexes,Total,293
+2013,Number,KUPRES,M,Total,157
+2013,Number,KUPRES,F,Total,136
+2013,Number,LAKTASI,Both sexes,Total,34210
+2013,Number,LAKTASI,M,Total,16905
+2013,Number,LAKTASI,F,Total,17305
+2013,Number,LOPARE,Both sexes,Total,14689
+2013,Number,LOPARE,M,Total,7377
+2013,Number,LOPARE,F,Total,7312
+2013,Number,LJUBINJE,Both sexes,Total,3319
+2013,Number,LJUBINJE,M,Total,1633
+2013,Number,LJUBINJE,F,Total,1686
+2013,Number,MILICI,Both sexes,Total,10445
+2013,Number,MILICI,M,Total,5252
+2013,Number,MILICI,F,Total,5193
+2013,Number,MODRICA,Both sexes,Total,24490
+2013,Number,MODRICA,M,Total,11969
+2013,Number,MODRICA,F,Total,12521
+2013,Number,MRKONJIC GRAD,Both sexes,Total,15926
+2013,Number,MRKONJIC GRAD,M,Total,7660
+2013,Number,MRKONJIC GRAD,F,Total,8266
+2013,Number,NEVESINJE,Both sexes,Total,12542
+2013,Number,NEVESINJE,M,Total,6236
+2013,Number,NEVESINJE,F,Total,6306
+2013,Number,NOVI GRAD,Both sexes,Total,25240
+2013,Number,NOVI GRAD,M,Total,12580
+2013,Number,NOVI GRAD,F,Total,12660
+2013,Number,NOVO GORAZDE,Both sexes,Total,2915
+2013,Number,NOVO GORAZDE,M,Total,1500
+2013,Number,NOVO GORAZDE,F,Total,1415
+2013,Number,OSMACI,Both sexes,Total,5546
+2013,Number,OSMACI,M,Total,2779
+2013,Number,OSMACI,F,Total,2767
+2013,Number,OSTRA LUKA,Both sexes,Total,2705
+2013,Number,OSTRA LUKA,M,Total,1386
+2013,Number,OSTRA LUKA,F,Total,1319
+2013,Number,PALE,Both sexes,Total,20359
+2013,Number,PALE,M,Total,9744
+2013,Number,PALE,F,Total,10615
+2013,Number,PELAGICEVO,Both sexes,Total,4358
+2013,Number,PELAGICEVO,M,Total,2151
+2013,Number,PELAGICEVO,F,Total,2207
+2013,Number,PETROVAC,Both sexes,Total,354
+2013,Number,PETROVAC,M,Total,169
+2013,Number,PETROVAC,F,Total,185
+2013,Number,PETROVO,Both sexes,Total,6317
+2013,Number,PETROVO,M,Total,3043
+2013,Number,PETROVO,F,Total,3274
+2013,Number,PRIJEDOR,Both sexes,Total,80916
+2013,Number,PRIJEDOR,M,Total,39418
+2013,Number,PRIJEDOR,F,Total,41498
+2013,Number,PRNJAVOR,Both sexes,Total,34357
+2013,Number,PRNJAVOR,M,Total,16675
+2013,Number,PRNJAVOR,F,Total,17682
+2013,Number,RIBNIK,Both sexes,Total,5851
+2013,Number,RIBNIK,M,Total,2900
+2013,Number,RIBNIK,F,Total,2951
+2013,Number,ROGATICA,Both sexes,Total,10302
+2013,Number,ROGATICA,M,Total,5053
+2013,Number,ROGATICA,F,Total,5249
+2013,Number,RUDO,Both sexes,Total,7578
+2013,Number,RUDO,M,Total,3840
+2013,Number,RUDO,F,Total,3738
+2013,Number,SOKOLAC,Both sexes,Total,11620
+2013,Number,SOKOLAC,M,Total,5723
+2013,Number,SOKOLAC,F,Total,5897
+2013,Number,SRBAC,Both sexes,Total,16933
+2013,Number,SRBAC,M,Total,8295
+2013,Number,SRBAC,F,Total,8638
+2013,Number,SREBRENICA,Both sexes,Total,11698
+2013,Number,SREBRENICA,M,Total,5714
+2013,Number,SREBRENICA,F,Total,5984
+2013,Number,TESLIC,Both sexes,Total,37236
+2013,Number,TESLIC,M,Total,17894
+2013,Number,TESLIC,F,Total,19342
+2013,Number,TREBINJE,Both sexes,Total,28239
+2013,Number,TREBINJE,M,Total,13760
+2013,Number,TREBINJE,F,Total,14479
+2013,Number,TRNOVO,Both sexes,Total,1983
+2013,Number,TRNOVO,M,Total,953
+2013,Number,TRNOVO,F,Total,1030
+2013,Number,UGLJEVIK,Both sexes,Total,15118
+2013,Number,UGLJEVIK,M,Total,7626
+2013,Number,UGLJEVIK,F,Total,7492
+2013,Number,FOCA,Both sexes,Total,17580
+2013,Number,FOCA,M,Total,8880
+2013,Number,FOCA,F,Total,8700
+2013,Number,HAN PIJESAK,Both sexes,Total,3445
+2013,Number,HAN PIJESAK,M,Total,1632
+2013,Number,HAN PIJESAK,F,Total,1813
+2013,Number,CAJNICE,Both sexes,Total,4679
+2013,Number,CAJNICE,M,Total,2347
+2013,Number,CAJNICE,F,Total,2332
+2013,Number,CELINAC,Both sexes,Total,15117
+2013,Number,CELINAC,M,Total,7477
+2013,Number,CELINAC,F,Total,7640
+2013,Number,SAMAC,Both sexes,Total,16308
+2013,Number,SAMAC,M,Total,7908
+2013,Number,SAMAC,F,Total,8400
+2013,Number,SEKOVICI,Both sexes,Total,6323
+2013,Number,SEKOVICI,M,Total,3103
+2013,Number,SEKOVICI,F,Total,3220
+2013,Number,SIPOVO,Both sexes,Total,9969
+2013,Number,SIPOVO,M,Total,5046
+2013,Number,SIPOVO,F,Total,4923
+2013,Number,REPUBLIKA SRPSKA,Both sexes,disabilities_T,102262
+2013,Number,REPUBLIKA SRPSKA,M,disabilities_T,46720
+2013,Number,REPUBLIKA SRPSKA,F,disabilities_T,55542
+2013,Number,BANJA LUKA,Both sexes,disabilities_T,13450
+2013,Number,BANJA LUKA,M,disabilities_T,6251
+2013,Number,BANJA LUKA,F,disabilities_T,7199
+2013,Number,BERKOVICI,Both sexes,disabilities_T,165
+2013,Number,BERKOVICI,M,disabilities_T,75
+2013,Number,BERKOVICI,F,disabilities_T,90
+2013,Number,BIJELJINA,Both sexes,disabilities_T,8763
+2013,Number,BIJELJINA,M,disabilities_T,3967
+2013,Number,BIJELJINA,F,disabilities_T,4796
+2013,Number,BILECA,Both sexes,disabilities_T,813
+2013,Number,BILECA,M,disabilities_T,339
+2013,Number,BILECA,F,disabilities_T,474
+2013,Number,BRATUNAC,Both sexes,disabilities_T,1534
+2013,Number,BRATUNAC,M,disabilities_T,688
+2013,Number,BRATUNAC,F,disabilities_T,846
+2013,Number,BROD,Both sexes,disabilities_T,1420
+2013,Number,BROD,M,disabilities_T,658
+2013,Number,BROD,F,disabilities_T,762
+2013,Number,VISEGRAD,Both sexes,disabilities_T,1097
+2013,Number,VISEGRAD,M,disabilities_T,422
+2013,Number,VISEGRAD,F,disabilities_T,675
+2013,Number,VLASENICA,Both sexes,disabilities_T,786
+2013,Number,VLASENICA,M,disabilities_T,393
+2013,Number,VLASENICA,F,disabilities_T,393
+2013,Number,VUKOSAVLJE,Both sexes,disabilities_T,472
+2013,Number,VUKOSAVLJE,M,disabilities_T,226
+2013,Number,VUKOSAVLJE,F,disabilities_T,246
+2013,Number,GACKO,Both sexes,disabilities_T,597
+2013,Number,GACKO,M,disabilities_T,261
+2013,Number,GACKO,F,disabilities_T,336
+2013,Number,GRADISKA,Both sexes,disabilities_T,4427
+2013,Number,GRADISKA,M,disabilities_T,1965
+2013,Number,GRADISKA,F,disabilities_T,2462
+2013,Number,DERVENTA,Both sexes,disabilities_T,2529
+2013,Number,DERVENTA,M,disabilities_T,1153
+2013,Number,DERVENTA,F,disabilities_T,1376
+2013,Number,DOBOJ,Both sexes,disabilities_T,7404
+2013,Number,DOBOJ,M,disabilities_T,3292
+2013,Number,DOBOJ,F,disabilities_T,4112
+2013,Number,DONJI ZABAR,Both sexes,disabilities_T,313
+2013,Number,DONJI ZABAR,M,disabilities_T,146
+2013,Number,DONJI ZABAR,F,disabilities_T,167
+2013,Number,ZVORNIK,Both sexes,disabilities_T,4328
+2013,Number,ZVORNIK,M,disabilities_T,2027
+2013,Number,ZVORNIK,F,disabilities_T,2301
+2013,Number,ISTOCNA ILIDZA,Both sexes,disabilities_T,1025
+2013,Number,ISTOCNA ILIDZA,M,disabilities_T,464
+2013,Number,ISTOCNA ILIDZA,F,disabilities_T,561
+2013,Number,ISTOCNI DRVAR,Both sexes,disabilities_T,9
+2013,Number,ISTOCNI DRVAR,M,disabilities_T,5
+2013,Number,ISTOCNI DRVAR,F,disabilities_T,4
+2013,Number,ISTOCNI MOSTAR,Both sexes,disabilities_T,14
+2013,Number,ISTOCNI MOSTAR,M,disabilities_T,4
+2013,Number,ISTOCNI MOSTAR,F,disabilities_T,10
+2013,Number,ISTOCNI STARI GRAD,Both sexes,disabilities_T,100
+2013,Number,ISTOCNI STARI GRAD,M,disabilities_T,42
+2013,Number,ISTOCNI STARI GRAD,F,disabilities_T,58
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,disabilities_T,611
+2013,Number,ISTOCNO NOVO SARAJEVO,M,disabilities_T,276
+2013,Number,ISTOCNO NOVO SARAJEVO,F,disabilities_T,335
+2013,Number,JEZERO,Both sexes,disabilities_T,80
+2013,Number,JEZERO,M,disabilities_T,37
+2013,Number,JEZERO,F,disabilities_T,43
+2013,Number,KALINOVIK,Both sexes,disabilities_T,203
+2013,Number,KALINOVIK,M,disabilities_T,88
+2013,Number,KALINOVIK,F,disabilities_T,115
+2013,Number,KNEZEVO,Both sexes,disabilities_T,933
+2013,Number,KNEZEVO,M,disabilities_T,449
+2013,Number,KNEZEVO,F,disabilities_T,484
+2013,Number,KOZARSKA DUBICA,Both sexes,disabilities_T,2078
+2013,Number,KOZARSKA DUBICA,M,disabilities_T,919
+2013,Number,KOZARSKA DUBICA,F,disabilities_T,1159
+2013,Number,KOSTAJNICA,Both sexes,disabilities_T,475
+2013,Number,KOSTAJNICA,M,disabilities_T,216
+2013,Number,KOSTAJNICA,F,disabilities_T,259
+2013,Number,KOTOR VAROS,Both sexes,disabilities_T,1857
+2013,Number,KOTOR VAROS,M,disabilities_T,865
+2013,Number,KOTOR VAROS,F,disabilities_T,992
+2013,Number,KRUPA NA UNI,Both sexes,disabilities_T,204
+2013,Number,KRUPA NA UNI,M,disabilities_T,93
+2013,Number,KRUPA NA UNI,F,disabilities_T,111
+2013,Number,KUPRES,Both sexes,disabilities_T,49
+2013,Number,KUPRES,M,disabilities_T,27
+2013,Number,KUPRES,F,disabilities_T,22
+2013,Number,LAKTASI,Both sexes,disabilities_T,2445
+2013,Number,LAKTASI,M,disabilities_T,1196
+2013,Number,LAKTASI,F,disabilities_T,1249
+2013,Number,LOPARE,Both sexes,disabilities_T,1612
+2013,Number,LOPARE,M,disabilities_T,791
+2013,Number,LOPARE,F,disabilities_T,821
+2013,Number,LJUBINJE,Both sexes,disabilities_T,197
+2013,Number,LJUBINJE,M,disabilities_T,84
+2013,Number,LJUBINJE,F,disabilities_T,113
+2013,Number,MILICI,Both sexes,disabilities_T,860
+2013,Number,MILICI,M,disabilities_T,392
+2013,Number,MILICI,F,disabilities_T,468
+2013,Number,MODRICA,Both sexes,disabilities_T,2458
+2013,Number,MODRICA,M,disabilities_T,1119
+2013,Number,MODRICA,F,disabilities_T,1339
+2013,Number,MRKONJIC GRAD,Both sexes,disabilities_T,1300
+2013,Number,MRKONJIC GRAD,M,disabilities_T,602
+2013,Number,MRKONJIC GRAD,F,disabilities_T,698
+2013,Number,NEVESINJE,Both sexes,disabilities_T,876
+2013,Number,NEVESINJE,M,disabilities_T,379
+2013,Number,NEVESINJE,F,disabilities_T,497
+2013,Number,NOVI GRAD,Both sexes,disabilities_T,2687
+2013,Number,NOVI GRAD,M,disabilities_T,1179
+2013,Number,NOVI GRAD,F,disabilities_T,1508
+2013,Number,NOVO GORAZDE,Both sexes,disabilities_T,206
+2013,Number,NOVO GORAZDE,M,disabilities_T,101
+2013,Number,NOVO GORAZDE,F,disabilities_T,105
+2013,Number,OSMACI,Both sexes,disabilities_T,513
+2013,Number,OSMACI,M,disabilities_T,234
+2013,Number,OSMACI,F,disabilities_T,279
+2013,Number,OSTRA LUKA,Both sexes,disabilities_T,394
+2013,Number,OSTRA LUKA,M,disabilities_T,205
+2013,Number,OSTRA LUKA,F,disabilities_T,189
+2013,Number,PALE,Both sexes,disabilities_T,1289
+2013,Number,PALE,M,disabilities_T,594
+2013,Number,PALE,F,disabilities_T,695
+2013,Number,PELAGICEVO,Both sexes,disabilities_T,688
+2013,Number,PELAGICEVO,M,disabilities_T,299
+2013,Number,PELAGICEVO,F,disabilities_T,389
+2013,Number,PETROVAC,Both sexes,disabilities_T,16
+2013,Number,PETROVAC,M,disabilities_T,6
+2013,Number,PETROVAC,F,disabilities_T,10
+2013,Number,PETROVO,Both sexes,disabilities_T,944
+2013,Number,PETROVO,M,disabilities_T,399
+2013,Number,PETROVO,F,disabilities_T,545
+2013,Number,PRIJEDOR,Both sexes,disabilities_T,7173
+2013,Number,PRIJEDOR,M,disabilities_T,3333
+2013,Number,PRIJEDOR,F,disabilities_T,3840
+2013,Number,PRNJAVOR,Both sexes,disabilities_T,3309
+2013,Number,PRNJAVOR,M,disabilities_T,1497
+2013,Number,PRNJAVOR,F,disabilities_T,1812
+2013,Number,RIBNIK,Both sexes,disabilities_T,701
+2013,Number,RIBNIK,M,disabilities_T,323
+2013,Number,RIBNIK,F,disabilities_T,378
+2013,Number,ROGATICA,Both sexes,disabilities_T,1012
+2013,Number,ROGATICA,M,disabilities_T,464
+2013,Number,ROGATICA,F,disabilities_T,548
+2013,Number,RUDO,Both sexes,disabilities_T,596
+2013,Number,RUDO,M,disabilities_T,258
+2013,Number,RUDO,F,disabilities_T,338
+2013,Number,SOKOLAC,Both sexes,disabilities_T,944
+2013,Number,SOKOLAC,M,disabilities_T,422
+2013,Number,SOKOLAC,F,disabilities_T,522
+2013,Number,SRBAC,Both sexes,disabilities_T,1526
+2013,Number,SRBAC,M,disabilities_T,714
+2013,Number,SRBAC,F,disabilities_T,812
+2013,Number,SREBRENICA,Both sexes,disabilities_T,1061
+2013,Number,SREBRENICA,M,disabilities_T,447
+2013,Number,SREBRENICA,F,disabilities_T,614
+2013,Number,TESLIC,Both sexes,disabilities_T,3562
+2013,Number,TESLIC,M,disabilities_T,1683
+2013,Number,TESLIC,F,disabilities_T,1879
+2013,Number,TREBINJE,Both sexes,disabilities_T,1860
+2013,Number,TREBINJE,M,disabilities_T,823
+2013,Number,TREBINJE,F,disabilities_T,1037
+2013,Number,TRNOVO,Both sexes,disabilities_T,171
+2013,Number,TRNOVO,M,disabilities_T,70
+2013,Number,TRNOVO,F,disabilities_T,101
+2013,Number,UGLJEVIK,Both sexes,disabilities_T,1179
+2013,Number,UGLJEVIK,M,disabilities_T,532
+2013,Number,UGLJEVIK,F,disabilities_T,647
+2013,Number,FOCA,Both sexes,disabilities_T,1473
+2013,Number,FOCA,M,disabilities_T,725
+2013,Number,FOCA,F,disabilities_T,748
+2013,Number,HAN PIJESAK,Both sexes,disabilities_T,269
+2013,Number,HAN PIJESAK,M,disabilities_T,99
+2013,Number,HAN PIJESAK,F,disabilities_T,170
+2013,Number,CAJNICE,Both sexes,disabilities_T,461
+2013,Number,CAJNICE,M,disabilities_T,208
+2013,Number,CAJNICE,F,disabilities_T,253
+2013,Number,CELINAC,Both sexes,disabilities_T,1672
+2013,Number,CELINAC,M,disabilities_T,800
+2013,Number,CELINAC,F,disabilities_T,872
+2013,Number,SAMAC,Both sexes,disabilities_T,1634
+2013,Number,SAMAC,M,disabilities_T,724
+2013,Number,SAMAC,F,disabilities_T,910
+2013,Number,SEKOVICI,Both sexes,disabilities_T,595
+2013,Number,SEKOVICI,M,disabilities_T,279
+2013,Number,SEKOVICI,F,disabilities_T,316
+2013,Number,SIPOVO,Both sexes,disabilities_T,843
+2013,Number,SIPOVO,M,disabilities_T,391
+2013,Number,SIPOVO,F,disabilities_T,452
+2013,Number,REPUBLIKA SRPSKA,Both sexes,eyesight,43020
+2013,Number,REPUBLIKA SRPSKA,M,eyesight,18052
+2013,Number,REPUBLIKA SRPSKA,F,eyesight,24968
+2013,Number,BANJA LUKA,Both sexes,eyesight,5370
+2013,Number,BANJA LUKA,M,eyesight,2232
+2013,Number,BANJA LUKA,F,eyesight,3138
+2013,Number,BERKOVICI,Both sexes,eyesight,73
+2013,Number,BERKOVICI,M,eyesight,33
+2013,Number,BERKOVICI,F,eyesight,40
+2013,Number,BIJELJINA,Both sexes,eyesight,3450
+2013,Number,BIJELJINA,M,eyesight,1424
+2013,Number,BIJELJINA,F,eyesight,2026
+2013,Number,BILECA,Both sexes,eyesight,375
+2013,Number,BILECA,M,eyesight,159
+2013,Number,BILECA,F,eyesight,216
+2013,Number,BRATUNAC,Both sexes,eyesight,791
+2013,Number,BRATUNAC,M,eyesight,328
+2013,Number,BRATUNAC,F,eyesight,463
+2013,Number,BROD,Both sexes,eyesight,596
+2013,Number,BROD,M,eyesight,252
+2013,Number,BROD,F,eyesight,344
+2013,Number,VISEGRAD,Both sexes,eyesight,409
+2013,Number,VISEGRAD,M,eyesight,162
+2013,Number,VISEGRAD,F,eyesight,247
+2013,Number,VLASENICA,Both sexes,eyesight,372
+2013,Number,VLASENICA,M,eyesight,171
+2013,Number,VLASENICA,F,eyesight,201
+2013,Number,VUKOSAVLJE,Both sexes,eyesight,157
+2013,Number,VUKOSAVLJE,M,eyesight,74
+2013,Number,VUKOSAVLJE,F,eyesight,83
+2013,Number,GACKO,Both sexes,eyesight,245
+2013,Number,GACKO,M,eyesight,107
+2013,Number,GACKO,F,eyesight,138
+2013,Number,GRADISKA,Both sexes,eyesight,1881
+2013,Number,GRADISKA,M,eyesight,754
+2013,Number,GRADISKA,F,eyesight,1127
+2013,Number,DERVENTA,Both sexes,eyesight,1172
+2013,Number,DERVENTA,M,eyesight,476
+2013,Number,DERVENTA,F,eyesight,696
+2013,Number,DOBOJ,Both sexes,eyesight,3265
+2013,Number,DOBOJ,M,eyesight,1332
+2013,Number,DOBOJ,F,eyesight,1933
+2013,Number,DONJI ZABAR,Both sexes,eyesight,122
+2013,Number,DONJI ZABAR,M,eyesight,50
+2013,Number,DONJI ZABAR,F,eyesight,72
+2013,Number,ZVORNIK,Both sexes,eyesight,1920
+2013,Number,ZVORNIK,M,eyesight,842
+2013,Number,ZVORNIK,F,eyesight,1078
+2013,Number,ISTOCNA ILIDZA,Both sexes,eyesight,423
+2013,Number,ISTOCNA ILIDZA,M,eyesight,183
+2013,Number,ISTOCNA ILIDZA,F,eyesight,240
+2013,Number,ISTOCNI DRVAR,Both sexes,eyesight,5
+2013,Number,ISTOCNI DRVAR,M,eyesight,2
+2013,Number,ISTOCNI DRVAR,F,eyesight,3
+2013,Number,ISTOCNI MOSTAR,Both sexes,eyesight,9
+2013,Number,ISTOCNI MOSTAR,M,eyesight,3
+2013,Number,ISTOCNI MOSTAR,F,eyesight,6
+2013,Number,ISTOCNI STARI GRAD,Both sexes,eyesight,49
+2013,Number,ISTOCNI STARI GRAD,M,eyesight,22
+2013,Number,ISTOCNI STARI GRAD,F,eyesight,27
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,eyesight,255
+2013,Number,ISTOCNO NOVO SARAJEVO,M,eyesight,90
+2013,Number,ISTOCNO NOVO SARAJEVO,F,eyesight,165
+2013,Number,JEZERO,Both sexes,eyesight,44
+2013,Number,JEZERO,M,eyesight,18
+2013,Number,JEZERO,F,eyesight,26
+2013,Number,KALINOVIK,Both sexes,eyesight,87
+2013,Number,KALINOVIK,M,eyesight,35
+2013,Number,KALINOVIK,F,eyesight,52
+2013,Number,KNEZEVO,Both sexes,eyesight,355
+2013,Number,KNEZEVO,M,eyesight,159
+2013,Number,KNEZEVO,F,eyesight,196
+2013,Number,KOZARSKA DUBICA,Both sexes,eyesight,788
+2013,Number,KOZARSKA DUBICA,M,eyesight,329
+2013,Number,KOZARSKA DUBICA,F,eyesight,459
+2013,Number,KOSTAJNICA,Both sexes,eyesight,226
+2013,Number,KOSTAJNICA,M,eyesight,104
+2013,Number,KOSTAJNICA,F,eyesight,122
+2013,Number,KOTOR VAROS,Both sexes,eyesight,894
+2013,Number,KOTOR VAROS,M,eyesight,374
+2013,Number,KOTOR VAROS,F,eyesight,520
+2013,Number,KRUPA NA UNI,Both sexes,eyesight,98
+2013,Number,KRUPA NA UNI,M,eyesight,47
+2013,Number,KRUPA NA UNI,F,eyesight,51
+2013,Number,KUPRES,Both sexes,eyesight,12
+2013,Number,KUPRES,M,eyesight,8
+2013,Number,KUPRES,F,eyesight,4
+2013,Number,LAKTASI,Both sexes,eyesight,1042
+2013,Number,LAKTASI,M,eyesight,460
+2013,Number,LAKTASI,F,eyesight,582
+2013,Number,LOPARE,Both sexes,eyesight,691
+2013,Number,LOPARE,M,eyesight,297
+2013,Number,LOPARE,F,eyesight,394
+2013,Number,LJUBINJE,Both sexes,eyesight,82
+2013,Number,LJUBINJE,M,eyesight,36
+2013,Number,LJUBINJE,F,eyesight,46
+2013,Number,MILICI,Both sexes,eyesight,390
+2013,Number,MILICI,M,eyesight,165
+2013,Number,MILICI,F,eyesight,225
+2013,Number,MODRICA,Both sexes,eyesight,990
+2013,Number,MODRICA,M,eyesight,443
+2013,Number,MODRICA,F,eyesight,547
+2013,Number,MRKONJIC GRAD,Both sexes,eyesight,524
+2013,Number,MRKONJIC GRAD,M,eyesight,227
+2013,Number,MRKONJIC GRAD,F,eyesight,297
+2013,Number,NEVESINJE,Both sexes,eyesight,401
+2013,Number,NEVESINJE,M,eyesight,187
+2013,Number,NEVESINJE,F,eyesight,214
+2013,Number,NOVI GRAD,Both sexes,eyesight,1236
+2013,Number,NOVI GRAD,M,eyesight,483
+2013,Number,NOVI GRAD,F,eyesight,753
+2013,Number,NOVO GORAZDE,Both sexes,eyesight,86
+2013,Number,NOVO GORAZDE,M,eyesight,35
+2013,Number,NOVO GORAZDE,F,eyesight,51
+2013,Number,OSMACI,Both sexes,eyesight,243
+2013,Number,OSMACI,M,eyesight,102
+2013,Number,OSMACI,F,eyesight,141
+2013,Number,OSTRA LUKA,Both sexes,eyesight,176
+2013,Number,OSTRA LUKA,M,eyesight,88
+2013,Number,OSTRA LUKA,F,eyesight,88
+2013,Number,PALE,Both sexes,eyesight,492
+2013,Number,PALE,M,eyesight,213
+2013,Number,PALE,F,eyesight,279
+2013,Number,PELAGICEVO,Both sexes,eyesight,310
+2013,Number,PELAGICEVO,M,eyesight,132
+2013,Number,PELAGICEVO,F,eyesight,178
+2013,Number,PETROVAC,Both sexes,eyesight,6
+2013,Number,PETROVAC,M,eyesight,2
+2013,Number,PETROVAC,F,eyesight,4
+2013,Number,PETROVO,Both sexes,eyesight,433
+2013,Number,PETROVO,M,eyesight,178
+2013,Number,PETROVO,F,eyesight,255
+2013,Number,PRIJEDOR,Both sexes,eyesight,2857
+2013,Number,PRIJEDOR,M,eyesight,1209
+2013,Number,PRIJEDOR,F,eyesight,1648
+2013,Number,PRNJAVOR,Both sexes,eyesight,1364
+2013,Number,PRNJAVOR,M,eyesight,564
+2013,Number,PRNJAVOR,F,eyesight,800
+2013,Number,RIBNIK,Both sexes,eyesight,293
+2013,Number,RIBNIK,M,eyesight,137
+2013,Number,RIBNIK,F,eyesight,156
+2013,Number,ROGATICA,Both sexes,eyesight,418
+2013,Number,ROGATICA,M,eyesight,174
+2013,Number,ROGATICA,F,eyesight,244
+2013,Number,RUDO,Both sexes,eyesight,231
+2013,Number,RUDO,M,eyesight,98
+2013,Number,RUDO,F,eyesight,133
+2013,Number,SOKOLAC,Both sexes,eyesight,368
+2013,Number,SOKOLAC,M,eyesight,161
+2013,Number,SOKOLAC,F,eyesight,207
+2013,Number,SRBAC,Both sexes,eyesight,684
+2013,Number,SRBAC,M,eyesight,291
+2013,Number,SRBAC,F,eyesight,393
+2013,Number,SREBRENICA,Both sexes,eyesight,487
+2013,Number,SREBRENICA,M,eyesight,176
+2013,Number,SREBRENICA,F,eyesight,311
+2013,Number,TESLIC,Both sexes,eyesight,1451
+2013,Number,TESLIC,M,eyesight,633
+2013,Number,TESLIC,F,eyesight,818
+2013,Number,TREBINJE,Both sexes,eyesight,736
+2013,Number,TREBINJE,M,eyesight,297
+2013,Number,TREBINJE,F,eyesight,439
+2013,Number,TRNOVO,Both sexes,eyesight,62
+2013,Number,TRNOVO,M,eyesight,25
+2013,Number,TRNOVO,F,eyesight,37
+2013,Number,UGLJEVIK,Both sexes,eyesight,488
+2013,Number,UGLJEVIK,M,eyesight,202
+2013,Number,UGLJEVIK,F,eyesight,286
+2013,Number,FOCA,Both sexes,eyesight,605
+2013,Number,FOCA,M,eyesight,263
+2013,Number,FOCA,F,eyesight,342
+2013,Number,HAN PIJESAK,Both sexes,eyesight,102
+2013,Number,HAN PIJESAK,M,eyesight,36
+2013,Number,HAN PIJESAK,F,eyesight,66
+2013,Number,CAJNICE,Both sexes,eyesight,219
+2013,Number,CAJNICE,M,eyesight,93
+2013,Number,CAJNICE,F,eyesight,126
+2013,Number,CELINAC,Both sexes,eyesight,752
+2013,Number,CELINAC,M,eyesight,313
+2013,Number,CELINAC,F,eyesight,439
+2013,Number,SAMAC,Both sexes,eyesight,679
+2013,Number,SAMAC,M,eyesight,277
+2013,Number,SAMAC,F,eyesight,402
+2013,Number,SEKOVICI,Both sexes,eyesight,307
+2013,Number,SEKOVICI,M,eyesight,130
+2013,Number,SEKOVICI,F,eyesight,177
+2013,Number,SIPOVO,Both sexes,eyesight,372
+2013,Number,SIPOVO,M,eyesight,155
+2013,Number,SIPOVO,F,eyesight,217
+2013,Number,REPUBLIKA SRPSKA,Both sexes,hearing,26055
+2013,Number,REPUBLIKA SRPSKA,M,hearing,12971
+2013,Number,REPUBLIKA SRPSKA,F,hearing,13084
+2013,Number,BANJA LUKA,Both sexes,hearing,3262
+2013,Number,BANJA LUKA,M,hearing,1678
+2013,Number,BANJA LUKA,F,hearing,1584
+2013,Number,BERKOVICI,Both sexes,hearing,48
+2013,Number,BERKOVICI,M,hearing,28
+2013,Number,BERKOVICI,F,hearing,20
+2013,Number,BIJELJINA,Both sexes,hearing,2026
+2013,Number,BIJELJINA,M,hearing,1028
+2013,Number,BIJELJINA,F,hearing,998
+2013,Number,BILECA,Both sexes,hearing,240
+2013,Number,BILECA,M,hearing,122
+2013,Number,BILECA,F,hearing,118
+2013,Number,BRATUNAC,Both sexes,hearing,420
+2013,Number,BRATUNAC,M,hearing,196
+2013,Number,BRATUNAC,F,hearing,224
+2013,Number,BROD,Both sexes,hearing,322
+2013,Number,BROD,M,hearing,168
+2013,Number,BROD,F,hearing,154
+2013,Number,VISEGRAD,Both sexes,hearing,276
+2013,Number,VISEGRAD,M,hearing,128
+2013,Number,VISEGRAD,F,hearing,148
+2013,Number,VLASENICA,Both sexes,hearing,236
+2013,Number,VLASENICA,M,hearing,117
+2013,Number,VLASENICA,F,hearing,119
+2013,Number,VUKOSAVLJE,Both sexes,hearing,107
+2013,Number,VUKOSAVLJE,M,hearing,49
+2013,Number,VUKOSAVLJE,F,hearing,58
+2013,Number,GACKO,Both sexes,hearing,172
+2013,Number,GACKO,M,hearing,80
+2013,Number,GACKO,F,hearing,92
+2013,Number,GRADISKA,Both sexes,hearing,1110
+2013,Number,GRADISKA,M,hearing,525
+2013,Number,GRADISKA,F,hearing,585
+2013,Number,DERVENTA,Both sexes,hearing,655
+2013,Number,DERVENTA,M,hearing,320
+2013,Number,DERVENTA,F,hearing,335
+2013,Number,DOBOJ,Both sexes,hearing,1902
+2013,Number,DOBOJ,M,hearing,925
+2013,Number,DOBOJ,F,hearing,977
+2013,Number,DONJI ZABAR,Both sexes,hearing,81
+2013,Number,DONJI ZABAR,M,hearing,50
+2013,Number,DONJI ZABAR,F,hearing,31
+2013,Number,ZVORNIK,Both sexes,hearing,1157
+2013,Number,ZVORNIK,M,hearing,580
+2013,Number,ZVORNIK,F,hearing,577
+2013,Number,ISTOCNA ILIDZA,Both sexes,hearing,267
+2013,Number,ISTOCNA ILIDZA,M,hearing,123
+2013,Number,ISTOCNA ILIDZA,F,hearing,144
+2013,Number,ISTOCNI DRVAR,Both sexes,hearing,4
+2013,Number,ISTOCNI DRVAR,M,hearing,1
+2013,Number,ISTOCNI DRVAR,F,hearing,3
+2013,Number,ISTOCNI MOSTAR,Both sexes,hearing,7
+2013,Number,ISTOCNI MOSTAR,M,hearing,1
+2013,Number,ISTOCNI MOSTAR,F,hearing,6
+2013,Number,ISTOCNI STARI GRAD,Both sexes,hearing,29
+2013,Number,ISTOCNI STARI GRAD,M,hearing,15
+2013,Number,ISTOCNI STARI GRAD,F,hearing,14
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,hearing,153
+2013,Number,ISTOCNO NOVO SARAJEVO,M,hearing,76
+2013,Number,ISTOCNO NOVO SARAJEVO,F,hearing,77
+2013,Number,JEZERO,Both sexes,hearing,34
+2013,Number,JEZERO,M,hearing,18
+2013,Number,JEZERO,F,hearing,16
+2013,Number,KALINOVIK,Both sexes,hearing,56
+2013,Number,KALINOVIK,M,hearing,25
+2013,Number,KALINOVIK,F,hearing,31
+2013,Number,KNEZEVO,Both sexes,hearing,251
+2013,Number,KNEZEVO,M,hearing,127
+2013,Number,KNEZEVO,F,hearing,124
+2013,Number,KOZARSKA DUBICA,Both sexes,hearing,490
+2013,Number,KOZARSKA DUBICA,M,hearing,237
+2013,Number,KOZARSKA DUBICA,F,hearing,253
+2013,Number,KOSTAJNICA,Both sexes,hearing,123
+2013,Number,KOSTAJNICA,M,hearing,65
+2013,Number,KOSTAJNICA,F,hearing,58
+2013,Number,KOTOR VAROS,Both sexes,hearing,485
+2013,Number,KOTOR VAROS,M,hearing,244
+2013,Number,KOTOR VAROS,F,hearing,241
+2013,Number,KRUPA NA UNI,Both sexes,hearing,59
+2013,Number,KRUPA NA UNI,M,hearing,36
+2013,Number,KRUPA NA UNI,F,hearing,23
+2013,Number,KUPRES,Both sexes,hearing,14
+2013,Number,KUPRES,M,hearing,10
+2013,Number,KUPRES,F,hearing,4
+2013,Number,LAKTASI,Both sexes,hearing,610
+2013,Number,LAKTASI,M,hearing,322
+2013,Number,LAKTASI,F,hearing,288
+2013,Number,LOPARE,Both sexes,hearing,400
+2013,Number,LOPARE,M,hearing,187
+2013,Number,LOPARE,F,hearing,213
+2013,Number,LJUBINJE,Both sexes,hearing,68
+2013,Number,LJUBINJE,M,hearing,33
+2013,Number,LJUBINJE,F,hearing,35
+2013,Number,MILICI,Both sexes,hearing,209
+2013,Number,MILICI,M,hearing,98
+2013,Number,MILICI,F,hearing,111
+2013,Number,MODRICA,Both sexes,hearing,623
+2013,Number,MODRICA,M,hearing,318
+2013,Number,MODRICA,F,hearing,305
+2013,Number,MRKONJIC GRAD,Both sexes,hearing,388
+2013,Number,MRKONJIC GRAD,M,hearing,188
+2013,Number,MRKONJIC GRAD,F,hearing,200
+2013,Number,NEVESINJE,Both sexes,hearing,254
+2013,Number,NEVESINJE,M,hearing,119
+2013,Number,NEVESINJE,F,hearing,135
+2013,Number,NOVI GRAD,Both sexes,hearing,706
+2013,Number,NOVI GRAD,M,hearing,334
+2013,Number,NOVI GRAD,F,hearing,372
+2013,Number,NOVO GORAZDE,Both sexes,hearing,57
+2013,Number,NOVO GORAZDE,M,hearing,31
+2013,Number,NOVO GORAZDE,F,hearing,26
+2013,Number,OSMACI,Both sexes,hearing,144
+2013,Number,OSMACI,M,hearing,71
+2013,Number,OSMACI,F,hearing,73
+2013,Number,OSTRA LUKA,Both sexes,hearing,97
+2013,Number,OSTRA LUKA,M,hearing,65
+2013,Number,OSTRA LUKA,F,hearing,32
+2013,Number,PALE,Both sexes,hearing,318
+2013,Number,PALE,M,hearing,164
+2013,Number,PALE,F,hearing,154
+2013,Number,PELAGICEVO,Both sexes,hearing,167
+2013,Number,PELAGICEVO,M,hearing,74
+2013,Number,PELAGICEVO,F,hearing,93
+2013,Number,PETROVAC,Both sexes,hearing,4
+2013,Number,PETROVAC,M,hearing,1
+2013,Number,PETROVAC,F,hearing,3
+2013,Number,PETROVO,Both sexes,hearing,257
+2013,Number,PETROVO,M,hearing,134
+2013,Number,PETROVO,F,hearing,123
+2013,Number,PRIJEDOR,Both sexes,hearing,1805
+2013,Number,PRIJEDOR,M,hearing,944
+2013,Number,PRIJEDOR,F,hearing,861
+2013,Number,PRNJAVOR,Both sexes,hearing,812
+2013,Number,PRNJAVOR,M,hearing,383
+2013,Number,PRNJAVOR,F,hearing,429
+2013,Number,RIBNIK,Both sexes,hearing,199
+2013,Number,RIBNIK,M,hearing,97
+2013,Number,RIBNIK,F,hearing,102
+2013,Number,ROGATICA,Both sexes,hearing,307
+2013,Number,ROGATICA,M,hearing,150
+2013,Number,ROGATICA,F,hearing,157
+2013,Number,RUDO,Both sexes,hearing,169
+2013,Number,RUDO,M,hearing,83
+2013,Number,RUDO,F,hearing,86
+2013,Number,SOKOLAC,Both sexes,hearing,257
+2013,Number,SOKOLAC,M,hearing,121
+2013,Number,SOKOLAC,F,hearing,136
+2013,Number,SRBAC,Both sexes,hearing,423
+2013,Number,SRBAC,M,hearing,212
+2013,Number,SRBAC,F,hearing,211
+2013,Number,SREBRENICA,Both sexes,hearing,229
+2013,Number,SREBRENICA,M,hearing,109
+2013,Number,SREBRENICA,F,hearing,120
+2013,Number,TESLIC,Both sexes,hearing,881
+2013,Number,TESLIC,M,hearing,435
+2013,Number,TESLIC,F,hearing,446
+2013,Number,TREBINJE,Both sexes,hearing,461
+2013,Number,TREBINJE,M,hearing,227
+2013,Number,TREBINJE,F,hearing,234
+2013,Number,TRNOVO,Both sexes,hearing,46
+2013,Number,TRNOVO,M,hearing,22
+2013,Number,TRNOVO,F,hearing,24
+2013,Number,UGLJEVIK,Both sexes,hearing,257
+2013,Number,UGLJEVIK,M,hearing,117
+2013,Number,UGLJEVIK,F,hearing,140
+2013,Number,FOCA,Both sexes,hearing,430
+2013,Number,FOCA,M,hearing,216
+2013,Number,FOCA,F,hearing,214
+2013,Number,HAN PIJESAK,Both sexes,hearing,68
+2013,Number,HAN PIJESAK,M,hearing,28
+2013,Number,HAN PIJESAK,F,hearing,40
+2013,Number,CAJNICE,Both sexes,hearing,135
+2013,Number,CAJNICE,M,hearing,66
+2013,Number,CAJNICE,F,hearing,69
+2013,Number,CELINAC,Both sexes,hearing,457
+2013,Number,CELINAC,M,hearing,233
+2013,Number,CELINAC,F,hearing,224
+2013,Number,SAMAC,Both sexes,hearing,419
+2013,Number,SAMAC,M,hearing,217
+2013,Number,SAMAC,F,hearing,202
+2013,Number,SEKOVICI,Both sexes,hearing,193
+2013,Number,SEKOVICI,M,hearing,96
+2013,Number,SEKOVICI,F,hearing,97
+2013,Number,SIPOVO,Both sexes,hearing,219
+2013,Number,SIPOVO,M,hearing,104
+2013,Number,SIPOVO,F,hearing,115
+2013,Number,REPUBLIKA SRPSKA,Both sexes,walking,63381
+2013,Number,REPUBLIKA SRPSKA,M,walking,26903
+2013,Number,REPUBLIKA SRPSKA,F,walking,36478
+2013,Number,BANJA LUKA,Both sexes,walking,8456
+2013,Number,BANJA LUKA,M,walking,3667
+2013,Number,BANJA LUKA,F,walking,4789
+2013,Number,BERKOVICI,Both sexes,walking,109
+2013,Number,BERKOVICI,M,walking,45
+2013,Number,BERKOVICI,F,walking,64
+2013,Number,BIJELJINA,Both sexes,walking,5530
+2013,Number,BIJELJINA,M,walking,2356
+2013,Number,BIJELJINA,F,walking,3174
+2013,Number,BILECA,Both sexes,walking,533
+2013,Number,BILECA,M,walking,193
+2013,Number,BILECA,F,walking,340
+2013,Number,BRATUNAC,Both sexes,walking,835
+2013,Number,BRATUNAC,M,walking,372
+2013,Number,BRATUNAC,F,walking,463
+2013,Number,BROD,Both sexes,walking,892
+2013,Number,BROD,M,walking,392
+2013,Number,BROD,F,walking,500
+2013,Number,VISEGRAD,Both sexes,walking,598
+2013,Number,VISEGRAD,M,walking,227
+2013,Number,VISEGRAD,F,walking,371
+2013,Number,VLASENICA,Both sexes,walking,440
+2013,Number,VLASENICA,M,walking,211
+2013,Number,VLASENICA,F,walking,229
+2013,Number,VUKOSAVLJE,Both sexes,walking,286
+2013,Number,VUKOSAVLJE,M,walking,130
+2013,Number,VUKOSAVLJE,F,walking,156
+2013,Number,GACKO,Both sexes,walking,385
+2013,Number,GACKO,M,walking,152
+2013,Number,GACKO,F,walking,233
+2013,Number,GRADISKA,Both sexes,walking,2675
+2013,Number,GRADISKA,M,walking,1074
+2013,Number,GRADISKA,F,walking,1601
+2013,Number,DERVENTA,Both sexes,walking,1590
+2013,Number,DERVENTA,M,walking,695
+2013,Number,DERVENTA,F,walking,895
+2013,Number,DOBOJ,Both sexes,walking,4793
+2013,Number,DOBOJ,M,walking,1953
+2013,Number,DOBOJ,F,walking,2840
+2013,Number,DONJI ZABAR,Both sexes,walking,182
+2013,Number,DONJI ZABAR,M,walking,76
+2013,Number,DONJI ZABAR,F,walking,106
+2013,Number,ZVORNIK,Both sexes,walking,2535
+2013,Number,ZVORNIK,M,walking,1092
+2013,Number,ZVORNIK,F,walking,1443
+2013,Number,ISTOCNA ILIDZA,Both sexes,walking,644
+2013,Number,ISTOCNA ILIDZA,M,walking,267
+2013,Number,ISTOCNA ILIDZA,F,walking,377
+2013,Number,ISTOCNI DRVAR,Both sexes,walking,7
+2013,Number,ISTOCNI DRVAR,M,walking,4
+2013,Number,ISTOCNI DRVAR,F,walking,3
+2013,Number,ISTOCNI MOSTAR,Both sexes,walking,8
+2013,Number,ISTOCNI MOSTAR,M,walking,2
+2013,Number,ISTOCNI MOSTAR,F,walking,6
+2013,Number,ISTOCNI STARI GRAD,Both sexes,walking,53
+2013,Number,ISTOCNI STARI GRAD,M,walking,22
+2013,Number,ISTOCNI STARI GRAD,F,walking,31
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,walking,380
+2013,Number,ISTOCNO NOVO SARAJEVO,M,walking,163
+2013,Number,ISTOCNO NOVO SARAJEVO,F,walking,217
+2013,Number,JEZERO,Both sexes,walking,60
+2013,Number,JEZERO,M,walking,29
+2013,Number,JEZERO,F,walking,31
+2013,Number,KALINOVIK,Both sexes,walking,132
+2013,Number,KALINOVIK,M,walking,54
+2013,Number,KALINOVIK,F,walking,78
+2013,Number,KNEZEVO,Both sexes,walking,568
+2013,Number,KNEZEVO,M,walking,255
+2013,Number,KNEZEVO,F,walking,313
+2013,Number,KOZARSKA DUBICA,Both sexes,walking,1369
+2013,Number,KOZARSKA DUBICA,M,walking,549
+2013,Number,KOZARSKA DUBICA,F,walking,820
+2013,Number,KOSTAJNICA,Both sexes,walking,312
+2013,Number,KOSTAJNICA,M,walking,133
+2013,Number,KOSTAJNICA,F,walking,179
+2013,Number,KOTOR VAROS,Both sexes,walking,1074
+2013,Number,KOTOR VAROS,M,walking,475
+2013,Number,KOTOR VAROS,F,walking,599
+2013,Number,KRUPA NA UNI,Both sexes,walking,112
+2013,Number,KRUPA NA UNI,M,walking,43
+2013,Number,KRUPA NA UNI,F,walking,69
+2013,Number,KUPRES,Both sexes,walking,33
+2013,Number,KUPRES,M,walking,18
+2013,Number,KUPRES,F,walking,15
+2013,Number,LAKTASI,Both sexes,walking,1426
+2013,Number,LAKTASI,M,walking,650
+2013,Number,LAKTASI,F,walking,776
+2013,Number,LOPARE,Both sexes,walking,984
+2013,Number,LOPARE,M,walking,447
+2013,Number,LOPARE,F,walking,537
+2013,Number,LJUBINJE,Both sexes,walking,119
+2013,Number,LJUBINJE,M,walking,48
+2013,Number,LJUBINJE,F,walking,71
+2013,Number,MILICI,Both sexes,walking,508
+2013,Number,MILICI,M,walking,224
+2013,Number,MILICI,F,walking,284
+2013,Number,MODRICA,Both sexes,walking,1527
+2013,Number,MODRICA,M,walking,635
+2013,Number,MODRICA,F,walking,892
+2013,Number,MRKONJIC GRAD,Both sexes,walking,798
+2013,Number,MRKONJIC GRAD,M,walking,355
+2013,Number,MRKONJIC GRAD,F,walking,443
+2013,Number,NEVESINJE,Both sexes,walking,551
+2013,Number,NEVESINJE,M,walking,209
+2013,Number,NEVESINJE,F,walking,342
+2013,Number,NOVI GRAD,Both sexes,walking,1711
+2013,Number,NOVI GRAD,M,walking,700
+2013,Number,NOVI GRAD,F,walking,1011
+2013,Number,NOVO GORAZDE,Both sexes,walking,135
+2013,Number,NOVO GORAZDE,M,walking,61
+2013,Number,NOVO GORAZDE,F,walking,74
+2013,Number,OSMACI,Both sexes,walking,288
+2013,Number,OSMACI,M,walking,125
+2013,Number,OSMACI,F,walking,163
+2013,Number,OSTRA LUKA,Both sexes,walking,224
+2013,Number,OSTRA LUKA,M,walking,99
+2013,Number,OSTRA LUKA,F,walking,125
+2013,Number,PALE,Both sexes,walking,822
+2013,Number,PALE,M,walking,366
+2013,Number,PALE,F,walking,456
+2013,Number,PELAGICEVO,Both sexes,walking,445
+2013,Number,PELAGICEVO,M,walking,165
+2013,Number,PELAGICEVO,F,walking,280
+2013,Number,PETROVAC,Both sexes,walking,8
+2013,Number,PETROVAC,M,walking,5
+2013,Number,PETROVAC,F,walking,3
+2013,Number,PETROVO,Both sexes,walking,602
+2013,Number,PETROVO,M,walking,231
+2013,Number,PETROVO,F,walking,371
+2013,Number,PRIJEDOR,Both sexes,walking,4451
+2013,Number,PRIJEDOR,M,walking,1891
+2013,Number,PRIJEDOR,F,walking,2560
+2013,Number,PRNJAVOR,Both sexes,walking,2094
+2013,Number,PRNJAVOR,M,walking,860
+2013,Number,PRNJAVOR,F,walking,1234
+2013,Number,RIBNIK,Both sexes,walking,438
+2013,Number,RIBNIK,M,walking,182
+2013,Number,RIBNIK,F,walking,256
+2013,Number,ROGATICA,Both sexes,walking,640
+2013,Number,ROGATICA,M,walking,264
+2013,Number,ROGATICA,F,walking,376
+2013,Number,RUDO,Both sexes,walking,399
+2013,Number,RUDO,M,walking,165
+2013,Number,RUDO,F,walking,234
+2013,Number,SOKOLAC,Both sexes,walking,600
+2013,Number,SOKOLAC,M,walking,248
+2013,Number,SOKOLAC,F,walking,352
+2013,Number,SRBAC,Both sexes,walking,910
+2013,Number,SRBAC,M,walking,412
+2013,Number,SRBAC,F,walking,498
+2013,Number,SREBRENICA,Both sexes,walking,621
+2013,Number,SREBRENICA,M,walking,256
+2013,Number,SREBRENICA,F,walking,365
+2013,Number,TESLIC,Both sexes,walking,2201
+2013,Number,TESLIC,M,walking,973
+2013,Number,TESLIC,F,walking,1228
+2013,Number,TREBINJE,Both sexes,walking,1198
+2013,Number,TREBINJE,M,walking,489
+2013,Number,TREBINJE,F,walking,709
+2013,Number,TRNOVO,Both sexes,walking,104
+2013,Number,TRNOVO,M,walking,41
+2013,Number,TRNOVO,F,walking,63
+2013,Number,UGLJEVIK,Both sexes,walking,734
+2013,Number,UGLJEVIK,M,walking,312
+2013,Number,UGLJEVIK,F,walking,422
+2013,Number,FOCA,Both sexes,walking,945
+2013,Number,FOCA,M,walking,438
+2013,Number,FOCA,F,walking,507
+2013,Number,HAN PIJESAK,Both sexes,walking,187
+2013,Number,HAN PIJESAK,M,walking,65
+2013,Number,HAN PIJESAK,F,walking,122
+2013,Number,CAJNICE,Both sexes,walking,262
+2013,Number,CAJNICE,M,walking,108
+2013,Number,CAJNICE,F,walking,154
+2013,Number,CELINAC,Both sexes,walking,1038
+2013,Number,CELINAC,M,walking,469
+2013,Number,CELINAC,F,walking,569
+2013,Number,SAMAC,Both sexes,walking,1041
+2013,Number,SAMAC,M,walking,413
+2013,Number,SAMAC,F,walking,628
+2013,Number,SEKOVICI,Both sexes,walking,283
+2013,Number,SEKOVICI,M,walking,125
+2013,Number,SEKOVICI,F,walking,158
+2013,Number,SIPOVO,Both sexes,walking,496
+2013,Number,SIPOVO,M,walking,223
+2013,Number,SIPOVO,F,walking,273
+2013,Number,REPUBLIKA SRPSKA,Both sexes,memory,18330
+2013,Number,REPUBLIKA SRPSKA,M,memory,8168
+2013,Number,REPUBLIKA SRPSKA,F,memory,10162
+2013,Number,BANJA LUKA,Both sexes,memory,2300
+2013,Number,BANJA LUKA,M,memory,1087
+2013,Number,BANJA LUKA,F,memory,1213
+2013,Number,BERKOVICI,Both sexes,memory,35
+2013,Number,BERKOVICI,M,memory,13
+2013,Number,BERKOVICI,F,memory,22
+2013,Number,BIJELJINA,Both sexes,memory,1415
+2013,Number,BIJELJINA,M,memory,630
+2013,Number,BIJELJINA,F,memory,785
+2013,Number,BILECA,Both sexes,memory,126
+2013,Number,BILECA,M,memory,61
+2013,Number,BILECA,F,memory,65
+2013,Number,BRATUNAC,Both sexes,memory,290
+2013,Number,BRATUNAC,M,memory,116
+2013,Number,BRATUNAC,F,memory,174
+2013,Number,BROD,Both sexes,memory,239
+2013,Number,BROD,M,memory,104
+2013,Number,BROD,F,memory,135
+2013,Number,VISEGRAD,Both sexes,memory,309
+2013,Number,VISEGRAD,M,memory,75
+2013,Number,VISEGRAD,F,memory,234
+2013,Number,VLASENICA,Both sexes,memory,137
+2013,Number,VLASENICA,M,memory,60
+2013,Number,VLASENICA,F,memory,77
+2013,Number,VUKOSAVLJE,Both sexes,memory,74
+2013,Number,VUKOSAVLJE,M,memory,37
+2013,Number,VUKOSAVLJE,F,memory,37
+2013,Number,GACKO,Both sexes,memory,90
+2013,Number,GACKO,M,memory,42
+2013,Number,GACKO,F,memory,48
+2013,Number,GRADISKA,Both sexes,memory,831
+2013,Number,GRADISKA,M,memory,338
+2013,Number,GRADISKA,F,memory,493
+2013,Number,DERVENTA,Both sexes,memory,455
+2013,Number,DERVENTA,M,memory,195
+2013,Number,DERVENTA,F,memory,260
+2013,Number,DOBOJ,Both sexes,memory,1369
+2013,Number,DOBOJ,M,memory,596
+2013,Number,DOBOJ,F,memory,773
+2013,Number,DONJI ZABAR,Both sexes,memory,40
+2013,Number,DONJI ZABAR,M,memory,19
+2013,Number,DONJI ZABAR,F,memory,21
+2013,Number,ZVORNIK,Both sexes,memory,762
+2013,Number,ZVORNIK,M,memory,330
+2013,Number,ZVORNIK,F,memory,432
+2013,Number,ISTOCNA ILIDZA,Both sexes,memory,149
+2013,Number,ISTOCNA ILIDZA,M,memory,64
+2013,Number,ISTOCNA ILIDZA,F,memory,85
+2013,Number,ISTOCNI DRVAR,Both sexes,memory,1
+2013,Number,ISTOCNI DRVAR,F,memory,1
+2013,Number,ISTOCNI MOSTAR,Both sexes,memory,3
+2013,Number,ISTOCNI MOSTAR,M,memory,2
+2013,Number,ISTOCNI MOSTAR,F,memory,1
+2013,Number,ISTOCNI STARI GRAD,Both sexes,memory,20
+2013,Number,ISTOCNI STARI GRAD,M,memory,9
+2013,Number,ISTOCNI STARI GRAD,F,memory,11
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,memory,104
+2013,Number,ISTOCNO NOVO SARAJEVO,M,memory,49
+2013,Number,ISTOCNO NOVO SARAJEVO,F,memory,55
+2013,Number,JEZERO,Both sexes,memory,27
+2013,Number,JEZERO,M,memory,15
+2013,Number,JEZERO,F,memory,12
+2013,Number,KALINOVIK,Both sexes,memory,27
+2013,Number,KALINOVIK,M,memory,10
+2013,Number,KALINOVIK,F,memory,17
+2013,Number,KNEZEVO,Both sexes,memory,238
+2013,Number,KNEZEVO,M,memory,113
+2013,Number,KNEZEVO,F,memory,125
+2013,Number,KOZARSKA DUBICA,Both sexes,memory,331
+2013,Number,KOZARSKA DUBICA,M,memory,154
+2013,Number,KOZARSKA DUBICA,F,memory,177
+2013,Number,KOSTAJNICA,Both sexes,memory,98
+2013,Number,KOSTAJNICA,M,memory,41
+2013,Number,KOSTAJNICA,F,memory,57
+2013,Number,KOTOR VAROS,Both sexes,memory,339
+2013,Number,KOTOR VAROS,M,memory,154
+2013,Number,KOTOR VAROS,F,memory,185
+2013,Number,KRUPA NA UNI,Both sexes,memory,40
+2013,Number,KRUPA NA UNI,M,memory,19
+2013,Number,KRUPA NA UNI,F,memory,21
+2013,Number,KUPRES,Both sexes,memory,13
+2013,Number,KUPRES,M,memory,9
+2013,Number,KUPRES,F,memory,4
+2013,Number,LAKTASI,Both sexes,memory,410
+2013,Number,LAKTASI,M,memory,204
+2013,Number,LAKTASI,F,memory,206
+2013,Number,LOPARE,Both sexes,memory,281
+2013,Number,LOPARE,M,memory,140
+2013,Number,LOPARE,F,memory,141
+2013,Number,LJUBINJE,Both sexes,memory,44
+2013,Number,LJUBINJE,M,memory,17
+2013,Number,LJUBINJE,F,memory,27
+2013,Number,MILICI,Both sexes,memory,158
+2013,Number,MILICI,M,memory,64
+2013,Number,MILICI,F,memory,94
+2013,Number,MODRICA,Both sexes,memory,478
+2013,Number,MODRICA,M,memory,194
+2013,Number,MODRICA,F,memory,284
+2013,Number,MRKONJIC GRAD,Both sexes,memory,228
+2013,Number,MRKONJIC GRAD,M,memory,98
+2013,Number,MRKONJIC GRAD,F,memory,130
+2013,Number,NEVESINJE,Both sexes,memory,144
+2013,Number,NEVESINJE,M,memory,55
+2013,Number,NEVESINJE,F,memory,89
+2013,Number,NOVI GRAD,Both sexes,memory,475
+2013,Number,NOVI GRAD,M,memory,223
+2013,Number,NOVI GRAD,F,memory,252
+2013,Number,NOVO GORAZDE,Both sexes,memory,36
+2013,Number,NOVO GORAZDE,M,memory,13
+2013,Number,NOVO GORAZDE,F,memory,23
+2013,Number,OSMACI,Both sexes,memory,95
+2013,Number,OSMACI,M,memory,43
+2013,Number,OSMACI,F,memory,52
+2013,Number,OSTRA LUKA,Both sexes,memory,60
+2013,Number,OSTRA LUKA,M,memory,30
+2013,Number,OSTRA LUKA,F,memory,30
+2013,Number,PALE,Both sexes,memory,212
+2013,Number,PALE,M,memory,91
+2013,Number,PALE,F,memory,121
+2013,Number,PELAGICEVO,Both sexes,memory,133
+2013,Number,PELAGICEVO,M,memory,65
+2013,Number,PELAGICEVO,F,memory,68
+2013,Number,PETROVAC,Both sexes,memory,3
+2013,Number,PETROVAC,M,memory,1
+2013,Number,PETROVAC,F,memory,2
+2013,Number,PETROVO,Both sexes,memory,150
+2013,Number,PETROVO,M,memory,62
+2013,Number,PETROVO,F,memory,88
+2013,Number,PRIJEDOR,Both sexes,memory,1532
+2013,Number,PRIJEDOR,M,memory,766
+2013,Number,PRIJEDOR,F,memory,766
+2013,Number,PRNJAVOR,Both sexes,memory,567
+2013,Number,PRNJAVOR,M,memory,240
+2013,Number,PRNJAVOR,F,memory,327
+2013,Number,RIBNIK,Both sexes,memory,123
+2013,Number,RIBNIK,M,memory,56
+2013,Number,RIBNIK,F,memory,67
+2013,Number,ROGATICA,Both sexes,memory,169
+2013,Number,ROGATICA,M,memory,72
+2013,Number,ROGATICA,F,memory,97
+2013,Number,RUDO,Both sexes,memory,123
+2013,Number,RUDO,M,memory,53
+2013,Number,RUDO,F,memory,70
+2013,Number,SOKOLAC,Both sexes,memory,164
+2013,Number,SOKOLAC,M,memory,64
+2013,Number,SOKOLAC,F,memory,100
+2013,Number,SRBAC,Both sexes,memory,316
+2013,Number,SRBAC,M,memory,148
+2013,Number,SRBAC,F,memory,168
+2013,Number,SREBRENICA,Both sexes,memory,218
+2013,Number,SREBRENICA,M,memory,82
+2013,Number,SREBRENICA,F,memory,136
+2013,Number,TESLIC,Both sexes,memory,644
+2013,Number,TESLIC,M,memory,272
+2013,Number,TESLIC,F,memory,372
+2013,Number,TREBINJE,Both sexes,memory,313
+2013,Number,TREBINJE,M,memory,143
+2013,Number,TREBINJE,F,memory,170
+2013,Number,TRNOVO,Both sexes,memory,39
+2013,Number,TRNOVO,M,memory,22
+2013,Number,TRNOVO,F,memory,17
+2013,Number,UGLJEVIK,Both sexes,memory,191
+2013,Number,UGLJEVIK,M,memory,78
+2013,Number,UGLJEVIK,F,memory,113
+2013,Number,FOCA,Both sexes,memory,265
+2013,Number,FOCA,M,memory,126
+2013,Number,FOCA,F,memory,139
+2013,Number,HAN PIJESAK,Both sexes,memory,49
+2013,Number,HAN PIJESAK,M,memory,15
+2013,Number,HAN PIJESAK,F,memory,34
+2013,Number,CAJNICE,Both sexes,memory,67
+2013,Number,CAJNICE,M,memory,30
+2013,Number,CAJNICE,F,memory,37
+2013,Number,CELINAC,Both sexes,memory,298
+2013,Number,CELINAC,M,memory,150
+2013,Number,CELINAC,F,memory,148
+2013,Number,SAMAC,Both sexes,memory,252
+2013,Number,SAMAC,M,memory,110
+2013,Number,SAMAC,F,memory,142
+2013,Number,SEKOVICI,Both sexes,memory,94
+2013,Number,SEKOVICI,M,memory,38
+2013,Number,SEKOVICI,F,memory,56
+2013,Number,SIPOVO,Both sexes,memory,137
+2013,Number,SIPOVO,M,memory,61
+2013,Number,SIPOVO,F,memory,76
+2013,Number,REPUBLIKA SRPSKA,Both sexes,dressing,13502
+2013,Number,REPUBLIKA SRPSKA,M,dressing,5773
+2013,Number,REPUBLIKA SRPSKA,F,dressing,7729
+2013,Number,BANJA LUKA,Both sexes,dressing,1717
+2013,Number,BANJA LUKA,M,dressing,774
+2013,Number,BANJA LUKA,F,dressing,943
+2013,Number,BERKOVICI,Both sexes,dressing,29
+2013,Number,BERKOVICI,M,dressing,11
+2013,Number,BERKOVICI,F,dressing,18
+2013,Number,BIJELJINA,Both sexes,dressing,1050
+2013,Number,BIJELJINA,M,dressing,468
+2013,Number,BIJELJINA,F,dressing,582
+2013,Number,BILECA,Both sexes,dressing,107
+2013,Number,BILECA,M,dressing,44
+2013,Number,BILECA,F,dressing,63
+2013,Number,BRATUNAC,Both sexes,dressing,172
+2013,Number,BRATUNAC,M,dressing,76
+2013,Number,BRATUNAC,F,dressing,96
+2013,Number,BROD,Both sexes,dressing,143
+2013,Number,BROD,M,dressing,55
+2013,Number,BROD,F,dressing,88
+2013,Number,VISEGRAD,Both sexes,dressing,232
+2013,Number,VISEGRAD,M,dressing,60
+2013,Number,VISEGRAD,F,dressing,172
+2013,Number,VLASENICA,Both sexes,dressing,104
+2013,Number,VLASENICA,M,dressing,49
+2013,Number,VLASENICA,F,dressing,55
+2013,Number,VUKOSAVLJE,Both sexes,dressing,53
+2013,Number,VUKOSAVLJE,M,dressing,30
+2013,Number,VUKOSAVLJE,F,dressing,23
+2013,Number,GACKO,Both sexes,dressing,74
+2013,Number,GACKO,M,dressing,25
+2013,Number,GACKO,F,dressing,49
+2013,Number,GRADISKA,Both sexes,dressing,617
+2013,Number,GRADISKA,M,dressing,252
+2013,Number,GRADISKA,F,dressing,365
+2013,Number,DERVENTA,Both sexes,dressing,298
+2013,Number,DERVENTA,M,dressing,114
+2013,Number,DERVENTA,F,dressing,184
+2013,Number,DOBOJ,Both sexes,dressing,1011
+2013,Number,DOBOJ,M,dressing,408
+2013,Number,DOBOJ,F,dressing,603
+2013,Number,DONJI ZABAR,Both sexes,dressing,31
+2013,Number,DONJI ZABAR,M,dressing,11
+2013,Number,DONJI ZABAR,F,dressing,20
+2013,Number,ZVORNIK,Both sexes,dressing,518
+2013,Number,ZVORNIK,M,dressing,239
+2013,Number,ZVORNIK,F,dressing,279
+2013,Number,ISTOCNA ILIDZA,Both sexes,dressing,175
+2013,Number,ISTOCNA ILIDZA,M,dressing,83
+2013,Number,ISTOCNA ILIDZA,F,dressing,92
+2013,Number,ISTOCNI MOSTAR,Both sexes,dressing,2
+2013,Number,ISTOCNI MOSTAR,M,dressing,1
+2013,Number,ISTOCNI MOSTAR,F,dressing,1
+2013,Number,ISTOCNI STARI GRAD,Both sexes,dressing,15
+2013,Number,ISTOCNI STARI GRAD,M,dressing,6
+2013,Number,ISTOCNI STARI GRAD,F,dressing,9
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,dressing,77
+2013,Number,ISTOCNO NOVO SARAJEVO,M,dressing,34
+2013,Number,ISTOCNO NOVO SARAJEVO,F,dressing,43
+2013,Number,JEZERO,Both sexes,dressing,18
+2013,Number,JEZERO,M,dressing,9
+2013,Number,JEZERO,F,dressing,9
+2013,Number,KALINOVIK,Both sexes,dressing,26
+2013,Number,KALINOVIK,M,dressing,8
+2013,Number,KALINOVIK,F,dressing,18
+2013,Number,KNEZEVO,Both sexes,dressing,171
+2013,Number,KNEZEVO,M,dressing,70
+2013,Number,KNEZEVO,F,dressing,101
+2013,Number,KOZARSKA DUBICA,Both sexes,dressing,243
+2013,Number,KOZARSKA DUBICA,M,dressing,108
+2013,Number,KOZARSKA DUBICA,F,dressing,135
+2013,Number,KOSTAJNICA,Both sexes,dressing,69
+2013,Number,KOSTAJNICA,M,dressing,24
+2013,Number,KOSTAJNICA,F,dressing,45
+2013,Number,KOTOR VAROS,Both sexes,dressing,228
+2013,Number,KOTOR VAROS,M,dressing,100
+2013,Number,KOTOR VAROS,F,dressing,128
+2013,Number,KRUPA NA UNI,Both sexes,dressing,19
+2013,Number,KRUPA NA UNI,M,dressing,5
+2013,Number,KRUPA NA UNI,F,dressing,14
+2013,Number,KUPRES,Both sexes,dressing,6
+2013,Number,KUPRES,M,dressing,3
+2013,Number,KUPRES,F,dressing,3
+2013,Number,LAKTASI,Both sexes,dressing,324
+2013,Number,LAKTASI,M,dressing,162
+2013,Number,LAKTASI,F,dressing,162
+2013,Number,LOPARE,Both sexes,dressing,190
+2013,Number,LOPARE,M,dressing,85
+2013,Number,LOPARE,F,dressing,105
+2013,Number,LJUBINJE,Both sexes,dressing,44
+2013,Number,LJUBINJE,M,dressing,18
+2013,Number,LJUBINJE,F,dressing,26
+2013,Number,MILICI,Both sexes,dressing,107
+2013,Number,MILICI,M,dressing,42
+2013,Number,MILICI,F,dressing,65
+2013,Number,MODRICA,Both sexes,dressing,383
+2013,Number,MODRICA,M,dressing,152
+2013,Number,MODRICA,F,dressing,231
+2013,Number,MRKONJIC GRAD,Both sexes,dressing,203
+2013,Number,MRKONJIC GRAD,M,dressing,83
+2013,Number,MRKONJIC GRAD,F,dressing,120
+2013,Number,NEVESINJE,Both sexes,dressing,104
+2013,Number,NEVESINJE,M,dressing,38
+2013,Number,NEVESINJE,F,dressing,66
+2013,Number,NOVI GRAD,Both sexes,dressing,373
+2013,Number,NOVI GRAD,M,dressing,156
+2013,Number,NOVI GRAD,F,dressing,217
+2013,Number,NOVO GORAZDE,Both sexes,dressing,20
+2013,Number,NOVO GORAZDE,M,dressing,7
+2013,Number,NOVO GORAZDE,F,dressing,13
+2013,Number,OSMACI,Both sexes,dressing,43
+2013,Number,OSMACI,M,dressing,16
+2013,Number,OSMACI,F,dressing,27
+2013,Number,OSTRA LUKA,Both sexes,dressing,39
+2013,Number,OSTRA LUKA,M,dressing,17
+2013,Number,OSTRA LUKA,F,dressing,22
+2013,Number,PALE,Both sexes,dressing,174
+2013,Number,PALE,M,dressing,80
+2013,Number,PALE,F,dressing,94
+2013,Number,PELAGICEVO,Both sexes,dressing,71
+2013,Number,PELAGICEVO,M,dressing,33
+2013,Number,PELAGICEVO,F,dressing,38
+2013,Number,PETROVAC,Both sexes,dressing,4
+2013,Number,PETROVAC,M,dressing,1
+2013,Number,PETROVAC,F,dressing,3
+2013,Number,PETROVO,Both sexes,dressing,106
+2013,Number,PETROVO,M,dressing,40
+2013,Number,PETROVO,F,dressing,66
+2013,Number,PRIJEDOR,Both sexes,dressing,1081
+2013,Number,PRIJEDOR,M,dressing,517
+2013,Number,PRIJEDOR,F,dressing,564
+2013,Number,PRNJAVOR,Both sexes,dressing,418
+2013,Number,PRNJAVOR,M,dressing,182
+2013,Number,PRNJAVOR,F,dressing,236
+2013,Number,RIBNIK,Both sexes,dressing,111
+2013,Number,RIBNIK,M,dressing,50
+2013,Number,RIBNIK,F,dressing,61
+2013,Number,ROGATICA,Both sexes,dressing,153
+2013,Number,ROGATICA,M,dressing,59
+2013,Number,ROGATICA,F,dressing,94
+2013,Number,RUDO,Both sexes,dressing,85
+2013,Number,RUDO,M,dressing,40
+2013,Number,RUDO,F,dressing,45
+2013,Number,SOKOLAC,Both sexes,dressing,143
+2013,Number,SOKOLAC,M,dressing,55
+2013,Number,SOKOLAC,F,dressing,88
+2013,Number,SRBAC,Both sexes,dressing,174
+2013,Number,SRBAC,M,dressing,78
+2013,Number,SRBAC,F,dressing,96
+2013,Number,SREBRENICA,Both sexes,dressing,99
+2013,Number,SREBRENICA,M,dressing,34
+2013,Number,SREBRENICA,F,dressing,65
+2013,Number,TESLIC,Both sexes,dressing,499
+2013,Number,TESLIC,M,dressing,209
+2013,Number,TESLIC,F,dressing,290
+2013,Number,TREBINJE,Both sexes,dressing,283
+2013,Number,TREBINJE,M,dressing,104
+2013,Number,TREBINJE,F,dressing,179
+2013,Number,TRNOVO,Both sexes,dressing,31
+2013,Number,TRNOVO,M,dressing,12
+2013,Number,TRNOVO,F,dressing,19
+2013,Number,UGLJEVIK,Both sexes,dressing,151
+2013,Number,UGLJEVIK,M,dressing,63
+2013,Number,UGLJEVIK,F,dressing,88
+2013,Number,FOCA,Both sexes,dressing,230
+2013,Number,FOCA,M,dressing,97
+2013,Number,FOCA,F,dressing,133
+2013,Number,HAN PIJESAK,Both sexes,dressing,48
+2013,Number,HAN PIJESAK,M,dressing,15
+2013,Number,HAN PIJESAK,F,dressing,33
+2013,Number,CAJNICE,Both sexes,dressing,50
+2013,Number,CAJNICE,M,dressing,23
+2013,Number,CAJNICE,F,dressing,27
+2013,Number,CELINAC,Both sexes,dressing,210
+2013,Number,CELINAC,M,dressing,96
+2013,Number,CELINAC,F,dressing,114
+2013,Number,SAMAC,Both sexes,dressing,159
+2013,Number,SAMAC,M,dressing,67
+2013,Number,SAMAC,F,dressing,92
+2013,Number,SEKOVICI,Both sexes,dressing,60
+2013,Number,SEKOVICI,M,dressing,29
+2013,Number,SEKOVICI,F,dressing,31
+2013,Number,SIPOVO,Both sexes,dressing,127
+2013,Number,SIPOVO,M,dressing,46
+2013,Number,SIPOVO,F,dressing,81
+2013,Number,REPUBLIKA SRPSKA,Both sexes,communication,10723
+2013,Number,REPUBLIKA SRPSKA,M,communication,5103
+2013,Number,REPUBLIKA SRPSKA,F,communication,5620
+2013,Number,BANJA LUKA,Both sexes,communication,1307
+2013,Number,BANJA LUKA,M,communication,670
+2013,Number,BANJA LUKA,F,communication,637
+2013,Number,BERKOVICI,Both sexes,communication,26
+2013,Number,BERKOVICI,M,communication,11
+2013,Number,BERKOVICI,F,communication,15
+2013,Number,BIJELJINA,Both sexes,communication,793
+2013,Number,BIJELJINA,M,communication,398
+2013,Number,BIJELJINA,F,communication,395
+2013,Number,BILECA,Both sexes,communication,89
+2013,Number,BILECA,M,communication,44
+2013,Number,BILECA,F,communication,45
+2013,Number,BRATUNAC,Both sexes,communication,135
+2013,Number,BRATUNAC,M,communication,56
+2013,Number,BRATUNAC,F,communication,79
+2013,Number,BROD,Both sexes,communication,121
+2013,Number,BROD,M,communication,60
+2013,Number,BROD,F,communication,61
+2013,Number,VISEGRAD,Both sexes,communication,202
+2013,Number,VISEGRAD,M,communication,55
+2013,Number,VISEGRAD,F,communication,147
+2013,Number,VLASENICA,Both sexes,communication,96
+2013,Number,VLASENICA,M,communication,50
+2013,Number,VLASENICA,F,communication,46
+2013,Number,VUKOSAVLJE,Both sexes,communication,50
+2013,Number,VUKOSAVLJE,M,communication,26
+2013,Number,VUKOSAVLJE,F,communication,24
+2013,Number,GACKO,Both sexes,communication,70
+2013,Number,GACKO,M,communication,30
+2013,Number,GACKO,F,communication,40
+2013,Number,GRADISKA,Both sexes,communication,504
+2013,Number,GRADISKA,M,communication,220
+2013,Number,GRADISKA,F,communication,284
+2013,Number,DERVENTA,Both sexes,communication,255
+2013,Number,DERVENTA,M,communication,118
+2013,Number,DERVENTA,F,communication,137
+2013,Number,DOBOJ,Both sexes,communication,786
+2013,Number,DOBOJ,M,communication,353
+2013,Number,DOBOJ,F,communication,433
+2013,Number,DONJI ZABAR,Both sexes,communication,23
+2013,Number,DONJI ZABAR,M,communication,13
+2013,Number,DONJI ZABAR,F,communication,10
+2013,Number,ZVORNIK,Both sexes,communication,402
+2013,Number,ZVORNIK,M,communication,184
+2013,Number,ZVORNIK,F,communication,218
+2013,Number,ISTOCNA ILIDZA,Both sexes,communication,113
+2013,Number,ISTOCNA ILIDZA,M,communication,54
+2013,Number,ISTOCNA ILIDZA,F,communication,59
+2013,Number,ISTOCNI MOSTAR,Both sexes,communication,2
+2013,Number,ISTOCNI MOSTAR,M,communication,1
+2013,Number,ISTOCNI MOSTAR,F,communication,1
+2013,Number,ISTOCNI STARI GRAD,Both sexes,communication,14
+2013,Number,ISTOCNI STARI GRAD,M,communication,9
+2013,Number,ISTOCNI STARI GRAD,F,communication,5
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,communication,65
+2013,Number,ISTOCNO NOVO SARAJEVO,M,communication,33
+2013,Number,ISTOCNO NOVO SARAJEVO,F,communication,32
+2013,Number,JEZERO,Both sexes,communication,14
+2013,Number,JEZERO,M,communication,6
+2013,Number,JEZERO,F,communication,8
+2013,Number,KALINOVIK,Both sexes,communication,17
+2013,Number,KALINOVIK,M,communication,8
+2013,Number,KALINOVIK,F,communication,9
+2013,Number,KNEZEVO,Both sexes,communication,140
+2013,Number,KNEZEVO,M,communication,59
+2013,Number,KNEZEVO,F,communication,81
+2013,Number,KOZARSKA DUBICA,Both sexes,communication,187
+2013,Number,KOZARSKA DUBICA,M,communication,94
+2013,Number,KOZARSKA DUBICA,F,communication,93
+2013,Number,KOSTAJNICA,Both sexes,communication,53
+2013,Number,KOSTAJNICA,M,communication,21
+2013,Number,KOSTAJNICA,F,communication,32
+2013,Number,KOTOR VAROS,Both sexes,communication,176
+2013,Number,KOTOR VAROS,M,communication,84
+2013,Number,KOTOR VAROS,F,communication,92
+2013,Number,KRUPA NA UNI,Both sexes,communication,20
+2013,Number,KRUPA NA UNI,M,communication,8
+2013,Number,KRUPA NA UNI,F,communication,12
+2013,Number,KUPRES,Both sexes,communication,6
+2013,Number,KUPRES,M,communication,4
+2013,Number,KUPRES,F,communication,2
+2013,Number,LAKTASI,Both sexes,communication,283
+2013,Number,LAKTASI,M,communication,148
+2013,Number,LAKTASI,F,communication,135
+2013,Number,LOPARE,Both sexes,communication,168
+2013,Number,LOPARE,M,communication,86
+2013,Number,LOPARE,F,communication,82
+2013,Number,LJUBINJE,Both sexes,communication,31
+2013,Number,LJUBINJE,M,communication,14
+2013,Number,LJUBINJE,F,communication,17
+2013,Number,MILICI,Both sexes,communication,77
+2013,Number,MILICI,M,communication,27
+2013,Number,MILICI,F,communication,50
+2013,Number,MODRICA,Both sexes,communication,309
+2013,Number,MODRICA,M,communication,139
+2013,Number,MODRICA,F,communication,170
+2013,Number,MRKONJIC GRAD,Both sexes,communication,176
+2013,Number,MRKONJIC GRAD,M,communication,73
+2013,Number,MRKONJIC GRAD,F,communication,103
+2013,Number,NEVESINJE,Both sexes,communication,107
+2013,Number,NEVESINJE,M,communication,43
+2013,Number,NEVESINJE,F,communication,64
+2013,Number,NOVI GRAD,Both sexes,communication,277
+2013,Number,NOVI GRAD,M,communication,121
+2013,Number,NOVI GRAD,F,communication,156
+2013,Number,NOVO GORAZDE,Both sexes,communication,18
+2013,Number,NOVO GORAZDE,M,communication,5
+2013,Number,NOVO GORAZDE,F,communication,13
+2013,Number,OSMACI,Both sexes,communication,40
+2013,Number,OSMACI,M,communication,19
+2013,Number,OSMACI,F,communication,21
+2013,Number,OSTRA LUKA,Both sexes,communication,26
+2013,Number,OSTRA LUKA,M,communication,10
+2013,Number,OSTRA LUKA,F,communication,16
+2013,Number,PALE,Both sexes,communication,130
+2013,Number,PALE,M,communication,59
+2013,Number,PALE,F,communication,71
+2013,Number,PELAGICEVO,Both sexes,communication,68
+2013,Number,PELAGICEVO,M,communication,33
+2013,Number,PELAGICEVO,F,communication,35
+2013,Number,PETROVAC,Both sexes,communication,1
+2013,Number,PETROVAC,F,communication,1
+2013,Number,PETROVO,Both sexes,communication,64
+2013,Number,PETROVO,M,communication,36
+2013,Number,PETROVO,F,communication,28
+2013,Number,PRIJEDOR,Both sexes,communication,927
+2013,Number,PRIJEDOR,M,communication,517
+2013,Number,PRIJEDOR,F,communication,410
+2013,Number,PRNJAVOR,Both sexes,communication,320
+2013,Number,PRNJAVOR,M,communication,162
+2013,Number,PRNJAVOR,F,communication,158
+2013,Number,RIBNIK,Both sexes,communication,91
+2013,Number,RIBNIK,M,communication,45
+2013,Number,RIBNIK,F,communication,46
+2013,Number,ROGATICA,Both sexes,communication,90
+2013,Number,ROGATICA,M,communication,45
+2013,Number,ROGATICA,F,communication,45
+2013,Number,RUDO,Both sexes,communication,68
+2013,Number,RUDO,M,communication,29
+2013,Number,RUDO,F,communication,39
+2013,Number,SOKOLAC,Both sexes,communication,112
+2013,Number,SOKOLAC,M,communication,43
+2013,Number,SOKOLAC,F,communication,69
+2013,Number,SRBAC,Both sexes,communication,171
+2013,Number,SRBAC,M,communication,81
+2013,Number,SRBAC,F,communication,90
+2013,Number,SREBRENICA,Both sexes,communication,80
+2013,Number,SREBRENICA,M,communication,33
+2013,Number,SREBRENICA,F,communication,47
+2013,Number,TESLIC,Both sexes,communication,387
+2013,Number,TESLIC,M,communication,189
+2013,Number,TESLIC,F,communication,198
+2013,Number,TREBINJE,Both sexes,communication,205
+2013,Number,TREBINJE,M,communication,94
+2013,Number,TREBINJE,F,communication,111
+2013,Number,TRNOVO,Both sexes,communication,22
+2013,Number,TRNOVO,M,communication,12
+2013,Number,TRNOVO,F,communication,10
+2013,Number,UGLJEVIK,Both sexes,communication,93
+2013,Number,UGLJEVIK,M,communication,41
+2013,Number,UGLJEVIK,F,communication,52
+2013,Number,FOCA,Both sexes,communication,170
+2013,Number,FOCA,M,communication,81
+2013,Number,FOCA,F,communication,89
+2013,Number,HAN PIJESAK,Both sexes,communication,36
+2013,Number,HAN PIJESAK,M,communication,14
+2013,Number,HAN PIJESAK,F,communication,22
+2013,Number,CAJNICE,Both sexes,communication,41
+2013,Number,CAJNICE,M,communication,17
+2013,Number,CAJNICE,F,communication,24
+2013,Number,CELINAC,Both sexes,communication,163
+2013,Number,CELINAC,M,communication,72
+2013,Number,CELINAC,F,communication,91
+2013,Number,SAMAC,Both sexes,communication,146
+2013,Number,SAMAC,M,communication,71
+2013,Number,SAMAC,F,communication,75
+2013,Number,SEKOVICI,Both sexes,communication,68
+2013,Number,SEKOVICI,M,communication,33
+2013,Number,SEKOVICI,F,communication,35
+2013,Number,SIPOVO,Both sexes,communication,92
+2013,Number,SIPOVO,M,communication,42
+2013,Number,SIPOVO,F,communication,50
+2013,Number,REPUBLIKA SRPSKA,Both sexes,more_disabilities,38298
+2013,Number,REPUBLIKA SRPSKA,M,more_disabilities,16292
+2013,Number,REPUBLIKA SRPSKA,F,more_disabilities,22006
+2013,Number,BANJA LUKA,Both sexes,more_disabilities,4944
+2013,Number,BANJA LUKA,M,more_disabilities,2158
+2013,Number,BANJA LUKA,F,more_disabilities,2786
+2013,Number,BERKOVICI,Both sexes,more_disabilities,73
+2013,Number,BERKOVICI,M,more_disabilities,32
+2013,Number,BERKOVICI,F,more_disabilities,41
+2013,Number,BIJELJINA,Both sexes,more_disabilities,3094
+2013,Number,BIJELJINA,M,more_disabilities,1359
+2013,Number,BIJELJINA,F,more_disabilities,1735
+2013,Number,BILECA,Both sexes,more_disabilities,350
+2013,Number,BILECA,M,more_disabilities,151
+2013,Number,BILECA,F,more_disabilities,199
+2013,Number,BRATUNAC,Both sexes,more_disabilities,566
+2013,Number,BRATUNAC,M,more_disabilities,243
+2013,Number,BRATUNAC,F,more_disabilities,323
+2013,Number,BROD,Both sexes,more_disabilities,485
+2013,Number,BROD,M,more_disabilities,194
+2013,Number,BROD,F,more_disabilities,291
+2013,Number,VISEGRAD,Both sexes,more_disabilities,477
+2013,Number,VISEGRAD,M,more_disabilities,145
+2013,Number,VISEGRAD,F,more_disabilities,332
+2013,Number,VLASENICA,Both sexes,more_disabilities,305
+2013,Number,VLASENICA,M,more_disabilities,130
+2013,Number,VLASENICA,F,more_disabilities,175
+2013,Number,VUKOSAVLJE,Both sexes,more_disabilities,158
+2013,Number,VUKOSAVLJE,M,more_disabilities,77
+2013,Number,VUKOSAVLJE,F,more_disabilities,81
+2013,Number,GACKO,Both sexes,more_disabilities,219
+2013,Number,GACKO,M,more_disabilities,84
+2013,Number,GACKO,F,more_disabilities,135
+2013,Number,GRADISKA,Both sexes,more_disabilities,1641
+2013,Number,GRADISKA,M,more_disabilities,637
+2013,Number,GRADISKA,F,more_disabilities,1004
+2013,Number,DERVENTA,Both sexes,more_disabilities,938
+2013,Number,DERVENTA,M,more_disabilities,385
+2013,Number,DERVENTA,F,more_disabilities,553
+2013,Number,DOBOJ,Both sexes,more_disabilities,3008
+2013,Number,DOBOJ,M,more_disabilities,1227
+2013,Number,DOBOJ,F,more_disabilities,1781
+2013,Number,DONJI ZABAR,Both sexes,more_disabilities,89
+2013,Number,DONJI ZABAR,M,more_disabilities,42
+2013,Number,DONJI ZABAR,F,more_disabilities,47
+2013,Number,ZVORNIK,Both sexes,more_disabilities,1546
+2013,Number,ZVORNIK,M,more_disabilities,670
+2013,Number,ZVORNIK,F,more_disabilities,876
+2013,Number,ISTOCNA ILIDZA,Both sexes,more_disabilities,394
+2013,Number,ISTOCNA ILIDZA,M,more_disabilities,171
+2013,Number,ISTOCNA ILIDZA,F,more_disabilities,223
+2013,Number,ISTOCNI DRVAR,Both sexes,more_disabilities,4
+2013,Number,ISTOCNI DRVAR,M,more_disabilities,1
+2013,Number,ISTOCNI DRVAR,F,more_disabilities,3
+2013,Number,ISTOCNI MOSTAR,Both sexes,more_disabilities,7
+2013,Number,ISTOCNI MOSTAR,M,more_disabilities,2
+2013,Number,ISTOCNI MOSTAR,F,more_disabilities,5
+2013,Number,ISTOCNI STARI GRAD,Both sexes,more_disabilities,32
+2013,Number,ISTOCNI STARI GRAD,M,more_disabilities,16
+2013,Number,ISTOCNI STARI GRAD,F,more_disabilities,16
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,more_disabilities,206
+2013,Number,ISTOCNO NOVO SARAJEVO,M,more_disabilities,87
+2013,Number,ISTOCNO NOVO SARAJEVO,F,more_disabilities,119
+2013,Number,JEZERO,Both sexes,more_disabilities,40
+2013,Number,JEZERO,M,more_disabilities,17
+2013,Number,JEZERO,F,more_disabilities,23
+2013,Number,KALINOVIK,Both sexes,more_disabilities,80
+2013,Number,KALINOVIK,M,more_disabilities,30
+2013,Number,KALINOVIK,F,more_disabilities,50
+2013,Number,KNEZEVO,Both sexes,more_disabilities,399
+2013,Number,KNEZEVO,M,more_disabilities,178
+2013,Number,KNEZEVO,F,more_disabilities,221
+2013,Number,KOZARSKA DUBICA,Both sexes,more_disabilities,741
+2013,Number,KOZARSKA DUBICA,M,more_disabilities,302
+2013,Number,KOZARSKA DUBICA,F,more_disabilities,439
+2013,Number,KOSTAJNICA,Both sexes,more_disabilities,209
+2013,Number,KOSTAJNICA,M,more_disabilities,93
+2013,Number,KOSTAJNICA,F,more_disabilities,116
+2013,Number,KOTOR VAROS,Both sexes,more_disabilities,702
+2013,Number,KOTOR VAROS,M,more_disabilities,310
+2013,Number,KOTOR VAROS,F,more_disabilities,392
+2013,Number,KRUPA NA UNI,Both sexes,more_disabilities,88
+2013,Number,KRUPA NA UNI,M,more_disabilities,40
+2013,Number,KRUPA NA UNI,F,more_disabilities,48
+2013,Number,KUPRES,Both sexes,more_disabilities,21
+2013,Number,KUPRES,M,more_disabilities,13
+2013,Number,KUPRES,F,more_disabilities,8
+2013,Number,LAKTASI,Both sexes,more_disabilities,887
+2013,Number,LAKTASI,M,more_disabilities,413
+2013,Number,LAKTASI,F,more_disabilities,474
+2013,Number,LOPARE,Both sexes,more_disabilities,583
+2013,Number,LOPARE,M,more_disabilities,254
+2013,Number,LOPARE,F,more_disabilities,329
+2013,Number,LJUBINJE,Both sexes,more_disabilities,81
+2013,Number,LJUBINJE,M,more_disabilities,34
+2013,Number,LJUBINJE,F,more_disabilities,47
+2013,Number,MILICI,Both sexes,more_disabilities,314
+2013,Number,MILICI,M,more_disabilities,130
+2013,Number,MILICI,F,more_disabilities,184
+2013,Number,MODRICA,Both sexes,more_disabilities,927
+2013,Number,MODRICA,M,more_disabilities,399
+2013,Number,MODRICA,F,more_disabilities,528
+2013,Number,MRKONJIC GRAD,Both sexes,more_disabilities,475
+2013,Number,MRKONJIC GRAD,M,more_disabilities,210
+2013,Number,MRKONJIC GRAD,F,more_disabilities,265
+2013,Number,NEVESINJE,Both sexes,more_disabilities,327
+2013,Number,NEVESINJE,M,more_disabilities,130
+2013,Number,NEVESINJE,F,more_disabilities,197
+2013,Number,NOVI GRAD,Both sexes,more_disabilities,1049
+2013,Number,NOVI GRAD,M,more_disabilities,446
+2013,Number,NOVI GRAD,F,more_disabilities,603
+2013,Number,NOVO GORAZDE,Both sexes,more_disabilities,75
+2013,Number,NOVO GORAZDE,M,more_disabilities,28
+2013,Number,NOVO GORAZDE,F,more_disabilities,47
+2013,Number,OSMACI,Both sexes,more_disabilities,189
+2013,Number,OSMACI,M,more_disabilities,79
+2013,Number,OSMACI,F,more_disabilities,110
+2013,Number,OSTRA LUKA,Both sexes,more_disabilities,132
+2013,Number,OSTRA LUKA,M,more_disabilities,63
+2013,Number,OSTRA LUKA,F,more_disabilities,69
+2013,Number,PALE,Both sexes,more_disabilities,446
+2013,Number,PALE,M,more_disabilities,209
+2013,Number,PALE,F,more_disabilities,237
+2013,Number,PELAGICEVO,Both sexes,more_disabilities,268
+2013,Number,PELAGICEVO,M,more_disabilities,102
+2013,Number,PELAGICEVO,F,more_disabilities,166
+2013,Number,PETROVAC,Both sexes,more_disabilities,7
+2013,Number,PETROVAC,M,more_disabilities,4
+2013,Number,PETROVAC,F,more_disabilities,3
+2013,Number,PETROVO,Both sexes,more_disabilities,378
+2013,Number,PETROVO,M,more_disabilities,156
+2013,Number,PETROVO,F,more_disabilities,222
+2013,Number,PRIJEDOR,Both sexes,more_disabilities,2789
+2013,Number,PRIJEDOR,M,more_disabilities,1276
+2013,Number,PRIJEDOR,F,more_disabilities,1513
+2013,Number,PRNJAVOR,Both sexes,more_disabilities,1199
+2013,Number,PRNJAVOR,M,more_disabilities,465
+2013,Number,PRNJAVOR,F,more_disabilities,734
+2013,Number,RIBNIK,Both sexes,more_disabilities,272
+2013,Number,RIBNIK,M,more_disabilities,128
+2013,Number,RIBNIK,F,more_disabilities,144
+2013,Number,ROGATICA,Both sexes,more_disabilities,407
+2013,Number,ROGATICA,M,more_disabilities,164
+2013,Number,ROGATICA,F,more_disabilities,243
+2013,Number,RUDO,Both sexes,more_disabilities,252
+2013,Number,RUDO,M,more_disabilities,104
+2013,Number,RUDO,F,more_disabilities,148
+2013,Number,SOKOLAC,Both sexes,more_disabilities,347
+2013,Number,SOKOLAC,M,more_disabilities,143
+2013,Number,SOKOLAC,F,more_disabilities,204
+2013,Number,SRBAC,Both sexes,more_disabilities,576
+2013,Number,SRBAC,M,more_disabilities,257
+2013,Number,SRBAC,F,more_disabilities,319
+2013,Number,SREBRENICA,Both sexes,more_disabilities,381
+2013,Number,SREBRENICA,M,more_disabilities,144
+2013,Number,SREBRENICA,F,more_disabilities,237
+2013,Number,TESLIC,Both sexes,more_disabilities,1374
+2013,Number,TESLIC,M,more_disabilities,585
+2013,Number,TESLIC,F,more_disabilities,789
+2013,Number,TREBINJE,Both sexes,more_disabilities,689
+2013,Number,TREBINJE,M,more_disabilities,280
+2013,Number,TREBINJE,F,more_disabilities,409
+2013,Number,TRNOVO,Both sexes,more_disabilities,69
+2013,Number,TRNOVO,M,more_disabilities,31
+2013,Number,TRNOVO,F,more_disabilities,38
+2013,Number,UGLJEVIK,Both sexes,more_disabilities,402
+2013,Number,UGLJEVIK,M,more_disabilities,165
+2013,Number,UGLJEVIK,F,more_disabilities,237
+2013,Number,FOCA,Both sexes,more_disabilities,581
+2013,Number,FOCA,M,more_disabilities,262
+2013,Number,FOCA,F,more_disabilities,319
+2013,Number,HAN PIJESAK,Both sexes,more_disabilities,95
+2013,Number,HAN PIJESAK,M,more_disabilities,30
+2013,Number,HAN PIJESAK,F,more_disabilities,65
+2013,Number,CAJNICE,Both sexes,more_disabilities,176
+2013,Number,CAJNICE,M,more_disabilities,77
+2013,Number,CAJNICE,F,more_disabilities,99
+2013,Number,CELINAC,Both sexes,more_disabilities,624
+2013,Number,CELINAC,M,more_disabilities,269
+2013,Number,CELINAC,F,more_disabilities,355
+2013,Number,SAMAC,Both sexes,more_disabilities,567
+2013,Number,SAMAC,M,more_disabilities,228
+2013,Number,SAMAC,F,more_disabilities,339
+2013,Number,SEKOVICI,Both sexes,more_disabilities,222
+2013,Number,SEKOVICI,M,more_disabilities,101
+2013,Number,SEKOVICI,F,more_disabilities,121
+2013,Number,SIPOVO,Both sexes,more_disabilities,322
+2013,Number,SIPOVO,M,more_disabilities,132
+2013,Number,SIPOVO,F,more_disabilities,190

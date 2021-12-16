@@ -1,61 +1,1517 @@
-Year,Пол,UNIT_MEASURE,Religion,Value
-2013,Оба пола,Број,Islam,1790454
-2013,Оба пола,Број,Orthodox,1085760
-2013,Оба пола,Број,Catholic,536333
-2013,Оба пола,Број,Muslim,22068
-2013,Оба пола,Број,Roman_Catholic,6799
-2013,Оба пола,Број,Serbian,3898
-2013,Оба пола,Број,jehovah_s_witnesses,1171
-2013,Оба пола,Број,Greek_Catholic,982
-2013,Оба пола,Број,Protestant,655
-2013,Оба пола,Број,Romani,612
-2013,Оба пола,Број,Christian,567
-2013,Оба пола,Број,Bosniak,411
-2013,Оба пола,Број,Croat,275
-2013,Оба пола,Број,Adventist,193
-2013,Оба пола,Број,Bosnian,154
-2013,Оба пола,Број,Agnostic,10816
-2013,Оба пола,Број,Atheist,27853
-2013,Оба пола,Број,Others,2870
-2013,Оба пола,Број,Undeclared,32700
-2013,Оба пола,Број,Unknown,6588
-2013,M,Број,Islam,878336
-2013,M,Број,Orthodox,532426
-2013,M,Број,Catholic,262423
-2013,M,Број,Muslim,11259
-2013,M,Број,Roman_Catholic,3426
-2013,M,Број,Serbian,1812
-2013,M,Број,jehovah_s_witnesses,437
-2013,M,Број,Greek_Catholic,499
-2013,M,Број,Protestant,312
-2013,M,Број,Romani,334
-2013,M,Број,Christian,296
-2013,M,Број,Bosniak,207
-2013,M,Број,Croat,125
-2013,M,Број,Adventist,80
-2013,M,Број,Bosnian,88
-2013,M,Број,Agnostic,5142
-2013,M,Број,Atheist,15119
-2013,M,Број,Others,1604
-2013,M,Број,Undeclared,15086
-2013,M,Број,Unknown,3259
-2013,Ж,Број,Islam,912118
-2013,Ж,Број,Orthodox,553334
-2013,Ж,Број,Catholic,273910
-2013,Ж,Број,Muslim,10809
-2013,Ж,Број,Roman_Catholic,3373
-2013,Ж,Број,Serbian,2086
-2013,Ж,Број,jehovah_s_witnesses,734
-2013,Ж,Број,Greek_Catholic,483
-2013,Ж,Број,Protestant,343
-2013,Ж,Број,Romani,278
-2013,Ж,Број,Christian,271
-2013,Ж,Број,Bosniak,204
-2013,Ж,Број,Croat,150
-2013,Ж,Број,Adventist,113
-2013,Ж,Број,Bosnian,66
-2013,Ж,Број,Agnostic,5674
-2013,Ж,Број,Atheist,12734
-2013,Ж,Број,Others,1266
-2013,Ж,Број,Undeclared,17614
-2013,Ж,Број,Unknown,3329
+Year,UNIT_MEASURE,Teritory,Пол,Religion,Value
+2013,Број,REPUBLIKA SRPSKA,Оба пола,_T,1170342
+2013,Број,REPUBLIKA SRPSKA,M,_T,571812
+2013,Број,REPUBLIKA SRPSKA,Ж,_T,598530
+2013,Број,BANJA LUKA,Оба пола,_T,180053
+2013,Број,BANJA LUKA,M,_T,86510
+2013,Број,BANJA LUKA,Ж,_T,93543
+2013,Број,BERKOVICI,Оба пола,_T,2041
+2013,Број,BERKOVICI,M,_T,1032
+2013,Број,BERKOVICI,Ж,_T,1009
+2013,Број,BIJELJINA,Оба пола,_T,103874
+2013,Број,BIJELJINA,M,_T,50760
+2013,Број,BIJELJINA,Ж,_T,53114
+2013,Број,BILECA,Оба пола,_T,10607
+2013,Број,BILECA,M,_T,5346
+2013,Број,BILECA,Ж,_T,5261
+2013,Број,BRATUNAC,Оба пола,_T,18651
+2013,Број,BRATUNAC,M,_T,9210
+2013,Број,BRATUNAC,Ж,_T,9441
+2013,Број,BROD,Оба пола,_T,15720
+2013,Број,BROD,M,_T,7670
+2013,Број,BROD,Ж,_T,8050
+2013,Број,VISEGRAD,Оба пола,_T,10118
+2013,Број,VISEGRAD,M,_T,4834
+2013,Број,VISEGRAD,Ж,_T,5284
+2013,Број,VLASENICA,Оба пола,_T,10657
+2013,Број,VLASENICA,M,_T,5193
+2013,Број,VLASENICA,Ж,_T,5464
+2013,Број,VUKOSAVLJE,Оба пола,_T,4363
+2013,Број,VUKOSAVLJE,M,_T,2185
+2013,Број,VUKOSAVLJE,Ж,_T,2178
+2013,Број,GACKO,Оба пола,_T,8710
+2013,Број,GACKO,M,_T,4423
+2013,Број,GACKO,Ж,_T,4287
+2013,Број,GRADISKA,Оба пола,_T,49196
+2013,Број,GRADISKA,M,_T,23944
+2013,Број,GRADISKA,Ж,_T,25252
+2013,Број,DERVENTA,Оба пола,_T,25922
+2013,Број,DERVENTA,M,_T,12629
+2013,Број,DERVENTA,Ж,_T,13293
+2013,Број,DOBOJ,Оба пола,_T,68514
+2013,Број,DOBOJ,M,_T,33222
+2013,Број,DOBOJ,Ж,_T,35292
+2013,Број,DONJI ZABAR,Оба пола,_T,3669
+2013,Број,DONJI ZABAR,M,_T,1853
+2013,Број,DONJI ZABAR,Ж,_T,1816
+2013,Број,ZVORNIK,Оба пола,_T,54407
+2013,Број,ZVORNIK,M,_T,26803
+2013,Број,ZVORNIK,Ж,_T,27604
+2013,Број,ISTOCNA ILIDZA,Оба пола,_T,14437
+2013,Број,ISTOCNA ILIDZA,M,_T,6905
+2013,Број,ISTOCNA ILIDZA,Ж,_T,7532
+2013,Број,ISTOCNI DRVAR,Оба пола,_T,66
+2013,Број,ISTOCNI DRVAR,M,_T,44
+2013,Број,ISTOCNI DRVAR,Ж,_T,22
+2013,Број,ISTOCNI MOSTAR,Оба пола,_T,244
+2013,Број,ISTOCNI MOSTAR,M,_T,138
+2013,Број,ISTOCNI MOSTAR,Ж,_T,106
+2013,Број,ISTOCNI STARI GRAD,Оба пола,_T,1116
+2013,Број,ISTOCNI STARI GRAD,M,_T,552
+2013,Број,ISTOCNI STARI GRAD,Ж,_T,564
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,_T,10401
+2013,Број,ISTOCNO NOVO SARAJEVO,M,_T,4936
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,_T,5465
+2013,Број,JEZERO,Оба пола,_T,1039
+2013,Број,JEZERO,M,_T,534
+2013,Број,JEZERO,Ж,_T,505
+2013,Број,KALINOVIK,Оба пола,_T,1962
+2013,Број,KALINOVIK,M,_T,950
+2013,Број,KALINOVIK,Ж,_T,1012
+2013,Број,KNEZEVO,Оба пола,_T,9368
+2013,Број,KNEZEVO,M,_T,4632
+2013,Број,KNEZEVO,Ж,_T,4736
+2013,Број,KOZARSKA DUBICA,Оба пола,_T,20681
+2013,Број,KOZARSKA DUBICA,M,_T,10094
+2013,Број,KOZARSKA DUBICA,Ж,_T,10587
+2013,Број,KOSTAJNICA,Оба пола,_T,5645
+2013,Број,KOSTAJNICA,M,_T,2780
+2013,Број,KOSTAJNICA,Ж,_T,2865
+2013,Број,KOTOR VAROS,Оба пола,_T,18361
+2013,Број,KOTOR VAROS,M,_T,9007
+2013,Број,KOTOR VAROS,Ж,_T,9354
+2013,Број,KRUPA NA UNI,Оба пола,_T,1560
+2013,Број,KRUPA NA UNI,M,_T,841
+2013,Број,KRUPA NA UNI,Ж,_T,719
+2013,Број,KUPRES,Оба пола,_T,293
+2013,Број,KUPRES,M,_T,157
+2013,Број,KUPRES,Ж,_T,136
+2013,Број,LAKTASI,Оба пола,_T,34210
+2013,Број,LAKTASI,M,_T,16905
+2013,Број,LAKTASI,Ж,_T,17305
+2013,Број,LOPARE,Оба пола,_T,14689
+2013,Број,LOPARE,M,_T,7377
+2013,Број,LOPARE,Ж,_T,7312
+2013,Број,LJUBINJE,Оба пола,_T,3319
+2013,Број,LJUBINJE,M,_T,1633
+2013,Број,LJUBINJE,Ж,_T,1686
+2013,Број,MILICI,Оба пола,_T,10445
+2013,Број,MILICI,M,_T,5252
+2013,Број,MILICI,Ж,_T,5193
+2013,Број,MODRICA,Оба пола,_T,24490
+2013,Број,MODRICA,M,_T,11969
+2013,Број,MODRICA,Ж,_T,12521
+2013,Број,MRKONJIC GRAD,Оба пола,_T,15926
+2013,Број,MRKONJIC GRAD,M,_T,7660
+2013,Број,MRKONJIC GRAD,Ж,_T,8266
+2013,Број,NEVESINJE,Оба пола,_T,12542
+2013,Број,NEVESINJE,M,_T,6236
+2013,Број,NEVESINJE,Ж,_T,6306
+2013,Број,NOVI GRAD,Оба пола,_T,25240
+2013,Број,NOVI GRAD,M,_T,12580
+2013,Број,NOVI GRAD,Ж,_T,12660
+2013,Број,NOVO GORAZDE,Оба пола,_T,2915
+2013,Број,NOVO GORAZDE,M,_T,1500
+2013,Број,NOVO GORAZDE,Ж,_T,1415
+2013,Број,OSMACI,Оба пола,_T,5546
+2013,Број,OSMACI,M,_T,2779
+2013,Број,OSMACI,Ж,_T,2767
+2013,Број,OSTRA LUKA,Оба пола,_T,2705
+2013,Број,OSTRA LUKA,M,_T,1386
+2013,Број,OSTRA LUKA,Ж,_T,1319
+2013,Број,PALE,Оба пола,_T,20359
+2013,Број,PALE,M,_T,9744
+2013,Број,PALE,Ж,_T,10615
+2013,Број,PELAGICEVO,Оба пола,_T,4358
+2013,Број,PELAGICEVO,M,_T,2151
+2013,Број,PELAGICEVO,Ж,_T,2207
+2013,Број,PETROVAC,Оба пола,_T,354
+2013,Број,PETROVAC,M,_T,169
+2013,Број,PETROVAC,Ж,_T,185
+2013,Број,PETROVO,Оба пола,_T,6317
+2013,Број,PETROVO,M,_T,3043
+2013,Број,PETROVO,Ж,_T,3274
+2013,Број,PRIJEDOR,Оба пола,_T,80916
+2013,Број,PRIJEDOR,M,_T,39418
+2013,Број,PRIJEDOR,Ж,_T,41498
+2013,Број,PRNJAVOR,Оба пола,_T,34357
+2013,Број,PRNJAVOR,M,_T,16675
+2013,Број,PRNJAVOR,Ж,_T,17682
+2013,Број,RIBNIK,Оба пола,_T,5851
+2013,Број,RIBNIK,M,_T,2900
+2013,Број,RIBNIK,Ж,_T,2951
+2013,Број,ROGATICA,Оба пола,_T,10302
+2013,Број,ROGATICA,M,_T,5053
+2013,Број,ROGATICA,Ж,_T,5249
+2013,Број,RUDO,Оба пола,_T,7578
+2013,Број,RUDO,M,_T,3840
+2013,Број,RUDO,Ж,_T,3738
+2013,Број,SOKOLAC,Оба пола,_T,11620
+2013,Број,SOKOLAC,M,_T,5723
+2013,Број,SOKOLAC,Ж,_T,5897
+2013,Број,SRBAC,Оба пола,_T,16933
+2013,Број,SRBAC,M,_T,8295
+2013,Број,SRBAC,Ж,_T,8638
+2013,Број,SREBRENICA,Оба пола,_T,11698
+2013,Број,SREBRENICA,M,_T,5714
+2013,Број,SREBRENICA,Ж,_T,5984
+2013,Број,TESLIC,Оба пола,_T,37236
+2013,Број,TESLIC,M,_T,17894
+2013,Број,TESLIC,Ж,_T,19342
+2013,Број,TREBINJE,Оба пола,_T,28239
+2013,Број,TREBINJE,M,_T,13760
+2013,Број,TREBINJE,Ж,_T,14479
+2013,Број,TRNOVO,Оба пола,_T,1983
+2013,Број,TRNOVO,M,_T,953
+2013,Број,TRNOVO,Ж,_T,1030
+2013,Број,UGLJEVIK,Оба пола,_T,15118
+2013,Број,UGLJEVIK,M,_T,7626
+2013,Број,UGLJEVIK,Ж,_T,7492
+2013,Број,FOCA,Оба пола,_T,17580
+2013,Број,FOCA,M,_T,8880
+2013,Број,FOCA,Ж,_T,8700
+2013,Број,HAN PIJESAK,Оба пола,_T,3445
+2013,Број,HAN PIJESAK,M,_T,1632
+2013,Број,HAN PIJESAK,Ж,_T,1813
+2013,Број,CAJNICE,Оба пола,_T,4679
+2013,Број,CAJNICE,M,_T,2347
+2013,Број,CAJNICE,Ж,_T,2332
+2013,Број,CELINAC,Оба пола,_T,15117
+2013,Број,CELINAC,M,_T,7477
+2013,Број,CELINAC,Ж,_T,7640
+2013,Број,SAMAC,Оба пола,_T,16308
+2013,Број,SAMAC,M,_T,7908
+2013,Број,SAMAC,Ж,_T,8400
+2013,Број,SEKOVICI,Оба пола,_T,6323
+2013,Број,SEKOVICI,M,_T,3103
+2013,Број,SEKOVICI,Ж,_T,3220
+2013,Број,SIPOVO,Оба пола,_T,9969
+2013,Број,SIPOVO,M,_T,5046
+2013,Број,SIPOVO,Ж,_T,4923
+2013,Број,REPUBLIKA SRPSKA,Оба пола,islam,149435
+2013,Број,REPUBLIKA SRPSKA,M,islam,72605
+2013,Број,REPUBLIKA SRPSKA,Ж,islam,76830
+2013,Број,BANJA LUKA,Оба пола,islam,6693
+2013,Број,BANJA LUKA,M,islam,3053
+2013,Број,BANJA LUKA,Ж,islam,3640
+2013,Број,BERKOVICI,Оба пола,islam,155
+2013,Број,BERKOVICI,M,islam,87
+2013,Број,BERKOVICI,Ж,islam,68
+2013,Број,BIJELJINA,Оба пола,islam,12055
+2013,Број,BIJELJINA,M,islam,5902
+2013,Број,BIJELJINA,Ж,islam,6153
+2013,Број,BILECA,Оба пола,islam,23
+2013,Број,BILECA,M,islam,14
+2013,Број,BILECA,Ж,islam,9
+2013,Број,BRATUNAC,Оба пола,islam,6591
+2013,Број,BRATUNAC,M,islam,3220
+2013,Број,BRATUNAC,Ж,islam,3371
+2013,Број,BROD,Оба пола,islam,1311
+2013,Број,BROD,M,islam,646
+2013,Број,BROD,Ж,islam,665
+2013,Број,VISEGRAD,Оба пола,islam,876
+2013,Број,VISEGRAD,M,islam,443
+2013,Број,VISEGRAD,Ж,islam,433
+2013,Број,VLASENICA,Оба пола,islam,3354
+2013,Број,VLASENICA,M,islam,1645
+2013,Број,VLASENICA,Ж,islam,1709
+2013,Број,VUKOSAVLJE,Оба пола,islam,2154
+2013,Број,VUKOSAVLJE,M,islam,1105
+2013,Број,VUKOSAVLJE,Ж,islam,1049
+2013,Број,GACKO,Оба пола,islam,330
+2013,Број,GACKO,M,islam,178
+2013,Број,GACKO,Ж,islam,152
+2013,Број,GRADISKA,Оба пола,islam,6619
+2013,Број,GRADISKA,M,islam,3214
+2013,Број,GRADISKA,Ж,islam,3405
+2013,Број,DERVENTA,Оба пола,islam,1709
+2013,Број,DERVENTA,M,islam,820
+2013,Број,DERVENTA,Ж,islam,889
+2013,Број,DOBOJ,Оба пола,islam,14342
+2013,Број,DOBOJ,M,islam,6861
+2013,Број,DOBOJ,Ж,islam,7481
+2013,Број,DONJI ZABAR,Оба пола,islam,4
+2013,Број,DONJI ZABAR,Ж,islam,4
+2013,Број,ZVORNIK,Оба пола,islam,16791
+2013,Број,ZVORNIK,M,islam,8218
+2013,Број,ZVORNIK,Ж,islam,8573
+2013,Број,ISTOCNA ILIDZA,Оба пола,islam,630
+2013,Број,ISTOCNA ILIDZA,M,islam,291
+2013,Број,ISTOCNA ILIDZA,Ж,islam,339
+2013,Број,ISTOCNI MOSTAR,Оба пола,islam,77
+2013,Број,ISTOCNI MOSTAR,M,islam,44
+2013,Број,ISTOCNI MOSTAR,Ж,islam,33
+2013,Број,ISTOCNI STARI GRAD,Оба пола,islam,38
+2013,Број,ISTOCNI STARI GRAD,M,islam,23
+2013,Број,ISTOCNI STARI GRAD,Ж,islam,15
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,islam,121
+2013,Број,ISTOCNO NOVO SARAJEVO,M,islam,52
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,islam,69
+2013,Број,JEZERO,Оба пола,islam,250
+2013,Број,JEZERO,M,islam,117
+2013,Број,JEZERO,Ж,islam,133
+2013,Број,KALINOVIK,Оба пола,islam,42
+2013,Број,KALINOVIK,M,islam,19
+2013,Број,KALINOVIK,Ж,islam,23
+2013,Број,KNEZEVO,Оба пола,islam,403
+2013,Број,KNEZEVO,M,islam,182
+2013,Број,KNEZEVO,Ж,islam,221
+2013,Број,KOZARSKA DUBICA,Оба пола,islam,1902
+2013,Број,KOZARSKA DUBICA,M,islam,915
+2013,Број,KOZARSKA DUBICA,Ж,islam,987
+2013,Број,KOSTAJNICA,Оба пола,islam,1271
+2013,Број,KOSTAJNICA,M,islam,623
+2013,Број,KOSTAJNICA,Ж,islam,648
+2013,Број,KOTOR VAROS,Оба пола,islam,4498
+2013,Број,KOTOR VAROS,M,islam,2159
+2013,Број,KOTOR VAROS,Ж,islam,2339
+2013,Број,KRUPA NA UNI,Оба пола,islam,3
+2013,Број,KRUPA NA UNI,M,islam,1
+2013,Број,KRUPA NA UNI,Ж,islam,2
+2013,Број,LAKTASI,Оба пола,islam,110
+2013,Број,LAKTASI,M,islam,49
+2013,Број,LAKTASI,Ж,islam,61
+2013,Број,LOPARE,Оба пола,islam,1315
+2013,Број,LOPARE,M,islam,648
+2013,Број,LOPARE,Ж,islam,667
+2013,Број,LJUBINJE,Оба пола,islam,12
+2013,Број,LJUBINJE,M,islam,6
+2013,Број,LJUBINJE,Ж,islam,6
+2013,Број,MILICI,Оба пола,islam,3538
+2013,Број,MILICI,M,islam,1750
+2013,Број,MILICI,Ж,islam,1788
+2013,Број,MODRICA,Оба пола,islam,3032
+2013,Број,MODRICA,M,islam,1445
+2013,Број,MODRICA,Ж,islam,1587
+2013,Број,MRKONJIC GRAD,Оба пола,islam,351
+2013,Број,MRKONJIC GRAD,M,islam,170
+2013,Број,MRKONJIC GRAD,Ж,islam,181
+2013,Број,NEVESINJE,Оба пола,islam,508
+2013,Број,NEVESINJE,M,islam,260
+2013,Број,NEVESINJE,Ж,islam,248
+2013,Број,NOVI GRAD,Оба пола,islam,5261
+2013,Број,NOVI GRAD,M,islam,2635
+2013,Број,NOVI GRAD,Ж,islam,2626
+2013,Број,NOVO GORAZDE,Оба пола,islam,1319
+2013,Број,NOVO GORAZDE,M,islam,662
+2013,Број,NOVO GORAZDE,Ж,islam,657
+2013,Број,OSMACI,Оба пола,islam,2647
+2013,Број,OSMACI,M,islam,1303
+2013,Број,OSMACI,Ж,islam,1344
+2013,Број,OSTRA LUKA,Оба пола,islam,26
+2013,Број,OSTRA LUKA,M,islam,8
+2013,Број,OSTRA LUKA,Ж,islam,18
+2013,Број,PALE,Оба пола,islam,160
+2013,Број,PALE,M,islam,83
+2013,Број,PALE,Ж,islam,77
+2013,Број,PELAGICEVO,Оба пола,islam,13
+2013,Број,PELAGICEVO,M,islam,3
+2013,Број,PELAGICEVO,Ж,islam,10
+2013,Број,PETROVO,Оба пола,islam,7
+2013,Број,PETROVO,M,islam,2
+2013,Број,PETROVO,Ж,islam,5
+2013,Број,PRIJEDOR,Оба пола,islam,22271
+2013,Број,PRIJEDOR,M,islam,10662
+2013,Број,PRIJEDOR,Ж,islam,11609
+2013,Број,PRNJAVOR,Оба пола,islam,2776
+2013,Број,PRNJAVOR,M,islam,1337
+2013,Број,PRNJAVOR,Ж,islam,1439
+2013,Број,ROGATICA,Оба пола,islam,1006
+2013,Број,ROGATICA,M,islam,517
+2013,Број,ROGATICA,Ж,islam,489
+2013,Број,RUDO,Оба пола,islam,588
+2013,Број,RUDO,M,islam,306
+2013,Број,RUDO,Ж,islam,282
+2013,Број,SOKOLAC,Оба пола,islam,620
+2013,Број,SOKOLAC,M,islam,325
+2013,Број,SOKOLAC,Ж,islam,295
+2013,Број,SRBAC,Оба пола,islam,399
+2013,Број,SRBAC,M,islam,184
+2013,Број,SRBAC,Ж,islam,215
+2013,Број,SREBRENICA,Оба пола,islam,6134
+2013,Број,SREBRENICA,M,islam,2916
+2013,Број,SREBRENICA,Ж,islam,3218
+2013,Број,TESLIC,Оба пола,islam,6932
+2013,Број,TESLIC,M,islam,3410
+2013,Број,TESLIC,Ж,islam,3522
+2013,Број,TREBINJE,Оба пола,islam,848
+2013,Број,TREBINJE,M,islam,415
+2013,Број,TREBINJE,Ж,islam,433
+2013,Број,TRNOVO,Оба пола,islam,802
+2013,Број,TRNOVO,M,islam,395
+2013,Број,TRNOVO,Ж,islam,407
+2013,Број,UGLJEVIK,Оба пола,islam,2002
+2013,Број,UGLJEVIK,M,islam,977
+2013,Број,UGLJEVIK,Ж,islam,1025
+2013,Број,FOCA,Оба пола,islam,1173
+2013,Број,FOCA,M,islam,630
+2013,Број,FOCA,Ж,islam,543
+2013,Број,HAN PIJESAK,Оба пола,islam,435
+2013,Број,HAN PIJESAK,M,islam,212
+2013,Број,HAN PIJESAK,Ж,islam,223
+2013,Број,CAJNICE,Оба пола,islam,836
+2013,Број,CAJNICE,M,islam,440
+2013,Број,CAJNICE,Ж,islam,396
+2013,Број,CELINAC,Оба пола,islam,406
+2013,Број,CELINAC,M,islam,203
+2013,Број,CELINAC,Ж,islam,203
+2013,Број,SAMAC,Оба пола,islam,976
+2013,Број,SAMAC,M,islam,471
+2013,Број,SAMAC,Ж,islam,505
+2013,Број,SEKOVICI,Оба пола,islam,107
+2013,Број,SEKOVICI,M,islam,54
+2013,Број,SEKOVICI,Ж,islam,53
+2013,Број,SIPOVO,Оба пола,islam,583
+2013,Број,SIPOVO,M,islam,295
+2013,Број,SIPOVO,Ж,islam,288
+2013,Број,REPUBLIKA SRPSKA,Оба пола,catholic,25763
+2013,Број,REPUBLIKA SRPSKA,M,catholic,10431
+2013,Број,REPUBLIKA SRPSKA,Ж,catholic,15332
+2013,Број,BANJA LUKA,Оба пола,catholic,4637
+2013,Број,BANJA LUKA,M,catholic,1585
+2013,Број,BANJA LUKA,Ж,catholic,3052
+2013,Број,BERKOVICI,Оба пола,catholic,6
+2013,Број,BERKOVICI,M,catholic,1
+2013,Број,BERKOVICI,Ж,catholic,5
+2013,Број,BIJELJINA,Оба пола,catholic,508
+2013,Број,BIJELJINA,M,catholic,103
+2013,Број,BIJELJINA,Ж,catholic,405
+2013,Број,BILECA,Оба пола,catholic,18
+2013,Број,BILECA,M,catholic,2
+2013,Број,BILECA,Ж,catholic,16
+2013,Број,BRATUNAC,Оба пола,catholic,26
+2013,Број,BRATUNAC,M,catholic,3
+2013,Број,BRATUNAC,Ж,catholic,23
+2013,Број,BROD,Оба пола,catholic,2925
+2013,Број,BROD,M,catholic,1360
+2013,Број,BROD,Ж,catholic,1565
+2013,Број,VISEGRAD,Оба пола,catholic,33
+2013,Број,VISEGRAD,M,catholic,6
+2013,Број,VISEGRAD,Ж,catholic,27
+2013,Број,VLASENICA,Оба пола,catholic,22
+2013,Број,VLASENICA,M,catholic,4
+2013,Број,VLASENICA,Ж,catholic,18
+2013,Број,VUKOSAVLJE,Оба пола,catholic,680
+2013,Број,VUKOSAVLJE,M,catholic,325
+2013,Број,VUKOSAVLJE,Ж,catholic,355
+2013,Број,GACKO,Оба пола,catholic,10
+2013,Број,GACKO,M,catholic,4
+2013,Број,GACKO,Ж,catholic,6
+2013,Број,GRADISKA,Оба пола,catholic,865
+2013,Број,GRADISKA,M,catholic,303
+2013,Број,GRADISKA,Ж,catholic,562
+2013,Број,DERVENTA,Оба пола,catholic,2109
+2013,Број,DERVENTA,M,catholic,999
+2013,Број,DERVENTA,Ж,catholic,1110
+2013,Број,DOBOJ,Оба пола,catholic,1448
+2013,Број,DOBOJ,M,catholic,532
+2013,Број,DOBOJ,Ж,catholic,916
+2013,Број,DONJI ZABAR,Оба пола,catholic,977
+2013,Број,DONJI ZABAR,M,catholic,490
+2013,Број,DONJI ZABAR,Ж,catholic,487
+2013,Број,ZVORNIK,Оба пола,catholic,83
+2013,Број,ZVORNIK,M,catholic,6
+2013,Број,ZVORNIK,Ж,catholic,77
+2013,Број,ISTOCNA ILIDZA,Оба пола,catholic,142
+2013,Број,ISTOCNA ILIDZA,M,catholic,36
+2013,Број,ISTOCNA ILIDZA,Ж,catholic,106
+2013,Број,ISTOCNI DRVAR,Оба пола,catholic,1
+2013,Број,ISTOCNI DRVAR,Ж,catholic,1
+2013,Број,ISTOCNI MOSTAR,Оба пола,catholic,11
+2013,Број,ISTOCNI MOSTAR,M,catholic,8
+2013,Број,ISTOCNI MOSTAR,Ж,catholic,3
+2013,Број,ISTOCNI STARI GRAD,Оба пола,catholic,5
+2013,Број,ISTOCNI STARI GRAD,Ж,catholic,5
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,catholic,101
+2013,Број,ISTOCNO NOVO SARAJEVO,M,catholic,28
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,catholic,73
+2013,Број,JEZERO,Оба пола,catholic,4
+2013,Број,JEZERO,M,catholic,2
+2013,Број,JEZERO,Ж,catholic,2
+2013,Број,KALINOVIK,Оба пола,catholic,5
+2013,Број,KALINOVIK,M,catholic,2
+2013,Број,KALINOVIK,Ж,catholic,3
+2013,Број,KNEZEVO,Оба пола,catholic,17
+2013,Број,KNEZEVO,M,catholic,4
+2013,Број,KNEZEVO,Ж,catholic,13
+2013,Број,KOZARSKA DUBICA,Оба пола,catholic,250
+2013,Број,KOZARSKA DUBICA,M,catholic,72
+2013,Број,KOZARSKA DUBICA,Ж,catholic,178
+2013,Број,KOSTAJNICA,Оба пола,catholic,84
+2013,Број,KOSTAJNICA,M,catholic,26
+2013,Број,KOSTAJNICA,Ж,catholic,58
+2013,Број,KOTOR VAROS,Оба пола,catholic,788
+2013,Број,KOTOR VAROS,M,catholic,365
+2013,Број,KOTOR VAROS,Ж,catholic,423
+2013,Број,KRUPA NA UNI,Оба пола,catholic,2
+2013,Број,KRUPA NA UNI,Ж,catholic,2
+2013,Број,LAKTASI,Оба пола,catholic,497
+2013,Број,LAKTASI,M,catholic,166
+2013,Број,LAKTASI,Ж,catholic,331
+2013,Број,LOPARE,Оба пола,catholic,40
+2013,Број,LOPARE,M,catholic,5
+2013,Број,LOPARE,Ж,catholic,35
+2013,Број,LJUBINJE,Оба пола,catholic,5
+2013,Број,LJUBINJE,M,catholic,1
+2013,Број,LJUBINJE,Ж,catholic,4
+2013,Број,MILICI,Оба пола,catholic,17
+2013,Број,MILICI,M,catholic,5
+2013,Број,MILICI,Ж,catholic,12
+2013,Број,MODRICA,Оба пола,catholic,1365
+2013,Број,MODRICA,M,catholic,651
+2013,Број,MODRICA,Ж,catholic,714
+2013,Број,MRKONJIC GRAD,Оба пола,catholic,146
+2013,Број,MRKONJIC GRAD,M,catholic,56
+2013,Број,MRKONJIC GRAD,Ж,catholic,90
+2013,Број,NEVESINJE,Оба пола,catholic,21
+2013,Број,NEVESINJE,M,catholic,5
+2013,Број,NEVESINJE,Ж,catholic,16
+2013,Број,NOVI GRAD,Оба пола,catholic,152
+2013,Број,NOVI GRAD,M,catholic,47
+2013,Број,NOVI GRAD,Ж,catholic,105
+2013,Број,NOVO GORAZDE,Оба пола,catholic,2
+2013,Број,NOVO GORAZDE,M,catholic,1
+2013,Број,NOVO GORAZDE,Ж,catholic,1
+2013,Број,OSMACI,Оба пола,catholic,4
+2013,Број,OSMACI,Ж,catholic,4
+2013,Број,OSTRA LUKA,Оба пола,catholic,131
+2013,Број,OSTRA LUKA,M,catholic,62
+2013,Број,OSTRA LUKA,Ж,catholic,69
+2013,Број,PALE,Оба пола,catholic,116
+2013,Број,PALE,M,catholic,30
+2013,Број,PALE,Ж,catholic,86
+2013,Број,PELAGICEVO,Оба пола,catholic,1180
+2013,Број,PELAGICEVO,M,catholic,578
+2013,Број,PELAGICEVO,Ж,catholic,602
+2013,Број,PETROVO,Оба пола,catholic,35
+2013,Број,PETROVO,M,catholic,10
+2013,Број,PETROVO,Ж,catholic,25
+2013,Број,PRIJEDOR,Оба пола,catholic,1544
+2013,Број,PRIJEDOR,M,catholic,587
+2013,Број,PRIJEDOR,Ж,catholic,957
+2013,Број,PRNJAVOR,Оба пола,catholic,645
+2013,Број,PRNJAVOR,M,catholic,255
+2013,Број,PRNJAVOR,Ж,catholic,390
+2013,Број,RIBNIK,Оба пола,catholic,7
+2013,Број,RIBNIK,M,catholic,1
+2013,Број,RIBNIK,Ж,catholic,6
+2013,Број,ROGATICA,Оба пола,catholic,16
+2013,Број,ROGATICA,M,catholic,1
+2013,Број,ROGATICA,Ж,catholic,15
+2013,Број,RUDO,Оба пола,catholic,3
+2013,Број,RUDO,M,catholic,1
+2013,Број,RUDO,Ж,catholic,2
+2013,Број,SOKOLAC,Оба пола,catholic,23
+2013,Број,SOKOLAC,M,catholic,3
+2013,Број,SOKOLAC,Ж,catholic,20
+2013,Број,SRBAC,Оба пола,catholic,153
+2013,Број,SRBAC,M,catholic,37
+2013,Број,SRBAC,Ж,catholic,116
+2013,Број,SREBRENICA,Оба пола,catholic,17
+2013,Број,SREBRENICA,M,catholic,7
+2013,Број,SREBRENICA,Ж,catholic,10
+2013,Број,TESLIC,Оба пола,catholic,1292
+2013,Број,TESLIC,M,catholic,552
+2013,Број,TESLIC,Ж,catholic,740
+2013,Број,TREBINJE,Оба пола,catholic,293
+2013,Број,TREBINJE,M,catholic,90
+2013,Број,TREBINJE,Ж,catholic,203
+2013,Број,TRNOVO,Оба пола,catholic,15
+2013,Број,TRNOVO,M,catholic,2
+2013,Број,TRNOVO,Ж,catholic,13
+2013,Број,UGLJEVIK,Оба пола,catholic,39
+2013,Број,UGLJEVIK,M,catholic,7
+2013,Број,UGLJEVIK,Ж,catholic,32
+2013,Број,FOCA,Оба пола,catholic,64
+2013,Број,FOCA,M,catholic,20
+2013,Број,FOCA,Ж,catholic,44
+2013,Број,HAN PIJESAK,Оба пола,catholic,5
+2013,Број,HAN PIJESAK,Ж,catholic,5
+2013,Број,CAJNICE,Оба пола,catholic,5
+2013,Број,CAJNICE,Ж,catholic,5
+2013,Број,CELINAC,Оба пола,catholic,58
+2013,Број,CELINAC,M,catholic,14
+2013,Број,CELINAC,Ж,catholic,44
+2013,Број,SAMAC,Оба пола,catholic,2091
+2013,Број,SAMAC,M,catholic,969
+2013,Број,SAMAC,Ж,catholic,1122
+2013,Број,SEKOVICI,Оба пола,catholic,7
+2013,Број,SEKOVICI,Ж,catholic,7
+2013,Број,SIPOVO,Оба пола,catholic,18
+2013,Број,SIPOVO,M,catholic,2
+2013,Број,SIPOVO,Ж,catholic,16
+2013,Број,REPUBLIKA SRPSKA,Оба пола,ortodox,969315
+2013,Број,REPUBLIKA SRPSKA,M,ortodox,476184
+2013,Број,REPUBLIKA SRPSKA,Ж,ortodox,493131
+2013,Број,BANJA LUKA,Оба пола,ortodox,161267
+2013,Број,BANJA LUKA,M,ortodox,78266
+2013,Број,BANJA LUKA,Ж,ortodox,83001
+2013,Број,BERKOVICI,Оба пола,ortodox,1873
+2013,Број,BERKOVICI,M,ortodox,940
+2013,Број,BERKOVICI,Ж,ortodox,933
+2013,Број,BIJELJINA,Оба пола,ortodox,89144
+2013,Број,BIJELJINA,M,ortodox,43682
+2013,Број,BIJELJINA,Ж,ortodox,45462
+2013,Број,BILECA,Оба пола,ortodox,10490
+2013,Број,BILECA,M,ortodox,5291
+2013,Број,BILECA,Ж,ortodox,5199
+2013,Број,BRATUNAC,Оба пола,ortodox,11726
+2013,Број,BRATUNAC,M,ortodox,5835
+2013,Број,BRATUNAC,Ж,ortodox,5891
+2013,Број,BROD,Оба пола,ortodox,11066
+2013,Број,BROD,M,ortodox,5474
+2013,Број,BROD,Ж,ortodox,5592
+2013,Број,VISEGRAD,Оба пола,ortodox,8913
+2013,Број,VISEGRAD,M,ortodox,4315
+2013,Број,VISEGRAD,Ж,ortodox,4598
+2013,Број,VLASENICA,Оба пола,ortodox,7111
+2013,Број,VLASENICA,M,ortodox,3473
+2013,Број,VLASENICA,Ж,ortodox,3638
+2013,Број,VUKOSAVLJE,Оба пола,ortodox,1442
+2013,Број,VUKOSAVLJE,M,ortodox,713
+2013,Број,VUKOSAVLJE,Ж,ortodox,729
+2013,Број,GACKO,Оба пола,ortodox,8337
+2013,Број,GACKO,M,ortodox,4228
+2013,Број,GACKO,Ж,ortodox,4109
+2013,Број,GRADISKA,Оба пола,ortodox,40702
+2013,Број,GRADISKA,M,ortodox,19929
+2013,Број,GRADISKA,Ж,ortodox,20773
+2013,Број,DERVENTA,Оба пола,ortodox,21541
+2013,Број,DERVENTA,M,ortodox,10537
+2013,Број,DERVENTA,Ж,ortodox,11004
+2013,Број,DOBOJ,Оба пола,ortodox,50744
+2013,Број,DOBOJ,M,ortodox,24842
+2013,Број,DOBOJ,Ж,ortodox,25902
+2013,Број,DONJI ZABAR,Оба пола,ortodox,2658
+2013,Број,DONJI ZABAR,M,ortodox,1352
+2013,Број,DONJI ZABAR,Ж,ortodox,1306
+2013,Број,ZVORNIK,Оба пола,ortodox,37114
+2013,Број,ZVORNIK,M,ortodox,18378
+2013,Број,ZVORNIK,Ж,ortodox,18736
+2013,Број,ISTOCNA ILIDZA,Оба пола,ortodox,13458
+2013,Број,ISTOCNA ILIDZA,M,ortodox,6479
+2013,Број,ISTOCNA ILIDZA,Ж,ortodox,6979
+2013,Број,ISTOCNI DRVAR,Оба пола,ortodox,65
+2013,Број,ISTOCNI DRVAR,M,ortodox,44
+2013,Број,ISTOCNI DRVAR,Ж,ortodox,21
+2013,Број,ISTOCNI MOSTAR,Оба пола,ortodox,153
+2013,Број,ISTOCNI MOSTAR,M,ortodox,84
+2013,Број,ISTOCNI MOSTAR,Ж,ortodox,69
+2013,Број,ISTOCNI STARI GRAD,Оба пола,ortodox,1058
+2013,Број,ISTOCNI STARI GRAD,M,ortodox,520
+2013,Број,ISTOCNI STARI GRAD,Ж,ortodox,538
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,ortodox,10044
+2013,Број,ISTOCNO NOVO SARAJEVO,M,ortodox,4796
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,ortodox,5248
+2013,Број,JEZERO,Оба пола,ortodox,780
+2013,Број,JEZERO,M,ortodox,412
+2013,Број,JEZERO,Ж,ortodox,368
+2013,Број,KALINOVIK,Оба пола,ortodox,1905
+2013,Број,KALINOVIK,M,ortodox,923
+2013,Број,KALINOVIK,Ж,ortodox,982
+2013,Број,KNEZEVO,Оба пола,ortodox,8866
+2013,Број,KNEZEVO,M,ortodox,4408
+2013,Број,KNEZEVO,Ж,ortodox,4458
+2013,Број,KOZARSKA DUBICA,Оба пола,ortodox,18103
+2013,Број,KOZARSKA DUBICA,M,ortodox,8909
+2013,Број,KOZARSKA DUBICA,Ж,ortodox,9194
+2013,Број,KOSTAJNICA,Оба пола,ortodox,4190
+2013,Број,KOSTAJNICA,M,ortodox,2080
+2013,Број,KOSTAJNICA,Ж,ortodox,2110
+2013,Број,KOTOR VAROS,Оба пола,ortodox,12645
+2013,Број,KOTOR VAROS,M,ortodox,6263
+2013,Број,KOTOR VAROS,Ж,ortodox,6382
+2013,Број,KRUPA NA UNI,Оба пола,ortodox,1554
+2013,Број,KRUPA NA UNI,M,ortodox,840
+2013,Број,KRUPA NA UNI,Ж,ortodox,714
+2013,Број,KUPRES,Оба пола,ortodox,292
+2013,Број,KUPRES,M,ortodox,156
+2013,Број,KUPRES,Ж,ortodox,136
+2013,Број,LAKTASI,Оба пола,ortodox,32907
+2013,Број,LAKTASI,M,ortodox,16334
+2013,Број,LAKTASI,Ж,ortodox,16573
+2013,Број,LOPARE,Оба пола,ortodox,13273
+2013,Број,LOPARE,M,ortodox,6700
+2013,Број,LOPARE,Ж,ortodox,6573
+2013,Број,LJUBINJE,Оба пола,ortodox,3295
+2013,Број,LJUBINJE,M,ortodox,1621
+2013,Број,LJUBINJE,Ж,ortodox,1674
+2013,Број,MILICI,Оба пола,ortodox,6835
+2013,Број,MILICI,M,ortodox,3469
+2013,Број,MILICI,Ж,ortodox,3366
+2013,Број,MODRICA,Оба пола,ortodox,19482
+2013,Број,MODRICA,M,ortodox,9579
+2013,Број,MODRICA,Ж,ortodox,9903
+2013,Број,MRKONJIC GRAD,Оба пола,ortodox,15334
+2013,Број,MRKONJIC GRAD,M,ortodox,7387
+2013,Број,MRKONJIC GRAD,Ж,ortodox,7947
+2013,Број,NEVESINJE,Оба пола,ortodox,11973
+2013,Број,NEVESINJE,M,ortodox,5955
+2013,Број,NEVESINJE,Ж,ortodox,6018
+2013,Број,NOVI GRAD,Оба пола,ortodox,19443
+2013,Број,NOVI GRAD,M,ortodox,9725
+2013,Број,NOVI GRAD,Ж,ortodox,9718
+2013,Број,NOVO GORAZDE,Оба пола,ortodox,1563
+2013,Број,NOVO GORAZDE,M,ortodox,822
+2013,Број,NOVO GORAZDE,Ж,ortodox,741
+2013,Број,OSMACI,Оба пола,ortodox,2848
+2013,Број,OSMACI,M,ortodox,1446
+2013,Број,OSMACI,Ж,ortodox,1402
+2013,Број,OSTRA LUKA,Оба пола,ortodox,2503
+2013,Број,OSTRA LUKA,M,ortodox,1290
+2013,Број,OSTRA LUKA,Ж,ortodox,1213
+2013,Број,PALE,Оба пола,ortodox,19901
+2013,Број,PALE,M,ortodox,9546
+2013,Број,PALE,Ж,ortodox,10355
+2013,Број,PELAGICEVO,Оба пола,ortodox,3152
+2013,Број,PELAGICEVO,M,ortodox,1566
+2013,Број,PELAGICEVO,Ж,ortodox,1586
+2013,Број,PETROVAC,Оба пола,ortodox,352
+2013,Број,PETROVAC,M,ortodox,168
+2013,Број,PETROVAC,Ж,ortodox,184
+2013,Број,PETROVO,Оба пола,ortodox,6221
+2013,Број,PETROVO,M,ortodox,3004
+2013,Број,PETROVO,Ж,ortodox,3217
+2013,Број,PRIJEDOR,Оба пола,ortodox,53842
+2013,Број,PRIJEDOR,M,ortodox,26540
+2013,Број,PRIJEDOR,Ж,ortodox,27302
+2013,Број,PRNJAVOR,Оба пола,ortodox,29944
+2013,Број,PRNJAVOR,M,ortodox,14579
+2013,Број,PRNJAVOR,Ж,ortodox,15365
+2013,Број,RIBNIK,Оба пола,ortodox,5824
+2013,Број,RIBNIK,M,ortodox,2886
+2013,Број,RIBNIK,Ж,ortodox,2938
+2013,Број,ROGATICA,Оба пола,ortodox,9199
+2013,Број,ROGATICA,M,ortodox,4492
+2013,Број,ROGATICA,Ж,ortodox,4707
+2013,Број,RUDO,Оба пола,ortodox,6968
+2013,Број,RUDO,M,ortodox,3521
+2013,Број,RUDO,Ж,ortodox,3447
+2013,Број,SOKOLAC,Оба пола,ortodox,10897
+2013,Број,SOKOLAC,M,ortodox,5356
+2013,Број,SOKOLAC,Ж,ortodox,5541
+2013,Број,SRBAC,Оба пола,ortodox,16110
+2013,Број,SRBAC,M,ortodox,7932
+2013,Број,SRBAC,Ж,ortodox,8178
+2013,Број,SREBRENICA,Оба пола,ortodox,5418
+2013,Број,SREBRENICA,M,ortodox,2721
+2013,Број,SREBRENICA,Ж,ortodox,2697
+2013,Број,TESLIC,Оба пола,ortodox,28140
+2013,Број,TESLIC,M,ortodox,13523
+2013,Број,TESLIC,Ж,ortodox,14617
+2013,Број,TREBINJE,Оба пола,ortodox,26669
+2013,Број,TREBINJE,M,ortodox,13054
+2013,Број,TREBINJE,Ж,ortodox,13615
+2013,Број,TRNOVO,Оба пола,ortodox,1135
+2013,Број,TRNOVO,M,ortodox,537
+2013,Број,TRNOVO,Ж,ortodox,598
+2013,Број,UGLJEVIK,Оба пола,ortodox,13016
+2013,Број,UGLJEVIK,M,ortodox,6602
+2013,Број,UGLJEVIK,Ж,ortodox,6414
+2013,Број,FOCA,Оба пола,ortodox,16163
+2013,Број,FOCA,M,ortodox,8138
+2013,Број,FOCA,Ж,ortodox,8025
+2013,Број,HAN PIJESAK,Оба пола,ortodox,2998
+2013,Број,HAN PIJESAK,M,ortodox,1416
+2013,Број,HAN PIJESAK,Ж,ortodox,1582
+2013,Број,CAJNICE,Оба пола,ortodox,3812
+2013,Број,CAJNICE,M,ortodox,1895
+2013,Број,CAJNICE,Ж,ortodox,1917
+2013,Број,CELINAC,Оба пола,ortodox,14538
+2013,Број,CELINAC,M,ortodox,7205
+2013,Број,CELINAC,Ж,ortodox,7333
+2013,Број,SAMAC,Оба пола,ortodox,12833
+2013,Број,SAMAC,M,ortodox,6262
+2013,Број,SAMAC,Ж,ortodox,6571
+2013,Број,SEKOVICI,Оба пола,ortodox,6188
+2013,Број,SEKOVICI,M,ortodox,3035
+2013,Број,SEKOVICI,Ж,ortodox,3153
+2013,Број,SIPOVO,Оба пола,ortodox,9298
+2013,Број,SIPOVO,M,ortodox,4709
+2013,Број,SIPOVO,Ж,ortodox,4589
+2013,Број,REPUBLIKA SRPSKA,Оба пола,agnostic,1223
+2013,Број,REPUBLIKA SRPSKA,M,agnostic,610
+2013,Број,REPUBLIKA SRPSKA,Ж,agnostic,613
+2013,Број,BANJA LUKA,Оба пола,agnostic,592
+2013,Број,BANJA LUKA,M,agnostic,285
+2013,Број,BANJA LUKA,Ж,agnostic,307
+2013,Број,BIJELJINA,Оба пола,agnostic,60
+2013,Број,BIJELJINA,M,agnostic,33
+2013,Број,BIJELJINA,Ж,agnostic,27
+2013,Број,BILECA,Оба пола,agnostic,1
+2013,Број,BILECA,M,agnostic,1
+2013,Број,BRATUNAC,Оба пола,agnostic,2
+2013,Број,BRATUNAC,M,agnostic,1
+2013,Број,BRATUNAC,Ж,agnostic,1
+2013,Број,BROD,Оба пола,agnostic,15
+2013,Број,BROD,M,agnostic,7
+2013,Број,BROD,Ж,agnostic,8
+2013,Број,VISEGRAD,Оба пола,agnostic,2
+2013,Број,VISEGRAD,M,agnostic,2
+2013,Број,VLASENICA,Оба пола,agnostic,2
+2013,Број,VLASENICA,M,agnostic,1
+2013,Број,VLASENICA,Ж,agnostic,1
+2013,Број,VUKOSAVLJE,Оба пола,agnostic,1
+2013,Број,VUKOSAVLJE,M,agnostic,1
+2013,Број,GACKO,Оба пола,agnostic,1
+2013,Број,GACKO,Ж,agnostic,1
+2013,Број,GRADISKA,Оба пола,agnostic,45
+2013,Број,GRADISKA,M,agnostic,28
+2013,Број,GRADISKA,Ж,agnostic,17
+2013,Број,DERVENTA,Оба пола,agnostic,19
+2013,Број,DERVENTA,M,agnostic,9
+2013,Број,DERVENTA,Ж,agnostic,10
+2013,Број,DOBOJ,Оба пола,agnostic,71
+2013,Број,DOBOJ,M,agnostic,40
+2013,Број,DOBOJ,Ж,agnostic,31
+2013,Број,DONJI ZABAR,Оба пола,agnostic,1
+2013,Број,DONJI ZABAR,Ж,agnostic,1
+2013,Број,ZVORNIK,Оба пола,agnostic,9
+2013,Број,ZVORNIK,M,agnostic,5
+2013,Број,ZVORNIK,Ж,agnostic,4
+2013,Број,ISTOCNA ILIDZA,Оба пола,agnostic,17
+2013,Број,ISTOCNA ILIDZA,M,agnostic,8
+2013,Број,ISTOCNA ILIDZA,Ж,agnostic,9
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,agnostic,23
+2013,Број,ISTOCNO NOVO SARAJEVO,M,agnostic,8
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,agnostic,15
+2013,Број,KALINOVIK,Оба пола,agnostic,2
+2013,Број,KALINOVIK,Ж,agnostic,2
+2013,Број,KOZARSKA DUBICA,Оба пола,agnostic,17
+2013,Број,KOZARSKA DUBICA,M,agnostic,5
+2013,Број,KOZARSKA DUBICA,Ж,agnostic,12
+2013,Број,KOSTAJNICA,Оба пола,agnostic,3
+2013,Број,KOSTAJNICA,M,agnostic,3
+2013,Број,KOTOR VAROS,Оба пола,agnostic,10
+2013,Број,KOTOR VAROS,M,agnostic,6
+2013,Број,KOTOR VAROS,Ж,agnostic,4
+2013,Број,LAKTASI,Оба пола,agnostic,35
+2013,Број,LAKTASI,M,agnostic,19
+2013,Број,LAKTASI,Ж,agnostic,16
+2013,Број,LOPARE,Оба пола,agnostic,4
+2013,Број,LOPARE,Ж,agnostic,4
+2013,Број,MODRICA,Оба пола,agnostic,26
+2013,Број,MODRICA,M,agnostic,13
+2013,Број,MODRICA,Ж,agnostic,13
+2013,Број,MRKONJIC GRAD,Оба пола,agnostic,8
+2013,Број,MRKONJIC GRAD,M,agnostic,5
+2013,Број,MRKONJIC GRAD,Ж,agnostic,3
+2013,Број,NEVESINJE,Оба пола,agnostic,3
+2013,Број,NEVESINJE,M,agnostic,1
+2013,Број,NEVESINJE,Ж,agnostic,2
+2013,Број,NOVI GRAD,Оба пола,agnostic,9
+2013,Број,NOVI GRAD,M,agnostic,5
+2013,Број,NOVI GRAD,Ж,agnostic,4
+2013,Број,OSTRA LUKA,Оба пола,agnostic,2
+2013,Број,OSTRA LUKA,M,agnostic,1
+2013,Број,OSTRA LUKA,Ж,agnostic,1
+2013,Број,PALE,Оба пола,agnostic,15
+2013,Број,PALE,M,agnostic,9
+2013,Број,PALE,Ж,agnostic,6
+2013,Број,PETROVO,Оба пола,agnostic,1
+2013,Број,PETROVO,M,agnostic,1
+2013,Број,PRIJEDOR,Оба пола,agnostic,84
+2013,Број,PRIJEDOR,M,agnostic,48
+2013,Број,PRIJEDOR,Ж,agnostic,36
+2013,Број,PRNJAVOR,Оба пола,agnostic,25
+2013,Број,PRNJAVOR,M,agnostic,11
+2013,Број,PRNJAVOR,Ж,agnostic,14
+2013,Број,ROGATICA,Оба пола,agnostic,2
+2013,Број,ROGATICA,M,agnostic,2
+2013,Број,RUDO,Оба пола,agnostic,1
+2013,Број,RUDO,M,agnostic,1
+2013,Број,SOKOLAC,Оба пола,agnostic,2
+2013,Број,SOKOLAC,Ж,agnostic,2
+2013,Број,SRBAC,Оба пола,agnostic,7
+2013,Број,SRBAC,M,agnostic,5
+2013,Број,SRBAC,Ж,agnostic,2
+2013,Број,SREBRENICA,Оба пола,agnostic,1
+2013,Број,SREBRENICA,Ж,agnostic,1
+2013,Број,TESLIC,Оба пола,agnostic,37
+2013,Број,TESLIC,M,agnostic,15
+2013,Број,TESLIC,Ж,agnostic,22
+2013,Број,TREBINJE,Оба пола,agnostic,32
+2013,Број,TREBINJE,M,agnostic,14
+2013,Број,TREBINJE,Ж,agnostic,18
+2013,Број,TRNOVO,Оба пола,agnostic,3
+2013,Број,TRNOVO,M,agnostic,2
+2013,Број,TRNOVO,Ж,agnostic,1
+2013,Број,UGLJEVIK,Оба пола,agnostic,1
+2013,Број,UGLJEVIK,M,agnostic,1
+2013,Број,FOCA,Оба пола,agnostic,3
+2013,Број,FOCA,M,agnostic,1
+2013,Број,FOCA,Ж,agnostic,2
+2013,Број,HAN PIJESAK,Оба пола,agnostic,1
+2013,Број,HAN PIJESAK,Ж,agnostic,1
+2013,Број,CAJNICE,Оба пола,agnostic,1
+2013,Број,CAJNICE,Ж,agnostic,1
+2013,Број,CELINAC,Оба пола,agnostic,8
+2013,Број,CELINAC,M,agnostic,4
+2013,Број,CELINAC,Ж,agnostic,4
+2013,Број,SAMAC,Оба пола,agnostic,18
+2013,Број,SAMAC,M,agnostic,8
+2013,Број,SAMAC,Ж,agnostic,10
+2013,Број,SEKOVICI,Оба пола,agnostic,1
+2013,Број,SEKOVICI,M,agnostic,1
+2013,Број,REPUBLIKA SRPSKA,Оба пола,atheist,5784
+2013,Број,REPUBLIKA SRPSKA,M,atheist,3146
+2013,Број,REPUBLIKA SRPSKA,Ж,atheist,2638
+2013,Број,BANJA LUKA,Оба пола,atheist,2593
+2013,Број,BANJA LUKA,M,atheist,1342
+2013,Број,BANJA LUKA,Ж,atheist,1251
+2013,Број,BERKOVICI,Оба пола,atheist,2
+2013,Број,BERKOVICI,M,atheist,1
+2013,Број,BERKOVICI,Ж,atheist,1
+2013,Број,BIJELJINA,Оба пола,atheist,345
+2013,Број,BIJELJINA,M,atheist,218
+2013,Број,BIJELJINA,Ж,atheist,127
+2013,Број,BILECA,Оба пола,atheist,7
+2013,Број,BILECA,M,atheist,5
+2013,Број,BILECA,Ж,atheist,2
+2013,Број,BRATUNAC,Оба пола,atheist,8
+2013,Број,BRATUNAC,M,atheist,5
+2013,Број,BRATUNAC,Ж,atheist,3
+2013,Број,BROD,Оба пола,atheist,113
+2013,Број,BROD,M,atheist,59
+2013,Број,BROD,Ж,atheist,54
+2013,Број,VISEGRAD,Оба пола,atheist,21
+2013,Број,VISEGRAD,M,atheist,15
+2013,Број,VISEGRAD,Ж,atheist,6
+2013,Број,VLASENICA,Оба пола,atheist,16
+2013,Број,VLASENICA,M,atheist,10
+2013,Број,VLASENICA,Ж,atheist,6
+2013,Број,VUKOSAVLJE,Оба пола,atheist,9
+2013,Број,VUKOSAVLJE,M,atheist,7
+2013,Број,VUKOSAVLJE,Ж,atheist,2
+2013,Број,GACKO,Оба пола,atheist,3
+2013,Број,GACKO,M,atheist,1
+2013,Број,GACKO,Ж,atheist,2
+2013,Број,GRADISKA,Оба пола,atheist,223
+2013,Број,GRADISKA,M,atheist,126
+2013,Број,GRADISKA,Ж,atheist,97
+2013,Број,DERVENTA,Оба пола,atheist,100
+2013,Број,DERVENTA,M,atheist,51
+2013,Број,DERVENTA,Ж,atheist,49
+2013,Број,DOBOJ,Оба пола,atheist,378
+2013,Број,DOBOJ,M,atheist,200
+2013,Број,DOBOJ,Ж,atheist,178
+2013,Број,ZVORNIK,Оба пола,atheist,59
+2013,Број,ZVORNIK,M,atheist,36
+2013,Број,ZVORNIK,Ж,atheist,23
+2013,Број,ISTOCNA ILIDZA,Оба пола,atheist,60
+2013,Број,ISTOCNA ILIDZA,M,atheist,27
+2013,Број,ISTOCNA ILIDZA,Ж,atheist,33
+2013,Број,ISTOCNI STARI GRAD,Оба пола,atheist,2
+2013,Број,ISTOCNI STARI GRAD,M,atheist,1
+2013,Број,ISTOCNI STARI GRAD,Ж,atheist,1
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,atheist,37
+2013,Број,ISTOCNO NOVO SARAJEVO,M,atheist,18
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,atheist,19
+2013,Број,JEZERO,Оба пола,atheist,3
+2013,Број,JEZERO,M,atheist,2
+2013,Број,JEZERO,Ж,atheist,1
+2013,Број,KNEZEVO,Оба пола,atheist,5
+2013,Број,KNEZEVO,M,atheist,3
+2013,Број,KNEZEVO,Ж,atheist,2
+2013,Број,KOZARSKA DUBICA,Оба пола,atheist,130
+2013,Број,KOZARSKA DUBICA,M,atheist,68
+2013,Број,KOZARSKA DUBICA,Ж,atheist,62
+2013,Број,KOSTAJNICA,Оба пола,atheist,16
+2013,Број,KOSTAJNICA,M,atheist,12
+2013,Број,KOSTAJNICA,Ж,atheist,4
+2013,Број,KOTOR VAROS,Оба пола,atheist,56
+2013,Број,KOTOR VAROS,M,atheist,34
+2013,Број,KOTOR VAROS,Ж,atheist,22
+2013,Број,LAKTASI,Оба пола,atheist,96
+2013,Број,LAKTASI,M,atheist,57
+2013,Број,LAKTASI,Ж,atheist,39
+2013,Број,LOPARE,Оба пола,atheist,21
+2013,Број,LOPARE,M,atheist,12
+2013,Број,LOPARE,Ж,atheist,9
+2013,Број,LJUBINJE,Оба пола,atheist,1
+2013,Број,LJUBINJE,M,atheist,1
+2013,Број,MILICI,Оба пола,atheist,3
+2013,Број,MILICI,M,atheist,3
+2013,Број,MODRICA,Оба пола,atheist,98
+2013,Број,MODRICA,M,atheist,53
+2013,Број,MODRICA,Ж,atheist,45
+2013,Број,MRKONJIC GRAD,Оба пола,atheist,28
+2013,Број,MRKONJIC GRAD,M,atheist,13
+2013,Број,MRKONJIC GRAD,Ж,atheist,15
+2013,Број,NEVESINJE,Оба пола,atheist,8
+2013,Број,NEVESINJE,M,atheist,3
+2013,Број,NEVESINJE,Ж,atheist,5
+2013,Број,NOVI GRAD,Оба пола,atheist,81
+2013,Број,NOVI GRAD,M,atheist,36
+2013,Број,NOVI GRAD,Ж,atheist,45
+2013,Број,OSMACI,Оба пола,atheist,1
+2013,Број,OSMACI,M,atheist,1
+2013,Број,OSTRA LUKA,Оба пола,atheist,4
+2013,Број,OSTRA LUKA,M,atheist,3
+2013,Број,OSTRA LUKA,Ж,atheist,1
+2013,Број,PALE,Оба пола,atheist,47
+2013,Број,PALE,M,atheist,23
+2013,Број,PALE,Ж,atheist,24
+2013,Број,PELAGICEVO,Оба пола,atheist,1
+2013,Број,PELAGICEVO,Ж,atheist,1
+2013,Број,PETROVAC,Оба пола,atheist,2
+2013,Број,PETROVAC,M,atheist,1
+2013,Број,PETROVAC,Ж,atheist,1
+2013,Број,PETROVO,Оба пола,atheist,10
+2013,Број,PETROVO,M,atheist,7
+2013,Број,PETROVO,Ж,atheist,3
+2013,Број,PRIJEDOR,Оба пола,atheist,511
+2013,Број,PRIJEDOR,M,atheist,277
+2013,Број,PRIJEDOR,Ж,atheist,234
+2013,Број,PRNJAVOR,Оба пола,atheist,102
+2013,Број,PRNJAVOR,M,atheist,65
+2013,Број,PRNJAVOR,Ж,atheist,37
+2013,Број,RIBNIK,Оба пола,atheist,3
+2013,Број,RIBNIK,M,atheist,2
+2013,Број,RIBNIK,Ж,atheist,1
+2013,Број,ROGATICA,Оба пола,atheist,20
+2013,Број,ROGATICA,M,atheist,13
+2013,Број,ROGATICA,Ж,atheist,7
+2013,Број,RUDO,Оба пола,atheist,11
+2013,Број,RUDO,M,atheist,9
+2013,Број,RUDO,Ж,atheist,2
+2013,Број,SOKOLAC,Оба пола,atheist,14
+2013,Број,SOKOLAC,M,atheist,11
+2013,Број,SOKOLAC,Ж,atheist,3
+2013,Број,SRBAC,Оба пола,atheist,46
+2013,Број,SRBAC,M,atheist,28
+2013,Број,SRBAC,Ж,atheist,18
+2013,Број,SREBRENICA,Оба пола,atheist,14
+2013,Број,SREBRENICA,M,atheist,10
+2013,Број,SREBRENICA,Ж,atheist,4
+2013,Број,TESLIC,Оба пола,atheist,167
+2013,Број,TESLIC,M,atheist,89
+2013,Број,TESLIC,Ж,atheist,78
+2013,Број,TREBINJE,Оба пола,atheist,118
+2013,Број,TREBINJE,M,atheist,62
+2013,Број,TREBINJE,Ж,atheist,56
+2013,Број,TRNOVO,Оба пола,atheist,7
+2013,Број,TRNOVO,M,atheist,5
+2013,Број,TRNOVO,Ж,atheist,2
+2013,Број,UGLJEVIK,Оба пола,atheist,22
+2013,Број,UGLJEVIK,M,atheist,16
+2013,Број,UGLJEVIK,Ж,atheist,6
+2013,Број,FOCA,Оба пола,atheist,34
+2013,Број,FOCA,M,atheist,19
+2013,Број,FOCA,Ж,atheist,15
+2013,Број,HAN PIJESAK,Оба пола,atheist,1
+2013,Број,HAN PIJESAK,M,atheist,1
+2013,Број,HAN PIJESAK,Ж,atheist,-
+2013,Број,CAJNICE,Оба пола,atheist,4
+2013,Број,CAJNICE,M,atheist,3
+2013,Број,CAJNICE,Ж,atheist,1
+2013,Број,CELINAC,Оба пола,atheist,23
+2013,Број,CELINAC,M,atheist,12
+2013,Број,CELINAC,Ж,atheist,11
+2013,Број,SAMAC,Оба пола,atheist,81
+2013,Број,SAMAC,M,atheist,56
+2013,Број,SAMAC,Ж,atheist,25
+2013,Број,SEKOVICI,Оба пола,atheist,6
+2013,Број,SEKOVICI,M,atheist,5
+2013,Број,SEKOVICI,Ж,atheist,1
+2013,Број,SIPOVO,Оба пола,atheist,13
+2013,Број,SIPOVO,M,atheist,9
+2013,Број,SIPOVO,Ж,atheist,4
+2013,Број,REPUBLIKA SRPSKA,Оба пола,Друго,8729
+2013,Број,REPUBLIKA SRPSKA,M,Друго,4319
+2013,Број,REPUBLIKA SRPSKA,Ж,Друго,4410
+2013,Број,BANJA LUKA,Оба пола,Друго,1230
+2013,Број,BANJA LUKA,M,Друго,620
+2013,Број,BANJA LUKA,Ж,Друго,610
+2013,Број,BERKOVICI,Оба пола,Друго,3
+2013,Број,BERKOVICI,M,Друго,2
+2013,Број,BERKOVICI,Ж,Друго,1
+2013,Број,BIJELJINA,Оба пола,Друго,944
+2013,Број,BIJELJINA,M,Друго,471
+2013,Број,BIJELJINA,Ж,Друго,473
+2013,Број,BILECA,Оба пола,Друго,26
+2013,Број,BILECA,M,Друго,15
+2013,Број,BILECA,Ж,Друго,11
+2013,Број,BRATUNAC,Оба пола,Друго,237
+2013,Број,BRATUNAC,M,Друго,121
+2013,Број,BRATUNAC,Ж,Друго,116
+2013,Број,BROD,Оба пола,Друго,98
+2013,Број,BROD,M,Друго,52
+2013,Број,BROD,Ж,Друго,46
+2013,Број,VISEGRAD,Оба пола,Друго,76
+2013,Број,VISEGRAD,M,Друго,40
+2013,Број,VISEGRAD,Ж,Друго,36
+2013,Број,VLASENICA,Оба пола,Друго,115
+2013,Број,VLASENICA,M,Друго,42
+2013,Број,VLASENICA,Ж,Друго,73
+2013,Број,VUKOSAVLJE,Оба пола,Друго,30
+2013,Број,VUKOSAVLJE,M,Друго,15
+2013,Број,VUKOSAVLJE,Ж,Друго,15
+2013,Број,GACKO,Оба пола,Друго,16
+2013,Број,GACKO,M,Друго,9
+2013,Број,GACKO,Ж,Друго,7
+2013,Број,GRADISKA,Оба пола,Друго,321
+2013,Број,GRADISKA,M,Друго,168
+2013,Број,GRADISKA,Ж,Друго,153
+2013,Број,DERVENTA,Оба пола,Друго,141
+2013,Број,DERVENTA,M,Друго,67
+2013,Број,DERVENTA,Ж,Друго,74
+2013,Број,DOBOJ,Оба пола,Друго,845
+2013,Број,DOBOJ,M,Друго,412
+2013,Број,DOBOJ,Ж,Друго,433
+2013,Број,DONJI ZABAR,Оба пола,Друго,21
+2013,Број,DONJI ZABAR,M,Друго,8
+2013,Број,DONJI ZABAR,Ж,Друго,13
+2013,Број,ZVORNIK,Оба пола,Друго,186
+2013,Број,ZVORNIK,M,Друго,90
+2013,Број,ZVORNIK,Ж,Друго,96
+2013,Број,ISTOCNA ILIDZA,Оба пола,Друго,28
+2013,Број,ISTOCNA ILIDZA,M,Друго,18
+2013,Број,ISTOCNA ILIDZA,Ж,Друго,10
+2013,Број,ISTOCNI MOSTAR,Оба пола,Друго,1
+2013,Број,ISTOCNI MOSTAR,M,Друго,1
+2013,Број,ISTOCNI STARI GRAD,Оба пола,Друго,5
+2013,Број,ISTOCNI STARI GRAD,M,Друго,2
+2013,Број,ISTOCNI STARI GRAD,Ж,Друго,3
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,Друго,16
+2013,Број,ISTOCNO NOVO SARAJEVO,M,Друго,10
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,Друго,6
+2013,Број,KALINOVIK,Оба пола,Друго,3
+2013,Број,KALINOVIK,M,Друго,2
+2013,Број,KALINOVIK,Ж,Друго,1
+2013,Број,KNEZEVO,Оба пола,Друго,68
+2013,Број,KNEZEVO,M,Друго,29
+2013,Број,KNEZEVO,Ж,Друго,39
+2013,Број,KOZARSKA DUBICA,Оба пола,Друго,83
+2013,Број,KOZARSKA DUBICA,M,Друго,37
+2013,Број,KOZARSKA DUBICA,Ж,Друго,46
+2013,Број,KOSTAJNICA,Оба пола,Друго,13
+2013,Број,KOSTAJNICA,M,Друго,9
+2013,Број,KOSTAJNICA,Ж,Друго,4
+2013,Број,KOTOR VAROS,Оба пола,Друго,236
+2013,Број,KOTOR VAROS,M,Друго,120
+2013,Број,KOTOR VAROS,Ж,Друго,116
+2013,Број,LAKTASI,Оба пола,Друго,278
+2013,Број,LAKTASI,M,Друго,147
+2013,Број,LAKTASI,Ж,Друго,131
+2013,Број,LOPARE,Оба пола,Друго,1
+2013,Број,LOPARE,Ж,Друго,1
+2013,Број,LJUBINJE,Оба пола,Друго,1
+2013,Број,LJUBINJE,M,Друго,1
+2013,Број,MILICI,Оба пола,Друго,34
+2013,Број,MILICI,M,Друго,19
+2013,Број,MILICI,Ж,Друго,15
+2013,Број,MODRICA,Оба пола,Друго,211
+2013,Број,MODRICA,M,Друго,98
+2013,Број,MODRICA,Ж,Друго,113
+2013,Број,MRKONJIC GRAD,Оба пола,Друго,9
+2013,Број,MRKONJIC GRAD,M,Друго,6
+2013,Број,MRKONJIC GRAD,Ж,Друго,3
+2013,Број,NEVESINJE,Оба пола,Друго,8
+2013,Број,NEVESINJE,M,Друго,4
+2013,Број,NEVESINJE,Ж,Друго,4
+2013,Број,NOVI GRAD,Оба пола,Друго,134
+2013,Број,NOVI GRAD,M,Друго,60
+2013,Број,NOVI GRAD,Ж,Друго,74
+2013,Број,NOVO GORAZDE,Оба пола,Друго,19
+2013,Број,NOVO GORAZDE,M,Друго,9
+2013,Број,NOVO GORAZDE,Ж,Друго,10
+2013,Број,OSMACI,Оба пола,Друго,41
+2013,Број,OSMACI,M,Друго,26
+2013,Број,OSMACI,Ж,Друго,15
+2013,Број,OSTRA LUKA,Оба пола,Друго,23
+2013,Број,OSTRA LUKA,M,Друго,15
+2013,Број,OSTRA LUKA,Ж,Друго,8
+2013,Број,PALE,Оба пола,Друго,53
+2013,Број,PALE,M,Друго,24
+2013,Број,PALE,Ж,Друго,29
+2013,Број,PELAGICEVO,Оба пола,Друго,5
+2013,Број,PELAGICEVO,M,Друго,3
+2013,Број,PELAGICEVO,Ж,Друго,2
+2013,Број,PETROVO,Оба пола,Друго,20
+2013,Број,PETROVO,M,Друго,8
+2013,Број,PETROVO,Ж,Друго,12
+2013,Број,PRIJEDOR,Оба пола,Друго,1506
+2013,Број,PRIJEDOR,M,Друго,722
+2013,Број,PRIJEDOR,Ж,Друго,784
+2013,Број,PRNJAVOR,Оба пола,Друго,611
+2013,Број,PRNJAVOR,M,Друго,317
+2013,Број,PRNJAVOR,Ж,Друго,294
+2013,Број,RIBNIK,Оба пола,Друго,12
+2013,Број,RIBNIK,M,Друго,8
+2013,Број,RIBNIK,Ж,Друго,4
+2013,Број,ROGATICA,Оба пола,Друго,48
+2013,Број,ROGATICA,M,Друго,21
+2013,Број,ROGATICA,Ж,Друго,27
+2013,Број,SOKOLAC,Оба пола,Друго,30
+2013,Број,SOKOLAC,M,Друго,16
+2013,Број,SOKOLAC,Ж,Друго,14
+2013,Број,SRBAC,Оба пола,Друго,95
+2013,Број,SRBAC,M,Друго,50
+2013,Број,SRBAC,Ж,Друго,45
+2013,Број,SREBRENICA,Оба пола,Друго,72
+2013,Број,SREBRENICA,M,Друго,36
+2013,Број,SREBRENICA,Ж,Друго,36
+2013,Број,TESLIC,Оба пола,Друго,316
+2013,Број,TESLIC,M,Друго,148
+2013,Број,TESLIC,Ж,Друго,168
+2013,Број,TREBINJE,Оба пола,Друго,95
+2013,Број,TREBINJE,M,Друго,42
+2013,Број,TREBINJE,Ж,Друго,53
+2013,Број,TRNOVO,Оба пола,Друго,17
+2013,Број,TRNOVO,M,Друго,9
+2013,Број,TRNOVO,Ж,Друго,8
+2013,Број,UGLJEVIK,Оба пола,Друго,2
+2013,Број,UGLJEVIK,M,Друго,1
+2013,Број,UGLJEVIK,Ж,Друго,1
+2013,Број,FOCA,Оба пола,Друго,104
+2013,Број,FOCA,M,Друго,53
+2013,Број,FOCA,Ж,Друго,51
+2013,Број,HAN PIJESAK,Оба пола,Друго,5
+2013,Број,HAN PIJESAK,M,Друго,3
+2013,Број,HAN PIJESAK,Ж,Друго,2
+2013,Број,CAJNICE,Оба пола,Друго,16
+2013,Број,CAJNICE,M,Друго,7
+2013,Број,CAJNICE,Ж,Друго,9
+2013,Број,CELINAC,Оба пола,Друго,44
+2013,Број,CELINAC,M,Друго,20
+2013,Број,CELINAC,Ж,Друго,24
+2013,Број,SAMAC,Оба пола,Друго,144
+2013,Број,SAMAC,M,Друго,68
+2013,Број,SAMAC,Ж,Друго,76
+2013,Број,SEKOVICI,Оба пола,Друго,1
+2013,Број,SEKOVICI,M,Друго,1
+2013,Број,SIPOVO,Оба пола,Друго,32
+2013,Број,SIPOVO,M,Друго,17
+2013,Број,SIPOVO,Ж,Друго,15
+2013,Број,REPUBLIKA SRPSKA,Оба пола,does_not_declare,8028
+2013,Број,REPUBLIKA SRPSKA,M,does_not_declare,3554
+2013,Број,REPUBLIKA SRPSKA,Ж,does_not_declare,4474
+2013,Број,BANJA LUKA,Оба пола,does_not_declare,2684
+2013,Број,BANJA LUKA,M,does_not_declare,1186
+2013,Број,BANJA LUKA,Ж,does_not_declare,1498
+2013,Број,BERKOVICI,Оба пола,does_not_declare,1
+2013,Број,BERKOVICI,M,does_not_declare,1
+2013,Број,BIJELJINA,Оба пола,does_not_declare,716
+2013,Број,BIJELJINA,M,does_not_declare,307
+2013,Број,BIJELJINA,Ж,does_not_declare,409
+2013,Број,BILECA,Оба пола,does_not_declare,30
+2013,Број,BILECA,M,does_not_declare,14
+2013,Број,BILECA,Ж,does_not_declare,16
+2013,Број,BRATUNAC,Оба пола,does_not_declare,21
+2013,Број,BRATUNAC,M,does_not_declare,9
+2013,Број,BRATUNAC,Ж,does_not_declare,12
+2013,Број,BROD,Оба пола,does_not_declare,160
+2013,Број,BROD,M,does_not_declare,60
+2013,Број,BROD,Ж,does_not_declare,100
+2013,Број,VISEGRAD,Оба пола,does_not_declare,18
+2013,Број,VISEGRAD,M,does_not_declare,9
+2013,Број,VISEGRAD,Ж,does_not_declare,9
+2013,Број,VLASENICA,Оба пола,does_not_declare,16
+2013,Број,VLASENICA,M,does_not_declare,8
+2013,Број,VLASENICA,Ж,does_not_declare,8
+2013,Број,VUKOSAVLJE,Оба пола,does_not_declare,33
+2013,Број,VUKOSAVLJE,M,does_not_declare,16
+2013,Број,VUKOSAVLJE,Ж,does_not_declare,17
+2013,Број,GACKO,Оба пола,does_not_declare,6
+2013,Број,GACKO,M,does_not_declare,1
+2013,Број,GACKO,Ж,does_not_declare,5
+2013,Број,GRADISKA,Оба пола,does_not_declare,375
+2013,Број,GRADISKA,M,does_not_declare,155
+2013,Број,GRADISKA,Ж,does_not_declare,220
+2013,Број,DERVENTA,Оба пола,does_not_declare,256
+2013,Број,DERVENTA,M,does_not_declare,125
+2013,Број,DERVENTA,Ж,does_not_declare,131
+2013,Број,DOBOJ,Оба пола,does_not_declare,526
+2013,Број,DOBOJ,M,does_not_declare,271
+2013,Број,DOBOJ,Ж,does_not_declare,255
+2013,Број,DONJI ZABAR,Оба пола,does_not_declare,6
+2013,Број,DONJI ZABAR,M,does_not_declare,2
+2013,Број,DONJI ZABAR,Ж,does_not_declare,4
+2013,Број,ZVORNIK,Оба пола,does_not_declare,67
+2013,Број,ZVORNIK,M,does_not_declare,31
+2013,Број,ZVORNIK,Ж,does_not_declare,36
+2013,Број,ISTOCNA ILIDZA,Оба пола,does_not_declare,92
+2013,Број,ISTOCNA ILIDZA,M,does_not_declare,41
+2013,Број,ISTOCNA ILIDZA,Ж,does_not_declare,51
+2013,Број,ISTOCNI STARI GRAD,Оба пола,does_not_declare,6
+2013,Број,ISTOCNI STARI GRAD,M,does_not_declare,5
+2013,Број,ISTOCNI STARI GRAD,Ж,does_not_declare,1
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,does_not_declare,56
+2013,Број,ISTOCNO NOVO SARAJEVO,M,does_not_declare,24
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,does_not_declare,32
+2013,Број,KALINOVIK,Оба пола,does_not_declare,5
+2013,Број,KALINOVIK,M,does_not_declare,4
+2013,Број,KALINOVIK,Ж,does_not_declare,1
+2013,Број,KNEZEVO,Оба пола,does_not_declare,4
+2013,Број,KNEZEVO,M,does_not_declare,3
+2013,Број,KNEZEVO,Ж,does_not_declare,1
+2013,Број,KOZARSKA DUBICA,Оба пола,does_not_declare,178
+2013,Број,KOZARSKA DUBICA,M,does_not_declare,77
+2013,Број,KOZARSKA DUBICA,Ж,does_not_declare,101
+2013,Број,KOSTAJNICA,Оба пола,does_not_declare,67
+2013,Број,KOSTAJNICA,M,does_not_declare,26
+2013,Број,KOSTAJNICA,Ж,does_not_declare,41
+2013,Број,KOTOR VAROS,Оба пола,does_not_declare,107
+2013,Број,KOTOR VAROS,M,does_not_declare,45
+2013,Број,KOTOR VAROS,Ж,does_not_declare,62
+2013,Број,KUPRES,Оба пола,does_not_declare,1
+2013,Број,KUPRES,M,does_not_declare,1
+2013,Број,LAKTASI,Оба пола,does_not_declare,239
+2013,Број,LAKTASI,M,does_not_declare,112
+2013,Број,LAKTASI,Ж,does_not_declare,127
+2013,Број,LOPARE,Оба пола,does_not_declare,22
+2013,Број,LOPARE,M,does_not_declare,6
+2013,Број,LOPARE,Ж,does_not_declare,16
+2013,Број,LJUBINJE,Оба пола,does_not_declare,3
+2013,Број,LJUBINJE,M,does_not_declare,2
+2013,Број,LJUBINJE,Ж,does_not_declare,1
+2013,Број,MILICI,Оба пола,does_not_declare,10
+2013,Број,MILICI,M,does_not_declare,3
+2013,Број,MILICI,Ж,does_not_declare,7
+2013,Број,MODRICA,Оба пола,does_not_declare,151
+2013,Број,MODRICA,M,does_not_declare,64
+2013,Број,MODRICA,Ж,does_not_declare,87
+2013,Број,MRKONJIC GRAD,Оба пола,does_not_declare,37
+2013,Број,MRKONJIC GRAD,M,does_not_declare,16
+2013,Број,MRKONJIC GRAD,Ж,does_not_declare,21
+2013,Број,NEVESINJE,Оба пола,does_not_declare,14
+2013,Број,NEVESINJE,M,does_not_declare,6
+2013,Број,NEVESINJE,Ж,does_not_declare,8
+2013,Број,NOVI GRAD,Оба пола,does_not_declare,134
+2013,Број,NOVI GRAD,M,does_not_declare,58
+2013,Број,NOVI GRAD,Ж,does_not_declare,76
+2013,Број,NOVO GORAZDE,Оба пола,does_not_declare,5
+2013,Број,NOVO GORAZDE,M,does_not_declare,3
+2013,Број,NOVO GORAZDE,Ж,does_not_declare,2
+2013,Број,OSMACI,Оба пола,does_not_declare,1
+2013,Број,OSMACI,M,does_not_declare,1
+2013,Број,OSTRA LUKA,Оба пола,does_not_declare,13
+2013,Број,OSTRA LUKA,M,does_not_declare,5
+2013,Број,OSTRA LUKA,Ж,does_not_declare,8
+2013,Број,PALE,Оба пола,does_not_declare,56
+2013,Број,PALE,M,does_not_declare,22
+2013,Број,PALE,Ж,does_not_declare,34
+2013,Број,PELAGICEVO,Оба пола,does_not_declare,2
+2013,Број,PELAGICEVO,Ж,does_not_declare,2
+2013,Број,PETROVO,Оба пола,does_not_declare,19
+2013,Број,PETROVO,M,does_not_declare,9
+2013,Број,PETROVO,Ж,does_not_declare,10
+2013,Број,PRIJEDOR,Оба пола,does_not_declare,784
+2013,Број,PRIJEDOR,M,does_not_declare,325
+2013,Број,PRIJEDOR,Ж,does_not_declare,459
+2013,Број,PRNJAVOR,Оба пола,does_not_declare,223
+2013,Број,PRNJAVOR,M,does_not_declare,98
+2013,Број,PRNJAVOR,Ж,does_not_declare,125
+2013,Број,RIBNIK,Оба пола,does_not_declare,3
+2013,Број,RIBNIK,M,does_not_declare,1
+2013,Број,RIBNIK,Ж,does_not_declare,2
+2013,Број,ROGATICA,Оба пола,does_not_declare,7
+2013,Број,ROGATICA,M,does_not_declare,4
+2013,Број,ROGATICA,Ж,does_not_declare,3
+2013,Број,RUDO,Оба пола,does_not_declare,3
+2013,Број,RUDO,M,does_not_declare,2
+2013,Број,RUDO,Ж,does_not_declare,1
+2013,Број,SOKOLAC,Оба пола,does_not_declare,20
+2013,Број,SOKOLAC,M,does_not_declare,9
+2013,Број,SOKOLAC,Ж,does_not_declare,11
+2013,Број,SRBAC,Оба пола,does_not_declare,95
+2013,Број,SRBAC,M,does_not_declare,46
+2013,Број,SRBAC,Ж,does_not_declare,49
+2013,Број,SREBRENICA,Оба пола,does_not_declare,22
+2013,Број,SREBRENICA,M,does_not_declare,10
+2013,Број,SREBRENICA,Ж,does_not_declare,12
+2013,Број,TESLIC,Оба пола,does_not_declare,309
+2013,Број,TESLIC,M,does_not_declare,136
+2013,Број,TESLIC,Ж,does_not_declare,173
+2013,Број,TREBINJE,Оба пола,does_not_declare,170
+2013,Број,TREBINJE,M,does_not_declare,75
+2013,Број,TREBINJE,Ж,does_not_declare,95
+2013,Број,TRNOVO,Оба пола,does_not_declare,4
+2013,Број,TRNOVO,M,does_not_declare,3
+2013,Број,TRNOVO,Ж,does_not_declare,1
+2013,Број,UGLJEVIK,Оба пола,does_not_declare,23
+2013,Број,UGLJEVIK,M,does_not_declare,11
+2013,Број,UGLJEVIK,Ж,does_not_declare,12
+2013,Број,FOCA,Оба пола,does_not_declare,27
+2013,Број,FOCA,M,does_not_declare,13
+2013,Број,FOCA,Ж,does_not_declare,14
+2013,Број,CAJNICE,Оба пола,does_not_declare,1
+2013,Број,CAJNICE,M,does_not_declare,1
+2013,Број,CELINAC,Оба пола,does_not_declare,30
+2013,Број,CELINAC,M,does_not_declare,15
+2013,Број,CELINAC,Ж,does_not_declare,15
+2013,Број,SAMAC,Оба пола,does_not_declare,147
+2013,Број,SAMAC,M,does_not_declare,64
+2013,Број,SAMAC,Ж,does_not_declare,83
+2013,Број,SEKOVICI,Оба пола,does_not_declare,4
+2013,Број,SEKOVICI,M,does_not_declare,3
+2013,Број,SEKOVICI,Ж,does_not_declare,1
+2013,Број,SIPOVO,Оба пола,does_not_declare,19
+2013,Број,SIPOVO,M,does_not_declare,10
+2013,Број,SIPOVO,Ж,does_not_declare,9
+2013,Број,REPUBLIKA SRPSKA,Оба пола,Непознато,2065
+2013,Број,REPUBLIKA SRPSKA,M,Непознато,963
+2013,Број,REPUBLIKA SRPSKA,Ж,Непознато,1102
+2013,Број,BANJA LUKA,Оба пола,Непознато,357
+2013,Број,BANJA LUKA,M,Непознато,173
+2013,Број,BANJA LUKA,Ж,Непознато,184
+2013,Број,BERKOVICI,Оба пола,Непознато,1
+2013,Број,BERKOVICI,Ж,Непознато,1
+2013,Број,BIJELJINA,Оба пола,Непознато,102
+2013,Број,BIJELJINA,M,Непознато,44
+2013,Број,BIJELJINA,Ж,Непознато,58
+2013,Број,BILECA,Оба пола,Непознато,12
+2013,Број,BILECA,M,Непознато,4
+2013,Број,BILECA,Ж,Непознато,8
+2013,Број,BRATUNAC,Оба пола,Непознато,40
+2013,Број,BRATUNAC,M,Непознато,16
+2013,Број,BRATUNAC,Ж,Непознато,24
+2013,Број,BROD,Оба пола,Непознато,32
+2013,Број,BROD,M,Непознато,12
+2013,Број,BROD,Ж,Непознато,20
+2013,Број,VISEGRAD,Оба пола,Непознато,179
+2013,Број,VISEGRAD,M,Непознато,4
+2013,Број,VISEGRAD,Ж,Непознато,175
+2013,Број,VLASENICA,Оба пола,Непознато,21
+2013,Број,VLASENICA,M,Непознато,10
+2013,Број,VLASENICA,Ж,Непознато,11
+2013,Број,VUKOSAVLJE,Оба пола,Непознато,14
+2013,Број,VUKOSAVLJE,M,Непознато,3
+2013,Број,VUKOSAVLJE,Ж,Непознато,11
+2013,Број,GACKO,Оба пола,Непознато,7
+2013,Број,GACKO,M,Непознато,2
+2013,Број,GACKO,Ж,Непознато,5
+2013,Број,GRADISKA,Оба пола,Непознато,46
+2013,Број,GRADISKA,M,Непознато,21
+2013,Број,GRADISKA,Ж,Непознато,25
+2013,Број,DERVENTA,Оба пола,Непознато,47
+2013,Број,DERVENTA,M,Непознато,21
+2013,Број,DERVENTA,Ж,Непознато,26
+2013,Број,DOBOJ,Оба пола,Непознато,160
+2013,Број,DOBOJ,M,Непознато,64
+2013,Број,DOBOJ,Ж,Непознато,96
+2013,Број,DONJI ZABAR,Оба пола,Непознато,2
+2013,Број,DONJI ZABAR,M,Непознато,1
+2013,Број,DONJI ZABAR,Ж,Непознато,1
+2013,Број,ZVORNIK,Оба пола,Непознато,98
+2013,Број,ZVORNIK,M,Непознато,39
+2013,Број,ZVORNIK,Ж,Непознато,59
+2013,Број,ISTOCNA ILIDZA,Оба пола,Непознато,10
+2013,Број,ISTOCNA ILIDZA,M,Непознато,5
+2013,Број,ISTOCNA ILIDZA,Ж,Непознато,5
+2013,Број,ISTOCNI MOSTAR,Оба пола,Непознато,2
+2013,Број,ISTOCNI MOSTAR,M,Непознато,1
+2013,Број,ISTOCNI MOSTAR,Ж,Непознато,1
+2013,Број,ISTOCNI STARI GRAD,Оба пола,Непознато,2
+2013,Број,ISTOCNI STARI GRAD,M,Непознато,1
+2013,Број,ISTOCNI STARI GRAD,Ж,Непознато,1
+2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,Непознато,3
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,Непознато,3
+2013,Број,JEZERO,Оба пола,Непознато,2
+2013,Број,JEZERO,M,Непознато,1
+2013,Број,JEZERO,Ж,Непознато,1
+2013,Број,KNEZEVO,Оба пола,Непознато,5
+2013,Број,KNEZEVO,M,Непознато,3
+2013,Број,KNEZEVO,Ж,Непознато,2
+2013,Број,KOZARSKA DUBICA,Оба пола,Непознато,18
+2013,Број,KOZARSKA DUBICA,M,Непознато,11
+2013,Број,KOZARSKA DUBICA,Ж,Непознато,7
+2013,Број,KOSTAJNICA,Оба пола,Непознато,1
+2013,Број,KOSTAJNICA,M,Непознато,1
+2013,Број,KOTOR VAROS,Оба пола,Непознато,21
+2013,Број,KOTOR VAROS,M,Непознато,15
+2013,Број,KOTOR VAROS,Ж,Непознато,6
+2013,Број,KRUPA NA UNI,Оба пола,Непознато,1
+2013,Број,KRUPA NA UNI,Ж,Непознато,1
+2013,Број,LAKTASI,Оба пола,Непознато,48
+2013,Број,LAKTASI,M,Непознато,21
+2013,Број,LAKTASI,Ж,Непознато,27
+2013,Број,LOPARE,Оба пола,Непознато,13
+2013,Број,LOPARE,M,Непознато,6
+2013,Број,LOPARE,Ж,Непознато,7
+2013,Број,LJUBINJE,Оба пола,Непознато,2
+2013,Број,LJUBINJE,M,Непознато,1
+2013,Број,LJUBINJE,Ж,Непознато,1
+2013,Број,MILICI,Оба пола,Непознато,8
+2013,Број,MILICI,M,Непознато,3
+2013,Број,MILICI,Ж,Непознато,5
+2013,Број,MODRICA,Оба пола,Непознато,125
+2013,Број,MODRICA,M,Непознато,66
+2013,Број,MODRICA,Ж,Непознато,59
+2013,Број,MRKONJIC GRAD,Оба пола,Непознато,13
+2013,Број,MRKONJIC GRAD,M,Непознато,7
+2013,Број,MRKONJIC GRAD,Ж,Непознато,6
+2013,Број,NEVESINJE,Оба пола,Непознато,7
+2013,Број,NEVESINJE,M,Непознато,2
+2013,Број,NEVESINJE,Ж,Непознато,5
+2013,Број,NOVI GRAD,Оба пола,Непознато,26
+2013,Број,NOVI GRAD,M,Непознато,14
+2013,Број,NOVI GRAD,Ж,Непознато,12
+2013,Број,NOVO GORAZDE,Оба пола,Непознато,7
+2013,Број,NOVO GORAZDE,M,Непознато,3
+2013,Број,NOVO GORAZDE,Ж,Непознато,4
+2013,Број,OSMACI,Оба пола,Непознато,4
+2013,Број,OSMACI,M,Непознато,2
+2013,Број,OSMACI,Ж,Непознато,2
+2013,Број,OSTRA LUKA,Оба пола,Непознато,3
+2013,Број,OSTRA LUKA,M,Непознато,2
+2013,Број,OSTRA LUKA,Ж,Непознато,1
+2013,Број,PALE,Оба пола,Непознато,11
+2013,Број,PALE,M,Непознато,7
+2013,Број,PALE,Ж,Непознато,4
+2013,Број,PELAGICEVO,Оба пола,Непознато,5
+2013,Број,PELAGICEVO,M,Непознато,1
+2013,Број,PELAGICEVO,Ж,Непознато,4
+2013,Број,PETROVO,Оба пола,Непознато,4
+2013,Број,PETROVO,M,Непознато,2
+2013,Број,PETROVO,Ж,Непознато,2
+2013,Број,PRIJEDOR,Оба пола,Непознато,374
+2013,Број,PRIJEDOR,M,Непознато,257
+2013,Број,PRIJEDOR,Ж,Непознато,117
+2013,Број,PRNJAVOR,Оба пола,Непознато,31
+2013,Број,PRNJAVOR,M,Непознато,13
+2013,Број,PRNJAVOR,Ж,Непознато,18
+2013,Број,RIBNIK,Оба пола,Непознато,2
+2013,Број,RIBNIK,M,Непознато,2
+2013,Број,ROGATICA,Оба пола,Непознато,4
+2013,Број,ROGATICA,M,Непознато,3
+2013,Број,ROGATICA,Ж,Непознато,1
+2013,Број,RUDO,Оба пола,Непознато,4
+2013,Број,RUDO,Ж,Непознато,4
+2013,Број,SOKOLAC,Оба пола,Непознато,14
+2013,Број,SOKOLAC,M,Непознато,3
+2013,Број,SOKOLAC,Ж,Непознато,11
+2013,Број,SRBAC,Оба пола,Непознато,28
+2013,Број,SRBAC,M,Непознато,13
+2013,Број,SRBAC,Ж,Непознато,15
+2013,Број,SREBRENICA,Оба пола,Непознато,20
+2013,Број,SREBRENICA,M,Непознато,14
+2013,Број,SREBRENICA,Ж,Непознато,6
+2013,Број,TESLIC,Оба пола,Непознато,43
+2013,Број,TESLIC,M,Непознато,21
+2013,Број,TESLIC,Ж,Непознато,22
+2013,Број,TREBINJE,Оба пола,Непознато,14
+2013,Број,TREBINJE,M,Непознато,8
+2013,Број,TREBINJE,Ж,Непознато,6
+2013,Број,UGLJEVIK,Оба пола,Непознато,13
+2013,Број,UGLJEVIK,M,Непознато,11
+2013,Број,UGLJEVIK,Ж,Непознато,2
+2013,Број,FOCA,Оба пола,Непознато,12
+2013,Број,FOCA,M,Непознато,6
+2013,Број,FOCA,Ж,Непознато,6
+2013,Број,CAJNICE,Оба пола,Непознато,4
+2013,Број,CAJNICE,M,Непознато,1
+2013,Број,CAJNICE,Ж,Непознато,3
+2013,Број,CELINAC,Оба пола,Непознато,10
+2013,Број,CELINAC,M,Непознато,4
+2013,Број,CELINAC,Ж,Непознато,6
+2013,Број,SAMAC,Оба пола,Непознато,18
+2013,Број,SAMAC,M,Непознато,10
+2013,Број,SAMAC,Ж,Непознато,8
+2013,Број,SEKOVICI,Оба пола,Непознато,9
+2013,Број,SEKOVICI,M,Непознато,4
+2013,Број,SEKOVICI,Ж,Непознато,5
+2013,Број,SIPOVO,Оба пола,Непознато,6
+2013,Број,SIPOVO,M,Непознато,4
+2013,Број,SIPOVO,Ж,Непознато,2

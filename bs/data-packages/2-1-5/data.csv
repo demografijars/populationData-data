@@ -1,12 +1,439 @@
-Year,UNIT_MEASURE,Živorođena djeca,Value
-2013,Broj,Nisu rađale,313281
-2013,Broj,1,12565
-2013,Broj,2,8854
-2013,Broj,3,2994
-2013,Broj,4,966
-2013,Broj,5,387
-2013,Broj,6,168
-2013,Broj,7,95
-2013,Broj,8,56
-2013,Broj,9,30
-2013,Broj,10 i više,26
+Year,UNIT_MEASURE,Teritory,Spol,Live births,Value
+2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,518243
+2013,Broj,BANJA LUKA,Ž,Ukupno,80633
+2013,Broj,BERKOVICI,Ž,Ukupno,839
+2013,Broj,BIJELJINA,Ž,Ukupno,45729
+2013,Broj,BILECA,Ž,Ukupno,4500
+2013,Broj,BRATUNAC,Ž,Ukupno,8127
+2013,Broj,BROD,Ž,Ukupno,6996
+2013,Broj,VISEGRAD,Ž,Ukupno,4691
+2013,Broj,VLASENICA,Ž,Ukupno,4738
+2013,Broj,VUKOSAVLJE,Ž,Ukupno,1849
+2013,Broj,GACKO,Ž,Ukupno,3646
+2013,Broj,GRADISKA,Ž,Ukupno,22005
+2013,Broj,DERVENTA,Ž,Ukupno,11515
+2013,Broj,DOBOJ,Ž,Ukupno,30598
+2013,Broj,DONJI ZABAR,Ž,Ukupno,1561
+2013,Broj,ZVORNIK,Ž,Ukupno,23313
+2013,Broj,ISTOCNA ILIDZA,Ž,Ukupno,6538
+2013,Broj,ISTOCNI DRVAR,Ž,Ukupno,22
+2013,Broj,ISTOCNI MOSTAR,Ž,Ukupno,93
+2013,Broj,ISTOCNI STARI GRAD,Ž,Ukupno,516
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Ukupno,4659
+2013,Broj,JEZERO,Ž,Ukupno,437
+2013,Broj,KALINOVIK,Ž,Ukupno,898
+2013,Broj,KNEZEVO,Ž,Ukupno,4079
+2013,Broj,KOZARSKA DUBICA,Ž,Ukupno,9386
+2013,Broj,KOSTAJNICA,Ž,Ukupno,2538
+2013,Broj,KOTOR VAROS,Ž,Ukupno,7914
+2013,Broj,KRUPA NA UNI,Ž,Ukupno,628
+2013,Broj,KUPRES,Ž,Ukupno,127
+2013,Broj,LAKTASI,Ž,Ukupno,14682
+2013,Broj,LOPARE,Ž,Ukupno,6471
+2013,Broj,LJUBINJE,Ž,Ukupno,1475
+2013,Broj,MILICI,Ž,Ukupno,4489
+2013,Broj,MODRICA,Ž,Ukupno,10856
+2013,Broj,MRKONJIC GRAD,Ž,Ukupno,7153
+2013,Broj,NEVESINJE,Ž,Ukupno,5385
+2013,Broj,NOVI GRAD,Ž,Ukupno,11191
+2013,Broj,NOVO GORAZDE,Ž,Ukupno,1263
+2013,Broj,OSMACI,Ž,Ukupno,2367
+2013,Broj,OSTRA LUKA,Ž,Ukupno,1131
+2013,Broj,PALE,Ž,Ukupno,9317
+2013,Broj,PELAGICEVO,Ž,Ukupno,1978
+2013,Broj,PETROVAC,Ž,Ukupno,160
+2013,Broj,PETROVO,Ž,Ukupno,2902
+2013,Broj,PRIJEDOR,Ž,Ukupno,36570
+2013,Broj,PRNJAVOR,Ž,Ukupno,15254
+2013,Broj,RIBNIK,Ž,Ukupno,2560
+2013,Broj,ROGATICA,Ž,Ukupno,4567
+2013,Broj,RUDO,Ž,Ukupno,3315
+2013,Broj,SOKOLAC,Ž,Ukupno,5142
+2013,Broj,SRBAC,Ž,Ukupno,7462
+2013,Broj,SREBRENICA,Ž,Ukupno,5260
+2013,Broj,TESLIC,Ž,Ukupno,16491
+2013,Broj,TREBINJE,Ž,Ukupno,12436
+2013,Broj,TRNOVO,Ž,Ukupno,936
+2013,Broj,UGLJEVIK,Ž,Ukupno,6451
+2013,Broj,FOCA,Ž,Ukupno,7700
+2013,Broj,HAN PIJESAK,Ž,Ukupno,1631
+2013,Broj,CAJNICE,Ž,Ukupno,2025
+2013,Broj,CELINAC,Ž,Ukupno,6555
+2013,Broj,SAMAC,Ž,Ukupno,7431
+2013,Broj,SEKOVICI,Ž,Ukupno,2815
+2013,Broj,SIPOVO,Ž,Ukupno,4247
+2013,Broj,REPUBLIKA SRPSKA,Ž,Nisu rađale,131752
+2013,Broj,BANJA LUKA,Ž,Nisu rađale,22958
+2013,Broj,BERKOVICI,Ž,Nisu rađale,198
+2013,Broj,BIJELJINA,Ž,Nisu rađale,11452
+2013,Broj,BILECA,Ž,Nisu rađale,1303
+2013,Broj,BRATUNAC,Ž,Nisu rađale,2067
+2013,Broj,BROD,Ž,Nisu rađale,1822
+2013,Broj,VISEGRAD,Ž,Nisu rađale,1278
+2013,Broj,VLASENICA,Ž,Nisu rađale,1293
+2013,Broj,VUKOSAVLJE,Ž,Nisu rađale,419
+2013,Broj,GACKO,Ž,Nisu rađale,1080
+2013,Broj,GRADISKA,Ž,Nisu rađale,5312
+2013,Broj,DERVENTA,Ž,Nisu rađale,2841
+2013,Broj,DOBOJ,Ž,Nisu rađale,7244
+2013,Broj,DONJI ZABAR,Ž,Nisu rađale,394
+2013,Broj,ZVORNIK,Ž,Nisu rađale,5530
+2013,Broj,ISTOCNA ILIDZA,Ž,Nisu rađale,1897
+2013,Broj,ISTOCNI DRVAR,Ž,Nisu rađale,5
+2013,Broj,ISTOCNI MOSTAR,Ž,Nisu rađale,25
+2013,Broj,ISTOCNI STARI GRAD,Ž,Nisu rađale,122
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Nisu rađale,1372
+2013,Broj,JEZERO,Ž,Nisu rađale,111
+2013,Broj,KALINOVIK,Ž,Nisu rađale,250
+2013,Broj,KNEZEVO,Ž,Nisu rađale,868
+2013,Broj,KOZARSKA DUBICA,Ž,Nisu rađale,2106
+2013,Broj,KOSTAJNICA,Ž,Nisu rađale,632
+2013,Broj,KOTOR VAROS,Ž,Nisu rađale,2052
+2013,Broj,KRUPA NA UNI,Ž,Nisu rađale,110
+2013,Broj,KUPRES,Ž,Nisu rađale,24
+2013,Broj,LAKTASI,Ž,Nisu rađale,3589
+2013,Broj,LOPARE,Ž,Nisu rađale,1679
+2013,Broj,LJUBINJE,Ž,Nisu rađale,377
+2013,Broj,MILICI,Ž,Nisu rađale,1235
+2013,Broj,MODRICA,Ž,Nisu rađale,2736
+2013,Broj,MRKONJIC GRAD,Ž,Nisu rađale,1571
+2013,Broj,NEVESINJE,Ž,Nisu rađale,1490
+2013,Broj,NOVI GRAD,Ž,Nisu rađale,2605
+2013,Broj,NOVO GORAZDE,Ž,Nisu rađale,405
+2013,Broj,OSMACI,Ž,Nisu rađale,570
+2013,Broj,OSTRA LUKA,Ž,Nisu rađale,235
+2013,Broj,PALE,Ž,Nisu rađale,2843
+2013,Broj,PELAGICEVO,Ž,Nisu rađale,467
+2013,Broj,PETROVAC,Ž,Nisu rađale,34
+2013,Broj,PETROVO,Ž,Nisu rađale,581
+2013,Broj,PRIJEDOR,Ž,Nisu rađale,9358
+2013,Broj,PRNJAVOR,Ž,Nisu rađale,3458
+2013,Broj,RIBNIK,Ž,Nisu rađale,493
+2013,Broj,ROGATICA,Ž,Nisu rađale,1126
+2013,Broj,RUDO,Ž,Nisu rađale,769
+2013,Broj,SOKOLAC,Ž,Nisu rađale,1278
+2013,Broj,SRBAC,Ž,Nisu rađale,1710
+2013,Broj,SREBRENICA,Ž,Nisu rađale,1385
+2013,Broj,TESLIC,Ž,Nisu rađale,3716
+2013,Broj,TREBINJE,Ž,Nisu rađale,3394
+2013,Broj,TRNOVO,Ž,Nisu rađale,243
+2013,Broj,UGLJEVIK,Ž,Nisu rađale,1598
+2013,Broj,FOCA,Ž,Nisu rađale,2037
+2013,Broj,HAN PIJESAK,Ž,Nisu rađale,391
+2013,Broj,CAJNICE,Ž,Nisu rađale,525
+2013,Broj,CELINAC,Ž,Nisu rađale,1600
+2013,Broj,SAMAC,Ž,Nisu rađale,1848
+2013,Broj,SEKOVICI,Ž,Nisu rađale,667
+2013,Broj,SIPOVO,Ž,Nisu rađale,974
+2013,Broj,REPUBLIKA SRPSKA,Ž,one_child,69805
+2013,Broj,BANJA LUKA,Ž,one_child,13545
+2013,Broj,BERKOVICI,Ž,one_child,72
+2013,Broj,BIJELJINA,Ž,one_child,6922
+2013,Broj,BILECA,Ž,one_child,374
+2013,Broj,BRATUNAC,Ž,one_child,856
+2013,Broj,BROD,Ž,one_child,987
+2013,Broj,VISEGRAD,Ž,one_child,536
+2013,Broj,VLASENICA,Ž,one_child,547
+2013,Broj,VUKOSAVLJE,Ž,one_child,236
+2013,Broj,GACKO,Ž,one_child,325
+2013,Broj,GRADISKA,Ž,one_child,3293
+2013,Broj,DERVENTA,Ž,one_child,1633
+2013,Broj,DOBOJ,Ž,one_child,4512
+2013,Broj,DONJI ZABAR,Ž,one_child,205
+2013,Broj,ZVORNIK,Ž,one_child,2647
+2013,Broj,ISTOCNA ILIDZA,Ž,one_child,1017
+2013,Broj,ISTOCNI DRVAR,Ž,one_child,4
+2013,Broj,ISTOCNI MOSTAR,Ž,one_child,8
+2013,Broj,ISTOCNI STARI GRAD,Ž,one_child,53
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,one_child,832
+2013,Broj,JEZERO,Ž,one_child,41
+2013,Broj,KALINOVIK,Ž,one_child,62
+2013,Broj,KNEZEVO,Ž,one_child,329
+2013,Broj,KOZARSKA DUBICA,Ž,one_child,1478
+2013,Broj,KOSTAJNICA,Ž,one_child,460
+2013,Broj,KOTOR VAROS,Ž,one_child,706
+2013,Broj,KRUPA NA UNI,Ž,one_child,58
+2013,Broj,KUPRES,Ž,one_child,13
+2013,Broj,LAKTASI,Ž,one_child,2036
+2013,Broj,LOPARE,Ž,one_child,737
+2013,Broj,LJUBINJE,Ž,one_child,102
+2013,Broj,MILICI,Ž,one_child,405
+2013,Broj,MODRICA,Ž,one_child,1389
+2013,Broj,MRKONJIC GRAD,Ž,one_child,720
+2013,Broj,NEVESINJE,Ž,one_child,478
+2013,Broj,NOVI GRAD,Ž,one_child,1568
+2013,Broj,NOVO GORAZDE,Ž,one_child,147
+2013,Broj,OSMACI,Ž,one_child,227
+2013,Broj,OSTRA LUKA,Ž,one_child,79
+2013,Broj,PALE,Ž,one_child,1269
+2013,Broj,PELAGICEVO,Ž,one_child,240
+2013,Broj,PETROVAC,Ž,one_child,23
+2013,Broj,PETROVO,Ž,one_child,407
+2013,Broj,PRIJEDOR,Ž,one_child,5181
+2013,Broj,PRNJAVOR,Ž,one_child,1922
+2013,Broj,RIBNIK,Ž,one_child,226
+2013,Broj,ROGATICA,Ž,one_child,505
+2013,Broj,RUDO,Ž,one_child,299
+2013,Broj,SOKOLAC,Ž,one_child,646
+2013,Broj,SRBAC,Ž,one_child,1066
+2013,Broj,SREBRENICA,Ž,one_child,519
+2013,Broj,TESLIC,Ž,one_child,1963
+2013,Broj,TREBINJE,Ž,one_child,1415
+2013,Broj,TRNOVO,Ž,one_child,114
+2013,Broj,UGLJEVIK,Ž,one_child,797
+2013,Broj,FOCA,Ž,one_child,829
+2013,Broj,HAN PIJESAK,Ž,one_child,200
+2013,Broj,CAJNICE,Ž,one_child,203
+2013,Broj,CELINAC,Ž,one_child,640
+2013,Broj,SAMAC,Ž,one_child,1094
+2013,Broj,SEKOVICI,Ž,one_child,241
+2013,Broj,SIPOVO,Ž,one_child,367
+2013,Broj,REPUBLIKA SRPSKA,Ž,two_children,201271
+2013,Broj,BANJA LUKA,Ž,two_children,32459
+2013,Broj,BERKOVICI,Ž,two_children,239
+2013,Broj,BIJELJINA,Ž,two_children,19232
+2013,Broj,BILECA,Ž,two_children,1326
+2013,Broj,BRATUNAC,Ž,two_children,2792
+2013,Broj,BROD,Ž,two_children,2580
+2013,Broj,VISEGRAD,Ž,two_children,1848
+2013,Broj,VLASENICA,Ž,two_children,1665
+2013,Broj,VUKOSAVLJE,Ž,two_children,559
+2013,Broj,GACKO,Ž,two_children,1059
+2013,Broj,GRADISKA,Ž,two_children,8900
+2013,Broj,DERVENTA,Ž,two_children,4439
+2013,Broj,DOBOJ,Ž,two_children,12173
+2013,Broj,DONJI ZABAR,Ž,two_children,593
+2013,Broj,ZVORNIK,Ž,two_children,8830
+2013,Broj,ISTOCNA ILIDZA,Ž,two_children,2779
+2013,Broj,ISTOCNI DRVAR,Ž,two_children,10
+2013,Broj,ISTOCNI MOSTAR,Ž,two_children,33
+2013,Broj,ISTOCNI STARI GRAD,Ž,two_children,228
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,two_children,1900
+2013,Broj,JEZERO,Ž,two_children,148
+2013,Broj,KALINOVIK,Ž,two_children,319
+2013,Broj,KNEZEVO,Ž,two_children,1392
+2013,Broj,KOZARSKA DUBICA,Ž,two_children,4143
+2013,Broj,KOSTAJNICA,Ž,two_children,1052
+2013,Broj,KOTOR VAROS,Ž,two_children,2402
+2013,Broj,KRUPA NA UNI,Ž,two_children,192
+2013,Broj,KUPRES,Ž,two_children,40
+2013,Broj,LAKTASI,Ž,two_children,6184
+2013,Broj,LOPARE,Ž,two_children,2505
+2013,Broj,LJUBINJE,Ž,two_children,553
+2013,Broj,MILICI,Ž,two_children,1495
+2013,Broj,MODRICA,Ž,two_children,4165
+2013,Broj,MRKONJIC GRAD,Ž,two_children,2860
+2013,Broj,NEVESINJE,Ž,two_children,1754
+2013,Broj,NOVI GRAD,Ž,two_children,4409
+2013,Broj,NOVO GORAZDE,Ž,two_children,422
+2013,Broj,OSMACI,Ž,two_children,797
+2013,Broj,OSTRA LUKA,Ž,two_children,344
+2013,Broj,PALE,Ž,two_children,3827
+2013,Broj,PELAGICEVO,Ž,two_children,665
+2013,Broj,PETROVAC,Ž,two_children,82
+2013,Broj,PETROVO,Ž,two_children,1379
+2013,Broj,PRIJEDOR,Ž,two_children,13567
+2013,Broj,PRNJAVOR,Ž,two_children,6044
+2013,Broj,RIBNIK,Ž,two_children,909
+2013,Broj,ROGATICA,Ž,two_children,1710
+2013,Broj,RUDO,Ž,two_children,1350
+2013,Broj,SOKOLAC,Ž,two_children,2140
+2013,Broj,SRBAC,Ž,two_children,3026
+2013,Broj,SREBRENICA,Ž,two_children,1722
+2013,Broj,TESLIC,Ž,two_children,5747
+2013,Broj,TREBINJE,Ž,two_children,4888
+2013,Broj,TRNOVO,Ž,two_children,376
+2013,Broj,UGLJEVIK,Ž,two_children,2613
+2013,Broj,FOCA,Ž,two_children,2985
+2013,Broj,HAN PIJESAK,Ž,two_children,636
+2013,Broj,CAJNICE,Ž,two_children,677
+2013,Broj,CELINAC,Ž,two_children,2447
+2013,Broj,SAMAC,Ž,two_children,3141
+2013,Broj,SEKOVICI,Ž,two_children,982
+2013,Broj,SIPOVO,Ž,two_children,1538
+2013,Broj,REPUBLIKA SRPSKA,Ž,three_children,75481
+2013,Broj,BANJA LUKA,Ž,three_children,8070
+2013,Broj,BERKOVICI,Ž,three_children,217
+2013,Broj,BIJELJINA,Ž,three_children,5831
+2013,Broj,BILECA,Ž,three_children,977
+2013,Broj,BRATUNAC,Ž,three_children,1431
+2013,Broj,BROD,Ž,three_children,1080
+2013,Broj,VISEGRAD,Ž,three_children,712
+2013,Broj,VLASENICA,Ž,three_children,713
+2013,Broj,VUKOSAVLJE,Ž,three_children,347
+2013,Broj,GACKO,Ž,three_children,776
+2013,Broj,GRADISKA,Ž,three_children,3006
+2013,Broj,DERVENTA,Ž,three_children,1724
+2013,Broj,DOBOJ,Ž,three_children,4326
+2013,Broj,DONJI ZABAR,Ž,three_children,250
+2013,Broj,ZVORNIK,Ž,three_children,4031
+2013,Broj,ISTOCNA ILIDZA,Ž,three_children,680
+2013,Broj,ISTOCNI DRVAR,Ž,three_children,3
+2013,Broj,ISTOCNI MOSTAR,Ž,three_children,15
+2013,Broj,ISTOCNI STARI GRAD,Ž,three_children,83
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,three_children,443
+2013,Broj,JEZERO,Ž,three_children,77
+2013,Broj,KALINOVIK,Ž,three_children,171
+2013,Broj,KNEZEVO,Ž,three_children,808
+2013,Broj,KOZARSKA DUBICA,Ž,three_children,1200
+2013,Broj,KOSTAJNICA,Ž,three_children,277
+2013,Broj,KOTOR VAROS,Ž,three_children,1502
+2013,Broj,KRUPA NA UNI,Ž,three_children,142
+2013,Broj,KUPRES,Ž,three_children,27
+2013,Broj,LAKTASI,Ž,three_children,2018
+2013,Broj,LOPARE,Ž,three_children,1040
+2013,Broj,LJUBINJE,Ž,three_children,328
+2013,Broj,MILICI,Ž,three_children,838
+2013,Broj,MODRICA,Ž,three_children,1652
+2013,Broj,MRKONJIC GRAD,Ž,three_children,1314
+2013,Broj,NEVESINJE,Ž,three_children,1064
+2013,Broj,NOVI GRAD,Ž,three_children,1483
+2013,Broj,NOVO GORAZDE,Ž,three_children,192
+2013,Broj,OSMACI,Ž,three_children,427
+2013,Broj,OSTRA LUKA,Ž,three_children,266
+2013,Broj,PALE,Ž,three_children,1048
+2013,Broj,PELAGICEVO,Ž,three_children,364
+2013,Broj,PETROVAC,Ž,three_children,19
+2013,Broj,PETROVO,Ž,three_children,379
+2013,Broj,PRIJEDOR,Ž,three_children,5168
+2013,Broj,PRNJAVOR,Ž,three_children,2451
+2013,Broj,RIBNIK,Ž,three_children,572
+2013,Broj,ROGATICA,Ž,three_children,824
+2013,Broj,RUDO,Ž,three_children,604
+2013,Broj,SOKOLAC,Ž,three_children,768
+2013,Broj,SRBAC,Ž,three_children,1137
+2013,Broj,SREBRENICA,Ž,three_children,914
+2013,Broj,TESLIC,Ž,three_children,2955
+2013,Broj,TREBINJE,Ž,three_children,2131
+2013,Broj,TRNOVO,Ž,three_children,136
+2013,Broj,UGLJEVIK,Ž,three_children,1018
+2013,Broj,FOCA,Ž,three_children,1283
+2013,Broj,HAN PIJESAK,Ž,three_children,282
+2013,Broj,CAJNICE,Ž,three_children,408
+2013,Broj,CELINAC,Ž,three_children,1172
+2013,Broj,SAMAC,Ž,three_children,962
+2013,Broj,SEKOVICI,Ž,three_children,558
+2013,Broj,SIPOVO,Ž,three_children,787
+2013,Broj,REPUBLIKA SRPSKA,Ž,four_children,22659
+2013,Broj,BANJA LUKA,Ž,four_children,2049
+2013,Broj,BERKOVICI,Ž,four_children,76
+2013,Broj,BIJELJINA,Ž,four_children,1410
+2013,Broj,BILECA,Ž,four_children,351
+2013,Broj,BRATUNAC,Ž,four_children,492
+2013,Broj,BROD,Ž,four_children,303
+2013,Broj,VISEGRAD,Ž,four_children,194
+2013,Broj,VLASENICA,Ž,four_children,266
+2013,Broj,VUKOSAVLJE,Ž,four_children,148
+2013,Broj,GACKO,Ž,four_children,273
+2013,Broj,GRADISKA,Ž,four_children,817
+2013,Broj,DERVENTA,Ž,four_children,506
+2013,Broj,DOBOJ,Ž,four_children,1337
+2013,Broj,DONJI ZABAR,Ž,four_children,69
+2013,Broj,ZVORNIK,Ž,four_children,1267
+2013,Broj,ISTOCNA ILIDZA,Ž,four_children,111
+2013,Broj,ISTOCNI MOSTAR,Ž,four_children,5
+2013,Broj,ISTOCNI STARI GRAD,Ž,four_children,23
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,four_children,82
+2013,Broj,JEZERO,Ž,four_children,34
+2013,Broj,KALINOVIK,Ž,four_children,53
+2013,Broj,KNEZEVO,Ž,four_children,317
+2013,Broj,KOZARSKA DUBICA,Ž,four_children,294
+2013,Broj,KOSTAJNICA,Ž,four_children,70
+2013,Broj,KOTOR VAROS,Ž,four_children,635
+2013,Broj,KRUPA NA UNI,Ž,four_children,61
+2013,Broj,KUPRES,Ž,four_children,13
+2013,Broj,LAKTASI,Ž,four_children,549
+2013,Broj,LOPARE,Ž,four_children,301
+2013,Broj,LJUBINJE,Ž,four_children,74
+2013,Broj,MILICI,Ž,four_children,277
+2013,Broj,MODRICA,Ž,four_children,548
+2013,Broj,MRKONJIC GRAD,Ž,four_children,393
+2013,Broj,NEVESINJE,Ž,four_children,395
+2013,Broj,NOVI GRAD,Ž,four_children,583
+2013,Broj,NOVO GORAZDE,Ž,four_children,55
+2013,Broj,OSMACI,Ž,four_children,171
+2013,Broj,OSTRA LUKA,Ž,four_children,105
+2013,Broj,PALE,Ž,four_children,235
+2013,Broj,PELAGICEVO,Ž,four_children,133
+2013,Broj,PETROVAC,Ž,four_children,2
+2013,Broj,PETROVO,Ž,four_children,91
+2013,Broj,PRIJEDOR,Ž,four_children,1761
+2013,Broj,PRNJAVOR,Ž,four_children,769
+2013,Broj,RIBNIK,Ž,four_children,198
+2013,Broj,ROGATICA,Ž,four_children,259
+2013,Broj,RUDO,Ž,four_children,201
+2013,Broj,SOKOLAC,Ž,four_children,206
+2013,Broj,SRBAC,Ž,four_children,306
+2013,Broj,SREBRENICA,Ž,four_children,358
+2013,Broj,TESLIC,Ž,four_children,1010
+2013,Broj,TREBINJE,Ž,four_children,463
+2013,Broj,TRNOVO,Ž,four_children,45
+2013,Broj,UGLJEVIK,Ž,four_children,264
+2013,Broj,FOCA,Ž,four_children,348
+2013,Broj,HAN PIJESAK,Ž,four_children,75
+2013,Broj,CAJNICE,Ž,four_children,140
+2013,Broj,CELINAC,Ž,four_children,385
+2013,Broj,SAMAC,Ž,four_children,235
+2013,Broj,SEKOVICI,Ž,four_children,193
+2013,Broj,SIPOVO,Ž,four_children,275
+2013,Broj,REPUBLIKA SRPSKA,Ž,5+,17275
+2013,Broj,BANJA LUKA,Ž,5+,1552
+2013,Broj,BERKOVICI,Ž,5+,37
+2013,Broj,BIJELJINA,Ž,5+,882
+2013,Broj,BILECA,Ž,5+,169
+2013,Broj,BRATUNAC,Ž,5+,489
+2013,Broj,BROD,Ž,5+,224
+2013,Broj,VISEGRAD,Ž,5+,123
+2013,Broj,VLASENICA,Ž,5+,254
+2013,Broj,VUKOSAVLJE,Ž,5+,140
+2013,Broj,GACKO,Ž,5+,133
+2013,Broj,GRADISKA,Ž,5+,677
+2013,Broj,DERVENTA,Ž,5+,372
+2013,Broj,DOBOJ,Ž,5+,1006
+2013,Broj,DONJI ZABAR,Ž,5+,50
+2013,Broj,ZVORNIK,Ž,5+,1008
+2013,Broj,ISTOCNA ILIDZA,Ž,5+,54
+2013,Broj,ISTOCNI MOSTAR,Ž,5+,7
+2013,Broj,ISTOCNI STARI GRAD,Ž,5+,7
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,5+,30
+2013,Broj,JEZERO,Ž,5+,26
+2013,Broj,KALINOVIK,Ž,5+,43
+2013,Broj,KNEZEVO,Ž,5+,365
+2013,Broj,KOZARSKA DUBICA,Ž,5+,165
+2013,Broj,KOSTAJNICA,Ž,5+,47
+2013,Broj,KOTOR VAROS,Ž,5+,617
+2013,Broj,KRUPA NA UNI,Ž,5+,65
+2013,Broj,KUPRES,Ž,5+,10
+2013,Broj,LAKTASI,Ž,5+,306
+2013,Broj,LOPARE,Ž,5+,209
+2013,Broj,LJUBINJE,Ž,5+,41
+2013,Broj,MILICI,Ž,5+,239
+2013,Broj,MODRICA,Ž,5+,366
+2013,Broj,MRKONJIC GRAD,Ž,5+,295
+2013,Broj,NEVESINJE,Ž,5+,204
+2013,Broj,NOVI GRAD,Ž,5+,543
+2013,Broj,NOVO GORAZDE,Ž,5+,42
+2013,Broj,OSMACI,Ž,5+,175
+2013,Broj,OSTRA LUKA,Ž,5+,102
+2013,Broj,PALE,Ž,5+,95
+2013,Broj,PELAGICEVO,Ž,5+,109
+2013,Broj,PETROVO,Ž,5+,65
+2013,Broj,PRIJEDOR,Ž,5+,1535
+2013,Broj,PRNJAVOR,Ž,5+,610
+2013,Broj,RIBNIK,Ž,5+,162
+2013,Broj,ROGATICA,Ž,5+,143
+2013,Broj,RUDO,Ž,5+,92
+2013,Broj,SOKOLAC,Ž,5+,104
+2013,Broj,SRBAC,Ž,5+,217
+2013,Broj,SREBRENICA,Ž,5+,362
+2013,Broj,TESLIC,Ž,5+,1100
+2013,Broj,TREBINJE,Ž,5+,145
+2013,Broj,TRNOVO,Ž,5+,22
+2013,Broj,UGLJEVIK,Ž,5+,161
+2013,Broj,FOCA,Ž,5+,218
+2013,Broj,HAN PIJESAK,Ž,5+,47
+2013,Broj,CAJNICE,Ž,5+,72
+2013,Broj,CELINAC,Ž,5+,311
+2013,Broj,SAMAC,Ž,5+,151
+2013,Broj,SEKOVICI,Ž,5+,174
+2013,Broj,SIPOVO,Ž,5+,306

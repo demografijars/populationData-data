@@ -16,6 +16,84 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            },
+            "title": "Teritory"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -29,41 +107,25 @@
             "title": "Пол"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Ethnicity_national_affiliation",
+            "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bosniak",
-                "Serb",
-                "Croat ",
-                "Bosnian",
-                "Romani",
-                "Muslim",
-                "Bosnian_and_Herzegovinian",
-                "Albanian",
-                "Yugoslav",
-                "Ukrainian",
-                "Montenegrin",
-                "Turk",
-                "Slovenian",
-                "Orthodox",
-                "Macedonian ",
-                "Others",
-                "Undeclared",
-                "Unknown",
+                "_T",
+                "bosniaks",
+                "croats",
+                "serbs",
+                "Друго",
+                "does_not_declare",
+                "Непознато",
                 ""
               ]
             },
-            "title": "Ethnicity_national_affiliation"
+            "title": "Nationality"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]

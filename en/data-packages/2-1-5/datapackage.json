@@ -11,25 +11,105 @@
       "schema": {
         "fields": [
           {
-            "name": "LIVE_BORN_CHILDREN",
+            "name": "Live births",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "1",
-                "10 and more",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6",
-                "7",
-                "8",
-                "9",
-                "Did not give birth"
+                "5+",
+                "Total",
+                "Did not give birth",
+                "four_children",
+                "one_child",
+                "three_children",
+                "two_children"
               ]
             },
-            "title": "Live-born children"
+            "title": "Live births"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "CAJNICE",
+                "CELINAC",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "FOCA",
+                "GACKO",
+                "GRADISKA",
+                "HAN PIJESAK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KOZARSKA DUBICA",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LJUBINJE",
+                "LOPARE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "REPUBLIKA SRPSKA",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "ZVORNIK"
+              ]
+            },
+            "title": "Teritory"
           },
           {
             "name": "UNIT_MEASURE",

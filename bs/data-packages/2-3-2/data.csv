@@ -1,3 +1,190 @@
-Year,UNIT_MEASURE,Poljoprivredna aktivnost,Value
-2013,Broj,Obavljanje poljoprivredne djelatnosti,363394
-2013,Broj,Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na pijaci,56609
+Year,UNIT_MEASURE,Teritory,Agricultural households,Value
+2013,Broj,REPUBLIKA SRPSKA,Ukupno,408825
+2013,Broj,BANJA LUKA,Ukupno,65010
+2013,Broj,BERKOVICI,Ukupno,636
+2013,Broj,BIJELJINA,Ukupno,34309
+2013,Broj,BILECA,Ukupno,3307
+2013,Broj,BRATUNAC,Ukupno,5945
+2013,Broj,BROD,Ukupno,5599
+2013,Broj,VISEGRAD,Ukupno,3966
+2013,Broj,VLASENICA,Ukupno,3712
+2013,Broj,VUKOSAVLJE,Ukupno,1537
+2013,Broj,GACKO,Ukupno,2766
+2013,Broj,GRADISKA,Ukupno,16939
+2013,Broj,DERVENTA,Ukupno,9345
+2013,Broj,DOBOJ,Ukupno,25447
+2013,Broj,DONJI ZABAR,Ukupno,1191
+2013,Broj,ZVORNIK,Ukupno,17690
+2013,Broj,ISTOCNA ILIDZA,Ukupno,4981
+2013,Broj,ISTOCNI DRVAR,Ukupno,38
+2013,Broj,ISTOCNI MOSTAR,Ukupno,83
+2013,Broj,ISTOCNI STARI GRAD,Ukupno,438
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ukupno,3819
+2013,Broj,JEZERO,Ukupno,365
+2013,Broj,KALINOVIK,Ukupno,783
+2013,Broj,KNEZEVO,Ukupno,3168
+2013,Broj,KOZARSKA DUBICA,Ukupno,7492
+2013,Broj,KOSTAJNICA,Ukupno,1896
+2013,Broj,KOTOR VAROS,Ukupno,5863
+2013,Broj,KRUPA NA UNI,Ukupno,543
+2013,Broj,KUPRES,Ukupno,128
+2013,Broj,LAKTASI,Ukupno,11293
+2013,Broj,LOPARE,Ukupno,5081
+2013,Broj,LJUBINJE,Ukupno,1077
+2013,Broj,MILICI,Ukupno,3579
+2013,Broj,MODRICA,Ukupno,8553
+2013,Broj,MRKONJIC GRAD,Ukupno,6104
+2013,Broj,NEVESINJE,Ukupno,3985
+2013,Broj,NOVI GRAD,Ukupno,8792
+2013,Broj,NOVO GORAZDE,Ukupno,1078
+2013,Broj,OSMACI,Ukupno,1675
+2013,Broj,OSTRA LUKA,Ukupno,971
+2013,Broj,PALE,Ukupno,7158
+2013,Broj,PELAGICEVO,Ukupno,1787
+2013,Broj,PETROVAC,Ukupno,130
+2013,Broj,PETROVO,Ukupno,2532
+2013,Broj,PRIJEDOR,Ukupno,27961
+2013,Broj,PRNJAVOR,Ukupno,12166
+2013,Broj,RIBNIK,Ukupno,2252
+2013,Broj,ROGATICA,Ukupno,3871
+2013,Broj,RUDO,Ukupno,2847
+2013,Broj,SOKOLAC,Ukupno,4276
+2013,Broj,SRBAC,Ukupno,6157
+2013,Broj,SREBRENICA,Ukupno,3792
+2013,Broj,TESLIC,Ukupno,13255
+2013,Broj,TREBINJE,Ukupno,9394
+2013,Broj,TRNOVO,Ukupno,800
+2013,Broj,UGLJEVIK,Ukupno,4867
+2013,Broj,FOCA,Ukupno,6544
+2013,Broj,HAN PIJESAK,Ukupno,1390
+2013,Broj,CAJNICE,Ukupno,1662
+2013,Broj,CELINAC,Ukupno,5009
+2013,Broj,SAMAC,Ukupno,5609
+2013,Broj,SEKOVICI,Ukupno,2517
+2013,Broj,SIPOVO,Ukupno,3665
+2013,Broj,REPUBLIKA SRPSKA,agricultural_households,140960
+2013,Broj,BANJA LUKA,agricultural_households,8832
+2013,Broj,BERKOVICI,agricultural_households,450
+2013,Broj,BIJELJINA,agricultural_households,10563
+2013,Broj,BILECA,agricultural_households,1659
+2013,Broj,BRATUNAC,agricultural_households,3166
+2013,Broj,BROD,agricultural_households,1512
+2013,Broj,VISEGRAD,agricultural_households,963
+2013,Broj,VLASENICA,agricultural_households,1381
+2013,Broj,VUKOSAVLJE,agricultural_households,532
+2013,Broj,GACKO,agricultural_households,986
+2013,Broj,GRADISKA,agricultural_households,6402
+2013,Broj,DERVENTA,agricultural_households,3038
+2013,Broj,DOBOJ,agricultural_households,9221
+2013,Broj,DONJI ZABAR,agricultural_households,617
+2013,Broj,ZVORNIK,agricultural_households,7120
+2013,Broj,ISTOCNA ILIDZA,agricultural_households,1045
+2013,Broj,ISTOCNI DRVAR,agricultural_households,11
+2013,Broj,ISTOCNI MOSTAR,agricultural_households,60
+2013,Broj,ISTOCNI STARI GRAD,agricultural_households,262
+2013,Broj,ISTOCNO NOVO SARAJEVO,agricultural_households,505
+2013,Broj,JEZERO,agricultural_households,99
+2013,Broj,KALINOVIK,agricultural_households,365
+2013,Broj,KNEZEVO,agricultural_households,1920
+2013,Broj,KOZARSKA DUBICA,agricultural_households,2974
+2013,Broj,KOSTAJNICA,agricultural_households,746
+2013,Broj,KOTOR VAROS,agricultural_households,1826
+2013,Broj,KRUPA NA UNI,agricultural_households,453
+2013,Broj,KUPRES,agricultural_households,85
+2013,Broj,LAKTASI,agricultural_households,3882
+2013,Broj,LOPARE,agricultural_households,2416
+2013,Broj,LJUBINJE,agricultural_households,598
+2013,Broj,MILICI,agricultural_households,1395
+2013,Broj,MODRICA,agricultural_households,2793
+2013,Broj,MRKONJIC GRAD,agricultural_households,2540
+2013,Broj,NEVESINJE,agricultural_households,2062
+2013,Broj,NOVI GRAD,agricultural_households,3770
+2013,Broj,NOVO GORAZDE,agricultural_households,431
+2013,Broj,OSMACI,agricultural_households,1002
+2013,Broj,OSTRA LUKA,agricultural_households,572
+2013,Broj,PALE,agricultural_households,1527
+2013,Broj,PELAGICEVO,agricultural_households,869
+2013,Broj,PETROVAC,agricultural_households,54
+2013,Broj,PETROVO,agricultural_households,1388
+2013,Broj,PRIJEDOR,agricultural_households,8920
+2013,Broj,PRNJAVOR,agricultural_households,6121
+2013,Broj,RIBNIK,agricultural_households,1579
+2013,Broj,ROGATICA,agricultural_households,1481
+2013,Broj,RUDO,agricultural_households,1466
+2013,Broj,SOKOLAC,agricultural_households,1586
+2013,Broj,SRBAC,agricultural_households,2852
+2013,Broj,SREBRENICA,agricultural_households,1905
+2013,Broj,TESLIC,agricultural_households,7062
+2013,Broj,TREBINJE,agricultural_households,2485
+2013,Broj,TRNOVO,agricultural_households,341
+2013,Broj,UGLJEVIK,agricultural_households,2419
+2013,Broj,FOCA,agricultural_households,1965
+2013,Broj,HAN PIJESAK,agricultural_households,448
+2013,Broj,CAJNICE,agricultural_households,884
+2013,Broj,CELINAC,agricultural_households,2592
+2013,Broj,SAMAC,agricultural_households,2223
+2013,Broj,SEKOVICI,agricultural_households,890
+2013,Broj,SIPOVO,agricultural_households,1649
+2013,Broj,REPUBLIKA SRPSKA,agricultural_selling,25335
+2013,Broj,BANJA LUKA,agricultural_selling,593
+2013,Broj,BERKOVICI,agricultural_selling,234
+2013,Broj,BIJELJINA,agricultural_selling,4977
+2013,Broj,BILECA,agricultural_selling,213
+2013,Broj,BRATUNAC,agricultural_selling,704
+2013,Broj,BROD,agricultural_selling,134
+2013,Broj,VISEGRAD,agricultural_selling,97
+2013,Broj,VLASENICA,agricultural_selling,241
+2013,Broj,VUKOSAVLJE,agricultural_selling,74
+2013,Broj,GACKO,agricultural_selling,437
+2013,Broj,GRADISKA,agricultural_selling,2285
+2013,Broj,DERVENTA,agricultural_selling,455
+2013,Broj,DOBOJ,agricultural_selling,515
+2013,Broj,DONJI ZABAR,agricultural_selling,219
+2013,Broj,ZVORNIK,agricultural_selling,770
+2013,Broj,ISTOCNA ILIDZA,agricultural_selling,51
+2013,Broj,ISTOCNI DRVAR,agricultural_selling,1
+2013,Broj,ISTOCNI MOSTAR,agricultural_selling,9
+2013,Broj,ISTOCNI STARI GRAD,agricultural_selling,35
+2013,Broj,ISTOCNO NOVO SARAJEVO,agricultural_selling,43
+2013,Broj,JEZERO,agricultural_selling,9
+2013,Broj,KALINOVIK,agricultural_selling,93
+2013,Broj,KNEZEVO,agricultural_selling,305
+2013,Broj,KOZARSKA DUBICA,agricultural_selling,860
+2013,Broj,KOSTAJNICA,agricultural_selling,193
+2013,Broj,KOTOR VAROS,agricultural_selling,139
+2013,Broj,KRUPA NA UNI,agricultural_selling,288
+2013,Broj,KUPRES,agricultural_selling,72
+2013,Broj,LAKTASI,agricultural_selling,662
+2013,Broj,LOPARE,agricultural_selling,668
+2013,Broj,LJUBINJE,agricultural_selling,269
+2013,Broj,MILICI,agricultural_selling,185
+2013,Broj,MODRICA,agricultural_selling,420
+2013,Broj,MRKONJIC GRAD,agricultural_selling,257
+2013,Broj,NEVESINJE,agricultural_selling,702
+2013,Broj,NOVI GRAD,agricultural_selling,499
+2013,Broj,NOVO GORAZDE,agricultural_selling,87
+2013,Broj,OSMACI,agricultural_selling,159
+2013,Broj,OSTRA LUKA,agricultural_selling,57
+2013,Broj,PALE,agricultural_selling,99
+2013,Broj,PELAGICEVO,agricultural_selling,256
+2013,Broj,PETROVAC,agricultural_selling,12
+2013,Broj,PETROVO,agricultural_selling,61
+2013,Broj,PRIJEDOR,agricultural_selling,798
+2013,Broj,PRNJAVOR,agricultural_selling,986
+2013,Broj,RIBNIK,agricultural_selling,93
+2013,Broj,ROGATICA,agricultural_selling,265
+2013,Broj,RUDO,agricultural_selling,244
+2013,Broj,SOKOLAC,agricultural_selling,292
+2013,Broj,SRBAC,agricultural_selling,594
+2013,Broj,SREBRENICA,agricultural_selling,469
+2013,Broj,TESLIC,agricultural_selling,576
+2013,Broj,TREBINJE,agricultural_selling,327
+2013,Broj,TRNOVO,agricultural_selling,17
+2013,Broj,UGLJEVIK,agricultural_selling,632
+2013,Broj,FOCA,agricultural_selling,262
+2013,Broj,HAN PIJESAK,agricultural_selling,75
+2013,Broj,CAJNICE,agricultural_selling,131
+2013,Broj,CELINAC,agricultural_selling,191
+2013,Broj,SAMAC,agricultural_selling,616
+2013,Broj,SEKOVICI,agricultural_selling,81
+2013,Broj,SIPOVO,agricultural_selling,247

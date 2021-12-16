@@ -1,33 +1,441 @@
-Year,Величина домаћинства,UNIT_MEASURE,Value
-1971,1 члан,Број,82305
-1971,2 члана,Број,97312
-1971,3 члана,Број,125680
-1971,4 члана,Број,174650
-1971,5 чланова,Број,134703
-1971,6 чланова,Број,94479
-1971,7 чланова,Број,60558
-1971,8+ чланова,Број,78858
-1981,1 члан,Број,97423
-1981,2 члана,Број,143225
-1981,3 члана,Број,181500
-1981,4 члана,Број,264179
-1981,5 чланова,Број,151073
-1981,6 чланова,Број,90453
-1981,7 чланова,Број,48831
-1981,8+ чланова,Број,54005
-1991,1 члан,Број,130222
-1991,2 члана,Број,201096
-1991,3 члана,Број,229788
-1991,4 члана,Број,347705
-1991,5 чланова,Број,156474
-1991,6 чланова,Број,78561
-1991,7 чланова,Број,33655
-1991,8+ чланова,Број,29597
-2013,1 члан,Број,217477
-2013,2 члана,Број,277173
-2013,3 члана,Број,232161
-2013,4 члана,Број,238614
-2013,5 чланова,Број,107223
-2013,6 чланова,Број,49856
-2013,7 чланова,Број,18818
-2013,8+ чланова,Број,14230
+Year,UNIT_MEASURE,Teritory,Пол,Величина домаћинства,Value
+2013,Број,REPUBLIKA SRPSKA,Оба пола,_T,408825.0
+2013,Број,BANJA LUKA,M,_T,65010.0
+2013,Број,BERKOVICI,Ж,_T,636.0
+2013,Број,BIJELJINA,Оба пола,_T,34309.0
+2013,Број,BILECA,M,_T,3307.0
+2013,Број,BRATUNAC,Ж,_T,5945.0
+2013,Број,BROD,Оба пола,_T,5599.0
+2013,Број,VISEGRAD,M,_T,3966.0
+2013,Број,VLASENICA,Ж,_T,3712.0
+2013,Број,VUKOSAVLJE,Оба пола,_T,1537.0
+2013,Број,GACKO,M,_T,2766.0
+2013,Број,GRADISKA,Ж,_T,16939.0
+2013,Број,DERVENTA,Оба пола,_T,9345.0
+2013,Број,DOBOJ,M,_T,25447.0
+2013,Број,DONJI ZABAR,Ж,_T,1191.0
+2013,Број,ZVORNIK,Оба пола,_T,17690.0
+2013,Број,ISTOCNA ILIDZA,M,_T,4981.0
+2013,Број,ISTOCNI DRVAR,Ж,_T,38.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,_T,83.0
+2013,Број,ISTOCNI STARI GRAD,M,_T,438.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,_T,3819.0
+2013,Број,JEZERO,Оба пола,_T,365.0
+2013,Број,KALINOVIK,M,_T,783.0
+2013,Број,KNEZEVO,Ж,_T,3168.0
+2013,Број,KOZARSKA DUBICA,Оба пола,_T,7492.0
+2013,Број,KOSTAJNICA,M,_T,1896.0
+2013,Број,KOTOR VAROS,Ж,_T,5863.0
+2013,Број,KRUPA NA UNI,Оба пола,_T,543.0
+2013,Број,KUPRES,M,_T,128.0
+2013,Број,LAKTASI,Ж,_T,11293.0
+2013,Број,LOPARE,Оба пола,_T,5081.0
+2013,Број,LJUBINJE,M,_T,1077.0
+2013,Број,MILICI,Ж,_T,3579.0
+2013,Број,MODRICA,Оба пола,_T,8553.0
+2013,Број,MRKONJIC GRAD,M,_T,6104.0
+2013,Број,NEVESINJE,Ж,_T,3985.0
+2013,Број,NOVI GRAD,Оба пола,_T,8792.0
+2013,Број,NOVO GORAZDE,M,_T,1078.0
+2013,Број,OSMACI,Ж,_T,1675.0
+2013,Број,OSTRA LUKA,Оба пола,_T,971.0
+2013,Број,PALE,M,_T,7158.0
+2013,Број,PELAGICEVO,Ж,_T,1787.0
+2013,Број,PETROVAC,Оба пола,_T,130.0
+2013,Број,PETROVO,M,_T,2532.0
+2013,Број,PRIJEDOR,Ж,_T,27961.0
+2013,Број,PRNJAVOR,Оба пола,_T,12166.0
+2013,Број,RIBNIK,M,_T,2252.0
+2013,Број,ROGATICA,Ж,_T,3871.0
+2013,Број,RUDO,Оба пола,_T,2847.0
+2013,Број,SOKOLAC,M,_T,4276.0
+2013,Број,SRBAC,Ж,_T,6157.0
+2013,Број,SREBRENICA,Оба пола,_T,3792.0
+2013,Број,TESLIC,M,_T,13255.0
+2013,Број,TREBINJE,Ж,_T,9394.0
+2013,Број,TRNOVO,Оба пола,_T,800.0
+2013,Број,UGLJEVIK,M,_T,4867.0
+2013,Број,FOCA,Ж,_T,6544.0
+2013,Број,HAN PIJESAK,Оба пола,_T,1390.0
+2013,Број,CAJNICE,M,_T,1662.0
+2013,Број,CELINAC,Ж,_T,5009.0
+2013,Број,SAMAC,Оба пола,_T,5609.0
+2013,Број,SEKOVICI,M,_T,2517.0
+2013,Број,SIPOVO,Ж,_T,3665.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,one_member,91300.0
+2013,Број,BANJA LUKA,M,one_member,13984.0
+2013,Број,BERKOVICI,Ж,one_member,129.0
+2013,Број,BIJELJINA,Оба пола,one_member,6984.0
+2013,Број,BILECA,M,one_member,629.0
+2013,Број,BRATUNAC,Ж,one_member,1155.0
+2013,Број,BROD,Оба пола,one_member,1360.0
+2013,Број,VISEGRAD,M,one_member,1132.0
+2013,Број,VLASENICA,Ж,one_member,768.0
+2013,Број,VUKOSAVLJE,Оба пола,one_member,348.0
+2013,Број,GACKO,M,one_member,522.0
+2013,Број,GRADISKA,Ж,one_member,3782.0
+2013,Број,DERVENTA,Оба пола,one_member,2270.0
+2013,Број,DOBOJ,M,one_member,6230.0
+2013,Број,DONJI ZABAR,Ж,one_member,271.0
+2013,Број,ZVORNIK,Оба пола,one_member,3323.0
+2013,Број,ISTOCNA ILIDZA,M,one_member,949.0
+2013,Број,ISTOCNI DRVAR,Ж,one_member,24.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,one_member,29.0
+2013,Број,ISTOCNI STARI GRAD,M,one_member,123.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,one_member,904.0
+2013,Број,JEZERO,Оба пола,one_member,86.0
+2013,Број,KALINOVIK,M,one_member,245.0
+2013,Број,KNEZEVO,Ж,one_member,611.0
+2013,Број,KOZARSKA DUBICA,Оба пола,one_member,1898.0
+2013,Број,KOSTAJNICA,M,one_member,384.0
+2013,Број,KOTOR VAROS,Ж,one_member,1089.0
+2013,Број,KRUPA NA UNI,Оба пола,one_member,159.0
+2013,Број,KUPRES,M,one_member,44.0
+2013,Број,LAKTASI,Ж,one_member,2093.0
+2013,Број,LOPARE,Оба пола,one_member,1256.0
+2013,Број,LJUBINJE,M,one_member,196.0
+2013,Број,MILICI,Ж,one_member,789.0
+2013,Број,MODRICA,Оба пола,one_member,1983.0
+2013,Број,MRKONJIC GRAD,M,one_member,1538.0
+2013,Број,NEVESINJE,Ж,one_member,766.0
+2013,Број,NOVI GRAD,Оба пола,one_member,1965.0
+2013,Број,NOVO GORAZDE,M,one_member,270.0
+2013,Број,OSMACI,Ж,one_member,254.0
+2013,Број,OSTRA LUKA,Оба пола,one_member,277.0
+2013,Број,PALE,M,one_member,1515.0
+2013,Број,PELAGICEVO,Ж,one_member,640.0
+2013,Број,PETROVAC,Оба пола,one_member,34.0
+2013,Број,PETROVO,M,one_member,726.0
+2013,Број,PRIJEDOR,Ж,one_member,6423.0
+2013,Број,PRNJAVOR,Оба пола,one_member,2943.0
+2013,Број,RIBNIK,M,one_member,642.0
+2013,Број,ROGATICA,Ж,one_member,986.0
+2013,Број,RUDO,Оба пола,one_member,696.0
+2013,Број,SOKOLAC,M,one_member,1022.0
+2013,Број,SRBAC,Ж,one_member,1507.0
+2013,Број,SREBRENICA,Оба пола,one_member,874.0
+2013,Број,TESLIC,M,one_member,3060.0
+2013,Број,TREBINJE,Ж,one_member,1848.0
+2013,Број,TRNOVO,Оба пола,one_member,223.0
+2013,Број,UGLJEVIK,M,one_member,1019.0
+2013,Број,FOCA,Ж,one_member,1635.0
+2013,Број,HAN PIJESAK,Оба пола,one_member,389.0
+2013,Број,CAJNICE,M,one_member,395.0
+2013,Број,CELINAC,Ж,one_member,951.0
+2013,Број,SAMAC,Оба пола,one_member,1406.0
+2013,Број,SEKOVICI,M,one_member,708.0
+2013,Број,SIPOVO,Ж,one_member,839.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,two_members,107130.0
+2013,Број,BANJA LUKA,M,two_members,17243.0
+2013,Број,BERKOVICI,Ж,two_members,166.0
+2013,Број,BIJELJINA,Оба пола,two_members,8272.0
+2013,Број,BILECA,M,two_members,719.0
+2013,Број,BRATUNAC,Ж,two_members,1345.0
+2013,Број,BROD,Оба пола,two_members,1439.0
+2013,Број,VISEGRAD,M,two_members,1172.0
+2013,Број,VLASENICA,Ж,two_members,1001.0
+2013,Број,VUKOSAVLJE,Оба пола,two_members,425.0
+2013,Број,GACKO,M,two_members,622.0
+2013,Број,GRADISKA,Ж,two_members,4438.0
+2013,Број,DERVENTA,Оба пола,two_members,2598.0
+2013,Број,DOBOJ,M,two_members,7242.0
+2013,Број,DONJI ZABAR,Ж,two_members,290.0
+2013,Број,ZVORNIK,Оба пола,two_members,4288.0
+2013,Број,ISTOCNA ILIDZA,M,two_members,1316.0
+2013,Број,ISTOCNI DRVAR,Ж,two_members,7.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,two_members,15.0
+2013,Број,ISTOCNI STARI GRAD,M,two_members,146.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,two_members,1011.0
+2013,Број,JEZERO,Оба пола,two_members,89.0
+2013,Број,KALINOVIK,M,two_members,213.0
+2013,Број,KNEZEVO,Ж,two_members,937.0
+2013,Број,KOZARSKA DUBICA,Оба пола,two_members,2021.0
+2013,Број,KOSTAJNICA,M,two_members,477.0
+2013,Број,KOTOR VAROS,Ж,two_members,1358.0
+2013,Број,KRUPA NA UNI,Оба пола,two_members,128.0
+2013,Број,KUPRES,M,two_members,48.0
+2013,Број,LAKTASI,Ж,two_members,2768.0
+2013,Број,LOPARE,Оба пола,two_members,1261.0
+2013,Број,LJUBINJE,M,two_members,254.0
+2013,Број,MILICI,Ж,two_members,859.0
+2013,Број,MODRICA,Оба пола,two_members,2332.0
+2013,Број,MRKONJIC GRAD,M,two_members,1806.0
+2013,Број,NEVESINJE,Ж,two_members,939.0
+2013,Број,NOVI GRAD,Оба пола,two_members,2390.0
+2013,Број,NOVO GORAZDE,M,two_members,288.0
+2013,Број,OSMACI,Ж,two_members,372.0
+2013,Број,OSTRA LUKA,Оба пола,two_members,243.0
+2013,Број,PALE,M,two_members,1890.0
+2013,Број,PELAGICEVO,Ж,two_members,516.0
+2013,Број,PETROVAC,Оба пола,two_members,35.0
+2013,Број,PETROVO,M,two_members,760.0
+2013,Број,PRIJEDOR,Ж,two_members,7125.0
+2013,Број,PRNJAVOR,Оба пола,two_members,3253.0
+2013,Број,RIBNIK,M,two_members,673.0
+2013,Број,ROGATICA,Ж,two_members,1120.0
+2013,Број,RUDO,Оба пола,two_members,851.0
+2013,Број,SOKOLAC,M,two_members,1227.0
+2013,Број,SRBAC,Ж,two_members,1729.0
+2013,Број,SREBRENICA,Оба пола,two_members,858.0
+2013,Број,TESLIC,M,two_members,3602.0
+2013,Број,TREBINJE,Ж,two_members,2317.0
+2013,Број,TRNOVO,Оба пола,two_members,250.0
+2013,Број,UGLJEVIK,M,two_members,1118.0
+2013,Број,FOCA,Ж,two_members,1877.0
+2013,Број,HAN PIJESAK,Оба пола,two_members,439.0
+2013,Број,CAJNICE,M,two_members,442.0
+2013,Број,CELINAC,Ж,two_members,1260.0
+2013,Број,SAMAC,Оба пола,two_members,1408.0
+2013,Број,SEKOVICI,M,two_members,783.0
+2013,Број,SIPOVO,Ж,two_members,1059.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,three_members,79155.0
+2013,Број,BANJA LUKA,M,three_members,14267.0
+2013,Број,BERKOVICI,Ж,three_members,92.0
+2013,Број,BIJELJINA,Оба пола,three_members,6586.0
+2013,Број,BILECA,M,three_members,620.0
+2013,Број,BRATUNAC,Ж,three_members,1137.0
+2013,Број,BROD,Оба пола,three_members,1107.0
+2013,Број,VISEGRAD,M,three_members,724.0
+2013,Број,VLASENICA,Ж,three_members,747.0
+2013,Број,VUKOSAVLJE,Оба пола,three_members,280.0
+2013,Број,GACKO,M,three_members,561.0
+2013,Број,GRADISKA,Ж,three_members,3140.0
+2013,Број,DERVENTA,Оба пола,three_members,1688.0
+2013,Број,DOBOJ,M,three_members,4956.0
+2013,Број,DONJI ZABAR,Ж,three_members,178.0
+2013,Број,ZVORNIK,Оба пола,three_members,3400.0
+2013,Број,ISTOCNA ILIDZA,M,three_members,1075.0
+2013,Број,ISTOCNI DRVAR,Ж,three_members,6.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,three_members,12.0
+2013,Број,ISTOCNI STARI GRAD,M,three_members,75.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,three_members,813.0
+2013,Број,JEZERO,Оба пола,three_members,75.0
+2013,Број,KALINOVIK,M,three_members,136.0
+2013,Број,KNEZEVO,Ж,three_members,554.0
+2013,Број,KOZARSKA DUBICA,Оба пола,three_members,1351.0
+2013,Број,KOSTAJNICA,M,three_members,384.0
+2013,Број,KOTOR VAROS,Ж,three_members,1079.0
+2013,Број,KRUPA NA UNI,Оба пола,three_members,84.0
+2013,Број,KUPRES,M,three_members,16.0
+2013,Број,LAKTASI,Ж,three_members,2241.0
+2013,Број,LOPARE,Оба пола,three_members,908.0
+2013,Број,LJUBINJE,M,three_members,234.0
+2013,Број,MILICI,Ж,three_members,709.0
+2013,Број,MODRICA,Оба пола,three_members,1567.0
+2013,Број,MRKONJIC GRAD,M,three_members,1218.0
+2013,Број,NEVESINJE,Ж,three_members,701.0
+2013,Број,NOVI GRAD,Оба пола,three_members,1669.0
+2013,Број,NOVO GORAZDE,M,three_members,193.0
+2013,Број,OSMACI,Ж,three_members,317.0
+2013,Број,OSTRA LUKA,Оба пола,three_members,151.0
+2013,Број,PALE,M,three_members,1438.0
+2013,Број,PELAGICEVO,Ж,three_members,225.0
+2013,Број,PETROVAC,Оба пола,three_members,22.0
+2013,Број,PETROVO,M,three_members,448.0
+2013,Број,PRIJEDOR,Ж,three_members,5351.0
+2013,Број,PRNJAVOR,Оба пола,three_members,2183.0
+2013,Број,RIBNIK,M,three_members,356.0
+2013,Број,ROGATICA,Ж,three_members,709.0
+2013,Број,RUDO,Оба пола,three_members,523.0
+2013,Број,SOKOLAC,M,three_members,808.0
+2013,Број,SRBAC,Ж,three_members,1106.0
+2013,Број,SREBRENICA,Оба пола,three_members,656.0
+2013,Број,TESLIC,M,three_members,2559.0
+2013,Број,TREBINJE,Ж,three_members,1871.0
+2013,Број,TRNOVO,Оба пола,three_members,143.0
+2013,Број,UGLJEVIK,M,three_members,821.0
+2013,Број,FOCA,Ж,three_members,1263.0
+2013,Број,HAN PIJESAK,Оба пола,three_members,249.0
+2013,Број,CAJNICE,M,three_members,303.0
+2013,Број,CELINAC,Ж,three_members,985.0
+2013,Број,SAMAC,Оба пола,three_members,971.0
+2013,Број,SEKOVICI,M,three_members,418.0
+2013,Број,SIPOVO,Ж,three_members,696.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,four_members,72771.0
+2013,Број,BANJA LUKA,M,four_members,12952.0
+2013,Број,BERKOVICI,Ж,four_members,84.0
+2013,Број,BIJELJINA,Оба пола,four_members,6377.0
+2013,Број,BILECA,M,four_members,616.0
+2013,Број,BRATUNAC,Ж,four_members,1161.0
+2013,Број,BROD,Оба пола,four_members,928.0
+2013,Број,VISEGRAD,M,four_members,582.0
+2013,Број,VLASENICA,Ж,four_members,687.0
+2013,Број,VUKOSAVLJE,Оба пола,four_members,249.0
+2013,Број,GACKO,M,four_members,480.0
+2013,Број,GRADISKA,Ж,four_members,2878.0
+2013,Број,DERVENTA,Оба пола,four_members,1520.0
+2013,Број,DOBOJ,M,four_members,4148.0
+2013,Број,DONJI ZABAR,Ж,four_members,184.0
+2013,Број,ZVORNIK,Оба пола,four_members,3448.0
+2013,Број,ISTOCNA ILIDZA,M,four_members,1028.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,four_members,10.0
+2013,Број,ISTOCNI STARI GRAD,M,four_members,43.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,four_members,702.0
+2013,Број,JEZERO,Оба пола,four_members,58.0
+2013,Број,KALINOVIK,M,four_members,109.0
+2013,Број,KNEZEVO,Ж,four_members,551.0
+2013,Број,KOZARSKA DUBICA,Оба пола,four_members,1175.0
+2013,Број,KOSTAJNICA,M,four_members,311.0
+2013,Број,KOTOR VAROS,Ж,four_members,1206.0
+2013,Број,KRUPA NA UNI,Оба пола,four_members,72.0
+2013,Број,KUPRES,M,four_members,6.0
+2013,Број,LAKTASI,Ж,four_members,2345.0
+2013,Број,LOPARE,Оба пола,four_members,805.0
+2013,Број,LJUBINJE,M,four_members,194.0
+2013,Број,MILICI,Ж,four_members,714.0
+2013,Број,MODRICA,Оба пола,four_members,1422.0
+2013,Број,MRKONJIC GRAD,M,four_members,939.0
+2013,Број,NEVESINJE,Ж,four_members,736.0
+2013,Број,NOVI GRAD,Оба пола,four_members,1422.0
+2013,Број,NOVO GORAZDE,M,four_members,204.0
+2013,Број,OSMACI,Ж,four_members,358.0
+2013,Број,OSTRA LUKA,Оба пола,four_members,131.0
+2013,Број,PALE,M,four_members,1418.0
+2013,Број,PELAGICEVO,Ж,four_members,191.0
+2013,Број,PETROVAC,Оба пола,four_members,19.0
+2013,Број,PETROVO,M,four_members,370.0
+2013,Број,PRIJEDOR,Ж,four_members,4862.0
+2013,Број,PRNJAVOR,Оба пола,four_members,1953.0
+2013,Број,RIBNIK,M,four_members,308.0
+2013,Број,ROGATICA,Ж,four_members,630.0
+2013,Број,RUDO,Оба пола,four_members,467.0
+2013,Број,SOKOLAC,M,four_members,728.0
+2013,Број,SRBAC,Ж,four_members,1011.0
+2013,Број,SREBRENICA,Оба пола,four_members,652.0
+2013,Број,TESLIC,M,four_members,2147.0
+2013,Број,TREBINJE,Ж,four_members,1765.0
+2013,Број,TRNOVO,Оба пола,four_members,110.0
+2013,Број,UGLJEVIK,M,four_members,932.0
+2013,Број,FOCA,Ж,four_members,1115.0
+2013,Број,HAN PIJESAK,Оба пола,four_members,194.0
+2013,Број,CAJNICE,M,four_members,278.0
+2013,Број,CELINAC,Ж,four_members,964.0
+2013,Број,SAMAC,Оба пола,four_members,823.0
+2013,Број,SEKOVICI,M,four_members,379.0
+2013,Број,SIPOVO,Ж,four_members,620.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,5+,58469.0
+2013,Број,BANJA LUKA,M,5+,6564.0
+2013,Број,BERKOVICI,Ж,5+,165.0
+2013,Број,BIJELJINA,Оба пола,5+,6090.0
+2013,Број,BILECA,M,5+,723.0
+2013,Број,BRATUNAC,Ж,5+,1147.0
+2013,Број,BROD,Оба пола,5+,765.0
+2013,Број,VISEGRAD,M,5+,356.0
+2013,Број,VLASENICA,Ж,5+,509.0
+2013,Број,VUKOSAVLJE,Оба пола,5+,235.0
+2013,Број,GACKO,M,5+,581.0
+2013,Број,GRADISKA,Ж,5+,2701.0
+2013,Број,DERVENTA,Оба пола,5+,1269.0
+2013,Број,DOBOJ,M,5+,2871.0
+2013,Број,DONJI ZABAR,Ж,5+,268.0
+2013,Број,ZVORNIK,Оба пола,5+,3231.0
+2013,Број,ISTOCNA ILIDZA,M,5+,613.0
+2013,Број,ISTOCNI DRVAR,Ж,5+,1.0
+2013,Број,ISTOCNI MOSTAR,Оба пола,5+,17.0
+2013,Број,ISTOCNI STARI GRAD,M,5+,51.0
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,5+,389.0
+2013,Број,JEZERO,Оба пола,5+,57.0
+2013,Број,KALINOVIK,M,5+,80.0
+2013,Број,KNEZEVO,Ж,5+,515.0
+2013,Број,KOZARSKA DUBICA,Оба пола,5+,1047.0
+2013,Број,KOSTAJNICA,M,5+,340.0
+2013,Број,KOTOR VAROS,Ж,5+,1131.0
+2013,Број,KRUPA NA UNI,Оба пола,5+,100.0
+2013,Број,KUPRES,M,5+,14.0
+2013,Број,LAKTASI,Ж,5+,1846.0
+2013,Број,LOPARE,Оба пола,5+,851.0
+2013,Број,LJUBINJE,M,5+,199.0
+2013,Број,MILICI,Ж,5+,508.0
+2013,Број,MODRICA,Оба пола,5+,1249.0
+2013,Број,MRKONJIC GRAD,M,5+,603.0
+2013,Број,NEVESINJE,Ж,5+,843.0
+2013,Број,NOVI GRAD,Оба пола,5+,1346.0
+2013,Број,NOVO GORAZDE,M,5+,123.0
+2013,Број,OSMACI,Ж,5+,374.0
+2013,Број,OSTRA LUKA,Оба пола,5+,169.0
+2013,Број,PALE,M,5+,897.0
+2013,Број,PELAGICEVO,Ж,5+,215.0
+2013,Број,PETROVAC,Оба пола,5+,20.0
+2013,Број,PETROVO,M,5+,228.0
+2013,Број,PRIJEDOR,Ж,5+,4200.0
+2013,Број,PRNJAVOR,Оба пола,5+,1834.0
+2013,Број,RIBNIK,M,5+,273.0
+2013,Број,ROGATICA,Ж,5+,426.0
+2013,Број,RUDO,Оба пола,5+,310.0
+2013,Број,SOKOLAC,M,5+,491.0
+2013,Број,SRBAC,Ж,5+,804.0
+2013,Број,SREBRENICA,Оба пола,5+,752.0
+2013,Број,TESLIC,M,5+,1887.0
+2013,Број,TREBINJE,Ж,5+,1593.0
+2013,Број,TRNOVO,Оба пола,5+,74.0
+2013,Број,UGLJEVIK,M,5+,977.0
+2013,Број,FOCA,Ж,5+,654.0
+2013,Број,HAN PIJESAK,Оба пола,5+,119.0
+2013,Број,CAJNICE,M,5+,244.0
+2013,Број,CELINAC,Ж,5+,849.0
+2013,Број,SAMAC,Оба пола,5+,1001.0
+2013,Број,SEKOVICI,M,5+,229.0
+2013,Број,SIPOVO,Ж,5+,451.0
+2013,Број,REPUBLIKA SRPSKA,Оба пола,average_number,2.85
+2013,Број,BANJA LUKA,M,average_number,2.76
+2013,Број,BERKOVICI,Ж,average_number,3.21
+2013,Број,BIJELJINA,Оба пола,average_number,3.02
+2013,Број,BILECA,M,average_number,3.21
+2013,Број,BRATUNAC,Ж,average_number,3.14
+2013,Број,BROD,Оба пола,average_number,2.81
+2013,Број,VISEGRAD,M,average_number,2.51
+2013,Број,VLASENICA,Ж,average_number,2.87
+2013,Број,VUKOSAVLJE,Оба пола,average_number,2.84
+2013,Број,GACKO,M,average_number,3.15
+2013,Број,GRADISKA,Ж,average_number,2.9
+2013,Број,DERVENTA,Оба пола,average_number,2.77
+2013,Број,DOBOJ,M,average_number,2.68
+2013,Број,DONJI ZABAR,Ж,average_number,3.08
+2013,Број,ZVORNIK,Оба пола,average_number,3.07
+2013,Број,ISTOCNA ILIDZA,M,average_number,2.86
+2013,Број,ISTOCNI DRVAR,Ж,average_number,1.61
+2013,Број,ISTOCNI MOSTAR,Оба пола,average_number,2.94
+2013,Број,ISTOCNI STARI GRAD,M,average_number,2.55
+2013,Број,ISTOCNO NOVO SARAJEVO,Ж,average_number,2.71
+2013,Број,JEZERO,Оба пола,average_number,2.85
+2013,Број,KALINOVIK,M,average_number,2.5
+2013,Број,KNEZEVO,Ж,average_number,2.94
+2013,Број,KOZARSKA DUBICA,Оба пола,average_number,2.76
+2013,Број,KOSTAJNICA,M,average_number,2.98
+2013,Број,KOTOR VAROS,Ж,average_number,3.13
+2013,Број,KRUPA NA UNI,Оба пола,average_number,2.87
+2013,Број,KUPRES,M,average_number,2.29
+2013,Број,LAKTASI,Ж,average_number,3.02
+2013,Број,LOPARE,Оба пола,average_number,2.88
+2013,Број,LJUBINJE,M,average_number,3.08
+2013,Број,MILICI,Ж,average_number,2.92
+2013,Број,MODRICA,Оба пола,average_number,2.83
+2013,Број,MRKONJIC GRAD,M,average_number,2.6
+2013,Број,NEVESINJE,Ж,average_number,3.15
+2013,Број,NOVI GRAD,Оба пола,average_number,2.87
+2013,Број,NOVO GORAZDE,M,average_number,2.7
+2013,Број,OSMACI,Ж,average_number,3.31
+2013,Број,OSTRA LUKA,Оба пола,average_number,2.79
+2013,Број,PALE,M,average_number,2.83
+2013,Број,PELAGICEVO,Ж,average_number,2.43
+2013,Број,PETROVAC,Оба пола,average_number,2.72
+2013,Број,PETROVO,M,average_number,2.49
+2013,Број,PRIJEDOR,Ж,average_number,2.88
+2013,Број,PRNJAVOR,Оба пола,average_number,2.82
+2013,Број,RIBNIK,M,average_number,2.6
+2013,Број,ROGATICA,Ж,average_number,2.65
+2013,Број,RUDO,Оба пола,average_number,2.66
+2013,Број,SOKOLAC,M,average_number,2.7
+2013,Број,SRBAC,Ж,average_number,2.75
+2013,Број,SREBRENICA,Оба пола,average_number,3.08
+2013,Број,TESLIC,M,average_number,2.81
+2013,Број,TREBINJE,Ж,average_number,2.99
+2013,Број,TRNOVO,Оба пола,average_number,2.48
+2013,Број,UGLJEVIK,M,average_number,3.11
+2013,Број,FOCA,Ж,average_number,2.63
+2013,Број,HAN PIJESAK,Оба пола,average_number,2.48
+2013,Број,CAJNICE,M,average_number,2.82
+2013,Број,CELINAC,Ж,average_number,3.02
+2013,Број,SAMAC,Оба пола,average_number,2.91
+2013,Број,SEKOVICI,M,average_number,2.51
+2013,Број,SIPOVO,Ж,average_number,2.72

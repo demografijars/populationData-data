@@ -16,31 +16,116 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "REPUBLIKA SRPSKA",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "GACKO",
+                "GRADISKA",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "ZVORNIK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOZARSKA DUBICA",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LOPARE",
+                "LJUBINJE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "FOCA",
+                "HAN PIJESAK",
+                "CAJNICE",
+                "CELINAC",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                ""
+              ]
+            },
+            "title": "Teritory"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 član",
-                "2 člana",
-                "3 člana",
-                "4 člana",
-                "5 članova",
-                "6 članova",
-                "7 članova",
-                "8+ članova",
+                "Ukupno",
+                "one_member",
+                "two_members",
+                "three_members",
+                "four_members",
+                "5+",
+                "average_number",
                 ""
               ]
             },
             "title": "Veličina domaćinstva"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

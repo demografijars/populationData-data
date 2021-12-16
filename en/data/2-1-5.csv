@@ -1,12 +1,439 @@
-Year,UNIT_MEASURE,Live-born children,Value
-2013,Number,Did not give birth,313281
-2013,Number,1,12565
-2013,Number,2,8854
-2013,Number,3,2994
-2013,Number,4,966
-2013,Number,5,387
-2013,Number,6,168
-2013,Number,7,95
-2013,Number,8,56
-2013,Number,9,30
-2013,Number,10 and more,26
+Year,UNIT_MEASURE,Teritory,Sex,Live births,Value
+2013,Number,REPUBLIKA SRPSKA,F,Total,518243
+2013,Number,BANJA LUKA,F,Total,80633
+2013,Number,BERKOVICI,F,Total,839
+2013,Number,BIJELJINA,F,Total,45729
+2013,Number,BILECA,F,Total,4500
+2013,Number,BRATUNAC,F,Total,8127
+2013,Number,BROD,F,Total,6996
+2013,Number,VISEGRAD,F,Total,4691
+2013,Number,VLASENICA,F,Total,4738
+2013,Number,VUKOSAVLJE,F,Total,1849
+2013,Number,GACKO,F,Total,3646
+2013,Number,GRADISKA,F,Total,22005
+2013,Number,DERVENTA,F,Total,11515
+2013,Number,DOBOJ,F,Total,30598
+2013,Number,DONJI ZABAR,F,Total,1561
+2013,Number,ZVORNIK,F,Total,23313
+2013,Number,ISTOCNA ILIDZA,F,Total,6538
+2013,Number,ISTOCNI DRVAR,F,Total,22
+2013,Number,ISTOCNI MOSTAR,F,Total,93
+2013,Number,ISTOCNI STARI GRAD,F,Total,516
+2013,Number,ISTOCNO NOVO SARAJEVO,F,Total,4659
+2013,Number,JEZERO,F,Total,437
+2013,Number,KALINOVIK,F,Total,898
+2013,Number,KNEZEVO,F,Total,4079
+2013,Number,KOZARSKA DUBICA,F,Total,9386
+2013,Number,KOSTAJNICA,F,Total,2538
+2013,Number,KOTOR VAROS,F,Total,7914
+2013,Number,KRUPA NA UNI,F,Total,628
+2013,Number,KUPRES,F,Total,127
+2013,Number,LAKTASI,F,Total,14682
+2013,Number,LOPARE,F,Total,6471
+2013,Number,LJUBINJE,F,Total,1475
+2013,Number,MILICI,F,Total,4489
+2013,Number,MODRICA,F,Total,10856
+2013,Number,MRKONJIC GRAD,F,Total,7153
+2013,Number,NEVESINJE,F,Total,5385
+2013,Number,NOVI GRAD,F,Total,11191
+2013,Number,NOVO GORAZDE,F,Total,1263
+2013,Number,OSMACI,F,Total,2367
+2013,Number,OSTRA LUKA,F,Total,1131
+2013,Number,PALE,F,Total,9317
+2013,Number,PELAGICEVO,F,Total,1978
+2013,Number,PETROVAC,F,Total,160
+2013,Number,PETROVO,F,Total,2902
+2013,Number,PRIJEDOR,F,Total,36570
+2013,Number,PRNJAVOR,F,Total,15254
+2013,Number,RIBNIK,F,Total,2560
+2013,Number,ROGATICA,F,Total,4567
+2013,Number,RUDO,F,Total,3315
+2013,Number,SOKOLAC,F,Total,5142
+2013,Number,SRBAC,F,Total,7462
+2013,Number,SREBRENICA,F,Total,5260
+2013,Number,TESLIC,F,Total,16491
+2013,Number,TREBINJE,F,Total,12436
+2013,Number,TRNOVO,F,Total,936
+2013,Number,UGLJEVIK,F,Total,6451
+2013,Number,FOCA,F,Total,7700
+2013,Number,HAN PIJESAK,F,Total,1631
+2013,Number,CAJNICE,F,Total,2025
+2013,Number,CELINAC,F,Total,6555
+2013,Number,SAMAC,F,Total,7431
+2013,Number,SEKOVICI,F,Total,2815
+2013,Number,SIPOVO,F,Total,4247
+2013,Number,REPUBLIKA SRPSKA,F,Did not give birth,131752
+2013,Number,BANJA LUKA,F,Did not give birth,22958
+2013,Number,BERKOVICI,F,Did not give birth,198
+2013,Number,BIJELJINA,F,Did not give birth,11452
+2013,Number,BILECA,F,Did not give birth,1303
+2013,Number,BRATUNAC,F,Did not give birth,2067
+2013,Number,BROD,F,Did not give birth,1822
+2013,Number,VISEGRAD,F,Did not give birth,1278
+2013,Number,VLASENICA,F,Did not give birth,1293
+2013,Number,VUKOSAVLJE,F,Did not give birth,419
+2013,Number,GACKO,F,Did not give birth,1080
+2013,Number,GRADISKA,F,Did not give birth,5312
+2013,Number,DERVENTA,F,Did not give birth,2841
+2013,Number,DOBOJ,F,Did not give birth,7244
+2013,Number,DONJI ZABAR,F,Did not give birth,394
+2013,Number,ZVORNIK,F,Did not give birth,5530
+2013,Number,ISTOCNA ILIDZA,F,Did not give birth,1897
+2013,Number,ISTOCNI DRVAR,F,Did not give birth,5
+2013,Number,ISTOCNI MOSTAR,F,Did not give birth,25
+2013,Number,ISTOCNI STARI GRAD,F,Did not give birth,122
+2013,Number,ISTOCNO NOVO SARAJEVO,F,Did not give birth,1372
+2013,Number,JEZERO,F,Did not give birth,111
+2013,Number,KALINOVIK,F,Did not give birth,250
+2013,Number,KNEZEVO,F,Did not give birth,868
+2013,Number,KOZARSKA DUBICA,F,Did not give birth,2106
+2013,Number,KOSTAJNICA,F,Did not give birth,632
+2013,Number,KOTOR VAROS,F,Did not give birth,2052
+2013,Number,KRUPA NA UNI,F,Did not give birth,110
+2013,Number,KUPRES,F,Did not give birth,24
+2013,Number,LAKTASI,F,Did not give birth,3589
+2013,Number,LOPARE,F,Did not give birth,1679
+2013,Number,LJUBINJE,F,Did not give birth,377
+2013,Number,MILICI,F,Did not give birth,1235
+2013,Number,MODRICA,F,Did not give birth,2736
+2013,Number,MRKONJIC GRAD,F,Did not give birth,1571
+2013,Number,NEVESINJE,F,Did not give birth,1490
+2013,Number,NOVI GRAD,F,Did not give birth,2605
+2013,Number,NOVO GORAZDE,F,Did not give birth,405
+2013,Number,OSMACI,F,Did not give birth,570
+2013,Number,OSTRA LUKA,F,Did not give birth,235
+2013,Number,PALE,F,Did not give birth,2843
+2013,Number,PELAGICEVO,F,Did not give birth,467
+2013,Number,PETROVAC,F,Did not give birth,34
+2013,Number,PETROVO,F,Did not give birth,581
+2013,Number,PRIJEDOR,F,Did not give birth,9358
+2013,Number,PRNJAVOR,F,Did not give birth,3458
+2013,Number,RIBNIK,F,Did not give birth,493
+2013,Number,ROGATICA,F,Did not give birth,1126
+2013,Number,RUDO,F,Did not give birth,769
+2013,Number,SOKOLAC,F,Did not give birth,1278
+2013,Number,SRBAC,F,Did not give birth,1710
+2013,Number,SREBRENICA,F,Did not give birth,1385
+2013,Number,TESLIC,F,Did not give birth,3716
+2013,Number,TREBINJE,F,Did not give birth,3394
+2013,Number,TRNOVO,F,Did not give birth,243
+2013,Number,UGLJEVIK,F,Did not give birth,1598
+2013,Number,FOCA,F,Did not give birth,2037
+2013,Number,HAN PIJESAK,F,Did not give birth,391
+2013,Number,CAJNICE,F,Did not give birth,525
+2013,Number,CELINAC,F,Did not give birth,1600
+2013,Number,SAMAC,F,Did not give birth,1848
+2013,Number,SEKOVICI,F,Did not give birth,667
+2013,Number,SIPOVO,F,Did not give birth,974
+2013,Number,REPUBLIKA SRPSKA,F,one_child,69805
+2013,Number,BANJA LUKA,F,one_child,13545
+2013,Number,BERKOVICI,F,one_child,72
+2013,Number,BIJELJINA,F,one_child,6922
+2013,Number,BILECA,F,one_child,374
+2013,Number,BRATUNAC,F,one_child,856
+2013,Number,BROD,F,one_child,987
+2013,Number,VISEGRAD,F,one_child,536
+2013,Number,VLASENICA,F,one_child,547
+2013,Number,VUKOSAVLJE,F,one_child,236
+2013,Number,GACKO,F,one_child,325
+2013,Number,GRADISKA,F,one_child,3293
+2013,Number,DERVENTA,F,one_child,1633
+2013,Number,DOBOJ,F,one_child,4512
+2013,Number,DONJI ZABAR,F,one_child,205
+2013,Number,ZVORNIK,F,one_child,2647
+2013,Number,ISTOCNA ILIDZA,F,one_child,1017
+2013,Number,ISTOCNI DRVAR,F,one_child,4
+2013,Number,ISTOCNI MOSTAR,F,one_child,8
+2013,Number,ISTOCNI STARI GRAD,F,one_child,53
+2013,Number,ISTOCNO NOVO SARAJEVO,F,one_child,832
+2013,Number,JEZERO,F,one_child,41
+2013,Number,KALINOVIK,F,one_child,62
+2013,Number,KNEZEVO,F,one_child,329
+2013,Number,KOZARSKA DUBICA,F,one_child,1478
+2013,Number,KOSTAJNICA,F,one_child,460
+2013,Number,KOTOR VAROS,F,one_child,706
+2013,Number,KRUPA NA UNI,F,one_child,58
+2013,Number,KUPRES,F,one_child,13
+2013,Number,LAKTASI,F,one_child,2036
+2013,Number,LOPARE,F,one_child,737
+2013,Number,LJUBINJE,F,one_child,102
+2013,Number,MILICI,F,one_child,405
+2013,Number,MODRICA,F,one_child,1389
+2013,Number,MRKONJIC GRAD,F,one_child,720
+2013,Number,NEVESINJE,F,one_child,478
+2013,Number,NOVI GRAD,F,one_child,1568
+2013,Number,NOVO GORAZDE,F,one_child,147
+2013,Number,OSMACI,F,one_child,227
+2013,Number,OSTRA LUKA,F,one_child,79
+2013,Number,PALE,F,one_child,1269
+2013,Number,PELAGICEVO,F,one_child,240
+2013,Number,PETROVAC,F,one_child,23
+2013,Number,PETROVO,F,one_child,407
+2013,Number,PRIJEDOR,F,one_child,5181
+2013,Number,PRNJAVOR,F,one_child,1922
+2013,Number,RIBNIK,F,one_child,226
+2013,Number,ROGATICA,F,one_child,505
+2013,Number,RUDO,F,one_child,299
+2013,Number,SOKOLAC,F,one_child,646
+2013,Number,SRBAC,F,one_child,1066
+2013,Number,SREBRENICA,F,one_child,519
+2013,Number,TESLIC,F,one_child,1963
+2013,Number,TREBINJE,F,one_child,1415
+2013,Number,TRNOVO,F,one_child,114
+2013,Number,UGLJEVIK,F,one_child,797
+2013,Number,FOCA,F,one_child,829
+2013,Number,HAN PIJESAK,F,one_child,200
+2013,Number,CAJNICE,F,one_child,203
+2013,Number,CELINAC,F,one_child,640
+2013,Number,SAMAC,F,one_child,1094
+2013,Number,SEKOVICI,F,one_child,241
+2013,Number,SIPOVO,F,one_child,367
+2013,Number,REPUBLIKA SRPSKA,F,two_children,201271
+2013,Number,BANJA LUKA,F,two_children,32459
+2013,Number,BERKOVICI,F,two_children,239
+2013,Number,BIJELJINA,F,two_children,19232
+2013,Number,BILECA,F,two_children,1326
+2013,Number,BRATUNAC,F,two_children,2792
+2013,Number,BROD,F,two_children,2580
+2013,Number,VISEGRAD,F,two_children,1848
+2013,Number,VLASENICA,F,two_children,1665
+2013,Number,VUKOSAVLJE,F,two_children,559
+2013,Number,GACKO,F,two_children,1059
+2013,Number,GRADISKA,F,two_children,8900
+2013,Number,DERVENTA,F,two_children,4439
+2013,Number,DOBOJ,F,two_children,12173
+2013,Number,DONJI ZABAR,F,two_children,593
+2013,Number,ZVORNIK,F,two_children,8830
+2013,Number,ISTOCNA ILIDZA,F,two_children,2779
+2013,Number,ISTOCNI DRVAR,F,two_children,10
+2013,Number,ISTOCNI MOSTAR,F,two_children,33
+2013,Number,ISTOCNI STARI GRAD,F,two_children,228
+2013,Number,ISTOCNO NOVO SARAJEVO,F,two_children,1900
+2013,Number,JEZERO,F,two_children,148
+2013,Number,KALINOVIK,F,two_children,319
+2013,Number,KNEZEVO,F,two_children,1392
+2013,Number,KOZARSKA DUBICA,F,two_children,4143
+2013,Number,KOSTAJNICA,F,two_children,1052
+2013,Number,KOTOR VAROS,F,two_children,2402
+2013,Number,KRUPA NA UNI,F,two_children,192
+2013,Number,KUPRES,F,two_children,40
+2013,Number,LAKTASI,F,two_children,6184
+2013,Number,LOPARE,F,two_children,2505
+2013,Number,LJUBINJE,F,two_children,553
+2013,Number,MILICI,F,two_children,1495
+2013,Number,MODRICA,F,two_children,4165
+2013,Number,MRKONJIC GRAD,F,two_children,2860
+2013,Number,NEVESINJE,F,two_children,1754
+2013,Number,NOVI GRAD,F,two_children,4409
+2013,Number,NOVO GORAZDE,F,two_children,422
+2013,Number,OSMACI,F,two_children,797
+2013,Number,OSTRA LUKA,F,two_children,344
+2013,Number,PALE,F,two_children,3827
+2013,Number,PELAGICEVO,F,two_children,665
+2013,Number,PETROVAC,F,two_children,82
+2013,Number,PETROVO,F,two_children,1379
+2013,Number,PRIJEDOR,F,two_children,13567
+2013,Number,PRNJAVOR,F,two_children,6044
+2013,Number,RIBNIK,F,two_children,909
+2013,Number,ROGATICA,F,two_children,1710
+2013,Number,RUDO,F,two_children,1350
+2013,Number,SOKOLAC,F,two_children,2140
+2013,Number,SRBAC,F,two_children,3026
+2013,Number,SREBRENICA,F,two_children,1722
+2013,Number,TESLIC,F,two_children,5747
+2013,Number,TREBINJE,F,two_children,4888
+2013,Number,TRNOVO,F,two_children,376
+2013,Number,UGLJEVIK,F,two_children,2613
+2013,Number,FOCA,F,two_children,2985
+2013,Number,HAN PIJESAK,F,two_children,636
+2013,Number,CAJNICE,F,two_children,677
+2013,Number,CELINAC,F,two_children,2447
+2013,Number,SAMAC,F,two_children,3141
+2013,Number,SEKOVICI,F,two_children,982
+2013,Number,SIPOVO,F,two_children,1538
+2013,Number,REPUBLIKA SRPSKA,F,three_children,75481
+2013,Number,BANJA LUKA,F,three_children,8070
+2013,Number,BERKOVICI,F,three_children,217
+2013,Number,BIJELJINA,F,three_children,5831
+2013,Number,BILECA,F,three_children,977
+2013,Number,BRATUNAC,F,three_children,1431
+2013,Number,BROD,F,three_children,1080
+2013,Number,VISEGRAD,F,three_children,712
+2013,Number,VLASENICA,F,three_children,713
+2013,Number,VUKOSAVLJE,F,three_children,347
+2013,Number,GACKO,F,three_children,776
+2013,Number,GRADISKA,F,three_children,3006
+2013,Number,DERVENTA,F,three_children,1724
+2013,Number,DOBOJ,F,three_children,4326
+2013,Number,DONJI ZABAR,F,three_children,250
+2013,Number,ZVORNIK,F,three_children,4031
+2013,Number,ISTOCNA ILIDZA,F,three_children,680
+2013,Number,ISTOCNI DRVAR,F,three_children,3
+2013,Number,ISTOCNI MOSTAR,F,three_children,15
+2013,Number,ISTOCNI STARI GRAD,F,three_children,83
+2013,Number,ISTOCNO NOVO SARAJEVO,F,three_children,443
+2013,Number,JEZERO,F,three_children,77
+2013,Number,KALINOVIK,F,three_children,171
+2013,Number,KNEZEVO,F,three_children,808
+2013,Number,KOZARSKA DUBICA,F,three_children,1200
+2013,Number,KOSTAJNICA,F,three_children,277
+2013,Number,KOTOR VAROS,F,three_children,1502
+2013,Number,KRUPA NA UNI,F,three_children,142
+2013,Number,KUPRES,F,three_children,27
+2013,Number,LAKTASI,F,three_children,2018
+2013,Number,LOPARE,F,three_children,1040
+2013,Number,LJUBINJE,F,three_children,328
+2013,Number,MILICI,F,three_children,838
+2013,Number,MODRICA,F,three_children,1652
+2013,Number,MRKONJIC GRAD,F,three_children,1314
+2013,Number,NEVESINJE,F,three_children,1064
+2013,Number,NOVI GRAD,F,three_children,1483
+2013,Number,NOVO GORAZDE,F,three_children,192
+2013,Number,OSMACI,F,three_children,427
+2013,Number,OSTRA LUKA,F,three_children,266
+2013,Number,PALE,F,three_children,1048
+2013,Number,PELAGICEVO,F,three_children,364
+2013,Number,PETROVAC,F,three_children,19
+2013,Number,PETROVO,F,three_children,379
+2013,Number,PRIJEDOR,F,three_children,5168
+2013,Number,PRNJAVOR,F,three_children,2451
+2013,Number,RIBNIK,F,three_children,572
+2013,Number,ROGATICA,F,three_children,824
+2013,Number,RUDO,F,three_children,604
+2013,Number,SOKOLAC,F,three_children,768
+2013,Number,SRBAC,F,three_children,1137
+2013,Number,SREBRENICA,F,three_children,914
+2013,Number,TESLIC,F,three_children,2955
+2013,Number,TREBINJE,F,three_children,2131
+2013,Number,TRNOVO,F,three_children,136
+2013,Number,UGLJEVIK,F,three_children,1018
+2013,Number,FOCA,F,three_children,1283
+2013,Number,HAN PIJESAK,F,three_children,282
+2013,Number,CAJNICE,F,three_children,408
+2013,Number,CELINAC,F,three_children,1172
+2013,Number,SAMAC,F,three_children,962
+2013,Number,SEKOVICI,F,three_children,558
+2013,Number,SIPOVO,F,three_children,787
+2013,Number,REPUBLIKA SRPSKA,F,four_children,22659
+2013,Number,BANJA LUKA,F,four_children,2049
+2013,Number,BERKOVICI,F,four_children,76
+2013,Number,BIJELJINA,F,four_children,1410
+2013,Number,BILECA,F,four_children,351
+2013,Number,BRATUNAC,F,four_children,492
+2013,Number,BROD,F,four_children,303
+2013,Number,VISEGRAD,F,four_children,194
+2013,Number,VLASENICA,F,four_children,266
+2013,Number,VUKOSAVLJE,F,four_children,148
+2013,Number,GACKO,F,four_children,273
+2013,Number,GRADISKA,F,four_children,817
+2013,Number,DERVENTA,F,four_children,506
+2013,Number,DOBOJ,F,four_children,1337
+2013,Number,DONJI ZABAR,F,four_children,69
+2013,Number,ZVORNIK,F,four_children,1267
+2013,Number,ISTOCNA ILIDZA,F,four_children,111
+2013,Number,ISTOCNI MOSTAR,F,four_children,5
+2013,Number,ISTOCNI STARI GRAD,F,four_children,23
+2013,Number,ISTOCNO NOVO SARAJEVO,F,four_children,82
+2013,Number,JEZERO,F,four_children,34
+2013,Number,KALINOVIK,F,four_children,53
+2013,Number,KNEZEVO,F,four_children,317
+2013,Number,KOZARSKA DUBICA,F,four_children,294
+2013,Number,KOSTAJNICA,F,four_children,70
+2013,Number,KOTOR VAROS,F,four_children,635
+2013,Number,KRUPA NA UNI,F,four_children,61
+2013,Number,KUPRES,F,four_children,13
+2013,Number,LAKTASI,F,four_children,549
+2013,Number,LOPARE,F,four_children,301
+2013,Number,LJUBINJE,F,four_children,74
+2013,Number,MILICI,F,four_children,277
+2013,Number,MODRICA,F,four_children,548
+2013,Number,MRKONJIC GRAD,F,four_children,393
+2013,Number,NEVESINJE,F,four_children,395
+2013,Number,NOVI GRAD,F,four_children,583
+2013,Number,NOVO GORAZDE,F,four_children,55
+2013,Number,OSMACI,F,four_children,171
+2013,Number,OSTRA LUKA,F,four_children,105
+2013,Number,PALE,F,four_children,235
+2013,Number,PELAGICEVO,F,four_children,133
+2013,Number,PETROVAC,F,four_children,2
+2013,Number,PETROVO,F,four_children,91
+2013,Number,PRIJEDOR,F,four_children,1761
+2013,Number,PRNJAVOR,F,four_children,769
+2013,Number,RIBNIK,F,four_children,198
+2013,Number,ROGATICA,F,four_children,259
+2013,Number,RUDO,F,four_children,201
+2013,Number,SOKOLAC,F,four_children,206
+2013,Number,SRBAC,F,four_children,306
+2013,Number,SREBRENICA,F,four_children,358
+2013,Number,TESLIC,F,four_children,1010
+2013,Number,TREBINJE,F,four_children,463
+2013,Number,TRNOVO,F,four_children,45
+2013,Number,UGLJEVIK,F,four_children,264
+2013,Number,FOCA,F,four_children,348
+2013,Number,HAN PIJESAK,F,four_children,75
+2013,Number,CAJNICE,F,four_children,140
+2013,Number,CELINAC,F,four_children,385
+2013,Number,SAMAC,F,four_children,235
+2013,Number,SEKOVICI,F,four_children,193
+2013,Number,SIPOVO,F,four_children,275
+2013,Number,REPUBLIKA SRPSKA,F,5+,17275
+2013,Number,BANJA LUKA,F,5+,1552
+2013,Number,BERKOVICI,F,5+,37
+2013,Number,BIJELJINA,F,5+,882
+2013,Number,BILECA,F,5+,169
+2013,Number,BRATUNAC,F,5+,489
+2013,Number,BROD,F,5+,224
+2013,Number,VISEGRAD,F,5+,123
+2013,Number,VLASENICA,F,5+,254
+2013,Number,VUKOSAVLJE,F,5+,140
+2013,Number,GACKO,F,5+,133
+2013,Number,GRADISKA,F,5+,677
+2013,Number,DERVENTA,F,5+,372
+2013,Number,DOBOJ,F,5+,1006
+2013,Number,DONJI ZABAR,F,5+,50
+2013,Number,ZVORNIK,F,5+,1008
+2013,Number,ISTOCNA ILIDZA,F,5+,54
+2013,Number,ISTOCNI MOSTAR,F,5+,7
+2013,Number,ISTOCNI STARI GRAD,F,5+,7
+2013,Number,ISTOCNO NOVO SARAJEVO,F,5+,30
+2013,Number,JEZERO,F,5+,26
+2013,Number,KALINOVIK,F,5+,43
+2013,Number,KNEZEVO,F,5+,365
+2013,Number,KOZARSKA DUBICA,F,5+,165
+2013,Number,KOSTAJNICA,F,5+,47
+2013,Number,KOTOR VAROS,F,5+,617
+2013,Number,KRUPA NA UNI,F,5+,65
+2013,Number,KUPRES,F,5+,10
+2013,Number,LAKTASI,F,5+,306
+2013,Number,LOPARE,F,5+,209
+2013,Number,LJUBINJE,F,5+,41
+2013,Number,MILICI,F,5+,239
+2013,Number,MODRICA,F,5+,366
+2013,Number,MRKONJIC GRAD,F,5+,295
+2013,Number,NEVESINJE,F,5+,204
+2013,Number,NOVI GRAD,F,5+,543
+2013,Number,NOVO GORAZDE,F,5+,42
+2013,Number,OSMACI,F,5+,175
+2013,Number,OSTRA LUKA,F,5+,102
+2013,Number,PALE,F,5+,95
+2013,Number,PELAGICEVO,F,5+,109
+2013,Number,PETROVO,F,5+,65
+2013,Number,PRIJEDOR,F,5+,1535
+2013,Number,PRNJAVOR,F,5+,610
+2013,Number,RIBNIK,F,5+,162
+2013,Number,ROGATICA,F,5+,143
+2013,Number,RUDO,F,5+,92
+2013,Number,SOKOLAC,F,5+,104
+2013,Number,SRBAC,F,5+,217
+2013,Number,SREBRENICA,F,5+,362
+2013,Number,TESLIC,F,5+,1100
+2013,Number,TREBINJE,F,5+,145
+2013,Number,TRNOVO,F,5+,22
+2013,Number,UGLJEVIK,F,5+,161
+2013,Number,FOCA,F,5+,218
+2013,Number,HAN PIJESAK,F,5+,47
+2013,Number,CAJNICE,F,5+,72
+2013,Number,CELINAC,F,5+,311
+2013,Number,SAMAC,F,5+,151
+2013,Number,SEKOVICI,F,5+,174
+2013,Number,SIPOVO,F,5+,306

@@ -11,21 +11,23 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Disabilities",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "0-14",
-                "15-19",
-                "20-29",
-                "30-49",
-                "50-59",
-                "60-64",
-                "65+"
+                "Total",
+                "communication",
+                "disabilities_T",
+                "dressing",
+                "eyesight",
+                "hearing",
+                "memory",
+                "more_disabilities",
+                "walking"
               ]
             },
-            "title": "Age"
+            "title": "Disabilities"
           },
           {
             "name": "SEX",
@@ -41,13 +43,86 @@
             "title": "Sex"
           },
           {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "CAJNICE",
+                "CELINAC",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "FOCA",
+                "GACKO",
+                "GRADISKA",
+                "HAN PIJESAK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KOZARSKA DUBICA",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LJUBINJE",
+                "LOPARE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "REPUBLIKA SRPSKA",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "ZVORNIK"
+              ]
+            },
+            "title": "Teritory"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

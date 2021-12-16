@@ -1,55 +1,1243 @@
-Year,Spol,UNIT_MEASURE,Etnička/nacionalna pripadnost,Value
-2013,Oba spola,Broj,Bošnjački,1769592
-2013,Oba spola,Broj,Serb,1086733
-2013,Oba spola,Broj,Croat ,544780
-2013,Oba spola,Broj,Bosanski,37110
-2013,Oba spola,Broj,Romski,12583
-2013,Oba spola,Broj,Muslimanska,12121
-2013,Oba spola,Broj,Bosansko-hercegovačka,11406
-2013,Oba spola,Broj,Albanski,2659
-2013,Oba spola,Broj,Yugoslav,2570
-2013,Oba spola,Broj,Ukrainian,2331
-2013,Oba spola,Broj,Montenegrin,1883
-2013,Oba spola,Broj,Turk,1108
-2013,Oba spola,Broj,Slovenian,937
-2013,Oba spola,Broj,Pravoslavna,826
-2013,Oba spola,Broj,Macedonian ,738
-2013,Oba spola,Broj,Drugo,10267
-2013,Oba spola,Broj,Neopredijeljen,27055
-2013,Oba spola,Broj,Unknown,6460
-2013,M,Broj,Bošnjački,867492
-2013,M,Broj,Serb,534030
-2013,M,Broj,Croat ,267789
-2013,M,Broj,Bosanski,18135
-2013,M,Broj,Romski,6511
-2013,M,Broj,Muslimanska,5888
-2013,M,Broj,Bosansko-hercegovačka,5663
-2013,M,Broj,Albanski,1646
-2013,M,Broj,Yugoslav,1350
-2013,M,Broj,Ukrainian,1146
-2013,M,Broj,Montenegrin,953
-2013,M,Broj,Turk,738
-2013,M,Broj,Slovenian,366
-2013,M,Broj,Pravoslavna,376
-2013,M,Broj,Macedonian ,351
-2013,M,Broj,Drugo,5171
-2013,M,Broj,Neopredijeljen,11503
-2013,M,Broj,Unknown,3162
-2013,Ž,Broj,Bošnjački,902100
-2013,Ž,Broj,Serb,552703
-2013,Ž,Broj,Croat ,276991
-2013,Ž,Broj,Bosanski,18975
-2013,Ž,Broj,Romski,6072
-2013,Ž,Broj,Muslimanska,6233
-2013,Ž,Broj,Bosansko-hercegovačka,5743
-2013,Ž,Broj,Albanski,1013
-2013,Ž,Broj,Yugoslav,1220
-2013,Ž,Broj,Ukrainian,1185
-2013,Ž,Broj,Montenegrin,930
-2013,Ž,Broj,Turk,370
-2013,Ž,Broj,Slovenian,571
-2013,Ž,Broj,Pravoslavna,450
-2013,Ž,Broj,Macedonian ,387
-2013,Ž,Broj,Drugo,5096
-2013,Ž,Broj,Neopredijeljen,15552
-2013,Ž,Broj,Unknown,3298
+Year,UNIT_MEASURE,Teritory,Spol,Nationality,Value
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,Ukupno,1170342
+2013,Broj,REPUBLIKA SRPSKA,M,Ukupno,571812
+2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,598530
+2013,Broj,BANJA LUKA,Oba spola,Ukupno,180053
+2013,Broj,BANJA LUKA,M,Ukupno,86510
+2013,Broj,BANJA LUKA,Ž,Ukupno,93543
+2013,Broj,BERKOVICI,Oba spola,Ukupno,2041
+2013,Broj,BERKOVICI,M,Ukupno,1032
+2013,Broj,BERKOVICI,Ž,Ukupno,1009
+2013,Broj,BIJELJINA,Oba spola,Ukupno,103874
+2013,Broj,BIJELJINA,M,Ukupno,50760
+2013,Broj,BIJELJINA,Ž,Ukupno,53114
+2013,Broj,BILECA,Oba spola,Ukupno,10607
+2013,Broj,BILECA,M,Ukupno,5346
+2013,Broj,BILECA,Ž,Ukupno,5261
+2013,Broj,BRATUNAC,Oba spola,Ukupno,18651
+2013,Broj,BRATUNAC,M,Ukupno,9210
+2013,Broj,BRATUNAC,Ž,Ukupno,9441
+2013,Broj,BROD,Oba spola,Ukupno,15720
+2013,Broj,BROD,M,Ukupno,7670
+2013,Broj,BROD,Ž,Ukupno,8050
+2013,Broj,VISEGRAD,Oba spola,Ukupno,10118
+2013,Broj,VISEGRAD,M,Ukupno,4834
+2013,Broj,VISEGRAD,Ž,Ukupno,5284
+2013,Broj,VLASENICA,Oba spola,Ukupno,10657
+2013,Broj,VLASENICA,M,Ukupno,5193
+2013,Broj,VLASENICA,Ž,Ukupno,5464
+2013,Broj,VUKOSAVLJE,Oba spola,Ukupno,4363
+2013,Broj,VUKOSAVLJE,M,Ukupno,2185
+2013,Broj,VUKOSAVLJE,Ž,Ukupno,2178
+2013,Broj,GACKO,Oba spola,Ukupno,8710
+2013,Broj,GACKO,M,Ukupno,4423
+2013,Broj,GACKO,Ž,Ukupno,4287
+2013,Broj,GRADISKA,Oba spola,Ukupno,49196
+2013,Broj,GRADISKA,M,Ukupno,23944
+2013,Broj,GRADISKA,Ž,Ukupno,25252
+2013,Broj,DERVENTA,Oba spola,Ukupno,25922
+2013,Broj,DERVENTA,M,Ukupno,12629
+2013,Broj,DERVENTA,Ž,Ukupno,13293
+2013,Broj,DOBOJ,Oba spola,Ukupno,68514
+2013,Broj,DOBOJ,M,Ukupno,33222
+2013,Broj,DOBOJ,Ž,Ukupno,35292
+2013,Broj,DONJI ZABAR,Oba spola,Ukupno,3669
+2013,Broj,DONJI ZABAR,M,Ukupno,1853
+2013,Broj,DONJI ZABAR,Ž,Ukupno,1816
+2013,Broj,ZVORNIK,Oba spola,Ukupno,54407
+2013,Broj,ZVORNIK,M,Ukupno,26803
+2013,Broj,ZVORNIK,Ž,Ukupno,27604
+2013,Broj,ISTOCNA ILIDZA,Oba spola,Ukupno,14437
+2013,Broj,ISTOCNA ILIDZA,M,Ukupno,6905
+2013,Broj,ISTOCNA ILIDZA,Ž,Ukupno,7532
+2013,Broj,ISTOCNI DRVAR,Oba spola,Ukupno,66
+2013,Broj,ISTOCNI DRVAR,M,Ukupno,44
+2013,Broj,ISTOCNI DRVAR,Ž,Ukupno,22
+2013,Broj,ISTOCNI MOSTAR,Oba spola,Ukupno,244
+2013,Broj,ISTOCNI MOSTAR,M,Ukupno,138
+2013,Broj,ISTOCNI MOSTAR,Ž,Ukupno,106
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,Ukupno,1116
+2013,Broj,ISTOCNI STARI GRAD,M,Ukupno,552
+2013,Broj,ISTOCNI STARI GRAD,Ž,Ukupno,564
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,Ukupno,10401
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,Ukupno,4936
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Ukupno,5465
+2013,Broj,JEZERO,Oba spola,Ukupno,1039
+2013,Broj,JEZERO,M,Ukupno,534
+2013,Broj,JEZERO,Ž,Ukupno,505
+2013,Broj,KALINOVIK,Oba spola,Ukupno,1962
+2013,Broj,KALINOVIK,M,Ukupno,950
+2013,Broj,KALINOVIK,Ž,Ukupno,1012
+2013,Broj,KNEZEVO,Oba spola,Ukupno,9368
+2013,Broj,KNEZEVO,M,Ukupno,4632
+2013,Broj,KNEZEVO,Ž,Ukupno,4736
+2013,Broj,KOZARSKA DUBICA,Oba spola,Ukupno,20681
+2013,Broj,KOZARSKA DUBICA,M,Ukupno,10094
+2013,Broj,KOZARSKA DUBICA,Ž,Ukupno,10587
+2013,Broj,KOSTAJNICA,Oba spola,Ukupno,5645
+2013,Broj,KOSTAJNICA,M,Ukupno,2780
+2013,Broj,KOSTAJNICA,Ž,Ukupno,2865
+2013,Broj,KOTOR VAROS,Oba spola,Ukupno,18361
+2013,Broj,KOTOR VAROS,M,Ukupno,9007
+2013,Broj,KOTOR VAROS,Ž,Ukupno,9354
+2013,Broj,KRUPA NA UNI,Oba spola,Ukupno,1560
+2013,Broj,KRUPA NA UNI,M,Ukupno,841
+2013,Broj,KRUPA NA UNI,Ž,Ukupno,719
+2013,Broj,KUPRES,Oba spola,Ukupno,293
+2013,Broj,KUPRES,M,Ukupno,157
+2013,Broj,KUPRES,Ž,Ukupno,136
+2013,Broj,LAKTASI,Oba spola,Ukupno,34210
+2013,Broj,LAKTASI,M,Ukupno,16905
+2013,Broj,LAKTASI,Ž,Ukupno,17305
+2013,Broj,LOPARE,Oba spola,Ukupno,14689
+2013,Broj,LOPARE,M,Ukupno,7377
+2013,Broj,LOPARE,Ž,Ukupno,7312
+2013,Broj,LJUBINJE,Oba spola,Ukupno,3319
+2013,Broj,LJUBINJE,M,Ukupno,1633
+2013,Broj,LJUBINJE,Ž,Ukupno,1686
+2013,Broj,MILICI,Oba spola,Ukupno,10445
+2013,Broj,MILICI,M,Ukupno,5252
+2013,Broj,MILICI,Ž,Ukupno,5193
+2013,Broj,MODRICA,Oba spola,Ukupno,24490
+2013,Broj,MODRICA,M,Ukupno,11969
+2013,Broj,MODRICA,Ž,Ukupno,12521
+2013,Broj,MRKONJIC GRAD,Oba spola,Ukupno,15926
+2013,Broj,MRKONJIC GRAD,M,Ukupno,7660
+2013,Broj,MRKONJIC GRAD,Ž,Ukupno,8266
+2013,Broj,NEVESINJE,Oba spola,Ukupno,12542
+2013,Broj,NEVESINJE,M,Ukupno,6236
+2013,Broj,NEVESINJE,Ž,Ukupno,6306
+2013,Broj,NOVI GRAD,Oba spola,Ukupno,25240
+2013,Broj,NOVI GRAD,M,Ukupno,12580
+2013,Broj,NOVI GRAD,Ž,Ukupno,12660
+2013,Broj,NOVO GORAZDE,Oba spola,Ukupno,2915
+2013,Broj,NOVO GORAZDE,M,Ukupno,1500
+2013,Broj,NOVO GORAZDE,Ž,Ukupno,1415
+2013,Broj,OSMACI,Oba spola,Ukupno,5546
+2013,Broj,OSMACI,M,Ukupno,2779
+2013,Broj,OSMACI,Ž,Ukupno,2767
+2013,Broj,OSTRA LUKA,Oba spola,Ukupno,2705
+2013,Broj,OSTRA LUKA,M,Ukupno,1386
+2013,Broj,OSTRA LUKA,Ž,Ukupno,1319
+2013,Broj,PALE,Oba spola,Ukupno,20359
+2013,Broj,PALE,M,Ukupno,9744
+2013,Broj,PALE,Ž,Ukupno,10615
+2013,Broj,PELAGICEVO,Oba spola,Ukupno,4358
+2013,Broj,PELAGICEVO,M,Ukupno,2151
+2013,Broj,PELAGICEVO,Ž,Ukupno,2207
+2013,Broj,PETROVAC,Oba spola,Ukupno,354
+2013,Broj,PETROVAC,M,Ukupno,169
+2013,Broj,PETROVAC,Ž,Ukupno,185
+2013,Broj,PETROVO,Oba spola,Ukupno,6317
+2013,Broj,PETROVO,M,Ukupno,3043
+2013,Broj,PETROVO,Ž,Ukupno,3274
+2013,Broj,PRIJEDOR,Oba spola,Ukupno,80916
+2013,Broj,PRIJEDOR,M,Ukupno,39418
+2013,Broj,PRIJEDOR,Ž,Ukupno,41498
+2013,Broj,PRNJAVOR,Oba spola,Ukupno,34357
+2013,Broj,PRNJAVOR,M,Ukupno,16675
+2013,Broj,PRNJAVOR,Ž,Ukupno,17682
+2013,Broj,RIBNIK,Oba spola,Ukupno,5851
+2013,Broj,RIBNIK,M,Ukupno,2900
+2013,Broj,RIBNIK,Ž,Ukupno,2951
+2013,Broj,ROGATICA,Oba spola,Ukupno,10302
+2013,Broj,ROGATICA,M,Ukupno,5053
+2013,Broj,ROGATICA,Ž,Ukupno,5249
+2013,Broj,RUDO,Oba spola,Ukupno,7578
+2013,Broj,RUDO,M,Ukupno,3840
+2013,Broj,RUDO,Ž,Ukupno,3738
+2013,Broj,SOKOLAC,Oba spola,Ukupno,11620
+2013,Broj,SOKOLAC,M,Ukupno,5723
+2013,Broj,SOKOLAC,Ž,Ukupno,5897
+2013,Broj,SRBAC,Oba spola,Ukupno,16933
+2013,Broj,SRBAC,M,Ukupno,8295
+2013,Broj,SRBAC,Ž,Ukupno,8638
+2013,Broj,SREBRENICA,Oba spola,Ukupno,11698
+2013,Broj,SREBRENICA,M,Ukupno,5714
+2013,Broj,SREBRENICA,Ž,Ukupno,5984
+2013,Broj,TESLIC,Oba spola,Ukupno,37236
+2013,Broj,TESLIC,M,Ukupno,17894
+2013,Broj,TESLIC,Ž,Ukupno,19342
+2013,Broj,TREBINJE,Oba spola,Ukupno,28239
+2013,Broj,TREBINJE,M,Ukupno,13760
+2013,Broj,TREBINJE,Ž,Ukupno,14479
+2013,Broj,TRNOVO,Oba spola,Ukupno,1983
+2013,Broj,TRNOVO,M,Ukupno,953
+2013,Broj,TRNOVO,Ž,Ukupno,1030
+2013,Broj,UGLJEVIK,Oba spola,Ukupno,15118
+2013,Broj,UGLJEVIK,M,Ukupno,7626
+2013,Broj,UGLJEVIK,Ž,Ukupno,7492
+2013,Broj,FOCA,Oba spola,Ukupno,17580
+2013,Broj,FOCA,M,Ukupno,8880
+2013,Broj,FOCA,Ž,Ukupno,8700
+2013,Broj,HAN PIJESAK,Oba spola,Ukupno,3445
+2013,Broj,HAN PIJESAK,M,Ukupno,1632
+2013,Broj,HAN PIJESAK,Ž,Ukupno,1813
+2013,Broj,CAJNICE,Oba spola,Ukupno,4679
+2013,Broj,CAJNICE,M,Ukupno,2347
+2013,Broj,CAJNICE,Ž,Ukupno,2332
+2013,Broj,CELINAC,Oba spola,Ukupno,15117
+2013,Broj,CELINAC,M,Ukupno,7477
+2013,Broj,CELINAC,Ž,Ukupno,7640
+2013,Broj,SAMAC,Oba spola,Ukupno,16308
+2013,Broj,SAMAC,M,Ukupno,7908
+2013,Broj,SAMAC,Ž,Ukupno,8400
+2013,Broj,SEKOVICI,Oba spola,Ukupno,6323
+2013,Broj,SEKOVICI,M,Ukupno,3103
+2013,Broj,SEKOVICI,Ž,Ukupno,3220
+2013,Broj,SIPOVO,Oba spola,Ukupno,9969
+2013,Broj,SIPOVO,M,Ukupno,5046
+2013,Broj,SIPOVO,Ž,Ukupno,4923
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,bosniaks,148477
+2013,Broj,REPUBLIKA SRPSKA,M,bosniaks,72148
+2013,Broj,REPUBLIKA SRPSKA,Ž,bosniaks,76329
+2013,Broj,BANJA LUKA,Oba spola,bosniaks,6816
+2013,Broj,BANJA LUKA,M,bosniaks,3108
+2013,Broj,BANJA LUKA,Ž,bosniaks,3708
+2013,Broj,BERKOVICI,Oba spola,bosniaks,155
+2013,Broj,BERKOVICI,M,bosniaks,87
+2013,Broj,BERKOVICI,Ž,bosniaks,68
+2013,Broj,BIJELJINA,Oba spola,bosniaks,11680
+2013,Broj,BIJELJINA,M,bosniaks,5733
+2013,Broj,BIJELJINA,Ž,bosniaks,5947
+2013,Broj,BILECA,Oba spola,bosniaks,26
+2013,Broj,BILECA,M,bosniaks,16
+2013,Broj,BILECA,Ž,bosniaks,10
+2013,Broj,BRATUNAC,Oba spola,bosniaks,6588
+2013,Broj,BRATUNAC,M,bosniaks,3218
+2013,Broj,BRATUNAC,Ž,bosniaks,3370
+2013,Broj,BROD,Oba spola,bosniaks,1312
+2013,Broj,BROD,M,bosniaks,640
+2013,Broj,BROD,Ž,bosniaks,672
+2013,Broj,VISEGRAD,Oba spola,bosniaks,895
+2013,Broj,VISEGRAD,M,bosniaks,454
+2013,Broj,VISEGRAD,Ž,bosniaks,441
+2013,Broj,VLASENICA,Oba spola,bosniaks,3360
+2013,Broj,VLASENICA,M,bosniaks,1646
+2013,Broj,VLASENICA,Ž,bosniaks,1714
+2013,Broj,VUKOSAVLJE,Oba spola,bosniaks,2025
+2013,Broj,VUKOSAVLJE,M,bosniaks,1034
+2013,Broj,VUKOSAVLJE,Ž,bosniaks,991
+2013,Broj,GACKO,Oba spola,bosniaks,332
+2013,Broj,GACKO,M,bosniaks,179
+2013,Broj,GACKO,Ž,bosniaks,153
+2013,Broj,GRADISKA,Oba spola,bosniaks,6266
+2013,Broj,GRADISKA,M,bosniaks,3047
+2013,Broj,GRADISKA,Ž,bosniaks,3219
+2013,Broj,DERVENTA,Oba spola,bosniaks,1686
+2013,Broj,DERVENTA,M,bosniaks,812
+2013,Broj,DERVENTA,Ž,bosniaks,874
+2013,Broj,DOBOJ,Oba spola,bosniaks,14417
+2013,Broj,DOBOJ,M,bosniaks,6904
+2013,Broj,DOBOJ,Ž,bosniaks,7513
+2013,Broj,DONJI ZABAR,Oba spola,bosniaks,4
+2013,Broj,DONJI ZABAR,Ž,bosniaks,4
+2013,Broj,ZVORNIK,Oba spola,bosniaks,16775
+2013,Broj,ZVORNIK,M,bosniaks,8206
+2013,Broj,ZVORNIK,Ž,bosniaks,8569
+2013,Broj,ISTOCNA ILIDZA,Oba spola,bosniaks,632
+2013,Broj,ISTOCNA ILIDZA,M,bosniaks,293
+2013,Broj,ISTOCNA ILIDZA,Ž,bosniaks,339
+2013,Broj,ISTOCNI MOSTAR,Oba spola,bosniaks,78
+2013,Broj,ISTOCNI MOSTAR,M,bosniaks,45
+2013,Broj,ISTOCNI MOSTAR,Ž,bosniaks,33
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,bosniaks,41
+2013,Broj,ISTOCNI STARI GRAD,M,bosniaks,25
+2013,Broj,ISTOCNI STARI GRAD,Ž,bosniaks,16
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,bosniaks,44
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,bosniaks,14
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,bosniaks,30
+2013,Broj,JEZERO,Oba spola,bosniaks,251
+2013,Broj,JEZERO,M,bosniaks,118
+2013,Broj,JEZERO,Ž,bosniaks,133
+2013,Broj,KALINOVIK,Oba spola,bosniaks,43
+2013,Broj,KALINOVIK,M,bosniaks,19
+2013,Broj,KALINOVIK,Ž,bosniaks,24
+2013,Broj,KNEZEVO,Oba spola,bosniaks,413
+2013,Broj,KNEZEVO,M,bosniaks,186
+2013,Broj,KNEZEVO,Ž,bosniaks,227
+2013,Broj,KOZARSKA DUBICA,Oba spola,bosniaks,1883
+2013,Broj,KOZARSKA DUBICA,M,bosniaks,906
+2013,Broj,KOZARSKA DUBICA,Ž,bosniaks,977
+2013,Broj,KOSTAJNICA,Oba spola,bosniaks,1276
+2013,Broj,KOSTAJNICA,M,bosniaks,626
+2013,Broj,KOSTAJNICA,Ž,bosniaks,650
+2013,Broj,KOTOR VAROS,Oba spola,bosniaks,4516
+2013,Broj,KOTOR VAROS,M,bosniaks,2173
+2013,Broj,KOTOR VAROS,Ž,bosniaks,2343
+2013,Broj,KRUPA NA UNI,Oba spola,bosniaks,3
+2013,Broj,KRUPA NA UNI,M,bosniaks,1
+2013,Broj,KRUPA NA UNI,Ž,bosniaks,2
+2013,Broj,LAKTASI,Oba spola,bosniaks,104
+2013,Broj,LAKTASI,M,bosniaks,47
+2013,Broj,LAKTASI,Ž,bosniaks,57
+2013,Broj,LOPARE,Oba spola,bosniaks,1310
+2013,Broj,LOPARE,M,bosniaks,646
+2013,Broj,LOPARE,Ž,bosniaks,664
+2013,Broj,LJUBINJE,Oba spola,bosniaks,9
+2013,Broj,LJUBINJE,M,bosniaks,5
+2013,Broj,LJUBINJE,Ž,bosniaks,4
+2013,Broj,MILICI,Oba spola,bosniaks,3532
+2013,Broj,MILICI,M,bosniaks,1746
+2013,Broj,MILICI,Ž,bosniaks,1786
+2013,Broj,MODRICA,Oba spola,bosniaks,2880
+2013,Broj,MODRICA,M,bosniaks,1364
+2013,Broj,MODRICA,Ž,bosniaks,1516
+2013,Broj,MRKONJIC GRAD,Oba spola,bosniaks,354
+2013,Broj,MRKONJIC GRAD,M,bosniaks,170
+2013,Broj,MRKONJIC GRAD,Ž,bosniaks,184
+2013,Broj,NEVESINJE,Oba spola,bosniaks,508
+2013,Broj,NEVESINJE,M,bosniaks,261
+2013,Broj,NEVESINJE,Ž,bosniaks,247
+2013,Broj,NOVI GRAD,Oba spola,bosniaks,5214
+2013,Broj,NOVI GRAD,M,bosniaks,2606
+2013,Broj,NOVI GRAD,Ž,bosniaks,2608
+2013,Broj,NOVO GORAZDE,Oba spola,bosniaks,1317
+2013,Broj,NOVO GORAZDE,M,bosniaks,662
+2013,Broj,NOVO GORAZDE,Ž,bosniaks,655
+2013,Broj,OSMACI,Oba spola,bosniaks,2673
+2013,Broj,OSMACI,M,bosniaks,1321
+2013,Broj,OSMACI,Ž,bosniaks,1352
+2013,Broj,OSTRA LUKA,Oba spola,bosniaks,23
+2013,Broj,OSTRA LUKA,M,bosniaks,7
+2013,Broj,OSTRA LUKA,Ž,bosniaks,16
+2013,Broj,PALE,Oba spola,bosniaks,165
+2013,Broj,PALE,M,bosniaks,86
+2013,Broj,PALE,Ž,bosniaks,79
+2013,Broj,PELAGICEVO,Oba spola,bosniaks,13
+2013,Broj,PELAGICEVO,M,bosniaks,2
+2013,Broj,PELAGICEVO,Ž,bosniaks,11
+2013,Broj,PETROVO,Oba spola,bosniaks,6
+2013,Broj,PETROVO,M,bosniaks,2
+2013,Broj,PETROVO,Ž,bosniaks,4
+2013,Broj,PRIJEDOR,Oba spola,bosniaks,22303
+2013,Broj,PRIJEDOR,M,bosniaks,10669
+2013,Broj,PRIJEDOR,Ž,bosniaks,11634
+2013,Broj,PRNJAVOR,Oba spola,bosniaks,2749
+2013,Broj,PRNJAVOR,M,bosniaks,1329
+2013,Broj,PRNJAVOR,Ž,bosniaks,1420
+2013,Broj,ROGATICA,Oba spola,bosniaks,1009
+2013,Broj,ROGATICA,M,bosniaks,520
+2013,Broj,ROGATICA,Ž,bosniaks,489
+2013,Broj,RUDO,Oba spola,bosniaks,574
+2013,Broj,RUDO,M,bosniaks,300
+2013,Broj,RUDO,Ž,bosniaks,274
+2013,Broj,SOKOLAC,Oba spola,bosniaks,629
+2013,Broj,SOKOLAC,M,bosniaks,329
+2013,Broj,SOKOLAC,Ž,bosniaks,300
+2013,Broj,SRBAC,Oba spola,bosniaks,394
+2013,Broj,SRBAC,M,bosniaks,184
+2013,Broj,SRBAC,Ž,bosniaks,210
+2013,Broj,SREBRENICA,Oba spola,bosniaks,6122
+2013,Broj,SREBRENICA,M,bosniaks,2913
+2013,Broj,SREBRENICA,Ž,bosniaks,3209
+2013,Broj,TESLIC,Oba spola,bosniaks,6887
+2013,Broj,TESLIC,M,bosniaks,3387
+2013,Broj,TESLIC,Ž,bosniaks,3500
+2013,Broj,TREBINJE,Oba spola,bosniaks,863
+2013,Broj,TREBINJE,M,bosniaks,426
+2013,Broj,TREBINJE,Ž,bosniaks,437
+2013,Broj,TRNOVO,Oba spola,bosniaks,818
+2013,Broj,TRNOVO,M,bosniaks,405
+2013,Broj,TRNOVO,Ž,bosniaks,413
+2013,Broj,UGLJEVIK,Oba spola,bosniaks,1999
+2013,Broj,UGLJEVIK,M,bosniaks,974
+2013,Broj,UGLJEVIK,Ž,bosniaks,1025
+2013,Broj,FOCA,Oba spola,bosniaks,1169
+2013,Broj,FOCA,M,bosniaks,626
+2013,Broj,FOCA,Ž,bosniaks,543
+2013,Broj,HAN PIJESAK,Oba spola,bosniaks,420
+2013,Broj,HAN PIJESAK,M,bosniaks,204
+2013,Broj,HAN PIJESAK,Ž,bosniaks,216
+2013,Broj,CAJNICE,Oba spola,bosniaks,835
+2013,Broj,CAJNICE,M,bosniaks,439
+2013,Broj,CAJNICE,Ž,bosniaks,396
+2013,Broj,CELINAC,Oba spola,bosniaks,395
+2013,Broj,CELINAC,M,bosniaks,197
+2013,Broj,CELINAC,Ž,bosniaks,198
+2013,Broj,SAMAC,Oba spola,bosniaks,1005
+2013,Broj,SAMAC,M,bosniaks,486
+2013,Broj,SAMAC,Ž,bosniaks,519
+2013,Broj,SEKOVICI,Oba spola,bosniaks,103
+2013,Broj,SEKOVICI,M,bosniaks,51
+2013,Broj,SEKOVICI,Ž,bosniaks,52
+2013,Broj,SIPOVO,Oba spola,bosniaks,578
+2013,Broj,SIPOVO,M,bosniaks,294
+2013,Broj,SIPOVO,Ž,bosniaks,284
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,croats,26509
+2013,Broj,REPUBLIKA SRPSKA,M,croats,11005
+2013,Broj,REPUBLIKA SRPSKA,Ž,croats,15504
+2013,Broj,BANJA LUKA,Oba spola,croats,4887
+2013,Broj,BANJA LUKA,M,croats,1761
+2013,Broj,BANJA LUKA,Ž,croats,3126
+2013,Broj,BERKOVICI,Oba spola,croats,11
+2013,Broj,BERKOVICI,M,croats,1
+2013,Broj,BERKOVICI,Ž,croats,10
+2013,Broj,BIJELJINA,Oba spola,croats,498
+2013,Broj,BIJELJINA,M,croats,140
+2013,Broj,BIJELJINA,Ž,croats,358
+2013,Broj,BILECA,Oba spola,croats,21
+2013,Broj,BILECA,M,croats,2
+2013,Broj,BILECA,Ž,croats,19
+2013,Broj,BRATUNAC,Oba spola,croats,30
+2013,Broj,BRATUNAC,M,croats,5
+2013,Broj,BRATUNAC,Ž,croats,25
+2013,Broj,BROD,Oba spola,croats,3021
+2013,Broj,BROD,M,croats,1413
+2013,Broj,BROD,Ž,croats,1608
+2013,Broj,VISEGRAD,Oba spola,croats,32
+2013,Broj,VISEGRAD,M,croats,5
+2013,Broj,VISEGRAD,Ž,croats,27
+2013,Broj,VLASENICA,Oba spola,croats,29
+2013,Broj,VLASENICA,M,croats,5
+2013,Broj,VLASENICA,Ž,croats,24
+2013,Broj,VUKOSAVLJE,Oba spola,croats,698
+2013,Broj,VUKOSAVLJE,M,croats,332
+2013,Broj,VUKOSAVLJE,Ž,croats,366
+2013,Broj,GACKO,Oba spola,croats,13
+2013,Broj,GACKO,M,croats,5
+2013,Broj,GACKO,Ž,croats,8
+2013,Broj,GRADISKA,Oba spola,croats,800
+2013,Broj,GRADISKA,M,croats,276
+2013,Broj,GRADISKA,Ž,croats,524
+2013,Broj,DERVENTA,Oba spola,croats,2181
+2013,Broj,DERVENTA,M,croats,1040
+2013,Broj,DERVENTA,Ž,croats,1141
+2013,Broj,DOBOJ,Oba spola,croats,1550
+2013,Broj,DOBOJ,M,croats,605
+2013,Broj,DOBOJ,Ž,croats,945
+2013,Broj,DONJI ZABAR,Oba spola,croats,991
+2013,Broj,DONJI ZABAR,M,croats,497
+2013,Broj,DONJI ZABAR,Ž,croats,494
+2013,Broj,ZVORNIK,Oba spola,croats,103
+2013,Broj,ZVORNIK,M,croats,17
+2013,Broj,ZVORNIK,Ž,croats,86
+2013,Broj,ISTOCNA ILIDZA,Oba spola,croats,148
+2013,Broj,ISTOCNA ILIDZA,M,croats,39
+2013,Broj,ISTOCNA ILIDZA,Ž,croats,109
+2013,Broj,ISTOCNI DRVAR,Oba spola,croats,1
+2013,Broj,ISTOCNI DRVAR,Ž,croats,1
+2013,Broj,ISTOCNI MOSTAR,Oba spola,croats,11
+2013,Broj,ISTOCNI MOSTAR,M,croats,8
+2013,Broj,ISTOCNI MOSTAR,Ž,croats,3
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,croats,6
+2013,Broj,ISTOCNI STARI GRAD,M,croats,2
+2013,Broj,ISTOCNI STARI GRAD,Ž,croats,4
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,croats,102
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,croats,23
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,croats,79
+2013,Broj,JEZERO,Oba spola,croats,6
+2013,Broj,JEZERO,M,croats,4
+2013,Broj,JEZERO,Ž,croats,2
+2013,Broj,KALINOVIK,Oba spola,croats,8
+2013,Broj,KALINOVIK,M,croats,2
+2013,Broj,KALINOVIK,Ž,croats,6
+2013,Broj,KNEZEVO,Oba spola,croats,24
+2013,Broj,KNEZEVO,M,croats,5
+2013,Broj,KNEZEVO,Ž,croats,19
+2013,Broj,KOZARSKA DUBICA,Oba spola,croats,261
+2013,Broj,KOZARSKA DUBICA,M,croats,79
+2013,Broj,KOZARSKA DUBICA,Ž,croats,182
+2013,Broj,KOSTAJNICA,Oba spola,croats,82
+2013,Broj,KOSTAJNICA,M,croats,29
+2013,Broj,KOSTAJNICA,Ž,croats,53
+2013,Broj,KOTOR VAROS,Oba spola,croats,852
+2013,Broj,KOTOR VAROS,M,croats,410
+2013,Broj,KOTOR VAROS,Ž,croats,442
+2013,Broj,KRUPA NA UNI,Oba spola,croats,2
+2013,Broj,KRUPA NA UNI,Ž,croats,2
+2013,Broj,LAKTASI,Oba spola,croats,500
+2013,Broj,LAKTASI,M,croats,175
+2013,Broj,LAKTASI,Ž,croats,325
+2013,Broj,LOPARE,Oba spola,croats,48
+2013,Broj,LOPARE,M,croats,9
+2013,Broj,LOPARE,Ž,croats,39
+2013,Broj,LJUBINJE,Oba spola,croats,10
+2013,Broj,LJUBINJE,M,croats,3
+2013,Broj,LJUBINJE,Ž,croats,7
+2013,Broj,MILICI,Oba spola,croats,22
+2013,Broj,MILICI,M,croats,7
+2013,Broj,MILICI,Ž,croats,15
+2013,Broj,MODRICA,Oba spola,croats,1396
+2013,Broj,MODRICA,M,croats,662
+2013,Broj,MODRICA,Ž,croats,734
+2013,Broj,MRKONJIC GRAD,Oba spola,croats,148
+2013,Broj,MRKONJIC GRAD,M,croats,60
+2013,Broj,MRKONJIC GRAD,Ž,croats,88
+2013,Broj,NEVESINJE,Oba spola,croats,27
+2013,Broj,NEVESINJE,M,croats,9
+2013,Broj,NEVESINJE,Ž,croats,18
+2013,Broj,NOVI GRAD,Oba spola,croats,174
+2013,Broj,NOVI GRAD,M,croats,58
+2013,Broj,NOVI GRAD,Ž,croats,116
+2013,Broj,NOVO GORAZDE,Oba spola,croats,2
+2013,Broj,NOVO GORAZDE,M,croats,1
+2013,Broj,NOVO GORAZDE,Ž,croats,1
+2013,Broj,OSMACI,Oba spola,croats,7
+2013,Broj,OSMACI,M,croats,1
+2013,Broj,OSMACI,Ž,croats,6
+2013,Broj,OSTRA LUKA,Oba spola,croats,149
+2013,Broj,OSTRA LUKA,M,croats,74
+2013,Broj,OSTRA LUKA,Ž,croats,75
+2013,Broj,PALE,Oba spola,croats,126
+2013,Broj,PALE,M,croats,37
+2013,Broj,PALE,Ž,croats,89
+2013,Broj,PELAGICEVO,Oba spola,croats,1182
+2013,Broj,PELAGICEVO,M,croats,580
+2013,Broj,PELAGICEVO,Ž,croats,602
+2013,Broj,PETROVAC,Oba spola,croats,-
+2013,Broj,PETROVAC,M,croats,-
+2013,Broj,PETROVAC,Ž,croats,-
+2013,Broj,PETROVO,Oba spola,croats,34
+2013,Broj,PETROVO,M,croats,8
+2013,Broj,PETROVO,Ž,croats,26
+2013,Broj,PRIJEDOR,Oba spola,croats,1666
+2013,Broj,PRIJEDOR,M,croats,679
+2013,Broj,PRIJEDOR,Ž,croats,987
+2013,Broj,PRNJAVOR,Oba spola,croats,423
+2013,Broj,PRNJAVOR,M,croats,150
+2013,Broj,PRNJAVOR,Ž,croats,273
+2013,Broj,RIBNIK,Oba spola,croats,11
+2013,Broj,RIBNIK,M,croats,4
+2013,Broj,RIBNIK,Ž,croats,7
+2013,Broj,ROGATICA,Oba spola,croats,18
+2013,Broj,ROGATICA,M,croats,2
+2013,Broj,ROGATICA,Ž,croats,16
+2013,Broj,RUDO,Oba spola,croats,7
+2013,Broj,RUDO,M,croats,6
+2013,Broj,RUDO,Ž,croats,1
+2013,Broj,SOKOLAC,Oba spola,croats,28
+2013,Broj,SOKOLAC,M,croats,8
+2013,Broj,SOKOLAC,Ž,croats,20
+2013,Broj,SRBAC,Oba spola,croats,128
+2013,Broj,SRBAC,M,croats,21
+2013,Broj,SRBAC,Ž,croats,107
+2013,Broj,SREBRENICA,Oba spola,croats,14
+2013,Broj,SREBRENICA,M,croats,6
+2013,Broj,SREBRENICA,Ž,croats,8
+2013,Broj,TESLIC,Oba spola,croats,1346
+2013,Broj,TESLIC,M,croats,581
+2013,Broj,TESLIC,Ž,croats,765
+2013,Broj,TREBINJE,Oba spola,croats,295
+2013,Broj,TREBINJE,M,croats,99
+2013,Broj,TREBINJE,Ž,croats,196
+2013,Broj,TRNOVO,Oba spola,croats,15
+2013,Broj,TRNOVO,M,croats,3
+2013,Broj,TRNOVO,Ž,croats,12
+2013,Broj,UGLJEVIK,Oba spola,croats,42
+2013,Broj,UGLJEVIK,M,croats,8
+2013,Broj,UGLJEVIK,Ž,croats,34
+2013,Broj,FOCA,Oba spola,croats,52
+2013,Broj,FOCA,M,croats,16
+2013,Broj,FOCA,Ž,croats,36
+2013,Broj,HAN PIJESAK,Oba spola,croats,7
+2013,Broj,HAN PIJESAK,M,croats,1
+2013,Broj,HAN PIJESAK,Ž,croats,6
+2013,Broj,CAJNICE,Oba spola,croats,6
+2013,Broj,CAJNICE,M,croats,1
+2013,Broj,CAJNICE,Ž,croats,5
+2013,Broj,CELINAC,Oba spola,croats,48
+2013,Broj,CELINAC,M,croats,11
+2013,Broj,CELINAC,Ž,croats,37
+2013,Broj,SAMAC,Oba spola,croats,2176
+2013,Broj,SAMAC,M,croats,1011
+2013,Broj,SAMAC,Ž,croats,1165
+2013,Broj,SEKOVICI,Oba spola,croats,8
+2013,Broj,SEKOVICI,M,croats,2
+2013,Broj,SEKOVICI,Ž,croats,6
+2013,Broj,SIPOVO,Oba spola,croats,26
+2013,Broj,SIPOVO,M,croats,7
+2013,Broj,SIPOVO,Ž,croats,19
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,serbs,970857
+2013,Broj,REPUBLIKA SRPSKA,M,serbs,477334
+2013,Broj,REPUBLIKA SRPSKA,Ž,serbs,493523
+2013,Broj,BANJA LUKA,Oba spola,serbs,162057
+2013,Broj,BANJA LUKA,M,serbs,78827
+2013,Broj,BANJA LUKA,Ž,serbs,83230
+2013,Broj,BERKOVICI,Oba spola,serbs,1873
+2013,Broj,BERKOVICI,M,serbs,943
+2013,Broj,BERKOVICI,Ž,serbs,930
+2013,Broj,BIJELJINA,Oba spola,serbs,89474
+2013,Broj,BIJELJINA,M,serbs,43861
+2013,Broj,BIJELJINA,Ž,serbs,45613
+2013,Broj,BILECA,Oba spola,serbs,10447
+2013,Broj,BILECA,M,serbs,5276
+2013,Broj,BILECA,Ž,serbs,5171
+2013,Broj,BRATUNAC,Oba spola,serbs,11897
+2013,Broj,BRATUNAC,M,serbs,5915
+2013,Broj,BRATUNAC,Ž,serbs,5982
+2013,Broj,BROD,Oba spola,serbs,11065
+2013,Broj,BROD,M,serbs,5486
+2013,Broj,BROD,Ž,serbs,5579
+2013,Broj,VISEGRAD,Oba spola,serbs,8942
+2013,Broj,VISEGRAD,M,serbs,4337
+2013,Broj,VISEGRAD,Ž,serbs,4605
+2013,Broj,VLASENICA,Oba spola,serbs,7190
+2013,Broj,VLASENICA,M,serbs,3505
+2013,Broj,VLASENICA,Ž,serbs,3685
+2013,Broj,VUKOSAVLJE,Oba spola,serbs,1448
+2013,Broj,VUKOSAVLJE,M,serbs,720
+2013,Broj,VUKOSAVLJE,Ž,serbs,728
+2013,Broj,GACKO,Oba spola,serbs,8316
+2013,Broj,GACKO,M,serbs,4211
+2013,Broj,GACKO,Ž,serbs,4105
+2013,Broj,GRADISKA,Oba spola,serbs,40707
+2013,Broj,GRADISKA,M,serbs,19960
+2013,Broj,GRADISKA,Ž,serbs,20747
+2013,Broj,DERVENTA,Oba spola,serbs,21495
+2013,Broj,DERVENTA,M,serbs,10524
+2013,Broj,DERVENTA,Ž,serbs,10971
+2013,Broj,DOBOJ,Oba spola,serbs,50968
+2013,Broj,DOBOJ,M,serbs,24968
+2013,Broj,DOBOJ,Ž,serbs,26000
+2013,Broj,DONJI ZABAR,Oba spola,serbs,2658
+2013,Broj,DONJI ZABAR,M,serbs,1352
+2013,Broj,DONJI ZABAR,Ž,serbs,1306
+2013,Broj,ZVORNIK,Oba spola,serbs,37242
+2013,Broj,ZVORNIK,M,serbs,18452
+2013,Broj,ZVORNIK,Ž,serbs,18790
+2013,Broj,ISTOCNA ILIDZA,Oba spola,serbs,13455
+2013,Broj,ISTOCNA ILIDZA,M,serbs,6486
+2013,Broj,ISTOCNA ILIDZA,Ž,serbs,6969
+2013,Broj,ISTOCNI DRVAR,Oba spola,serbs,65
+2013,Broj,ISTOCNI DRVAR,M,serbs,44
+2013,Broj,ISTOCNI DRVAR,Ž,serbs,21
+2013,Broj,ISTOCNI MOSTAR,Oba spola,serbs,153
+2013,Broj,ISTOCNI MOSTAR,M,serbs,84
+2013,Broj,ISTOCNI MOSTAR,Ž,serbs,69
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,serbs,1059
+2013,Broj,ISTOCNI STARI GRAD,M,serbs,519
+2013,Broj,ISTOCNI STARI GRAD,Ž,serbs,540
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,serbs,10028
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,serbs,4801
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,serbs,5227
+2013,Broj,JEZERO,Oba spola,serbs,779
+2013,Broj,JEZERO,M,serbs,410
+2013,Broj,JEZERO,Ž,serbs,369
+2013,Broj,KALINOVIK,Oba spola,serbs,1895
+2013,Broj,KALINOVIK,M,serbs,920
+2013,Broj,KALINOVIK,Ž,serbs,975
+2013,Broj,KNEZEVO,Oba spola,serbs,8886
+2013,Broj,KNEZEVO,M,serbs,4414
+2013,Broj,KNEZEVO,Ž,serbs,4472
+2013,Broj,KOZARSKA DUBICA,Oba spola,serbs,18144
+2013,Broj,KOZARSKA DUBICA,M,serbs,8939
+2013,Broj,KOZARSKA DUBICA,Ž,serbs,9205
+2013,Broj,KOSTAJNICA,Oba spola,serbs,4177
+2013,Broj,KOSTAJNICA,M,serbs,2077
+2013,Broj,KOSTAJNICA,Ž,serbs,2100
+2013,Broj,KOTOR VAROS,Oba spola,serbs,12730
+2013,Broj,KOTOR VAROS,M,serbs,6305
+2013,Broj,KOTOR VAROS,Ž,serbs,6425
+2013,Broj,KRUPA NA UNI,Oba spola,serbs,1555
+2013,Broj,KRUPA NA UNI,M,serbs,840
+2013,Broj,KRUPA NA UNI,Ž,serbs,715
+2013,Broj,KUPRES,Oba spola,serbs,292
+2013,Broj,KUPRES,M,serbs,156
+2013,Broj,KUPRES,Ž,serbs,136
+2013,Broj,LAKTASI,Oba spola,serbs,32761
+2013,Broj,LAKTASI,M,serbs,16275
+2013,Broj,LAKTASI,Ž,serbs,16486
+2013,Broj,LOPARE,Oba spola,serbs,13267
+2013,Broj,LOPARE,M,serbs,6695
+2013,Broj,LOPARE,Ž,serbs,6572
+2013,Broj,LJUBINJE,Oba spola,serbs,3280
+2013,Broj,LJUBINJE,M,serbs,1615
+2013,Broj,LJUBINJE,Ž,serbs,1665
+2013,Broj,MILICI,Oba spola,serbs,6857
+2013,Broj,MILICI,M,serbs,3486
+2013,Broj,MILICI,Ž,serbs,3371
+2013,Broj,MODRICA,Oba spola,serbs,19530
+2013,Broj,MODRICA,M,serbs,9611
+2013,Broj,MODRICA,Ž,serbs,9919
+2013,Broj,MRKONJIC GRAD,Oba spola,serbs,15340
+2013,Broj,MRKONJIC GRAD,M,serbs,7388
+2013,Broj,MRKONJIC GRAD,Ž,serbs,7952
+2013,Broj,NEVESINJE,Oba spola,serbs,11964
+2013,Broj,NEVESINJE,M,serbs,5951
+2013,Broj,NEVESINJE,Ž,serbs,6013
+2013,Broj,NOVI GRAD,Oba spola,serbs,19491
+2013,Broj,NOVI GRAD,M,serbs,9747
+2013,Broj,NOVI GRAD,Ž,serbs,9744
+2013,Broj,NOVO GORAZDE,Oba spola,serbs,1561
+2013,Broj,NOVO GORAZDE,M,serbs,821
+2013,Broj,NOVO GORAZDE,Ž,serbs,740
+2013,Broj,OSMACI,Oba spola,serbs,2852
+2013,Broj,OSMACI,M,serbs,1450
+2013,Broj,OSMACI,Ž,serbs,1402
+2013,Broj,OSTRA LUKA,Oba spola,serbs,2510
+2013,Broj,OSTRA LUKA,M,serbs,1296
+2013,Broj,OSTRA LUKA,Ž,serbs,1214
+2013,Broj,PALE,Oba spola,serbs,19932
+2013,Broj,PALE,M,serbs,9561
+2013,Broj,PALE,Ž,serbs,10371
+2013,Broj,PELAGICEVO,Oba spola,serbs,3146
+2013,Broj,PELAGICEVO,M,serbs,1563
+2013,Broj,PELAGICEVO,Ž,serbs,1583
+2013,Broj,PETROVAC,Oba spola,serbs,351
+2013,Broj,PETROVAC,M,serbs,168
+2013,Broj,PETROVAC,Ž,serbs,183
+2013,Broj,PETROVO,Oba spola,serbs,6222
+2013,Broj,PETROVO,M,serbs,3002
+2013,Broj,PETROVO,Ž,serbs,3220
+2013,Broj,PRIJEDOR,Oba spola,serbs,54365
+2013,Broj,PRIJEDOR,M,serbs,26834
+2013,Broj,PRIJEDOR,Ž,serbs,27531
+2013,Broj,PRNJAVOR,Oba spola,serbs,29478
+2013,Broj,PRNJAVOR,M,serbs,14352
+2013,Broj,PRNJAVOR,Ž,serbs,15126
+2013,Broj,RIBNIK,Oba spola,serbs,5825
+2013,Broj,RIBNIK,M,serbs,2891
+2013,Broj,RIBNIK,Ž,serbs,2934
+2013,Broj,ROGATICA,Oba spola,serbs,9217
+2013,Broj,ROGATICA,M,serbs,4502
+2013,Broj,ROGATICA,Ž,serbs,4715
+2013,Broj,RUDO,Oba spola,serbs,6963
+2013,Broj,RUDO,M,serbs,3517
+2013,Broj,RUDO,Ž,serbs,3446
+2013,Broj,SOKOLAC,Oba spola,serbs,10894
+2013,Broj,SOKOLAC,M,serbs,5357
+2013,Broj,SOKOLAC,Ž,serbs,5537
+2013,Broj,SRBAC,Oba spola,serbs,16013
+2013,Broj,SRBAC,M,serbs,7888
+2013,Broj,SRBAC,Ž,serbs,8125
+2013,Broj,SREBRENICA,Oba spola,serbs,5467
+2013,Broj,SREBRENICA,M,serbs,2743
+2013,Broj,SREBRENICA,Ž,serbs,2724
+2013,Broj,TESLIC,Oba spola,serbs,28166
+2013,Broj,TESLIC,M,serbs,13545
+2013,Broj,TESLIC,Ž,serbs,14621
+2013,Broj,TREBINJE,Oba spola,serbs,26484
+2013,Broj,TREBINJE,M,serbs,12943
+2013,Broj,TREBINJE,Ž,serbs,13541
+2013,Broj,TRNOVO,Oba spola,serbs,1131
+2013,Broj,TRNOVO,M,serbs,534
+2013,Broj,TRNOVO,Ž,serbs,597
+2013,Broj,UGLJEVIK,Oba spola,serbs,13007
+2013,Broj,UGLJEVIK,M,serbs,6606
+2013,Broj,UGLJEVIK,Ž,serbs,6401
+2013,Broj,FOCA,Oba spola,serbs,16157
+2013,Broj,FOCA,M,serbs,8133
+2013,Broj,FOCA,Ž,serbs,8024
+2013,Broj,HAN PIJESAK,Oba spola,serbs,2994
+2013,Broj,HAN PIJESAK,M,serbs,1412
+2013,Broj,HAN PIJESAK,Ž,serbs,1582
+2013,Broj,CAJNICE,Oba spola,serbs,3806
+2013,Broj,CAJNICE,M,serbs,1891
+2013,Broj,CAJNICE,Ž,serbs,1915
+2013,Broj,CELINAC,Oba spola,serbs,14508
+2013,Broj,CELINAC,M,serbs,7194
+2013,Broj,CELINAC,Ž,serbs,7314
+2013,Broj,SAMAC,Oba spola,serbs,12832
+2013,Broj,SAMAC,M,serbs,6277
+2013,Broj,SAMAC,Ž,serbs,6555
+2013,Broj,SEKOVICI,Oba spola,serbs,6187
+2013,Broj,SEKOVICI,M,serbs,3038
+2013,Broj,SEKOVICI,Ž,serbs,3149
+2013,Broj,SIPOVO,Oba spola,serbs,9302
+2013,Broj,SIPOVO,M,serbs,4716
+2013,Broj,SIPOVO,Ž,serbs,4586
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,Drugo,14641
+2013,Broj,REPUBLIKA SRPSKA,M,Drugo,7207
+2013,Broj,REPUBLIKA SRPSKA,Ž,Drugo,7434
+2013,Broj,BANJA LUKA,Oba spola,Drugo,3324
+2013,Broj,BANJA LUKA,M,Drugo,1617
+2013,Broj,BANJA LUKA,Ž,Drugo,1707
+2013,Broj,BERKOVICI,Oba spola,Drugo,1
+2013,Broj,BERKOVICI,M,Drugo,1
+2013,Broj,BIJELJINA,Oba spola,Drugo,1478
+2013,Broj,BIJELJINA,M,Drugo,717
+2013,Broj,BIJELJINA,Ž,Drugo,761
+2013,Broj,BILECA,Oba spola,Drugo,72
+2013,Broj,BILECA,M,Drugo,38
+2013,Broj,BILECA,Ž,Drugo,34
+2013,Broj,BRATUNAC,Oba spola,Drugo,79
+2013,Broj,BRATUNAC,M,Drugo,45
+2013,Broj,BRATUNAC,Ž,Drugo,34
+2013,Broj,BROD,Oba spola,Drugo,151
+2013,Broj,BROD,M,Drugo,69
+2013,Broj,BROD,Ž,Drugo,82
+2013,Broj,VISEGRAD,Oba spola,Drugo,53
+2013,Broj,VISEGRAD,M,Drugo,26
+2013,Broj,VISEGRAD,Ž,Drugo,27
+2013,Broj,VLASENICA,Oba spola,Drugo,29
+2013,Broj,VLASENICA,M,Drugo,13
+2013,Broj,VLASENICA,Ž,Drugo,16
+2013,Broj,VUKOSAVLJE,Oba spola,Drugo,146
+2013,Broj,VUKOSAVLJE,M,Drugo,81
+2013,Broj,VUKOSAVLJE,Ž,Drugo,65
+2013,Broj,GACKO,Oba spola,Drugo,40
+2013,Broj,GACKO,M,Drugo,27
+2013,Broj,GACKO,Ž,Drugo,13
+2013,Broj,GRADISKA,Oba spola,Drugo,970
+2013,Broj,GRADISKA,M,Drugo,468
+2013,Broj,GRADISKA,Ž,Drugo,502
+2013,Broj,DERVENTA,Oba spola,Drugo,264
+2013,Broj,DERVENTA,M,Drugo,116
+2013,Broj,DERVENTA,Ž,Drugo,148
+2013,Broj,DOBOJ,Oba spola,Drugo,949
+2013,Broj,DOBOJ,M,Drugo,486
+2013,Broj,DOBOJ,Ž,Drugo,463
+2013,Broj,DONJI ZABAR,Oba spola,Drugo,9
+2013,Broj,DONJI ZABAR,M,Drugo,1
+2013,Broj,DONJI ZABAR,Ž,Drugo,8
+2013,Broj,ZVORNIK,Oba spola,Drugo,120
+2013,Broj,ZVORNIK,M,Drugo,55
+2013,Broj,ZVORNIK,Ž,Drugo,65
+2013,Broj,ISTOCNA ILIDZA,Oba spola,Drugo,96
+2013,Broj,ISTOCNA ILIDZA,M,Drugo,44
+2013,Broj,ISTOCNA ILIDZA,Ž,Drugo,52
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,Drugo,7
+2013,Broj,ISTOCNI STARI GRAD,M,Drugo,5
+2013,Broj,ISTOCNI STARI GRAD,Ž,Drugo,2
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,Drugo,163
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,Drugo,72
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Drugo,91
+2013,Broj,JEZERO,Oba spola,Drugo,1
+2013,Broj,JEZERO,M,Drugo,1
+2013,Broj,KALINOVIK,Oba spola,Drugo,15
+2013,Broj,KALINOVIK,M,Drugo,8
+2013,Broj,KALINOVIK,Ž,Drugo,7
+2013,Broj,KNEZEVO,Oba spola,Drugo,37
+2013,Broj,KNEZEVO,M,Drugo,21
+2013,Broj,KNEZEVO,Ž,Drugo,16
+2013,Broj,KOZARSKA DUBICA,Oba spola,Drugo,219
+2013,Broj,KOZARSKA DUBICA,M,Drugo,102
+2013,Broj,KOZARSKA DUBICA,Ž,Drugo,117
+2013,Broj,KOSTAJNICA,Oba spola,Drugo,42
+2013,Broj,KOSTAJNICA,M,Drugo,20
+2013,Broj,KOSTAJNICA,Ž,Drugo,22
+2013,Broj,KOTOR VAROS,Oba spola,Drugo,129
+2013,Broj,KOTOR VAROS,M,Drugo,63
+2013,Broj,KOTOR VAROS,Ž,Drugo,66
+2013,Broj,LAKTASI,Oba spola,Drugo,562
+2013,Broj,LAKTASI,M,Drugo,285
+2013,Broj,LAKTASI,Ž,Drugo,277
+2013,Broj,LOPARE,Oba spola,Drugo,31
+2013,Broj,LOPARE,M,Drugo,16
+2013,Broj,LOPARE,Ž,Drugo,15
+2013,Broj,LJUBINJE,Oba spola,Drugo,13
+2013,Broj,LJUBINJE,M,Drugo,7
+2013,Broj,LJUBINJE,Ž,Drugo,6
+2013,Broj,MILICI,Oba spola,Drugo,19
+2013,Broj,MILICI,M,Drugo,7
+2013,Broj,MILICI,Ž,Drugo,12
+2013,Broj,MODRICA,Oba spola,Drugo,412
+2013,Broj,MODRICA,M,Drugo,207
+2013,Broj,MODRICA,Ž,Drugo,205
+2013,Broj,MRKONJIC GRAD,Oba spola,Drugo,37
+2013,Broj,MRKONJIC GRAD,M,Drugo,17
+2013,Broj,MRKONJIC GRAD,Ž,Drugo,20
+2013,Broj,NEVESINJE,Oba spola,Drugo,18
+2013,Broj,NEVESINJE,M,Drugo,5
+2013,Broj,NEVESINJE,Ž,Drugo,13
+2013,Broj,NOVI GRAD,Oba spola,Drugo,200
+2013,Broj,NOVI GRAD,M,Drugo,100
+2013,Broj,NOVI GRAD,Ž,Drugo,100
+2013,Broj,NOVO GORAZDE,Oba spola,Drugo,22
+2013,Broj,NOVO GORAZDE,M,Drugo,11
+2013,Broj,NOVO GORAZDE,Ž,Drugo,11
+2013,Broj,OSMACI,Oba spola,Drugo,5
+2013,Broj,OSMACI,M,Drugo,2
+2013,Broj,OSMACI,Ž,Drugo,3
+2013,Broj,OSTRA LUKA,Oba spola,Drugo,8
+2013,Broj,OSTRA LUKA,M,Drugo,3
+2013,Broj,OSTRA LUKA,Ž,Drugo,5
+2013,Broj,PALE,Oba spola,Drugo,70
+2013,Broj,PALE,M,Drugo,31
+2013,Broj,PALE,Ž,Drugo,39
+2013,Broj,PELAGICEVO,Oba spola,Drugo,9
+2013,Broj,PELAGICEVO,M,Drugo,4
+2013,Broj,PELAGICEVO,Ž,Drugo,5
+2013,Broj,PETROVAC,Oba spola,Drugo,3
+2013,Broj,PETROVAC,M,Drugo,1
+2013,Broj,PETROVAC,Ž,Drugo,2
+2013,Broj,PETROVO,Oba spola,Drugo,30
+2013,Broj,PETROVO,M,Drugo,19
+2013,Broj,PETROVO,Ž,Drugo,11
+2013,Broj,PRIJEDOR,Oba spola,Drugo,1495
+2013,Broj,PRIJEDOR,M,Drugo,712
+2013,Broj,PRIJEDOR,Ž,Drugo,783
+2013,Broj,PRNJAVOR,Oba spola,Drugo,1452
+2013,Broj,PRNJAVOR,M,Drugo,738
+2013,Broj,PRNJAVOR,Ž,Drugo,714
+2013,Broj,RIBNIK,Oba spola,Drugo,11
+2013,Broj,RIBNIK,M,Drugo,3
+2013,Broj,RIBNIK,Ž,Drugo,8
+2013,Broj,ROGATICA,Oba spola,Drugo,41
+2013,Broj,ROGATICA,M,Drugo,20
+2013,Broj,ROGATICA,Ž,Drugo,21
+2013,Broj,RUDO,Oba spola,Drugo,26
+2013,Broj,RUDO,M,Drugo,14
+2013,Broj,RUDO,Ž,Drugo,12
+2013,Broj,SOKOLAC,Oba spola,Drugo,38
+2013,Broj,SOKOLAC,M,Drugo,19
+2013,Broj,SOKOLAC,Ž,Drugo,19
+2013,Broj,SRBAC,Oba spola,Drugo,280
+2013,Broj,SRBAC,M,Drugo,146
+2013,Broj,SRBAC,Ž,Drugo,134
+2013,Broj,SREBRENICA,Oba spola,Drugo,59
+2013,Broj,SREBRENICA,M,Drugo,34
+2013,Broj,SREBRENICA,Ž,Drugo,25
+2013,Broj,TESLIC,Oba spola,Drugo,454
+2013,Broj,TESLIC,M,Drugo,222
+2013,Broj,TESLIC,Ž,Drugo,232
+2013,Broj,TREBINJE,Oba spola,Drugo,398
+2013,Broj,TREBINJE,M,Drugo,204
+2013,Broj,TREBINJE,Ž,Drugo,194
+2013,Broj,TRNOVO,Oba spola,Drugo,10
+2013,Broj,TRNOVO,M,Drugo,7
+2013,Broj,TRNOVO,Ž,Drugo,3
+2013,Broj,UGLJEVIK,Oba spola,Drugo,36
+2013,Broj,UGLJEVIK,M,Drugo,17
+2013,Broj,UGLJEVIK,Ž,Drugo,19
+2013,Broj,FOCA,Oba spola,Drugo,160
+2013,Broj,FOCA,M,Drugo,90
+2013,Broj,FOCA,Ž,Drugo,70
+2013,Broj,HAN PIJESAK,Oba spola,Drugo,21
+2013,Broj,HAN PIJESAK,M,Drugo,14
+2013,Broj,HAN PIJESAK,Ž,Drugo,7
+2013,Broj,CAJNICE,Oba spola,Drugo,24
+2013,Broj,CAJNICE,M,Drugo,13
+2013,Broj,CAJNICE,Ž,Drugo,11
+2013,Broj,CELINAC,Oba spola,Drugo,122
+2013,Broj,CELINAC,M,Drugo,55
+2013,Broj,CELINAC,Ž,Drugo,67
+2013,Broj,SAMAC,Oba spola,Drugo,135
+2013,Broj,SAMAC,M,Drugo,67
+2013,Broj,SAMAC,Ž,Drugo,68
+2013,Broj,SEKOVICI,Oba spola,Drugo,12
+2013,Broj,SEKOVICI,M,Drugo,7
+2013,Broj,SEKOVICI,Ž,Drugo,5
+2013,Broj,SIPOVO,Oba spola,Drugo,34
+2013,Broj,SIPOVO,M,Drugo,14
+2013,Broj,SIPOVO,Ž,Drugo,20
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,does_not_declare,7861
+2013,Broj,REPUBLIKA SRPSKA,M,does_not_declare,3202
+2013,Broj,REPUBLIKA SRPSKA,Ž,does_not_declare,4659
+2013,Broj,BANJA LUKA,Oba spola,does_not_declare,2641
+2013,Broj,BANJA LUKA,M,does_not_declare,1044
+2013,Broj,BANJA LUKA,Ž,does_not_declare,1597
+2013,Broj,BIJELJINA,Oba spola,does_not_declare,654
+2013,Broj,BIJELJINA,M,does_not_declare,272
+2013,Broj,BIJELJINA,Ž,does_not_declare,382
+2013,Broj,BILECA,Oba spola,does_not_declare,30
+2013,Broj,BILECA,M,does_not_declare,10
+2013,Broj,BILECA,Ž,does_not_declare,20
+2013,Broj,BRATUNAC,Oba spola,does_not_declare,22
+2013,Broj,BRATUNAC,M,does_not_declare,11
+2013,Broj,BRATUNAC,Ž,does_not_declare,11
+2013,Broj,BROD,Oba spola,does_not_declare,142
+2013,Broj,BROD,M,does_not_declare,50
+2013,Broj,BROD,Ž,does_not_declare,92
+2013,Broj,VISEGRAD,Oba spola,does_not_declare,19
+2013,Broj,VISEGRAD,M,does_not_declare,10
+2013,Broj,VISEGRAD,Ž,does_not_declare,9
+2013,Broj,VLASENICA,Oba spola,does_not_declare,20
+2013,Broj,VLASENICA,M,does_not_declare,11
+2013,Broj,VLASENICA,Ž,does_not_declare,9
+2013,Broj,VUKOSAVLJE,Oba spola,does_not_declare,32
+2013,Broj,VUKOSAVLJE,M,does_not_declare,15
+2013,Broj,VUKOSAVLJE,Ž,does_not_declare,17
+2013,Broj,GACKO,Oba spola,does_not_declare,3
+2013,Broj,GACKO,Ž,does_not_declare,3
+2013,Broj,GRADISKA,Oba spola,does_not_declare,411
+2013,Broj,GRADISKA,M,does_not_declare,174
+2013,Broj,GRADISKA,Ž,does_not_declare,237
+2013,Broj,DERVENTA,Oba spola,does_not_declare,242
+2013,Broj,DERVENTA,M,does_not_declare,113
+2013,Broj,DERVENTA,Ž,does_not_declare,129
+2013,Broj,DOBOJ,Oba spola,does_not_declare,467
+2013,Broj,DOBOJ,M,does_not_declare,198
+2013,Broj,DOBOJ,Ž,does_not_declare,269
+2013,Broj,DONJI ZABAR,Oba spola,does_not_declare,5
+2013,Broj,DONJI ZABAR,M,does_not_declare,2
+2013,Broj,DONJI ZABAR,Ž,does_not_declare,3
+2013,Broj,ZVORNIK,Oba spola,does_not_declare,70
+2013,Broj,ZVORNIK,M,does_not_declare,31
+2013,Broj,ZVORNIK,Ž,does_not_declare,39
+2013,Broj,ISTOCNA ILIDZA,Oba spola,does_not_declare,96
+2013,Broj,ISTOCNA ILIDZA,M,does_not_declare,38
+2013,Broj,ISTOCNA ILIDZA,Ž,does_not_declare,58
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,does_not_declare,2
+2013,Broj,ISTOCNI STARI GRAD,Ž,does_not_declare,2
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,does_not_declare,61
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,does_not_declare,26
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,does_not_declare,35
+2013,Broj,JEZERO,Oba spola,does_not_declare,1
+2013,Broj,JEZERO,Ž,does_not_declare,1
+2013,Broj,KALINOVIK,Oba spola,does_not_declare,1
+2013,Broj,KALINOVIK,M,does_not_declare,1
+2013,Broj,KNEZEVO,Oba spola,does_not_declare,4
+2013,Broj,KNEZEVO,M,does_not_declare,3
+2013,Broj,KNEZEVO,Ž,does_not_declare,1
+2013,Broj,KOZARSKA DUBICA,Oba spola,does_not_declare,162
+2013,Broj,KOZARSKA DUBICA,M,does_not_declare,63
+2013,Broj,KOZARSKA DUBICA,Ž,does_not_declare,99
+2013,Broj,KOSTAJNICA,Oba spola,does_not_declare,66
+2013,Broj,KOSTAJNICA,M,does_not_declare,28
+2013,Broj,KOSTAJNICA,Ž,does_not_declare,38
+2013,Broj,KOTOR VAROS,Oba spola,does_not_declare,115
+2013,Broj,KOTOR VAROS,M,does_not_declare,42
+2013,Broj,KOTOR VAROS,Ž,does_not_declare,73
+2013,Broj,KUPRES,Oba spola,does_not_declare,1
+2013,Broj,KUPRES,M,does_not_declare,1
+2013,Broj,LAKTASI,Oba spola,does_not_declare,237
+2013,Broj,LAKTASI,M,does_not_declare,103
+2013,Broj,LAKTASI,Ž,does_not_declare,134
+2013,Broj,LOPARE,Oba spola,does_not_declare,23
+2013,Broj,LOPARE,M,does_not_declare,5
+2013,Broj,LOPARE,Ž,does_not_declare,18
+2013,Broj,LJUBINJE,Oba spola,does_not_declare,5
+2013,Broj,LJUBINJE,M,does_not_declare,2
+2013,Broj,LJUBINJE,Ž,does_not_declare,3
+2013,Broj,MILICI,Oba spola,does_not_declare,7
+2013,Broj,MILICI,M,does_not_declare,3
+2013,Broj,MILICI,Ž,does_not_declare,4
+2013,Broj,MODRICA,Oba spola,does_not_declare,156
+2013,Broj,MODRICA,M,does_not_declare,63
+2013,Broj,MODRICA,Ž,does_not_declare,93
+2013,Broj,MRKONJIC GRAD,Oba spola,does_not_declare,35
+2013,Broj,MRKONJIC GRAD,M,does_not_declare,19
+2013,Broj,MRKONJIC GRAD,Ž,does_not_declare,16
+2013,Broj,NEVESINJE,Oba spola,does_not_declare,18
+2013,Broj,NEVESINJE,M,does_not_declare,8
+2013,Broj,NEVESINJE,Ž,does_not_declare,10
+2013,Broj,NOVI GRAD,Oba spola,does_not_declare,137
+2013,Broj,NOVI GRAD,M,does_not_declare,56
+2013,Broj,NOVI GRAD,Ž,does_not_declare,81
+2013,Broj,NOVO GORAZDE,Oba spola,does_not_declare,6
+2013,Broj,NOVO GORAZDE,M,does_not_declare,3
+2013,Broj,NOVO GORAZDE,Ž,does_not_declare,3
+2013,Broj,OSMACI,Oba spola,does_not_declare,5
+2013,Broj,OSMACI,M,does_not_declare,3
+2013,Broj,OSMACI,Ž,does_not_declare,2
+2013,Broj,OSTRA LUKA,Oba spola,does_not_declare,12
+2013,Broj,OSTRA LUKA,M,does_not_declare,4
+2013,Broj,OSTRA LUKA,Ž,does_not_declare,8
+2013,Broj,PALE,Oba spola,does_not_declare,53
+2013,Broj,PALE,M,does_not_declare,20
+2013,Broj,PALE,Ž,does_not_declare,33
+2013,Broj,PELAGICEVO,Oba spola,does_not_declare,3
+2013,Broj,PELAGICEVO,M,does_not_declare,1
+2013,Broj,PELAGICEVO,Ž,does_not_declare,2
+2013,Broj,PETROVO,Oba spola,does_not_declare,21
+2013,Broj,PETROVO,M,does_not_declare,10
+2013,Broj,PETROVO,Ž,does_not_declare,11
+2013,Broj,PRIJEDOR,Oba spola,does_not_declare,718
+2013,Broj,PRIJEDOR,M,does_not_declare,267
+2013,Broj,PRIJEDOR,Ž,does_not_declare,451
+2013,Broj,PRNJAVOR,Oba spola,does_not_declare,225
+2013,Broj,PRNJAVOR,M,does_not_declare,96
+2013,Broj,PRNJAVOR,Ž,does_not_declare,129
+2013,Broj,RIBNIK,Oba spola,does_not_declare,2
+2013,Broj,RIBNIK,Ž,does_not_declare,2
+2013,Broj,ROGATICA,Oba spola,does_not_declare,12
+2013,Broj,ROGATICA,M,does_not_declare,7
+2013,Broj,ROGATICA,Ž,does_not_declare,5
+2013,Broj,RUDO,Oba spola,does_not_declare,5
+2013,Broj,RUDO,M,does_not_declare,3
+2013,Broj,RUDO,Ž,does_not_declare,2
+2013,Broj,SOKOLAC,Oba spola,does_not_declare,13
+2013,Broj,SOKOLAC,M,does_not_declare,5
+2013,Broj,SOKOLAC,Ž,does_not_declare,8
+2013,Broj,SRBAC,Oba spola,does_not_declare,89
+2013,Broj,SRBAC,M,does_not_declare,45
+2013,Broj,SRBAC,Ž,does_not_declare,44
+2013,Broj,SREBRENICA,Oba spola,does_not_declare,22
+2013,Broj,SREBRENICA,M,does_not_declare,10
+2013,Broj,SREBRENICA,Ž,does_not_declare,12
+2013,Broj,TESLIC,Oba spola,does_not_declare,339
+2013,Broj,TESLIC,M,does_not_declare,136
+2013,Broj,TESLIC,Ž,does_not_declare,203
+2013,Broj,TREBINJE,Oba spola,does_not_declare,180
+2013,Broj,TREBINJE,M,does_not_declare,77
+2013,Broj,TREBINJE,Ž,does_not_declare,103
+2013,Broj,TRNOVO,Oba spola,does_not_declare,9
+2013,Broj,TRNOVO,M,does_not_declare,4
+2013,Broj,TRNOVO,Ž,does_not_declare,5
+2013,Broj,UGLJEVIK,Oba spola,does_not_declare,21
+2013,Broj,UGLJEVIK,M,does_not_declare,10
+2013,Broj,UGLJEVIK,Ž,does_not_declare,11
+2013,Broj,FOCA,Oba spola,does_not_declare,30
+2013,Broj,FOCA,M,does_not_declare,10
+2013,Broj,FOCA,Ž,does_not_declare,20
+2013,Broj,HAN PIJESAK,Oba spola,does_not_declare,3
+2013,Broj,HAN PIJESAK,M,does_not_declare,1
+2013,Broj,HAN PIJESAK,Ž,does_not_declare,2
+2013,Broj,CAJNICE,Oba spola,does_not_declare,3
+2013,Broj,CAJNICE,M,does_not_declare,1
+2013,Broj,CAJNICE,Ž,does_not_declare,2
+2013,Broj,CELINAC,Oba spola,does_not_declare,35
+2013,Broj,CELINAC,M,does_not_declare,16
+2013,Broj,CELINAC,Ž,does_not_declare,19
+2013,Broj,SAMAC,Oba spola,does_not_declare,141
+2013,Broj,SAMAC,M,does_not_declare,57
+2013,Broj,SAMAC,Ž,does_not_declare,84
+2013,Broj,SEKOVICI,Oba spola,does_not_declare,5
+2013,Broj,SEKOVICI,M,does_not_declare,2
+2013,Broj,SEKOVICI,Ž,does_not_declare,3
+2013,Broj,SIPOVO,Oba spola,does_not_declare,24
+2013,Broj,SIPOVO,M,does_not_declare,12
+2013,Broj,SIPOVO,Ž,does_not_declare,12
+2013,Broj,REPUBLIKA SRPSKA,Oba spola,Nepoznato,1997
+2013,Broj,REPUBLIKA SRPSKA,M,Nepoznato,916
+2013,Broj,REPUBLIKA SRPSKA,Ž,Nepoznato,1081
+2013,Broj,BANJA LUKA,Oba spola,Nepoznato,328
+2013,Broj,BANJA LUKA,M,Nepoznato,153
+2013,Broj,BANJA LUKA,Ž,Nepoznato,175
+2013,Broj,BERKOVICI,Oba spola,Nepoznato,1
+2013,Broj,BERKOVICI,Ž,Nepoznato,1
+2013,Broj,BIJELJINA,Oba spola,Nepoznato,90
+2013,Broj,BIJELJINA,M,Nepoznato,37
+2013,Broj,BIJELJINA,Ž,Nepoznato,53
+2013,Broj,BILECA,Oba spola,Nepoznato,11
+2013,Broj,BILECA,M,Nepoznato,4
+2013,Broj,BILECA,Ž,Nepoznato,7
+2013,Broj,BRATUNAC,Oba spola,Nepoznato,35
+2013,Broj,BRATUNAC,M,Nepoznato,16
+2013,Broj,BRATUNAC,Ž,Nepoznato,19
+2013,Broj,BROD,Oba spola,Nepoznato,29
+2013,Broj,BROD,M,Nepoznato,12
+2013,Broj,BROD,Ž,Nepoznato,17
+2013,Broj,VISEGRAD,Oba spola,Nepoznato,177
+2013,Broj,VISEGRAD,M,Nepoznato,2
+2013,Broj,VISEGRAD,Ž,Nepoznato,175
+2013,Broj,VLASENICA,Oba spola,Nepoznato,29
+2013,Broj,VLASENICA,M,Nepoznato,13
+2013,Broj,VLASENICA,Ž,Nepoznato,16
+2013,Broj,VUKOSAVLJE,Oba spola,Nepoznato,14
+2013,Broj,VUKOSAVLJE,M,Nepoznato,3
+2013,Broj,VUKOSAVLJE,Ž,Nepoznato,11
+2013,Broj,GACKO,Oba spola,Nepoznato,6
+2013,Broj,GACKO,M,Nepoznato,1
+2013,Broj,GACKO,Ž,Nepoznato,5
+2013,Broj,GRADISKA,Oba spola,Nepoznato,42
+2013,Broj,GRADISKA,M,Nepoznato,19
+2013,Broj,GRADISKA,Ž,Nepoznato,23
+2013,Broj,DERVENTA,Oba spola,Nepoznato,54
+2013,Broj,DERVENTA,M,Nepoznato,24
+2013,Broj,DERVENTA,Ž,Nepoznato,30
+2013,Broj,DOBOJ,Oba spola,Nepoznato,163
+2013,Broj,DOBOJ,M,Nepoznato,61
+2013,Broj,DOBOJ,Ž,Nepoznato,102
+2013,Broj,DONJI ZABAR,Oba spola,Nepoznato,2
+2013,Broj,DONJI ZABAR,M,Nepoznato,1
+2013,Broj,DONJI ZABAR,Ž,Nepoznato,1
+2013,Broj,ZVORNIK,Oba spola,Nepoznato,97
+2013,Broj,ZVORNIK,M,Nepoznato,42
+2013,Broj,ZVORNIK,Ž,Nepoznato,55
+2013,Broj,ISTOCNA ILIDZA,Oba spola,Nepoznato,10
+2013,Broj,ISTOCNA ILIDZA,M,Nepoznato,5
+2013,Broj,ISTOCNA ILIDZA,Ž,Nepoznato,5
+2013,Broj,ISTOCNI MOSTAR,Oba spola,Nepoznato,2
+2013,Broj,ISTOCNI MOSTAR,M,Nepoznato,1
+2013,Broj,ISTOCNI MOSTAR,Ž,Nepoznato,1
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,Nepoznato,1
+2013,Broj,ISTOCNI STARI GRAD,M,Nepoznato,1
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,Nepoznato,3
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Nepoznato,3
+2013,Broj,JEZERO,Oba spola,Nepoznato,1
+2013,Broj,JEZERO,M,Nepoznato,1
+2013,Broj,KNEZEVO,Oba spola,Nepoznato,4
+2013,Broj,KNEZEVO,M,Nepoznato,3
+2013,Broj,KNEZEVO,Ž,Nepoznato,1
+2013,Broj,KOZARSKA DUBICA,Oba spola,Nepoznato,12
+2013,Broj,KOZARSKA DUBICA,M,Nepoznato,5
+2013,Broj,KOZARSKA DUBICA,Ž,Nepoznato,7
+2013,Broj,KOSTAJNICA,Oba spola,Nepoznato,2
+2013,Broj,KOSTAJNICA,Ž,Nepoznato,2
+2013,Broj,KOTOR VAROS,Oba spola,Nepoznato,19
+2013,Broj,KOTOR VAROS,M,Nepoznato,14
+2013,Broj,KOTOR VAROS,Ž,Nepoznato,5
+2013,Broj,LAKTASI,Oba spola,Nepoznato,46
+2013,Broj,LAKTASI,M,Nepoznato,20
+2013,Broj,LAKTASI,Ž,Nepoznato,26
+2013,Broj,LOPARE,Oba spola,Nepoznato,10
+2013,Broj,LOPARE,M,Nepoznato,6
+2013,Broj,LOPARE,Ž,Nepoznato,4
+2013,Broj,LJUBINJE,Oba spola,Nepoznato,2
+2013,Broj,LJUBINJE,M,Nepoznato,1
+2013,Broj,LJUBINJE,Ž,Nepoznato,1
+2013,Broj,MILICI,Oba spola,Nepoznato,8
+2013,Broj,MILICI,M,Nepoznato,3
+2013,Broj,MILICI,Ž,Nepoznato,5
+2013,Broj,MODRICA,Oba spola,Nepoznato,116
+2013,Broj,MODRICA,M,Nepoznato,62
+2013,Broj,MODRICA,Ž,Nepoznato,54
+2013,Broj,MRKONJIC GRAD,Oba spola,Nepoznato,12
+2013,Broj,MRKONJIC GRAD,M,Nepoznato,6
+2013,Broj,MRKONJIC GRAD,Ž,Nepoznato,6
+2013,Broj,NEVESINJE,Oba spola,Nepoznato,7
+2013,Broj,NEVESINJE,M,Nepoznato,2
+2013,Broj,NEVESINJE,Ž,Nepoznato,5
+2013,Broj,NOVI GRAD,Oba spola,Nepoznato,24
+2013,Broj,NOVI GRAD,M,Nepoznato,13
+2013,Broj,NOVI GRAD,Ž,Nepoznato,11
+2013,Broj,NOVO GORAZDE,Oba spola,Nepoznato,7
+2013,Broj,NOVO GORAZDE,M,Nepoznato,2
+2013,Broj,NOVO GORAZDE,Ž,Nepoznato,5
+2013,Broj,OSMACI,Oba spola,Nepoznato,4
+2013,Broj,OSMACI,M,Nepoznato,2
+2013,Broj,OSMACI,Ž,Nepoznato,2
+2013,Broj,OSTRA LUKA,Oba spola,Nepoznato,3
+2013,Broj,OSTRA LUKA,M,Nepoznato,2
+2013,Broj,OSTRA LUKA,Ž,Nepoznato,1
+2013,Broj,PALE,Oba spola,Nepoznato,13
+2013,Broj,PALE,M,Nepoznato,9
+2013,Broj,PALE,Ž,Nepoznato,4
+2013,Broj,PELAGICEVO,Oba spola,Nepoznato,5
+2013,Broj,PELAGICEVO,M,Nepoznato,1
+2013,Broj,PELAGICEVO,Ž,Nepoznato,4
+2013,Broj,PETROVO,Oba spola,Nepoznato,4
+2013,Broj,PETROVO,M,Nepoznato,2
+2013,Broj,PETROVO,Ž,Nepoznato,2
+2013,Broj,PRIJEDOR,Oba spola,Nepoznato,369
+2013,Broj,PRIJEDOR,M,Nepoznato,257
+2013,Broj,PRIJEDOR,Ž,Nepoznato,112
+2013,Broj,PRNJAVOR,Oba spola,Nepoznato,30
+2013,Broj,PRNJAVOR,M,Nepoznato,10
+2013,Broj,PRNJAVOR,Ž,Nepoznato,20
+2013,Broj,RIBNIK,Oba spola,Nepoznato,2
+2013,Broj,RIBNIK,M,Nepoznato,2
+2013,Broj,ROGATICA,Oba spola,Nepoznato,5
+2013,Broj,ROGATICA,M,Nepoznato,2
+2013,Broj,ROGATICA,Ž,Nepoznato,3
+2013,Broj,RUDO,Oba spola,Nepoznato,3
+2013,Broj,RUDO,Ž,Nepoznato,3
+2013,Broj,SOKOLAC,Oba spola,Nepoznato,18
+2013,Broj,SOKOLAC,M,Nepoznato,5
+2013,Broj,SOKOLAC,Ž,Nepoznato,13
+2013,Broj,SRBAC,Oba spola,Nepoznato,29
+2013,Broj,SRBAC,M,Nepoznato,11
+2013,Broj,SRBAC,Ž,Nepoznato,18
+2013,Broj,SREBRENICA,Oba spola,Nepoznato,14
+2013,Broj,SREBRENICA,M,Nepoznato,8
+2013,Broj,SREBRENICA,Ž,Nepoznato,6
+2013,Broj,TESLIC,Oba spola,Nepoznato,44
+2013,Broj,TESLIC,M,Nepoznato,23
+2013,Broj,TESLIC,Ž,Nepoznato,21
+2013,Broj,TREBINJE,Oba spola,Nepoznato,19
+2013,Broj,TREBINJE,M,Nepoznato,11
+2013,Broj,TREBINJE,Ž,Nepoznato,8
+2013,Broj,UGLJEVIK,Oba spola,Nepoznato,13
+2013,Broj,UGLJEVIK,M,Nepoznato,11
+2013,Broj,UGLJEVIK,Ž,Nepoznato,2
+2013,Broj,FOCA,Oba spola,Nepoznato,12
+2013,Broj,FOCA,M,Nepoznato,5
+2013,Broj,FOCA,Ž,Nepoznato,7
+2013,Broj,CAJNICE,Oba spola,Nepoznato,5
+2013,Broj,CAJNICE,M,Nepoznato,2
+2013,Broj,CAJNICE,Ž,Nepoznato,3
+2013,Broj,CELINAC,Oba spola,Nepoznato,9
+2013,Broj,CELINAC,M,Nepoznato,4
+2013,Broj,CELINAC,Ž,Nepoznato,5
+2013,Broj,SAMAC,Oba spola,Nepoznato,19
+2013,Broj,SAMAC,M,Nepoznato,10
+2013,Broj,SAMAC,Ž,Nepoznato,9
+2013,Broj,SEKOVICI,Oba spola,Nepoznato,8
+2013,Broj,SEKOVICI,M,Nepoznato,3
+2013,Broj,SEKOVICI,Ž,Nepoznato,5
+2013,Broj,SIPOVO,Oba spola,Nepoznato,5
+2013,Broj,SIPOVO,M,Nepoznato,3
+2013,Broj,SIPOVO,Ž,Nepoznato,2

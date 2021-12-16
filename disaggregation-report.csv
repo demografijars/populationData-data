@@ -1,21 +1,22 @@
 Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,15,177
-AGRICULTURAL_ACTIVITY,Agricultural activity,Poljoprivredna aktivnost,AGRICULTURAL_ACTIVITY,Poljoprivredna aktivnost,1,2
+AGE,Age,Starosna dob,Старосна доб,Starosna dob,14,177
+Agricultural households,Agricultural households,Agricultural households,Agricultural households,Agricultural households,1,3
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,3
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),3,22
-Ethnicity_national_affiliation,Ethnicity/national affiliation,Etnička/nacionalna pripadnost,Ethnicity_national_affiliation,Etnička/nacionalna pripadnost,1,18
-Highest_education_atainment,Highest education atainment,Najviši dostignuti stepen obrazovanja,Highest_education_atainment,Najviši dostignuti stupanj obrazovanja,1,7
-Literacy,Literacy,Literacy,Literacy,Literacy,1,2
-LIVE_BORN_CHILDREN,Live-born children,Živorođena djeca,LIVE_BORN_CHILDREN,Živorođena djeca,1,11
+Disabilities,Disabilities,Disabilities,Disabilities,Disabilities,1,9
+Education,Education,Education,Education,Education,1,8
+Literacy,Literacy,Literacy,Literacy,Literacy,1,4
+Live births,Live births,Live births,Live births,Live births,1,7
 MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
-Mother_tongue,Mother tongue,Maternji jezik,Mother_tongue,Materinski jezik,1,18
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,8
+Mother tounge,Mother tounge,Mother tounge,Mother tounge,Mother tounge,1,6
+Nationality,Nationality,Nationality,Nationality,Nationality,1,7
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,7
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,36
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-Religion,Religion,Religija,Religion,Religija,1,20
+Religion,Religion,Religija,Religion,Religija,1,9
 school_year_end,End of the school year,Kraj školske godine,school_year_end,Kraj školske godine,1,10
-SEX,Sex,Spol,Пол,Spol,51,4
-Teritory,Teritory,Teritory,Teritory,Teritory,2,74
+SEX,Sex,Spol,Пол,Spol,53,4
+Teritory,Teritory,Teritory,Teritory,Teritory,11,74
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,Type_of_institution,2,5
 type_of_institution,Type of institution,Vrsta ustanove,type_of_institution,Vrsta ustanove,1,3

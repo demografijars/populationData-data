@@ -1,21 +1,10 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-Adventist,Adventist,Adventist,Adventist,Adventist,3,1
-Agnostic,Agnostic,Agnostik,Agnostic,Agnostik,3,1
-Atheist,Atheist,Ateist,Atheist,Ateist,3,1
-Bosniak,Bosniak,Bošnjački,Bosniak,Bošnjački,3,1
-Bosnian,Bosnian,Bosanski,Bosnian,Bosanski,3,1
-Catholic,Catholic,Katolička,Catholic,Katolička,3,1
-Christian,Christian,Kršćanska,Christian,Kršćanska,3,1
-Croat,Croat,Hrvat,Croat,Hrvat,3,1
-Greek_Catholic,Greek Catholic,Grkokatolička,Greek_Catholic,Grkokatolička,3,1
-Islam,Islam,Islam,Islam,Islam,3,1
-jehovah_s_witnesses,Jehovah's Witnesses,Jehovini svjedoci,jehovah_s_witnesses,Jehovini svjedoci,3,1
-Muslim,Muslim,Muslimanska,Muslim,Muslimanska,3,1
-Orthodox,Orthodox,Pravoslavna,Orthodox,Pravoslavna,3,1
-Others,Others,Drugo,Others,Drugo,3,1
-Protestant,Protestant,Protestantska,Protestant,Protestantska,3,1
-Roman_Catholic,Roman Catholic,Rimokatolička,Roman_Catholic,Rimokatolička,3,1
-Romani,Romani,Romski,Romani,Romski,3,1
-Serbian,Serbian,Srpski,Serbian,Srpski,3,1
-Undeclared,Undaclared,Neopredijeljen,Undeclared,Neopredijeljen,3,1
-Unknown,Unknown,Unknown,Unknown,Unknown,3,1
+_T,Total,Ukupno,_T,Ukupno,189,1
+agnostic,agnostic,agnostic,agnostic,agnostic,124,1
+atheist,atheist,atheist,atheist,atheist,164,1
+catholic,catholic,catholic,catholic,catholic,176,1
+does_not_declare,does_not_declare,does_not_declare,does_not_declare,does_not_declare,166,1
+islam,islam,islam,islam,islam,176,1
+ortodox,ortodox,ortodox,ortodox,ortodox,189,1
+other,Other,Drugo,Друго,Drugo,167,1
+unknown,Unknown,Nepoznato,Непознато,Nepoznato,165,1

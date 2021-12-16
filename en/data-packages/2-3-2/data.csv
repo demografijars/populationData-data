@@ -1,3 +1,190 @@
-Year,UNIT_MEASURE,Agricultural activity,Value
-2013,Number,Performing agricultural activity,363394
-2013,Number,Performing agricultural activity and selling agricultural products in the market,56609
+Year,UNIT_MEASURE,Teritory,Agricultural households,Value
+2013,Number,REPUBLIKA SRPSKA,Total,408825
+2013,Number,BANJA LUKA,Total,65010
+2013,Number,BERKOVICI,Total,636
+2013,Number,BIJELJINA,Total,34309
+2013,Number,BILECA,Total,3307
+2013,Number,BRATUNAC,Total,5945
+2013,Number,BROD,Total,5599
+2013,Number,VISEGRAD,Total,3966
+2013,Number,VLASENICA,Total,3712
+2013,Number,VUKOSAVLJE,Total,1537
+2013,Number,GACKO,Total,2766
+2013,Number,GRADISKA,Total,16939
+2013,Number,DERVENTA,Total,9345
+2013,Number,DOBOJ,Total,25447
+2013,Number,DONJI ZABAR,Total,1191
+2013,Number,ZVORNIK,Total,17690
+2013,Number,ISTOCNA ILIDZA,Total,4981
+2013,Number,ISTOCNI DRVAR,Total,38
+2013,Number,ISTOCNI MOSTAR,Total,83
+2013,Number,ISTOCNI STARI GRAD,Total,438
+2013,Number,ISTOCNO NOVO SARAJEVO,Total,3819
+2013,Number,JEZERO,Total,365
+2013,Number,KALINOVIK,Total,783
+2013,Number,KNEZEVO,Total,3168
+2013,Number,KOZARSKA DUBICA,Total,7492
+2013,Number,KOSTAJNICA,Total,1896
+2013,Number,KOTOR VAROS,Total,5863
+2013,Number,KRUPA NA UNI,Total,543
+2013,Number,KUPRES,Total,128
+2013,Number,LAKTASI,Total,11293
+2013,Number,LOPARE,Total,5081
+2013,Number,LJUBINJE,Total,1077
+2013,Number,MILICI,Total,3579
+2013,Number,MODRICA,Total,8553
+2013,Number,MRKONJIC GRAD,Total,6104
+2013,Number,NEVESINJE,Total,3985
+2013,Number,NOVI GRAD,Total,8792
+2013,Number,NOVO GORAZDE,Total,1078
+2013,Number,OSMACI,Total,1675
+2013,Number,OSTRA LUKA,Total,971
+2013,Number,PALE,Total,7158
+2013,Number,PELAGICEVO,Total,1787
+2013,Number,PETROVAC,Total,130
+2013,Number,PETROVO,Total,2532
+2013,Number,PRIJEDOR,Total,27961
+2013,Number,PRNJAVOR,Total,12166
+2013,Number,RIBNIK,Total,2252
+2013,Number,ROGATICA,Total,3871
+2013,Number,RUDO,Total,2847
+2013,Number,SOKOLAC,Total,4276
+2013,Number,SRBAC,Total,6157
+2013,Number,SREBRENICA,Total,3792
+2013,Number,TESLIC,Total,13255
+2013,Number,TREBINJE,Total,9394
+2013,Number,TRNOVO,Total,800
+2013,Number,UGLJEVIK,Total,4867
+2013,Number,FOCA,Total,6544
+2013,Number,HAN PIJESAK,Total,1390
+2013,Number,CAJNICE,Total,1662
+2013,Number,CELINAC,Total,5009
+2013,Number,SAMAC,Total,5609
+2013,Number,SEKOVICI,Total,2517
+2013,Number,SIPOVO,Total,3665
+2013,Number,REPUBLIKA SRPSKA,agricultural_households,140960
+2013,Number,BANJA LUKA,agricultural_households,8832
+2013,Number,BERKOVICI,agricultural_households,450
+2013,Number,BIJELJINA,agricultural_households,10563
+2013,Number,BILECA,agricultural_households,1659
+2013,Number,BRATUNAC,agricultural_households,3166
+2013,Number,BROD,agricultural_households,1512
+2013,Number,VISEGRAD,agricultural_households,963
+2013,Number,VLASENICA,agricultural_households,1381
+2013,Number,VUKOSAVLJE,agricultural_households,532
+2013,Number,GACKO,agricultural_households,986
+2013,Number,GRADISKA,agricultural_households,6402
+2013,Number,DERVENTA,agricultural_households,3038
+2013,Number,DOBOJ,agricultural_households,9221
+2013,Number,DONJI ZABAR,agricultural_households,617
+2013,Number,ZVORNIK,agricultural_households,7120
+2013,Number,ISTOCNA ILIDZA,agricultural_households,1045
+2013,Number,ISTOCNI DRVAR,agricultural_households,11
+2013,Number,ISTOCNI MOSTAR,agricultural_households,60
+2013,Number,ISTOCNI STARI GRAD,agricultural_households,262
+2013,Number,ISTOCNO NOVO SARAJEVO,agricultural_households,505
+2013,Number,JEZERO,agricultural_households,99
+2013,Number,KALINOVIK,agricultural_households,365
+2013,Number,KNEZEVO,agricultural_households,1920
+2013,Number,KOZARSKA DUBICA,agricultural_households,2974
+2013,Number,KOSTAJNICA,agricultural_households,746
+2013,Number,KOTOR VAROS,agricultural_households,1826
+2013,Number,KRUPA NA UNI,agricultural_households,453
+2013,Number,KUPRES,agricultural_households,85
+2013,Number,LAKTASI,agricultural_households,3882
+2013,Number,LOPARE,agricultural_households,2416
+2013,Number,LJUBINJE,agricultural_households,598
+2013,Number,MILICI,agricultural_households,1395
+2013,Number,MODRICA,agricultural_households,2793
+2013,Number,MRKONJIC GRAD,agricultural_households,2540
+2013,Number,NEVESINJE,agricultural_households,2062
+2013,Number,NOVI GRAD,agricultural_households,3770
+2013,Number,NOVO GORAZDE,agricultural_households,431
+2013,Number,OSMACI,agricultural_households,1002
+2013,Number,OSTRA LUKA,agricultural_households,572
+2013,Number,PALE,agricultural_households,1527
+2013,Number,PELAGICEVO,agricultural_households,869
+2013,Number,PETROVAC,agricultural_households,54
+2013,Number,PETROVO,agricultural_households,1388
+2013,Number,PRIJEDOR,agricultural_households,8920
+2013,Number,PRNJAVOR,agricultural_households,6121
+2013,Number,RIBNIK,agricultural_households,1579
+2013,Number,ROGATICA,agricultural_households,1481
+2013,Number,RUDO,agricultural_households,1466
+2013,Number,SOKOLAC,agricultural_households,1586
+2013,Number,SRBAC,agricultural_households,2852
+2013,Number,SREBRENICA,agricultural_households,1905
+2013,Number,TESLIC,agricultural_households,7062
+2013,Number,TREBINJE,agricultural_households,2485
+2013,Number,TRNOVO,agricultural_households,341
+2013,Number,UGLJEVIK,agricultural_households,2419
+2013,Number,FOCA,agricultural_households,1965
+2013,Number,HAN PIJESAK,agricultural_households,448
+2013,Number,CAJNICE,agricultural_households,884
+2013,Number,CELINAC,agricultural_households,2592
+2013,Number,SAMAC,agricultural_households,2223
+2013,Number,SEKOVICI,agricultural_households,890
+2013,Number,SIPOVO,agricultural_households,1649
+2013,Number,REPUBLIKA SRPSKA,agricultural_selling,25335
+2013,Number,BANJA LUKA,agricultural_selling,593
+2013,Number,BERKOVICI,agricultural_selling,234
+2013,Number,BIJELJINA,agricultural_selling,4977
+2013,Number,BILECA,agricultural_selling,213
+2013,Number,BRATUNAC,agricultural_selling,704
+2013,Number,BROD,agricultural_selling,134
+2013,Number,VISEGRAD,agricultural_selling,97
+2013,Number,VLASENICA,agricultural_selling,241
+2013,Number,VUKOSAVLJE,agricultural_selling,74
+2013,Number,GACKO,agricultural_selling,437
+2013,Number,GRADISKA,agricultural_selling,2285
+2013,Number,DERVENTA,agricultural_selling,455
+2013,Number,DOBOJ,agricultural_selling,515
+2013,Number,DONJI ZABAR,agricultural_selling,219
+2013,Number,ZVORNIK,agricultural_selling,770
+2013,Number,ISTOCNA ILIDZA,agricultural_selling,51
+2013,Number,ISTOCNI DRVAR,agricultural_selling,1
+2013,Number,ISTOCNI MOSTAR,agricultural_selling,9
+2013,Number,ISTOCNI STARI GRAD,agricultural_selling,35
+2013,Number,ISTOCNO NOVO SARAJEVO,agricultural_selling,43
+2013,Number,JEZERO,agricultural_selling,9
+2013,Number,KALINOVIK,agricultural_selling,93
+2013,Number,KNEZEVO,agricultural_selling,305
+2013,Number,KOZARSKA DUBICA,agricultural_selling,860
+2013,Number,KOSTAJNICA,agricultural_selling,193
+2013,Number,KOTOR VAROS,agricultural_selling,139
+2013,Number,KRUPA NA UNI,agricultural_selling,288
+2013,Number,KUPRES,agricultural_selling,72
+2013,Number,LAKTASI,agricultural_selling,662
+2013,Number,LOPARE,agricultural_selling,668
+2013,Number,LJUBINJE,agricultural_selling,269
+2013,Number,MILICI,agricultural_selling,185
+2013,Number,MODRICA,agricultural_selling,420
+2013,Number,MRKONJIC GRAD,agricultural_selling,257
+2013,Number,NEVESINJE,agricultural_selling,702
+2013,Number,NOVI GRAD,agricultural_selling,499
+2013,Number,NOVO GORAZDE,agricultural_selling,87
+2013,Number,OSMACI,agricultural_selling,159
+2013,Number,OSTRA LUKA,agricultural_selling,57
+2013,Number,PALE,agricultural_selling,99
+2013,Number,PELAGICEVO,agricultural_selling,256
+2013,Number,PETROVAC,agricultural_selling,12
+2013,Number,PETROVO,agricultural_selling,61
+2013,Number,PRIJEDOR,agricultural_selling,798
+2013,Number,PRNJAVOR,agricultural_selling,986
+2013,Number,RIBNIK,agricultural_selling,93
+2013,Number,ROGATICA,agricultural_selling,265
+2013,Number,RUDO,agricultural_selling,244
+2013,Number,SOKOLAC,agricultural_selling,292
+2013,Number,SRBAC,agricultural_selling,594
+2013,Number,SREBRENICA,agricultural_selling,469
+2013,Number,TESLIC,agricultural_selling,576
+2013,Number,TREBINJE,agricultural_selling,327
+2013,Number,TRNOVO,agricultural_selling,17
+2013,Number,UGLJEVIK,agricultural_selling,632
+2013,Number,FOCA,agricultural_selling,262
+2013,Number,HAN PIJESAK,agricultural_selling,75
+2013,Number,CAJNICE,agricultural_selling,131
+2013,Number,CELINAC,agricultural_selling,191
+2013,Number,SAMAC,agricultural_selling,616
+2013,Number,SEKOVICI,agricultural_selling,81
+2013,Number,SIPOVO,agricultural_selling,247

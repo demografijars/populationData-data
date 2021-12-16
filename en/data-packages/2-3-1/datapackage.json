@@ -16,17 +16,102 @@
             "constraints": {
               "enum": [
                 "",
-                "2 members",
-                "3 members",
-                "4 members",
-                "5 members",
-                "6 members",
-                "7 members",
-                "8+ members",
-                "1 member"
+                "5+",
+                "Total",
+                "average_number",
+                "four_members",
+                "one_member",
+                "three_members",
+                "two_members"
               ]
             },
             "title": "Household size"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Teritory",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "BANJA LUKA",
+                "BERKOVICI",
+                "BIJELJINA",
+                "BILECA",
+                "BRATUNAC",
+                "BROD",
+                "CAJNICE",
+                "CELINAC",
+                "DERVENTA",
+                "DOBOJ",
+                "DONJI ZABAR",
+                "FOCA",
+                "GACKO",
+                "GRADISKA",
+                "HAN PIJESAK",
+                "ISTOCNA ILIDZA",
+                "ISTOCNI DRVAR",
+                "ISTOCNI MOSTAR",
+                "ISTOCNI STARI GRAD",
+                "ISTOCNO NOVO SARAJEVO",
+                "JEZERO",
+                "KALINOVIK",
+                "KNEZEVO",
+                "KOSTAJNICA",
+                "KOTOR VAROS",
+                "KOZARSKA DUBICA",
+                "KRUPA NA UNI",
+                "KUPRES",
+                "LAKTASI",
+                "LJUBINJE",
+                "LOPARE",
+                "MILICI",
+                "MODRICA",
+                "MRKONJIC GRAD",
+                "NEVESINJE",
+                "NOVI GRAD",
+                "NOVO GORAZDE",
+                "OSMACI",
+                "OSTRA LUKA",
+                "PALE",
+                "PELAGICEVO",
+                "PETROVAC",
+                "PETROVO",
+                "PRIJEDOR",
+                "PRNJAVOR",
+                "REPUBLIKA SRPSKA",
+                "RIBNIK",
+                "ROGATICA",
+                "RUDO",
+                "SAMAC",
+                "SEKOVICI",
+                "SIPOVO",
+                "SOKOLAC",
+                "SRBAC",
+                "SREBRENICA",
+                "TESLIC",
+                "TREBINJE",
+                "TRNOVO",
+                "UGLJEVIK",
+                "VISEGRAD",
+                "VLASENICA",
+                "VUKOSAVLJE",
+                "ZVORNIK"
+              ]
+            },
+            "title": "Teritory"
           },
           {
             "name": "UNIT_MEASURE",
@@ -35,7 +120,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
