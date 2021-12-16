@@ -1,5 +1,11 @@
-Year,UNIT_MEASURE,Value
-2004,% of total,18.1
-2007,% of total,18.4
-2011,% of total,17.2
-2015,% of total,16.5
+Year,UNIT_MEASURE,Sex,Value
+2004,% of total,T,16.1
+2007,% of total,T,17.3
+2011,% of total,T,14.8
+2015,% of total,T,13.9
+2007,% of total,M,15.4
+2011,% of total,M,13.5
+2015,% of total,M,12.1
+2007,% of total,F,24.0
+2011,% of total,F,18.7
+2015,% of total,F,18.6

@@ -4496,6 +4496,19 @@
             "title": "Мјерна јединица"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"

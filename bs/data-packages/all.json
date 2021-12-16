@@ -4496,6 +4496,19 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Spol"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
