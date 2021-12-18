@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "REPUBLIKA SRPSKA",
-                "GRAD BANJA LUKA",
+                "grad_banja_luka",
                 "BERKOVICI",
                 "GRAD BIJELJINA",
-                "BILECA",
-                "BRATUNAC",
+                "bileca",
+                "bratunac",
                 "BROD",
                 "VISEGRAD",
                 "VLASENICA",

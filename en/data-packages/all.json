@@ -4958,15 +4958,12 @@
               "enum": [
                 "",
                 "BERKOVICI",
-                "BILECA",
-                "BRATUNAC",
                 "BROD",
                 "CAJNICE",
                 "CELINAC",
                 "DONJI ZABAR",
                 "FOCA",
                 "GACKO",
-                "GRAD BANJA LUKA",
                 "GRAD BIJELJINA",
                 "GRAD DERVENTA",
                 "GRAD DOBOJ",
@@ -5021,7 +5018,10 @@
                 "UGLJEVIK",
                 "VISEGRAD",
                 "VLASENICA",
-                "VUKOSAVLJE"
+                "VUKOSAVLJE",
+                "bileca",
+                "bratunac",
+                "grad_banja_luka"
               ]
             },
             "title": "Teritory"
