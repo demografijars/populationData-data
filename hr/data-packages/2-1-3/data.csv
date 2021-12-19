@@ -1,7 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,Ukupno,1170342
-2013,Broj,REPUBLIKA SRPSKA,M,Ukupno,571812
-2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,598530
+Year,UNIT_MEASURE,Općina,Spol,Starosna dob,Value
 2013,Broj,BANJA LUKA,Oba spola,Ukupno,180053
 2013,Broj,BANJA LUKA,M,Ukupno,86510
 2013,Broj,BANJA LUKA,Ž,Ukupno,93543
@@ -188,9 +185,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,Ukupno,9969
 2013,Broj,SIPOVO,M,Ukupno,5046
 2013,Broj,SIPOVO,Ž,Ukupno,4923
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,0-4,53405
-2013,Broj,REPUBLIKA SRPSKA,M,0-4,27393
-2013,Broj,REPUBLIKA SRPSKA,Ž,0-4,26012
 2013,Broj,BANJA LUKA,Oba spola,0-4,9436
 2013,Broj,BANJA LUKA,M,0-4,4803
 2013,Broj,BANJA LUKA,Ž,0-4,4633
@@ -377,9 +371,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,0-4,424
 2013,Broj,SIPOVO,M,0-4,230
 2013,Broj,SIPOVO,Ž,0-4,194
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,5-9,54076
-2013,Broj,REPUBLIKA SRPSKA,M,5-9,27716
-2013,Broj,REPUBLIKA SRPSKA,Ž,5-9,26360
 2013,Broj,BANJA LUKA,Oba spola,5-9,8511
 2013,Broj,BANJA LUKA,M,5-9,4351
 2013,Broj,BANJA LUKA,Ž,5-9,4160
@@ -566,9 +557,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,5-9,453
 2013,Broj,SIPOVO,M,5-9,241
 2013,Broj,SIPOVO,Ž,5-9,212
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,10-14,57326
-2013,Broj,REPUBLIKA SRPSKA,M,10-14,29411
-2013,Broj,REPUBLIKA SRPSKA,Ž,10-14,27915
 2013,Broj,BANJA LUKA,Oba spola,10-14,8447
 2013,Broj,BANJA LUKA,M,10-14,4330
 2013,Broj,BANJA LUKA,Ž,10-14,4117
@@ -755,9 +743,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,10-14,538
 2013,Broj,SIPOVO,M,10-14,268
 2013,Broj,SIPOVO,Ž,10-14,270
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,15-19,70815
-2013,Broj,REPUBLIKA SRPSKA,M,15-19,36577
-2013,Broj,REPUBLIKA SRPSKA,Ž,15-19,34238
 2013,Broj,BANJA LUKA,Oba spola,15-19,10287
 2013,Broj,BANJA LUKA,M,15-19,5233
 2013,Broj,BANJA LUKA,Ž,15-19,5054
@@ -944,9 +929,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,15-19,573
 2013,Broj,SIPOVO,M,15-19,314
 2013,Broj,SIPOVO,Ž,15-19,259
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,20-24,65363
-2013,Broj,REPUBLIKA SRPSKA,M,20-24,33893
-2013,Broj,REPUBLIKA SRPSKA,Ž,20-24,31470
 2013,Broj,BANJA LUKA,Oba spola,20-24,10117
 2013,Broj,BANJA LUKA,M,20-24,4996
 2013,Broj,BANJA LUKA,Ž,20-24,5121
@@ -1133,9 +1115,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,20-24,530
 2013,Broj,SIPOVO,M,20-24,280
 2013,Broj,SIPOVO,Ž,20-24,250
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,25-29,76753
-2013,Broj,REPUBLIKA SRPSKA,M,25-29,39159
-2013,Broj,REPUBLIKA SRPSKA,Ž,25-29,37594
 2013,Broj,BANJA LUKA,Oba spola,25-29,12698
 2013,Broj,BANJA LUKA,M,25-29,6210
 2013,Broj,BANJA LUKA,Ž,25-29,6488
@@ -1322,9 +1301,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,25-29,616
 2013,Broj,SIPOVO,M,25-29,330
 2013,Broj,SIPOVO,Ž,25-29,286
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,30-34,80472
-2013,Broj,REPUBLIKA SRPSKA,M,30-34,40809
-2013,Broj,REPUBLIKA SRPSKA,Ž,30-34,39663
 2013,Broj,BANJA LUKA,Oba spola,30-34,14924
 2013,Broj,BANJA LUKA,M,30-34,7203
 2013,Broj,BANJA LUKA,Ž,30-34,7721
@@ -1511,9 +1487,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,30-34,655
 2013,Broj,SIPOVO,M,30-34,362
 2013,Broj,SIPOVO,Ž,30-34,293
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,35-39,80588
-2013,Broj,REPUBLIKA SRPSKA,M,35-39,41264
-2013,Broj,REPUBLIKA SRPSKA,Ž,35-39,39324
 2013,Broj,BANJA LUKA,Oba spola,35-39,14426
 2013,Broj,BANJA LUKA,M,35-39,7198
 2013,Broj,BANJA LUKA,Ž,35-39,7228
@@ -1700,9 +1673,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,35-39,615
 2013,Broj,SIPOVO,M,35-39,328
 2013,Broj,SIPOVO,Ž,35-39,287
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,40-44,75683
-2013,Broj,REPUBLIKA SRPSKA,M,40-44,38704
-2013,Broj,REPUBLIKA SRPSKA,Ž,40-44,36979
 2013,Broj,BANJA LUKA,Oba spola,40-44,12136
 2013,Broj,BANJA LUKA,M,40-44,6117
 2013,Broj,BANJA LUKA,Ž,40-44,6019
@@ -1889,9 +1859,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,40-44,512
 2013,Broj,SIPOVO,M,40-44,288
 2013,Broj,SIPOVO,Ž,40-44,224
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,45-49,82810
-2013,Broj,REPUBLIKA SRPSKA,M,45-49,41422
-2013,Broj,REPUBLIKA SRPSKA,Ž,45-49,41388
 2013,Broj,BANJA LUKA,Oba spola,45-49,11694
 2013,Broj,BANJA LUKA,M,45-49,5719
 2013,Broj,BANJA LUKA,Ž,45-49,5975
@@ -2078,9 +2045,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,45-49,623
 2013,Broj,SIPOVO,M,45-49,324
 2013,Broj,SIPOVO,Ž,45-49,299
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,50-54,92000
-2013,Broj,REPUBLIKA SRPSKA,M,50-54,45159
-2013,Broj,REPUBLIKA SRPSKA,Ž,50-54,46841
 2013,Broj,BANJA LUKA,Oba spola,50-54,13344
 2013,Broj,BANJA LUKA,M,50-54,6289
 2013,Broj,BANJA LUKA,Ž,50-54,7055
@@ -2267,9 +2231,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,50-54,810
 2013,Broj,SIPOVO,M,50-54,420
 2013,Broj,SIPOVO,Ž,50-54,390
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,55-59,93458
-2013,Broj,REPUBLIKA SRPSKA,M,55-59,45289
-2013,Broj,REPUBLIKA SRPSKA,Ž,55-59,48169
 2013,Broj,BANJA LUKA,Oba spola,55-59,13975
 2013,Broj,BANJA LUKA,M,55-59,6507
 2013,Broj,BANJA LUKA,Ž,55-59,7468
@@ -2456,9 +2417,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,55-59,970
 2013,Broj,SIPOVO,M,55-59,497
 2013,Broj,SIPOVO,Ž,55-59,473
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,60-64,87204
-2013,Broj,REPUBLIKA SRPSKA,M,60-64,41420
-2013,Broj,REPUBLIKA SRPSKA,Ž,60-64,45784
 2013,Broj,BANJA LUKA,Oba spola,60-64,12816
 2013,Broj,BANJA LUKA,M,60-64,5878
 2013,Broj,BANJA LUKA,Ž,60-64,6938
@@ -2645,9 +2603,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,60-64,779
 2013,Broj,SIPOVO,M,60-64,380
 2013,Broj,SIPOVO,Ž,60-64,399
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,65-69,60073
-2013,Broj,REPUBLIKA SRPSKA,M,65-69,27337
-2013,Broj,REPUBLIKA SRPSKA,Ž,65-69,32736
 2013,Broj,BANJA LUKA,Oba spola,65-69,8896
 2013,Broj,BANJA LUKA,M,65-69,4146
 2013,Broj,BANJA LUKA,Ž,65-69,4750
@@ -2834,9 +2789,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,65-69,526
 2013,Broj,SIPOVO,M,65-69,240
 2013,Broj,SIPOVO,Ž,65-69,286
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,70-74,55148
-2013,Broj,REPUBLIKA SRPSKA,M,70-74,23525
-2013,Broj,REPUBLIKA SRPSKA,Ž,70-74,31623
 2013,Broj,BANJA LUKA,Oba spola,70-74,7288
 2013,Broj,BANJA LUKA,M,70-74,3115
 2013,Broj,BANJA LUKA,Ž,70-74,4173
@@ -3023,9 +2975,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,70-74,411
 2013,Broj,SIPOVO,M,70-74,173
 2013,Broj,SIPOVO,Ž,70-74,238
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,75-79,48037
-2013,Broj,REPUBLIKA SRPSKA,M,75-79,19261
-2013,Broj,REPUBLIKA SRPSKA,Ž,75-79,28776
 2013,Broj,BANJA LUKA,Oba spola,75-79,6258
 2013,Broj,BANJA LUKA,M,75-79,2605
 2013,Broj,BANJA LUKA,Ž,75-79,3653
@@ -3212,9 +3161,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,75-79,510
 2013,Broj,SIPOVO,M,75-79,207
 2013,Broj,SIPOVO,Ž,75-79,303
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,80-84,25566
-2013,Broj,REPUBLIKA SRPSKA,M,80-84,9608
-2013,Broj,REPUBLIKA SRPSKA,Ž,80-84,15958
 2013,Broj,BANJA LUKA,Oba spola,80-84,3262
 2013,Broj,BANJA LUKA,M,80-84,1259
 2013,Broj,BANJA LUKA,Ž,80-84,2003
@@ -3401,9 +3347,6 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,80-84,279
 2013,Broj,SIPOVO,M,80-84,100
 2013,Broj,SIPOVO,Ž,80-84,179
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,85+,11565
-2013,Broj,REPUBLIKA SRPSKA,M,85+,3865
-2013,Broj,REPUBLIKA SRPSKA,Ž,85+,7700
 2013,Broj,BANJA LUKA,Oba spola,85+,1538
 2013,Broj,BANJA LUKA,M,85+,551
 2013,Broj,BANJA LUKA,Ž,85+,987
@@ -3590,135 +3533,192 @@ Year,UNIT_MEASURE,Teritory,Spol,Starosna dob,Value
 2013,Broj,SIPOVO,Oba spola,85+,145
 2013,Broj,SIPOVO,M,85+,64
 2013,Broj,SIPOVO,Ž,85+,81
-2013,Broj,REPUBLIKA SRPSKA,Oba spola,average_age,41.72
-2013,Broj,REPUBLIKA SRPSKA,M,average_age,40.32
-2013,Broj,REPUBLIKA SRPSKA,Ž,average_age,43.05
-2013,Broj,BANJA LUKA,Oba spola,average_age,40.42
-2013,Broj,BANJA LUKA,M,average_age,39.25
-2013,Broj,BANJA LUKA,Ž,average_age,41.50
-2013,Broj,BERKOVICI,Oba spola,average_age,44.25
-2013,Broj,BERKOVICI,M,average_age,42.70
-2013,Broj,BERKOVICI,Ž,average_age,45.83
-2013,Broj,BIJELJINA,Oba spola,average_age,41.25
-2013,Broj,BIJELJINA,M,average_age,40.05
-2013,Broj,BIJELJINA,Ž,average_age,42.40
-2013,Broj,BILECA,Oba spola,average_age,41.96
-2013,Broj,BILECA,M,average_age,40.23
-2013,Broj,BILECA,Ž,average_age,43.72
-2013,Broj,BRATUNAC,Oba spola,average_age,39.29
-2013,Broj,BRATUNAC,M,average_age,37.48
-2013,Broj,BRATUNAC,Ž,average_age,41.06
-2013,Broj,BROD,Oba spola,average_age,41.61
-2013,Broj,BROD,M,average_age,39.94
-2013,Broj,BROD,Ž,average_age,43.20
-2013,Broj,VISEGRAD,Oba spola,average_age,44.92
-2013,Broj,VISEGRAD,M,average_age,43.23
-2013,Broj,VISEGRAD,Ž,average_age,46.47
-2013,Broj,VLASENICA,Oba spola,average_age,39.89
-2013,Broj,VLASENICA,M,average_age,38.42
-2013,Broj,VLASENICA,Ž,average_age,41.29
-2013,Broj,VUKOSAVLJE,Oba spola,average_age,41.18
-2013,Broj,VUKOSAVLJE,M,average_age,39.58
-2013,Broj,VUKOSAVLJE,Ž,average_age,42.77
-2013,Broj,GACKO,Oba spola,average_age,41.16
-2013,Broj,GACKO,M,average_age,39.61
-2013,Broj,GACKO,Ž,average_age,42.77
-2013,Broj,GRADISKA,Oba spola,average_age,42.65
-2013,Broj,GRADISKA,M,average_age,41.27
-2013,Broj,GRADISKA,Ž,average_age,43.96
-2013,Broj,DERVENTA,Oba spola,average_age,42.43
-2013,Broj,DERVENTA,M,average_age,40.95
-2013,Broj,DERVENTA,Ž,average_age,43.85
-2013,Broj,DOBOJ,Oba spola,average_age,42.16
-2013,Broj,DOBOJ,M,average_age,40.63
-2013,Broj,DOBOJ,Ž,average_age,43.60
-2013,Broj,DONJI ZABAR,Oba spola,average_age,42.71
-2013,Broj,DONJI ZABAR,M,average_age,41.41
-2013,Broj,DONJI ZABAR,Ž,average_age,44.03
-2013,Broj,ZVORNIK,Oba spola,average_age,39.39
-2013,Broj,ZVORNIK,M,average_age,38.12
-2013,Broj,ZVORNIK,Ž,average_age,40.62
-2013,Broj,ISTOCNA ILIDZA,Oba spola,average_age,41.57
-2013,Broj,ISTOCNA ILIDZA,M,average_age,40.18
-2013,Broj,ISTOCNA ILIDZA,Ž,average_age,42.84
-2013,Broj,ISTOCNI DRVAR,Oba spola,average_age,50.23
-2013,Broj,ISTOCNI DRVAR,M,average_age,46.89
-2013,Broj,ISTOCNI DRVAR,Ž,average_age,56.91
-2013,Broj,ISTOCNI MOSTAR,Oba spola,average_age,46.12
-2013,Broj,ISTOCNI MOSTAR,M,average_age,43.42
-2013,Broj,ISTOCNI MOSTAR,Ž,average_age,49.64
-2013,Broj,ISTOCNI STARI GRAD,Oba spola,average_age,48.08
-2013,Broj,ISTOCNI STARI GRAD,M,average_age,44.84
-2013,Broj,ISTOCNI STARI GRAD,Ž,average_age,51.26
-2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,average_age,40.31
-2013,Broj,ISTOCNO NOVO SARAJEVO,M,average_age,38.92
-2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,average_age,41.56
-2013,Broj,JEZERO,Oba spola,average_age,41.44
-2013,Broj,JEZERO,M,average_age,40.32
-2013,Broj,JEZERO,Ž,average_age,42.61
-2013,Broj,KALINOVIK,Oba spola,average_age,48.27
-2013,Broj,KALINOVIK,M,average_age,46.59
-2013,Broj,KALINOVIK,Ž,average_age,49.86
-2013,Broj,KNEZEVO,Oba spola,average_age,41.80
-2013,Broj,KNEZEVO,M,average_age,40.40
-2013,Broj,KNEZEVO,Ž,average_age,43.16
-2013,Broj,KOZARSKA DUBICA,Oba spola,average_age,44.33
-2013,Broj,KOZARSKA DUBICA,M,average_age,42.55
-2013,Broj,KOZARSKA DUBICA,Ž,average_age,46.04
-2013,Broj,KOSTAJNICA,Oba spola,average_age,42.71
-2013,Broj,KOSTAJNICA,M,average_age,41.46
-2013,Broj,KOSTAJNICA,Ž,average_age,43.92
-2013,Broj,KOTOR VAROS,Oba spola,average_age,38.43
-2013,Broj,KOTOR VAROS,M,average_age,37.07
-2013,Broj,KOTOR VAROS,Ž,average_age,39.75
-2013,Broj,KRUPA NA UNI,Oba spola,average_age,46.41
-2013,Broj,KRUPA NA UNI,M,average_age,44.46
-2013,Broj,KRUPA NA UNI,Ž,average_age,48.69
-2013,Broj,KUPRES,Oba spola,average_age,54.48
-2013,Broj,KUPRES,M,average_age,51.17
-2013,Broj,KUPRES,Ž,average_age,58.29
-2013,Broj,LAKTASI,Oba spola,average_age,40.15
-2013,Broj,LAKTASI,M,average_age,39.13
-2013,Broj,LAKTASI,Ž,average_age,41.15
-2013,Broj,LOPARE,Oba spola,average_age,43.93
-2013,Broj,LOPARE,M,average_age,42.86
-2013,Broj,LOPARE,Ž,average_age,45.01
-2013,Broj,LJUBINJE,Oba spola,average_age,44.10
-2013,Broj,LJUBINJE,M,average_age,42.16
-2013,Broj,LJUBINJE,Ž,average_age,45.98
-2013,Broj,MILICI,Oba spola,average_age,39.15
-2013,Broj,MILICI,M,average_age,37.78
-2013,Broj,MILICI,Ž,average_age,40.53
-2013,Broj,MODRICA,Oba spola,average_age,42.64
-2013,Broj,MODRICA,M,average_age,41.50
-2013,Broj,MODRICA,Ž,average_age,43.73
-2013,Broj,MRKONJIC GRAD,Oba spola,average_age,43.85
-2013,Broj,MRKONJIC GRAD,M,average_age,42.12
-2013,Broj,MRKONJIC GRAD,Ž,average_age,45.46
-2013,Broj,NEVESINJE,Oba spola,average_age,42.67
-2013,Broj,NEVESINJE,M,average_age,40.89
-2013,Broj,NEVESINJE,Ž,average_age,44.42
-2013,Broj,NOVI GRAD,Oba spola,average_age,43.10
-2013,Broj,NOVI GRAD,M,average_age,41.61
-2013,Broj,NOVI GRAD,Ž,average_age,44.58
-2013,Broj,NOVO GORAZDE,Oba spola,average_age,44.79
-2013,Broj,NOVO GORAZDE,M,average_age,44.35
-2013,Broj,NOVO GORAZDE,Ž,average_age,45.25
-2013,Broj,OSMACI,Oba spola,average_age,39.39
-2013,Broj,OSMACI,M,average_age,38.32
-2013,Broj,OSMACI,Ž,average_age,40.46
-2013,Broj,OSTRA LUKA,Oba spola,average_age,43.14
-2013,Broj,OSTRA LUKA,M,average_age,41.58
-2013,Broj,OSTRA LUKA,Ž,average_age,44.77
-2013,Broj,PALE,Oba spola,average_age,41.70
-2013,Broj,PALE,M,average_age,40.26
-2013,Broj,PALE,Ž,average_age,43.03
-2013,Broj,PELAGICEVO,Oba spola,average_age,47.66
-2013,Broj,PELAGICEVO,M,average_age,45.97
-2013,Broj,PELAGICEVO,Ž,average_age,49.31
-2013,Broj,PETROVAC,Oba spola,average_age,46.48
-2013,Broj,PETROVAC,M,average_age,43.31
-2013,Broj,PETROVAC,Ž,average_age,49.37
+2013,Broj,BANJA LUKA,Oba spola,average_age,40.420048
+2013,Broj,BANJA LUKA,M,average_age,39.251207
+2013,Broj,BANJA LUKA,Ž,average_age,41.50101
+2013,Broj,BERKOVICI,Oba spola,average_age,44.245957
+2013,Broj,BERKOVICI,M,average_age,42.698643
+2013,Broj,BERKOVICI,Ž,average_age,45.828543
+2013,Broj,BIJELJINA,Oba spola,average_age,41.253335
+2013,Broj,BIJELJINA,M,average_age,40.054393
+2013,Broj,BIJELJINA,Ž,average_age,42.399141
+2013,Broj,BILECA,Oba spola,average_age,41.96012
+2013,Broj,BILECA,M,average_age,40.22802
+2013,Broj,BILECA,Ž,average_age,43.720205
+2013,Broj,BRATUNAC,Oba spola,average_age,39.292423
+2013,Broj,BRATUNAC,M,average_age,37.482301
+2013,Broj,BRATUNAC,Ž,average_age,41.058256
+2013,Broj,BROD,Oba spola,average_age,41.61075
+2013,Broj,BROD,M,average_age,39.939504
+2013,Broj,BROD,Ž,average_age,43.203105
+2013,Broj,VISEGRAD,Oba spola,average_age,44.923107
+2013,Broj,VISEGRAD,M,average_age,43.228796
+2013,Broj,VISEGRAD,Ž,average_age,46.473126
+2013,Broj,VLASENICA,Oba spola,average_age,39.891245
+2013,Broj,VLASENICA,M,average_age,38.418447
+2013,Broj,VLASENICA,Ž,average_age,41.290995
+2013,Broj,VUKOSAVLJE,Oba spola,average_age,41.175796
+2013,Broj,VUKOSAVLJE,M,average_age,39.583981
+2013,Broj,VUKOSAVLJE,Ž,average_age,42.772727
+2013,Broj,GACKO,Oba spola,average_age,41.161768
+2013,Broj,GACKO,M,average_age,39.606149
+2013,Broj,GACKO,Ž,average_age,42.766736
+2013,Broj,GRADISKA,Oba spola,average_age,42.652105
+2013,Broj,GRADISKA,M,average_age,41.270255
+2013,Broj,GRADISKA,Ž,average_age,43.962379
+2013,Broj,DERVENTA,Oba spola,average_age,42.433762
+2013,Broj,DERVENTA,M,average_age,40.946234
+2013,Broj,DERVENTA,Ž,average_age,43.846987
+2013,Broj,DOBOJ,Oba spola,average_age,42.158989
+2013,Broj,DOBOJ,M,average_age,40.628348
+2013,Broj,DOBOJ,Ž,average_age,43.599852
+2013,Broj,DONJI ZABAR,Oba spola,average_age,42.70973
+2013,Broj,DONJI ZABAR,M,average_age,41.414463
+2013,Broj,DONJI ZABAR,Ž,average_age,44.031387
+2013,Broj,ZVORNIK,Oba spola,average_age,39.388957
+2013,Broj,ZVORNIK,M,average_age,38.122411
+2013,Broj,ZVORNIK,Ž,average_age,40.61875
+2013,Broj,ISTOCNA ILIDZA,Oba spola,average_age,41.569578
+2013,Broj,ISTOCNA ILIDZA,M,average_age,40.179724
+2013,Broj,ISTOCNA ILIDZA,Ž,average_age,42.843733
+2013,Broj,ISTOCNI DRVAR,Oba spola,average_age,50.227272
+2013,Broj,ISTOCNI DRVAR,M,average_age,46.886363
+2013,Broj,ISTOCNI DRVAR,Ž,average_age,56.90909
+2013,Broj,ISTOCNI MOSTAR,Oba spola,average_age,46.12295
+2013,Broj,ISTOCNI MOSTAR,M,average_age,43.420289
+2013,Broj,ISTOCNI MOSTAR,Ž,average_age,49.641509
+2013,Broj,ISTOCNI STARI GRAD,Oba spola,average_age,48.083333
+2013,Broj,ISTOCNI STARI GRAD,M,average_age,44.835144
+2013,Broj,ISTOCNI STARI GRAD,Ž,average_age,51.262411
+2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,average_age,40.309489
+2013,Broj,ISTOCNO NOVO SARAJEVO,M,average_age,38.923217
+2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,average_age,41.561573
+2013,Broj,JEZERO,Oba spola,average_age,41.435033
+2013,Broj,JEZERO,M,average_age,40.32397
+2013,Broj,JEZERO,Ž,average_age,42.6099
+2013,Broj,KALINOVIK,Oba spola,average_age,48.274719
+2013,Broj,KALINOVIK,M,average_age,46.589473
+2013,Broj,KALINOVIK,Ž,average_age,49.856719
+2013,Broj,KNEZEVO,Oba spola,average_age,41.798142
+2013,Broj,KNEZEVO,M,average_age,40.404576
+2013,Broj,KNEZEVO,Ž,average_age,43.161106
+2013,Broj,KOZARSKA DUBICA,Oba spola,average_age,44.334654
+2013,Broj,KOZARSKA DUBICA,M,average_age,42.550029
+2013,Broj,KOZARSKA DUBICA,Ž,average_age,46.036176
+2013,Broj,KOSTAJNICA,Oba spola,average_age,42.707883
+2013,Broj,KOSTAJNICA,M,average_age,41.457194
+2013,Broj,KOSTAJNICA,Ž,average_age,43.921465
+2013,Broj,KOTOR VAROS,Oba spola,average_age,38.432547
+2013,Broj,KOTOR VAROS,M,average_age,37.067503
+2013,Broj,KOTOR VAROS,Ž,average_age,39.746953
+2013,Broj,KRUPA NA UNI,Oba spola,average_age,46.407692
+2013,Broj,KRUPA NA UNI,M,average_age,44.457788
+2013,Broj,KRUPA NA UNI,Ž,average_age,48.688456
+2013,Broj,KUPRES,Oba spola,average_age,54.477815
+2013,Broj,KUPRES,M,average_age,51.171974
+2013,Broj,KUPRES,Ž,average_age,58.294117
+2013,Broj,LAKTASI,Oba spola,average_age,40.151125
+2013,Broj,LAKTASI,M,average_age,39.129724
+2013,Broj,LAKTASI,Ž,average_age,41.148916
+2013,Broj,LOPARE,Oba spola,average_age,43.929334
+2013,Broj,LOPARE,M,average_age,42.85631
+2013,Broj,LOPARE,Ž,average_age,45.011898
+2013,Broj,LJUBINJE,Oba spola,average_age,44.099427
+2013,Broj,LJUBINJE,M,average_age,42.161665
+2013,Broj,LJUBINJE,Ž,average_age,45.976275
+2013,Broj,MILICI,Oba spola,average_age,39.14763
+2013,Broj,MILICI,M,average_age,37.782178
+2013,Broj,MILICI,Ž,average_age,40.528596
+2013,Broj,MODRICA,Oba spola,average_age,42.642507
+2013,Broj,MODRICA,M,average_age,41.499707
+2013,Broj,MODRICA,Ž,average_age,43.734925
+2013,Broj,MRKONJIC GRAD,Oba spola,average_age,43.852819
+2013,Broj,MRKONJIC GRAD,M,average_age,42.120365
+2013,Broj,MRKONJIC GRAD,Ž,average_age,45.458262
+2013,Broj,NEVESINJE,Oba spola,average_age,42.667756
+2013,Broj,NEVESINJE,M,average_age,40.894002
+2013,Broj,NEVESINJE,Ž,average_age,44.42182
+2013,Broj,NOVI GRAD,Oba spola,average_age,43.101624
+2013,Broj,NOVI GRAD,M,average_age,41.610333
+2013,Broj,NOVI GRAD,Ž,average_age,44.583491
+2013,Broj,NOVO GORAZDE,Oba spola,average_age,44.789365
+2013,Broj,NOVO GORAZDE,M,average_age,"44354,00"
+2013,Broj,NOVO GORAZDE,Ž,average_age,45.250883
+2013,Broj,OSMACI,Oba spola,average_age,39.386224
+2013,Broj,OSMACI,M,average_age,38.3181
+2013,Broj,OSMACI,Ž,average_age,40.45898
+2013,Broj,OSTRA LUKA,Oba spola,average_age,43.138632
+2013,Broj,OSTRA LUKA,M,average_age,41.582251
+2013,Broj,OSTRA LUKA,Ž,average_age,44.774071
+2013,Broj,PALE,Oba spola,average_age,41.700771
+2013,Broj,PALE,M,average_age,40.257697
+2013,Broj,PALE,Ž,average_age,43.025435
+2013,Broj,PELAGICEVO,Oba spola,average_age,47.658329
+2013,Broj,PELAGICEVO,M,average_age,45.965597
+2013,Broj,PELAGICEVO,Ž,average_age,49.30811
+2013,Broj,PETROVAC,Oba spola,average_age,46.477401
+2013,Broj,PETROVAC,M,average_age,43.307692
+2013,Broj,PETROVAC,Ž,average_age,49.372972
+2013,Broj,PETROVO,Oba spola,average_age,45.297609
+2013,Broj,PETROVO,M,average_age,43.387117
+2013,Broj,PETROVO,Ž,average_age,47.073304
+2013,Broj,PRIJEDOR,Oba spola,average_age,42.324163
+2013,Broj,PRIJEDOR,M,average_age,40.9519
+2013,Broj,PRIJEDOR,Ž,average_age,43.627644
+2013,Broj,PRNJAVOR,Oba spola,average_age,42.312425
+2013,Broj,PRNJAVOR,M,average_age,40.714362
+2013,Broj,PRNJAVOR,Ž,average_age,43.819477
+2013,Broj,RIBNIK,Oba spola,average_age,45.039822
+2013,Broj,RIBNIK,M,average_age,43.630689
+2013,Broj,RIBNIK,Ž,average_age,46.424601
+2013,Broj,ROGATICA,Oba spola,average_age,43.613764
+2013,Broj,ROGATICA,M,average_age,42.016425
+2013,Broj,ROGATICA,Ž,average_age,45.151457
+2013,Broj,RUDO,Oba spola,average_age,44.331881
+2013,Broj,RUDO,M,average_age,42.959895
+2013,Broj,RUDO,Ž,average_age,45.741305
+2013,Broj,SOKOLAC,Oba spola,average_age,42.940791
+2013,Broj,SOKOLAC,M,average_age,41.475624
+2013,Broj,SOKOLAC,Ž,average_age,44.362726
+2013,Broj,SRBAC,Oba spola,average_age,42.755034
+2013,Broj,SRBAC,M,average_age,41.333936
+2013,Broj,SRBAC,Ž,average_age,44.119703
+2013,Broj,SREBRENICA,Oba spola,average_age,40.159257
+2013,Broj,SREBRENICA,M,average_age,38.194259
+2013,Broj,SREBRENICA,Ž,average_age,42.035594
+2013,Broj,TESLIC,Oba spola,average_age,40.824793
+2013,Broj,TESLIC,M,average_age,39.197943
+2013,Broj,TESLIC,Ž,average_age,42.329852
+2013,Broj,TREBINJE,Oba spola,average_age,42.199475
+2013,Broj,TREBINJE,M,average_age,40.461555
+2013,Broj,TREBINJE,Ž,average_age,43.851094
+2013,Broj,TRNOVO,Oba spola,average_age,46.057488
+2013,Broj,TRNOVO,M,average_age,44.220356
+2013,Broj,TRNOVO,Ž,average_age,47.757281
+2013,Broj,UGLJEVIK,Oba spola,average_age,41.738722
+2013,Broj,UGLJEVIK,M,average_age,40.79242
+2013,Broj,UGLJEVIK,Ž,average_age,42.701948
+2013,Broj,FOCA,Oba spola,average_age,43.719169
+2013,Broj,FOCA,M,average_age,42.101689
+2013,Broj,FOCA,Ž,average_age,45.370114
+2013,Broj,HAN PIJESAK,Oba spola,average_age,45.785486
+2013,Broj,HAN PIJESAK,M,average_age,43.691176
+2013,Broj,HAN PIJESAK,Ž,average_age,47.670711
+2013,Broj,CAJNICE,Oba spola,average_age,43.058132
+2013,Broj,CAJNICE,M,average_age,41.126544
+2013,Broj,CAJNICE,Ž,average_age,45.002144
+2013,Broj,CELINAC,Oba spola,average_age,40.097836
+2013,Broj,CELINAC,M,average_age,38.8371
+2013,Broj,CELINAC,Ž,average_age,41.331675
+2013,Broj,SAMAC,Oba spola,average_age,43.842285
+2013,Broj,SAMAC,M,average_age,42.16047
+2013,Broj,SAMAC,Ž,average_age,45.425595
+2013,Broj,SEKOVICI,Oba spola,average_age,43.082397
+2013,Broj,SEKOVICI,M,average_age,42.088946
+2013,Broj,SEKOVICI,Ž,average_age,44.039751
+2013,Broj,SIPOVO,Oba spola,average_age,42.965793
+2013,Broj,SIPOVO,M,average_age,41.380499
+2013,Broj,SIPOVO,Ž,average_age,44.590696
 2013,Broj,PETROVO,Oba spola,average_age,45.30
 2013,Broj,PETROVO,M,average_age,43.39
 2013,Broj,PETROVO,Ž,average_age,47.07

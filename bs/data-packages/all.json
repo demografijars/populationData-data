@@ -1915,11 +1915,10 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "REPUBLIKA SRPSKA",
                 "BANJA LUKA",
                 "BERKOVICI",
                 "BIJELJINA",
@@ -1985,7 +1984,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Općina"
           },
           {
             "name": "SEX",

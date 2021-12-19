@@ -21,11 +21,10 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Teritory",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "REPUBLIKA SRPSKA",
                 "BANJA LUKA",
                 "BERKOVICI",
                 "BIJELJINA",
@@ -91,7 +90,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Oпштина"
           },
           {
             "name": "SEX",

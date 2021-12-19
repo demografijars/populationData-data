@@ -1935,20 +1935,7 @@
             "title": "Age"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1998,7 +1985,6 @@
                 "PETROVO",
                 "PRIJEDOR",
                 "PRNJAVOR",
-                "REPUBLIKA SRPSKA",
                 "RIBNIK",
                 "ROGATICA",
                 "RUDO",
@@ -2018,7 +2004,20 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Municipality"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

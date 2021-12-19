@@ -1,7 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,Age,Value
-2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1170342
-2013,Number,REPUBLIKA SRPSKA,M,Total,571812
-2013,Number,REPUBLIKA SRPSKA,F,Total,598530
+Year,UNIT_MEASURE,Municipality,Sex,Age,Value
 2013,Number,BANJA LUKA,Both sexes,Total,180053
 2013,Number,BANJA LUKA,M,Total,86510
 2013,Number,BANJA LUKA,F,Total,93543
@@ -188,9 +185,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,Total,9969
 2013,Number,SIPOVO,M,Total,5046
 2013,Number,SIPOVO,F,Total,4923
-2013,Number,REPUBLIKA SRPSKA,Both sexes,0-4,53405
-2013,Number,REPUBLIKA SRPSKA,M,0-4,27393
-2013,Number,REPUBLIKA SRPSKA,F,0-4,26012
 2013,Number,BANJA LUKA,Both sexes,0-4,9436
 2013,Number,BANJA LUKA,M,0-4,4803
 2013,Number,BANJA LUKA,F,0-4,4633
@@ -377,9 +371,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,0-4,424
 2013,Number,SIPOVO,M,0-4,230
 2013,Number,SIPOVO,F,0-4,194
-2013,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54076
-2013,Number,REPUBLIKA SRPSKA,M,5-9,27716
-2013,Number,REPUBLIKA SRPSKA,F,5-9,26360
 2013,Number,BANJA LUKA,Both sexes,5-9,8511
 2013,Number,BANJA LUKA,M,5-9,4351
 2013,Number,BANJA LUKA,F,5-9,4160
@@ -566,9 +557,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,5-9,453
 2013,Number,SIPOVO,M,5-9,241
 2013,Number,SIPOVO,F,5-9,212
-2013,Number,REPUBLIKA SRPSKA,Both sexes,10-14,57326
-2013,Number,REPUBLIKA SRPSKA,M,10-14,29411
-2013,Number,REPUBLIKA SRPSKA,F,10-14,27915
 2013,Number,BANJA LUKA,Both sexes,10-14,8447
 2013,Number,BANJA LUKA,M,10-14,4330
 2013,Number,BANJA LUKA,F,10-14,4117
@@ -755,9 +743,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,10-14,538
 2013,Number,SIPOVO,M,10-14,268
 2013,Number,SIPOVO,F,10-14,270
-2013,Number,REPUBLIKA SRPSKA,Both sexes,15-19,70815
-2013,Number,REPUBLIKA SRPSKA,M,15-19,36577
-2013,Number,REPUBLIKA SRPSKA,F,15-19,34238
 2013,Number,BANJA LUKA,Both sexes,15-19,10287
 2013,Number,BANJA LUKA,M,15-19,5233
 2013,Number,BANJA LUKA,F,15-19,5054
@@ -944,9 +929,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,15-19,573
 2013,Number,SIPOVO,M,15-19,314
 2013,Number,SIPOVO,F,15-19,259
-2013,Number,REPUBLIKA SRPSKA,Both sexes,20-24,65363
-2013,Number,REPUBLIKA SRPSKA,M,20-24,33893
-2013,Number,REPUBLIKA SRPSKA,F,20-24,31470
 2013,Number,BANJA LUKA,Both sexes,20-24,10117
 2013,Number,BANJA LUKA,M,20-24,4996
 2013,Number,BANJA LUKA,F,20-24,5121
@@ -1133,9 +1115,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,20-24,530
 2013,Number,SIPOVO,M,20-24,280
 2013,Number,SIPOVO,F,20-24,250
-2013,Number,REPUBLIKA SRPSKA,Both sexes,25-29,76753
-2013,Number,REPUBLIKA SRPSKA,M,25-29,39159
-2013,Number,REPUBLIKA SRPSKA,F,25-29,37594
 2013,Number,BANJA LUKA,Both sexes,25-29,12698
 2013,Number,BANJA LUKA,M,25-29,6210
 2013,Number,BANJA LUKA,F,25-29,6488
@@ -1322,9 +1301,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,25-29,616
 2013,Number,SIPOVO,M,25-29,330
 2013,Number,SIPOVO,F,25-29,286
-2013,Number,REPUBLIKA SRPSKA,Both sexes,30-34,80472
-2013,Number,REPUBLIKA SRPSKA,M,30-34,40809
-2013,Number,REPUBLIKA SRPSKA,F,30-34,39663
 2013,Number,BANJA LUKA,Both sexes,30-34,14924
 2013,Number,BANJA LUKA,M,30-34,7203
 2013,Number,BANJA LUKA,F,30-34,7721
@@ -1511,9 +1487,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,30-34,655
 2013,Number,SIPOVO,M,30-34,362
 2013,Number,SIPOVO,F,30-34,293
-2013,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80588
-2013,Number,REPUBLIKA SRPSKA,M,35-39,41264
-2013,Number,REPUBLIKA SRPSKA,F,35-39,39324
 2013,Number,BANJA LUKA,Both sexes,35-39,14426
 2013,Number,BANJA LUKA,M,35-39,7198
 2013,Number,BANJA LUKA,F,35-39,7228
@@ -1700,9 +1673,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,35-39,615
 2013,Number,SIPOVO,M,35-39,328
 2013,Number,SIPOVO,F,35-39,287
-2013,Number,REPUBLIKA SRPSKA,Both sexes,40-44,75683
-2013,Number,REPUBLIKA SRPSKA,M,40-44,38704
-2013,Number,REPUBLIKA SRPSKA,F,40-44,36979
 2013,Number,BANJA LUKA,Both sexes,40-44,12136
 2013,Number,BANJA LUKA,M,40-44,6117
 2013,Number,BANJA LUKA,F,40-44,6019
@@ -1889,9 +1859,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,40-44,512
 2013,Number,SIPOVO,M,40-44,288
 2013,Number,SIPOVO,F,40-44,224
-2013,Number,REPUBLIKA SRPSKA,Both sexes,45-49,82810
-2013,Number,REPUBLIKA SRPSKA,M,45-49,41422
-2013,Number,REPUBLIKA SRPSKA,F,45-49,41388
 2013,Number,BANJA LUKA,Both sexes,45-49,11694
 2013,Number,BANJA LUKA,M,45-49,5719
 2013,Number,BANJA LUKA,F,45-49,5975
@@ -2078,9 +2045,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,45-49,623
 2013,Number,SIPOVO,M,45-49,324
 2013,Number,SIPOVO,F,45-49,299
-2013,Number,REPUBLIKA SRPSKA,Both sexes,50-54,92000
-2013,Number,REPUBLIKA SRPSKA,M,50-54,45159
-2013,Number,REPUBLIKA SRPSKA,F,50-54,46841
 2013,Number,BANJA LUKA,Both sexes,50-54,13344
 2013,Number,BANJA LUKA,M,50-54,6289
 2013,Number,BANJA LUKA,F,50-54,7055
@@ -2267,9 +2231,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,50-54,810
 2013,Number,SIPOVO,M,50-54,420
 2013,Number,SIPOVO,F,50-54,390
-2013,Number,REPUBLIKA SRPSKA,Both sexes,55-59,93458
-2013,Number,REPUBLIKA SRPSKA,M,55-59,45289
-2013,Number,REPUBLIKA SRPSKA,F,55-59,48169
 2013,Number,BANJA LUKA,Both sexes,55-59,13975
 2013,Number,BANJA LUKA,M,55-59,6507
 2013,Number,BANJA LUKA,F,55-59,7468
@@ -2456,9 +2417,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,55-59,970
 2013,Number,SIPOVO,M,55-59,497
 2013,Number,SIPOVO,F,55-59,473
-2013,Number,REPUBLIKA SRPSKA,Both sexes,60-64,87204
-2013,Number,REPUBLIKA SRPSKA,M,60-64,41420
-2013,Number,REPUBLIKA SRPSKA,F,60-64,45784
 2013,Number,BANJA LUKA,Both sexes,60-64,12816
 2013,Number,BANJA LUKA,M,60-64,5878
 2013,Number,BANJA LUKA,F,60-64,6938
@@ -2645,9 +2603,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,60-64,779
 2013,Number,SIPOVO,M,60-64,380
 2013,Number,SIPOVO,F,60-64,399
-2013,Number,REPUBLIKA SRPSKA,Both sexes,65-69,60073
-2013,Number,REPUBLIKA SRPSKA,M,65-69,27337
-2013,Number,REPUBLIKA SRPSKA,F,65-69,32736
 2013,Number,BANJA LUKA,Both sexes,65-69,8896
 2013,Number,BANJA LUKA,M,65-69,4146
 2013,Number,BANJA LUKA,F,65-69,4750
@@ -2834,9 +2789,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,65-69,526
 2013,Number,SIPOVO,M,65-69,240
 2013,Number,SIPOVO,F,65-69,286
-2013,Number,REPUBLIKA SRPSKA,Both sexes,70-74,55148
-2013,Number,REPUBLIKA SRPSKA,M,70-74,23525
-2013,Number,REPUBLIKA SRPSKA,F,70-74,31623
 2013,Number,BANJA LUKA,Both sexes,70-74,7288
 2013,Number,BANJA LUKA,M,70-74,3115
 2013,Number,BANJA LUKA,F,70-74,4173
@@ -3023,9 +2975,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,70-74,411
 2013,Number,SIPOVO,M,70-74,173
 2013,Number,SIPOVO,F,70-74,238
-2013,Number,REPUBLIKA SRPSKA,Both sexes,75-79,48037
-2013,Number,REPUBLIKA SRPSKA,M,75-79,19261
-2013,Number,REPUBLIKA SRPSKA,F,75-79,28776
 2013,Number,BANJA LUKA,Both sexes,75-79,6258
 2013,Number,BANJA LUKA,M,75-79,2605
 2013,Number,BANJA LUKA,F,75-79,3653
@@ -3212,9 +3161,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,75-79,510
 2013,Number,SIPOVO,M,75-79,207
 2013,Number,SIPOVO,F,75-79,303
-2013,Number,REPUBLIKA SRPSKA,Both sexes,80-84,25566
-2013,Number,REPUBLIKA SRPSKA,M,80-84,9608
-2013,Number,REPUBLIKA SRPSKA,F,80-84,15958
 2013,Number,BANJA LUKA,Both sexes,80-84,3262
 2013,Number,BANJA LUKA,M,80-84,1259
 2013,Number,BANJA LUKA,F,80-84,2003
@@ -3401,9 +3347,6 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,80-84,279
 2013,Number,SIPOVO,M,80-84,100
 2013,Number,SIPOVO,F,80-84,179
-2013,Number,REPUBLIKA SRPSKA,Both sexes,85+,11565
-2013,Number,REPUBLIKA SRPSKA,M,85+,3865
-2013,Number,REPUBLIKA SRPSKA,F,85+,7700
 2013,Number,BANJA LUKA,Both sexes,85+,1538
 2013,Number,BANJA LUKA,M,85+,551
 2013,Number,BANJA LUKA,F,85+,987
@@ -3590,135 +3533,192 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,SIPOVO,Both sexes,85+,145
 2013,Number,SIPOVO,M,85+,64
 2013,Number,SIPOVO,F,85+,81
-2013,Number,REPUBLIKA SRPSKA,Both sexes,Average age,41.72
-2013,Number,REPUBLIKA SRPSKA,M,Average age,40.32
-2013,Number,REPUBLIKA SRPSKA,F,Average age,43.05
-2013,Number,BANJA LUKA,Both sexes,Average age,40.42
-2013,Number,BANJA LUKA,M,Average age,39.25
-2013,Number,BANJA LUKA,F,Average age,41.50
-2013,Number,BERKOVICI,Both sexes,Average age,44.25
-2013,Number,BERKOVICI,M,Average age,42.70
-2013,Number,BERKOVICI,F,Average age,45.83
-2013,Number,BIJELJINA,Both sexes,Average age,41.25
-2013,Number,BIJELJINA,M,Average age,40.05
-2013,Number,BIJELJINA,F,Average age,42.40
-2013,Number,BILECA,Both sexes,Average age,41.96
-2013,Number,BILECA,M,Average age,40.23
-2013,Number,BILECA,F,Average age,43.72
-2013,Number,BRATUNAC,Both sexes,Average age,39.29
-2013,Number,BRATUNAC,M,Average age,37.48
-2013,Number,BRATUNAC,F,Average age,41.06
-2013,Number,BROD,Both sexes,Average age,41.61
-2013,Number,BROD,M,Average age,39.94
-2013,Number,BROD,F,Average age,43.20
-2013,Number,VISEGRAD,Both sexes,Average age,44.92
-2013,Number,VISEGRAD,M,Average age,43.23
-2013,Number,VISEGRAD,F,Average age,46.47
-2013,Number,VLASENICA,Both sexes,Average age,39.89
-2013,Number,VLASENICA,M,Average age,38.42
-2013,Number,VLASENICA,F,Average age,41.29
-2013,Number,VUKOSAVLJE,Both sexes,Average age,41.18
-2013,Number,VUKOSAVLJE,M,Average age,39.58
-2013,Number,VUKOSAVLJE,F,Average age,42.77
-2013,Number,GACKO,Both sexes,Average age,41.16
-2013,Number,GACKO,M,Average age,39.61
-2013,Number,GACKO,F,Average age,42.77
-2013,Number,GRADISKA,Both sexes,Average age,42.65
-2013,Number,GRADISKA,M,Average age,41.27
-2013,Number,GRADISKA,F,Average age,43.96
-2013,Number,DERVENTA,Both sexes,Average age,42.43
-2013,Number,DERVENTA,M,Average age,40.95
-2013,Number,DERVENTA,F,Average age,43.85
-2013,Number,DOBOJ,Both sexes,Average age,42.16
-2013,Number,DOBOJ,M,Average age,40.63
-2013,Number,DOBOJ,F,Average age,43.60
-2013,Number,DONJI ZABAR,Both sexes,Average age,42.71
-2013,Number,DONJI ZABAR,M,Average age,41.41
-2013,Number,DONJI ZABAR,F,Average age,44.03
-2013,Number,ZVORNIK,Both sexes,Average age,39.39
-2013,Number,ZVORNIK,M,Average age,38.12
-2013,Number,ZVORNIK,F,Average age,40.62
-2013,Number,ISTOCNA ILIDZA,Both sexes,Average age,41.57
-2013,Number,ISTOCNA ILIDZA,M,Average age,40.18
-2013,Number,ISTOCNA ILIDZA,F,Average age,42.84
-2013,Number,ISTOCNI DRVAR,Both sexes,Average age,50.23
-2013,Number,ISTOCNI DRVAR,M,Average age,46.89
-2013,Number,ISTOCNI DRVAR,F,Average age,56.91
-2013,Number,ISTOCNI MOSTAR,Both sexes,Average age,46.12
-2013,Number,ISTOCNI MOSTAR,M,Average age,43.42
-2013,Number,ISTOCNI MOSTAR,F,Average age,49.64
-2013,Number,ISTOCNI STARI GRAD,Both sexes,Average age,48.08
-2013,Number,ISTOCNI STARI GRAD,M,Average age,44.84
-2013,Number,ISTOCNI STARI GRAD,F,Average age,51.26
-2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,Average age,40.31
-2013,Number,ISTOCNO NOVO SARAJEVO,M,Average age,38.92
-2013,Number,ISTOCNO NOVO SARAJEVO,F,Average age,41.56
-2013,Number,JEZERO,Both sexes,Average age,41.44
-2013,Number,JEZERO,M,Average age,40.32
-2013,Number,JEZERO,F,Average age,42.61
-2013,Number,KALINOVIK,Both sexes,Average age,48.27
-2013,Number,KALINOVIK,M,Average age,46.59
-2013,Number,KALINOVIK,F,Average age,49.86
-2013,Number,KNEZEVO,Both sexes,Average age,41.80
-2013,Number,KNEZEVO,M,Average age,40.40
-2013,Number,KNEZEVO,F,Average age,43.16
-2013,Number,KOZARSKA DUBICA,Both sexes,Average age,44.33
-2013,Number,KOZARSKA DUBICA,M,Average age,42.55
-2013,Number,KOZARSKA DUBICA,F,Average age,46.04
-2013,Number,KOSTAJNICA,Both sexes,Average age,42.71
-2013,Number,KOSTAJNICA,M,Average age,41.46
-2013,Number,KOSTAJNICA,F,Average age,43.92
-2013,Number,KOTOR VAROS,Both sexes,Average age,38.43
-2013,Number,KOTOR VAROS,M,Average age,37.07
-2013,Number,KOTOR VAROS,F,Average age,39.75
-2013,Number,KRUPA NA UNI,Both sexes,Average age,46.41
-2013,Number,KRUPA NA UNI,M,Average age,44.46
-2013,Number,KRUPA NA UNI,F,Average age,48.69
-2013,Number,KUPRES,Both sexes,Average age,54.48
-2013,Number,KUPRES,M,Average age,51.17
-2013,Number,KUPRES,F,Average age,58.29
-2013,Number,LAKTASI,Both sexes,Average age,40.15
-2013,Number,LAKTASI,M,Average age,39.13
-2013,Number,LAKTASI,F,Average age,41.15
-2013,Number,LOPARE,Both sexes,Average age,43.93
-2013,Number,LOPARE,M,Average age,42.86
-2013,Number,LOPARE,F,Average age,45.01
-2013,Number,LJUBINJE,Both sexes,Average age,44.10
-2013,Number,LJUBINJE,M,Average age,42.16
-2013,Number,LJUBINJE,F,Average age,45.98
-2013,Number,MILICI,Both sexes,Average age,39.15
-2013,Number,MILICI,M,Average age,37.78
-2013,Number,MILICI,F,Average age,40.53
-2013,Number,MODRICA,Both sexes,Average age,42.64
-2013,Number,MODRICA,M,Average age,41.50
-2013,Number,MODRICA,F,Average age,43.73
-2013,Number,MRKONJIC GRAD,Both sexes,Average age,43.85
-2013,Number,MRKONJIC GRAD,M,Average age,42.12
-2013,Number,MRKONJIC GRAD,F,Average age,45.46
-2013,Number,NEVESINJE,Both sexes,Average age,42.67
-2013,Number,NEVESINJE,M,Average age,40.89
-2013,Number,NEVESINJE,F,Average age,44.42
-2013,Number,NOVI GRAD,Both sexes,Average age,43.10
-2013,Number,NOVI GRAD,M,Average age,41.61
-2013,Number,NOVI GRAD,F,Average age,44.58
-2013,Number,NOVO GORAZDE,Both sexes,Average age,44.79
-2013,Number,NOVO GORAZDE,M,Average age,44.35
-2013,Number,NOVO GORAZDE,F,Average age,45.25
-2013,Number,OSMACI,Both sexes,Average age,39.39
-2013,Number,OSMACI,M,Average age,38.32
-2013,Number,OSMACI,F,Average age,40.46
-2013,Number,OSTRA LUKA,Both sexes,Average age,43.14
-2013,Number,OSTRA LUKA,M,Average age,41.58
-2013,Number,OSTRA LUKA,F,Average age,44.77
-2013,Number,PALE,Both sexes,Average age,41.70
-2013,Number,PALE,M,Average age,40.26
-2013,Number,PALE,F,Average age,43.03
-2013,Number,PELAGICEVO,Both sexes,Average age,47.66
-2013,Number,PELAGICEVO,M,Average age,45.97
-2013,Number,PELAGICEVO,F,Average age,49.31
-2013,Number,PETROVAC,Both sexes,Average age,46.48
-2013,Number,PETROVAC,M,Average age,43.31
-2013,Number,PETROVAC,F,Average age,49.37
+2013,Number,BANJA LUKA,Both sexes,Average age,40.420048
+2013,Number,BANJA LUKA,M,Average age,39.251207
+2013,Number,BANJA LUKA,F,Average age,41.50101
+2013,Number,BERKOVICI,Both sexes,Average age,44.245957
+2013,Number,BERKOVICI,M,Average age,42.698643
+2013,Number,BERKOVICI,F,Average age,45.828543
+2013,Number,BIJELJINA,Both sexes,Average age,41.253335
+2013,Number,BIJELJINA,M,Average age,40.054393
+2013,Number,BIJELJINA,F,Average age,42.399141
+2013,Number,BILECA,Both sexes,Average age,41.96012
+2013,Number,BILECA,M,Average age,40.22802
+2013,Number,BILECA,F,Average age,43.720205
+2013,Number,BRATUNAC,Both sexes,Average age,39.292423
+2013,Number,BRATUNAC,M,Average age,37.482301
+2013,Number,BRATUNAC,F,Average age,41.058256
+2013,Number,BROD,Both sexes,Average age,41.61075
+2013,Number,BROD,M,Average age,39.939504
+2013,Number,BROD,F,Average age,43.203105
+2013,Number,VISEGRAD,Both sexes,Average age,44.923107
+2013,Number,VISEGRAD,M,Average age,43.228796
+2013,Number,VISEGRAD,F,Average age,46.473126
+2013,Number,VLASENICA,Both sexes,Average age,39.891245
+2013,Number,VLASENICA,M,Average age,38.418447
+2013,Number,VLASENICA,F,Average age,41.290995
+2013,Number,VUKOSAVLJE,Both sexes,Average age,41.175796
+2013,Number,VUKOSAVLJE,M,Average age,39.583981
+2013,Number,VUKOSAVLJE,F,Average age,42.772727
+2013,Number,GACKO,Both sexes,Average age,41.161768
+2013,Number,GACKO,M,Average age,39.606149
+2013,Number,GACKO,F,Average age,42.766736
+2013,Number,GRADISKA,Both sexes,Average age,42.652105
+2013,Number,GRADISKA,M,Average age,41.270255
+2013,Number,GRADISKA,F,Average age,43.962379
+2013,Number,DERVENTA,Both sexes,Average age,42.433762
+2013,Number,DERVENTA,M,Average age,40.946234
+2013,Number,DERVENTA,F,Average age,43.846987
+2013,Number,DOBOJ,Both sexes,Average age,42.158989
+2013,Number,DOBOJ,M,Average age,40.628348
+2013,Number,DOBOJ,F,Average age,43.599852
+2013,Number,DONJI ZABAR,Both sexes,Average age,42.70973
+2013,Number,DONJI ZABAR,M,Average age,41.414463
+2013,Number,DONJI ZABAR,F,Average age,44.031387
+2013,Number,ZVORNIK,Both sexes,Average age,39.388957
+2013,Number,ZVORNIK,M,Average age,38.122411
+2013,Number,ZVORNIK,F,Average age,40.61875
+2013,Number,ISTOCNA ILIDZA,Both sexes,Average age,41.569578
+2013,Number,ISTOCNA ILIDZA,M,Average age,40.179724
+2013,Number,ISTOCNA ILIDZA,F,Average age,42.843733
+2013,Number,ISTOCNI DRVAR,Both sexes,Average age,50.227272
+2013,Number,ISTOCNI DRVAR,M,Average age,46.886363
+2013,Number,ISTOCNI DRVAR,F,Average age,56.90909
+2013,Number,ISTOCNI MOSTAR,Both sexes,Average age,46.12295
+2013,Number,ISTOCNI MOSTAR,M,Average age,43.420289
+2013,Number,ISTOCNI MOSTAR,F,Average age,49.641509
+2013,Number,ISTOCNI STARI GRAD,Both sexes,Average age,48.083333
+2013,Number,ISTOCNI STARI GRAD,M,Average age,44.835144
+2013,Number,ISTOCNI STARI GRAD,F,Average age,51.262411
+2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,Average age,40.309489
+2013,Number,ISTOCNO NOVO SARAJEVO,M,Average age,38.923217
+2013,Number,ISTOCNO NOVO SARAJEVO,F,Average age,41.561573
+2013,Number,JEZERO,Both sexes,Average age,41.435033
+2013,Number,JEZERO,M,Average age,40.32397
+2013,Number,JEZERO,F,Average age,42.6099
+2013,Number,KALINOVIK,Both sexes,Average age,48.274719
+2013,Number,KALINOVIK,M,Average age,46.589473
+2013,Number,KALINOVIK,F,Average age,49.856719
+2013,Number,KNEZEVO,Both sexes,Average age,41.798142
+2013,Number,KNEZEVO,M,Average age,40.404576
+2013,Number,KNEZEVO,F,Average age,43.161106
+2013,Number,KOZARSKA DUBICA,Both sexes,Average age,44.334654
+2013,Number,KOZARSKA DUBICA,M,Average age,42.550029
+2013,Number,KOZARSKA DUBICA,F,Average age,46.036176
+2013,Number,KOSTAJNICA,Both sexes,Average age,42.707883
+2013,Number,KOSTAJNICA,M,Average age,41.457194
+2013,Number,KOSTAJNICA,F,Average age,43.921465
+2013,Number,KOTOR VAROS,Both sexes,Average age,38.432547
+2013,Number,KOTOR VAROS,M,Average age,37.067503
+2013,Number,KOTOR VAROS,F,Average age,39.746953
+2013,Number,KRUPA NA UNI,Both sexes,Average age,46.407692
+2013,Number,KRUPA NA UNI,M,Average age,44.457788
+2013,Number,KRUPA NA UNI,F,Average age,48.688456
+2013,Number,KUPRES,Both sexes,Average age,54.477815
+2013,Number,KUPRES,M,Average age,51.171974
+2013,Number,KUPRES,F,Average age,58.294117
+2013,Number,LAKTASI,Both sexes,Average age,40.151125
+2013,Number,LAKTASI,M,Average age,39.129724
+2013,Number,LAKTASI,F,Average age,41.148916
+2013,Number,LOPARE,Both sexes,Average age,43.929334
+2013,Number,LOPARE,M,Average age,42.85631
+2013,Number,LOPARE,F,Average age,45.011898
+2013,Number,LJUBINJE,Both sexes,Average age,44.099427
+2013,Number,LJUBINJE,M,Average age,42.161665
+2013,Number,LJUBINJE,F,Average age,45.976275
+2013,Number,MILICI,Both sexes,Average age,39.14763
+2013,Number,MILICI,M,Average age,37.782178
+2013,Number,MILICI,F,Average age,40.528596
+2013,Number,MODRICA,Both sexes,Average age,42.642507
+2013,Number,MODRICA,M,Average age,41.499707
+2013,Number,MODRICA,F,Average age,43.734925
+2013,Number,MRKONJIC GRAD,Both sexes,Average age,43.852819
+2013,Number,MRKONJIC GRAD,M,Average age,42.120365
+2013,Number,MRKONJIC GRAD,F,Average age,45.458262
+2013,Number,NEVESINJE,Both sexes,Average age,42.667756
+2013,Number,NEVESINJE,M,Average age,40.894002
+2013,Number,NEVESINJE,F,Average age,44.42182
+2013,Number,NOVI GRAD,Both sexes,Average age,43.101624
+2013,Number,NOVI GRAD,M,Average age,41.610333
+2013,Number,NOVI GRAD,F,Average age,44.583491
+2013,Number,NOVO GORAZDE,Both sexes,Average age,44.789365
+2013,Number,NOVO GORAZDE,M,Average age,"44354,00"
+2013,Number,NOVO GORAZDE,F,Average age,45.250883
+2013,Number,OSMACI,Both sexes,Average age,39.386224
+2013,Number,OSMACI,M,Average age,38.3181
+2013,Number,OSMACI,F,Average age,40.45898
+2013,Number,OSTRA LUKA,Both sexes,Average age,43.138632
+2013,Number,OSTRA LUKA,M,Average age,41.582251
+2013,Number,OSTRA LUKA,F,Average age,44.774071
+2013,Number,PALE,Both sexes,Average age,41.700771
+2013,Number,PALE,M,Average age,40.257697
+2013,Number,PALE,F,Average age,43.025435
+2013,Number,PELAGICEVO,Both sexes,Average age,47.658329
+2013,Number,PELAGICEVO,M,Average age,45.965597
+2013,Number,PELAGICEVO,F,Average age,49.30811
+2013,Number,PETROVAC,Both sexes,Average age,46.477401
+2013,Number,PETROVAC,M,Average age,43.307692
+2013,Number,PETROVAC,F,Average age,49.372972
+2013,Number,PETROVO,Both sexes,Average age,45.297609
+2013,Number,PETROVO,M,Average age,43.387117
+2013,Number,PETROVO,F,Average age,47.073304
+2013,Number,PRIJEDOR,Both sexes,Average age,42.324163
+2013,Number,PRIJEDOR,M,Average age,40.9519
+2013,Number,PRIJEDOR,F,Average age,43.627644
+2013,Number,PRNJAVOR,Both sexes,Average age,42.312425
+2013,Number,PRNJAVOR,M,Average age,40.714362
+2013,Number,PRNJAVOR,F,Average age,43.819477
+2013,Number,RIBNIK,Both sexes,Average age,45.039822
+2013,Number,RIBNIK,M,Average age,43.630689
+2013,Number,RIBNIK,F,Average age,46.424601
+2013,Number,ROGATICA,Both sexes,Average age,43.613764
+2013,Number,ROGATICA,M,Average age,42.016425
+2013,Number,ROGATICA,F,Average age,45.151457
+2013,Number,RUDO,Both sexes,Average age,44.331881
+2013,Number,RUDO,M,Average age,42.959895
+2013,Number,RUDO,F,Average age,45.741305
+2013,Number,SOKOLAC,Both sexes,Average age,42.940791
+2013,Number,SOKOLAC,M,Average age,41.475624
+2013,Number,SOKOLAC,F,Average age,44.362726
+2013,Number,SRBAC,Both sexes,Average age,42.755034
+2013,Number,SRBAC,M,Average age,41.333936
+2013,Number,SRBAC,F,Average age,44.119703
+2013,Number,SREBRENICA,Both sexes,Average age,40.159257
+2013,Number,SREBRENICA,M,Average age,38.194259
+2013,Number,SREBRENICA,F,Average age,42.035594
+2013,Number,TESLIC,Both sexes,Average age,40.824793
+2013,Number,TESLIC,M,Average age,39.197943
+2013,Number,TESLIC,F,Average age,42.329852
+2013,Number,TREBINJE,Both sexes,Average age,42.199475
+2013,Number,TREBINJE,M,Average age,40.461555
+2013,Number,TREBINJE,F,Average age,43.851094
+2013,Number,TRNOVO,Both sexes,Average age,46.057488
+2013,Number,TRNOVO,M,Average age,44.220356
+2013,Number,TRNOVO,F,Average age,47.757281
+2013,Number,UGLJEVIK,Both sexes,Average age,41.738722
+2013,Number,UGLJEVIK,M,Average age,40.79242
+2013,Number,UGLJEVIK,F,Average age,42.701948
+2013,Number,FOCA,Both sexes,Average age,43.719169
+2013,Number,FOCA,M,Average age,42.101689
+2013,Number,FOCA,F,Average age,45.370114
+2013,Number,HAN PIJESAK,Both sexes,Average age,45.785486
+2013,Number,HAN PIJESAK,M,Average age,43.691176
+2013,Number,HAN PIJESAK,F,Average age,47.670711
+2013,Number,CAJNICE,Both sexes,Average age,43.058132
+2013,Number,CAJNICE,M,Average age,41.126544
+2013,Number,CAJNICE,F,Average age,45.002144
+2013,Number,CELINAC,Both sexes,Average age,40.097836
+2013,Number,CELINAC,M,Average age,38.8371
+2013,Number,CELINAC,F,Average age,41.331675
+2013,Number,SAMAC,Both sexes,Average age,43.842285
+2013,Number,SAMAC,M,Average age,42.16047
+2013,Number,SAMAC,F,Average age,45.425595
+2013,Number,SEKOVICI,Both sexes,Average age,43.082397
+2013,Number,SEKOVICI,M,Average age,42.088946
+2013,Number,SEKOVICI,F,Average age,44.039751
+2013,Number,SIPOVO,Both sexes,Average age,42.965793
+2013,Number,SIPOVO,M,Average age,41.380499
+2013,Number,SIPOVO,F,Average age,44.590696
 2013,Number,PETROVO,Both sexes,Average age,45.30
 2013,Number,PETROVO,M,Average age,43.39
 2013,Number,PETROVO,F,Average age,47.07
