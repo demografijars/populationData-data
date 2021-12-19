@@ -18,7 +18,6 @@
                 "",
                 "certain_conditions_occurred_in_the_perinatal_period",
                 "congenital_anomalies_deformities_and_chromosomal_abnormalities",
-                "Deaths",
                 "diseases_of_ear_and_mastoid_process",
                 "diseases_of_the_blood_and_blood_forming_organs",
                 "diseases_of_the_circulatory_system",
@@ -36,7 +35,8 @@
                 "pregnancy_childbirth_and_puerperium",
                 "skin_and_subcutaneous_tissue_disorders",
                 "special_purpose_codes",
-                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings"
+                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
+                "Total"
               ]
             },
             "title": "Cause of death (as per ICD-10 codes)"
@@ -61,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {

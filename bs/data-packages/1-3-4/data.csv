@@ -1,40 +1,40 @@
 Year,UNIT_MEASURE,Spol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
-2003,Broj,Oba spola,Smrt,12988
-2004,Broj,Oba spola,Smrt,13082
-2005,Broj,Oba spola,Smrt,13802
-2006,Broj,Oba spola,Smrt,13232
-2007,Broj,Oba spola,Smrt,14146
-2008,Broj,Oba spola,Smrt,13501
-2009,Broj,Oba spola,Smrt,13775
-2010,Broj,Oba spola,Smrt,13517
-2011,Broj,Oba spola,Smrt,13658
-2012,Broj,Oba spola,Smrt,13796
-2013,Broj,Oba spola,Smrt,13978
-2014,Broj,Oba spola,Smrt,14409
-2015,Broj,Oba spola,Smrt,15059
-2016,Broj,Oba spola,Smrt,13970
-2017,Broj,Oba spola,Smrt,14663
-2018,Broj,Oba spola,Smrt,14763
-2019,Broj,Oba spola,Smrt,15081
-2020,Broj,Oba spola,Smrt,16582
-2003,Broj,M,Smrt,6804
-2004,Broj,M,Smrt,6735
-2005,Broj,M,Smrt,7239
-2006,Broj,M,Smrt,6904
-2007,Broj,M,Smrt,7302
-2008,Broj,M,Smrt,7058
-2009,Broj,M,Smrt,7099
-2010,Broj,M,Smrt,6935
-2011,Broj,M,Smrt,7001
-2012,Broj,M,Smrt,7064
-2013,Broj,M,Smrt,7237
-2014,Broj,M,Smrt,7386
-2015,Broj,M,Smrt,7640
-2016,Broj,M,Smrt,7198
-2017,Broj,M,Smrt,7363
-2018,Broj,M,Smrt,7449
-2019,Broj,M,Smrt,7753
-2020,Broj,M,Smrt,8613
+2003,Broj,Oba spola,Ukupno,12988
+2004,Broj,Oba spola,Ukupno,13082
+2005,Broj,Oba spola,Ukupno,13802
+2006,Broj,Oba spola,Ukupno,13232
+2007,Broj,Oba spola,Ukupno,14146
+2008,Broj,Oba spola,Ukupno,13501
+2009,Broj,Oba spola,Ukupno,13775
+2010,Broj,Oba spola,Ukupno,13517
+2011,Broj,Oba spola,Ukupno,13658
+2012,Broj,Oba spola,Ukupno,13796
+2013,Broj,Oba spola,Ukupno,13978
+2014,Broj,Oba spola,Ukupno,14409
+2015,Broj,Oba spola,Ukupno,15059
+2016,Broj,Oba spola,Ukupno,13970
+2017,Broj,Oba spola,Ukupno,14663
+2018,Broj,Oba spola,Ukupno,14763
+2019,Broj,Oba spola,Ukupno,15081
+2020,Broj,Oba spola,Ukupno,16582
+2003,Broj,M,Ukupno,6804
+2004,Broj,M,Ukupno,6735
+2005,Broj,M,Ukupno,7239
+2006,Broj,M,Ukupno,6904
+2007,Broj,M,Ukupno,7302
+2008,Broj,M,Ukupno,7058
+2009,Broj,M,Ukupno,7099
+2010,Broj,M,Ukupno,6935
+2011,Broj,M,Ukupno,7001
+2012,Broj,M,Ukupno,7064
+2013,Broj,M,Ukupno,7237
+2014,Broj,M,Ukupno,7386
+2015,Broj,M,Ukupno,7640
+2016,Broj,M,Ukupno,7198
+2017,Broj,M,Ukupno,7363
+2018,Broj,M,Ukupno,7449
+2019,Broj,M,Ukupno,7753
+2020,Broj,M,Ukupno,8613
 2003,Broj,M,infectious_and_parasitic_diseases,59
 2004,Broj,M,infectious_and_parasitic_diseases,75
 2005,Broj,M,infectious_and_parasitic_diseases,78
@@ -143,42 +143,42 @@ Year,UNIT_MEASURE,Spol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,diseases_of_the_nervous_system,82
 2019,Broj,M,diseases_of_the_nervous_system,84
 2020,Broj,M,diseases_of_the_nervous_system,91
-2003,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2004,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2005,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2006,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2007,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2008,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2009,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2010,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2011,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2012,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2013,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2014,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2015,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2016,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2017,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2018,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2019,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2020,Broj,M,eye_diseases_and_eye_soldering_disease,x
-2003,Broj,M,diseases_of_ear_and_mastoid_process,x
-2004,Broj,M,diseases_of_ear_and_mastoid_process,x
+2003,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2004,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2005,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2006,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2007,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2008,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2009,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2010,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2011,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2012,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2013,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2014,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2015,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2016,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2017,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2018,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2019,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2020,Broj,M,eye_diseases_and_eye_soldering_disease,0
+2003,Broj,M,diseases_of_ear_and_mastoid_process,0
+2004,Broj,M,diseases_of_ear_and_mastoid_process,0
 2005,Broj,M,diseases_of_ear_and_mastoid_process,1
-2006,Broj,M,diseases_of_ear_and_mastoid_process,x
+2006,Broj,M,diseases_of_ear_and_mastoid_process,0
 2007,Broj,M,diseases_of_ear_and_mastoid_process,1
-2008,Broj,M,diseases_of_ear_and_mastoid_process,x
-2009,Broj,M,diseases_of_ear_and_mastoid_process,x
-2010,Broj,M,diseases_of_ear_and_mastoid_process,x
-2011,Broj,M,diseases_of_ear_and_mastoid_process,x
-2012,Broj,M,diseases_of_ear_and_mastoid_process,x
-2013,Broj,M,diseases_of_ear_and_mastoid_process,x
-2014,Broj,M,diseases_of_ear_and_mastoid_process,x
-2015,Broj,M,diseases_of_ear_and_mastoid_process,x
-2016,Broj,M,diseases_of_ear_and_mastoid_process,x
-2017,Broj,M,diseases_of_ear_and_mastoid_process,x
-2018,Broj,M,diseases_of_ear_and_mastoid_process,x
-2019,Broj,M,diseases_of_ear_and_mastoid_process,x
-2020,Broj,M,diseases_of_ear_and_mastoid_process,x
+2008,Broj,M,diseases_of_ear_and_mastoid_process,0
+2009,Broj,M,diseases_of_ear_and_mastoid_process,0
+2010,Broj,M,diseases_of_ear_and_mastoid_process,0
+2011,Broj,M,diseases_of_ear_and_mastoid_process,0
+2012,Broj,M,diseases_of_ear_and_mastoid_process,0
+2013,Broj,M,diseases_of_ear_and_mastoid_process,0
+2014,Broj,M,diseases_of_ear_and_mastoid_process,0
+2015,Broj,M,diseases_of_ear_and_mastoid_process,0
+2016,Broj,M,diseases_of_ear_and_mastoid_process,0
+2017,Broj,M,diseases_of_ear_and_mastoid_process,0
+2018,Broj,M,diseases_of_ear_and_mastoid_process,0
+2019,Broj,M,diseases_of_ear_and_mastoid_process,0
+2020,Broj,M,diseases_of_ear_and_mastoid_process,0
 2003,Broj,M,diseases_of_the_circulatory_system,3323
 2004,Broj,M,diseases_of_the_circulatory_system,3383
 2005,Broj,M,diseases_of_the_circulatory_system,3325
@@ -377,24 +377,24 @@ Year,UNIT_MEASURE,Spol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,special_purpose_codes,0
 2019,Broj,M,special_purpose_codes,0
 2020,Broj,M,special_purpose_codes,1030
-2003,Broj,Ž,Smrt,6184
-2004,Broj,Ž,Smrt,6347
-2005,Broj,Ž,Smrt,6563
-2006,Broj,Ž,Smrt,6328
-2007,Broj,Ž,Smrt,6844
-2008,Broj,Ž,Smrt,6443
-2009,Broj,Ž,Smrt,6676
-2010,Broj,Ž,Smrt,6582
-2011,Broj,Ž,Smrt,6657
-2012,Broj,Ž,Smrt,6732
-2013,Broj,Ž,Smrt,6741
-2014,Broj,Ž,Smrt,7023
-2015,Broj,Ž,Smrt,7419
-2016,Broj,Ž,Smrt,6772
-2017,Broj,Ž,Smrt,7300
-2018,Broj,Ž,Smrt,7314
-2019,Broj,Ž,Smrt,7328
-2020,Broj,Ž,Smrt,7969
+2003,Broj,Ž,Ukupno,6184
+2004,Broj,Ž,Ukupno,6347
+2005,Broj,Ž,Ukupno,6563
+2006,Broj,Ž,Ukupno,6328
+2007,Broj,Ž,Ukupno,6844
+2008,Broj,Ž,Ukupno,6443
+2009,Broj,Ž,Ukupno,6676
+2010,Broj,Ž,Ukupno,6582
+2011,Broj,Ž,Ukupno,6657
+2012,Broj,Ž,Ukupno,6732
+2013,Broj,Ž,Ukupno,6741
+2014,Broj,Ž,Ukupno,7023
+2015,Broj,Ž,Ukupno,7419
+2016,Broj,Ž,Ukupno,6772
+2017,Broj,Ž,Ukupno,7300
+2018,Broj,Ž,Ukupno,7314
+2019,Broj,Ž,Ukupno,7328
+2020,Broj,Ž,Ukupno,7969
 2003,Broj,Ž,infectious_and_parasitic_diseases,30
 2004,Broj,Ž,infectious_and_parasitic_diseases,49
 2005,Broj,Ž,infectious_and_parasitic_diseases,50

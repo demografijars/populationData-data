@@ -3162,7 +3162,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Smrt",
+                "Ukupno",
                 "infectious_and_parasitic_diseases",
                 "(C00-C97,D00-D48) Neoplazme",
                 "diseases_of_the_blood_and_blood_forming_organs",
@@ -3190,7 +3190,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

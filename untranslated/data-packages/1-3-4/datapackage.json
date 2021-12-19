@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "deaths",
+                "total",
                 "infectious_and_parasitic_diseases",
                 "neoplasms",
                 "diseases_of_the_blood_and_blood_forming_organs",
@@ -62,7 +62,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

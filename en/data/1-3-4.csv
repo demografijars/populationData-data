@@ -1,40 +1,40 @@
 Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
-2003,Number,Both sexes,Deaths,12988
-2004,Number,Both sexes,Deaths,13082
-2005,Number,Both sexes,Deaths,13802
-2006,Number,Both sexes,Deaths,13232
-2007,Number,Both sexes,Deaths,14146
-2008,Number,Both sexes,Deaths,13501
-2009,Number,Both sexes,Deaths,13775
-2010,Number,Both sexes,Deaths,13517
-2011,Number,Both sexes,Deaths,13658
-2012,Number,Both sexes,Deaths,13796
-2013,Number,Both sexes,Deaths,13978
-2014,Number,Both sexes,Deaths,14409
-2015,Number,Both sexes,Deaths,15059
-2016,Number,Both sexes,Deaths,13970
-2017,Number,Both sexes,Deaths,14663
-2018,Number,Both sexes,Deaths,14763
-2019,Number,Both sexes,Deaths,15081
-2020,Number,Both sexes,Deaths,16582
-2003,Number,M,Deaths,6804
-2004,Number,M,Deaths,6735
-2005,Number,M,Deaths,7239
-2006,Number,M,Deaths,6904
-2007,Number,M,Deaths,7302
-2008,Number,M,Deaths,7058
-2009,Number,M,Deaths,7099
-2010,Number,M,Deaths,6935
-2011,Number,M,Deaths,7001
-2012,Number,M,Deaths,7064
-2013,Number,M,Deaths,7237
-2014,Number,M,Deaths,7386
-2015,Number,M,Deaths,7640
-2016,Number,M,Deaths,7198
-2017,Number,M,Deaths,7363
-2018,Number,M,Deaths,7449
-2019,Number,M,Deaths,7753
-2020,Number,M,Deaths,8613
+2003,Number,Both sexes,Total,12988
+2004,Number,Both sexes,Total,13082
+2005,Number,Both sexes,Total,13802
+2006,Number,Both sexes,Total,13232
+2007,Number,Both sexes,Total,14146
+2008,Number,Both sexes,Total,13501
+2009,Number,Both sexes,Total,13775
+2010,Number,Both sexes,Total,13517
+2011,Number,Both sexes,Total,13658
+2012,Number,Both sexes,Total,13796
+2013,Number,Both sexes,Total,13978
+2014,Number,Both sexes,Total,14409
+2015,Number,Both sexes,Total,15059
+2016,Number,Both sexes,Total,13970
+2017,Number,Both sexes,Total,14663
+2018,Number,Both sexes,Total,14763
+2019,Number,Both sexes,Total,15081
+2020,Number,Both sexes,Total,16582
+2003,Number,M,Total,6804
+2004,Number,M,Total,6735
+2005,Number,M,Total,7239
+2006,Number,M,Total,6904
+2007,Number,M,Total,7302
+2008,Number,M,Total,7058
+2009,Number,M,Total,7099
+2010,Number,M,Total,6935
+2011,Number,M,Total,7001
+2012,Number,M,Total,7064
+2013,Number,M,Total,7237
+2014,Number,M,Total,7386
+2015,Number,M,Total,7640
+2016,Number,M,Total,7198
+2017,Number,M,Total,7363
+2018,Number,M,Total,7449
+2019,Number,M,Total,7753
+2020,Number,M,Total,8613
 2003,Number,M,infectious_and_parasitic_diseases,59
 2004,Number,M,infectious_and_parasitic_diseases,75
 2005,Number,M,infectious_and_parasitic_diseases,78
@@ -143,42 +143,42 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,diseases_of_the_nervous_system,82
 2019,Number,M,diseases_of_the_nervous_system,84
 2020,Number,M,diseases_of_the_nervous_system,91
-2003,Number,M,eye_diseases_and_eye_soldering_disease,x
-2004,Number,M,eye_diseases_and_eye_soldering_disease,x
-2005,Number,M,eye_diseases_and_eye_soldering_disease,x
-2006,Number,M,eye_diseases_and_eye_soldering_disease,x
-2007,Number,M,eye_diseases_and_eye_soldering_disease,x
-2008,Number,M,eye_diseases_and_eye_soldering_disease,x
-2009,Number,M,eye_diseases_and_eye_soldering_disease,x
-2010,Number,M,eye_diseases_and_eye_soldering_disease,x
-2011,Number,M,eye_diseases_and_eye_soldering_disease,x
-2012,Number,M,eye_diseases_and_eye_soldering_disease,x
-2013,Number,M,eye_diseases_and_eye_soldering_disease,x
-2014,Number,M,eye_diseases_and_eye_soldering_disease,x
-2015,Number,M,eye_diseases_and_eye_soldering_disease,x
-2016,Number,M,eye_diseases_and_eye_soldering_disease,x
-2017,Number,M,eye_diseases_and_eye_soldering_disease,x
-2018,Number,M,eye_diseases_and_eye_soldering_disease,x
-2019,Number,M,eye_diseases_and_eye_soldering_disease,x
-2020,Number,M,eye_diseases_and_eye_soldering_disease,x
-2003,Number,M,diseases_of_ear_and_mastoid_process,x
-2004,Number,M,diseases_of_ear_and_mastoid_process,x
+2003,Number,M,eye_diseases_and_eye_soldering_disease,0
+2004,Number,M,eye_diseases_and_eye_soldering_disease,0
+2005,Number,M,eye_diseases_and_eye_soldering_disease,0
+2006,Number,M,eye_diseases_and_eye_soldering_disease,0
+2007,Number,M,eye_diseases_and_eye_soldering_disease,0
+2008,Number,M,eye_diseases_and_eye_soldering_disease,0
+2009,Number,M,eye_diseases_and_eye_soldering_disease,0
+2010,Number,M,eye_diseases_and_eye_soldering_disease,0
+2011,Number,M,eye_diseases_and_eye_soldering_disease,0
+2012,Number,M,eye_diseases_and_eye_soldering_disease,0
+2013,Number,M,eye_diseases_and_eye_soldering_disease,0
+2014,Number,M,eye_diseases_and_eye_soldering_disease,0
+2015,Number,M,eye_diseases_and_eye_soldering_disease,0
+2016,Number,M,eye_diseases_and_eye_soldering_disease,0
+2017,Number,M,eye_diseases_and_eye_soldering_disease,0
+2018,Number,M,eye_diseases_and_eye_soldering_disease,0
+2019,Number,M,eye_diseases_and_eye_soldering_disease,0
+2020,Number,M,eye_diseases_and_eye_soldering_disease,0
+2003,Number,M,diseases_of_ear_and_mastoid_process,0
+2004,Number,M,diseases_of_ear_and_mastoid_process,0
 2005,Number,M,diseases_of_ear_and_mastoid_process,1
-2006,Number,M,diseases_of_ear_and_mastoid_process,x
+2006,Number,M,diseases_of_ear_and_mastoid_process,0
 2007,Number,M,diseases_of_ear_and_mastoid_process,1
-2008,Number,M,diseases_of_ear_and_mastoid_process,x
-2009,Number,M,diseases_of_ear_and_mastoid_process,x
-2010,Number,M,diseases_of_ear_and_mastoid_process,x
-2011,Number,M,diseases_of_ear_and_mastoid_process,x
-2012,Number,M,diseases_of_ear_and_mastoid_process,x
-2013,Number,M,diseases_of_ear_and_mastoid_process,x
-2014,Number,M,diseases_of_ear_and_mastoid_process,x
-2015,Number,M,diseases_of_ear_and_mastoid_process,x
-2016,Number,M,diseases_of_ear_and_mastoid_process,x
-2017,Number,M,diseases_of_ear_and_mastoid_process,x
-2018,Number,M,diseases_of_ear_and_mastoid_process,x
-2019,Number,M,diseases_of_ear_and_mastoid_process,x
-2020,Number,M,diseases_of_ear_and_mastoid_process,x
+2008,Number,M,diseases_of_ear_and_mastoid_process,0
+2009,Number,M,diseases_of_ear_and_mastoid_process,0
+2010,Number,M,diseases_of_ear_and_mastoid_process,0
+2011,Number,M,diseases_of_ear_and_mastoid_process,0
+2012,Number,M,diseases_of_ear_and_mastoid_process,0
+2013,Number,M,diseases_of_ear_and_mastoid_process,0
+2014,Number,M,diseases_of_ear_and_mastoid_process,0
+2015,Number,M,diseases_of_ear_and_mastoid_process,0
+2016,Number,M,diseases_of_ear_and_mastoid_process,0
+2017,Number,M,diseases_of_ear_and_mastoid_process,0
+2018,Number,M,diseases_of_ear_and_mastoid_process,0
+2019,Number,M,diseases_of_ear_and_mastoid_process,0
+2020,Number,M,diseases_of_ear_and_mastoid_process,0
 2003,Number,M,diseases_of_the_circulatory_system,3323
 2004,Number,M,diseases_of_the_circulatory_system,3383
 2005,Number,M,diseases_of_the_circulatory_system,3325
@@ -377,24 +377,24 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,special_purpose_codes,0
 2019,Number,M,special_purpose_codes,0
 2020,Number,M,special_purpose_codes,1030
-2003,Number,F,Deaths,6184
-2004,Number,F,Deaths,6347
-2005,Number,F,Deaths,6563
-2006,Number,F,Deaths,6328
-2007,Number,F,Deaths,6844
-2008,Number,F,Deaths,6443
-2009,Number,F,Deaths,6676
-2010,Number,F,Deaths,6582
-2011,Number,F,Deaths,6657
-2012,Number,F,Deaths,6732
-2013,Number,F,Deaths,6741
-2014,Number,F,Deaths,7023
-2015,Number,F,Deaths,7419
-2016,Number,F,Deaths,6772
-2017,Number,F,Deaths,7300
-2018,Number,F,Deaths,7314
-2019,Number,F,Deaths,7328
-2020,Number,F,Deaths,7969
+2003,Number,F,Total,6184
+2004,Number,F,Total,6347
+2005,Number,F,Total,6563
+2006,Number,F,Total,6328
+2007,Number,F,Total,6844
+2008,Number,F,Total,6443
+2009,Number,F,Total,6676
+2010,Number,F,Total,6582
+2011,Number,F,Total,6657
+2012,Number,F,Total,6732
+2013,Number,F,Total,6741
+2014,Number,F,Total,7023
+2015,Number,F,Total,7419
+2016,Number,F,Total,6772
+2017,Number,F,Total,7300
+2018,Number,F,Total,7314
+2019,Number,F,Total,7328
+2020,Number,F,Total,7969
 2003,Number,F,infectious_and_parasitic_diseases,30
 2004,Number,F,infectious_and_parasitic_diseases,49
 2005,Number,F,infectious_and_parasitic_diseases,50
