@@ -98,7 +98,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -111,7 +111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "one_member",
                 "two_members",
                 "three_members",

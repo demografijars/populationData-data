@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "gymnasium",
                 "technical_schools",
                 "art_schools",
@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""

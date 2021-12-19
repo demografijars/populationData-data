@@ -27,7 +27,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -77,7 +77,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -208,7 +208,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "Нису рађале",
                 "one_child",
                 "two_children",
@@ -249,7 +249,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -442,7 +442,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -455,7 +455,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "Без образовања",
                 "incomplete_elementary",
                 "elementary_education",
@@ -526,7 +526,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -733,7 +733,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "agricultural_households",
                 "agricultural_selling",
                 ""
@@ -814,7 +814,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -953,7 +953,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "0",
                 "1",
                 "2",
@@ -1055,7 +1055,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -1300,7 +1300,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -1447,7 +1447,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -1562,7 +1562,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -1575,7 +1575,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "one_member",
                 "two_members",
                 "three_members",
@@ -1621,7 +1621,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "homes_for_children_and_youth_without_parental_care",
                 "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
                 "social_welfare_institutions_for_adults_with_disabilities",
@@ -1636,7 +1636,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -1736,7 +1736,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -1993,7 +1993,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2006,7 +2006,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -2094,7 +2094,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "gymnasium",
                 "technical_schools",
                 "art_schools",
@@ -2111,7 +2111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2325,7 +2325,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2367,7 +2367,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2496,7 +2496,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -2531,7 +2531,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -2665,7 +2665,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2707,7 +2707,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "minor_beneficiaries",
                 "adult_beneficiaries",
                 ""
@@ -2720,7 +2720,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2835,7 +2835,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2848,7 +2848,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "bosniaks",
                 "croats",
                 "serbs",
@@ -2967,7 +2967,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -2980,7 +2980,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "islam",
                 "catholic",
                 "ortodox",
@@ -3028,7 +3028,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3086,7 +3086,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "homes_for_children_and_youth_without_parental_care",
                 "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
                 "social_welfare_institutions_for_adults_with_disabilities",
@@ -3101,7 +3101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3138,7 +3138,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3217,7 +3217,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -3271,7 +3271,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3383,7 +3383,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3741,7 +3741,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3851,7 +3851,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3951,7 +3951,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -4022,7 +4022,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -4146,7 +4146,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -4261,7 +4261,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -4565,7 +4565,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "minor_beneficiaries",
                 "adult_beneficiaries",
                 ""
@@ -4998,7 +4998,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5030,7 +5030,7 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -5070,7 +5070,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "public",
                 "private",
                 ""
@@ -5112,7 +5112,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5149,7 +5149,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5311,7 +5311,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5324,7 +5324,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "disabilities_T",
                 "eyesight",
                 "hearing",
@@ -5367,7 +5367,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5487,7 +5487,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5500,7 +5500,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "bosnian",
                 "croatian",
                 "serbian",
@@ -5586,7 +5586,7 @@
               "enum": [
                 "M",
                 "Ж",
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -5665,7 +5665,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -5695,7 +5695,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5734,7 +5734,7 @@
               "enum": [
                 "M",
                 "Ж",
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -5832,7 +5832,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -5923,7 +5923,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "gymnasium",
                 "technical_schools",
                 "art_schools",
@@ -5940,7 +5940,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -6055,7 +6055,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -6068,7 +6068,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "illiterate",
                 "illiterates_percentage",
                 "Непознато",
@@ -6111,7 +6111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -6148,7 +6148,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""

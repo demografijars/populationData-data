@@ -1,7 +1,7 @@
 Year,UNIT_MEASURE,Type_of_institution,Пол,Value
-2015,Број,_T,Оба пола,7871
-2015,Број,_T,M,3645
-2015,Број,_T,Ж,4226
+2015,Број,Укупно,Оба пола,7871
+2015,Број,Укупно,M,3645
+2015,Број,Укупно,Ж,4226
 2015,Број,homes_for_children_and_youth_without_parental_care,Оба пола,997
 2015,Број,homes_for_children_and_youth_without_parental_care,M,527
 2015,Број,homes_for_children_and_youth_without_parental_care,Ж,470
@@ -14,9 +14,9 @@ Year,UNIT_MEASURE,Type_of_institution,Пол,Value
 2015,Број,social_welfare_institutions_for_adults,Оба пола,4850
 2015,Број,social_welfare_institutions_for_adults,M,1876
 2015,Број,social_welfare_institutions_for_adults,Ж,2974
-2016,Број,_T,Оба пола,9249
-2016,Број,_T,M,4455
-2016,Број,_T,Ж,4794
+2016,Број,Укупно,Оба пола,9249
+2016,Број,Укупно,M,4455
+2016,Број,Укупно,Ж,4794
 2016,Број,homes_for_children_and_youth_without_parental_care,Оба пола,970
 2016,Број,homes_for_children_and_youth_without_parental_care,M,487
 2016,Број,homes_for_children_and_youth_without_parental_care,Ж,483
@@ -29,9 +29,9 @@ Year,UNIT_MEASURE,Type_of_institution,Пол,Value
 2016,Број,social_welfare_institutions_for_adults,Оба пола,5324
 2016,Број,social_welfare_institutions_for_adults,M,2159
 2016,Број,social_welfare_institutions_for_adults,Ж,3165
-2017,Број,_T,Оба пола,9800
-2017,Број,_T,M,4489
-2017,Број,_T,Ж,5311
+2017,Број,Укупно,Оба пола,9800
+2017,Број,Укупно,M,4489
+2017,Број,Укупно,Ж,5311
 2017,Број,homes_for_children_and_youth_without_parental_care,Оба пола,1070
 2017,Број,homes_for_children_and_youth_without_parental_care,M,538
 2017,Број,homes_for_children_and_youth_without_parental_care,Ж,532
@@ -44,9 +44,9 @@ Year,UNIT_MEASURE,Type_of_institution,Пол,Value
 2017,Број,social_welfare_institutions_for_adults,Оба пола,5778
 2017,Број,social_welfare_institutions_for_adults,M,2187
 2017,Број,social_welfare_institutions_for_adults,Ж,3591
-2018,Број,_T,Оба пола,10232
-2018,Број,_T,M,4710
-2018,Број,_T,Ж,5522
+2018,Број,Укупно,Оба пола,10232
+2018,Број,Укупно,M,4710
+2018,Број,Укупно,Ж,5522
 2018,Број,homes_for_children_and_youth_without_parental_care,Оба пола,965
 2018,Број,homes_for_children_and_youth_without_parental_care,M,476
 2018,Број,homes_for_children_and_youth_without_parental_care,Ж,489
@@ -59,9 +59,9 @@ Year,UNIT_MEASURE,Type_of_institution,Пол,Value
 2018,Број,social_welfare_institutions_for_adults,Оба пола,6284
 2018,Број,social_welfare_institutions_for_adults,M,2436
 2018,Број,social_welfare_institutions_for_adults,Ж,3848
-2019,Број,_T,Оба пола,11443
-2019,Број,_T,M,4968
-2019,Број,_T,Ж,6475
+2019,Број,Укупно,Оба пола,11443
+2019,Број,Укупно,M,4968
+2019,Број,Укупно,Ж,6475
 2019,Број,homes_for_children_and_youth_without_parental_care,Оба пола,1121
 2019,Број,homes_for_children_and_youth_without_parental_care,M,607
 2019,Број,homes_for_children_and_youth_without_parental_care,Ж,514
@@ -74,9 +74,9 @@ Year,UNIT_MEASURE,Type_of_institution,Пол,Value
 2019,Број,social_welfare_institutions_for_adults,Оба пола,7453
 2019,Број,social_welfare_institutions_for_adults,M,2655
 2019,Број,social_welfare_institutions_for_adults,Ж,4798
-2020,Број,_T,Оба пола,10902
-2020,Број,_T,M,4687
-2020,Број,_T,Ж,6215
+2020,Број,Укупно,Оба пола,10902
+2020,Број,Укупно,M,4687
+2020,Број,Укупно,Ж,6215
 2020,Број,homes_for_children_and_youth_without_parental_care,Оба пола,1103
 2020,Број,homes_for_children_and_youth_without_parental_care,M,590
 2020,Број,homes_for_children_and_youth_without_parental_care,Ж,513

@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "minor_beneficiaries",
                 "adult_beneficiaries",
                 ""
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""

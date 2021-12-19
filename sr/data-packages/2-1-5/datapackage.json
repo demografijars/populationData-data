@@ -109,7 +109,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "Нису рађале",
                 "one_child",
                 "two_children",
