@@ -16,11 +16,15 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -29,22 +33,16 @@
             "title": "Пол"
           },
           {
-            "name": "BIRTHS",
+            "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
                 "Живорођени",
                 "Смртни случајеви",
-                "Природно кретање",
                 ""
               ]
             },
-            "title": "Витална статистика"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
+            "title": "Рађање"
           },
           {
             "name": "Value",

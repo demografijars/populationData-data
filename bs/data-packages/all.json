@@ -5144,11 +5144,15 @@
             "title": "Godina"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5157,22 +5161,16 @@
             "title": "Spol"
           },
           {
-            "name": "BIRTHS",
+            "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
                 "Živorođeni",
                 "Smrtni slučajevi",
-                "Prirodno kretanje",
                 ""
               ]
             },
-            "title": "Vitalna statistika"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "Rađanje"
           },
           {
             "name": "Value",

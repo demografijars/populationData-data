@@ -11,17 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "BIRTHS",
+            "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "Deaths",
-                "Live births",
-                "Natural change"
+                "Live births"
               ]
             },
-            "title": "Vital statistics"
+            "title": "Birth"
           },
           {
             "name": "SEX",
@@ -30,8 +29,7 @@
               "enum": [
                 "",
                 "F",
-                "M",
-                "Total"
+                "M"
               ]
             },
             "title": "Sex"
