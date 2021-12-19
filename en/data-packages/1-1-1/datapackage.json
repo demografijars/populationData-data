@@ -29,8 +29,6 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
                 "Total"
               ]
             },
