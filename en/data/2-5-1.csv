@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Disabilities,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1170342
 2013,Number,REPUBLIKA SRPSKA,M,Total,571812
 2013,Number,REPUBLIKA SRPSKA,F,Total,598530
@@ -996,6 +996,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
 2013,Number,ISTOCNA ILIDZA,M,memory,64
 2013,Number,ISTOCNA ILIDZA,F,memory,85
 2013,Number,ISTOCNI DRVAR,Both sexes,memory,1
+2013,Number,ISTOCNI DRVAR,M,memory,0
 2013,Number,ISTOCNI DRVAR,F,memory,1
 2013,Number,ISTOCNI MOSTAR,Both sexes,memory,3
 2013,Number,ISTOCNI MOSTAR,M,memory,2
@@ -1183,6 +1184,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
 2013,Number,ISTOCNA ILIDZA,Both sexes,dressing,175
 2013,Number,ISTOCNA ILIDZA,M,dressing,83
 2013,Number,ISTOCNA ILIDZA,F,dressing,92
+2013,Number,ISTOCNI DRVAR,Both sexes,dressing,0
+2013,Number,ISTOCNI DRVAR,M,dressing,0
+2013,Number,ISTOCNI DRVAR,F,dressing,0
 2013,Number,ISTOCNI MOSTAR,Both sexes,dressing,2
 2013,Number,ISTOCNI MOSTAR,M,dressing,1
 2013,Number,ISTOCNI MOSTAR,F,dressing,1
@@ -1369,6 +1373,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
 2013,Number,ISTOCNA ILIDZA,Both sexes,communication,113
 2013,Number,ISTOCNA ILIDZA,M,communication,54
 2013,Number,ISTOCNA ILIDZA,F,communication,59
+2013,Number,ISTOCNI DRVAR,Both sexes,communication,0
+2013,Number,ISTOCNI DRVAR,M,communication,0
+2013,Number,ISTOCNI DRVAR,F,communication,0
 2013,Number,ISTOCNI MOSTAR,Both sexes,communication,2
 2013,Number,ISTOCNI MOSTAR,M,communication,1
 2013,Number,ISTOCNI MOSTAR,F,communication,1
@@ -1442,6 +1449,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Disabilities,Value
 2013,Number,PELAGICEVO,M,communication,33
 2013,Number,PELAGICEVO,F,communication,35
 2013,Number,PETROVAC,Both sexes,communication,1
+2013,Number,PETROVAC,M,communication,0
 2013,Number,PETROVAC,F,communication,1
 2013,Number,PETROVO,Both sexes,communication,64
 2013,Number,PETROVO,M,communication,36

@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Mother tounge,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1170342
 2013,Number,REPUBLIKA SRPSKA,M,Total,571812
 2013,Number,REPUBLIKA SRPSKA,F,Total,598530
@@ -239,6 +239,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,ISTOCNA ILIDZA,Both sexes,bosnian,691
 2013,Number,ISTOCNA ILIDZA,M,bosnian,322
 2013,Number,ISTOCNA ILIDZA,F,bosnian,369
+2013,Number,ISTOCNI DRVAR,Both sexes,bosnian,0
+2013,Number,ISTOCNI DRVAR,M,bosnian,0
+2013,Number,ISTOCNI DRVAR,F,bosnian,0
 2013,Number,ISTOCNI MOSTAR,Both sexes,bosnian,78
 2013,Number,ISTOCNI MOSTAR,M,bosnian,45
 2013,Number,ISTOCNI MOSTAR,F,bosnian,33
@@ -269,6 +272,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,KRUPA NA UNI,Both sexes,bosnian,3
 2013,Number,KRUPA NA UNI,M,bosnian,1
 2013,Number,KRUPA NA UNI,F,bosnian,2
+2013,Number,KUPRES,Both sexes,bosnian,0
+2013,Number,KUPRES,M,bosnian,0
+2013,Number,KUPRES,F,bosnian,0
 2013,Number,LAKTASI,Both sexes,bosnian,112
 2013,Number,LAKTASI,M,bosnian,58
 2013,Number,LAKTASI,F,bosnian,54
@@ -308,6 +314,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,PELAGICEVO,Both sexes,bosnian,24
 2013,Number,PELAGICEVO,M,bosnian,6
 2013,Number,PELAGICEVO,F,bosnian,18
+2013,Number,PETROVAC,Both sexes,bosnian,0
+2013,Number,PETROVAC,M,bosnian,0
+2013,Number,PETROVAC,F,bosnian,0
 2013,Number,PETROVO,Both sexes,bosnian,7
 2013,Number,PETROVO,M,bosnian,4
 2013,Number,PETROVO,F,bosnian,3
@@ -381,6 +390,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,BIJELJINA,M,croatian,34
 2013,Number,BIJELJINA,F,croatian,100
 2013,Number,BILECA,Both sexes,croatian,6
+2013,Number,BILECA,M,croatian,0
 2013,Number,BILECA,F,croatian,6
 2013,Number,BRATUNAC,Both sexes,croatian,10
 2013,Number,BRATUNAC,M,croatian,2
@@ -389,6 +399,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,BROD,M,croatian,1369
 2013,Number,BROD,F,croatian,1473
 2013,Number,VISEGRAD,Both sexes,croatian,6
+2013,Number,VISEGRAD,M,croatian,0
 2013,Number,VISEGRAD,F,croatian,6
 2013,Number,VLASENICA,Both sexes,croatian,7
 2013,Number,VLASENICA,M,croatian,2
@@ -398,6 +409,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,VUKOSAVLJE,F,croatian,337
 2013,Number,GACKO,Both sexes,croatian,4
 2013,Number,GACKO,M,croatian,4
+2013,Number,GACKO,F,croatian,0
 2013,Number,GRADISKA,Both sexes,croatian,358
 2013,Number,GRADISKA,M,croatian,120
 2013,Number,GRADISKA,F,croatian,238
@@ -417,11 +429,13 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,ISTOCNA ILIDZA,M,croatian,24
 2013,Number,ISTOCNA ILIDZA,F,croatian,52
 2013,Number,ISTOCNI DRVAR,Both sexes,croatian,1
+2013,Number,ISTOCNI DRVAR,M,croatian,0
 2013,Number,ISTOCNI DRVAR,F,croatian,1
 2013,Number,ISTOCNI MOSTAR,Both sexes,croatian,11
 2013,Number,ISTOCNI MOSTAR,M,croatian,8
 2013,Number,ISTOCNI MOSTAR,F,croatian,3
 2013,Number,ISTOCNI STARI GRAD,Both sexes,croatian,1
+2013,Number,ISTOCNI STARI GRAD,M,croatian,0
 2013,Number,ISTOCNI STARI GRAD,F,croatian,1
 2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,croatian,44
 2013,Number,ISTOCNO NOVO SARAJEVO,M,croatian,14
@@ -445,7 +459,11 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,KOTOR VAROS,M,croatian,357
 2013,Number,KOTOR VAROS,F,croatian,357
 2013,Number,KRUPA NA UNI,Both sexes,croatian,3
+2013,Number,KRUPA NA UNI,M,croatian,0
 2013,Number,KRUPA NA UNI,F,croatian,3
+2013,Number,KUPRES,Both sexes,croatian,0
+2013,Number,KUPRES,M,croatian,0
+2013,Number,KUPRES,F,croatian,0
 2013,Number,LAKTASI,Both sexes,croatian,175
 2013,Number,LAKTASI,M,croatian,60
 2013,Number,LAKTASI,F,croatian,115
@@ -471,6 +489,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,NOVI GRAD,M,croatian,17
 2013,Number,NOVI GRAD,F,croatian,62
 2013,Number,NOVO GORAZDE,Both sexes,croatian,1
+2013,Number,NOVO GORAZDE,M,croatian,0
 2013,Number,NOVO GORAZDE,F,croatian,1
 2013,Number,OSMACI,Both sexes,croatian,3
 2013,Number,OSMACI,M,croatian,1
@@ -484,6 +503,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,PELAGICEVO,Both sexes,croatian,1159
 2013,Number,PELAGICEVO,M,croatian,571
 2013,Number,PELAGICEVO,F,croatian,588
+2013,Number,PETROVAC,Both sexes,croatian,0
+2013,Number,PETROVAC,M,croatian,0
+2013,Number,PETROVAC,F,croatian,0
 2013,Number,PETROVO,Both sexes,croatian,12
 2013,Number,PETROVO,M,croatian,2
 2013,Number,PETROVO,F,croatian,10
@@ -494,10 +516,14 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,PRNJAVOR,M,croatian,59
 2013,Number,PRNJAVOR,F,croatian,112
 2013,Number,RIBNIK,Both sexes,croatian,2
+2013,Number,RIBNIK,M,croatian,0
 2013,Number,RIBNIK,F,croatian,2
 2013,Number,ROGATICA,Both sexes,croatian,7
 2013,Number,ROGATICA,M,croatian,1
 2013,Number,ROGATICA,F,croatian,6
+2013,Number,RUDO,Both sexes,croatian,0
+2013,Number,RUDO,M,croatian,0
+2013,Number,RUDO,F,croatian,0
 2013,Number,SOKOLAC,Both sexes,croatian,8
 2013,Number,SOKOLAC,M,croatian,1
 2013,Number,SOKOLAC,F,croatian,7
@@ -523,8 +549,10 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,FOCA,M,croatian,3
 2013,Number,FOCA,F,croatian,16
 2013,Number,HAN PIJESAK,Both sexes,croatian,3
+2013,Number,HAN PIJESAK,M,croatian,0
 2013,Number,HAN PIJESAK,F,croatian,3
 2013,Number,CAJNICE,Both sexes,croatian,3
+2013,Number,CAJNICE,M,croatian,0
 2013,Number,CAJNICE,F,croatian,3
 2013,Number,CELINAC,Both sexes,croatian,15
 2013,Number,CELINAC,M,croatian,2
@@ -533,8 +561,10 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,SAMAC,M,croatian,964
 2013,Number,SAMAC,F,croatian,1042
 2013,Number,SEKOVICI,Both sexes,croatian,3
+2013,Number,SEKOVICI,M,croatian,0
 2013,Number,SEKOVICI,F,croatian,3
 2013,Number,SIPOVO,Both sexes,croatian,11
+2013,Number,SIPOVO,M,croatian,0
 2013,Number,SIPOVO,F,croatian,11
 2013,Number,REPUBLIKA SRPSKA,Both sexes,serbian,982480
 2013,Number,REPUBLIKA SRPSKA,M,serbian,481743
@@ -776,6 +806,12 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,ISTOCNA ILIDZA,Both sexes,Other,125
 2013,Number,ISTOCNA ILIDZA,M,Other,50
 2013,Number,ISTOCNA ILIDZA,F,Other,75
+2013,Number,ISTOCNI DRVAR,Both sexes,Other,0
+2013,Number,ISTOCNI DRVAR,M,Other,0
+2013,Number,ISTOCNI DRVAR,F,Other,0
+2013,Number,ISTOCNI MOSTAR,Both sexes,Other,0
+2013,Number,ISTOCNI MOSTAR,M,Other,0
+2013,Number,ISTOCNI MOSTAR,F,Other,0
 2013,Number,ISTOCNI STARI GRAD,Both sexes,Other,6
 2013,Number,ISTOCNI STARI GRAD,M,Other,2
 2013,Number,ISTOCNI STARI GRAD,F,Other,4
@@ -784,6 +820,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,ISTOCNO NOVO SARAJEVO,F,Other,113
 2013,Number,JEZERO,Both sexes,Other,1
 2013,Number,JEZERO,M,Other,1
+2013,Number,JEZERO,F,Other,0
 2013,Number,KALINOVIK,Both sexes,Other,11
 2013,Number,KALINOVIK,M,Other,8
 2013,Number,KALINOVIK,F,Other,3
@@ -799,6 +836,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,KOTOR VAROS,Both sexes,Other,181
 2013,Number,KOTOR VAROS,M,Other,75
 2013,Number,KOTOR VAROS,F,Other,106
+2013,Number,KRUPA NA UNI,Both sexes,Other,0
+2013,Number,KRUPA NA UNI,M,Other,0
+2013,Number,KRUPA NA UNI,F,Other,0
 2013,Number,KUPRES,Both sexes,Other,3
 2013,Number,KUPRES,M,Other,2
 2013,Number,KUPRES,F,Other,1
@@ -842,6 +882,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,PELAGICEVO,M,Other,12
 2013,Number,PELAGICEVO,F,Other,18
 2013,Number,PETROVAC,Both sexes,Other,1
+2013,Number,PETROVAC,M,Other,0
 2013,Number,PETROVAC,F,Other,1
 2013,Number,PETROVO,Both sexes,Other,41
 2013,Number,PETROVO,M,Other,15
@@ -910,6 +951,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,BANJA LUKA,M,Unknown,189
 2013,Number,BANJA LUKA,F,Unknown,222
 2013,Number,BERKOVICI,Both sexes,Unknown,2
+2013,Number,BERKOVICI,M,Unknown,0
 2013,Number,BERKOVICI,F,Unknown,2
 2013,Number,BIJELJINA,Both sexes,Unknown,124
 2013,Number,BIJELJINA,M,Unknown,51
@@ -953,16 +995,21 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,ISTOCNA ILIDZA,Both sexes,Unknown,13
 2013,Number,ISTOCNA ILIDZA,M,Unknown,7
 2013,Number,ISTOCNA ILIDZA,F,Unknown,6
+2013,Number,ISTOCNI DRVAR,Both sexes,Unknown,0
+2013,Number,ISTOCNI DRVAR,M,Unknown,0
+2013,Number,ISTOCNI DRVAR,F,Unknown,0
 2013,Number,ISTOCNI MOSTAR,Both sexes,Unknown,3
 2013,Number,ISTOCNI MOSTAR,M,Unknown,1
 2013,Number,ISTOCNI MOSTAR,F,Unknown,2
 2013,Number,ISTOCNI STARI GRAD,Both sexes,Unknown,2
 2013,Number,ISTOCNI STARI GRAD,M,Unknown,2
+2013,Number,ISTOCNI STARI GRAD,F,Unknown,0
 2013,Number,ISTOCNO NOVO SARAJEVO,Both sexes,Unknown,9
 2013,Number,ISTOCNO NOVO SARAJEVO,M,Unknown,2
 2013,Number,ISTOCNO NOVO SARAJEVO,F,Unknown,7
 2013,Number,JEZERO,Both sexes,Unknown,1
 2013,Number,JEZERO,M,Unknown,1
+2013,Number,JEZERO,F,Unknown,0
 2013,Number,KALINOVIK,Both sexes,Unknown,4
 2013,Number,KALINOVIK,M,Unknown,2
 2013,Number,KALINOVIK,F,Unknown,2
@@ -978,6 +1025,12 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,KOTOR VAROS,Both sexes,Unknown,23
 2013,Number,KOTOR VAROS,M,Unknown,15
 2013,Number,KOTOR VAROS,F,Unknown,8
+2013,Number,KRUPA NA UNI,Both sexes,Unknown,0
+2013,Number,KRUPA NA UNI,M,Unknown,0
+2013,Number,KRUPA NA UNI,F,Unknown,0
+2013,Number,KUPRES,Both sexes,Unknown,0
+2013,Number,KUPRES,M,Unknown,0
+2013,Number,KUPRES,F,Unknown,0
 2013,Number,LAKTASI,Both sexes,Unknown,82
 2013,Number,LAKTASI,M,Unknown,36
 2013,Number,LAKTASI,F,Unknown,46
@@ -1010,12 +1063,16 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,OSMACI,F,Unknown,3
 2013,Number,OSTRA LUKA,Both sexes,Unknown,2
 2013,Number,OSTRA LUKA,M,Unknown,2
+2013,Number,OSTRA LUKA,F,Unknown,0
 2013,Number,PALE,Both sexes,Unknown,11
 2013,Number,PALE,M,Unknown,8
 2013,Number,PALE,F,Unknown,3
 2013,Number,PELAGICEVO,Both sexes,Unknown,5
 2013,Number,PELAGICEVO,M,Unknown,1
 2013,Number,PELAGICEVO,F,Unknown,4
+2013,Number,PETROVAC,Both sexes,Unknown,0
+2013,Number,PETROVAC,M,Unknown,0
+2013,Number,PETROVAC,F,Unknown,0
 2013,Number,PETROVO,Both sexes,Unknown,5
 2013,Number,PETROVO,M,Unknown,2
 2013,Number,PETROVO,F,Unknown,3
@@ -1027,6 +1084,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,PRNJAVOR,F,Unknown,30
 2013,Number,RIBNIK,Both sexes,Unknown,3
 2013,Number,RIBNIK,M,Unknown,3
+2013,Number,RIBNIK,F,Unknown,0
 2013,Number,ROGATICA,Both sexes,Unknown,5
 2013,Number,ROGATICA,M,Unknown,2
 2013,Number,ROGATICA,F,Unknown,3
@@ -1049,6 +1107,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,TREBINJE,M,Unknown,13
 2013,Number,TREBINJE,F,Unknown,8
 2013,Number,TRNOVO,Both sexes,Unknown,1
+2013,Number,TRNOVO,M,Unknown,0
 2013,Number,TRNOVO,F,Unknown,1
 2013,Number,UGLJEVIK,Both sexes,Unknown,16
 2013,Number,UGLJEVIK,M,Unknown,13
@@ -1056,6 +1115,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Mother tounge,Value
 2013,Number,FOCA,Both sexes,Unknown,17
 2013,Number,FOCA,M,Unknown,9
 2013,Number,FOCA,F,Unknown,8
+2013,Number,HAN PIJESAK,Both sexes,Unknown,0
+2013,Number,HAN PIJESAK,M,Unknown,0
+2013,Number,HAN PIJESAK,F,Unknown,0
 2013,Number,CAJNICE,Both sexes,Unknown,5
 2013,Number,CAJNICE,M,Unknown,2
 2013,Number,CAJNICE,F,Unknown,3

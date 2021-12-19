@@ -11,38 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
-                "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
-              ]
-            },
-            "title": "Education"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -112,7 +81,38 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "elementary_education",
+                "first_degree",
+                "incomplete_elementary",
+                "No education",
+                "secondary_education",
+                "secondary_specialization",
+                "university_degree"
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -121,7 +121,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {

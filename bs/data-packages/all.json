@@ -204,7 +204,7 @@
             "title": "Spol"
           },
           {
-            "name": "Live births",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -218,7 +218,7 @@
                 ""
               ]
             },
-            "title": "Live births"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
@@ -365,7 +365,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -435,7 +435,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -470,7 +470,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -1571,7 +1571,7 @@
             "title": "Spol"
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "household_members",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1585,7 +1585,7 @@
                 ""
               ]
             },
-            "title": "Veličina domaćinstva"
+            "title": "household_members"
           },
           {
             "name": "Value",
@@ -2993,7 +2993,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
@@ -5243,7 +5243,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5313,7 +5313,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -5419,7 +5419,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5489,7 +5489,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -5987,7 +5987,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6057,7 +6057,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -6088,7 +6088,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

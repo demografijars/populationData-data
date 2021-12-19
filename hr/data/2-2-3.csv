@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
+Year,UNIT_MEASURE,Administrativna oblast,Spol,Mother tounge,Value
 2013,Broj,REPUBLIKA SRPSKA,Oba spola,Ukupno,1170342
 2013,Broj,REPUBLIKA SRPSKA,M,Ukupno,571812
 2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,598530
@@ -239,6 +239,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,ISTOCNA ILIDZA,Oba spola,bosnian,691
 2013,Broj,ISTOCNA ILIDZA,M,bosnian,322
 2013,Broj,ISTOCNA ILIDZA,Ž,bosnian,369
+2013,Broj,ISTOCNI DRVAR,Oba spola,bosnian,0
+2013,Broj,ISTOCNI DRVAR,M,bosnian,0
+2013,Broj,ISTOCNI DRVAR,Ž,bosnian,0
 2013,Broj,ISTOCNI MOSTAR,Oba spola,bosnian,78
 2013,Broj,ISTOCNI MOSTAR,M,bosnian,45
 2013,Broj,ISTOCNI MOSTAR,Ž,bosnian,33
@@ -269,6 +272,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,KRUPA NA UNI,Oba spola,bosnian,3
 2013,Broj,KRUPA NA UNI,M,bosnian,1
 2013,Broj,KRUPA NA UNI,Ž,bosnian,2
+2013,Broj,KUPRES,Oba spola,bosnian,0
+2013,Broj,KUPRES,M,bosnian,0
+2013,Broj,KUPRES,Ž,bosnian,0
 2013,Broj,LAKTASI,Oba spola,bosnian,112
 2013,Broj,LAKTASI,M,bosnian,58
 2013,Broj,LAKTASI,Ž,bosnian,54
@@ -308,6 +314,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,PELAGICEVO,Oba spola,bosnian,24
 2013,Broj,PELAGICEVO,M,bosnian,6
 2013,Broj,PELAGICEVO,Ž,bosnian,18
+2013,Broj,PETROVAC,Oba spola,bosnian,0
+2013,Broj,PETROVAC,M,bosnian,0
+2013,Broj,PETROVAC,Ž,bosnian,0
 2013,Broj,PETROVO,Oba spola,bosnian,7
 2013,Broj,PETROVO,M,bosnian,4
 2013,Broj,PETROVO,Ž,bosnian,3
@@ -381,6 +390,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,BIJELJINA,M,croatian,34
 2013,Broj,BIJELJINA,Ž,croatian,100
 2013,Broj,BILECA,Oba spola,croatian,6
+2013,Broj,BILECA,M,croatian,0
 2013,Broj,BILECA,Ž,croatian,6
 2013,Broj,BRATUNAC,Oba spola,croatian,10
 2013,Broj,BRATUNAC,M,croatian,2
@@ -389,6 +399,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,BROD,M,croatian,1369
 2013,Broj,BROD,Ž,croatian,1473
 2013,Broj,VISEGRAD,Oba spola,croatian,6
+2013,Broj,VISEGRAD,M,croatian,0
 2013,Broj,VISEGRAD,Ž,croatian,6
 2013,Broj,VLASENICA,Oba spola,croatian,7
 2013,Broj,VLASENICA,M,croatian,2
@@ -398,6 +409,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,VUKOSAVLJE,Ž,croatian,337
 2013,Broj,GACKO,Oba spola,croatian,4
 2013,Broj,GACKO,M,croatian,4
+2013,Broj,GACKO,Ž,croatian,0
 2013,Broj,GRADISKA,Oba spola,croatian,358
 2013,Broj,GRADISKA,M,croatian,120
 2013,Broj,GRADISKA,Ž,croatian,238
@@ -417,11 +429,13 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,ISTOCNA ILIDZA,M,croatian,24
 2013,Broj,ISTOCNA ILIDZA,Ž,croatian,52
 2013,Broj,ISTOCNI DRVAR,Oba spola,croatian,1
+2013,Broj,ISTOCNI DRVAR,M,croatian,0
 2013,Broj,ISTOCNI DRVAR,Ž,croatian,1
 2013,Broj,ISTOCNI MOSTAR,Oba spola,croatian,11
 2013,Broj,ISTOCNI MOSTAR,M,croatian,8
 2013,Broj,ISTOCNI MOSTAR,Ž,croatian,3
 2013,Broj,ISTOCNI STARI GRAD,Oba spola,croatian,1
+2013,Broj,ISTOCNI STARI GRAD,M,croatian,0
 2013,Broj,ISTOCNI STARI GRAD,Ž,croatian,1
 2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,croatian,44
 2013,Broj,ISTOCNO NOVO SARAJEVO,M,croatian,14
@@ -445,7 +459,11 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,KOTOR VAROS,M,croatian,357
 2013,Broj,KOTOR VAROS,Ž,croatian,357
 2013,Broj,KRUPA NA UNI,Oba spola,croatian,3
+2013,Broj,KRUPA NA UNI,M,croatian,0
 2013,Broj,KRUPA NA UNI,Ž,croatian,3
+2013,Broj,KUPRES,Oba spola,croatian,0
+2013,Broj,KUPRES,M,croatian,0
+2013,Broj,KUPRES,Ž,croatian,0
 2013,Broj,LAKTASI,Oba spola,croatian,175
 2013,Broj,LAKTASI,M,croatian,60
 2013,Broj,LAKTASI,Ž,croatian,115
@@ -471,6 +489,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,NOVI GRAD,M,croatian,17
 2013,Broj,NOVI GRAD,Ž,croatian,62
 2013,Broj,NOVO GORAZDE,Oba spola,croatian,1
+2013,Broj,NOVO GORAZDE,M,croatian,0
 2013,Broj,NOVO GORAZDE,Ž,croatian,1
 2013,Broj,OSMACI,Oba spola,croatian,3
 2013,Broj,OSMACI,M,croatian,1
@@ -484,6 +503,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,PELAGICEVO,Oba spola,croatian,1159
 2013,Broj,PELAGICEVO,M,croatian,571
 2013,Broj,PELAGICEVO,Ž,croatian,588
+2013,Broj,PETROVAC,Oba spola,croatian,0
+2013,Broj,PETROVAC,M,croatian,0
+2013,Broj,PETROVAC,Ž,croatian,0
 2013,Broj,PETROVO,Oba spola,croatian,12
 2013,Broj,PETROVO,M,croatian,2
 2013,Broj,PETROVO,Ž,croatian,10
@@ -494,10 +516,14 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,PRNJAVOR,M,croatian,59
 2013,Broj,PRNJAVOR,Ž,croatian,112
 2013,Broj,RIBNIK,Oba spola,croatian,2
+2013,Broj,RIBNIK,M,croatian,0
 2013,Broj,RIBNIK,Ž,croatian,2
 2013,Broj,ROGATICA,Oba spola,croatian,7
 2013,Broj,ROGATICA,M,croatian,1
 2013,Broj,ROGATICA,Ž,croatian,6
+2013,Broj,RUDO,Oba spola,croatian,0
+2013,Broj,RUDO,M,croatian,0
+2013,Broj,RUDO,Ž,croatian,0
 2013,Broj,SOKOLAC,Oba spola,croatian,8
 2013,Broj,SOKOLAC,M,croatian,1
 2013,Broj,SOKOLAC,Ž,croatian,7
@@ -523,8 +549,10 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,FOCA,M,croatian,3
 2013,Broj,FOCA,Ž,croatian,16
 2013,Broj,HAN PIJESAK,Oba spola,croatian,3
+2013,Broj,HAN PIJESAK,M,croatian,0
 2013,Broj,HAN PIJESAK,Ž,croatian,3
 2013,Broj,CAJNICE,Oba spola,croatian,3
+2013,Broj,CAJNICE,M,croatian,0
 2013,Broj,CAJNICE,Ž,croatian,3
 2013,Broj,CELINAC,Oba spola,croatian,15
 2013,Broj,CELINAC,M,croatian,2
@@ -533,8 +561,10 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,SAMAC,M,croatian,964
 2013,Broj,SAMAC,Ž,croatian,1042
 2013,Broj,SEKOVICI,Oba spola,croatian,3
+2013,Broj,SEKOVICI,M,croatian,0
 2013,Broj,SEKOVICI,Ž,croatian,3
 2013,Broj,SIPOVO,Oba spola,croatian,11
+2013,Broj,SIPOVO,M,croatian,0
 2013,Broj,SIPOVO,Ž,croatian,11
 2013,Broj,REPUBLIKA SRPSKA,Oba spola,serbian,982480
 2013,Broj,REPUBLIKA SRPSKA,M,serbian,481743
@@ -776,6 +806,12 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,ISTOCNA ILIDZA,Oba spola,Drugo,125
 2013,Broj,ISTOCNA ILIDZA,M,Drugo,50
 2013,Broj,ISTOCNA ILIDZA,Ž,Drugo,75
+2013,Broj,ISTOCNI DRVAR,Oba spola,Drugo,0
+2013,Broj,ISTOCNI DRVAR,M,Drugo,0
+2013,Broj,ISTOCNI DRVAR,Ž,Drugo,0
+2013,Broj,ISTOCNI MOSTAR,Oba spola,Drugo,0
+2013,Broj,ISTOCNI MOSTAR,M,Drugo,0
+2013,Broj,ISTOCNI MOSTAR,Ž,Drugo,0
 2013,Broj,ISTOCNI STARI GRAD,Oba spola,Drugo,6
 2013,Broj,ISTOCNI STARI GRAD,M,Drugo,2
 2013,Broj,ISTOCNI STARI GRAD,Ž,Drugo,4
@@ -784,6 +820,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Drugo,113
 2013,Broj,JEZERO,Oba spola,Drugo,1
 2013,Broj,JEZERO,M,Drugo,1
+2013,Broj,JEZERO,Ž,Drugo,0
 2013,Broj,KALINOVIK,Oba spola,Drugo,11
 2013,Broj,KALINOVIK,M,Drugo,8
 2013,Broj,KALINOVIK,Ž,Drugo,3
@@ -799,6 +836,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,KOTOR VAROS,Oba spola,Drugo,181
 2013,Broj,KOTOR VAROS,M,Drugo,75
 2013,Broj,KOTOR VAROS,Ž,Drugo,106
+2013,Broj,KRUPA NA UNI,Oba spola,Drugo,0
+2013,Broj,KRUPA NA UNI,M,Drugo,0
+2013,Broj,KRUPA NA UNI,Ž,Drugo,0
 2013,Broj,KUPRES,Oba spola,Drugo,3
 2013,Broj,KUPRES,M,Drugo,2
 2013,Broj,KUPRES,Ž,Drugo,1
@@ -842,6 +882,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,PELAGICEVO,M,Drugo,12
 2013,Broj,PELAGICEVO,Ž,Drugo,18
 2013,Broj,PETROVAC,Oba spola,Drugo,1
+2013,Broj,PETROVAC,M,Drugo,0
 2013,Broj,PETROVAC,Ž,Drugo,1
 2013,Broj,PETROVO,Oba spola,Drugo,41
 2013,Broj,PETROVO,M,Drugo,15
@@ -910,6 +951,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,BANJA LUKA,M,Nepoznato,189
 2013,Broj,BANJA LUKA,Ž,Nepoznato,222
 2013,Broj,BERKOVICI,Oba spola,Nepoznato,2
+2013,Broj,BERKOVICI,M,Nepoznato,0
 2013,Broj,BERKOVICI,Ž,Nepoznato,2
 2013,Broj,BIJELJINA,Oba spola,Nepoznato,124
 2013,Broj,BIJELJINA,M,Nepoznato,51
@@ -953,16 +995,21 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,ISTOCNA ILIDZA,Oba spola,Nepoznato,13
 2013,Broj,ISTOCNA ILIDZA,M,Nepoznato,7
 2013,Broj,ISTOCNA ILIDZA,Ž,Nepoznato,6
+2013,Broj,ISTOCNI DRVAR,Oba spola,Nepoznato,0
+2013,Broj,ISTOCNI DRVAR,M,Nepoznato,0
+2013,Broj,ISTOCNI DRVAR,Ž,Nepoznato,0
 2013,Broj,ISTOCNI MOSTAR,Oba spola,Nepoznato,3
 2013,Broj,ISTOCNI MOSTAR,M,Nepoznato,1
 2013,Broj,ISTOCNI MOSTAR,Ž,Nepoznato,2
 2013,Broj,ISTOCNI STARI GRAD,Oba spola,Nepoznato,2
 2013,Broj,ISTOCNI STARI GRAD,M,Nepoznato,2
+2013,Broj,ISTOCNI STARI GRAD,Ž,Nepoznato,0
 2013,Broj,ISTOCNO NOVO SARAJEVO,Oba spola,Nepoznato,9
 2013,Broj,ISTOCNO NOVO SARAJEVO,M,Nepoznato,2
 2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,Nepoznato,7
 2013,Broj,JEZERO,Oba spola,Nepoznato,1
 2013,Broj,JEZERO,M,Nepoznato,1
+2013,Broj,JEZERO,Ž,Nepoznato,0
 2013,Broj,KALINOVIK,Oba spola,Nepoznato,4
 2013,Broj,KALINOVIK,M,Nepoznato,2
 2013,Broj,KALINOVIK,Ž,Nepoznato,2
@@ -978,6 +1025,12 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,KOTOR VAROS,Oba spola,Nepoznato,23
 2013,Broj,KOTOR VAROS,M,Nepoznato,15
 2013,Broj,KOTOR VAROS,Ž,Nepoznato,8
+2013,Broj,KRUPA NA UNI,Oba spola,Nepoznato,0
+2013,Broj,KRUPA NA UNI,M,Nepoznato,0
+2013,Broj,KRUPA NA UNI,Ž,Nepoznato,0
+2013,Broj,KUPRES,Oba spola,Nepoznato,0
+2013,Broj,KUPRES,M,Nepoznato,0
+2013,Broj,KUPRES,Ž,Nepoznato,0
 2013,Broj,LAKTASI,Oba spola,Nepoznato,82
 2013,Broj,LAKTASI,M,Nepoznato,36
 2013,Broj,LAKTASI,Ž,Nepoznato,46
@@ -1010,12 +1063,16 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,OSMACI,Ž,Nepoznato,3
 2013,Broj,OSTRA LUKA,Oba spola,Nepoznato,2
 2013,Broj,OSTRA LUKA,M,Nepoznato,2
+2013,Broj,OSTRA LUKA,Ž,Nepoznato,0
 2013,Broj,PALE,Oba spola,Nepoznato,11
 2013,Broj,PALE,M,Nepoznato,8
 2013,Broj,PALE,Ž,Nepoznato,3
 2013,Broj,PELAGICEVO,Oba spola,Nepoznato,5
 2013,Broj,PELAGICEVO,M,Nepoznato,1
 2013,Broj,PELAGICEVO,Ž,Nepoznato,4
+2013,Broj,PETROVAC,Oba spola,Nepoznato,0
+2013,Broj,PETROVAC,M,Nepoznato,0
+2013,Broj,PETROVAC,Ž,Nepoznato,0
 2013,Broj,PETROVO,Oba spola,Nepoznato,5
 2013,Broj,PETROVO,M,Nepoznato,2
 2013,Broj,PETROVO,Ž,Nepoznato,3
@@ -1027,6 +1084,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,PRNJAVOR,Ž,Nepoznato,30
 2013,Broj,RIBNIK,Oba spola,Nepoznato,3
 2013,Broj,RIBNIK,M,Nepoznato,3
+2013,Broj,RIBNIK,Ž,Nepoznato,0
 2013,Broj,ROGATICA,Oba spola,Nepoznato,5
 2013,Broj,ROGATICA,M,Nepoznato,2
 2013,Broj,ROGATICA,Ž,Nepoznato,3
@@ -1049,6 +1107,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,TREBINJE,M,Nepoznato,13
 2013,Broj,TREBINJE,Ž,Nepoznato,8
 2013,Broj,TRNOVO,Oba spola,Nepoznato,1
+2013,Broj,TRNOVO,M,Nepoznato,0
 2013,Broj,TRNOVO,Ž,Nepoznato,1
 2013,Broj,UGLJEVIK,Oba spola,Nepoznato,16
 2013,Broj,UGLJEVIK,M,Nepoznato,13
@@ -1056,6 +1115,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Mother tounge,Value
 2013,Broj,FOCA,Oba spola,Nepoznato,17
 2013,Broj,FOCA,M,Nepoznato,9
 2013,Broj,FOCA,Ž,Nepoznato,8
+2013,Broj,HAN PIJESAK,Oba spola,Nepoznato,0
+2013,Broj,HAN PIJESAK,M,Nepoznato,0
+2013,Broj,HAN PIJESAK,Ž,Nepoznato,0
 2013,Broj,CAJNICE,Oba spola,Nepoznato,5
 2013,Broj,CAJNICE,M,Nepoznato,2
 2013,Broj,CAJNICE,Ž,Nepoznato,3

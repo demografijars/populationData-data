@@ -11,23 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5+",
-                "Total",
-                "average_number",
-                "four_members",
-                "one_member",
-                "three_members",
-                "two_members"
-              ]
-            },
-            "title": "Household size"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -127,6 +110,23 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "household_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+",
+                "Total",
+                "average_number",
+                "four_members",
+                "one_member",
+                "three_members",
+                "two_members"
+              ]
+            },
+            "title": "household_members"
           }
         ]
       }

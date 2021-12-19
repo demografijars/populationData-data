@@ -231,6 +231,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,DOBOJ,M,islam,6861
 2013,Број,DOBOJ,Ж,islam,7481
 2013,Број,DONJI ZABAR,Оба пола,islam,4
+2013,Број,DONJI ZABAR,M,islam,0
 2013,Број,DONJI ZABAR,Ж,islam,4
 2013,Број,ZVORNIK,Оба пола,islam,16791
 2013,Број,ZVORNIK,M,islam,8218
@@ -238,6 +239,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,Оба пола,islam,630
 2013,Број,ISTOCNA ILIDZA,M,islam,291
 2013,Број,ISTOCNA ILIDZA,Ж,islam,339
+2013,Број,ISTOCNI DRVAR,Оба пола,islam,0
+2013,Број,ISTOCNI DRVAR,M,islam,0
+2013,Број,ISTOCNI DRVAR,Ж,islam,0
 2013,Број,ISTOCNI MOSTAR,Оба пола,islam,77
 2013,Број,ISTOCNI MOSTAR,M,islam,44
 2013,Број,ISTOCNI MOSTAR,Ж,islam,33
@@ -268,6 +272,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KRUPA NA UNI,Оба пола,islam,3
 2013,Број,KRUPA NA UNI,M,islam,1
 2013,Број,KRUPA NA UNI,Ж,islam,2
+2013,Број,KUPRES,Оба пола,islam,0
+2013,Број,KUPRES,M,islam,0
+2013,Број,KUPRES,Ж,islam,0
 2013,Број,LAKTASI,Оба пола,islam,110
 2013,Број,LAKTASI,M,islam,49
 2013,Број,LAKTASI,Ж,islam,61
@@ -307,6 +314,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PELAGICEVO,Оба пола,islam,13
 2013,Број,PELAGICEVO,M,islam,3
 2013,Број,PELAGICEVO,Ж,islam,10
+2013,Број,PETROVAC,Оба пола,islam,0
+2013,Број,PETROVAC,M,islam,0
+2013,Број,PETROVAC,Ж,islam,0
 2013,Број,PETROVO,Оба пола,islam,7
 2013,Број,PETROVO,M,islam,2
 2013,Број,PETROVO,Ж,islam,5
@@ -316,6 +326,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PRNJAVOR,Оба пола,islam,2776
 2013,Број,PRNJAVOR,M,islam,1337
 2013,Број,PRNJAVOR,Ж,islam,1439
+2013,Број,RIBNIK,Оба пола,islam,0
+2013,Број,RIBNIK,M,islam,0
+2013,Број,RIBNIK,Ж,islam,0
 2013,Број,ROGATICA,Оба пола,islam,1006
 2013,Број,ROGATICA,M,islam,517
 2013,Број,ROGATICA,Ж,islam,489
@@ -416,11 +429,13 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,M,catholic,36
 2013,Број,ISTOCNA ILIDZA,Ж,catholic,106
 2013,Број,ISTOCNI DRVAR,Оба пола,catholic,1
+2013,Број,ISTOCNI DRVAR,M,catholic,0
 2013,Број,ISTOCNI DRVAR,Ж,catholic,1
 2013,Број,ISTOCNI MOSTAR,Оба пола,catholic,11
 2013,Број,ISTOCNI MOSTAR,M,catholic,8
 2013,Број,ISTOCNI MOSTAR,Ж,catholic,3
 2013,Број,ISTOCNI STARI GRAD,Оба пола,catholic,5
+2013,Број,ISTOCNI STARI GRAD,M,catholic,0
 2013,Број,ISTOCNI STARI GRAD,Ж,catholic,5
 2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,catholic,101
 2013,Број,ISTOCNO NOVO SARAJEVO,M,catholic,28
@@ -444,7 +459,11 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KOTOR VAROS,M,catholic,365
 2013,Број,KOTOR VAROS,Ж,catholic,423
 2013,Број,KRUPA NA UNI,Оба пола,catholic,2
+2013,Број,KRUPA NA UNI,M,catholic,0
 2013,Број,KRUPA NA UNI,Ж,catholic,2
+2013,Број,KUPRES,Оба пола,catholic,0
+2013,Број,KUPRES,M,catholic,0
+2013,Број,KUPRES,Ж,catholic,0
 2013,Број,LAKTASI,Оба пола,catholic,497
 2013,Број,LAKTASI,M,catholic,166
 2013,Број,LAKTASI,Ж,catholic,331
@@ -473,6 +492,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,NOVO GORAZDE,M,catholic,1
 2013,Број,NOVO GORAZDE,Ж,catholic,1
 2013,Број,OSMACI,Оба пола,catholic,4
+2013,Број,OSMACI,M,catholic,0
 2013,Број,OSMACI,Ж,catholic,4
 2013,Број,OSTRA LUKA,Оба пола,catholic,131
 2013,Број,OSTRA LUKA,M,catholic,62
@@ -483,6 +503,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PELAGICEVO,Оба пола,catholic,1180
 2013,Број,PELAGICEVO,M,catholic,578
 2013,Број,PELAGICEVO,Ж,catholic,602
+2013,Број,PETROVAC,Оба пола,catholic,0
+2013,Број,PETROVAC,M,catholic,0
+2013,Број,PETROVAC,Ж,catholic,0
 2013,Број,PETROVO,Оба пола,catholic,35
 2013,Број,PETROVO,M,catholic,10
 2013,Број,PETROVO,Ж,catholic,25
@@ -526,8 +549,10 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,FOCA,M,catholic,20
 2013,Број,FOCA,Ж,catholic,44
 2013,Број,HAN PIJESAK,Оба пола,catholic,5
+2013,Број,HAN PIJESAK,M,catholic,0
 2013,Број,HAN PIJESAK,Ж,catholic,5
 2013,Број,CAJNICE,Оба пола,catholic,5
+2013,Број,CAJNICE,M,catholic,0
 2013,Број,CAJNICE,Ж,catholic,5
 2013,Број,CELINAC,Оба пола,catholic,58
 2013,Број,CELINAC,M,catholic,14
@@ -536,6 +561,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,SAMAC,M,catholic,969
 2013,Број,SAMAC,Ж,catholic,1122
 2013,Број,SEKOVICI,Оба пола,catholic,7
+2013,Број,SEKOVICI,M,catholic,0
 2013,Број,SEKOVICI,Ж,catholic,7
 2013,Број,SIPOVO,Оба пола,catholic,18
 2013,Број,SIPOVO,M,catholic,2
@@ -735,11 +761,15 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,BANJA LUKA,Оба пола,agnostic,592
 2013,Број,BANJA LUKA,M,agnostic,285
 2013,Број,BANJA LUKA,Ж,agnostic,307
+2013,Број,BERKOVICI,Оба пола,agnostic,0
+2013,Број,BERKOVICI,M,agnostic,0
+2013,Број,BERKOVICI,Ж,agnostic,0
 2013,Број,BIJELJINA,Оба пола,agnostic,60
 2013,Број,BIJELJINA,M,agnostic,33
 2013,Број,BIJELJINA,Ж,agnostic,27
 2013,Број,BILECA,Оба пола,agnostic,1
 2013,Број,BILECA,M,agnostic,1
+2013,Број,BILECA,Ж,agnostic,0
 2013,Број,BRATUNAC,Оба пола,agnostic,2
 2013,Број,BRATUNAC,M,agnostic,1
 2013,Број,BRATUNAC,Ж,agnostic,1
@@ -748,12 +778,15 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,BROD,Ж,agnostic,8
 2013,Број,VISEGRAD,Оба пола,agnostic,2
 2013,Број,VISEGRAD,M,agnostic,2
+2013,Број,VISEGRAD,Ж,agnostic,0
 2013,Број,VLASENICA,Оба пола,agnostic,2
 2013,Број,VLASENICA,M,agnostic,1
 2013,Број,VLASENICA,Ж,agnostic,1
 2013,Број,VUKOSAVLJE,Оба пола,agnostic,1
 2013,Број,VUKOSAVLJE,M,agnostic,1
+2013,Број,VUKOSAVLJE,Ж,agnostic,0
 2013,Број,GACKO,Оба пола,agnostic,1
+2013,Број,GACKO,M,agnostic,0
 2013,Број,GACKO,Ж,agnostic,1
 2013,Број,GRADISKA,Оба пола,agnostic,45
 2013,Број,GRADISKA,M,agnostic,28
@@ -765,6 +798,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,DOBOJ,M,agnostic,40
 2013,Број,DOBOJ,Ж,agnostic,31
 2013,Број,DONJI ZABAR,Оба пола,agnostic,1
+2013,Број,DONJI ZABAR,M,agnostic,0
 2013,Број,DONJI ZABAR,Ж,agnostic,1
 2013,Број,ZVORNIK,Оба пола,agnostic,9
 2013,Број,ZVORNIK,M,agnostic,5
@@ -772,24 +806,54 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,Оба пола,agnostic,17
 2013,Број,ISTOCNA ILIDZA,M,agnostic,8
 2013,Број,ISTOCNA ILIDZA,Ж,agnostic,9
+2013,Број,ISTOCNI DRVAR,Оба пола,agnostic,0
+2013,Број,ISTOCNI DRVAR,M,agnostic,0
+2013,Број,ISTOCNI DRVAR,Ж,agnostic,0
+2013,Број,ISTOCNI MOSTAR,Оба пола,agnostic,0
+2013,Број,ISTOCNI MOSTAR,M,agnostic,0
+2013,Број,ISTOCNI MOSTAR,Ж,agnostic,0
+2013,Број,ISTOCNI STARI GRAD,Оба пола,agnostic,0
+2013,Број,ISTOCNI STARI GRAD,M,agnostic,0
+2013,Број,ISTOCNI STARI GRAD,Ж,agnostic,0
 2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,agnostic,23
 2013,Број,ISTOCNO NOVO SARAJEVO,M,agnostic,8
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,agnostic,15
+2013,Број,JEZERO,Оба пола,agnostic,0
+2013,Број,JEZERO,M,agnostic,0
+2013,Број,JEZERO,Ж,agnostic,0
 2013,Број,KALINOVIK,Оба пола,agnostic,2
+2013,Број,KALINOVIK,M,agnostic,0
 2013,Број,KALINOVIK,Ж,agnostic,2
+2013,Број,KNEZEVO,Оба пола,agnostic,0
+2013,Број,KNEZEVO,M,agnostic,0
+2013,Број,KNEZEVO,Ж,agnostic,0
 2013,Број,KOZARSKA DUBICA,Оба пола,agnostic,17
 2013,Број,KOZARSKA DUBICA,M,agnostic,5
 2013,Број,KOZARSKA DUBICA,Ж,agnostic,12
 2013,Број,KOSTAJNICA,Оба пола,agnostic,3
 2013,Број,KOSTAJNICA,M,agnostic,3
+2013,Број,KOSTAJNICA,Ж,agnostic,0
 2013,Број,KOTOR VAROS,Оба пола,agnostic,10
 2013,Број,KOTOR VAROS,M,agnostic,6
 2013,Број,KOTOR VAROS,Ж,agnostic,4
+2013,Број,KRUPA NA UNI,Оба пола,agnostic,0
+2013,Број,KRUPA NA UNI,M,agnostic,0
+2013,Број,KRUPA NA UNI,Ж,agnostic,0
+2013,Број,KUPRES,Оба пола,agnostic,0
+2013,Број,KUPRES,M,agnostic,0
+2013,Број,KUPRES,Ж,agnostic,0
 2013,Број,LAKTASI,Оба пола,agnostic,35
 2013,Број,LAKTASI,M,agnostic,19
 2013,Број,LAKTASI,Ж,agnostic,16
 2013,Број,LOPARE,Оба пола,agnostic,4
+2013,Број,LOPARE,M,agnostic,0
 2013,Број,LOPARE,Ж,agnostic,4
+2013,Број,LJUBINJE,Оба пола,agnostic,0
+2013,Број,LJUBINJE,M,agnostic,0
+2013,Број,LJUBINJE,Ж,agnostic,0
+2013,Број,MILICI,Оба пола,agnostic,0
+2013,Број,MILICI,M,agnostic,0
+2013,Број,MILICI,Ж,agnostic,0
 2013,Број,MODRICA,Оба пола,agnostic,26
 2013,Број,MODRICA,M,agnostic,13
 2013,Број,MODRICA,Ж,agnostic,13
@@ -802,30 +866,50 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,NOVI GRAD,Оба пола,agnostic,9
 2013,Број,NOVI GRAD,M,agnostic,5
 2013,Број,NOVI GRAD,Ж,agnostic,4
+2013,Број,NOVO GORAZDE,Оба пола,agnostic,0
+2013,Број,NOVO GORAZDE,M,agnostic,0
+2013,Број,NOVO GORAZDE,Ж,agnostic,0
+2013,Број,OSMACI,Оба пола,agnostic,0
+2013,Број,OSMACI,M,agnostic,0
+2013,Број,OSMACI,Ж,agnostic,0
 2013,Број,OSTRA LUKA,Оба пола,agnostic,2
 2013,Број,OSTRA LUKA,M,agnostic,1
 2013,Број,OSTRA LUKA,Ж,agnostic,1
 2013,Број,PALE,Оба пола,agnostic,15
 2013,Број,PALE,M,agnostic,9
 2013,Број,PALE,Ж,agnostic,6
+2013,Број,PELAGICEVO,Оба пола,agnostic,0
+2013,Број,PELAGICEVO,M,agnostic,0
+2013,Број,PELAGICEVO,Ж,agnostic,0
+2013,Број,PETROVAC,Оба пола,agnostic,0
+2013,Број,PETROVAC,M,agnostic,0
+2013,Број,PETROVAC,Ж,agnostic,0
 2013,Број,PETROVO,Оба пола,agnostic,1
 2013,Број,PETROVO,M,agnostic,1
+2013,Број,PETROVO,Ж,agnostic,0
 2013,Број,PRIJEDOR,Оба пола,agnostic,84
 2013,Број,PRIJEDOR,M,agnostic,48
 2013,Број,PRIJEDOR,Ж,agnostic,36
 2013,Број,PRNJAVOR,Оба пола,agnostic,25
 2013,Број,PRNJAVOR,M,agnostic,11
 2013,Број,PRNJAVOR,Ж,agnostic,14
+2013,Број,RIBNIK,Оба пола,agnostic,0
+2013,Број,RIBNIK,M,agnostic,0
+2013,Број,RIBNIK,Ж,agnostic,0
 2013,Број,ROGATICA,Оба пола,agnostic,2
 2013,Број,ROGATICA,M,agnostic,2
+2013,Број,ROGATICA,Ж,agnostic,0
 2013,Број,RUDO,Оба пола,agnostic,1
 2013,Број,RUDO,M,agnostic,1
+2013,Број,RUDO,Ж,agnostic,0
 2013,Број,SOKOLAC,Оба пола,agnostic,2
+2013,Број,SOKOLAC,M,agnostic,0
 2013,Број,SOKOLAC,Ж,agnostic,2
 2013,Број,SRBAC,Оба пола,agnostic,7
 2013,Број,SRBAC,M,agnostic,5
 2013,Број,SRBAC,Ж,agnostic,2
 2013,Број,SREBRENICA,Оба пола,agnostic,1
+2013,Број,SREBRENICA,M,agnostic,0
 2013,Број,SREBRENICA,Ж,agnostic,1
 2013,Број,TESLIC,Оба пола,agnostic,37
 2013,Број,TESLIC,M,agnostic,15
@@ -838,12 +922,15 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,TRNOVO,Ж,agnostic,1
 2013,Број,UGLJEVIK,Оба пола,agnostic,1
 2013,Број,UGLJEVIK,M,agnostic,1
+2013,Број,UGLJEVIK,Ж,agnostic,0
 2013,Број,FOCA,Оба пола,agnostic,3
 2013,Број,FOCA,M,agnostic,1
 2013,Број,FOCA,Ж,agnostic,2
 2013,Број,HAN PIJESAK,Оба пола,agnostic,1
+2013,Број,HAN PIJESAK,M,agnostic,0
 2013,Број,HAN PIJESAK,Ж,agnostic,1
 2013,Број,CAJNICE,Оба пола,agnostic,1
+2013,Број,CAJNICE,M,agnostic,0
 2013,Број,CAJNICE,Ж,agnostic,1
 2013,Број,CELINAC,Оба пола,agnostic,8
 2013,Број,CELINAC,M,agnostic,4
@@ -853,6 +940,10 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,SAMAC,Ж,agnostic,10
 2013,Број,SEKOVICI,Оба пола,agnostic,1
 2013,Број,SEKOVICI,M,agnostic,1
+2013,Број,SEKOVICI,Ж,agnostic,0
+2013,Број,SIPOVO,Оба пола,agnostic,0
+2013,Број,SIPOVO,M,agnostic,0
+2013,Број,SIPOVO,Ж,agnostic,0
 2013,Број,REPUBLIKA SRPSKA,Оба пола,atheist,5784
 2013,Број,REPUBLIKA SRPSKA,M,atheist,3146
 2013,Број,REPUBLIKA SRPSKA,Ж,atheist,2638
@@ -895,12 +986,21 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,DOBOJ,Оба пола,atheist,378
 2013,Број,DOBOJ,M,atheist,200
 2013,Број,DOBOJ,Ж,atheist,178
+2013,Број,DONJI ZABAR,Оба пола,atheist,0
+2013,Број,DONJI ZABAR,M,atheist,0
+2013,Број,DONJI ZABAR,Ж,atheist,0
 2013,Број,ZVORNIK,Оба пола,atheist,59
 2013,Број,ZVORNIK,M,atheist,36
 2013,Број,ZVORNIK,Ж,atheist,23
 2013,Број,ISTOCNA ILIDZA,Оба пола,atheist,60
 2013,Број,ISTOCNA ILIDZA,M,atheist,27
 2013,Број,ISTOCNA ILIDZA,Ж,atheist,33
+2013,Број,ISTOCNI DRVAR,Оба пола,atheist,0
+2013,Број,ISTOCNI DRVAR,M,atheist,0
+2013,Број,ISTOCNI DRVAR,Ж,atheist,0
+2013,Број,ISTOCNI MOSTAR,Оба пола,atheist,0
+2013,Број,ISTOCNI MOSTAR,M,atheist,0
+2013,Број,ISTOCNI MOSTAR,Ж,atheist,0
 2013,Број,ISTOCNI STARI GRAD,Оба пола,atheist,2
 2013,Број,ISTOCNI STARI GRAD,M,atheist,1
 2013,Број,ISTOCNI STARI GRAD,Ж,atheist,1
@@ -910,6 +1010,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,JEZERO,Оба пола,atheist,3
 2013,Број,JEZERO,M,atheist,2
 2013,Број,JEZERO,Ж,atheist,1
+2013,Број,KALINOVIK,Оба пола,atheist,0
+2013,Број,KALINOVIK,M,atheist,0
+2013,Број,KALINOVIK,Ж,atheist,0
 2013,Број,KNEZEVO,Оба пола,atheist,5
 2013,Број,KNEZEVO,M,atheist,3
 2013,Број,KNEZEVO,Ж,atheist,2
@@ -922,6 +1025,12 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KOTOR VAROS,Оба пола,atheist,56
 2013,Број,KOTOR VAROS,M,atheist,34
 2013,Број,KOTOR VAROS,Ж,atheist,22
+2013,Број,KRUPA NA UNI,Оба пола,atheist,0
+2013,Број,KRUPA NA UNI,M,atheist,0
+2013,Број,KRUPA NA UNI,Ж,atheist,0
+2013,Број,KUPRES,Оба пола,atheist,0
+2013,Број,KUPRES,M,atheist,0
+2013,Број,KUPRES,Ж,atheist,0
 2013,Број,LAKTASI,Оба пола,atheist,96
 2013,Број,LAKTASI,M,atheist,57
 2013,Број,LAKTASI,Ж,atheist,39
@@ -930,8 +1039,10 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,LOPARE,Ж,atheist,9
 2013,Број,LJUBINJE,Оба пола,atheist,1
 2013,Број,LJUBINJE,M,atheist,1
+2013,Број,LJUBINJE,Ж,atheist,0
 2013,Број,MILICI,Оба пола,atheist,3
 2013,Број,MILICI,M,atheist,3
+2013,Број,MILICI,Ж,atheist,0
 2013,Број,MODRICA,Оба пола,atheist,98
 2013,Број,MODRICA,M,atheist,53
 2013,Број,MODRICA,Ж,atheist,45
@@ -944,8 +1055,12 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,NOVI GRAD,Оба пола,atheist,81
 2013,Број,NOVI GRAD,M,atheist,36
 2013,Број,NOVI GRAD,Ж,atheist,45
+2013,Број,NOVO GORAZDE,Оба пола,atheist,0
+2013,Број,NOVO GORAZDE,M,atheist,0
+2013,Број,NOVO GORAZDE,Ж,atheist,0
 2013,Број,OSMACI,Оба пола,atheist,1
 2013,Број,OSMACI,M,atheist,1
+2013,Број,OSMACI,Ж,atheist,0
 2013,Број,OSTRA LUKA,Оба пола,atheist,4
 2013,Број,OSTRA LUKA,M,atheist,3
 2013,Број,OSTRA LUKA,Ж,atheist,1
@@ -953,6 +1068,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PALE,M,atheist,23
 2013,Број,PALE,Ж,atheist,24
 2013,Број,PELAGICEVO,Оба пола,atheist,1
+2013,Број,PELAGICEVO,M,atheist,0
 2013,Број,PELAGICEVO,Ж,atheist,1
 2013,Број,PETROVAC,Оба пола,atheist,2
 2013,Број,PETROVAC,M,atheist,1
@@ -1001,7 +1117,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,FOCA,Ж,atheist,15
 2013,Број,HAN PIJESAK,Оба пола,atheist,1
 2013,Број,HAN PIJESAK,M,atheist,1
-2013,Број,HAN PIJESAK,Ж,atheist,-
+2013,Број,HAN PIJESAK,Ж,atheist,0
 2013,Број,CAJNICE,Оба пола,atheist,4
 2013,Број,CAJNICE,M,atheist,3
 2013,Број,CAJNICE,Ж,atheist,1
@@ -1068,14 +1184,21 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,Оба пола,Друго,28
 2013,Број,ISTOCNA ILIDZA,M,Друго,18
 2013,Број,ISTOCNA ILIDZA,Ж,Друго,10
+2013,Број,ISTOCNI DRVAR,Оба пола,Друго,0
+2013,Број,ISTOCNI DRVAR,M,Друго,0
+2013,Број,ISTOCNI DRVAR,Ж,Друго,0
 2013,Број,ISTOCNI MOSTAR,Оба пола,Друго,1
 2013,Број,ISTOCNI MOSTAR,M,Друго,1
+2013,Број,ISTOCNI MOSTAR,Ж,Друго,0
 2013,Број,ISTOCNI STARI GRAD,Оба пола,Друго,5
 2013,Број,ISTOCNI STARI GRAD,M,Друго,2
 2013,Број,ISTOCNI STARI GRAD,Ж,Друго,3
 2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,Друго,16
 2013,Број,ISTOCNO NOVO SARAJEVO,M,Друго,10
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,Друго,6
+2013,Број,JEZERO,Оба пола,Друго,0
+2013,Број,JEZERO,M,Друго,0
+2013,Број,JEZERO,Ж,Друго,0
 2013,Број,KALINOVIK,Оба пола,Друго,3
 2013,Број,KALINOVIK,M,Друго,2
 2013,Број,KALINOVIK,Ж,Друго,1
@@ -1091,13 +1214,21 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KOTOR VAROS,Оба пола,Друго,236
 2013,Број,KOTOR VAROS,M,Друго,120
 2013,Број,KOTOR VAROS,Ж,Друго,116
+2013,Број,KRUPA NA UNI,Оба пола,Друго,0
+2013,Број,KRUPA NA UNI,M,Друго,0
+2013,Број,KRUPA NA UNI,Ж,Друго,0
+2013,Број,KUPRES,Оба пола,Друго,0
+2013,Број,KUPRES,M,Друго,0
+2013,Број,KUPRES,Ж,Друго,0
 2013,Број,LAKTASI,Оба пола,Друго,278
 2013,Број,LAKTASI,M,Друго,147
 2013,Број,LAKTASI,Ж,Друго,131
 2013,Број,LOPARE,Оба пола,Друго,1
+2013,Број,LOPARE,M,Друго,0
 2013,Број,LOPARE,Ж,Друго,1
 2013,Број,LJUBINJE,Оба пола,Друго,1
 2013,Број,LJUBINJE,M,Друго,1
+2013,Број,LJUBINJE,Ж,Друго,0
 2013,Број,MILICI,Оба пола,Друго,34
 2013,Број,MILICI,M,Друго,19
 2013,Број,MILICI,Ж,Друго,15
@@ -1128,6 +1259,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PELAGICEVO,Оба пола,Друго,5
 2013,Број,PELAGICEVO,M,Друго,3
 2013,Број,PELAGICEVO,Ж,Друго,2
+2013,Број,PETROVAC,Оба пола,Друго,0
+2013,Број,PETROVAC,M,Друго,0
+2013,Број,PETROVAC,Ж,Друго,0
 2013,Број,PETROVO,Оба пола,Друго,20
 2013,Број,PETROVO,M,Друго,8
 2013,Број,PETROVO,Ж,Друго,12
@@ -1143,6 +1277,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ROGATICA,Оба пола,Друго,48
 2013,Број,ROGATICA,M,Друго,21
 2013,Број,ROGATICA,Ж,Друго,27
+2013,Број,RUDO,Оба пола,Друго,0
+2013,Број,RUDO,M,Друго,0
+2013,Број,RUDO,Ж,Друго,0
 2013,Број,SOKOLAC,Оба пола,Друго,30
 2013,Број,SOKOLAC,M,Друго,16
 2013,Број,SOKOLAC,Ж,Друго,14
@@ -1181,6 +1318,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,SAMAC,Ж,Друго,76
 2013,Број,SEKOVICI,Оба пола,Друго,1
 2013,Број,SEKOVICI,M,Друго,1
+2013,Број,SEKOVICI,Ж,Друго,0
 2013,Број,SIPOVO,Оба пола,Друго,32
 2013,Број,SIPOVO,M,Друго,17
 2013,Број,SIPOVO,Ж,Друго,15
@@ -1192,6 +1330,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,BANJA LUKA,Ж,does_not_declare,1498
 2013,Број,BERKOVICI,Оба пола,does_not_declare,1
 2013,Број,BERKOVICI,M,does_not_declare,1
+2013,Број,BERKOVICI,Ж,does_not_declare,0
 2013,Број,BIJELJINA,Оба пола,does_not_declare,716
 2013,Број,BIJELJINA,M,does_not_declare,307
 2013,Број,BIJELJINA,Ж,does_not_declare,409
@@ -1234,12 +1373,21 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,Оба пола,does_not_declare,92
 2013,Број,ISTOCNA ILIDZA,M,does_not_declare,41
 2013,Број,ISTOCNA ILIDZA,Ж,does_not_declare,51
+2013,Број,ISTOCNI DRVAR,Оба пола,does_not_declare,0
+2013,Број,ISTOCNI DRVAR,M,does_not_declare,0
+2013,Број,ISTOCNI DRVAR,Ж,does_not_declare,0
+2013,Број,ISTOCNI MOSTAR,Оба пола,does_not_declare,0
+2013,Број,ISTOCNI MOSTAR,M,does_not_declare,0
+2013,Број,ISTOCNI MOSTAR,Ж,does_not_declare,0
 2013,Број,ISTOCNI STARI GRAD,Оба пола,does_not_declare,6
 2013,Број,ISTOCNI STARI GRAD,M,does_not_declare,5
 2013,Број,ISTOCNI STARI GRAD,Ж,does_not_declare,1
 2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,does_not_declare,56
 2013,Број,ISTOCNO NOVO SARAJEVO,M,does_not_declare,24
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,does_not_declare,32
+2013,Број,JEZERO,Оба пола,does_not_declare,0
+2013,Број,JEZERO,M,does_not_declare,0
+2013,Број,JEZERO,Ж,does_not_declare,0
 2013,Број,KALINOVIK,Оба пола,does_not_declare,5
 2013,Број,KALINOVIK,M,does_not_declare,4
 2013,Број,KALINOVIK,Ж,does_not_declare,1
@@ -1255,8 +1403,12 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KOTOR VAROS,Оба пола,does_not_declare,107
 2013,Број,KOTOR VAROS,M,does_not_declare,45
 2013,Број,KOTOR VAROS,Ж,does_not_declare,62
+2013,Број,KRUPA NA UNI,Оба пола,does_not_declare,0
+2013,Број,KRUPA NA UNI,M,does_not_declare,0
+2013,Број,KRUPA NA UNI,Ж,does_not_declare,0
 2013,Број,KUPRES,Оба пола,does_not_declare,1
 2013,Број,KUPRES,M,does_not_declare,1
+2013,Број,KUPRES,Ж,does_not_declare,0
 2013,Број,LAKTASI,Оба пола,does_not_declare,239
 2013,Број,LAKTASI,M,does_not_declare,112
 2013,Број,LAKTASI,Ж,does_not_declare,127
@@ -1286,6 +1438,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,NOVO GORAZDE,Ж,does_not_declare,2
 2013,Број,OSMACI,Оба пола,does_not_declare,1
 2013,Број,OSMACI,M,does_not_declare,1
+2013,Број,OSMACI,Ж,does_not_declare,0
 2013,Број,OSTRA LUKA,Оба пола,does_not_declare,13
 2013,Број,OSTRA LUKA,M,does_not_declare,5
 2013,Број,OSTRA LUKA,Ж,does_not_declare,8
@@ -1293,7 +1446,11 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PALE,M,does_not_declare,22
 2013,Број,PALE,Ж,does_not_declare,34
 2013,Број,PELAGICEVO,Оба пола,does_not_declare,2
+2013,Број,PELAGICEVO,M,does_not_declare,0
 2013,Број,PELAGICEVO,Ж,does_not_declare,2
+2013,Број,PETROVAC,Оба пола,does_not_declare,0
+2013,Број,PETROVAC,M,does_not_declare,0
+2013,Број,PETROVAC,Ж,does_not_declare,0
 2013,Број,PETROVO,Оба пола,does_not_declare,19
 2013,Број,PETROVO,M,does_not_declare,9
 2013,Број,PETROVO,Ж,does_not_declare,10
@@ -1336,8 +1493,12 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,FOCA,Оба пола,does_not_declare,27
 2013,Број,FOCA,M,does_not_declare,13
 2013,Број,FOCA,Ж,does_not_declare,14
+2013,Број,HAN PIJESAK,Оба пола,does_not_declare,0
+2013,Број,HAN PIJESAK,M,does_not_declare,0
+2013,Број,HAN PIJESAK,Ж,does_not_declare,0
 2013,Број,CAJNICE,Оба пола,does_not_declare,1
 2013,Број,CAJNICE,M,does_not_declare,1
+2013,Број,CAJNICE,Ж,does_not_declare,0
 2013,Број,CELINAC,Оба пола,does_not_declare,30
 2013,Број,CELINAC,M,does_not_declare,15
 2013,Број,CELINAC,Ж,does_not_declare,15
@@ -1357,6 +1518,7 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,BANJA LUKA,M,Непознато,173
 2013,Број,BANJA LUKA,Ж,Непознато,184
 2013,Број,BERKOVICI,Оба пола,Непознато,1
+2013,Број,BERKOVICI,M,Непознато,0
 2013,Број,BERKOVICI,Ж,Непознато,1
 2013,Број,BIJELJINA,Оба пола,Непознато,102
 2013,Број,BIJELJINA,M,Непознато,44
@@ -1400,6 +1562,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNA ILIDZA,Оба пола,Непознато,10
 2013,Број,ISTOCNA ILIDZA,M,Непознато,5
 2013,Број,ISTOCNA ILIDZA,Ж,Непознато,5
+2013,Број,ISTOCNI DRVAR,Оба пола,Непознато,0
+2013,Број,ISTOCNI DRVAR,M,Непознато,0
+2013,Број,ISTOCNI DRVAR,Ж,Непознато,0
 2013,Број,ISTOCNI MOSTAR,Оба пола,Непознато,2
 2013,Број,ISTOCNI MOSTAR,M,Непознато,1
 2013,Број,ISTOCNI MOSTAR,Ж,Непознато,1
@@ -1407,10 +1572,14 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,ISTOCNI STARI GRAD,M,Непознато,1
 2013,Број,ISTOCNI STARI GRAD,Ж,Непознато,1
 2013,Број,ISTOCNO NOVO SARAJEVO,Оба пола,Непознато,3
+2013,Број,ISTOCNO NOVO SARAJEVO,M,Непознато,0
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,Непознато,3
 2013,Број,JEZERO,Оба пола,Непознато,2
 2013,Број,JEZERO,M,Непознато,1
 2013,Број,JEZERO,Ж,Непознато,1
+2013,Број,KALINOVIK,Оба пола,Непознато,0
+2013,Број,KALINOVIK,M,Непознато,0
+2013,Број,KALINOVIK,Ж,Непознато,0
 2013,Број,KNEZEVO,Оба пола,Непознато,5
 2013,Број,KNEZEVO,M,Непознато,3
 2013,Број,KNEZEVO,Ж,Непознато,2
@@ -1419,11 +1588,16 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,KOZARSKA DUBICA,Ж,Непознато,7
 2013,Број,KOSTAJNICA,Оба пола,Непознато,1
 2013,Број,KOSTAJNICA,M,Непознато,1
+2013,Број,KOSTAJNICA,Ж,Непознато,0
 2013,Број,KOTOR VAROS,Оба пола,Непознато,21
 2013,Број,KOTOR VAROS,M,Непознато,15
 2013,Број,KOTOR VAROS,Ж,Непознато,6
 2013,Број,KRUPA NA UNI,Оба пола,Непознато,1
+2013,Број,KRUPA NA UNI,M,Непознато,0
 2013,Број,KRUPA NA UNI,Ж,Непознато,1
+2013,Број,KUPRES,Оба пола,Непознато,0
+2013,Број,KUPRES,M,Непознато,0
+2013,Број,KUPRES,Ж,Непознато,0
 2013,Број,LAKTASI,Оба пола,Непознато,48
 2013,Број,LAKTASI,M,Непознато,21
 2013,Број,LAKTASI,Ж,Непознато,27
@@ -1463,6 +1637,9 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PELAGICEVO,Оба пола,Непознато,5
 2013,Број,PELAGICEVO,M,Непознато,1
 2013,Број,PELAGICEVO,Ж,Непознато,4
+2013,Број,PETROVAC,Оба пола,Непознато,0
+2013,Број,PETROVAC,M,Непознато,0
+2013,Број,PETROVAC,Ж,Непознато,0
 2013,Број,PETROVO,Оба пола,Непознато,4
 2013,Број,PETROVO,M,Непознато,2
 2013,Број,PETROVO,Ж,Непознато,2
@@ -1474,10 +1651,12 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,PRNJAVOR,Ж,Непознато,18
 2013,Број,RIBNIK,Оба пола,Непознато,2
 2013,Број,RIBNIK,M,Непознато,2
+2013,Број,RIBNIK,Ж,Непознато,0
 2013,Број,ROGATICA,Оба пола,Непознато,4
 2013,Број,ROGATICA,M,Непознато,3
 2013,Број,ROGATICA,Ж,Непознато,1
 2013,Број,RUDO,Оба пола,Непознато,4
+2013,Број,RUDO,M,Непознато,0
 2013,Број,RUDO,Ж,Непознато,4
 2013,Број,SOKOLAC,Оба пола,Непознато,14
 2013,Број,SOKOLAC,M,Непознато,3
@@ -1494,12 +1673,18 @@ Year,UNIT_MEASURE,Административно подручје,Пол,Religio
 2013,Број,TREBINJE,Оба пола,Непознато,14
 2013,Број,TREBINJE,M,Непознато,8
 2013,Број,TREBINJE,Ж,Непознато,6
+2013,Број,TRNOVO,Оба пола,Непознато,0
+2013,Број,TRNOVO,M,Непознато,0
+2013,Број,TRNOVO,Ж,Непознато,0
 2013,Број,UGLJEVIK,Оба пола,Непознато,13
 2013,Број,UGLJEVIK,M,Непознато,11
 2013,Број,UGLJEVIK,Ж,Непознато,2
 2013,Број,FOCA,Оба пола,Непознато,12
 2013,Број,FOCA,M,Непознато,6
 2013,Број,FOCA,Ж,Непознато,6
+2013,Број,HAN PIJESAK,Оба пола,Непознато,0
+2013,Број,HAN PIJESAK,M,Непознато,0
+2013,Број,HAN PIJESAK,Ж,Непознато,0
 2013,Број,CAJNICE,Оба пола,Непознато,4
 2013,Број,CAJNICE,M,Непознато,1
 2013,Број,CAJNICE,Ж,Непознато,3

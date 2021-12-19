@@ -11,39 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Disabilities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "communication",
-                "disabilities_T",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "more_disabilities",
-                "walking"
-              ]
-            },
-            "title": "Disabilities"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -113,7 +81,39 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "communication",
+                "disabilities_T",
+                "dressing",
+                "eyesight",
+                "hearing",
+                "memory",
+                "more_disabilities",
+                "walking"
+              ]
+            },
+            "title": "Disabilities"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

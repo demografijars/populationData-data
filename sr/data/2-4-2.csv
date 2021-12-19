@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Пол,Education,Value
+Year,UNIT_MEASURE,Административно подручје,Пол,Education,Value
 2013,Број,REPUBLIKA SRPSKA,Оба пола,Укупно,1005535
 2013,Број,REPUBLIKA SRPSKA,M,Укупно,487292
 2013,Број,REPUBLIKA SRPSKA,Ж,Укупно,518243
@@ -240,7 +240,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,ISTOCNA ILIDZA,M,Без образовања,33
 2013,Број,ISTOCNA ILIDZA,Ж,Без образовања,247
 2013,Број,ISTOCNI DRVAR,Оба пола,Без образовања,5
-2013,Број,ISTOCNI DRVAR,M,Без образовања,-
+2013,Број,ISTOCNI DRVAR,M,Без образовања,0
 2013,Број,ISTOCNI DRVAR,Ж,Без образовања,5
 2013,Број,ISTOCNI MOSTAR,Оба пола,Без образовања,19
 2013,Број,ISTOCNI MOSTAR,M,Без образовања,1
@@ -315,7 +315,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,PELAGICEVO,M,Без образовања,46
 2013,Број,PELAGICEVO,Ж,Без образовања,244
 2013,Број,PETROVAC,Оба пола,Без образовања,11
-2013,Број,PETROVAC,M,Без образовања,-
+2013,Број,PETROVAC,M,Без образовања,0
 2013,Број,PETROVAC,Ж,Без образовања,11
 2013,Број,PETROVO,Оба пола,Без образовања,403
 2013,Број,PETROVO,M,Без образовања,48
@@ -952,7 +952,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,BANJA LUKA,Ж,secondary_specialization,291
 2013,Број,BERKOVICI,Оба пола,secondary_specialization,11
 2013,Број,BERKOVICI,M,secondary_specialization,11
-2013,Број,BERKOVICI,Ж,secondary_specialization,-
+2013,Број,BERKOVICI,Ж,secondary_specialization,0
 2013,Број,BIJELJINA,Оба пола,secondary_specialization,564
 2013,Број,BIJELJINA,M,secondary_specialization,485
 2013,Број,BIJELJINA,Ж,secondary_specialization,79
@@ -996,11 +996,11 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,ISTOCNA ILIDZA,M,secondary_specialization,123
 2013,Број,ISTOCNA ILIDZA,Ж,secondary_specialization,17
 2013,Број,ISTOCNI DRVAR,Оба пола,secondary_specialization,1
-2013,Број,ISTOCNI DRVAR,M,secondary_specialization,-
+2013,Број,ISTOCNI DRVAR,M,secondary_specialization,0
 2013,Број,ISTOCNI DRVAR,Ж,secondary_specialization,1
-2013,Број,ISTOCNI MOSTAR,Оба пола,secondary_specialization,-
-2013,Број,ISTOCNI MOSTAR,M,secondary_specialization,-
-2013,Број,ISTOCNI MOSTAR,Ж,secondary_specialization,-
+2013,Број,ISTOCNI MOSTAR,Оба пола,secondary_specialization,0
+2013,Број,ISTOCNI MOSTAR,M,secondary_specialization,0
+2013,Број,ISTOCNI MOSTAR,Ж,secondary_specialization,0
 2013,Број,ISTOCNI STARI GRAD,Оба пола,secondary_specialization,16
 2013,Број,ISTOCNI STARI GRAD,M,secondary_specialization,15
 2013,Број,ISTOCNI STARI GRAD,Ж,secondary_specialization,1
@@ -1009,7 +1009,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,secondary_specialization,12
 2013,Број,JEZERO,Оба пола,secondary_specialization,1
 2013,Број,JEZERO,M,secondary_specialization,1
-2013,Број,JEZERO,Ж,secondary_specialization,-
+2013,Број,JEZERO,Ж,secondary_specialization,0
 2013,Број,KALINOVIK,Оба пола,secondary_specialization,16
 2013,Број,KALINOVIK,M,secondary_specialization,13
 2013,Број,KALINOVIK,Ж,secondary_specialization,3
@@ -1029,7 +1029,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,KRUPA NA UNI,M,secondary_specialization,3
 2013,Број,KRUPA NA UNI,Ж,secondary_specialization,2
 2013,Број,KUPRES,Оба пола,secondary_specialization,1
-2013,Број,KUPRES,M,secondary_specialization,-
+2013,Број,KUPRES,M,secondary_specialization,0
 2013,Број,KUPRES,Ж,secondary_specialization,1
 2013,Број,LAKTASI,Оба пола,secondary_specialization,169
 2013,Број,LAKTASI,M,secondary_specialization,141
@@ -1057,7 +1057,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,NOVI GRAD,Ж,secondary_specialization,29
 2013,Број,NOVO GORAZDE,Оба пола,secondary_specialization,10
 2013,Број,NOVO GORAZDE,M,secondary_specialization,10
-2013,Број,NOVO GORAZDE,Ж,secondary_specialization,-
+2013,Број,NOVO GORAZDE,Ж,secondary_specialization,0
 2013,Број,OSMACI,Оба пола,secondary_specialization,15
 2013,Број,OSMACI,M,secondary_specialization,12
 2013,Број,OSMACI,Ж,secondary_specialization,3
@@ -1070,9 +1070,9 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,PELAGICEVO,Оба пола,secondary_specialization,4
 2013,Број,PELAGICEVO,M,secondary_specialization,3
 2013,Број,PELAGICEVO,Ж,secondary_specialization,1
-2013,Број,PETROVAC,Оба пола,secondary_specialization,-
-2013,Број,PETROVAC,M,secondary_specialization,-
-2013,Број,PETROVAC,Ж,secondary_specialization,-
+2013,Број,PETROVAC,Оба пола,secondary_specialization,0
+2013,Број,PETROVAC,M,secondary_specialization,0
+2013,Број,PETROVAC,Ж,secondary_specialization,0
 2013,Број,PETROVO,Оба пола,secondary_specialization,79
 2013,Број,PETROVO,M,secondary_specialization,74
 2013,Број,PETROVO,Ж,secondary_specialization,5
@@ -1117,7 +1117,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,FOCA,Ж,secondary_specialization,14
 2013,Број,HAN PIJESAK,Оба пола,secondary_specialization,20
 2013,Број,HAN PIJESAK,M,secondary_specialization,20
-2013,Број,HAN PIJESAK,Ж,secondary_specialization,-
+2013,Број,HAN PIJESAK,Ж,secondary_specialization,0
 2013,Број,CAJNICE,Оба пола,secondary_specialization,38
 2013,Број,CAJNICE,M,secondary_specialization,37
 2013,Број,CAJNICE,Ж,secondary_specialization,1
@@ -1129,7 +1129,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,SAMAC,Ж,secondary_specialization,14
 2013,Број,SEKOVICI,Оба пола,secondary_specialization,16
 2013,Број,SEKOVICI,M,secondary_specialization,16
-2013,Број,SEKOVICI,Ж,secondary_specialization,-
+2013,Број,SEKOVICI,Ж,secondary_specialization,0
 2013,Број,SIPOVO,Оба пола,secondary_specialization,22
 2013,Број,SIPOVO,M,secondary_specialization,20
 2013,Број,SIPOVO,Ж,secondary_specialization,2
@@ -1186,8 +1186,10 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,ISTOCNA ILIDZA,Ж,first_degree,198
 2013,Број,ISTOCNI DRVAR,Оба пола,first_degree,5
 2013,Број,ISTOCNI DRVAR,M,first_degree,5
+2013,Број,ISTOCNI DRVAR,Ж,first_degree,0
 2013,Број,ISTOCNI MOSTAR,Оба пола,first_degree,2
 2013,Број,ISTOCNI MOSTAR,M,first_degree,2
+2013,Број,ISTOCNI MOSTAR,Ж,first_degree,0
 2013,Број,ISTOCNI STARI GRAD,Оба пола,first_degree,27
 2013,Број,ISTOCNI STARI GRAD,M,first_degree,14
 2013,Број,ISTOCNI STARI GRAD,Ж,first_degree,13
@@ -1217,7 +1219,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Education,Value
 2013,Број,KRUPA NA UNI,Ж,first_degree,5
 2013,Број,KUPRES,Оба пола,first_degree,2
 2013,Број,KUPRES,M,first_degree,2
-2013,Број,KUPRES,Ж,first_degree,-
+2013,Број,KUPRES,Ж,first_degree,0
 2013,Број,LAKTASI,Оба пола,first_degree,822
 2013,Број,LAKTASI,M,first_degree,462
 2013,Број,LAKTASI,Ж,first_degree,360

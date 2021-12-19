@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,Education,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Education,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1005535
 2013,Number,REPUBLIKA SRPSKA,M,Total,487292
 2013,Number,REPUBLIKA SRPSKA,F,Total,518243
@@ -240,7 +240,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,ISTOCNA ILIDZA,M,No education,33
 2013,Number,ISTOCNA ILIDZA,F,No education,247
 2013,Number,ISTOCNI DRVAR,Both sexes,No education,5
-2013,Number,ISTOCNI DRVAR,M,No education,-
+2013,Number,ISTOCNI DRVAR,M,No education,0
 2013,Number,ISTOCNI DRVAR,F,No education,5
 2013,Number,ISTOCNI MOSTAR,Both sexes,No education,19
 2013,Number,ISTOCNI MOSTAR,M,No education,1
@@ -315,7 +315,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,PELAGICEVO,M,No education,46
 2013,Number,PELAGICEVO,F,No education,244
 2013,Number,PETROVAC,Both sexes,No education,11
-2013,Number,PETROVAC,M,No education,-
+2013,Number,PETROVAC,M,No education,0
 2013,Number,PETROVAC,F,No education,11
 2013,Number,PETROVO,Both sexes,No education,403
 2013,Number,PETROVO,M,No education,48
@@ -952,7 +952,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,BANJA LUKA,F,secondary_specialization,291
 2013,Number,BERKOVICI,Both sexes,secondary_specialization,11
 2013,Number,BERKOVICI,M,secondary_specialization,11
-2013,Number,BERKOVICI,F,secondary_specialization,-
+2013,Number,BERKOVICI,F,secondary_specialization,0
 2013,Number,BIJELJINA,Both sexes,secondary_specialization,564
 2013,Number,BIJELJINA,M,secondary_specialization,485
 2013,Number,BIJELJINA,F,secondary_specialization,79
@@ -996,11 +996,11 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,ISTOCNA ILIDZA,M,secondary_specialization,123
 2013,Number,ISTOCNA ILIDZA,F,secondary_specialization,17
 2013,Number,ISTOCNI DRVAR,Both sexes,secondary_specialization,1
-2013,Number,ISTOCNI DRVAR,M,secondary_specialization,-
+2013,Number,ISTOCNI DRVAR,M,secondary_specialization,0
 2013,Number,ISTOCNI DRVAR,F,secondary_specialization,1
-2013,Number,ISTOCNI MOSTAR,Both sexes,secondary_specialization,-
-2013,Number,ISTOCNI MOSTAR,M,secondary_specialization,-
-2013,Number,ISTOCNI MOSTAR,F,secondary_specialization,-
+2013,Number,ISTOCNI MOSTAR,Both sexes,secondary_specialization,0
+2013,Number,ISTOCNI MOSTAR,M,secondary_specialization,0
+2013,Number,ISTOCNI MOSTAR,F,secondary_specialization,0
 2013,Number,ISTOCNI STARI GRAD,Both sexes,secondary_specialization,16
 2013,Number,ISTOCNI STARI GRAD,M,secondary_specialization,15
 2013,Number,ISTOCNI STARI GRAD,F,secondary_specialization,1
@@ -1009,7 +1009,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,ISTOCNO NOVO SARAJEVO,F,secondary_specialization,12
 2013,Number,JEZERO,Both sexes,secondary_specialization,1
 2013,Number,JEZERO,M,secondary_specialization,1
-2013,Number,JEZERO,F,secondary_specialization,-
+2013,Number,JEZERO,F,secondary_specialization,0
 2013,Number,KALINOVIK,Both sexes,secondary_specialization,16
 2013,Number,KALINOVIK,M,secondary_specialization,13
 2013,Number,KALINOVIK,F,secondary_specialization,3
@@ -1029,7 +1029,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,KRUPA NA UNI,M,secondary_specialization,3
 2013,Number,KRUPA NA UNI,F,secondary_specialization,2
 2013,Number,KUPRES,Both sexes,secondary_specialization,1
-2013,Number,KUPRES,M,secondary_specialization,-
+2013,Number,KUPRES,M,secondary_specialization,0
 2013,Number,KUPRES,F,secondary_specialization,1
 2013,Number,LAKTASI,Both sexes,secondary_specialization,169
 2013,Number,LAKTASI,M,secondary_specialization,141
@@ -1057,7 +1057,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,NOVI GRAD,F,secondary_specialization,29
 2013,Number,NOVO GORAZDE,Both sexes,secondary_specialization,10
 2013,Number,NOVO GORAZDE,M,secondary_specialization,10
-2013,Number,NOVO GORAZDE,F,secondary_specialization,-
+2013,Number,NOVO GORAZDE,F,secondary_specialization,0
 2013,Number,OSMACI,Both sexes,secondary_specialization,15
 2013,Number,OSMACI,M,secondary_specialization,12
 2013,Number,OSMACI,F,secondary_specialization,3
@@ -1070,9 +1070,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,PELAGICEVO,Both sexes,secondary_specialization,4
 2013,Number,PELAGICEVO,M,secondary_specialization,3
 2013,Number,PELAGICEVO,F,secondary_specialization,1
-2013,Number,PETROVAC,Both sexes,secondary_specialization,-
-2013,Number,PETROVAC,M,secondary_specialization,-
-2013,Number,PETROVAC,F,secondary_specialization,-
+2013,Number,PETROVAC,Both sexes,secondary_specialization,0
+2013,Number,PETROVAC,M,secondary_specialization,0
+2013,Number,PETROVAC,F,secondary_specialization,0
 2013,Number,PETROVO,Both sexes,secondary_specialization,79
 2013,Number,PETROVO,M,secondary_specialization,74
 2013,Number,PETROVO,F,secondary_specialization,5
@@ -1117,7 +1117,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,FOCA,F,secondary_specialization,14
 2013,Number,HAN PIJESAK,Both sexes,secondary_specialization,20
 2013,Number,HAN PIJESAK,M,secondary_specialization,20
-2013,Number,HAN PIJESAK,F,secondary_specialization,-
+2013,Number,HAN PIJESAK,F,secondary_specialization,0
 2013,Number,CAJNICE,Both sexes,secondary_specialization,38
 2013,Number,CAJNICE,M,secondary_specialization,37
 2013,Number,CAJNICE,F,secondary_specialization,1
@@ -1129,7 +1129,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,SAMAC,F,secondary_specialization,14
 2013,Number,SEKOVICI,Both sexes,secondary_specialization,16
 2013,Number,SEKOVICI,M,secondary_specialization,16
-2013,Number,SEKOVICI,F,secondary_specialization,-
+2013,Number,SEKOVICI,F,secondary_specialization,0
 2013,Number,SIPOVO,Both sexes,secondary_specialization,22
 2013,Number,SIPOVO,M,secondary_specialization,20
 2013,Number,SIPOVO,F,secondary_specialization,2
@@ -1186,8 +1186,10 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,ISTOCNA ILIDZA,F,first_degree,198
 2013,Number,ISTOCNI DRVAR,Both sexes,first_degree,5
 2013,Number,ISTOCNI DRVAR,M,first_degree,5
+2013,Number,ISTOCNI DRVAR,F,first_degree,0
 2013,Number,ISTOCNI MOSTAR,Both sexes,first_degree,2
 2013,Number,ISTOCNI MOSTAR,M,first_degree,2
+2013,Number,ISTOCNI MOSTAR,F,first_degree,0
 2013,Number,ISTOCNI STARI GRAD,Both sexes,first_degree,27
 2013,Number,ISTOCNI STARI GRAD,M,first_degree,14
 2013,Number,ISTOCNI STARI GRAD,F,first_degree,13
@@ -1217,7 +1219,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Education,Value
 2013,Number,KRUPA NA UNI,F,first_degree,5
 2013,Number,KUPRES,Both sexes,first_degree,2
 2013,Number,KUPRES,M,first_degree,2
-2013,Number,KUPRES,F,first_degree,-
+2013,Number,KUPRES,F,first_degree,0
 2013,Number,LAKTASI,Both sexes,first_degree,822
 2013,Number,LAKTASI,M,first_degree,462
 2013,Number,LAKTASI,F,first_degree,360

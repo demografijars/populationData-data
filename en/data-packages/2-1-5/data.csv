@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,Live births,Value
+Year,UNIT_MEASURE,Teritory,Sex,Vital statistics,Value
 2013,Number,REPUBLIKA SRPSKA,F,Total,518243
 2013,Number,BANJA LUKA,F,Total,80633
 2013,Number,BERKOVICI,F,Total,839
@@ -331,6 +331,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Live births,Value
 2013,Number,DONJI ZABAR,F,four_children,69
 2013,Number,ZVORNIK,F,four_children,1267
 2013,Number,ISTOCNA ILIDZA,F,four_children,111
+2013,Number,ISTOCNI DRVAR,F,four_children,0
 2013,Number,ISTOCNI MOSTAR,F,four_children,5
 2013,Number,ISTOCNI STARI GRAD,F,four_children,23
 2013,Number,ISTOCNO NOVO SARAJEVO,F,four_children,82
@@ -393,6 +394,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Live births,Value
 2013,Number,DONJI ZABAR,F,5+,50
 2013,Number,ZVORNIK,F,5+,1008
 2013,Number,ISTOCNA ILIDZA,F,5+,54
+2013,Number,ISTOCNI DRVAR,F,5+,0
 2013,Number,ISTOCNI MOSTAR,F,5+,7
 2013,Number,ISTOCNI STARI GRAD,F,5+,7
 2013,Number,ISTOCNO NOVO SARAJEVO,F,5+,30
@@ -417,6 +419,7 @@ Year,UNIT_MEASURE,Teritory,Sex,Live births,Value
 2013,Number,OSTRA LUKA,F,5+,102
 2013,Number,PALE,F,5+,95
 2013,Number,PELAGICEVO,F,5+,109
+2013,Number,PETROVAC,F,5+,0
 2013,Number,PETROVO,F,5+,65
 2013,Number,PRIJEDOR,F,5+,1535
 2013,Number,PRNJAVOR,F,5+,610

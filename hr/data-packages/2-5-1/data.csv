@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Spol,Disabilities,Value
+Year,UNIT_MEASURE,Administrativna oblast,Spol,Disabilities,Value
 2013,Broj,REPUBLIKA SRPSKA,Oba spola,Ukupno,1170342
 2013,Broj,REPUBLIKA SRPSKA,M,Ukupno,571812
 2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,598530
@@ -996,6 +996,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Disabilities,Value
 2013,Broj,ISTOCNA ILIDZA,M,memory,64
 2013,Broj,ISTOCNA ILIDZA,Ž,memory,85
 2013,Broj,ISTOCNI DRVAR,Oba spola,memory,1
+2013,Broj,ISTOCNI DRVAR,M,memory,0
 2013,Broj,ISTOCNI DRVAR,Ž,memory,1
 2013,Broj,ISTOCNI MOSTAR,Oba spola,memory,3
 2013,Broj,ISTOCNI MOSTAR,M,memory,2
@@ -1183,6 +1184,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Disabilities,Value
 2013,Broj,ISTOCNA ILIDZA,Oba spola,dressing,175
 2013,Broj,ISTOCNA ILIDZA,M,dressing,83
 2013,Broj,ISTOCNA ILIDZA,Ž,dressing,92
+2013,Broj,ISTOCNI DRVAR,Oba spola,dressing,0
+2013,Broj,ISTOCNI DRVAR,M,dressing,0
+2013,Broj,ISTOCNI DRVAR,Ž,dressing,0
 2013,Broj,ISTOCNI MOSTAR,Oba spola,dressing,2
 2013,Broj,ISTOCNI MOSTAR,M,dressing,1
 2013,Broj,ISTOCNI MOSTAR,Ž,dressing,1
@@ -1369,6 +1373,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Disabilities,Value
 2013,Broj,ISTOCNA ILIDZA,Oba spola,communication,113
 2013,Broj,ISTOCNA ILIDZA,M,communication,54
 2013,Broj,ISTOCNA ILIDZA,Ž,communication,59
+2013,Broj,ISTOCNI DRVAR,Oba spola,communication,0
+2013,Broj,ISTOCNI DRVAR,M,communication,0
+2013,Broj,ISTOCNI DRVAR,Ž,communication,0
 2013,Broj,ISTOCNI MOSTAR,Oba spola,communication,2
 2013,Broj,ISTOCNI MOSTAR,M,communication,1
 2013,Broj,ISTOCNI MOSTAR,Ž,communication,1
@@ -1442,6 +1449,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Disabilities,Value
 2013,Broj,PELAGICEVO,M,communication,33
 2013,Broj,PELAGICEVO,Ž,communication,35
 2013,Broj,PETROVAC,Oba spola,communication,1
+2013,Broj,PETROVAC,M,communication,0
 2013,Broj,PETROVAC,Ž,communication,1
 2013,Broj,PETROVO,Oba spola,communication,64
 2013,Broj,PETROVO,M,communication,36

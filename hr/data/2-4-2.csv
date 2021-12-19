@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Spol,Education,Value
+Year,UNIT_MEASURE,Administrativna oblast,Spol,Education,Value
 2013,Broj,REPUBLIKA SRPSKA,Oba spola,Ukupno,1005535
 2013,Broj,REPUBLIKA SRPSKA,M,Ukupno,487292
 2013,Broj,REPUBLIKA SRPSKA,Ž,Ukupno,518243
@@ -240,7 +240,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,ISTOCNA ILIDZA,M,Bez obrazovanja,33
 2013,Broj,ISTOCNA ILIDZA,Ž,Bez obrazovanja,247
 2013,Broj,ISTOCNI DRVAR,Oba spola,Bez obrazovanja,5
-2013,Broj,ISTOCNI DRVAR,M,Bez obrazovanja,-
+2013,Broj,ISTOCNI DRVAR,M,Bez obrazovanja,0
 2013,Broj,ISTOCNI DRVAR,Ž,Bez obrazovanja,5
 2013,Broj,ISTOCNI MOSTAR,Oba spola,Bez obrazovanja,19
 2013,Broj,ISTOCNI MOSTAR,M,Bez obrazovanja,1
@@ -315,7 +315,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,PELAGICEVO,M,Bez obrazovanja,46
 2013,Broj,PELAGICEVO,Ž,Bez obrazovanja,244
 2013,Broj,PETROVAC,Oba spola,Bez obrazovanja,11
-2013,Broj,PETROVAC,M,Bez obrazovanja,-
+2013,Broj,PETROVAC,M,Bez obrazovanja,0
 2013,Broj,PETROVAC,Ž,Bez obrazovanja,11
 2013,Broj,PETROVO,Oba spola,Bez obrazovanja,403
 2013,Broj,PETROVO,M,Bez obrazovanja,48
@@ -952,7 +952,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,BANJA LUKA,Ž,secondary_specialization,291
 2013,Broj,BERKOVICI,Oba spola,secondary_specialization,11
 2013,Broj,BERKOVICI,M,secondary_specialization,11
-2013,Broj,BERKOVICI,Ž,secondary_specialization,-
+2013,Broj,BERKOVICI,Ž,secondary_specialization,0
 2013,Broj,BIJELJINA,Oba spola,secondary_specialization,564
 2013,Broj,BIJELJINA,M,secondary_specialization,485
 2013,Broj,BIJELJINA,Ž,secondary_specialization,79
@@ -996,11 +996,11 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,ISTOCNA ILIDZA,M,secondary_specialization,123
 2013,Broj,ISTOCNA ILIDZA,Ž,secondary_specialization,17
 2013,Broj,ISTOCNI DRVAR,Oba spola,secondary_specialization,1
-2013,Broj,ISTOCNI DRVAR,M,secondary_specialization,-
+2013,Broj,ISTOCNI DRVAR,M,secondary_specialization,0
 2013,Broj,ISTOCNI DRVAR,Ž,secondary_specialization,1
-2013,Broj,ISTOCNI MOSTAR,Oba spola,secondary_specialization,-
-2013,Broj,ISTOCNI MOSTAR,M,secondary_specialization,-
-2013,Broj,ISTOCNI MOSTAR,Ž,secondary_specialization,-
+2013,Broj,ISTOCNI MOSTAR,Oba spola,secondary_specialization,0
+2013,Broj,ISTOCNI MOSTAR,M,secondary_specialization,0
+2013,Broj,ISTOCNI MOSTAR,Ž,secondary_specialization,0
 2013,Broj,ISTOCNI STARI GRAD,Oba spola,secondary_specialization,16
 2013,Broj,ISTOCNI STARI GRAD,M,secondary_specialization,15
 2013,Broj,ISTOCNI STARI GRAD,Ž,secondary_specialization,1
@@ -1009,7 +1009,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,ISTOCNO NOVO SARAJEVO,Ž,secondary_specialization,12
 2013,Broj,JEZERO,Oba spola,secondary_specialization,1
 2013,Broj,JEZERO,M,secondary_specialization,1
-2013,Broj,JEZERO,Ž,secondary_specialization,-
+2013,Broj,JEZERO,Ž,secondary_specialization,0
 2013,Broj,KALINOVIK,Oba spola,secondary_specialization,16
 2013,Broj,KALINOVIK,M,secondary_specialization,13
 2013,Broj,KALINOVIK,Ž,secondary_specialization,3
@@ -1029,7 +1029,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,KRUPA NA UNI,M,secondary_specialization,3
 2013,Broj,KRUPA NA UNI,Ž,secondary_specialization,2
 2013,Broj,KUPRES,Oba spola,secondary_specialization,1
-2013,Broj,KUPRES,M,secondary_specialization,-
+2013,Broj,KUPRES,M,secondary_specialization,0
 2013,Broj,KUPRES,Ž,secondary_specialization,1
 2013,Broj,LAKTASI,Oba spola,secondary_specialization,169
 2013,Broj,LAKTASI,M,secondary_specialization,141
@@ -1057,7 +1057,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,NOVI GRAD,Ž,secondary_specialization,29
 2013,Broj,NOVO GORAZDE,Oba spola,secondary_specialization,10
 2013,Broj,NOVO GORAZDE,M,secondary_specialization,10
-2013,Broj,NOVO GORAZDE,Ž,secondary_specialization,-
+2013,Broj,NOVO GORAZDE,Ž,secondary_specialization,0
 2013,Broj,OSMACI,Oba spola,secondary_specialization,15
 2013,Broj,OSMACI,M,secondary_specialization,12
 2013,Broj,OSMACI,Ž,secondary_specialization,3
@@ -1070,9 +1070,9 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,PELAGICEVO,Oba spola,secondary_specialization,4
 2013,Broj,PELAGICEVO,M,secondary_specialization,3
 2013,Broj,PELAGICEVO,Ž,secondary_specialization,1
-2013,Broj,PETROVAC,Oba spola,secondary_specialization,-
-2013,Broj,PETROVAC,M,secondary_specialization,-
-2013,Broj,PETROVAC,Ž,secondary_specialization,-
+2013,Broj,PETROVAC,Oba spola,secondary_specialization,0
+2013,Broj,PETROVAC,M,secondary_specialization,0
+2013,Broj,PETROVAC,Ž,secondary_specialization,0
 2013,Broj,PETROVO,Oba spola,secondary_specialization,79
 2013,Broj,PETROVO,M,secondary_specialization,74
 2013,Broj,PETROVO,Ž,secondary_specialization,5
@@ -1117,7 +1117,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,FOCA,Ž,secondary_specialization,14
 2013,Broj,HAN PIJESAK,Oba spola,secondary_specialization,20
 2013,Broj,HAN PIJESAK,M,secondary_specialization,20
-2013,Broj,HAN PIJESAK,Ž,secondary_specialization,-
+2013,Broj,HAN PIJESAK,Ž,secondary_specialization,0
 2013,Broj,CAJNICE,Oba spola,secondary_specialization,38
 2013,Broj,CAJNICE,M,secondary_specialization,37
 2013,Broj,CAJNICE,Ž,secondary_specialization,1
@@ -1129,7 +1129,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,SAMAC,Ž,secondary_specialization,14
 2013,Broj,SEKOVICI,Oba spola,secondary_specialization,16
 2013,Broj,SEKOVICI,M,secondary_specialization,16
-2013,Broj,SEKOVICI,Ž,secondary_specialization,-
+2013,Broj,SEKOVICI,Ž,secondary_specialization,0
 2013,Broj,SIPOVO,Oba spola,secondary_specialization,22
 2013,Broj,SIPOVO,M,secondary_specialization,20
 2013,Broj,SIPOVO,Ž,secondary_specialization,2
@@ -1186,8 +1186,10 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,ISTOCNA ILIDZA,Ž,first_degree,198
 2013,Broj,ISTOCNI DRVAR,Oba spola,first_degree,5
 2013,Broj,ISTOCNI DRVAR,M,first_degree,5
+2013,Broj,ISTOCNI DRVAR,Ž,first_degree,0
 2013,Broj,ISTOCNI MOSTAR,Oba spola,first_degree,2
 2013,Broj,ISTOCNI MOSTAR,M,first_degree,2
+2013,Broj,ISTOCNI MOSTAR,Ž,first_degree,0
 2013,Broj,ISTOCNI STARI GRAD,Oba spola,first_degree,27
 2013,Broj,ISTOCNI STARI GRAD,M,first_degree,14
 2013,Broj,ISTOCNI STARI GRAD,Ž,first_degree,13
@@ -1217,7 +1219,7 @@ Year,UNIT_MEASURE,Teritory,Spol,Education,Value
 2013,Broj,KRUPA NA UNI,Ž,first_degree,5
 2013,Broj,KUPRES,Oba spola,first_degree,2
 2013,Broj,KUPRES,M,first_degree,2
-2013,Broj,KUPRES,Ž,first_degree,-
+2013,Broj,KUPRES,Ž,first_degree,0
 2013,Broj,LAKTASI,Oba spola,first_degree,822
 2013,Broj,LAKTASI,M,first_degree,462
 2013,Broj,LAKTASI,Ž,first_degree,360

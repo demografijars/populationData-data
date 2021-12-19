@@ -11,34 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "illiterate",
-                "illiterates_percentage",
-                "Unknown"
-              ]
-            },
-            "title": "Literacy"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -108,7 +81,34 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "illiterate",
+                "illiterates_percentage",
+                "Unknown"
+              ]
+            },
+            "title": "Literacy"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -117,7 +117,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {

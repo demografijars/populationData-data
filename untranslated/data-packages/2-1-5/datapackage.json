@@ -101,7 +101,7 @@
             }
           },
           {
-            "name": "Live births",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [

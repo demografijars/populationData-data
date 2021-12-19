@@ -110,7 +110,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Live births",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -124,7 +124,7 @@
                 "two_children"
               ]
             },
-            "title": "Live births"
+            "title": "Vital statistics"
           },
           {
             "name": "SEX",
@@ -355,38 +355,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
-                "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
-              ]
-            },
-            "title": "Education"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -456,7 +425,38 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "elementary_education",
+                "first_degree",
+                "incomplete_elementary",
+                "No education",
+                "secondary_education",
+                "secondary_specialization",
+                "university_degree"
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -465,7 +465,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -1475,23 +1475,6 @@
       "schema": {
         "fields": [
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5+",
-                "Total",
-                "average_number",
-                "four_members",
-                "one_member",
-                "three_members",
-                "two_members"
-              ]
-            },
-            "title": "Household size"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -1591,6 +1574,23 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "household_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+",
+                "Total",
+                "average_number",
+                "four_members",
+                "one_member",
+                "three_members",
+                "two_members"
+              ]
+            },
+            "title": "household_members"
           }
         ]
       },
@@ -2988,7 +2988,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -5233,39 +5233,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Disabilities",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "communication",
-                "disabilities_T",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "more_disabilities",
-                "walking"
-              ]
-            },
-            "title": "Disabilities"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5335,7 +5303,39 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Disabilities",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "communication",
+                "disabilities_T",
+                "dressing",
+                "eyesight",
+                "hearing",
+                "memory",
+                "more_disabilities",
+                "walking"
+              ]
+            },
+            "title": "Disabilities"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5409,36 +5409,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Mother tounge",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "bosnian",
-                "croatian",
-                "Other",
-                "serbian",
-                "Unknown"
-              ]
-            },
-            "title": "Mother tounge"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5508,7 +5479,36 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Mother tounge",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "bosnian",
+                "croatian",
+                "Other",
+                "serbian",
+                "Unknown"
+              ]
+            },
+            "title": "Mother tounge"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5977,34 +5977,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Literacy",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "illiterate",
-                "illiterates_percentage",
-                "Unknown"
-              ]
-            },
-            "title": "Literacy"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6074,7 +6047,34 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Literacy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "illiterate",
+                "illiterates_percentage",
+                "Unknown"
+              ]
+            },
+            "title": "Literacy"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6083,7 +6083,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           },
           {

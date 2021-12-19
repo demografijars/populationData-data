@@ -107,7 +107,7 @@
             "title": "Spol"
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "household_members",
             "type": "string",
             "constraints": {
               "enum": [
@@ -121,7 +121,7 @@
                 ""
               ]
             },
-            "title": "Veličina domaćinstva"
+            "title": "household_members"
           },
           {
             "name": "Value",

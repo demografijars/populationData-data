@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Пол,Live births,Value
+Year,UNIT_MEASURE,Teritory,Пол,Витална статистика,Value
 2013,Број,REPUBLIKA SRPSKA,Ж,Укупно,518243
 2013,Број,BANJA LUKA,Ж,Укупно,80633
 2013,Број,BERKOVICI,Ж,Укупно,839
@@ -331,6 +331,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Live births,Value
 2013,Број,DONJI ZABAR,Ж,four_children,69
 2013,Број,ZVORNIK,Ж,four_children,1267
 2013,Број,ISTOCNA ILIDZA,Ж,four_children,111
+2013,Број,ISTOCNI DRVAR,Ж,four_children,0
 2013,Број,ISTOCNI MOSTAR,Ж,four_children,5
 2013,Број,ISTOCNI STARI GRAD,Ж,four_children,23
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,four_children,82
@@ -393,6 +394,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Live births,Value
 2013,Број,DONJI ZABAR,Ж,5+,50
 2013,Број,ZVORNIK,Ж,5+,1008
 2013,Број,ISTOCNA ILIDZA,Ж,5+,54
+2013,Број,ISTOCNI DRVAR,Ж,5+,0
 2013,Број,ISTOCNI MOSTAR,Ж,5+,7
 2013,Број,ISTOCNI STARI GRAD,Ж,5+,7
 2013,Број,ISTOCNO NOVO SARAJEVO,Ж,5+,30
@@ -417,6 +419,7 @@ Year,UNIT_MEASURE,Teritory,Пол,Live births,Value
 2013,Број,OSTRA LUKA,Ж,5+,102
 2013,Број,PALE,Ж,5+,95
 2013,Број,PELAGICEVO,Ж,5+,109
+2013,Број,PETROVAC,Ж,5+,0
 2013,Број,PETROVO,Ж,5+,65
 2013,Број,PRIJEDOR,Ж,5+,1535
 2013,Број,PRNJAVOR,Ж,5+,610

@@ -103,7 +103,7 @@
             }
           },
           {
-            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "name": "household_members",
             "type": "string",
             "constraints": {
               "enum": [

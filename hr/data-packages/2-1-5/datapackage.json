@@ -105,7 +105,7 @@
             "title": "Spol"
           },
           {
-            "name": "Live births",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -119,7 +119,7 @@
                 ""
               ]
             },
-            "title": "Live births"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
