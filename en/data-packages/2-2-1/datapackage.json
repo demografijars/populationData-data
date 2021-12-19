@@ -11,37 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Nationality",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "bosniaks",
-                "croats",
-                "does_not_declare",
-                "Other",
-                "serbs",
-                "Unknown"
-              ]
-            },
-            "title": "Nationality"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -111,7 +81,37 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "bosniaks",
+                "croats",
+                "does_not_declare",
+                "Other",
+                "serbs",
+                "Unknown"
+              ]
+            },
+            "title": "Nationality"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

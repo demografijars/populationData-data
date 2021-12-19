@@ -38,7 +38,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-4,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
 #2-1-5,"UNIT_MEASURE, SEX, Teritory, Live births",4
 #2-1-6,"UNIT_MEASURE, SEX, TYPE_OF_DEPENDENCY_RATIO",3
-#2-2-1,"UNIT_MEASURE, SEX, Teritory, Nationality",4
+#2-2-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Nationality",4
 #2-2-2,"UNIT_MEASURE, SEX, Teritory, Religion",4
 #2-2-3,"UNIT_MEASURE, SEX, Teritory, Mother tounge",4
 #2-3-1,"UNIT_MEASURE, SEX, Teritory, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",4
