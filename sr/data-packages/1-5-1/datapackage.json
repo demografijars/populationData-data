@@ -25,6 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Укупно",
                 "M",
                 "Ж",
                 ""

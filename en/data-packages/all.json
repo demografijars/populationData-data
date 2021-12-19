@@ -622,7 +622,8 @@
               "enum": [
                 "",
                 "F",
-                "M"
+                "M",
+                "Total"
               ]
             },
             "title": "Sex"
