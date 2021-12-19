@@ -3379,7 +3379,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -3392,7 +3391,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "Укупно",
                 "0",
                 "1",
                 "2",
@@ -3521,7 +3520,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -3503,8 +3503,7 @@
               "enum": [
                 "",
                 "F",
-                "M",
-                "Total"
+                "M"
               ]
             },
             "title": "Sex"
@@ -3516,7 +3515,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

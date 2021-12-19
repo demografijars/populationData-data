@@ -3126,7 +3126,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "M",
                 "F",
                 ""
@@ -3138,7 +3137,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "_T",
                 "0",
                 "1",
                 "2",
@@ -3266,7 +3265,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
