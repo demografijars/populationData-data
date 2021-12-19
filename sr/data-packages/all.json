@@ -487,8 +487,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Година"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "UNIT_MEASURE",
@@ -497,7 +509,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Вриједност"
           }
         ]
