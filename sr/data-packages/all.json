@@ -2859,7 +2859,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -2887,7 +2887,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2957,7 +2957,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Административно подручје"
           },
           {
             "name": "SEX",

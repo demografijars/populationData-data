@@ -2854,7 +2854,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -2877,39 +2877,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Religion",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "agnostic",
-                "atheist",
-                "catholic",
-                "does_not_declare",
-                "islam",
-                "ortodox",
-                "Other",
-                "Unknown"
-              ]
-            },
-            "title": "Religion"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2979,7 +2947,39 @@
                 "ZVORNIK"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "Religion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "agnostic",
+                "atheist",
+                "catholic",
+                "does_not_declare",
+                "islam",
+                "ortodox",
+                "Other",
+                "Unknown"
+              ]
+            },
+            "title": "Religion"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
