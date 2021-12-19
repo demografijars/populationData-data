@@ -1307,17 +1307,6 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Вриједност"
@@ -1468,7 +1457,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

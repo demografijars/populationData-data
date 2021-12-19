@@ -21,17 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Vrijednost"
