@@ -290,3 +290,23 @@ census_pyramid: Ценсус
 projection_pyramid: Година пројектовања
 _T: Укупно
 total: Укупно
+infectious_and_parasitic_diseases: Инфективне и паразитске болести (А00–B99)
+neoplasms: Неоплазме (C00–D48)
+diseases_of_the_blood_and_blood_forming_organs: Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89)
+diseases_of_the_endocrine_glands_nutrition_and_metabolism: Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)
+mental_disorders_and_behavioral_disorders: Душевни поремећаји и поремећаји понашања (F00–F99)
+diseases_of_the_nervous_system: Болести нервног система (G00–G99)
+eye_diseases_and_eye_soldering_disease: Болести ока и припојка ока (H00–H59)
+diseases_of_ear_and_mastoid_process: Болести ува и мастоидног наставка (H60–H93)
+diseases_of_the_circulatory_system: Болести циркулаторног система (I00–I99)
+diseases_of_the_respiratory_system: Болести респираторног система (Ј00–Ј99)
+diseases_of_the_digestive_system: Болести дигестивног система (К00–К92)
+skin_and_subcutaneous_tissue_disorders: Болести коже и поткожног ткива (L00–L98)
+diseases_of_the_musculoskeletal_system_and_connective_tissue: Болести мишићно-коштаног система и везивног ткива (М00–М99)
+diseases_of_the_genitourinary_system: Болести генитоуринарног система (N00–N98)
+certain_conditions_occurred_in_the_perinatal_period: Одређена стања настала у перинаталном периоду (P00–P96)
+congenital_anomalies_deformities_and_chromosomal_abnormalities: Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)
+symptoms_signs_and_abnormal_clinical_and_laboratory_findings: Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)
+injuries_poisonings_and_consequences_of_external_factors: Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)
+special_purpose_codes: Шифре за посебне намјене (U00-U85)
+pregnancy_childbirth_and_puerperium: Трудноћа, порођај и пуерперијум (О00–О99)
