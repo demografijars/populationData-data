@@ -16,28 +16,27 @@
             "constraints": {
               "enum": [
                 "",
-                "(P00-P96) Certain conditions originating in the perinatal period",
-                "(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",
-                "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
-                "(I00-I99) Diseases of the circulatory system",
-                "(K00-K93) Diseases of the digestive system",
-                "(H00-H93) Diseases of the eye, ear and adnexa",
-                "(N00-N99) Diseases of the genitourinary system",
-                "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
-                "(G00-G99) Diseases of the nervous system",
-                "(J00-J99) Diseases of the respiratory system",
-                "(L00-L99) Diseases of the skin and subcutaneous tissue",
-                "(E00-E90) Endocrine metabolic and nutritional diseases",
-                "(V01-Y98) External causes of mortality",
-                "(Z00-Z99) Factors influencing health status and contract with health services",
-                "(A00-B99) Infectious and parasitic diseases",
-                "(S00-T98) Injuries, poisoning and consequences of external causes",
-                "(F00-F99) Mental and behavioural disorders",
+                "certain_conditions_occurred_in_the_perinatal_period",
+                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
+                "Deaths",
+                "diseases_of_ear_and_mastoid_process",
+                "diseases_of_the_blood_and_blood_forming_organs",
+                "diseases_of_the_circulatory_system",
+                "diseases_of_the_digestive_system",
+                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
+                "diseases_of_the_genitourinary_system",
+                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
+                "diseases_of_the_nervous_system",
+                "diseases_of_the_respiratory_system",
+                "eye_diseases_and_eye_soldering_disease",
+                "infectious_and_parasitic_diseases",
+                "injuries_poisonings_and_consequences_of_external_factors",
+                "mental_disorders_and_behavioral_disorders",
                 "(C00-C97,D00-D48) Neoplasms",
-                "(O00-O99) Pregnancy, childbirth and the puerperium",
-                "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
-                "Total",
-                "Unknown"
+                "pregnancy_childbirth_and_puerperium",
+                "skin_and_subcutaneous_tissue_disorders",
+                "special_purpose_codes",
+                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings"
               ]
             },
             "title": "Cause of death (as per ICD-10 codes)"
@@ -62,7 +61,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           },
           {

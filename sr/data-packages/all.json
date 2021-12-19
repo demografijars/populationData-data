@@ -3140,6 +3140,11 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -3157,41 +3162,35 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Смрт",
+                "infectious_and_parasitic_diseases",
                 "(Ц00-Ц97,Д00-Д48) Неоплазме",
-                "(И00-И99) Болести циркулацијског система",
-                "(Ј00-Ј99) Болести респираторног система",
-                "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
-                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
-                "Укупно",
-                "(А00-Б99) Заразне и паразитарне болести",
-                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
-                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
-                "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
-                "(Г00-Г99) Болести нервног система",
-                "(Х00-Х93) Болести ока, уха и аднекса",
-                "(Л00-Л99) Болести коже и поткожног ткива",
-                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
-                "(Н00-Н99) Болести генитално-уринарног система",
-                "(О00-О99) Трудноћа, порођај и постпорођајни период",
-                "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
-                "(В01-Y98) Спољни узроци смртности",
-                "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
-                "Непознато",
+                "diseases_of_the_blood_and_blood_forming_organs",
+                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
+                "mental_disorders_and_behavioral_disorders",
+                "diseases_of_the_nervous_system",
+                "eye_diseases_and_eye_soldering_disease",
+                "diseases_of_ear_and_mastoid_process",
+                "diseases_of_the_circulatory_system",
+                "diseases_of_the_respiratory_system",
+                "diseases_of_the_digestive_system",
+                "skin_and_subcutaneous_tissue_disorders",
+                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
+                "diseases_of_the_genitourinary_system",
+                "certain_conditions_occurred_in_the_perinatal_period",
+                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
+                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
+                "injuries_poisonings_and_consequences_of_external_factors",
+                "special_purpose_codes",
+                "pregnancy_childbirth_and_puerperium",
                 ""
               ]
             },
             "title": "Узрок смрти (према шифрама болести по МКБ-10)"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Вриједност"
           }
         ]
