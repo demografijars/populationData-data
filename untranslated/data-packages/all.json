@@ -65,6 +65,10 @@
             "type": "integer"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -72,13 +76,10 @@
                 "_T",
                 "M",
                 "F",
+                "NUMBER",
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "Value",

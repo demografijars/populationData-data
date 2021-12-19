@@ -71,6 +71,11 @@
             "title": "Година"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -78,15 +83,11 @@
                 "Укупно",
                 "M",
                 "Ж",
+                "Број",
                 ""
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
           },
           {
             "name": "Value",
