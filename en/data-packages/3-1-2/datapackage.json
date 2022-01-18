@@ -33,10 +33,10 @@
                 "(A00-B99) Infectious and parasitic diseases",
                 "(S00-T98) Injuries, poisoning and consequences of external causes",
                 "(F00-F99) Mental and behavioural disorders",
-                "(C00-C97,D00-D48) Neoplasms",
+                "Neoplasms",
                 "(O00-O99) Pregnancy, childbirth and the puerperium",
                 "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
-                "Unknown"
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Cause of death (as per ICD-10 codes)"

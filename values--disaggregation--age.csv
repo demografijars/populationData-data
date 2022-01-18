@@ -98,7 +98,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 50-59,50-59,50-59,50-59,50-59,6,1
 50 - 64,50 - 64,50 - 64,50 - 64,50 - 64,9,3
 50,50,50,50,50,8,3
-50+,50+,50+,50+,50+,1,1
+50+,Number of buildings with 50 or more apartments,50+,50+,50+,1,1
 51,51,51,51,51,8,3
 52,52,52,52,52,8,3
 53,53,53,53,53,8,3
@@ -146,7 +146,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 83,83,83,83,83,8,3
 84,84,84,84,84,8,3
 85-89,85-89,85-89,85-89,85-89,200,3
-85+,85+,85+,85+,85+,192,3
+85+,Older than 85,85+,85+,85+,192,3
 85,85,85,85,85,5,2
 86,86,86,86,86,5,2
 87,87,87,87,87,5,2

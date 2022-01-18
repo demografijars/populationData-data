@@ -90,13 +90,13 @@
               "enum": [
                 "",
                 "Total",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
+                "Elementary education",
+                "Higher school or first deegre university education",
+                "Incomplete elementary education",
                 "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
+                "High school education",
+                "Specialization after high school",
+                "University degree education or academia"
               ]
             },
             "title": "Education"

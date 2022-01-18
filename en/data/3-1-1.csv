@@ -1,40 +1,40 @@
 Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
-1999,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,4591
+1999,Both sexes,Neoplasms,Number,4591
 1999,Both sexes,(I00-I99) Diseases of the circulatory system,Number,15911
 1999,Both sexes,(J00-J99) Diseases of the respiratory system,Number,866
 1999,Both sexes,(K00-K93) Diseases of the digestive system,Number,709
 1999,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2552
 1999,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1022
 1999,Both sexes,Total,Number,25651
-1999,M,"(C00-C97,D00-D48) Neoplasms",Number,2752
+1999,M,Neoplasms,Number,2752
 1999,M,(I00-I99) Diseases of the circulatory system,Number,7700
 1999,M,(J00-J99) Diseases of the respiratory system,Number,498
 1999,M,(K00-K93) Diseases of the digestive system,Number,445
 1999,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1347
 1999,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,786
 1999,M,Total,Number,13528
-1999,F,"(C00-C97,D00-D48) Neoplasms",Number,1839
+1999,F,Neoplasms,Number,1839
 1999,F,(I00-I99) Diseases of the circulatory system,Number,8211
 1999,F,(J00-J99) Diseases of the respiratory system,Number,368
 1999,F,(K00-K93) Diseases of the digestive system,Number,264
 1999,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1205
 1999,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,236
 1999,F,Total,Number,12123
-2000,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5122
+2000,Both sexes,Neoplasms,Number,5122
 2000,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16283
 2000,Both sexes,(J00-J99) Diseases of the respiratory system,Number,805
 2000,Both sexes,(K00-K93) Diseases of the digestive system,Number,848
 2000,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2860
 2000,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1091
 2000,Both sexes,Total,Number,27009
-2000,M,"(C00-C97,D00-D48) Neoplasms",Number,3144
+2000,M,Neoplasms,Number,3144
 2000,M,(I00-I99) Diseases of the circulatory system,Number,7810
 2000,M,(J00-J99) Diseases of the respiratory system,Number,464
 2000,M,(K00-K93) Diseases of the digestive system,Number,518
 2000,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1484
 2000,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,812
 2000,M,Total,Number,14232
-2000,F,"(C00-C97,D00-D48) Neoplasms",Number,1978
+2000,F,Neoplasms,Number,1978
 2000,F,(I00-I99) Diseases of the circulatory system,Number,8473
 2000,F,(J00-J99) Diseases of the respiratory system,Number,341
 2000,F,(K00-K93) Diseases of the digestive system,Number,330
@@ -42,7 +42,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2000,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,279
 2000,F,Total,Number,12777
 2001,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,257
-2001,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5347
+2001,Both sexes,Neoplasms,Number,5347
 2001,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
 2001,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,667
 2001,Both sexes,(F00-F99) Mental and behavioural disorders,Number,48
@@ -61,10 +61,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2001,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1017
 2001,Both sexes,(V01-Y98) External causes of mortality,Number,261
 2001,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2001,Both sexes,Unknown,Number,954
+2001,Both sexes,Unknown computer literacy rate,Number,954
 2001,Both sexes,Total,Number,30325
 2001,M,(A00-B99) Infectious and parasitic diseases,Number,157
-2001,M,"(C00-C97,D00-D48) Neoplasms",Number,3288
+2001,M,Neoplasms,Number,3288
 2001,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,7
 2001,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,240
 2001,M,(F00-F99) Mental and behavioural disorders,Number,37
@@ -81,10 +81,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2001,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1637
 2001,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,768
 2001,M,(V01-Y98) External causes of mortality,Number,206
-2001,M,Unknown,Number,527
+2001,M,Unknown computer literacy rate,Number,527
 2001,M,Total,Number,16202
 2001,F,(A00-B99) Infectious and parasitic diseases,Number,100
-2001,F,"(C00-C97,D00-D48) Neoplasms",Number,2059
+2001,F,Neoplasms,Number,2059
 2001,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,13
 2001,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,427
 2001,F,(F00-F99) Mental and behavioural disorders,Number,11
@@ -102,10 +102,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2001,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,249
 2001,F,(V01-Y98) External causes of mortality,Number,55
 2001,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2001,F,Unknown,Number,427
+2001,F,Unknown computer literacy rate,Number,427
 2001,F,Total,Number,14123
 2002,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,263
-2002,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5288
+2002,Both sexes,Neoplasms,Number,5288
 2002,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,19
 2002,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,862
 2002,Both sexes,(F00-F99) Mental and behavioural disorders,Number,66
@@ -124,10 +124,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2002,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,984
 2002,Both sexes,(V01-Y98) External causes of mortality,Number,242
 2002,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2002,Both sexes,Unknown,Number,1790
+2002,Both sexes,Unknown computer literacy rate,Number,1790
 2002,Both sexes,Total,Number,30831
 2002,M,(A00-B99) Infectious and parasitic diseases,Number,160
-2002,M,"(C00-C97,D00-D48) Neoplasms",Number,3201
+2002,M,Neoplasms,Number,3201
 2002,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,11
 2002,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,300
 2002,M,(F00-F99) Mental and behavioural disorders,Number,39
@@ -145,10 +145,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2002,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,751
 2002,M,(V01-Y98) External causes of mortality,Number,180
 2002,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2002,M,Unknown,Number,965
+2002,M,Unknown computer literacy rate,Number,965
 2002,M,Total,Number,16033
 2002,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2002,F,"(C00-C97,D00-D48) Neoplasms",Number,2087
+2002,F,Neoplasms,Number,2087
 2002,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,8
 2002,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,562
 2002,F,(F00-F99) Mental and behavioural disorders,Number,27
@@ -165,34 +165,34 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2002,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1448
 2002,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,233
 2002,F,(V01-Y98) External causes of mortality,Number,62
-2002,F,Unknown,Number,825
+2002,F,Unknown computer literacy rate,Number,825
 2002,F,Total,Number,14798
-2003,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5771
+2003,Both sexes,Neoplasms,Number,5771
 2003,Both sexes,(I00-I99) Diseases of the circulatory system,Number,16990
 2003,Both sexes,(J00-J99) Diseases of the respiratory system,Number,876
 2003,Both sexes,(K00-K93) Diseases of the digestive system,Number,810
 2003,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,3166
 2003,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,950
-2003,Both sexes,Unknown,Number,770
+2003,Both sexes,Unknown computer literacy rate,Number,770
 2003,Both sexes,Total,Number,29333
-2003,M,"(C00-C97,D00-D48) Neoplasms",Number,3499
+2003,M,Neoplasms,Number,3499
 2003,M,(I00-I99) Diseases of the circulatory system,Number,8001
 2003,M,(J00-J99) Diseases of the respiratory system,Number,542
 2003,M,(K00-K93) Diseases of the digestive system,Number,499
 2003,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1612
 2003,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,706
-2003,M,Unknown,Number,424
+2003,M,Unknown computer literacy rate,Number,424
 2003,M,Total,Number,15283
-2003,F,"(C00-C97,D00-D48) Neoplasms",Number,2272
+2003,F,Neoplasms,Number,2272
 2003,F,(I00-I99) Diseases of the circulatory system,Number,8989
 2003,F,(J00-J99) Diseases of the respiratory system,Number,334
 2003,F,(K00-K93) Diseases of the digestive system,Number,311
 2003,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1554
 2003,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,244
-2003,F,Unknown,Number,346
+2003,F,Unknown computer literacy rate,Number,346
 2003,F,Total,Number,14050
 2004,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,255
-2004,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,5709
+2004,Both sexes,Neoplasms,Number,5709
 2004,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,31
 2004,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,993
 2004,Both sexes,(F00-F99) Mental and behavioural disorders,Number,104
@@ -210,10 +210,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2004,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,920
 2004,Both sexes,(V01-Y98) External causes of mortality,Number,273
 2004,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2004,Both sexes,Unknown,Number,1210
+2004,Both sexes,Unknown computer literacy rate,Number,1210
 2004,Both sexes,Total,Number,32616
 2004,M,(A00-B99) Infectious and parasitic diseases,Number,152
-2004,M,"(C00-C97,D00-D48) Neoplasms",Number,3398
+2004,M,Neoplasms,Number,3398
 2004,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,10
 2004,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,377
 2004,M,(F00-F99) Mental and behavioural disorders,Number,80
@@ -230,10 +230,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2004,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,691
 2004,M,(V01-Y98) External causes of mortality,Number,198
 2004,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2004,M,Unknown,Number,651
+2004,M,Unknown computer literacy rate,Number,651
 2004,M,Total,Number,16780
 2004,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2004,F,"(C00-C97,D00-D48) Neoplasms",Number,2311
+2004,F,Neoplasms,Number,2311
 2004,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,21
 2004,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,616
 2004,F,(F00-F99) Mental and behavioural disorders,Number,24
@@ -250,23 +250,23 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2004,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1324
 2004,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,229
 2004,F,(V01-Y98) External causes of mortality,Number,75
-2004,F,Unknown,Number,559
+2004,F,Unknown computer literacy rate,Number,559
 2004,F,Total,Number,15836
-2005,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6255
+2005,Both sexes,Neoplasms,Number,6255
 2005,Both sexes,(I00-I99) Diseases of the circulatory system,Number,17915
 2005,Both sexes,(J00-J99) Diseases of the respiratory system,Number,1242
 2005,Both sexes,(K00-K93) Diseases of the digestive system,Number,818
 2005,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2394
 2005,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,952
 2005,Both sexes,Total,Number,29576
-2005,M,"(C00-C97,D00-D48) Neoplasms",Number,3766
+2005,M,Neoplasms,Number,3766
 2005,M,(I00-I99) Diseases of the circulatory system,Number,8559
 2005,M,(J00-J99) Diseases of the respiratory system,Number,726
 2005,M,(K00-K93) Diseases of the digestive system,Number,491
 2005,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1312
 2005,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,718
 2005,M,Total,Number,15572
-2005,F,"(C00-C97,D00-D48) Neoplasms",Number,2489
+2005,F,Neoplasms,Number,2489
 2005,F,(I00-I99) Diseases of the circulatory system,Number,9356
 2005,F,(J00-J99) Diseases of the respiratory system,Number,516
 2005,F,(K00-K93) Diseases of the digestive system,Number,327
@@ -274,7 +274,7 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2005,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,234
 2005,F,Total,Number,14004
 2006,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,237
-2006,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6252
+2006,Both sexes,Neoplasms,Number,6252
 2006,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
 2006,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1537
 2006,Both sexes,(F00-F99) Mental and behavioural disorders,Number,118
@@ -293,10 +293,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2006,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1017
 2006,Both sexes,(V01-Y98) External causes of mortality,Number,212
 2006,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2006,Both sexes,Unknown,Number,1041
+2006,Both sexes,Unknown computer literacy rate,Number,1041
 2006,Both sexes,Total,Number,33221
 2006,M,(A00-B99) Infectious and parasitic diseases,Number,147
-2006,M,"(C00-C97,D00-D48) Neoplasms",Number,3697
+2006,M,Neoplasms,Number,3697
 2006,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,9
 2006,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,598
 2006,M,(F00-F99) Mental and behavioural disorders,Number,88
@@ -312,10 +312,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2006,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1527
 2006,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,775
 2006,M,(V01-Y98) External causes of mortality,Number,152
-2006,M,Unknown,Number,578
+2006,M,Unknown computer literacy rate,Number,578
 2006,M,Total,Number,17308
 2006,F,(A00-B99) Infectious and parasitic diseases,Number,90
-2006,F,"(C00-C97,D00-D48) Neoplasms",Number,2555
+2006,F,Neoplasms,Number,2555
 2006,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,11
 2006,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,939
 2006,F,(F00-F99) Mental and behavioural disorders,Number,30
@@ -334,10 +334,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2006,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,242
 2006,F,(V01-Y98) External causes of mortality,Number,60
 2006,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2006,F,Unknown,Number,463
+2006,F,Unknown computer literacy rate,Number,463
 2006,F,Total,Number,15913
 2007,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,250
-2007,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6713
+2007,Both sexes,Neoplasms,Number,6713
 2007,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,54
 2007,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1582
 2007,Both sexes,(F00-F99) Mental and behavioural disorders,Number,162
@@ -355,10 +355,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2007,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2219
 2007,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1030
 2007,Both sexes,(V01-Y98) External causes of mortality,Number,267
-2007,Both sexes,Unknown,Number,1076
+2007,Both sexes,Unknown computer literacy rate,Number,1076
 2007,Both sexes,Total,Number,35044
 2007,M,(A00-B99) Infectious and parasitic diseases,Number,164
-2007,M,"(C00-C97,D00-D48) Neoplasms",Number,3983
+2007,M,Neoplasms,Number,3983
 2007,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
 2007,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,609
 2007,M,(F00-F99) Mental and behavioural disorders,Number,113
@@ -375,10 +375,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2007,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1143
 2007,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,766
 2007,M,(V01-Y98) External causes of mortality,Number,199
-2007,M,Unknown,Number,622
+2007,M,Unknown computer literacy rate,Number,622
 2007,M,Total,Number,18154
 2007,F,(A00-B99) Infectious and parasitic diseases,Number,86
-2007,F,"(C00-C97,D00-D48) Neoplasms",Number,2730
+2007,F,Neoplasms,Number,2730
 2007,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,32
 2007,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,973
 2007,F,(F00-F99) Mental and behavioural disorders,Number,49
@@ -395,10 +395,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2007,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1076
 2007,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,264
 2007,F,(V01-Y98) External causes of mortality,Number,68
-2007,F,Unknown,Number,454
+2007,F,Unknown computer literacy rate,Number,454
 2007,F,Total,Number,16890
 2008,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,275
-2008,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6734
+2008,Both sexes,Neoplasms,Number,6734
 2008,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,37
 2008,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1563
 2008,Both sexes,(F00-F99) Mental and behavioural disorders,Number,169
@@ -416,10 +416,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2008,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2028
 2008,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1200
 2008,Both sexes,(V01-Y98) External causes of mortality,Number,2
-2008,Both sexes,Unknown,Number,1039
+2008,Both sexes,Unknown computer literacy rate,Number,1039
 2008,Both sexes,Total,Number,34026
 2008,M,(A00-B99) Infectious and parasitic diseases,Number,170
-2008,M,"(C00-C97,D00-D48) Neoplasms",Number,4053
+2008,M,Neoplasms,Number,4053
 2008,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,16
 2008,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,618
 2008,M,(F00-F99) Mental and behavioural disorders,Number,127
@@ -435,10 +435,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2008,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1052
 2008,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,942
 2008,M,(V01-Y98) External causes of mortality,Number,2
-2008,M,Unknown,Number,586
+2008,M,Unknown computer literacy rate,Number,586
 2008,M,Total,Number,17687
 2008,F,(A00-B99) Infectious and parasitic diseases,Number,105
-2008,F,"(C00-C97,D00-D48) Neoplasms",Number,2681
+2008,F,Neoplasms,Number,2681
 2008,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,21
 2008,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,945
 2008,F,(F00-F99) Mental and behavioural disorders,Number,42
@@ -455,10 +455,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2008,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,29
 2008,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,976
 2008,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,258
-2008,F,Unknown,Number,453
+2008,F,Unknown computer literacy rate,Number,453
 2008,F,Total,Number,16339
 2009,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,287
-2009,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6970
+2009,Both sexes,Neoplasms,Number,6970
 2009,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,41
 2009,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1999
 2009,Both sexes,(F00-F99) Mental and behavioural disorders,Number,191
@@ -476,10 +476,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2009,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1256
 2009,Both sexes,(V01-Y98) External causes of mortality,Number,2
 2009,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,2
-2009,Both sexes,Unknown,Number,650
+2009,Both sexes,Unknown computer literacy rate,Number,650
 2009,Both sexes,Total,Number,34904
 2009,M,(A00-B99) Infectious and parasitic diseases,Number,180
-2009,M,"(C00-C97,D00-D48) Neoplasms",Number,4118
+2009,M,Neoplasms,Number,4118
 2009,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,17
 2009,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,766
 2009,M,(F00-F99) Mental and behavioural disorders,Number,127
@@ -496,10 +496,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2009,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,941
 2009,M,(V01-Y98) External causes of mortality,Number,2
 2009,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2009,M,Unknown,Number,346
+2009,M,Unknown computer literacy rate,Number,346
 2009,M,Total,Number,17884
 2009,F,(A00-B99) Infectious and parasitic diseases,Number,107
-2009,F,"(C00-C97,D00-D48) Neoplasms",Number,2852
+2009,F,Neoplasms,Number,2852
 2009,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,24
 2009,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1233
 2009,F,(F00-F99) Mental and behavioural disorders,Number,64
@@ -516,10 +516,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2009,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,973
 2009,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,315
 2009,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2009,F,Unknown,Number,304
+2009,F,Unknown computer literacy rate,Number,304
 2009,F,Total,Number,17020
 2010,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,285
-2010,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,6973
+2010,Both sexes,Neoplasms,Number,6973
 2010,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,45
 2010,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1903
 2010,Both sexes,(F00-F99) Mental and behavioural disorders,Number,171
@@ -537,10 +537,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1916
 2010,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1117
 2010,Both sexes,(V01-Y98) External causes of mortality,Number,15
-2010,Both sexes,Unknown,Number,638
+2010,Both sexes,Unknown computer literacy rate,Number,638
 2010,Both sexes,Total,Number,35118
 2010,M,(A00-B99) Infectious and parasitic diseases,Number,183
-2010,M,"(C00-C97,D00-D48) Neoplasms",Number,4059
+2010,M,Neoplasms,Number,4059
 2010,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,17
 2010,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,729
 2010,M,(F00-F99) Mental and behavioural disorders,Number,118
@@ -557,10 +557,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1008
 2010,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,878
 2010,M,(V01-Y98) External causes of mortality,Number,11
-2010,M,Unknown,Number,364
+2010,M,Unknown computer literacy rate,Number,364
 2010,M,Total,Number,17900
 2010,F,(A00-B99) Infectious and parasitic diseases,Number,102
-2010,F,"(C00-C97,D00-D48) Neoplasms",Number,2914
+2010,F,Neoplasms,Number,2914
 2010,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,28
 2010,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1174
 2010,F,(F00-F99) Mental and behavioural disorders,Number,53
@@ -578,10 +578,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2010,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,908
 2010,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,239
 2010,F,(V01-Y98) External causes of mortality,Number,4
-2010,F,Unknown,Number,274
+2010,F,Unknown computer literacy rate,Number,274
 2010,F,Total,Number,17218
 2011,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,298
-2011,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7214
+2011,Both sexes,Neoplasms,Number,7214
 2011,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,59
 2011,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1940
 2011,Both sexes,(F00-F99) Mental and behavioural disorders,Number,161
@@ -599,10 +599,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2011,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1162
 2011,Both sexes,(V01-Y98) External causes of mortality,Number,14
 2011,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2011,Both sexes,Unknown,Number,695
+2011,Both sexes,Unknown computer literacy rate,Number,695
 2011,Both sexes,Total,Number,35028
 2011,M,(A00-B99) Infectious and parasitic diseases,Number,192
-2011,M,"(C00-C97,D00-D48) Neoplasms",Number,4316
+2011,M,Neoplasms,Number,4316
 2011,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
 2011,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,761
 2011,M,(F00-F99) Mental and behavioural disorders,Number,89
@@ -619,10 +619,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2011,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,930
 2011,M,(V01-Y98) External causes of mortality,Number,13
 2011,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2011,M,Unknown,Number,378
+2011,M,Unknown computer literacy rate,Number,378
 2011,M,Total,Number,17965
 2011,F,(A00-B99) Infectious and parasitic diseases,Number,106
-2011,F,"(C00-C97,D00-D48) Neoplasms",Number,2898
+2011,F,Neoplasms,Number,2898
 2011,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,39
 2011,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1179
 2011,F,(F00-F99) Mental and behavioural disorders,Number,72
@@ -639,10 +639,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2011,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,836
 2011,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,232
 2011,F,(V01-Y98) External causes of mortality,Number,1
-2011,F,Unknown,Number,317
+2011,F,Unknown computer literacy rate,Number,317
 2011,F,Total,Number,17063
 2012,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,344
-2012,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7598
+2012,Both sexes,Neoplasms,Number,7598
 2012,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,47
 2012,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1926
 2012,Both sexes,(F00-F99) Mental and behavioural disorders,Number,160
@@ -659,10 +659,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2012,Both sexes,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,40
 2012,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1207
 2012,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1067
-2012,Both sexes,Unknown,Number,740
+2012,Both sexes,Unknown computer literacy rate,Number,740
 2012,Both sexes,Total,Number,35817
 2012,M,(A00-B99) Infectious and parasitic diseases,Number,185
-2012,M,"(C00-C97,D00-D48) Neoplasms",Number,4458
+2012,M,Neoplasms,Number,4458
 2012,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,25
 2012,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,785
 2012,M,(F00-F99) Mental and behavioural disorders,Number,109
@@ -677,10 +677,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2012,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,26
 2012,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,609
 2012,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,830
-2012,M,Unknown,Number,409
+2012,M,Unknown computer literacy rate,Number,409
 2012,M,Total,Number,18436
 2012,F,(A00-B99) Infectious and parasitic diseases,Number,159
-2012,F,"(C00-C97,D00-D48) Neoplasms",Number,3140
+2012,F,Neoplasms,Number,3140
 2012,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
 2012,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1141
 2012,F,(F00-F99) Mental and behavioural disorders,Number,51
@@ -697,10 +697,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2012,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,14
 2012,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,598
 2012,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,237
-2012,F,Unknown,Number,331
+2012,F,Unknown computer literacy rate,Number,331
 2012,F,Total,Number,17381
 2013,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,268
-2013,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7506
+2013,Both sexes,Neoplasms,Number,7506
 2013,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,50
 2013,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1970
 2013,Both sexes,(F00-F99) Mental and behavioural disorders,Number,192
@@ -716,10 +716,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2013,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2107
 2013,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1024
 2013,Both sexes,(V01-Y98) External causes of mortality,Number,4
-2013,Both sexes,Unknown,Number,782
+2013,Both sexes,Unknown computer literacy rate,Number,782
 2013,Both sexes,Total,Number,35662
 2013,M,(A00-B99) Infectious and parasitic diseases,Number,165
-2013,M,"(C00-C97,D00-D48) Neoplasms",Number,4384
+2013,M,Neoplasms,Number,4384
 2013,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,20
 2013,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,820
 2013,M,(F00-F99) Mental and behavioural disorders,Number,101
@@ -735,10 +735,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2013,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1112
 2013,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,794
 2013,M,(V01-Y98) External causes of mortality,Number,4
-2013,M,Unknown,Number,393
+2013,M,Unknown computer literacy rate,Number,393
 2013,M,Total,Number,18217
 2013,F,(A00-B99) Infectious and parasitic diseases,Number,103
-2013,F,"(C00-C97,D00-D48) Neoplasms",Number,3122
+2013,F,Neoplasms,Number,3122
 2013,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,30
 2013,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1150
 2013,F,(F00-F99) Mental and behavioural disorders,Number,91
@@ -753,10 +753,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2013,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",Number,19
 2013,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,995
 2013,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,230
-2013,F,Unknown,Number,389
+2013,F,Unknown computer literacy rate,Number,389
 2013,F,Total,Number,17445
 2014,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,291
-2014,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7821
+2014,Both sexes,Neoplasms,Number,7821
 2014,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,42
 2014,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2267
 2014,Both sexes,(F00-F99) Mental and behavioural disorders,Number,225
@@ -774,10 +774,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2014,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1032
 2014,Both sexes,(V01-Y98) External causes of mortality,Number,17
 2014,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2014,Both sexes,Unknown,Number,590
+2014,Both sexes,Unknown computer literacy rate,Number,590
 2014,Both sexes,Total,Number,35980
 2014,M,(A00-B99) Infectious and parasitic diseases,Number,164
-2014,M,"(C00-C97,D00-D48) Neoplasms",Number,4569
+2014,M,Neoplasms,Number,4569
 2014,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,14
 2014,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,925
 2014,M,(F00-F99) Mental and behavioural disorders,Number,142
@@ -793,10 +793,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2014,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1132
 2014,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,795
 2014,M,(V01-Y98) External causes of mortality,Number,10
-2014,M,Unknown,Number,327
+2014,M,Unknown computer literacy rate,Number,327
 2014,M,Total,Number,18360
 2014,F,(A00-B99) Infectious and parasitic diseases,Number,127
-2014,F,"(C00-C97,D00-D48) Neoplasms",Number,3252
+2014,F,Neoplasms,Number,3252
 2014,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,28
 2014,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1342
 2014,F,(F00-F99) Mental and behavioural disorders,Number,83
@@ -814,10 +814,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2014,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,237
 2014,F,(V01-Y98) External causes of mortality,Number,7
 2014,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2014,F,Unknown,Number,263
+2014,F,Unknown computer literacy rate,Number,263
 2014,F,Total,Number,17620
 2015,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,370
-2015,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7956
+2015,Both sexes,Neoplasms,Number,7956
 2015,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,55
 2015,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2025
 2015,Both sexes,(F00-F99) Mental and behavioural disorders,Number,188
@@ -835,10 +835,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2015,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2098
 2015,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1103
 2015,Both sexes,(V01-Y98) External causes of mortality,Number,8
-2015,Both sexes,Unknown,Number,541
+2015,Both sexes,Unknown computer literacy rate,Number,541
 2015,Both sexes,Total,Number,38150
 2015,M,(A00-B99) Infectious and parasitic diseases,Number,207
-2015,M,"(C00-C97,D00-D48) Neoplasms",Number,4525
+2015,M,Neoplasms,Number,4525
 2015,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,19
 2015,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,856
 2015,M,(F00-F99) Mental and behavioural disorders,Number,102
@@ -854,10 +854,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2015,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1102
 2015,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,840
 2015,M,(V01-Y98) External causes of mortality,Number,5
-2015,M,Unknown,Number,317
+2015,M,Unknown computer literacy rate,Number,317
 2015,M,Total,Number,19219
 2015,F,(A00-B99) Infectious and parasitic diseases,Number,163
-2015,F,"(C00-C97,D00-D48) Neoplasms",Number,3431
+2015,F,Neoplasms,Number,3431
 2015,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,36
 2015,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1169
 2015,F,(F00-F99) Mental and behavioural disorders,Number,86
@@ -875,10 +875,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2015,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,996
 2015,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,263
 2015,F,(V01-Y98) External causes of mortality,Number,3
-2015,F,Unknown,Number,224
+2015,F,Unknown computer literacy rate,Number,224
 2015,F,Total,Number,18931
 2016,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,412
-2016,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7761
+2016,Both sexes,Neoplasms,Number,7761
 2016,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,54
 2016,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1961
 2016,Both sexes,(F00-F99) Mental and behavioural disorders,Number,226
@@ -896,10 +896,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1730
 2016,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1040
 2016,Both sexes,(V01-Y98) External causes of mortality,Number,14
-2016,Both sexes,Unknown,Number,545
+2016,Both sexes,Unknown computer literacy rate,Number,545
 2016,Both sexes,Total,Number,36571
 2016,M,(A00-B99) Infectious and parasitic diseases,Number,214
-2016,M,"(C00-C97,D00-D48) Neoplasms",Number,4464
+2016,M,Neoplasms,Number,4464
 2016,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,22
 2016,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,789
 2016,M,(F00-F99) Mental and behavioural disorders,Number,141
@@ -916,10 +916,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,872
 2016,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,783
 2016,M,(V01-Y98) External causes of mortality,Number,11
-2016,M,Unknown,Number,296
+2016,M,Unknown computer literacy rate,Number,296
 2016,M,Total,Number,18542
 2016,F,(A00-B99) Infectious and parasitic diseases,Number,198
-2016,F,"(C00-C97,D00-D48) Neoplasms",Number,3297
+2016,F,Neoplasms,Number,3297
 2016,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,32
 2016,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1172
 2016,F,(F00-F99) Mental and behavioural disorders,Number,85
@@ -937,10 +937,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2016,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,858
 2016,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,257
 2016,F,(V01-Y98) External causes of mortality,Number,3
-2016,F,Unknown,Number,249
+2016,F,Unknown computer literacy rate,Number,249
 2016,F,Total,Number,18029
 2017,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,395
-2017,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,8136
+2017,Both sexes,Neoplasms,Number,8136
 2017,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,69
 2017,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2170
 2017,Both sexes,(F00-F99) Mental and behavioural disorders,Number,265
@@ -957,10 +957,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,Both sexes,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,2294
 2017,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1067
 2017,Both sexes,(V01-Y98) External causes of mortality,Number,15
-2017,Both sexes,Unknown,Number,550
+2017,Both sexes,Unknown computer literacy rate,Number,550
 2017,Both sexes,Total,Number,37979
 2017,M,(A00-B99) Infectious and parasitic diseases,Number,209
-2017,M,"(C00-C97,D00-D48) Neoplasms",Number,4632
+2017,M,Neoplasms,Number,4632
 2017,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,25
 2017,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,885
 2017,M,(F00-F99) Mental and behavioural disorders,Number,147
@@ -977,10 +977,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1168
 2017,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,780
 2017,M,(V01-Y98) External causes of mortality,Number,9
-2017,M,Unknown,Number,331
+2017,M,Unknown computer literacy rate,Number,331
 2017,M,Total,Number,19186
 2017,F,(A00-B99) Infectious and parasitic diseases,Number,186
-2017,F,"(C00-C97,D00-D48) Neoplasms",Number,3504
+2017,F,Neoplasms,Number,3504
 2017,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,44
 2017,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1285
 2017,F,(F00-F99) Mental and behavioural disorders,Number,118
@@ -997,10 +997,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2017,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1126
 2017,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,287
 2017,F,(V01-Y98) External causes of mortality,Number,6
-2017,F,Unknown,Number,219
+2017,F,Unknown computer literacy rate,Number,219
 2017,F,Total,Number,18793
 2018,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,443
-2018,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,7881
+2018,Both sexes,Neoplasms,Number,7881
 2018,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,72
 2018,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,2086
 2018,Both sexes,(F00-F99) Mental and behavioural disorders,Number,236
@@ -1018,10 +1018,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2018,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,1015
 2018,Both sexes,(V01-Y98) External causes of mortality,Number,11
 2018,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2018,Both sexes,Unknown,Number,470
+2018,Both sexes,Unknown computer literacy rate,Number,470
 2018,Both sexes,Total,Number,37744
 2018,M,(A00-B99) Infectious and parasitic diseases,Number,243
-2018,M,"(C00-C97,D00-D48) Neoplasms",Number,4606
+2018,M,Neoplasms,Number,4606
 2018,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,27
 2018,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,881
 2018,M,(F00-F99) Mental and behavioural disorders,Number,121
@@ -1038,10 +1038,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2018,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,773
 2018,M,(V01-Y98) External causes of mortality,Number,9
 2018,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,1
-2018,M,Unknown,Number,247
+2018,M,Unknown computer literacy rate,Number,247
 2018,M,Total,Number,19007
 2018,F,(A00-B99) Infectious and parasitic diseases,Number,200
-2018,F,"(C00-C97,D00-D48) Neoplasms",Number,3275
+2018,F,Neoplasms,Number,3275
 2018,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,45
 2018,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1205
 2018,F,(F00-F99) Mental and behavioural disorders,Number,115
@@ -1058,10 +1058,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2018,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Number,1280
 2018,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,242
 2018,F,(V01-Y98) External causes of mortality,Number,2
-2018,F,Unknown,Number,223
+2018,F,Unknown computer literacy rate,Number,223
 2018,F,Total,Number,18737
 2019,Both sexes,(A00-B99) Infectious and parasitic diseases,Number,451
-2019,Both sexes,"(C00-C97,D00-D48) Neoplasms",Number,8053
+2019,Both sexes,Neoplasms,Number,8053
 2019,Both sexes,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,90
 2019,Both sexes,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1925
 2019,Both sexes,(F00-F99) Mental and behavioural disorders,Number,290
@@ -1080,10 +1080,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,918
 2019,Both sexes,(V01-Y98) External causes of mortality,Number,9
 2019,Both sexes,(Z00-Z99) Factors influencing health status and contract with health services,Number,10
-2019,Both sexes,Unknown,Number,583
+2019,Both sexes,Unknown computer literacy rate,Number,583
 2019,Both sexes,Total,Number,38829
 2019,M,(A00-B99) Infectious and parasitic diseases,Number,241
-2019,M,"(C00-C97,D00-D48) Neoplasms",Number,4606
+2019,M,Neoplasms,Number,4606
 2019,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,30
 2019,M,(E00-E90) Endocrine metabolic and nutritional diseases,Number,806
 2019,M,(F00-F99) Mental and behavioural disorders,Number,153
@@ -1101,10 +1101,10 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,M,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,701
 2019,M,(V01-Y98) External causes of mortality,Number,8
 2019,M,(Z00-Z99) Factors influencing health status and contract with health services,Number,7
-2019,M,Unknown,Number,349
+2019,M,Unknown computer literacy rate,Number,349
 2019,M,Total,Number,19787
 2019,F,(A00-B99) Infectious and parasitic diseases,Number,210
-2019,F,"(C00-C97,D00-D48) Neoplasms",Number,3447
+2019,F,Neoplasms,Number,3447
 2019,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",Number,60
 2019,F,(E00-E90) Endocrine metabolic and nutritional diseases,Number,1119
 2019,F,(F00-F99) Mental and behavioural disorders,Number,137
@@ -1123,5 +1123,5 @@ Year,Sex,Cause of death (as per ICD-10 codes),UNIT_MEASURE,Value
 2019,F,"(S00-T98) Injuries, poisoning and consequences of external causes",Number,217
 2019,F,(V01-Y98) External causes of mortality,Number,1
 2019,F,(Z00-Z99) Factors influencing health status and contract with health services,Number,3
-2019,F,Unknown,Number,234
+2019,F,Unknown computer literacy rate,Number,234
 2019,F,Total,Number,19042

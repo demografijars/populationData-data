@@ -90,14 +90,14 @@
               "enum": [
                 "",
                 "Total",
-                "agnostic",
-                "atheist",
-                "catholic",
-                "does_not_declare",
-                "islam",
-                "ortodox",
-                "Other",
-                "Unknown"
+                "Agnostic",
+                "Atheist",
+                "Catholic Cristian",
+                "Does not declare about religion",
+                "Islam",
+                "Ortodox Cristian",
+                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Religion"

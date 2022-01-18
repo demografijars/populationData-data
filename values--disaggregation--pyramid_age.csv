@@ -31,7 +31,7 @@ Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicat
 75+,75+,75+,75+,75+,28,2
 80-84,80-84,80-84,80-84,80-84,28,2
 85-89,85-89,85-89,85-89,85-89,28,2
-85+,85+,85+,85+,85+,24,1
+85+,Older than 85,85+,85+,85+,24,1
 90-94,90-94,90-94,90-94,90-94,28,2
 95-99,95-99,95-99,95-99,95-99,28,2
-unknown,Unknown,Nepoznato,Непознато,Nepoznato,4,1
+unknown,Unknown computer literacy rate,Nepoznato,Непознато,Nepoznato,4,1

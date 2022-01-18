@@ -53,9 +53,9 @@ Year,UNIT_MEASURE,Sex,Age,Value
 2013,Number,Both sexes,80-84,25566.0
 2013,Number,M,80-84,9608.0
 2013,Number,F,80-84,15958.0
-2013,Number,Both sexes,85+,11565.0
-2013,Number,M,85+,3865.0
-2013,Number,F,85+,7700.0
+2013,Number,Both sexes,Older than 85,11565.0
+2013,Number,M,Older than 85,3865.0
+2013,Number,F,Older than 85,7700.0
 2013,Number,Both sexes,Average age,41.72
 2013,Number,M,Average age,40.32
 2013,Number,F,Average age,43.05

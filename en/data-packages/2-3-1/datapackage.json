@@ -117,13 +117,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+",
+                "Five and more members of household",
                 "Total",
-                "average_number",
-                "four_members",
-                "one_member",
+                "Average number of memebers in the household",
+                "Four members of household",
+                "One member of household",
                 "three_members",
-                "two_members"
+                "Two members of household"
               ]
             },
             "title": "household_members"

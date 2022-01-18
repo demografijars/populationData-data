@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+",
+                "Five and more members of household",
                 "Total",
                 "Did not give birth",
-                "four_children",
-                "one_child",
-                "three_children",
-                "two_children"
+                "Four children",
+                "One child",
+                "Three children",
+                "Two children"
               ]
             },
             "title": "Vital statistics"

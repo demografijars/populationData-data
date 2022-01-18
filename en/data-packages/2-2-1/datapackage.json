@@ -90,12 +90,12 @@
               "enum": [
                 "",
                 "Total",
-                "bosniaks",
-                "croats",
-                "does_not_declare",
-                "Other",
-                "serbs",
-                "Unknown"
+                "Declares as Bosniak nationality",
+                "Declares as Croat nationality",
+                "Does not declare about religion",
+                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
+                "Declares as Serb nationality",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Nationality"

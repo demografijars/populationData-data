@@ -90,9 +90,9 @@
               "enum": [
                 "",
                 "Total",
-                "illiterate",
-                "illiterates_percentage",
-                "Unknown"
+                "Illiterate",
+                "Percentage of illiterates",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Literacy"

@@ -90,14 +90,14 @@
               "enum": [
                 "",
                 "Total",
-                "communication",
-                "disabilities_T",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "more_disabilities",
-                "walking"
+                "Number of people with communication disabilities",
+                "Total number of people with disabilities",
+                "Number of people with dressing or personal hygiene disabilities",
+                "Number of people with eyesight disabilities despite eyeglasses",
+                "Number of people with hearing disabilities despite hearing aid",
+                "Number of people with memory or concentracion disabilities",
+                "Number of people with more disabilities",
+                "Number of people with walking or climbing the stairs disabilities"
               ]
             },
             "title": "Disabilities"

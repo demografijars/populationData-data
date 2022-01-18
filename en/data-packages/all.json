@@ -245,13 +245,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+",
+                "Five and more members of household",
                 "Total",
-                "average_number",
-                "four_members",
-                "one_member",
+                "Average number of memebers in the household",
+                "Four members of household",
+                "One member of household",
                 "three_members",
-                "two_members"
+                "Two members of household"
               ]
             },
             "title": "household_members"
@@ -293,7 +293,7 @@
                 "70-74",
                 "75-79",
                 "80-84",
-                "85+",
+                "Older than 85",
                 "Total",
                 "Average age"
               ]
@@ -504,11 +504,11 @@
                 "(A00-B99) Infectious and parasitic diseases",
                 "(S00-T98) Injuries, poisoning and consequences of external causes",
                 "(F00-F99) Mental and behavioural disorders",
-                "(C00-C97,D00-D48) Neoplasms",
+                "Neoplasms",
                 "(O00-O99) Pregnancy, childbirth and the puerperium",
                 "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
                 "Total",
-                "Unknown"
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Cause of death (as per ICD-10 codes)"
@@ -764,14 +764,14 @@
               "enum": [
                 "",
                 "Total",
-                "agnostic",
-                "atheist",
-                "catholic",
-                "does_not_declare",
-                "islam",
-                "ortodox",
-                "Other",
-                "Unknown"
+                "Agnostic",
+                "Atheist",
+                "Catholic Cristian",
+                "Does not declare about religion",
+                "Islam",
+                "Ortodox Cristian",
+                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Religion"
@@ -951,8 +951,8 @@
               "enum": [
                 "",
                 "Total",
-                "agricultural_households",
-                "agricultural_selling"
+                "Number of agricultural households",
+                "Number of agricultural households that are selling their products"
               ]
             },
             "title": "Agricultural households"
@@ -1598,7 +1598,7 @@
                 "82",
                 "83",
                 "84",
-                "85+",
+                "Older than 85",
                 "9",
                 "Total"
               ]
@@ -1727,13 +1727,13 @@
               "enum": [
                 "",
                 "Total",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
+                "Elementary education",
+                "Higher school or first deegre university education",
+                "Incomplete elementary education",
                 "No education",
-                "secondary_education",
-                "secondary_specialization",
-                "university_degree"
+                "High school education",
+                "Specialization after high school",
+                "University degree education or academia"
               ]
             },
             "title": "Education"
@@ -2046,10 +2046,10 @@
                 "(A00-B99) Infectious and parasitic diseases",
                 "(S00-T98) Injuries, poisoning and consequences of external causes",
                 "(F00-F99) Mental and behavioural disorders",
-                "(C00-C97,D00-D48) Neoplasms",
+                "Neoplasms",
                 "(O00-O99) Pregnancy, childbirth and the puerperium",
                 "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
-                "Unknown"
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Cause of death (as per ICD-10 codes)"
@@ -2176,7 +2176,7 @@
                 "35-39",
                 "40-44",
                 "45-49",
-                "50+"
+                "Number of buildings with 50 or more apartments"
               ]
             },
             "title": "Age"
@@ -2852,7 +2852,7 @@
                 "85-89",
                 "90-94",
                 "95-99",
-                "Unknown"
+                "Unknown computer literacy rate"
               ]
             },
             "title": "PYRAMID_AGE"
@@ -3229,26 +3229,26 @@
             "constraints": {
               "enum": [
                 "",
-                "certain_conditions_occurred_in_the_perinatal_period",
-                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
+                "Certain conditions occurred in the perinatal period",
+                "Congenital anomalies, deformities and chromosomal abnormalities",
                 "diseases_of_ear_and_mastoid_process",
-                "diseases_of_the_blood_and_blood_forming_organs",
-                "diseases_of_the_circulatory_system",
-                "diseases_of_the_digestive_system",
-                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
-                "diseases_of_the_genitourinary_system",
-                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
-                "diseases_of_the_nervous_system",
-                "diseases_of_the_respiratory_system",
-                "eye_diseases_and_eye_soldering_disease",
-                "infectious_and_parasitic_diseases",
-                "injuries_poisonings_and_consequences_of_external_factors",
-                "mental_disorders_and_behavioral_disorders",
-                "(C00-C97,D00-D48) Neoplasms",
-                "pregnancy_childbirth_and_puerperium",
-                "skin_and_subcutaneous_tissue_disorders",
+                "Diseases of the blood and blood forming organs",
+                "Diseases of the circulatory system",
+                "Diseases of the digestive system",
+                "Diseases of the endocrine glands nutrition and metabolism",
+                "Diseases_of_the_genitourinary_system",
+                "Diseases of the musculoskeletal system and connective tissue",
+                "Nervous system diseases",
+                "Diseases of the respiratory system",
+                "Eye diseases and eye soldering disease",
+                "Infectious and parasitic diseases",
+                "Injuries poisonings and consequences of external factors",
+                "Mental disorders and behavioral disorders",
+                "Neoplasms",
+                "Pregnancy childbirth and puerperium",
+                "Skin and subcutaneous tissue disorders",
                 "special_purpose_codes",
-                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
+                "Symptoms signs and abnormal clinical and laboratory findings",
                 "Total"
               ]
             },
@@ -4052,12 +4052,12 @@
               "enum": [
                 "",
                 "Total",
-                "bosniaks",
-                "croats",
-                "does_not_declare",
-                "Other",
-                "serbs",
-                "Unknown"
+                "Declares as Bosniak nationality",
+                "Declares as Croat nationality",
+                "Does not declare about religion",
+                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
+                "Declares as Serb nationality",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Nationality"
@@ -4281,9 +4281,9 @@
               "enum": [
                 "",
                 "Total",
-                "illiterate",
-                "illiterates_percentage",
-                "Unknown"
+                "Illiterate",
+                "Percentage of illiterates",
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Literacy"
@@ -4535,7 +4535,7 @@
                 "70-74",
                 "75-79",
                 "80-84",
-                "85+",
+                "Older than 85",
                 "Total",
                 "Average age"
               ]
@@ -4921,7 +4921,7 @@
                 "75+",
                 "75-79",
                 "80-84",
-                "85+",
+                "Older than 85",
                 "85-89",
                 "90-94",
                 "95-99"
@@ -5556,13 +5556,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+",
+                "Five and more members of household",
                 "Total",
                 "Did not give birth",
-                "four_children",
-                "one_child",
-                "three_children",
-                "two_children"
+                "Four children",
+                "One child",
+                "Three children",
+                "Two children"
               ]
             },
             "title": "Vital statistics"
@@ -5818,14 +5818,14 @@
               "enum": [
                 "",
                 "Total",
-                "communication",
-                "disabilities_T",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "more_disabilities",
-                "walking"
+                "Number of people with communication disabilities",
+                "Total number of people with disabilities",
+                "Number of people with dressing or personal hygiene disabilities",
+                "Number of people with eyesight disabilities despite eyeglasses",
+                "Number of people with hearing disabilities despite hearing aid",
+                "Number of people with memory or concentracion disabilities",
+                "Number of people with more disabilities",
+                "Number of people with walking or climbing the stairs disabilities"
               ]
             },
             "title": "Disabilities"
@@ -6191,9 +6191,9 @@
                 "Total",
                 "bosnian",
                 "croatian",
-                "Other",
+                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
                 "serbian",
-                "Unknown"
+                "Unknown computer literacy rate"
               ]
             },
             "title": "Mother tounge"
