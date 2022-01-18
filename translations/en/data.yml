@@ -387,3 +387,142 @@ ugljevik: "Ugljevik"
 visegrad: "Visegrad"
 vlasenica: "Vlasenica"
 vukosavlje: "Vukosavlje"
+85+: Older than 85
+average_age: Average age
+bosniaks: Declares as Bosniak nationality
+serbs: Declares as Serb nationality
+croats: Declares as Croat nationality
+other: Declares as other nationality than Bosniak, Croat or Serb
+does_not_declare: Does not declare about nationality
+unknown: Unknown nationality
+islam: Islam
+catholic: Catholic Cristian
+ortodox: Ortodox Cristian
+agnostic: Agnostic
+atheist: Atheist
+other: Religion other than Islam, Catholic Crsitian, Ortodox Cristian
+does_not_declare: Does not declare about religion
+unknow: Unknown religious background
+never_married: Never been married
+married: Married
+divorced: Divorced
+widow: Widow
+did_not_give_birth: Did not give birth
+one_child: One child
+two_children: Two children
+three_children: Three children
+four_children: Four children
+5+: Five and more children
+illiterate: Illiterate
+illiterates_percentage: Percentage of illiterates
+unknown: Unknown literacy background
+no_education: No education
+incomplete_elementary: Incomplete elementary education
+elementary_education: Elementary education
+secondary_education: High school education
+secondary_specialization: Specialization after high school
+first_degree: Higher school or first deegre university education
+university_degree: University degree education or academia
+computer_literate: Computer literate people
+partlly_literate: Partlly computer literate people
+computer_illiterate: Computer illiterate people
+unknown: Unknown computer literacy rate
+working_age_population: Working age population
+manpower_T: Total of manpower
+manpower_employed: Manpower that is employed
+unemployed_T: Total of unemployed manpower
+unemployed_experienced: Unemployed manpower with previous working experience
+unemployed_inexperienced: Unemployed manpower without previous working experience
+economically_inactive_T: Total ofeconomically inactive people
+economically_inactive_students: Number of students aged 15+ that are economically inactive
+economically_inactive_retirees: Number of retirees that are economically inactive
+economically_inactive_chores: Number of people doing chores and beeing economically inactive
+economically_inactive_unable: Number of people unable to work
+economically_inactive_other: Other categories of economically inactive people
+disabilities_T: Total number of people with disabilities
+eyesight: Number of people with eyesight disabilities despite eyeglasses
+hearing: Number of people with hearing disabilities despite hearing aid
+walking: Number of people with walking or climbing the stairs disabilities
+memory: Number of people with memory or concentracion disabilities
+dressing: Number of people with dressing or personal hygiene disabilities
+communication: Number of people with communication disabilities
+more_disabilities: Number of people with more disabilities
+one_member: One member of household
+two_members: Two members of household
+three_memners: Three members of household
+four_members: Four members of household
+5+: Five and more members of household
+average_number: Average number of memebers in the household
+buildings_T: Total number of buildings
+one_apartment: Number of buildings with one apartment
+two_apartments: Number of buildings with two apartments
+three_apartments: Number of buildings with three apartments
+four_apartments: Number of budildings with four apartments
+five_apartments: Number of buildings with five apartments
+6_to_10_apartments: Number of buildings with 6 to 10 apartments
+11_to_20_apartments: Number of buildings with 11-20 apartments
+21_to_30_apartments: Number of buildingas with 21-30 apartments
+31_to_50_apartments: Number of buildings with 31-50 apartments
+50+: Number of buildings with 50 or more apartments
+housing_only: Number of apartments and living area used for housing only
+housing_work: Number of apartments and living area used for both, housing and work
+work_only: Number of apartments and living area used for work only
+recreation: Number of apartments and living area used for relaxation and recreation
+agriculture: Number of apartments and living area used in agriculture season
+second_apartment: Number of apartments and living area used as second apartment in the same building
+tenent: Number of apartments and living area used by tenents
+empty: Number of apartments and living area that are empty
+one_bedroom: Numbers of apartments and living area with one-bedroom 
+two_bedrooms: Numbers of apartments and living area with two-bedrooms 
+three_bedrooms: Numbers of apartments and living area with three-bedrooms 
+four_bedrooms: Numbers of apartments and living area with four-bedrooms 
+five_bedrooms: Numbers of apartments and living area with five-bedrooms 
+six_bedrooms: Numbers of apartments and living area with six-bedrooms
+seven_bedrooms: Numbers of apartments and living area with seven-bedrooms
+8+: Numbers of apartments and living area with eight and more bedrooms
+agricultural_households: Number of agricultural households
+agricultural_selling: Number of agricultural households that are selling their products
+married_couple_without_kids: Husband and wife without children
+illegitimate_couple_without_kids: Not married couple without children
+married_couple_with_kids: Husband and wife with children
+illegitimate_couple_with_kids: Not married couple with children
+mother_with_kids: Single mother with children
+father_with_kids: Single father with children
+live_births: Live births
+deaths: Passed away
+natural_increase: Difference between live births and deaths
+birth_rate: Number of live births per 1.000 women
+total_fertility_rate: Fertility rate
+age_of_mother_at_birth_of_first_child: Age of mother at birth of firstborn
+age_of_death: Age of death
+infant_deaths: Number of infant deaths
+infant_death_rate: Infant death rate
+infant_mortality_rate: Infant mortality rate (IMR)
+deaths: Number of deaths
+infectious_and_parasitic_diseases: Infectious and parasitic diseases
+neoplasms: Neoplasms
+diseases_of_the_blood_and_blood_forming_organs: Diseases of the blood and blood forming organs
+diseases_of_the_endocrine_glands_nutrition_and_metabolism: Diseases of the endocrine glands nutrition and metabolism
+mental_disorders_and_behavioral_disorders: Mental disorders and behavioral disorders
+diseases_of_the_nervous_system: Nervous system diseases
+eye_diseases_and_eye_soldering_disease: Eye diseases and eye soldering disease
+diseases_of_the_ear_and_mastoid_process: Diseases of the ear and mastoid process
+diseases_of_the_circulatory_system: Diseases of the circulatory system
+diseases_of_the_respiratory_system: Diseases of the respiratory system
+diseases_of_the_digestive_system: Diseases of the digestive system
+skin_and_subcutaneous_tissue_disorders: Skin and subcutaneous tissue disorders
+diseases_of_the_musculoskeletal_system_and_connective_tissue: Diseases of the musculoskeletal system and connective tissue
+diseases_of_the_genitourinary_system: Diseases_of_the_genitourinary_system
+certain_conditions_occurred_in_the_perinatal_period: Certain conditions occurred in the perinatal period
+congenital_anomalies_deformities_and_chromosomal_abnormalities: Congenital anomalies, deformities and chromosomal abnormalities
+symptoms_signs_and_abnormal_clinical_and_laboratory_findings: Symptoms signs and abnormal clinical and laboratory findings
+injuries_poisonings_and_consequences_of_external_factors: Injuries poisonings and consequences of external factors
+Special_puprose_codes: Special puprose codes
+pregnancy_childbirth_and_puerperium: Pregnancy childbirth and puerperium
+numerical: Numerical
+rate: Rate
+expected: Expected
+marriages_concluded: Marriages concluded
+nuptiality_rate: Nuptiality rate
+divorced_marriage: Divorced marriage
+divorce_rate: Divorce rate
