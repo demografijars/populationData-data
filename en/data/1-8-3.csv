@@ -2,9 +2,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,0-4,53563
 2013,Number,REPUBLIKA SRPSKA,M,0-4,27499
 2013,Number,REPUBLIKA SRPSKA,F,0-4,26064
-2013,Number,"City of Banja Luka""",Both sexes,0-4,9539
-2013,Number,"City of Banja Luka""",M,0-4,4844
-2013,Number,"City of Banja Luka""",F,0-4,4695
+2013,Number,City of Banja Luka,Both sexes,0-4,9539
+2013,Number,City of Banja Luka,M,0-4,4844
+2013,Number,City of Banja Luka,F,0-4,4695
 2013,Number,BERKOVICI,Both sexes,0-4,91
 2013,Number,BERKOVICI,M,0-4,49
 2013,Number,BERKOVICI,F,0-4,42
@@ -197,9 +197,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54042
 2013,Number,REPUBLIKA SRPSKA,M,5-9,27681
 2013,Number,REPUBLIKA SRPSKA,F,5-9,26361
-2013,Number,"City of Banja Luka""",Both sexes,5-9,8447
-2013,Number,"City of Banja Luka""",M,5-9,4315
-2013,Number,"City of Banja Luka""",F,5-9,4132
+2013,Number,City of Banja Luka,Both sexes,5-9,8447
+2013,Number,City of Banja Luka,M,5-9,4315
+2013,Number,City of Banja Luka,F,5-9,4132
 2013,Number,BERKOVICI,Both sexes,5-9,129
 2013,Number,BERKOVICI,M,5-9,69
 2013,Number,BERKOVICI,F,5-9,60
@@ -392,9 +392,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,10-14,58024
 2013,Number,REPUBLIKA SRPSKA,M,10-14,29826
 2013,Number,REPUBLIKA SRPSKA,F,10-14,28198
-2013,Number,"City of Banja Luka""",Both sexes,10-14,8487
-2013,Number,"City of Banja Luka""",M,10-14,4344
-2013,Number,"City of Banja Luka""",F,10-14,4143
+2013,Number,City of Banja Luka,Both sexes,10-14,8487
+2013,Number,City of Banja Luka,M,10-14,4344
+2013,Number,City of Banja Luka,F,10-14,4143
 2013,Number,BERKOVICI,Both sexes,10-14,141
 2013,Number,BERKOVICI,M,10-14,73
 2013,Number,BERKOVICI,F,10-14,68
@@ -587,9 +587,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,15-19,69969
 2013,Number,REPUBLIKA SRPSKA,M,15-19,36081
 2013,Number,REPUBLIKA SRPSKA,F,15-19,33888
-2013,Number,"City of Banja Luka""",Both sexes,15-19,10268
-2013,Number,"City of Banja Luka""",M,15-19,5211
-2013,Number,"City of Banja Luka""",F,15-19,5057
+2013,Number,City of Banja Luka,Both sexes,15-19,10268
+2013,Number,City of Banja Luka,M,15-19,5211
+2013,Number,City of Banja Luka,F,15-19,5057
 2013,Number,BERKOVICI,Both sexes,15-19,84
 2013,Number,BERKOVICI,M,15-19,46
 2013,Number,BERKOVICI,F,15-19,38
@@ -782,9 +782,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,20-24,66641
 2013,Number,REPUBLIKA SRPSKA,M,20-24,34593
 2013,Number,REPUBLIKA SRPSKA,F,20-24,32048
-2013,Number,"City of Banja Luka""",Both sexes,20-24,10309
-2013,Number,"City of Banja Luka""",M,20-24,5114
-2013,Number,"City of Banja Luka""",F,20-24,5195
+2013,Number,City of Banja Luka,Both sexes,20-24,10309
+2013,Number,City of Banja Luka,M,20-24,5114
+2013,Number,City of Banja Luka,F,20-24,5195
 2013,Number,BERKOVICI,Both sexes,20-24,86
 2013,Number,BERKOVICI,M,20-24,43
 2013,Number,BERKOVICI,F,20-24,43
@@ -977,9 +977,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,25-29,77070
 2013,Number,REPUBLIKA SRPSKA,M,25-29,39298
 2013,Number,REPUBLIKA SRPSKA,F,25-29,37772
-2013,Number,"City of Banja Luka""",Both sexes,25-29,12794
-2013,Number,"City of Banja Luka""",M,25-29,6254
-2013,Number,"City of Banja Luka""",F,25-29,6540
+2013,Number,City of Banja Luka,Both sexes,25-29,12794
+2013,Number,City of Banja Luka,M,25-29,6254
+2013,Number,City of Banja Luka,F,25-29,6540
 2013,Number,BERKOVICI,Both sexes,25-29,94
 2013,Number,BERKOVICI,M,25-29,54
 2013,Number,BERKOVICI,F,25-29,40
@@ -1172,9 +1172,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,30-34,80560
 2013,Number,REPUBLIKA SRPSKA,M,30-34,40877
 2013,Number,REPUBLIKA SRPSKA,F,30-34,39683
-2013,Number,"City of Banja Luka""",Both sexes,30-34,14831
-2013,Number,"City of Banja Luka""",M,30-34,7174
-2013,Number,"City of Banja Luka""",F,30-34,7657
+2013,Number,City of Banja Luka,Both sexes,30-34,14831
+2013,Number,City of Banja Luka,M,30-34,7174
+2013,Number,City of Banja Luka,F,30-34,7657
 2013,Number,BERKOVICI,Both sexes,30-34,107
 2013,Number,BERKOVICI,M,30-34,49
 2013,Number,BERKOVICI,F,30-34,58
@@ -1367,9 +1367,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80521
 2013,Number,REPUBLIKA SRPSKA,M,35-39,41253
 2013,Number,REPUBLIKA SRPSKA,F,35-39,39268
-2013,Number,"City of Banja Luka""",Both sexes,35-39,14375
-2013,Number,"City of Banja Luka""",M,35-39,7141
-2013,Number,"City of Banja Luka""",F,35-39,7234
+2013,Number,City of Banja Luka,Both sexes,35-39,14375
+2013,Number,City of Banja Luka,M,35-39,7141
+2013,Number,City of Banja Luka,F,35-39,7234
 2013,Number,BERKOVICI,Both sexes,35-39,133
 2013,Number,BERKOVICI,M,35-39,64
 2013,Number,BERKOVICI,F,35-39,69
@@ -1562,9 +1562,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,40-44,75966
 2013,Number,REPUBLIKA SRPSKA,M,40-44,38815
 2013,Number,REPUBLIKA SRPSKA,F,40-44,37151
-2013,Number,"City of Banja Luka""",Both sexes,40-44,12041
-2013,Number,"City of Banja Luka""",M,40-44,6088
-2013,Number,"City of Banja Luka""",F,40-44,5953
+2013,Number,City of Banja Luka,Both sexes,40-44,12041
+2013,Number,City of Banja Luka,M,40-44,6088
+2013,Number,City of Banja Luka,F,40-44,5953
 2013,Number,BERKOVICI,Both sexes,40-44,140
 2013,Number,BERKOVICI,M,40-44,92
 2013,Number,BERKOVICI,F,40-44,48
@@ -1757,9 +1757,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,45-49,83519
 2013,Number,REPUBLIKA SRPSKA,M,45-49,41755
 2013,Number,REPUBLIKA SRPSKA,F,45-49,41764
-2013,Number,"City of Banja Luka""",Both sexes,45-49,11834
-2013,Number,"City of Banja Luka""",M,45-49,5747
-2013,Number,"City of Banja Luka""",F,45-49,6087
+2013,Number,City of Banja Luka,Both sexes,45-49,11834
+2013,Number,City of Banja Luka,M,45-49,5747
+2013,Number,City of Banja Luka,F,45-49,6087
 2013,Number,BERKOVICI,Both sexes,45-49,135
 2013,Number,BERKOVICI,M,45-49,76
 2013,Number,BERKOVICI,F,45-49,59
@@ -1952,9 +1952,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,50-54,92008
 2013,Number,REPUBLIKA SRPSKA,M,50-54,45161
 2013,Number,REPUBLIKA SRPSKA,F,50-54,46847
-2013,Number,"City of Banja Luka""",Both sexes,50-54,13389
-2013,Number,"City of Banja Luka""",M,50-54,6323
-2013,Number,"City of Banja Luka""",F,50-54,7066
+2013,Number,City of Banja Luka,Both sexes,50-54,13389
+2013,Number,City of Banja Luka,M,50-54,6323
+2013,Number,City of Banja Luka,F,50-54,7066
 2013,Number,BERKOVICI,Both sexes,50-54,119
 2013,Number,BERKOVICI,M,50-54,72
 2013,Number,BERKOVICI,F,50-54,47
@@ -2147,9 +2147,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,55-59,94412
 2013,Number,REPUBLIKA SRPSKA,M,55-59,45750
 2013,Number,REPUBLIKA SRPSKA,F,55-59,48662
-2013,Number,"City of Banja Luka""",Both sexes,55-59,14128
-2013,Number,"City of Banja Luka""",M,55-59,6599
-2013,Number,"City of Banja Luka""",F,55-59,7529
+2013,Number,City of Banja Luka,Both sexes,55-59,14128
+2013,Number,City of Banja Luka,M,55-59,6599
+2013,Number,City of Banja Luka,F,55-59,7529
 2013,Number,BERKOVICI,Both sexes,55-59,125
 2013,Number,BERKOVICI,M,55-59,54
 2013,Number,BERKOVICI,F,55-59,71
@@ -2342,9 +2342,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,60-64,85773
 2013,Number,REPUBLIKA SRPSKA,M,60-64,40723
 2013,Number,REPUBLIKA SRPSKA,F,60-64,45050
-2013,Number,"City of Banja Luka""",Both sexes,60-64,12590
-2013,Number,"City of Banja Luka""",M,60-64,5779
-2013,Number,"City of Banja Luka""",F,60-64,6811
+2013,Number,City of Banja Luka,Both sexes,60-64,12590
+2013,Number,City of Banja Luka,M,60-64,5779
+2013,Number,City of Banja Luka,F,60-64,6811
 2013,Number,BERKOVICI,Both sexes,60-64,140
 2013,Number,BERKOVICI,M,60-64,74
 2013,Number,BERKOVICI,F,60-64,66
@@ -2537,9 +2537,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,65-69,59309
 2013,Number,REPUBLIKA SRPSKA,M,65-69,26840
 2013,Number,REPUBLIKA SRPSKA,F,65-69,32469
-2013,Number,"City of Banja Luka""",Both sexes,65-69,8766
-2013,Number,"City of Banja Luka""",M,65-69,4054
-2013,Number,"City of Banja Luka""",F,65-69,4712
+2013,Number,City of Banja Luka,Both sexes,65-69,8766
+2013,Number,City of Banja Luka,M,65-69,4054
+2013,Number,City of Banja Luka,F,65-69,4712
 2013,Number,BERKOVICI,Both sexes,65-69,125
 2013,Number,BERKOVICI,M,65-69,55
 2013,Number,BERKOVICI,F,65-69,70
@@ -2732,9 +2732,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,70-74,56085
 2013,Number,REPUBLIKA SRPSKA,M,70-74,24039
 2013,Number,REPUBLIKA SRPSKA,F,70-74,32046
-2013,Number,"City of Banja Luka""",Both sexes,70-74,7373
-2013,Number,"City of Banja Luka""",M,70-74,3164
-2013,Number,"City of Banja Luka""",F,70-74,4209
+2013,Number,City of Banja Luka,Both sexes,70-74,7373
+2013,Number,City of Banja Luka,M,70-74,3164
+2013,Number,City of Banja Luka,F,70-74,4209
 2013,Number,BERKOVICI,Both sexes,70-74,148
 2013,Number,BERKOVICI,M,70-74,61
 2013,Number,BERKOVICI,F,70-74,87
@@ -2927,9 +2927,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,75-79,47377
 2013,Number,REPUBLIKA SRPSKA,M,75-79,18940
 2013,Number,REPUBLIKA SRPSKA,F,75-79,28437
-2013,Number,"City of Banja Luka""",Both sexes,75-79,6191
-2013,Number,"City of Banja Luka""",M,75-79,2583
-2013,Number,"City of Banja Luka""",F,75-79,3608
+2013,Number,City of Banja Luka,Both sexes,75-79,6191
+2013,Number,City of Banja Luka,M,75-79,2583
+2013,Number,City of Banja Luka,F,75-79,3608
 2013,Number,BERKOVICI,Both sexes,75-79,133
 2013,Number,BERKOVICI,M,75-79,59
 2013,Number,BERKOVICI,F,75-79,74
@@ -3122,9 +3122,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,80-84,25370
 2013,Number,REPUBLIKA SRPSKA,M,80-84,9573
 2013,Number,REPUBLIKA SRPSKA,F,80-84,15797
-2013,Number,"City of Banja Luka""",Both sexes,80-84,3232
-2013,Number,"City of Banja Luka""",M,80-84,1247
-2013,Number,"City of Banja Luka""",F,80-84,1985
+2013,Number,City of Banja Luka,Both sexes,80-84,3232
+2013,Number,City of Banja Luka,M,80-84,1247
+2013,Number,City of Banja Luka,F,80-84,1985
 2013,Number,BERKOVICI,Both sexes,80-84,76
 2013,Number,BERKOVICI,M,80-84,35
 2013,Number,BERKOVICI,F,80-84,41
@@ -3317,9 +3317,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,85-89,8869
 2013,Number,REPUBLIKA SRPSKA,M,85-89,2977
 2013,Number,REPUBLIKA SRPSKA,F,85-89,5892
-2013,Number,"City of Banja Luka""",Both sexes,85-89,1187
-2013,Number,"City of Banja Luka""",M,85-89,430
-2013,Number,"City of Banja Luka""",F,85-89,757
+2013,Number,City of Banja Luka,Both sexes,85-89,1187
+2013,Number,City of Banja Luka,M,85-89,430
+2013,Number,City of Banja Luka,F,85-89,757
 2013,Number,BERKOVICI,Both sexes,85-89,32
 2013,Number,BERKOVICI,M,85-89,15
 2013,Number,BERKOVICI,F,85-89,17
@@ -3512,9 +3512,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,90+,2101
 2013,Number,REPUBLIKA SRPSKA,M,90+,617
 2013,Number,REPUBLIKA SRPSKA,F,90+,1484
-2013,Number,"City of Banja Luka""",Both sexes,90+,275
-2013,Number,"City of Banja Luka""",M,90+,86
-2013,Number,"City of Banja Luka""",F,90+,189
+2013,Number,City of Banja Luka,Both sexes,90+,275
+2013,Number,City of Banja Luka,M,90+,86
+2013,Number,City of Banja Luka,F,90+,189
 2013,Number,BERKOVICI,Both sexes,90+,14
 2013,Number,BERKOVICI,M,90+,3
 2013,Number,BERKOVICI,F,90+,11
@@ -3707,9 +3707,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2013,Number,REPUBLIKA SRPSKA,Both sexes,Total,1171179
 2013,Number,REPUBLIKA SRPSKA,M,Total,572298
 2013,Number,REPUBLIKA SRPSKA,F,Total,598881
-2013,Number,"City of Banja Luka""",Both sexes,Total,180056
-2013,Number,"City of Banja Luka""",M,Total,86497
-2013,Number,"City of Banja Luka""",F,Total,93559
+2013,Number,City of Banja Luka,Both sexes,Total,180056
+2013,Number,City of Banja Luka,M,Total,86497
+2013,Number,City of Banja Luka,F,Total,93559
 2013,Number,BERKOVICI,Both sexes,Total,2052
 2013,Number,BERKOVICI,M,Total,1043
 2013,Number,BERKOVICI,F,Total,1009
@@ -3902,9 +3902,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,0-4,51846
 2014,Number,REPUBLIKA SRPSKA,M,0-4,26590
 2014,Number,REPUBLIKA SRPSKA,F,0-4,25256
-2014,Number,"City of Banja Luka""",Both sexes,0-4,9671
-2014,Number,"City of Banja Luka""",M,0-4,4931
-2014,Number,"City of Banja Luka""",F,0-4,4740
+2014,Number,City of Banja Luka,Both sexes,0-4,9671
+2014,Number,City of Banja Luka,M,0-4,4931
+2014,Number,City of Banja Luka,F,0-4,4740
 2014,Number,BERKOVICI,Both sexes,0-4,85
 2014,Number,BERKOVICI,M,0-4,44
 2014,Number,BERKOVICI,F,0-4,41
@@ -4097,9 +4097,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54417
 2014,Number,REPUBLIKA SRPSKA,M,5-9,27911
 2014,Number,REPUBLIKA SRPSKA,F,5-9,26506
-2014,Number,"City of Banja Luka""",Both sexes,5-9,8750
-2014,Number,"City of Banja Luka""",M,5-9,4469
-2014,Number,"City of Banja Luka""",F,5-9,4281
+2014,Number,City of Banja Luka,Both sexes,5-9,8750
+2014,Number,City of Banja Luka,M,5-9,4469
+2014,Number,City of Banja Luka,F,5-9,4281
 2014,Number,BERKOVICI,Both sexes,5-9,126
 2014,Number,BERKOVICI,M,5-9,68
 2014,Number,BERKOVICI,F,5-9,58
@@ -4292,9 +4292,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,10-14,56601
 2014,Number,REPUBLIKA SRPSKA,M,10-14,29125
 2014,Number,REPUBLIKA SRPSKA,F,10-14,27476
-2014,Number,"City of Banja Luka""",Both sexes,10-14,8357
-2014,Number,"City of Banja Luka""",M,10-14,4294
-2014,Number,"City of Banja Luka""",F,10-14,4063
+2014,Number,City of Banja Luka,Both sexes,10-14,8357
+2014,Number,City of Banja Luka,M,10-14,4294
+2014,Number,City of Banja Luka,F,10-14,4063
 2014,Number,BERKOVICI,Both sexes,10-14,147
 2014,Number,BERKOVICI,M,10-14,75
 2014,Number,BERKOVICI,F,10-14,72
@@ -4487,9 +4487,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,15-19,69432
 2014,Number,REPUBLIKA SRPSKA,M,15-19,35664
 2014,Number,REPUBLIKA SRPSKA,F,15-19,33768
-2014,Number,"City of Banja Luka""",Both sexes,15-19,10072
-2014,Number,"City of Banja Luka""",M,15-19,5127
-2014,Number,"City of Banja Luka""",F,15-19,4945
+2014,Number,City of Banja Luka,Both sexes,15-19,10072
+2014,Number,City of Banja Luka,M,15-19,5127
+2014,Number,City of Banja Luka,F,15-19,4945
 2014,Number,BERKOVICI,Both sexes,15-19,90
 2014,Number,BERKOVICI,M,15-19,50
 2014,Number,BERKOVICI,F,15-19,40
@@ -4682,9 +4682,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,20-24,65038
 2014,Number,REPUBLIKA SRPSKA,M,20-24,33895
 2014,Number,REPUBLIKA SRPSKA,F,20-24,31143
-2014,Number,"City of Banja Luka""",Both sexes,20-24,10219
-2014,Number,"City of Banja Luka""",M,20-24,5016
-2014,Number,"City of Banja Luka""",F,20-24,5203
+2014,Number,City of Banja Luka,Both sexes,20-24,10219
+2014,Number,City of Banja Luka,M,20-24,5016
+2014,Number,City of Banja Luka,F,20-24,5203
 2014,Number,BERKOVICI,Both sexes,20-24,79
 2014,Number,BERKOVICI,M,20-24,38
 2014,Number,BERKOVICI,F,20-24,41
@@ -4877,9 +4877,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,25-29,75296
 2014,Number,REPUBLIKA SRPSKA,M,25-29,38395
 2014,Number,REPUBLIKA SRPSKA,F,25-29,36901
-2014,Number,"City of Banja Luka""",Both sexes,25-29,12440
-2014,Number,"City of Banja Luka""",M,25-29,6067
-2014,Number,"City of Banja Luka""",F,25-29,6373
+2014,Number,City of Banja Luka,Both sexes,25-29,12440
+2014,Number,City of Banja Luka,M,25-29,6067
+2014,Number,City of Banja Luka,F,25-29,6373
 2014,Number,BERKOVICI,Both sexes,25-29,95
 2014,Number,BERKOVICI,M,25-29,54
 2014,Number,BERKOVICI,F,25-29,41
@@ -5072,9 +5072,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,30-34,80722
 2014,Number,REPUBLIKA SRPSKA,M,30-34,40994
 2014,Number,REPUBLIKA SRPSKA,F,30-34,39728
-2014,Number,"City of Banja Luka""",Both sexes,30-34,14977
-2014,Number,"City of Banja Luka""",M,30-34,7212
-2014,Number,"City of Banja Luka""",F,30-34,7765
+2014,Number,City of Banja Luka,Both sexes,30-34,14977
+2014,Number,City of Banja Luka,M,30-34,7212
+2014,Number,City of Banja Luka,F,30-34,7765
 2014,Number,BERKOVICI,Both sexes,30-34,93
 2014,Number,BERKOVICI,M,30-34,43
 2014,Number,BERKOVICI,F,30-34,50
@@ -5267,9 +5267,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80852
 2014,Number,REPUBLIKA SRPSKA,M,35-39,41341
 2014,Number,REPUBLIKA SRPSKA,F,35-39,39511
-2014,Number,"City of Banja Luka""",Both sexes,35-39,14646
-2014,Number,"City of Banja Luka""",M,35-39,7267
-2014,Number,"City of Banja Luka""",F,35-39,7379
+2014,Number,City of Banja Luka,Both sexes,35-39,14646
+2014,Number,City of Banja Luka,M,35-39,7267
+2014,Number,City of Banja Luka,F,35-39,7379
 2014,Number,BERKOVICI,Both sexes,35-39,132
 2014,Number,BERKOVICI,M,35-39,64
 2014,Number,BERKOVICI,F,35-39,68
@@ -5462,9 +5462,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,40-44,76216
 2014,Number,REPUBLIKA SRPSKA,M,40-44,39018
 2014,Number,REPUBLIKA SRPSKA,F,40-44,37198
-2014,Number,"City of Banja Luka""",Both sexes,40-44,12499
-2014,Number,"City of Banja Luka""",M,40-44,6325
-2014,Number,"City of Banja Luka""",F,40-44,6174
+2014,Number,City of Banja Luka,Both sexes,40-44,12499
+2014,Number,City of Banja Luka,M,40-44,6325
+2014,Number,City of Banja Luka,F,40-44,6174
 2014,Number,BERKOVICI,Both sexes,40-44,137
 2014,Number,BERKOVICI,M,40-44,86
 2014,Number,BERKOVICI,F,40-44,51
@@ -5657,9 +5657,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,45-49,81515
 2014,Number,REPUBLIKA SRPSKA,M,45-49,40931
 2014,Number,REPUBLIKA SRPSKA,F,45-49,40584
-2014,Number,"City of Banja Luka""",Both sexes,45-49,11628
-2014,Number,"City of Banja Luka""",M,45-49,5709
-2014,Number,"City of Banja Luka""",F,45-49,5919
+2014,Number,City of Banja Luka,Both sexes,45-49,11628
+2014,Number,City of Banja Luka,M,45-49,5709
+2014,Number,City of Banja Luka,F,45-49,5919
 2014,Number,BERKOVICI,Both sexes,45-49,144
 2014,Number,BERKOVICI,M,45-49,86
 2014,Number,BERKOVICI,F,45-49,58
@@ -5852,9 +5852,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,50-54,89781
 2014,Number,REPUBLIKA SRPSKA,M,50-54,44141
 2014,Number,REPUBLIKA SRPSKA,F,50-54,45640
-2014,Number,"City of Banja Luka""",Both sexes,50-54,12928
-2014,Number,"City of Banja Luka""",M,50-54,6096
-2014,Number,"City of Banja Luka""",F,50-54,6832
+2014,Number,City of Banja Luka,Both sexes,50-54,12928
+2014,Number,City of Banja Luka,M,50-54,6096
+2014,Number,City of Banja Luka,F,50-54,6832
 2014,Number,BERKOVICI,Both sexes,50-54,114
 2014,Number,BERKOVICI,M,50-54,66
 2014,Number,BERKOVICI,F,50-54,48
@@ -6047,9 +6047,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,55-59,93123
 2014,Number,REPUBLIKA SRPSKA,M,55-59,44986
 2014,Number,REPUBLIKA SRPSKA,F,55-59,48137
-2014,Number,"City of Banja Luka""",Both sexes,55-59,13929
-2014,Number,"City of Banja Luka""",M,55-59,6468
-2014,Number,"City of Banja Luka""",F,55-59,7461
+2014,Number,City of Banja Luka,Both sexes,55-59,13929
+2014,Number,City of Banja Luka,M,55-59,6468
+2014,Number,City of Banja Luka,F,55-59,7461
 2014,Number,BERKOVICI,Both sexes,55-59,122
 2014,Number,BERKOVICI,M,55-59,59
 2014,Number,BERKOVICI,F,55-59,63
@@ -6242,9 +6242,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,60-64,88482
 2014,Number,REPUBLIKA SRPSKA,M,60-64,42062
 2014,Number,REPUBLIKA SRPSKA,F,60-64,46420
-2014,Number,"City of Banja Luka""",Both sexes,60-64,12896
-2014,Number,"City of Banja Luka""",M,60-64,5904
-2014,Number,"City of Banja Luka""",F,60-64,6992
+2014,Number,City of Banja Luka,Both sexes,60-64,12896
+2014,Number,City of Banja Luka,M,60-64,5904
+2014,Number,City of Banja Luka,F,60-64,6992
 2014,Number,BERKOVICI,Both sexes,60-64,138
 2014,Number,BERKOVICI,M,60-64,73
 2014,Number,BERKOVICI,F,60-64,65
@@ -6437,9 +6437,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,65-69,64182
 2014,Number,REPUBLIKA SRPSKA,M,65-69,29180
 2014,Number,REPUBLIKA SRPSKA,F,65-69,35002
-2014,Number,"City of Banja Luka""",Both sexes,65-69,9562
-2014,Number,"City of Banja Luka""",M,65-69,4422
-2014,Number,"City of Banja Luka""",F,65-69,5140
+2014,Number,City of Banja Luka,Both sexes,65-69,9562
+2014,Number,City of Banja Luka,M,65-69,4422
+2014,Number,City of Banja Luka,F,65-69,5140
 2014,Number,BERKOVICI,Both sexes,65-69,136
 2014,Number,BERKOVICI,M,65-69,60
 2014,Number,BERKOVICI,F,65-69,76
@@ -6632,9 +6632,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,70-74,52482
 2014,Number,REPUBLIKA SRPSKA,M,70-74,22426
 2014,Number,REPUBLIKA SRPSKA,F,70-74,30056
-2014,Number,"City of Banja Luka""",Both sexes,70-74,7038
-2014,Number,"City of Banja Luka""",M,70-74,3000
-2014,Number,"City of Banja Luka""",F,70-74,4038
+2014,Number,City of Banja Luka,Both sexes,70-74,7038
+2014,Number,City of Banja Luka,M,70-74,3000
+2014,Number,City of Banja Luka,F,70-74,4038
 2014,Number,BERKOVICI,Both sexes,70-74,125
 2014,Number,BERKOVICI,M,70-74,47
 2014,Number,BERKOVICI,F,70-74,78
@@ -6827,9 +6827,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,75-79,48465
 2014,Number,REPUBLIKA SRPSKA,M,75-79,19519
 2014,Number,REPUBLIKA SRPSKA,F,75-79,28946
-2014,Number,"City of Banja Luka""",Both sexes,75-79,6330
-2014,Number,"City of Banja Luka""",M,75-79,2641
-2014,Number,"City of Banja Luka""",F,75-79,3689
+2014,Number,City of Banja Luka,Both sexes,75-79,6330
+2014,Number,City of Banja Luka,M,75-79,2641
+2014,Number,City of Banja Luka,F,75-79,3689
 2014,Number,BERKOVICI,Both sexes,75-79,138
 2014,Number,BERKOVICI,M,75-79,57
 2014,Number,BERKOVICI,F,75-79,81
@@ -7022,9 +7022,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,80-84,26497
 2014,Number,REPUBLIKA SRPSKA,M,80-84,9894
 2014,Number,REPUBLIKA SRPSKA,F,80-84,16603
-2014,Number,"City of Banja Luka""",Both sexes,80-84,3398
-2014,Number,"City of Banja Luka""",M,80-84,1315
-2014,Number,"City of Banja Luka""",F,80-84,2083
+2014,Number,City of Banja Luka,Both sexes,80-84,3398
+2014,Number,City of Banja Luka,M,80-84,1315
+2014,Number,City of Banja Luka,F,80-84,2083
 2014,Number,BERKOVICI,Both sexes,80-84,75
 2014,Number,BERKOVICI,M,80-84,34
 2014,Number,BERKOVICI,F,80-84,41
@@ -7217,9 +7217,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,85-89,9835
 2014,Number,REPUBLIKA SRPSKA,M,85-89,3430
 2014,Number,REPUBLIKA SRPSKA,F,85-89,6405
-2014,Number,"City of Banja Luka""",Both sexes,85-89,1298
-2014,Number,"City of Banja Luka""",M,85-89,481
-2014,Number,"City of Banja Luka""",F,85-89,817
+2014,Number,City of Banja Luka,Both sexes,85-89,1298
+2014,Number,City of Banja Luka,M,85-89,481
+2014,Number,City of Banja Luka,F,85-89,817
 2014,Number,BERKOVICI,Both sexes,85-89,35
 2014,Number,BERKOVICI,M,85-89,16
 2014,Number,BERKOVICI,F,85-89,19
@@ -7412,9 +7412,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,90+,2300
 2014,Number,REPUBLIKA SRPSKA,M,90+,674
 2014,Number,REPUBLIKA SRPSKA,F,90+,1626
-2014,Number,"City of Banja Luka""",Both sexes,90+,323
-2014,Number,"City of Banja Luka""",M,90+,99
-2014,Number,"City of Banja Luka""",F,90+,224
+2014,Number,City of Banja Luka,Both sexes,90+,323
+2014,Number,City of Banja Luka,M,90+,99
+2014,Number,City of Banja Luka,F,90+,224
 2014,Number,BERKOVICI,Both sexes,90+,16
 2014,Number,BERKOVICI,M,90+,5
 2014,Number,BERKOVICI,F,90+,11
@@ -7607,9 +7607,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2014,Number,REPUBLIKA SRPSKA,Both sexes,Total,1167082
 2014,Number,REPUBLIKA SRPSKA,M,Total,570176
 2014,Number,REPUBLIKA SRPSKA,F,Total,596906
-2014,Number,"City of Banja Luka""",Both sexes,Total,180961
-2014,Number,"City of Banja Luka""",M,Total,86843
-2014,Number,"City of Banja Luka""",F,Total,94118
+2014,Number,City of Banja Luka,Both sexes,Total,180961
+2014,Number,City of Banja Luka,M,Total,86843
+2014,Number,City of Banja Luka,F,Total,94118
 2014,Number,BERKOVICI,Both sexes,Total,2027
 2014,Number,BERKOVICI,M,Total,1025
 2014,Number,BERKOVICI,F,Total,1002
@@ -7802,9 +7802,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,0-4,50067
 2015,Number,REPUBLIKA SRPSKA,M,0-4,25709
 2015,Number,REPUBLIKA SRPSKA,F,0-4,24358
-2015,Number,"City of Banja Luka""",Both sexes,0-4,9868
-2015,Number,"City of Banja Luka""",M,0-4,5075
-2015,Number,"City of Banja Luka""",F,0-4,4793
+2015,Number,City of Banja Luka,Both sexes,0-4,9868
+2015,Number,City of Banja Luka,M,0-4,5075
+2015,Number,City of Banja Luka,F,0-4,4793
 2015,Number,BERKOVICI,Both sexes,0-4,85
 2015,Number,BERKOVICI,M,0-4,43
 2015,Number,BERKOVICI,F,0-4,42
@@ -7997,9 +7997,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54755
 2015,Number,REPUBLIKA SRPSKA,M,5-9,28072
 2015,Number,REPUBLIKA SRPSKA,F,5-9,26683
-2015,Number,"City of Banja Luka""",Both sexes,5-9,8984
-2015,Number,"City of Banja Luka""",M,5-9,4576
-2015,Number,"City of Banja Luka""",F,5-9,4408
+2015,Number,City of Banja Luka,Both sexes,5-9,8984
+2015,Number,City of Banja Luka,M,5-9,4576
+2015,Number,City of Banja Luka,F,5-9,4408
 2015,Number,BERKOVICI,Both sexes,5-9,112
 2015,Number,BERKOVICI,M,5-9,58
 2015,Number,BERKOVICI,F,5-9,54
@@ -8192,9 +8192,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,10-14,55647
 2015,Number,REPUBLIKA SRPSKA,M,10-14,28692
 2015,Number,REPUBLIKA SRPSKA,F,10-14,26955
-2015,Number,"City of Banja Luka""",Both sexes,10-14,8340
-2015,Number,"City of Banja Luka""",M,10-14,4301
-2015,Number,"City of Banja Luka""",F,10-14,4039
+2015,Number,City of Banja Luka,Both sexes,10-14,8340
+2015,Number,City of Banja Luka,M,10-14,4301
+2015,Number,City of Banja Luka,F,10-14,4039
 2015,Number,BERKOVICI,Both sexes,10-14,151
 2015,Number,BERKOVICI,M,10-14,79
 2015,Number,BERKOVICI,F,10-14,72
@@ -8387,9 +8387,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,15-19,66727
 2015,Number,REPUBLIKA SRPSKA,M,15-19,34235
 2015,Number,REPUBLIKA SRPSKA,F,15-19,32492
-2015,Number,"City of Banja Luka""",Both sexes,15-19,9629
-2015,Number,"City of Banja Luka""",M,15-19,4925
-2015,Number,"City of Banja Luka""",F,15-19,4704
+2015,Number,City of Banja Luka,Both sexes,15-19,9629
+2015,Number,City of Banja Luka,M,15-19,4925
+2015,Number,City of Banja Luka,F,15-19,4704
 2015,Number,BERKOVICI,Both sexes,15-19,99
 2015,Number,BERKOVICI,M,15-19,54
 2015,Number,BERKOVICI,F,15-19,45
@@ -8582,9 +8582,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,20-24,65603
 2015,Number,REPUBLIKA SRPSKA,M,20-24,34166
 2015,Number,REPUBLIKA SRPSKA,F,20-24,31437
-2015,Number,"City of Banja Luka""",Both sexes,20-24,10402
-2015,Number,"City of Banja Luka""",M,20-24,5101
-2015,Number,"City of Banja Luka""",F,20-24,5301
+2015,Number,City of Banja Luka,Both sexes,20-24,10402
+2015,Number,City of Banja Luka,M,20-24,5101
+2015,Number,City of Banja Luka,F,20-24,5301
 2015,Number,BERKOVICI,Both sexes,20-24,76
 2015,Number,BERKOVICI,M,20-24,39
 2015,Number,BERKOVICI,F,20-24,37
@@ -8777,9 +8777,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,25-29,73297
 2015,Number,REPUBLIKA SRPSKA,M,25-29,37392
 2015,Number,REPUBLIKA SRPSKA,F,25-29,35905
-2015,Number,"City of Banja Luka""",Both sexes,25-29,12150
-2015,Number,"City of Banja Luka""",M,25-29,5875
-2015,Number,"City of Banja Luka""",F,25-29,6275
+2015,Number,City of Banja Luka,Both sexes,25-29,12150
+2015,Number,City of Banja Luka,M,25-29,5875
+2015,Number,City of Banja Luka,F,25-29,6275
 2015,Number,BERKOVICI,Both sexes,25-29,86
 2015,Number,BERKOVICI,M,25-29,48
 2015,Number,BERKOVICI,F,25-29,38
@@ -8972,9 +8972,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,30-34,80365
 2015,Number,REPUBLIKA SRPSKA,M,30-34,40942
 2015,Number,REPUBLIKA SRPSKA,F,30-34,39423
-2015,Number,"City of Banja Luka""",Both sexes,30-34,14829
-2015,Number,"City of Banja Luka""",M,30-34,7148
-2015,Number,"City of Banja Luka""",F,30-34,7681
+2015,Number,City of Banja Luka,Both sexes,30-34,14829
+2015,Number,City of Banja Luka,M,30-34,7148
+2015,Number,City of Banja Luka,F,30-34,7681
 2015,Number,BERKOVICI,Both sexes,30-34,90
 2015,Number,BERKOVICI,M,30-34,43
 2015,Number,BERKOVICI,F,30-34,47
@@ -9167,9 +9167,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,35-39,81003
 2015,Number,REPUBLIKA SRPSKA,M,35-39,41257
 2015,Number,REPUBLIKA SRPSKA,F,35-39,39746
-2015,Number,"City of Banja Luka""",Both sexes,35-39,14889
-2015,Number,"City of Banja Luka""",M,35-39,7340
-2015,Number,"City of Banja Luka""",F,35-39,7549
+2015,Number,City of Banja Luka,Both sexes,35-39,14889
+2015,Number,City of Banja Luka,M,35-39,7340
+2015,Number,City of Banja Luka,F,35-39,7549
 2015,Number,BERKOVICI,Both sexes,35-39,132
 2015,Number,BERKOVICI,M,35-39,65
 2015,Number,BERKOVICI,F,35-39,67
@@ -9362,9 +9362,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,40-44,77328
 2015,Number,REPUBLIKA SRPSKA,M,40-44,39602
 2015,Number,REPUBLIKA SRPSKA,F,40-44,37726
-2015,Number,"City of Banja Luka""",Both sexes,40-44,13114
-2015,Number,"City of Banja Luka""",M,40-44,6628
-2015,Number,"City of Banja Luka""",F,40-44,6486
+2015,Number,City of Banja Luka,Both sexes,40-44,13114
+2015,Number,City of Banja Luka,M,40-44,6628
+2015,Number,City of Banja Luka,F,40-44,6486
 2015,Number,BERKOVICI,Both sexes,40-44,129
 2015,Number,BERKOVICI,M,40-44,77
 2015,Number,BERKOVICI,F,40-44,52
@@ -9557,9 +9557,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,45-49,78838
 2015,Number,REPUBLIKA SRPSKA,M,45-49,39752
 2015,Number,REPUBLIKA SRPSKA,F,45-49,39086
-2015,Number,"City of Banja Luka""",Both sexes,45-49,11477
-2015,Number,"City of Banja Luka""",M,45-49,5670
-2015,Number,"City of Banja Luka""",F,45-49,5807
+2015,Number,City of Banja Luka,Both sexes,45-49,11477
+2015,Number,City of Banja Luka,M,45-49,5670
+2015,Number,City of Banja Luka,F,45-49,5807
 2015,Number,BERKOVICI,Both sexes,45-49,150
 2015,Number,BERKOVICI,M,45-49,93
 2015,Number,BERKOVICI,F,45-49,57
@@ -9752,9 +9752,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,50-54,87925
 2015,Number,REPUBLIKA SRPSKA,M,50-54,43301
 2015,Number,REPUBLIKA SRPSKA,F,50-54,44624
-2015,Number,"City of Banja Luka""",Both sexes,50-54,12519
-2015,Number,"City of Banja Luka""",M,50-54,5906
-2015,Number,"City of Banja Luka""",F,50-54,6613
+2015,Number,City of Banja Luka,Both sexes,50-54,12519
+2015,Number,City of Banja Luka,M,50-54,5906
+2015,Number,City of Banja Luka,F,50-54,6613
 2015,Number,BERKOVICI,Both sexes,50-54,108
 2015,Number,BERKOVICI,M,50-54,58
 2015,Number,BERKOVICI,F,50-54,50
@@ -9947,9 +9947,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,55-59,91658
 2015,Number,REPUBLIKA SRPSKA,M,55-59,44221
 2015,Number,REPUBLIKA SRPSKA,F,55-59,47437
-2015,Number,"City of Banja Luka""",Both sexes,55-59,13699
-2015,Number,"City of Banja Luka""",M,55-59,6360
-2015,Number,"City of Banja Luka""",F,55-59,7339
+2015,Number,City of Banja Luka,Both sexes,55-59,13699
+2015,Number,City of Banja Luka,M,55-59,6360
+2015,Number,City of Banja Luka,F,55-59,7339
 2015,Number,BERKOVICI,Both sexes,55-59,126
 2015,Number,BERKOVICI,M,55-59,68
 2015,Number,BERKOVICI,F,55-59,58
@@ -10142,9 +10142,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,60-64,90125
 2015,Number,REPUBLIKA SRPSKA,M,60-64,42870
 2015,Number,REPUBLIKA SRPSKA,F,60-64,47255
-2015,Number,"City of Banja Luka""",Both sexes,60-64,13111
-2015,Number,"City of Banja Luka""",M,60-64,6021
-2015,Number,"City of Banja Luka""",F,60-64,7090
+2015,Number,City of Banja Luka,Both sexes,60-64,13111
+2015,Number,City of Banja Luka,M,60-64,6021
+2015,Number,City of Banja Luka,F,60-64,7090
 2015,Number,BERKOVICI,Both sexes,60-64,128
 2015,Number,BERKOVICI,M,60-64,66
 2015,Number,BERKOVICI,F,60-64,62
@@ -10337,9 +10337,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,65-69,70039
 2015,Number,REPUBLIKA SRPSKA,M,65-69,31928
 2015,Number,REPUBLIKA SRPSKA,F,65-69,38111
-2015,Number,"City of Banja Luka""",Both sexes,65-69,10481
-2015,Number,"City of Banja Luka""",M,65-69,4769
-2015,Number,"City of Banja Luka""",F,65-69,5712
+2015,Number,City of Banja Luka,Both sexes,65-69,10481
+2015,Number,City of Banja Luka,M,65-69,4769
+2015,Number,City of Banja Luka,F,65-69,5712
 2015,Number,BERKOVICI,Both sexes,65-69,142
 2015,Number,BERKOVICI,M,65-69,64
 2015,Number,BERKOVICI,F,65-69,78
@@ -10532,9 +10532,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,70-74,48676
 2015,Number,REPUBLIKA SRPSKA,M,70-74,20798
 2015,Number,REPUBLIKA SRPSKA,F,70-74,27878
-2015,Number,"City of Banja Luka""",Both sexes,70-74,6681
-2015,Number,"City of Banja Luka""",M,70-74,2870
-2015,Number,"City of Banja Luka""",F,70-74,3811
+2015,Number,City of Banja Luka,Both sexes,70-74,6681
+2015,Number,City of Banja Luka,M,70-74,2870
+2015,Number,City of Banja Luka,F,70-74,3811
 2015,Number,BERKOVICI,Both sexes,70-74,114
 2015,Number,BERKOVICI,M,70-74,43
 2015,Number,BERKOVICI,F,70-74,71
@@ -10727,9 +10727,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,75-79,49216
 2015,Number,REPUBLIKA SRPSKA,M,75-79,19949
 2015,Number,REPUBLIKA SRPSKA,F,75-79,29267
-2015,Number,"City of Banja Luka""",Both sexes,75-79,6428
-2015,Number,"City of Banja Luka""",M,75-79,2691
-2015,Number,"City of Banja Luka""",F,75-79,3737
+2015,Number,City of Banja Luka,Both sexes,75-79,6428
+2015,Number,City of Banja Luka,M,75-79,2691
+2015,Number,City of Banja Luka,F,75-79,3737
 2015,Number,BERKOVICI,Both sexes,75-79,144
 2015,Number,BERKOVICI,M,75-79,59
 2015,Number,BERKOVICI,F,75-79,85
@@ -10922,9 +10922,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,80-84,27692
 2015,Number,REPUBLIKA SRPSKA,M,80-84,10285
 2015,Number,REPUBLIKA SRPSKA,F,80-84,17407
-2015,Number,"City of Banja Luka""",Both sexes,80-84,3567
-2015,Number,"City of Banja Luka""",M,80-84,1378
-2015,Number,"City of Banja Luka""",F,80-84,2189
+2015,Number,City of Banja Luka,Both sexes,80-84,3567
+2015,Number,City of Banja Luka,M,80-84,1378
+2015,Number,City of Banja Luka,F,80-84,2189
 2015,Number,BERKOVICI,Both sexes,80-84,76
 2015,Number,BERKOVICI,M,80-84,33
 2015,Number,BERKOVICI,F,80-84,43
@@ -11117,9 +11117,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,85-89,10696
 2015,Number,REPUBLIKA SRPSKA,M,85-89,3791
 2015,Number,REPUBLIKA SRPSKA,F,85-89,6905
-2015,Number,"City of Banja Luka""",Both sexes,85-89,1417
-2015,Number,"City of Banja Luka""",M,85-89,525
-2015,Number,"City of Banja Luka""",F,85-89,892
+2015,Number,City of Banja Luka,Both sexes,85-89,1417
+2015,Number,City of Banja Luka,M,85-89,525
+2015,Number,City of Banja Luka,F,85-89,892
 2015,Number,BERKOVICI,Both sexes,85-89,37
 2015,Number,BERKOVICI,M,85-89,19
 2015,Number,BERKOVICI,F,85-89,18
@@ -11312,9 +11312,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,90+,2507
 2015,Number,REPUBLIKA SRPSKA,M,90+,749
 2015,Number,REPUBLIKA SRPSKA,F,90+,1758
-2015,Number,"City of Banja Luka""",Both sexes,90+,371
-2015,Number,"City of Banja Luka""",M,90+,110
-2015,Number,"City of Banja Luka""",F,90+,261
+2015,Number,City of Banja Luka,Both sexes,90+,371
+2015,Number,City of Banja Luka,M,90+,110
+2015,Number,City of Banja Luka,F,90+,261
 2015,Number,BERKOVICI,Both sexes,90+,16
 2015,Number,BERKOVICI,M,90+,6
 2015,Number,BERKOVICI,F,90+,10
@@ -11507,9 +11507,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2015,Number,REPUBLIKA SRPSKA,Both sexes,Total,1162164
 2015,Number,REPUBLIKA SRPSKA,M,Total,567711
 2015,Number,REPUBLIKA SRPSKA,F,Total,594453
-2015,Number,"City of Banja Luka""",Both sexes,Total,181956
-2015,Number,"City of Banja Luka""",M,Total,87269
-2015,Number,"City of Banja Luka""",F,Total,94687
+2015,Number,City of Banja Luka,Both sexes,Total,181956
+2015,Number,City of Banja Luka,M,Total,87269
+2015,Number,City of Banja Luka,F,Total,94687
 2015,Number,BERKOVICI,Both sexes,Total,2001
 2015,Number,BERKOVICI,M,Total,1015
 2015,Number,BERKOVICI,F,Total,986
@@ -11702,9 +11702,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,0-4,48734
 2016,Number,REPUBLIKA SRPSKA,M,0-4,25099
 2016,Number,REPUBLIKA SRPSKA,F,0-4,23635
-2016,Number,"City of Banja Luka""",Both sexes,0-4,10091
-2016,Number,"City of Banja Luka""",M,0-4,5242
-2016,Number,"City of Banja Luka""",F,0-4,4849
+2016,Number,City of Banja Luka,Both sexes,0-4,10091
+2016,Number,City of Banja Luka,M,0-4,5242
+2016,Number,City of Banja Luka,F,0-4,4849
 2016,Number,BERKOVICI,Both sexes,0-4,84
 2016,Number,BERKOVICI,M,0-4,44
 2016,Number,BERKOVICI,F,0-4,40
@@ -11897,9 +11897,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54692
 2016,Number,REPUBLIKA SRPSKA,M,5-9,28032
 2016,Number,REPUBLIKA SRPSKA,F,5-9,26660
-2016,Number,"City of Banja Luka""",Both sexes,5-9,9190
-2016,Number,"City of Banja Luka""",M,5-9,4661
-2016,Number,"City of Banja Luka""",F,5-9,4529
+2016,Number,City of Banja Luka,Both sexes,5-9,9190
+2016,Number,City of Banja Luka,M,5-9,4661
+2016,Number,City of Banja Luka,F,5-9,4529
 2016,Number,BERKOVICI,Both sexes,5-9,104
 2016,Number,BERKOVICI,M,5-9,54
 2016,Number,BERKOVICI,F,5-9,50
@@ -12092,9 +12092,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,10-14,54647
 2016,Number,REPUBLIKA SRPSKA,M,10-14,28143
 2016,Number,REPUBLIKA SRPSKA,F,10-14,26504
-2016,Number,"City of Banja Luka""",Both sexes,10-14,8322
-2016,Number,"City of Banja Luka""",M,10-14,4269
-2016,Number,"City of Banja Luka""",F,10-14,4053
+2016,Number,City of Banja Luka,Both sexes,10-14,8322
+2016,Number,City of Banja Luka,M,10-14,4269
+2016,Number,City of Banja Luka,F,10-14,4053
 2016,Number,BERKOVICI,Both sexes,10-14,139
 2016,Number,BERKOVICI,M,10-14,70
 2016,Number,BERKOVICI,F,10-14,69
@@ -12287,9 +12287,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,15-19,63924
 2016,Number,REPUBLIKA SRPSKA,M,15-19,32819
 2016,Number,REPUBLIKA SRPSKA,F,15-19,31105
-2016,Number,"City of Banja Luka""",Both sexes,15-19,9300
-2016,Number,"City of Banja Luka""",M,15-19,4784
-2016,Number,"City of Banja Luka""",F,15-19,4516
+2016,Number,City of Banja Luka,Both sexes,15-19,9300
+2016,Number,City of Banja Luka,M,15-19,4784
+2016,Number,City of Banja Luka,F,15-19,4516
 2016,Number,BERKOVICI,Both sexes,15-19,119
 2016,Number,BERKOVICI,M,15-19,64
 2016,Number,BERKOVICI,F,15-19,55
@@ -12482,9 +12482,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,20-24,66283
 2016,Number,REPUBLIKA SRPSKA,M,20-24,34406
 2016,Number,REPUBLIKA SRPSKA,F,20-24,31877
-2016,Number,"City of Banja Luka""",Both sexes,20-24,10414
-2016,Number,"City of Banja Luka""",M,20-24,5154
-2016,Number,"City of Banja Luka""",F,20-24,5260
+2016,Number,City of Banja Luka,Both sexes,20-24,10414
+2016,Number,City of Banja Luka,M,20-24,5154
+2016,Number,City of Banja Luka,F,20-24,5260
 2016,Number,BERKOVICI,Both sexes,20-24,66
 2016,Number,BERKOVICI,M,20-24,39
 2016,Number,BERKOVICI,F,20-24,27
@@ -12677,9 +12677,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,25-29,71750
 2016,Number,REPUBLIKA SRPSKA,M,25-29,36741
 2016,Number,REPUBLIKA SRPSKA,F,25-29,35009
-2016,Number,"City of Banja Luka""",Both sexes,25-29,12000
-2016,Number,"City of Banja Luka""",M,25-29,5766
-2016,Number,"City of Banja Luka""",F,25-29,6234
+2016,Number,City of Banja Luka,Both sexes,25-29,12000
+2016,Number,City of Banja Luka,M,25-29,5766
+2016,Number,City of Banja Luka,F,25-29,6234
 2016,Number,BERKOVICI,Both sexes,25-29,86
 2016,Number,BERKOVICI,M,25-29,45
 2016,Number,BERKOVICI,F,25-29,41
@@ -12872,9 +12872,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,30-34,79504
 2016,Number,REPUBLIKA SRPSKA,M,30-34,40519
 2016,Number,REPUBLIKA SRPSKA,F,30-34,38985
-2016,Number,"City of Banja Luka""",Both sexes,30-34,14443
-2016,Number,"City of Banja Luka""",M,30-34,6934
-2016,Number,"City of Banja Luka""",F,30-34,7509
+2016,Number,City of Banja Luka,Both sexes,30-34,14443
+2016,Number,City of Banja Luka,M,30-34,6934
+2016,Number,City of Banja Luka,F,30-34,7509
 2016,Number,BERKOVICI,Both sexes,30-34,90
 2016,Number,BERKOVICI,M,30-34,48
 2016,Number,BERKOVICI,F,30-34,42
@@ -13067,9 +13067,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80647
 2016,Number,REPUBLIKA SRPSKA,M,35-39,40983
 2016,Number,REPUBLIKA SRPSKA,F,35-39,39664
-2016,Number,"City of Banja Luka""",Both sexes,35-39,14997
-2016,Number,"City of Banja Luka""",M,35-39,7354
-2016,Number,"City of Banja Luka""",F,35-39,7643
+2016,Number,City of Banja Luka,Both sexes,35-39,14997
+2016,Number,City of Banja Luka,M,35-39,7354
+2016,Number,City of Banja Luka,F,35-39,7643
 2016,Number,BERKOVICI,Both sexes,35-39,128
 2016,Number,BERKOVICI,M,35-39,63
 2016,Number,BERKOVICI,F,35-39,65
@@ -13262,9 +13262,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,40-44,78874
 2016,Number,REPUBLIKA SRPSKA,M,40-44,40396
 2016,Number,REPUBLIKA SRPSKA,F,40-44,38478
-2016,Number,"City of Banja Luka""",Both sexes,40-44,13712
-2016,Number,"City of Banja Luka""",M,40-44,6885
-2016,Number,"City of Banja Luka""",F,40-44,6827
+2016,Number,City of Banja Luka,Both sexes,40-44,13712
+2016,Number,City of Banja Luka,M,40-44,6885
+2016,Number,City of Banja Luka,F,40-44,6827
 2016,Number,BERKOVICI,Both sexes,40-44,129
 2016,Number,BERKOVICI,M,40-44,76
 2016,Number,BERKOVICI,F,40-44,53
@@ -13457,9 +13457,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,45-49,76424
 2016,Number,REPUBLIKA SRPSKA,M,45-49,38631
 2016,Number,REPUBLIKA SRPSKA,F,45-49,37793
-2016,Number,"City of Banja Luka""",Both sexes,45-49,11461
-2016,Number,"City of Banja Luka""",M,45-49,5702
-2016,Number,"City of Banja Luka""",F,45-49,5759
+2016,Number,City of Banja Luka,Both sexes,45-49,11461
+2016,Number,City of Banja Luka,M,45-49,5702
+2016,Number,City of Banja Luka,F,45-49,5759
 2016,Number,BERKOVICI,Both sexes,45-49,145
 2016,Number,BERKOVICI,M,45-49,90
 2016,Number,BERKOVICI,F,45-49,55
@@ -13652,9 +13652,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,50-54,86398
 2016,Number,REPUBLIKA SRPSKA,M,50-54,42599
 2016,Number,REPUBLIKA SRPSKA,F,50-54,43799
-2016,Number,"City of Banja Luka""",Both sexes,50-54,12206
-2016,Number,"City of Banja Luka""",M,50-54,5787
-2016,Number,"City of Banja Luka""",F,50-54,6419
+2016,Number,City of Banja Luka,Both sexes,50-54,12206
+2016,Number,City of Banja Luka,M,50-54,5787
+2016,Number,City of Banja Luka,F,50-54,6419
 2016,Number,BERKOVICI,Both sexes,50-54,112
 2016,Number,BERKOVICI,M,50-54,63
 2016,Number,BERKOVICI,F,50-54,49
@@ -13847,9 +13847,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,55-59,90613
 2016,Number,REPUBLIKA SRPSKA,M,55-59,43773
 2016,Number,REPUBLIKA SRPSKA,F,55-59,46840
-2016,Number,"City of Banja Luka""",Both sexes,55-59,13461
-2016,Number,"City of Banja Luka""",M,55-59,6259
-2016,Number,"City of Banja Luka""",F,55-59,7202
+2016,Number,City of Banja Luka,Both sexes,55-59,13461
+2016,Number,City of Banja Luka,M,55-59,6259
+2016,Number,City of Banja Luka,F,55-59,7202
 2016,Number,BERKOVICI,Both sexes,55-59,129
 2016,Number,BERKOVICI,M,55-59,73
 2016,Number,BERKOVICI,F,55-59,56
@@ -14042,9 +14042,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,60-64,91762
 2016,Number,REPUBLIKA SRPSKA,M,60-64,43636
 2016,Number,REPUBLIKA SRPSKA,F,60-64,48126
-2016,Number,"City of Banja Luka""",Both sexes,60-64,13444
-2016,Number,"City of Banja Luka""",M,60-64,6183
-2016,Number,"City of Banja Luka""",F,60-64,7261
+2016,Number,City of Banja Luka,Both sexes,60-64,13444
+2016,Number,City of Banja Luka,M,60-64,6183
+2016,Number,City of Banja Luka,F,60-64,7261
 2016,Number,BERKOVICI,Both sexes,60-64,125
 2016,Number,BERKOVICI,M,60-64,60
 2016,Number,BERKOVICI,F,60-64,65
@@ -14237,9 +14237,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,65-69,73686
 2016,Number,REPUBLIKA SRPSKA,M,65-69,33670
 2016,Number,REPUBLIKA SRPSKA,F,65-69,40016
-2016,Number,"City of Banja Luka""",Both sexes,65-69,11077
-2016,Number,"City of Banja Luka""",M,65-69,4962
-2016,Number,"City of Banja Luka""",F,65-69,6115
+2016,Number,City of Banja Luka,Both sexes,65-69,11077
+2016,Number,City of Banja Luka,M,65-69,4962
+2016,Number,City of Banja Luka,F,65-69,6115
 2016,Number,BERKOVICI,Both sexes,65-69,138
 2016,Number,BERKOVICI,M,65-69,66
 2016,Number,BERKOVICI,F,65-69,72
@@ -14432,9 +14432,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,70-74,47137
 2016,Number,REPUBLIKA SRPSKA,M,70-74,20198
 2016,Number,REPUBLIKA SRPSKA,F,70-74,26939
-2016,Number,"City of Banja Luka""",Both sexes,70-74,6607
-2016,Number,"City of Banja Luka""",M,70-74,2875
-2016,Number,"City of Banja Luka""",F,70-74,3732
+2016,Number,City of Banja Luka,Both sexes,70-74,6607
+2016,Number,City of Banja Luka,M,70-74,2875
+2016,Number,City of Banja Luka,F,70-74,3732
 2016,Number,BERKOVICI,Both sexes,70-74,109
 2016,Number,BERKOVICI,M,70-74,42
 2016,Number,BERKOVICI,F,70-74,67
@@ -14627,9 +14627,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,75-79,49174
 2016,Number,REPUBLIKA SRPSKA,M,75-79,20005
 2016,Number,REPUBLIKA SRPSKA,F,75-79,29169
-2016,Number,"City of Banja Luka""",Both sexes,75-79,6409
-2016,Number,"City of Banja Luka""",M,75-79,2676
-2016,Number,"City of Banja Luka""",F,75-79,3733
+2016,Number,City of Banja Luka,Both sexes,75-79,6409
+2016,Number,City of Banja Luka,M,75-79,2676
+2016,Number,City of Banja Luka,F,75-79,3733
 2016,Number,BERKOVICI,Both sexes,75-79,148
 2016,Number,BERKOVICI,M,75-79,63
 2016,Number,BERKOVICI,F,75-79,85
@@ -14822,9 +14822,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,80-84,29104
 2016,Number,REPUBLIKA SRPSKA,M,80-84,10819
 2016,Number,REPUBLIKA SRPSKA,F,80-84,18285
-2016,Number,"City of Banja Luka""",Both sexes,80-84,3801
-2016,Number,"City of Banja Luka""",M,80-84,1463
-2016,Number,"City of Banja Luka""",F,80-84,2338
+2016,Number,City of Banja Luka,Both sexes,80-84,3801
+2016,Number,City of Banja Luka,M,80-84,1463
+2016,Number,City of Banja Luka,F,80-84,2338
 2016,Number,BERKOVICI,Both sexes,80-84,84
 2016,Number,BERKOVICI,M,80-84,33
 2016,Number,BERKOVICI,F,80-84,51
@@ -15017,9 +15017,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,85-89,11443
 2016,Number,REPUBLIKA SRPSKA,M,85-89,4077
 2016,Number,REPUBLIKA SRPSKA,F,85-89,7366
-2016,Number,"City of Banja Luka""",Both sexes,85-89,1504
-2016,Number,"City of Banja Luka""",M,85-89,558
-2016,Number,"City of Banja Luka""",F,85-89,946
+2016,Number,City of Banja Luka,Both sexes,85-89,1504
+2016,Number,City of Banja Luka,M,85-89,558
+2016,Number,City of Banja Luka,F,85-89,946
 2016,Number,BERKOVICI,Both sexes,85-89,38
 2016,Number,BERKOVICI,M,85-89,20
 2016,Number,BERKOVICI,F,85-89,18
@@ -15212,9 +15212,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,90+,2720
 2016,Number,REPUBLIKA SRPSKA,M,90+,822
 2016,Number,REPUBLIKA SRPSKA,F,90+,1898
-2016,Number,"City of Banja Luka""",Both sexes,90+,409
-2016,Number,"City of Banja Luka""",M,90+,120
-2016,Number,"City of Banja Luka""",F,90+,289
+2016,Number,City of Banja Luka,Both sexes,90+,409
+2016,Number,City of Banja Luka,M,90+,120
+2016,Number,City of Banja Luka,F,90+,289
 2016,Number,BERKOVICI,Both sexes,90+,17
 2016,Number,BERKOVICI,M,90+,7
 2016,Number,BERKOVICI,F,90+,10
@@ -15407,9 +15407,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2016,Number,REPUBLIKA SRPSKA,Both sexes,Total,1157516
 2016,Number,REPUBLIKA SRPSKA,M,Total,565368
 2016,Number,REPUBLIKA SRPSKA,F,Total,592148
-2016,Number,"City of Banja Luka""",Both sexes,Total,182848
-2016,Number,"City of Banja Luka""",M,Total,87634
-2016,Number,"City of Banja Luka""",F,Total,95214
+2016,Number,City of Banja Luka,Both sexes,Total,182848
+2016,Number,City of Banja Luka,M,Total,87634
+2016,Number,City of Banja Luka,F,Total,95214
 2016,Number,BERKOVICI,Both sexes,Total,1990
 2016,Number,BERKOVICI,M,Total,1020
 2016,Number,BERKOVICI,F,Total,970
@@ -15602,9 +15602,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,0-4,47669
 2017,Number,REPUBLIKA SRPSKA,M,0-4,24658
 2017,Number,REPUBLIKA SRPSKA,F,0-4,23011
-2017,Number,"City of Banja Luka""",Both sexes,0-4,10191
-2017,Number,"City of Banja Luka""",M,0-4,5329
-2017,Number,"City of Banja Luka""",F,0-4,4862
+2017,Number,City of Banja Luka,Both sexes,0-4,10191
+2017,Number,City of Banja Luka,M,0-4,5329
+2017,Number,City of Banja Luka,F,0-4,4862
 2017,Number,BERKOVICI,Both sexes,0-4,81
 2017,Number,BERKOVICI,M,0-4,43
 2017,Number,BERKOVICI,F,0-4,38
@@ -15797,9 +15797,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,5-9,54425
 2017,Number,REPUBLIKA SRPSKA,M,5-9,27909
 2017,Number,REPUBLIKA SRPSKA,F,5-9,26516
-2017,Number,"City of Banja Luka""",Both sexes,5-9,9437
-2017,Number,"City of Banja Luka""",M,5-9,4784
-2017,Number,"City of Banja Luka""",F,5-9,4653
+2017,Number,City of Banja Luka,Both sexes,5-9,9437
+2017,Number,City of Banja Luka,M,5-9,4784
+2017,Number,City of Banja Luka,F,5-9,4653
 2017,Number,BERKOVICI,Both sexes,5-9,99
 2017,Number,BERKOVICI,M,5-9,53
 2017,Number,BERKOVICI,F,5-9,46
@@ -15992,9 +15992,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,10-14,54011
 2017,Number,REPUBLIKA SRPSKA,M,10-14,27739
 2017,Number,REPUBLIKA SRPSKA,F,10-14,26272
-2017,Number,"City of Banja Luka""",Both sexes,10-14,8339
-2017,Number,"City of Banja Luka""",M,10-14,4262
-2017,Number,"City of Banja Luka""",F,10-14,4077
+2017,Number,City of Banja Luka,Both sexes,10-14,8339
+2017,Number,City of Banja Luka,M,10-14,4262
+2017,Number,City of Banja Luka,F,10-14,4077
 2017,Number,BERKOVICI,Both sexes,10-14,127
 2017,Number,BERKOVICI,M,10-14,63
 2017,Number,BERKOVICI,F,10-14,64
@@ -16187,9 +16187,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,15-19,60988
 2017,Number,REPUBLIKA SRPSKA,M,15-19,31302
 2017,Number,REPUBLIKA SRPSKA,F,15-19,29686
-2017,Number,"City of Banja Luka""",Both sexes,15-19,8992
-2017,Number,"City of Banja Luka""",M,15-19,4628
-2017,Number,"City of Banja Luka""",F,15-19,4364
+2017,Number,City of Banja Luka,Both sexes,15-19,8992
+2017,Number,City of Banja Luka,M,15-19,4628
+2017,Number,City of Banja Luka,F,15-19,4364
 2017,Number,BERKOVICI,Both sexes,15-19,133
 2017,Number,BERKOVICI,M,15-19,72
 2017,Number,BERKOVICI,F,15-19,61
@@ -16382,9 +16382,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,20-24,67578
 2017,Number,REPUBLIKA SRPSKA,M,20-24,34984
 2017,Number,REPUBLIKA SRPSKA,F,20-24,32594
-2017,Number,"City of Banja Luka""",Both sexes,20-24,10477
-2017,Number,"City of Banja Luka""",M,20-24,5228
-2017,Number,"City of Banja Luka""",F,20-24,5249
+2017,Number,City of Banja Luka,Both sexes,20-24,10477
+2017,Number,City of Banja Luka,M,20-24,5228
+2017,Number,City of Banja Luka,F,20-24,5249
 2017,Number,BERKOVICI,Both sexes,20-24,61
 2017,Number,BERKOVICI,M,20-24,36
 2017,Number,BERKOVICI,F,20-24,25
@@ -16577,9 +16577,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,25-29,69711
 2017,Number,REPUBLIKA SRPSKA,M,25-29,35943
 2017,Number,REPUBLIKA SRPSKA,F,25-29,33768
-2017,Number,"City of Banja Luka""",Both sexes,25-29,11731
-2017,Number,"City of Banja Luka""",M,25-29,5621
-2017,Number,"City of Banja Luka""",F,25-29,6110
+2017,Number,City of Banja Luka,Both sexes,25-29,11731
+2017,Number,City of Banja Luka,M,25-29,5621
+2017,Number,City of Banja Luka,F,25-29,6110
 2017,Number,BERKOVICI,Both sexes,25-29,85
 2017,Number,BERKOVICI,M,25-29,45
 2017,Number,BERKOVICI,F,25-29,40
@@ -16772,9 +16772,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,30-34,78413
 2017,Number,REPUBLIKA SRPSKA,M,30-34,39935
 2017,Number,REPUBLIKA SRPSKA,F,30-34,38478
-2017,Number,"City of Banja Luka""",Both sexes,30-34,14024
-2017,Number,"City of Banja Luka""",M,30-34,6718
-2017,Number,"City of Banja Luka""",F,30-34,7306
+2017,Number,City of Banja Luka,Both sexes,30-34,14024
+2017,Number,City of Banja Luka,M,30-34,6718
+2017,Number,City of Banja Luka,F,30-34,7306
 2017,Number,BERKOVICI,Both sexes,30-34,86
 2017,Number,BERKOVICI,M,30-34,51
 2017,Number,BERKOVICI,F,30-34,35
@@ -16967,9 +16967,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80313
 2017,Number,REPUBLIKA SRPSKA,M,35-39,40775
 2017,Number,REPUBLIKA SRPSKA,F,35-39,39538
-2017,Number,"City of Banja Luka""",Both sexes,35-39,15021
-2017,Number,"City of Banja Luka""",M,35-39,7327
-2017,Number,"City of Banja Luka""",F,35-39,7694
+2017,Number,City of Banja Luka,Both sexes,35-39,15021
+2017,Number,City of Banja Luka,M,35-39,7327
+2017,Number,City of Banja Luka,F,35-39,7694
 2017,Number,BERKOVICI,Both sexes,35-39,116
 2017,Number,BERKOVICI,M,35-39,56
 2017,Number,BERKOVICI,F,35-39,60
@@ -17162,9 +17162,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,40-44,79628
 2017,Number,REPUBLIKA SRPSKA,M,40-44,40696
 2017,Number,REPUBLIKA SRPSKA,F,40-44,38932
-2017,Number,"City of Banja Luka""",Both sexes,40-44,14137
-2017,Number,"City of Banja Luka""",M,40-44,7035
-2017,Number,"City of Banja Luka""",F,40-44,7102
+2017,Number,City of Banja Luka,Both sexes,40-44,14137
+2017,Number,City of Banja Luka,M,40-44,7035
+2017,Number,City of Banja Luka,F,40-44,7102
 2017,Number,BERKOVICI,Both sexes,40-44,132
 2017,Number,BERKOVICI,M,40-44,74
 2017,Number,BERKOVICI,F,40-44,58
@@ -17357,9 +17357,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,45-49,75563
 2017,Number,REPUBLIKA SRPSKA,M,45-49,38318
 2017,Number,REPUBLIKA SRPSKA,F,45-49,37245
-2017,Number,"City of Banja Luka""",Both sexes,45-49,11691
-2017,Number,"City of Banja Luka""",M,45-49,5879
-2017,Number,"City of Banja Luka""",F,45-49,5812
+2017,Number,City of Banja Luka,Both sexes,45-49,11691
+2017,Number,City of Banja Luka,M,45-49,5879
+2017,Number,City of Banja Luka,F,45-49,5812
 2017,Number,BERKOVICI,Both sexes,45-49,138
 2017,Number,BERKOVICI,M,45-49,89
 2017,Number,BERKOVICI,F,45-49,49
@@ -17552,9 +17552,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,50-54,84512
 2017,Number,REPUBLIKA SRPSKA,M,50-54,41752
 2017,Number,REPUBLIKA SRPSKA,F,50-54,42760
-2017,Number,"City of Banja Luka""",Both sexes,50-54,11925
-2017,Number,"City of Banja Luka""",M,50-54,5688
-2017,Number,"City of Banja Luka""",F,50-54,6237
+2017,Number,City of Banja Luka,Both sexes,50-54,11925
+2017,Number,City of Banja Luka,M,50-54,5688
+2017,Number,City of Banja Luka,F,50-54,6237
 2017,Number,BERKOVICI,Both sexes,50-54,123
 2017,Number,BERKOVICI,M,50-54,72
 2017,Number,BERKOVICI,F,50-54,51
@@ -17747,9 +17747,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,55-59,90210
 2017,Number,REPUBLIKA SRPSKA,M,55-59,43657
 2017,Number,REPUBLIKA SRPSKA,F,55-59,46553
-2017,Number,"City of Banja Luka""",Both sexes,55-59,13253
-2017,Number,"City of Banja Luka""",M,55-59,6173
-2017,Number,"City of Banja Luka""",F,55-59,7080
+2017,Number,City of Banja Luka,Both sexes,55-59,13253
+2017,Number,City of Banja Luka,M,55-59,6173
+2017,Number,City of Banja Luka,F,55-59,7080
 2017,Number,BERKOVICI,Both sexes,55-59,127
 2017,Number,BERKOVICI,M,55-59,74
 2017,Number,BERKOVICI,F,55-59,53
@@ -17942,9 +17942,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,60-64,91623
 2017,Number,REPUBLIKA SRPSKA,M,60-64,43518
 2017,Number,REPUBLIKA SRPSKA,F,60-64,48105
-2017,Number,"City of Banja Luka""",Both sexes,60-64,13543
-2017,Number,"City of Banja Luka""",M,60-64,6211
-2017,Number,"City of Banja Luka""",F,60-64,7332
+2017,Number,City of Banja Luka,Both sexes,60-64,13543
+2017,Number,City of Banja Luka,M,60-64,6211
+2017,Number,City of Banja Luka,F,60-64,7332
 2017,Number,BERKOVICI,Both sexes,60-64,125
 2017,Number,BERKOVICI,M,60-64,56
 2017,Number,BERKOVICI,F,60-64,69
@@ -18137,9 +18137,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,65-69,76077
 2017,Number,REPUBLIKA SRPSKA,M,65-69,34812
 2017,Number,REPUBLIKA SRPSKA,F,65-69,41265
-2017,Number,"City of Banja Luka""",Both sexes,65-69,11355
-2017,Number,"City of Banja Luka""",M,65-69,5023
-2017,Number,"City of Banja Luka""",F,65-69,6332
+2017,Number,City of Banja Luka,Both sexes,65-69,11355
+2017,Number,City of Banja Luka,M,65-69,5023
+2017,Number,City of Banja Luka,F,65-69,6332
 2017,Number,BERKOVICI,Both sexes,65-69,134
 2017,Number,BERKOVICI,M,65-69,67
 2017,Number,BERKOVICI,F,65-69,67
@@ -18332,9 +18332,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,70-74,49170
 2017,Number,REPUBLIKA SRPSKA,M,70-74,21177
 2017,Number,REPUBLIKA SRPSKA,F,70-74,27993
-2017,Number,"City of Banja Luka""",Both sexes,70-74,7127
-2017,Number,"City of Banja Luka""",M,70-74,3136
-2017,Number,"City of Banja Luka""",F,70-74,3991
+2017,Number,City of Banja Luka,Both sexes,70-74,7127
+2017,Number,City of Banja Luka,M,70-74,3136
+2017,Number,City of Banja Luka,F,70-74,3991
 2017,Number,BERKOVICI,Both sexes,70-74,108
 2017,Number,BERKOVICI,M,70-74,44
 2017,Number,BERKOVICI,F,70-74,64
@@ -18527,9 +18527,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,75-79,47544
 2017,Number,REPUBLIKA SRPSKA,M,75-79,19315
 2017,Number,REPUBLIKA SRPSKA,F,75-79,28229
-2017,Number,"City of Banja Luka""",Both sexes,75-79,6248
-2017,Number,"City of Banja Luka""",M,75-79,2574
-2017,Number,"City of Banja Luka""",F,75-79,3674
+2017,Number,City of Banja Luka,Both sexes,75-79,6248
+2017,Number,City of Banja Luka,M,75-79,2574
+2017,Number,City of Banja Luka,F,75-79,3674
 2017,Number,BERKOVICI,Both sexes,75-79,138
 2017,Number,BERKOVICI,M,75-79,59
 2017,Number,BERKOVICI,F,75-79,79
@@ -18722,9 +18722,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,80-84,30644
 2017,Number,REPUBLIKA SRPSKA,M,80-84,11479
 2017,Number,REPUBLIKA SRPSKA,F,80-84,19165
-2017,Number,"City of Banja Luka""",Both sexes,80-84,4056
-2017,Number,"City of Banja Luka""",M,80-84,1592
-2017,Number,"City of Banja Luka""",F,80-84,2464
+2017,Number,City of Banja Luka,Both sexes,80-84,4056
+2017,Number,City of Banja Luka,M,80-84,1592
+2017,Number,City of Banja Luka,F,80-84,2464
 2017,Number,BERKOVICI,Both sexes,80-84,93
 2017,Number,BERKOVICI,M,80-84,36
 2017,Number,BERKOVICI,F,80-84,57
@@ -18917,9 +18917,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,85-89,12003
 2017,Number,REPUBLIKA SRPSKA,M,85-89,4303
 2017,Number,REPUBLIKA SRPSKA,F,85-89,7700
-2017,Number,"City of Banja Luka""",Both sexes,85-89,1579
-2017,Number,"City of Banja Luka""",M,85-89,584
-2017,Number,"City of Banja Luka""",F,85-89,995
+2017,Number,City of Banja Luka,Both sexes,85-89,1579
+2017,Number,City of Banja Luka,M,85-89,584
+2017,Number,City of Banja Luka,F,85-89,995
 2017,Number,BERKOVICI,Both sexes,85-89,39
 2017,Number,BERKOVICI,M,85-89,19
 2017,Number,BERKOVICI,F,85-89,20
@@ -19112,9 +19112,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,90+,2935
 2017,Number,REPUBLIKA SRPSKA,M,90+,915
 2017,Number,REPUBLIKA SRPSKA,F,90+,2020
-2017,Number,"City of Banja Luka""",Both sexes,90+,431
-2017,Number,"City of Banja Luka""",M,90+,128
-2017,Number,"City of Banja Luka""",F,90+,303
+2017,Number,City of Banja Luka,Both sexes,90+,431
+2017,Number,City of Banja Luka,M,90+,128
+2017,Number,City of Banja Luka,F,90+,303
 2017,Number,BERKOVICI,Both sexes,90+,19
 2017,Number,BERKOVICI,M,90+,9
 2017,Number,BERKOVICI,F,90+,10
@@ -19307,9 +19307,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2017,Number,REPUBLIKA SRPSKA,Both sexes,Total,1153017
 2017,Number,REPUBLIKA SRPSKA,M,Total,563187
 2017,Number,REPUBLIKA SRPSKA,F,Total,589830
-2017,Number,"City of Banja Luka""",Both sexes,Total,183557
-2017,Number,"City of Banja Luka""",M,Total,87920
-2017,Number,"City of Banja Luka""",F,Total,95637
+2017,Number,City of Banja Luka,Both sexes,Total,183557
+2017,Number,City of Banja Luka,M,Total,87920
+2017,Number,City of Banja Luka,F,Total,95637
 2017,Number,BERKOVICI,Both sexes,Total,1964
 2017,Number,BERKOVICI,M,Total,1018
 2017,Number,BERKOVICI,F,Total,946
@@ -19502,9 +19502,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,0-4,46783
 2018,Number,REPUBLIKA SRPSKA,M,0-4,24321
 2018,Number,REPUBLIKA SRPSKA,F,0-4,22462
-2018,Number,"City of Banja Luka""",Both sexes,0-4,10201
-2018,Number,"City of Banja Luka""",M,0-4,5355
-2018,Number,"City of Banja Luka""",F,0-4,4846
+2018,Number,City of Banja Luka,Both sexes,0-4,10201
+2018,Number,City of Banja Luka,M,0-4,5355
+2018,Number,City of Banja Luka,F,0-4,4846
 2018,Number,BERKOVICI,Both sexes,0-4,75
 2018,Number,BERKOVICI,M,0-4,38
 2018,Number,BERKOVICI,F,0-4,37
@@ -19697,9 +19697,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,5-9,53561
 2018,Number,REPUBLIKA SRPSKA,M,5-9,27463
 2018,Number,REPUBLIKA SRPSKA,F,5-9,26098
-2018,Number,"City of Banja Luka""",Both sexes,5-9,9630
-2018,Number,"City of Banja Luka""",M,5-9,4890
-2018,Number,"City of Banja Luka""",F,5-9,4740
+2018,Number,City of Banja Luka,Both sexes,5-9,9630
+2018,Number,City of Banja Luka,M,5-9,4890
+2018,Number,City of Banja Luka,F,5-9,4740
 2018,Number,BERKOVICI,Both sexes,5-9,90
 2018,Number,BERKOVICI,M,5-9,49
 2018,Number,BERKOVICI,F,5-9,41
@@ -19892,9 +19892,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,10-14,53979
 2018,Number,REPUBLIKA SRPSKA,M,10-14,27689
 2018,Number,REPUBLIKA SRPSKA,F,10-14,26290
-2018,Number,"City of Banja Luka""",Both sexes,10-14,8516
-2018,Number,"City of Banja Luka""",M,10-14,4356
-2018,Number,"City of Banja Luka""",F,10-14,4160
+2018,Number,City of Banja Luka,Both sexes,10-14,8516
+2018,Number,City of Banja Luka,M,10-14,4356
+2018,Number,City of Banja Luka,F,10-14,4160
 2018,Number,BERKOVICI,Both sexes,10-14,123
 2018,Number,BERKOVICI,M,10-14,64
 2018,Number,BERKOVICI,F,10-14,59
@@ -20087,9 +20087,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,15-19,58248
 2018,Number,REPUBLIKA SRPSKA,M,15-19,29864
 2018,Number,REPUBLIKA SRPSKA,F,15-19,28384
-2018,Number,"City of Banja Luka""",Both sexes,15-19,8693
-2018,Number,"City of Banja Luka""",M,15-19,4462
-2018,Number,"City of Banja Luka""",F,15-19,4231
+2018,Number,City of Banja Luka,Both sexes,15-19,8693
+2018,Number,City of Banja Luka,M,15-19,4462
+2018,Number,City of Banja Luka,F,15-19,4231
 2018,Number,BERKOVICI,Both sexes,15-19,139
 2018,Number,BERKOVICI,M,15-19,71
 2018,Number,BERKOVICI,F,15-19,68
@@ -20282,9 +20282,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,20-24,69375
 2018,Number,REPUBLIKA SRPSKA,M,20-24,35777
 2018,Number,REPUBLIKA SRPSKA,F,20-24,33598
-2018,Number,"City of Banja Luka""",Both sexes,20-24,10654
-2018,Number,"City of Banja Luka""",M,20-24,5339
-2018,Number,"City of Banja Luka""",F,20-24,5315
+2018,Number,City of Banja Luka,Both sexes,20-24,10654
+2018,Number,City of Banja Luka,M,20-24,5339
+2018,Number,City of Banja Luka,F,20-24,5315
 2018,Number,BERKOVICI,Both sexes,20-24,67
 2018,Number,BERKOVICI,M,20-24,37
 2018,Number,BERKOVICI,F,20-24,30
@@ -20477,9 +20477,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,25-29,66608
 2018,Number,REPUBLIKA SRPSKA,M,25-29,34534
 2018,Number,REPUBLIKA SRPSKA,F,25-29,32074
-2018,Number,"City of Banja Luka""",Both sexes,25-29,11260
-2018,Number,"City of Banja Luka""",M,25-29,5373
-2018,Number,"City of Banja Luka""",F,25-29,5887
+2018,Number,City of Banja Luka,Both sexes,25-29,11260
+2018,Number,City of Banja Luka,M,25-29,5373
+2018,Number,City of Banja Luka,F,25-29,5887
 2018,Number,BERKOVICI,Both sexes,25-29,73
 2018,Number,BERKOVICI,M,25-29,42
 2018,Number,BERKOVICI,F,25-29,31
@@ -20672,9 +20672,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,30-34,77062
 2018,Number,REPUBLIKA SRPSKA,M,30-34,39285
 2018,Number,REPUBLIKA SRPSKA,F,30-34,37777
-2018,Number,"City of Banja Luka""",Both sexes,30-34,13659
-2018,Number,"City of Banja Luka""",M,30-34,6573
-2018,Number,"City of Banja Luka""",F,30-34,7086
+2018,Number,City of Banja Luka,Both sexes,30-34,13659
+2018,Number,City of Banja Luka,M,30-34,6573
+2018,Number,City of Banja Luka,F,30-34,7086
 2018,Number,BERKOVICI,Both sexes,30-34,89
 2018,Number,BERKOVICI,M,30-34,57
 2018,Number,BERKOVICI,F,30-34,32
@@ -20867,9 +20867,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80370
 2018,Number,REPUBLIKA SRPSKA,M,35-39,40743
 2018,Number,REPUBLIKA SRPSKA,F,35-39,39627
-2018,Number,"City of Banja Luka""",Both sexes,35-39,15167
-2018,Number,"City of Banja Luka""",M,35-39,7326
-2018,Number,"City of Banja Luka""",F,35-39,7841
+2018,Number,City of Banja Luka,Both sexes,35-39,15167
+2018,Number,City of Banja Luka,M,35-39,7326
+2018,Number,City of Banja Luka,F,35-39,7841
 2018,Number,BERKOVICI,Both sexes,35-39,101
 2018,Number,BERKOVICI,M,35-39,49
 2018,Number,BERKOVICI,F,35-39,52
@@ -21062,9 +21062,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,40-44,80022
 2018,Number,REPUBLIKA SRPSKA,M,40-44,40878
 2018,Number,REPUBLIKA SRPSKA,F,40-44,39144
-2018,Number,"City of Banja Luka""",Both sexes,40-44,14452
-2018,Number,"City of Banja Luka""",M,40-44,7169
-2018,Number,"City of Banja Luka""",F,40-44,7283
+2018,Number,City of Banja Luka,Both sexes,40-44,14452
+2018,Number,City of Banja Luka,M,40-44,7169
+2018,Number,City of Banja Luka,F,40-44,7283
 2018,Number,BERKOVICI,Both sexes,40-44,130
 2018,Number,BERKOVICI,M,40-44,69
 2018,Number,BERKOVICI,F,40-44,61
@@ -21257,9 +21257,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,45-49,75372
 2018,Number,REPUBLIKA SRPSKA,M,45-49,38377
 2018,Number,REPUBLIKA SRPSKA,F,45-49,36995
-2018,Number,"City of Banja Luka""",Both sexes,45-49,12035
-2018,Number,"City of Banja Luka""",M,45-49,6072
-2018,Number,"City of Banja Luka""",F,45-49,5963
+2018,Number,City of Banja Luka,Both sexes,45-49,12035
+2018,Number,City of Banja Luka,M,45-49,6072
+2018,Number,City of Banja Luka,F,45-49,5963
 2018,Number,BERKOVICI,Both sexes,45-49,135
 2018,Number,BERKOVICI,M,45-49,90
 2018,Number,BERKOVICI,F,45-49,45
@@ -21452,9 +21452,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,50-54,82290
 2018,Number,REPUBLIKA SRPSKA,M,50-54,40817
 2018,Number,REPUBLIKA SRPSKA,F,50-54,41473
-2018,Number,"City of Banja Luka""",Both sexes,50-54,11648
-2018,Number,"City of Banja Luka""",M,50-54,5610
-2018,Number,"City of Banja Luka""",F,50-54,6038
+2018,Number,City of Banja Luka,Both sexes,50-54,11648
+2018,Number,City of Banja Luka,M,50-54,5610
+2018,Number,City of Banja Luka,F,50-54,6038
 2018,Number,BERKOVICI,Both sexes,50-54,133
 2018,Number,BERKOVICI,M,50-54,78
 2018,Number,BERKOVICI,F,50-54,55
@@ -21647,9 +21647,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,55-59,89379
 2018,Number,REPUBLIKA SRPSKA,M,55-59,43267
 2018,Number,REPUBLIKA SRPSKA,F,55-59,46112
-2018,Number,"City of Banja Luka""",Both sexes,55-59,12992
-2018,Number,"City of Banja Luka""",M,55-59,6054
-2018,Number,"City of Banja Luka""",F,55-59,6938
+2018,Number,City of Banja Luka,Both sexes,55-59,12992
+2018,Number,City of Banja Luka,M,55-59,6054
+2018,Number,City of Banja Luka,F,55-59,6938
 2018,Number,BERKOVICI,Both sexes,55-59,127
 2018,Number,BERKOVICI,M,55-59,76
 2018,Number,BERKOVICI,F,55-59,51
@@ -21842,9 +21842,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,60-64,90342
 2018,Number,REPUBLIKA SRPSKA,M,60-64,42830
 2018,Number,REPUBLIKA SRPSKA,F,60-64,47512
-2018,Number,"City of Banja Luka""",Both sexes,60-64,13398
-2018,Number,"City of Banja Luka""",M,60-64,6113
-2018,Number,"City of Banja Luka""",F,60-64,7285
+2018,Number,City of Banja Luka,Both sexes,60-64,13398
+2018,Number,City of Banja Luka,M,60-64,6113
+2018,Number,City of Banja Luka,F,60-64,7285
 2018,Number,BERKOVICI,Both sexes,60-64,121
 2018,Number,BERKOVICI,M,60-64,53
 2018,Number,BERKOVICI,F,60-64,68
@@ -22037,9 +22037,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,65-69,79067
 2018,Number,REPUBLIKA SRPSKA,M,65-69,36278
 2018,Number,REPUBLIKA SRPSKA,F,65-69,42789
-2018,Number,"City of Banja Luka""",Both sexes,65-69,11675
-2018,Number,"City of Banja Luka""",M,65-69,5123
-2018,Number,"City of Banja Luka""",F,65-69,6552
+2018,Number,City of Banja Luka,Both sexes,65-69,11675
+2018,Number,City of Banja Luka,M,65-69,5123
+2018,Number,City of Banja Luka,F,65-69,6552
 2018,Number,BERKOVICI,Both sexes,65-69,129
 2018,Number,BERKOVICI,M,65-69,67
 2018,Number,BERKOVICI,F,65-69,62
@@ -22232,9 +22232,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,70-74,52446
 2018,Number,REPUBLIKA SRPSKA,M,70-74,22707
 2018,Number,REPUBLIKA SRPSKA,F,70-74,29739
-2018,Number,"City of Banja Luka""",Both sexes,70-74,7875
-2018,Number,"City of Banja Luka""",M,70-74,3510
-2018,Number,"City of Banja Luka""",F,70-74,4365
+2018,Number,City of Banja Luka,Both sexes,70-74,7875
+2018,Number,City of Banja Luka,M,70-74,3510
+2018,Number,City of Banja Luka,F,70-74,4365
 2018,Number,BERKOVICI,Both sexes,70-74,119
 2018,Number,BERKOVICI,M,70-74,51
 2018,Number,BERKOVICI,F,70-74,68
@@ -22427,9 +22427,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,75-79,45216
 2018,Number,REPUBLIKA SRPSKA,M,75-79,18324
 2018,Number,REPUBLIKA SRPSKA,F,75-79,26892
-2018,Number,"City of Banja Luka""",Both sexes,75-79,6047
-2018,Number,"City of Banja Luka""",M,75-79,2447
-2018,Number,"City of Banja Luka""",F,75-79,3600
+2018,Number,City of Banja Luka,Both sexes,75-79,6047
+2018,Number,City of Banja Luka,M,75-79,2447
+2018,Number,City of Banja Luka,F,75-79,3600
 2018,Number,BERKOVICI,Both sexes,75-79,118
 2018,Number,BERKOVICI,M,75-79,47
 2018,Number,BERKOVICI,F,75-79,71
@@ -22622,9 +22622,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,80-84,31930
 2018,Number,REPUBLIKA SRPSKA,M,80-84,12075
 2018,Number,REPUBLIKA SRPSKA,F,80-84,19855
-2018,Number,"City of Banja Luka""",Both sexes,80-84,4233
-2018,Number,"City of Banja Luka""",M,80-84,1691
-2018,Number,"City of Banja Luka""",F,80-84,2542
+2018,Number,City of Banja Luka,Both sexes,80-84,4233
+2018,Number,City of Banja Luka,M,80-84,1691
+2018,Number,City of Banja Luka,F,80-84,2542
 2018,Number,BERKOVICI,Both sexes,80-84,97
 2018,Number,BERKOVICI,M,80-84,35
 2018,Number,BERKOVICI,F,80-84,62
@@ -22817,9 +22817,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,85-89,12742
 2018,Number,REPUBLIKA SRPSKA,M,85-89,4564
 2018,Number,REPUBLIKA SRPSKA,F,85-89,8178
-2018,Number,"City of Banja Luka""",Both sexes,85-89,1662
-2018,Number,"City of Banja Luka""",M,85-89,620
-2018,Number,"City of Banja Luka""",F,85-89,1042
+2018,Number,City of Banja Luka,Both sexes,85-89,1662
+2018,Number,City of Banja Luka,M,85-89,620
+2018,Number,City of Banja Luka,F,85-89,1042
 2018,Number,BERKOVICI,Both sexes,85-89,44
 2018,Number,BERKOVICI,M,85-89,21
 2018,Number,BERKOVICI,F,85-89,23
@@ -23012,9 +23012,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,90+,3110
 2018,Number,REPUBLIKA SRPSKA,M,90+,1002
 2018,Number,REPUBLIKA SRPSKA,F,90+,2108
-2018,Number,"City of Banja Luka""",Both sexes,90+,460
-2018,Number,"City of Banja Luka""",M,90+,143
-2018,Number,"City of Banja Luka""",F,90+,317
+2018,Number,City of Banja Luka,Both sexes,90+,460
+2018,Number,City of Banja Luka,M,90+,143
+2018,Number,City of Banja Luka,F,90+,317
 2018,Number,BERKOVICI,Both sexes,90+,17
 2018,Number,BERKOVICI,M,90+,7
 2018,Number,BERKOVICI,F,90+,10
@@ -23207,9 +23207,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2018,Number,REPUBLIKA SRPSKA,Both sexes,Total,1147902
 2018,Number,REPUBLIKA SRPSKA,M,Total,560795
 2018,Number,REPUBLIKA SRPSKA,F,Total,587107
-2018,Number,"City of Banja Luka""",Both sexes,Total,184257
-2018,Number,"City of Banja Luka""",M,Total,88226
-2018,Number,"City of Banja Luka""",F,Total,96031
+2018,Number,City of Banja Luka,Both sexes,Total,184257
+2018,Number,City of Banja Luka,M,Total,88226
+2018,Number,City of Banja Luka,F,Total,96031
 2018,Number,BERKOVICI,Both sexes,Total,1927
 2018,Number,BERKOVICI,M,Total,1001
 2018,Number,BERKOVICI,F,Total,926
@@ -23402,9 +23402,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,0-4,46989
 2019,Number,REPUBLIKA SRPSKA,M,0-4,24499
 2019,Number,REPUBLIKA SRPSKA,F,0-4,22490
-2019,Number,"City of Banja Luka""",Both sexes,0-4,10109
-2019,Number,"City of Banja Luka""",M,0-4,5313
-2019,Number,"City of Banja Luka""",F,0-4,4796
+2019,Number,City of Banja Luka,Both sexes,0-4,10109
+2019,Number,City of Banja Luka,M,0-4,5313
+2019,Number,City of Banja Luka,F,0-4,4796
 2019,Number,BERKOVICI,Both sexes,0-4,70
 2019,Number,BERKOVICI,M,0-4,36
 2019,Number,BERKOVICI,F,0-4,34
@@ -23597,9 +23597,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,5-9,51849
 2019,Number,REPUBLIKA SRPSKA,M,5-9,26577
 2019,Number,REPUBLIKA SRPSKA,F,5-9,25272
-2019,Number,"City of Banja Luka""",Both sexes,5-9,9763
-2019,Number,"City of Banja Luka""",M,5-9,4982
-2019,Number,"City of Banja Luka""",F,5-9,4781
+2019,Number,City of Banja Luka,Both sexes,5-9,9763
+2019,Number,City of Banja Luka,M,5-9,4982
+2019,Number,City of Banja Luka,F,5-9,4781
 2019,Number,BERKOVICI,Both sexes,5-9,84
 2019,Number,BERKOVICI,M,5-9,44
 2019,Number,BERKOVICI,F,5-9,40
@@ -23792,9 +23792,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,10-14,54340
 2019,Number,REPUBLIKA SRPSKA,M,10-14,27877
 2019,Number,REPUBLIKA SRPSKA,F,10-14,26463
-2019,Number,"City of Banja Luka""",Both sexes,10-14,8797
-2019,Number,"City of Banja Luka""",M,10-14,4499
-2019,Number,"City of Banja Luka""",F,10-14,4298
+2019,Number,City of Banja Luka,Both sexes,10-14,8797
+2019,Number,City of Banja Luka,M,10-14,4499
+2019,Number,City of Banja Luka,F,10-14,4298
 2019,Number,BERKOVICI,Both sexes,10-14,123
 2019,Number,BERKOVICI,M,10-14,66
 2019,Number,BERKOVICI,F,10-14,57
@@ -23987,9 +23987,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,15-19,56767
 2019,Number,REPUBLIKA SRPSKA,M,15-19,29150
 2019,Number,REPUBLIKA SRPSKA,F,15-19,27617
-2019,Number,"City of Banja Luka""",Both sexes,15-19,8559
-2019,Number,"City of Banja Luka""",M,15-19,4398
-2019,Number,"City of Banja Luka""",F,15-19,4161
+2019,Number,City of Banja Luka,Both sexes,15-19,8559
+2019,Number,City of Banja Luka,M,15-19,4398
+2019,Number,City of Banja Luka,F,15-19,4161
 2019,Number,BERKOVICI,Both sexes,15-19,126
 2019,Number,BERKOVICI,M,15-19,60
 2019,Number,BERKOVICI,F,15-19,66
@@ -24182,9 +24182,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,20-24,68958
 2019,Number,REPUBLIKA SRPSKA,M,20-24,35339
 2019,Number,REPUBLIKA SRPSKA,F,20-24,33619
-2019,Number,"City of Banja Luka""",Both sexes,20-24,10469
-2019,Number,"City of Banja Luka""",M,20-24,5267
-2019,Number,"City of Banja Luka""",F,20-24,5202
+2019,Number,City of Banja Luka,Both sexes,20-24,10469
+2019,Number,City of Banja Luka,M,20-24,5267
+2019,Number,City of Banja Luka,F,20-24,5202
 2019,Number,BERKOVICI,Both sexes,20-24,77
 2019,Number,BERKOVICI,M,20-24,42
 2019,Number,BERKOVICI,F,20-24,35
@@ -24377,9 +24377,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,25-29,65048
 2019,Number,REPUBLIKA SRPSKA,M,25-29,33871
 2019,Number,REPUBLIKA SRPSKA,F,25-29,31177
-2019,Number,"City of Banja Luka""",Both sexes,25-29,11107
-2019,Number,"City of Banja Luka""",M,25-29,5263
-2019,Number,"City of Banja Luka""",F,25-29,5844
+2019,Number,City of Banja Luka,Both sexes,25-29,11107
+2019,Number,City of Banja Luka,M,25-29,5263
+2019,Number,City of Banja Luka,F,25-29,5844
 2019,Number,BERKOVICI,Both sexes,25-29,66
 2019,Number,BERKOVICI,M,25-29,37
 2019,Number,BERKOVICI,F,25-29,29
@@ -24572,9 +24572,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,30-34,75240
 2019,Number,REPUBLIKA SRPSKA,M,30-34,38358
 2019,Number,REPUBLIKA SRPSKA,F,30-34,36882
-2019,Number,"City of Banja Luka""",Both sexes,30-34,13287
-2019,Number,"City of Banja Luka""",M,30-34,6379
-2019,Number,"City of Banja Luka""",F,30-34,6908
+2019,Number,City of Banja Luka,Both sexes,30-34,13287
+2019,Number,City of Banja Luka,M,30-34,6379
+2019,Number,City of Banja Luka,F,30-34,6908
 2019,Number,BERKOVICI,Both sexes,30-34,88
 2019,Number,BERKOVICI,M,30-34,56
 2019,Number,BERKOVICI,F,30-34,32
@@ -24767,9 +24767,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80574
 2019,Number,REPUBLIKA SRPSKA,M,35-39,40861
 2019,Number,REPUBLIKA SRPSKA,F,35-39,39713
-2019,Number,"City of Banja Luka""",Both sexes,35-39,15283
-2019,Number,"City of Banja Luka""",M,35-39,7355
-2019,Number,"City of Banja Luka""",F,35-39,7928
+2019,Number,City of Banja Luka,Both sexes,35-39,15283
+2019,Number,City of Banja Luka,M,35-39,7355
+2019,Number,City of Banja Luka,F,35-39,7928
 2019,Number,BERKOVICI,Both sexes,35-39,89
 2019,Number,BERKOVICI,M,35-39,43
 2019,Number,BERKOVICI,F,35-39,46
@@ -24962,9 +24962,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,40-44,80242
 2019,Number,REPUBLIKA SRPSKA,M,40-44,40907
 2019,Number,REPUBLIKA SRPSKA,F,40-44,39335
-2019,Number,"City of Banja Luka""",Both sexes,40-44,14706
-2019,Number,"City of Banja Luka""",M,40-44,7270
-2019,Number,"City of Banja Luka""",F,40-44,7436
+2019,Number,City of Banja Luka,Both sexes,40-44,14706
+2019,Number,City of Banja Luka,M,40-44,7270
+2019,Number,City of Banja Luka,F,40-44,7436
 2019,Number,BERKOVICI,Both sexes,40-44,131
 2019,Number,BERKOVICI,M,40-44,68
 2019,Number,BERKOVICI,F,40-44,63
@@ -25157,9 +25157,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,45-49,75535
 2019,Number,REPUBLIKA SRPSKA,M,45-49,38510
 2019,Number,REPUBLIKA SRPSKA,F,45-49,37025
-2019,Number,"City of Banja Luka""",Both sexes,45-49,12454
-2019,Number,"City of Banja Luka""",M,45-49,6279
-2019,Number,"City of Banja Luka""",F,45-49,6175
+2019,Number,City of Banja Luka,Both sexes,45-49,12454
+2019,Number,City of Banja Luka,M,45-49,6279
+2019,Number,City of Banja Luka,F,45-49,6175
 2019,Number,BERKOVICI,Both sexes,45-49,135
 2019,Number,BERKOVICI,M,45-49,86
 2019,Number,BERKOVICI,F,45-49,49
@@ -25352,9 +25352,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,50-54,80297
 2019,Number,REPUBLIKA SRPSKA,M,50-54,40006
 2019,Number,REPUBLIKA SRPSKA,F,50-54,40291
-2019,Number,"City of Banja Luka""",Both sexes,50-54,11475
-2019,Number,"City of Banja Luka""",M,50-54,5597
-2019,Number,"City of Banja Luka""",F,50-54,5878
+2019,Number,City of Banja Luka,Both sexes,50-54,11475
+2019,Number,City of Banja Luka,M,50-54,5597
+2019,Number,City of Banja Luka,F,50-54,5878
 2019,Number,BERKOVICI,Both sexes,50-54,139
 2019,Number,BERKOVICI,M,50-54,85
 2019,Number,BERKOVICI,F,50-54,54
@@ -25547,9 +25547,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,55-59,87300
 2019,Number,REPUBLIKA SRPSKA,M,55-59,42309
 2019,Number,REPUBLIKA SRPSKA,F,55-59,44991
-2019,Number,"City of Banja Luka""",Both sexes,55-59,12540
-2019,Number,"City of Banja Luka""",M,55-59,5820
-2019,Number,"City of Banja Luka""",F,55-59,6720
+2019,Number,City of Banja Luka,Both sexes,55-59,12540
+2019,Number,City of Banja Luka,M,55-59,5820
+2019,Number,City of Banja Luka,F,55-59,6720
 2019,Number,BERKOVICI,Both sexes,55-59,119
 2019,Number,BERKOVICI,M,55-59,71
 2019,Number,BERKOVICI,F,55-59,48
@@ -25742,9 +25742,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,60-64,88926
 2019,Number,REPUBLIKA SRPSKA,M,60-64,42038
 2019,Number,REPUBLIKA SRPSKA,F,60-64,46888
-2019,Number,"City of Banja Luka""",Both sexes,60-64,13257
-2019,Number,"City of Banja Luka""",M,60-64,6014
-2019,Number,"City of Banja Luka""",F,60-64,7243
+2019,Number,City of Banja Luka,Both sexes,60-64,13257
+2019,Number,City of Banja Luka,M,60-64,6014
+2019,Number,City of Banja Luka,F,60-64,7243
 2019,Number,BERKOVICI,Both sexes,60-64,119
 2019,Number,BERKOVICI,M,60-64,58
 2019,Number,BERKOVICI,F,60-64,61
@@ -25937,9 +25937,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,65-69,81485
 2019,Number,REPUBLIKA SRPSKA,M,65-69,37464
 2019,Number,REPUBLIKA SRPSKA,F,65-69,44021
-2019,Number,"City of Banja Luka""",Both sexes,65-69,11958
-2019,Number,"City of Banja Luka""",M,65-69,5253
-2019,Number,"City of Banja Luka""",F,65-69,6705
+2019,Number,City of Banja Luka,Both sexes,65-69,11958
+2019,Number,City of Banja Luka,M,65-69,5253
+2019,Number,City of Banja Luka,F,65-69,6705
 2019,Number,BERKOVICI,Both sexes,65-69,129
 2019,Number,BERKOVICI,M,65-69,67
 2019,Number,BERKOVICI,F,65-69,62
@@ -26132,9 +26132,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,70-74,56623
 2019,Number,REPUBLIKA SRPSKA,M,70-74,24642
 2019,Number,REPUBLIKA SRPSKA,F,70-74,31981
-2019,Number,"City of Banja Luka""",Both sexes,70-74,8627
-2019,Number,"City of Banja Luka""",M,70-74,3839
-2019,Number,"City of Banja Luka""",F,70-74,4788
+2019,Number,City of Banja Luka,Both sexes,70-74,8627
+2019,Number,City of Banja Luka,M,70-74,3839
+2019,Number,City of Banja Luka,F,70-74,4788
 2019,Number,BERKOVICI,Both sexes,70-74,126
 2019,Number,BERKOVICI,M,70-74,55
 2019,Number,BERKOVICI,F,70-74,71
@@ -26327,9 +26327,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,75-79,42470
 2019,Number,REPUBLIKA SRPSKA,M,75-79,17180
 2019,Number,REPUBLIKA SRPSKA,F,75-79,25290
-2019,Number,"City of Banja Luka""",Both sexes,75-79,5809
-2019,Number,"City of Banja Luka""",M,75-79,2330
-2019,Number,"City of Banja Luka""",F,75-79,3479
+2019,Number,City of Banja Luka,Both sexes,75-79,5809
+2019,Number,City of Banja Luka,M,75-79,2330
+2019,Number,City of Banja Luka,F,75-79,3479
 2019,Number,BERKOVICI,Both sexes,75-79,101
 2019,Number,BERKOVICI,M,75-79,36
 2019,Number,BERKOVICI,F,75-79,65
@@ -26522,9 +26522,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,80-84,32745
 2019,Number,REPUBLIKA SRPSKA,M,80-84,12494
 2019,Number,REPUBLIKA SRPSKA,F,80-84,20251
-2019,Number,"City of Banja Luka""",Both sexes,80-84,4388
-2019,Number,"City of Banja Luka""",M,80-84,1757
-2019,Number,"City of Banja Luka""",F,80-84,2631
+2019,Number,City of Banja Luka,Both sexes,80-84,4388
+2019,Number,City of Banja Luka,M,80-84,1757
+2019,Number,City of Banja Luka,F,80-84,2631
 2019,Number,BERKOVICI,Both sexes,80-84,105
 2019,Number,BERKOVICI,M,80-84,39
 2019,Number,BERKOVICI,F,80-84,66
@@ -26717,9 +26717,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,85-89,13503
 2019,Number,REPUBLIKA SRPSKA,M,85-89,4782
 2019,Number,REPUBLIKA SRPSKA,F,85-89,8721
-2019,Number,"City of Banja Luka""",Both sexes,85-89,1747
-2019,Number,"City of Banja Luka""",M,85-89,655
-2019,Number,"City of Banja Luka""",F,85-89,1092
+2019,Number,City of Banja Luka,Both sexes,85-89,1747
+2019,Number,City of Banja Luka,M,85-89,655
+2019,Number,City of Banja Luka,F,85-89,1092
 2019,Number,BERKOVICI,Both sexes,85-89,45
 2019,Number,BERKOVICI,M,85-89,20
 2019,Number,BERKOVICI,F,85-89,25
@@ -26912,9 +26912,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,90+,3604
 2019,Number,REPUBLIKA SRPSKA,M,90+,1229
 2019,Number,REPUBLIKA SRPSKA,F,90+,2375
-2019,Number,"City of Banja Luka""",Both sexes,90+,508
-2019,Number,"City of Banja Luka""",M,90+,168
-2019,Number,"City of Banja Luka""",F,90+,340
+2019,Number,City of Banja Luka,Both sexes,90+,508
+2019,Number,City of Banja Luka,M,90+,168
+2019,Number,City of Banja Luka,F,90+,340
 2019,Number,BERKOVICI,Both sexes,90+,18
 2019,Number,BERKOVICI,M,90+,10
 2019,Number,BERKOVICI,F,90+,8
@@ -27107,9 +27107,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2019,Number,REPUBLIKA SRPSKA,Both sexes,Total,1142495
 2019,Number,REPUBLIKA SRPSKA,M,Total,558093
 2019,Number,REPUBLIKA SRPSKA,F,Total,584402
-2019,Number,"City of Banja Luka""",Both sexes,Total,184843
-2019,Number,"City of Banja Luka""",M,Total,88438
-2019,Number,"City of Banja Luka""",F,Total,96405
+2019,Number,City of Banja Luka,Both sexes,Total,184843
+2019,Number,City of Banja Luka,M,Total,88438
+2019,Number,City of Banja Luka,F,Total,96405
 2019,Number,BERKOVICI,Both sexes,Total,1890
 2019,Number,BERKOVICI,M,Total,979
 2019,Number,BERKOVICI,F,Total,911
@@ -27302,9 +27302,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,0-4,46766
 2020,Number,REPUBLIKA SRPSKA,M,0-4,24479
 2020,Number,REPUBLIKA SRPSKA,F,0-4,22287
-2020,Number,"City of Banja Luka""",Both sexes,0-4,9852
-2020,Number,"City of Banja Luka""",M,0-4,5185
-2020,Number,"City of Banja Luka""",F,0-4,4667
+2020,Number,City of Banja Luka,Both sexes,0-4,9852
+2020,Number,City of Banja Luka,M,0-4,5185
+2020,Number,City of Banja Luka,F,0-4,4667
 2020,Number,BERKOVICI,Both sexes,0-4,60
 2020,Number,BERKOVICI,M,0-4,32
 2020,Number,BERKOVICI,F,0-4,28
@@ -27497,9 +27497,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,5-9,50140
 2020,Number,REPUBLIKA SRPSKA,M,5-9,25854
 2020,Number,REPUBLIKA SRPSKA,F,5-9,24286
-2020,Number,"City of Banja Luka""",Both sexes,5-9,9947
-2020,Number,"City of Banja Luka""",M,5-9,5133
-2020,Number,"City of Banja Luka""",F,5-9,4814
+2020,Number,City of Banja Luka,Both sexes,5-9,9947
+2020,Number,City of Banja Luka,M,5-9,5133
+2020,Number,City of Banja Luka,F,5-9,4814
 2020,Number,BERKOVICI,Both sexes,5-9,82
 2020,Number,BERKOVICI,M,5-9,42
 2020,Number,BERKOVICI,F,5-9,40
@@ -27692,9 +27692,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,10-14,54624
 2020,Number,REPUBLIKA SRPSKA,M,10-14,28034
 2020,Number,REPUBLIKA SRPSKA,F,10-14,26590
-2020,Number,"City of Banja Luka""",Both sexes,10-14,9017
-2020,Number,"City of Banja Luka""",M,10-14,4603
-2020,Number,"City of Banja Luka""",F,10-14,4414
+2020,Number,City of Banja Luka,Both sexes,10-14,9017
+2020,Number,City of Banja Luka,M,10-14,4603
+2020,Number,City of Banja Luka,F,10-14,4414
 2020,Number,BERKOVICI,Both sexes,10-14,109
 2020,Number,BERKOVICI,M,10-14,57
 2020,Number,BERKOVICI,F,10-14,52
@@ -27887,9 +27887,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,15-19,55722
 2020,Number,REPUBLIKA SRPSKA,M,15-19,28881
 2020,Number,REPUBLIKA SRPSKA,F,15-19,26841
-2020,Number,"City of Banja Luka""",Both sexes,15-19,8507
-2020,Number,"City of Banja Luka""",M,15-19,4398
-2020,Number,"City of Banja Luka""",F,15-19,4109
+2020,Number,City of Banja Luka,Both sexes,15-19,8507
+2020,Number,City of Banja Luka,M,15-19,4398
+2020,Number,City of Banja Luka,F,15-19,4109
 2020,Number,BERKOVICI,Both sexes,15-19,126
 2020,Number,BERKOVICI,M,15-19,62
 2020,Number,BERKOVICI,F,15-19,64
@@ -28082,9 +28082,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,20-24,66540
 2020,Number,REPUBLIKA SRPSKA,M,20-24,34373
 2020,Number,REPUBLIKA SRPSKA,F,20-24,32167
-2020,Number,"City of Banja Luka""",Both sexes,20-24,10009
-2020,Number,"City of Banja Luka""",M,20-24,5113
-2020,Number,"City of Banja Luka""",F,20-24,4896
+2020,Number,City of Banja Luka,Both sexes,20-24,10009
+2020,Number,City of Banja Luka,M,20-24,5113
+2020,Number,City of Banja Luka,F,20-24,4896
 2020,Number,BERKOVICI,Both sexes,20-24,83
 2020,Number,BERKOVICI,M,20-24,43
 2020,Number,BERKOVICI,F,20-24,40
@@ -28277,9 +28277,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,25-29,65512
 2020,Number,REPUBLIKA SRPSKA,M,25-29,34543
 2020,Number,REPUBLIKA SRPSKA,F,25-29,30969
-2020,Number,"City of Banja Luka""",Both sexes,25-29,11274
-2020,Number,"City of Banja Luka""",M,25-29,5459
-2020,Number,"City of Banja Luka""",F,25-29,5815
+2020,Number,City of Banja Luka,Both sexes,25-29,11274
+2020,Number,City of Banja Luka,M,25-29,5459
+2020,Number,City of Banja Luka,F,25-29,5815
 2020,Number,BERKOVICI,Both sexes,25-29,62
 2020,Number,BERKOVICI,M,25-29,42
 2020,Number,BERKOVICI,F,25-29,20
@@ -28472,9 +28472,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,30-34,73246
 2020,Number,REPUBLIKA SRPSKA,M,30-34,37631
 2020,Number,REPUBLIKA SRPSKA,F,30-34,35615
-2020,Number,"City of Banja Luka""",Both sexes,30-34,12936
-2020,Number,"City of Banja Luka""",M,30-34,6202
-2020,Number,"City of Banja Luka""",F,30-34,6734
+2020,Number,City of Banja Luka,Both sexes,30-34,12936
+2020,Number,City of Banja Luka,M,30-34,6202
+2020,Number,City of Banja Luka,F,30-34,6734
 2020,Number,BERKOVICI,Both sexes,30-34,81
 2020,Number,BERKOVICI,M,30-34,50
 2020,Number,BERKOVICI,F,30-34,31
@@ -28667,9 +28667,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,35-39,80317
 2020,Number,REPUBLIKA SRPSKA,M,35-39,41043
 2020,Number,REPUBLIKA SRPSKA,F,35-39,39274
-2020,Number,"City of Banja Luka""",Both sexes,35-39,15086
-2020,Number,"City of Banja Luka""",M,35-39,7311
-2020,Number,"City of Banja Luka""",F,35-39,7775
+2020,Number,City of Banja Luka,Both sexes,35-39,15086
+2020,Number,City of Banja Luka,M,35-39,7311
+2020,Number,City of Banja Luka,F,35-39,7775
 2020,Number,BERKOVICI,Both sexes,35-39,93
 2020,Number,BERKOVICI,M,35-39,48
 2020,Number,BERKOVICI,F,35-39,45
@@ -28862,9 +28862,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,40-44,80441
 2020,Number,REPUBLIKA SRPSKA,M,40-44,41041
 2020,Number,REPUBLIKA SRPSKA,F,40-44,39400
-2020,Number,"City of Banja Luka""",Both sexes,40-44,14927
-2020,Number,"City of Banja Luka""",M,40-44,7341
-2020,Number,"City of Banja Luka""",F,40-44,7586
+2020,Number,City of Banja Luka,Both sexes,40-44,14927
+2020,Number,City of Banja Luka,M,40-44,7341
+2020,Number,City of Banja Luka,F,40-44,7586
 2020,Number,BERKOVICI,Both sexes,40-44,130
 2020,Number,BERKOVICI,M,40-44,68
 2020,Number,BERKOVICI,F,40-44,62
@@ -29057,9 +29057,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,45-49,76443
 2020,Number,REPUBLIKA SRPSKA,M,45-49,39083
 2020,Number,REPUBLIKA SRPSKA,F,45-49,37360
-2020,Number,"City of Banja Luka""",Both sexes,45-49,13028
-2020,Number,"City of Banja Luka""",M,45-49,6567
-2020,Number,"City of Banja Luka""",F,45-49,6461
+2020,Number,City of Banja Luka,Both sexes,45-49,13028
+2020,Number,City of Banja Luka,M,45-49,6567
+2020,Number,City of Banja Luka,F,45-49,6461
 2020,Number,BERKOVICI,Both sexes,45-49,130
 2020,Number,BERKOVICI,M,45-49,80
 2020,Number,BERKOVICI,F,45-49,50
@@ -29252,9 +29252,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,50-54,77704
 2020,Number,REPUBLIKA SRPSKA,M,50-54,38950
 2020,Number,REPUBLIKA SRPSKA,F,50-54,38754
-2020,Number,"City of Banja Luka""",Both sexes,50-54,11336
-2020,Number,"City of Banja Luka""",M,50-54,5566
-2020,Number,"City of Banja Luka""",F,50-54,5770
+2020,Number,City of Banja Luka,Both sexes,50-54,11336
+2020,Number,City of Banja Luka,M,50-54,5566
+2020,Number,City of Banja Luka,F,50-54,5770
 2020,Number,BERKOVICI,Both sexes,50-54,144
 2020,Number,BERKOVICI,M,50-54,92
 2020,Number,BERKOVICI,F,50-54,52
@@ -29447,9 +29447,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,55-59,85566
 2020,Number,REPUBLIKA SRPSKA,M,55-59,41653
 2020,Number,REPUBLIKA SRPSKA,F,55-59,43913
-2020,Number,"City of Banja Luka""",Both sexes,55-59,12124
-2020,Number,"City of Banja Luka""",M,55-59,5637
-2020,Number,"City of Banja Luka""",F,55-59,6487
+2020,Number,City of Banja Luka,Both sexes,55-59,12124
+2020,Number,City of Banja Luka,M,55-59,5637
+2020,Number,City of Banja Luka,F,55-59,6487
 2020,Number,BERKOVICI,Both sexes,55-59,110
 2020,Number,BERKOVICI,M,55-59,63
 2020,Number,BERKOVICI,F,55-59,47
@@ -29642,9 +29642,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,60-64,87281
 2020,Number,REPUBLIKA SRPSKA,M,60-64,41310
 2020,Number,REPUBLIKA SRPSKA,F,60-64,45971
-2020,Number,"City of Banja Luka""",Both sexes,60-64,13037
-2020,Number,"City of Banja Luka""",M,60-64,5908
-2020,Number,"City of Banja Luka""",F,60-64,7129
+2020,Number,City of Banja Luka,Both sexes,60-64,13037
+2020,Number,City of Banja Luka,M,60-64,5908
+2020,Number,City of Banja Luka,F,60-64,7129
 2020,Number,BERKOVICI,Both sexes,60-64,123
 2020,Number,BERKOVICI,M,60-64,67
 2020,Number,BERKOVICI,F,60-64,56
@@ -29837,9 +29837,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,65-69,83151
 2020,Number,REPUBLIKA SRPSKA,M,65-69,38322
 2020,Number,REPUBLIKA SRPSKA,F,65-69,44829
-2020,Number,"City of Banja Luka""",Both sexes,65-69,12157
-2020,Number,"City of Banja Luka""",M,65-69,5383
-2020,Number,"City of Banja Luka""",F,65-69,6774
+2020,Number,City of Banja Luka,Both sexes,65-69,12157
+2020,Number,City of Banja Luka,M,65-69,5383
+2020,Number,City of Banja Luka,F,65-69,6774
 2020,Number,BERKOVICI,Both sexes,65-69,121
 2020,Number,BERKOVICI,M,65-69,59
 2020,Number,BERKOVICI,F,65-69,62
@@ -30032,9 +30032,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,70-74,61635
 2020,Number,REPUBLIKA SRPSKA,M,70-74,26890
 2020,Number,REPUBLIKA SRPSKA,F,70-74,34745
-2020,Number,"City of Banja Luka""",Both sexes,70-74,9456
-2020,Number,"City of Banja Luka""",M,70-74,4125
-2020,Number,"City of Banja Luka""",F,70-74,5331
+2020,Number,City of Banja Luka,Both sexes,70-74,9456
+2020,Number,City of Banja Luka,M,70-74,4125
+2020,Number,City of Banja Luka,F,70-74,5331
 2020,Number,BERKOVICI,Both sexes,70-74,127
 2020,Number,BERKOVICI,M,70-74,58
 2020,Number,BERKOVICI,F,70-74,69
@@ -30227,9 +30227,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,75-79,39518
 2020,Number,REPUBLIKA SRPSKA,M,75-79,16062
 2020,Number,REPUBLIKA SRPSKA,F,75-79,23456
-2020,Number,"City of Banja Luka""",Both sexes,75-79,5506
-2020,Number,"City of Banja Luka""",M,75-79,2239
-2020,Number,"City of Banja Luka""",F,75-79,3267
+2020,Number,City of Banja Luka,Both sexes,75-79,5506
+2020,Number,City of Banja Luka,M,75-79,2239
+2020,Number,City of Banja Luka,F,75-79,3267
 2020,Number,BERKOVICI,Both sexes,75-79,94
 2020,Number,BERKOVICI,M,75-79,32
 2020,Number,BERKOVICI,F,75-79,62
@@ -30422,9 +30422,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,80-84,33481
 2020,Number,REPUBLIKA SRPSKA,M,80-84,12843
 2020,Number,REPUBLIKA SRPSKA,F,80-84,20638
-2020,Number,"City of Banja Luka""",Both sexes,80-84,4490
-2020,Number,"City of Banja Luka""",M,80-84,1785
-2020,Number,"City of Banja Luka""",F,80-84,2705
+2020,Number,City of Banja Luka,Both sexes,80-84,4490
+2020,Number,City of Banja Luka,M,80-84,1785
+2020,Number,City of Banja Luka,F,80-84,2705
 2020,Number,BERKOVICI,Both sexes,80-84,111
 2020,Number,BERKOVICI,M,80-84,44
 2020,Number,BERKOVICI,F,80-84,67
@@ -30617,9 +30617,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,85-89,14165
 2020,Number,REPUBLIKA SRPSKA,M,85-89,5019
 2020,Number,REPUBLIKA SRPSKA,F,85-89,9146
-2020,Number,"City of Banja Luka""",Both sexes,85-89,1846
-2020,Number,"City of Banja Luka""",M,85-89,692
-2020,Number,"City of Banja Luka""",F,85-89,1154
+2020,Number,City of Banja Luka,Both sexes,85-89,1846
+2020,Number,City of Banja Luka,M,85-89,692
+2020,Number,City of Banja Luka,F,85-89,1154
 2020,Number,BERKOVICI,Both sexes,85-89,47
 2020,Number,BERKOVICI,M,85-89,17
 2020,Number,BERKOVICI,F,85-89,30
@@ -30812,9 +30812,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,90+,4022
 2020,Number,REPUBLIKA SRPSKA,M,90+,1411
 2020,Number,REPUBLIKA SRPSKA,F,90+,2611
-2020,Number,"City of Banja Luka""",Both sexes,90+,559
-2020,Number,"City of Banja Luka""",M,90+,184
-2020,Number,"City of Banja Luka""",F,90+,375
+2020,Number,City of Banja Luka,Both sexes,90+,559
+2020,Number,City of Banja Luka,M,90+,184
+2020,Number,City of Banja Luka,F,90+,375
 2020,Number,BERKOVICI,Both sexes,90+,24
 2020,Number,BERKOVICI,M,90+,14
 2020,Number,BERKOVICI,F,90+,10
@@ -31007,9 +31007,9 @@ Year,UNIT_MEASURE,Teritory,Sex,Age,Value
 2020,Number,REPUBLIKA SRPSKA,Both sexes,Total,1136274
 2020,Number,REPUBLIKA SRPSKA,M,Total,557422
 2020,Number,REPUBLIKA SRPSKA,F,Total,578852
-2020,Number,"City of Banja Luka""",Both sexes,Total,185094
-2020,Number,"City of Banja Luka""",M,Total,88831
-2020,Number,"City of Banja Luka""",F,Total,96263
+2020,Number,City of Banja Luka,Both sexes,Total,185094
+2020,Number,City of Banja Luka,M,Total,88831
+2020,Number,City of Banja Luka,F,Total,96263
 2020,Number,BERKOVICI,Both sexes,Total,1857
 2020,Number,BERKOVICI,M,Total,970
 2020,Number,BERKOVICI,F,Total,887
