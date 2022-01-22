@@ -1,31 +1,13 @@
-Year,UNIT_MEASURE,Пол,Value
-2013,Број,Оба пола,35349
-2013,Број,Оба пола,34791
-2013,Број,Оба пола,40630
-2013,Број,Оба пола,43991
-2013,Број,Оба пола,43318
-2013,Број,Оба пола,35897
-2013,Број,Оба пола,31761
-2013,Број,Оба пола,32963
-2013,Број,Оба пола,32540
-2013,Број,Оба пола,31140
-2013,Број,M,18022
-2013,Број,M,18153
-2013,Број,M,20895
-2013,Број,M,22589
-2013,Број,M,22230
-2013,Број,M,18464
-2013,Број,M,16307
-2013,Број,M,16580
-2013,Број,M,16519
-2013,Број,M,15982
-2013,Број,Ж,17327
-2013,Број,Ж,16638
-2013,Број,Ж,19735
-2013,Број,Ж,21402
-2013,Број,Ж,21088
-2013,Број,Ж,17433
-2013,Број,Ж,15454
-2013,Број,Ж,16383
-2013,Број,Ж,16021
-2013,Број,Ж,15158
+Year,UNIT_MEASURE,Пол,SEX.1,Value
+2017,Број,number_of_high_school_graduates_by_gender,Укупно,10642
+2017,Број,number_of_high_school_graduates_by_gender,M,5418
+2017,Број,number_of_high_school_graduates_by_gender,F,5224
+2018,Број,number_of_high_school_graduates_by_gender,Укупно,10440
+2018,Број,number_of_high_school_graduates_by_gender,M,5284
+2018,Број,number_of_high_school_graduates_by_gender,F,5156
+2019,Број,number_of_high_school_graduates_by_gender,Укупно,10471
+2019,Број,number_of_high_school_graduates_by_gender,M,5344
+2019,Број,number_of_high_school_graduates_by_gender,F,5127
+2020,Број,number_of_high_school_graduates_by_gender,Укупно,9888
+2020,Број,number_of_high_school_graduates_by_gender,M,5116
+2020,Број,number_of_high_school_graduates_by_gender,F,4772
