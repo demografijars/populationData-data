@@ -878,7 +878,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -891,6 +891,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -898,7 +901,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
