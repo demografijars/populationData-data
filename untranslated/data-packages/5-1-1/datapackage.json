@@ -23,9 +23,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "total",
                 "public",
                 "private",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "M",
+                "F",
                 ""
               ]
             }

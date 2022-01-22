@@ -1,31 +1,16 @@
-Year,UNIT_MEASURE,Vrsta ustanove,Value
-2011,Broj,Ukupno,227
-2012,Broj,Ukupno,246
-2013,Broj,Ukupno,261
-2014,Broj,Ukupno,292
-2015,Broj,Ukupno,320
-2016,Broj,Ukupno,335
-2017,Broj,Ukupno,335
-2018,Broj,Ukupno,362
-2019,Broj,Ukupno,390
-2020,Broj,Ukupno,399
-2011,Broj,Javna,176
-2012,Broj,Javna,180
-2013,Broj,Javna,180
-2014,Broj,Javna,181
-2015,Broj,Javna,192
-2016,Broj,Javna,198
-2017,Broj,Javna,200
-2018,Broj,Javna,205
-2019,Broj,Javna,209
-2020,Broj,Javna,215
-2011,Broj,Privatna,51
-2012,Broj,Privatna,66
-2013,Broj,Privatna,81
-2014,Broj,Privatna,111
-2015,Broj,Privatna,128
-2016,Broj,Privatna,137
-2017,Broj,Privatna,135
-2018,Broj,Privatna,157
-2019,Broj,Privatna,181
-2020,Broj,Privatna,184
+Year,UNIT_MEASURE,Vrsta ustanove,Spol,Value
+2016,Broj,Ukupno,Oba spola,132
+2016,Broj,Javna,M,82
+2016,Broj,Privatna,Ž,50
+2017,Broj,Ukupno,Oba spola,132
+2017,Broj,Javna,M,84
+2017,Broj,Privatna,Ž,48
+2018,Broj,Ukupno,Oba spola,161
+2018,Broj,Javna,M,88
+2018,Broj,Privatna,Ž,73
+2019,Broj,Ukupno,Oba spola,174
+2019,Broj,Javna,M,91
+2019,Broj,Privatna,Ž,83
+2020,Broj,Ukupno,Oba spola,177
+2020,Broj,Javna,M,95
+2020,Broj,Privatna,Ž,82

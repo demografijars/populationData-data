@@ -1,31 +1,16 @@
-Year,UNIT_MEASURE,Type of institution,Value
-2011,Number,Total,227
-2012,Number,Total,246
-2013,Number,Total,261
-2014,Number,Total,292
-2015,Number,Total,320
-2016,Number,Total,335
-2017,Number,Total,335
-2018,Number,Total,362
-2019,Number,Total,390
-2020,Number,Total,399
-2011,Number,Public,176
-2012,Number,Public,180
-2013,Number,Public,180
-2014,Number,Public,181
-2015,Number,Public,192
-2016,Number,Public,198
-2017,Number,Public,200
-2018,Number,Public,205
-2019,Number,Public,209
-2020,Number,Public,215
-2011,Number,Private,51
-2012,Number,Private,66
-2013,Number,Private,81
-2014,Number,Private,111
-2015,Number,Private,128
-2016,Number,Private,137
-2017,Number,Private,135
-2018,Number,Private,157
-2019,Number,Private,181
-2020,Number,Private,184
+Year,UNIT_MEASURE,Type of institution,Sex,Value
+2016,Number,Total,Both sexes,132
+2016,Number,Public,M,82
+2016,Number,Private,F,50
+2017,Number,Total,Both sexes,132
+2017,Number,Public,M,84
+2017,Number,Private,F,48
+2018,Number,Total,Both sexes,161
+2018,Number,Public,M,88
+2018,Number,Private,F,73
+2019,Number,Total,Both sexes,174
+2019,Number,Public,M,91
+2019,Number,Private,F,83
+2020,Number,Total,Both sexes,177
+2020,Number,Public,M,95
+2020,Number,Private,F,82
