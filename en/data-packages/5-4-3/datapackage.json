@@ -11,29 +11,40 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "agriculture_and_veterinary_medicine",
+                "business,_administration_and_law",
+                "education",
+                "engineering,_production_technologies_and_construction",
+                "health_and_social_protection",
+                "humanities_and_arts",
+                "information_and_communication_technologie",
+                "natural_sciences,_mathematics_and_informatics",
+                "services",
+                "social_sciences,_business_and_law"
+              ]
+            },
+            "title": "scientific_field"
           }
         ]
       }
