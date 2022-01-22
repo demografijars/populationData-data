@@ -3195,12 +3195,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -3213,6 +3213,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -3220,7 +3223,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
