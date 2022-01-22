@@ -5996,54 +5996,20 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "school_year_end",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010/2011",
-                "2011/2012",
-                "2012/2013",
-                "2013/2014",
-                "2014/2015",
-                "2015/2016",
-                "2016/2017",
-                "2017/2018",
-                "2018/2019",
-                "2019/2020",
-                ""
-              ]
-            },
-            "title": "Kraj školske godine"
-          },
-          {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "Gimnazija",
-                "Tehničke škole",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "Škole umjetnosti",
-                "Vjerske škole",
-                "Škole za stručno obrazovanje",
-                "Srednje škole za djecu s posebnim potrebama",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             },
             "title": "Type_of_school"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Value",
