@@ -34,19 +34,6 @@
             "title": "type_of_institution"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Вриједност"

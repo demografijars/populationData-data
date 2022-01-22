@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,Type of institution,Sex,Value
-2016,Number,Total,Both sexes,132
-2016,Number,Public,M,82
-2016,Number,Private,F,50
-2017,Number,Total,Both sexes,132
-2017,Number,Public,M,84
-2017,Number,Private,F,48
-2018,Number,Total,Both sexes,161
-2018,Number,Public,M,88
-2018,Number,Private,F,73
-2019,Number,Total,Both sexes,174
-2019,Number,Public,M,91
-2019,Number,Private,F,83
-2020,Number,Total,Both sexes,177
-2020,Number,Public,M,95
-2020,Number,Private,F,82
+Year,UNIT_MEASURE,Type of institution,Value
+2016,Number,Total,132
+2016,Number,Public,82
+2016,Number,Private,50
+2017,Number,Total,132
+2017,Number,Public,84
+2017,Number,Private,48
+2018,Number,Total,161
+2018,Number,Public,88
+2018,Number,Private,73
+2019,Number,Total,174
+2019,Number,Public,91
+2019,Number,Private,83
+2020,Number,Total,177
+2020,Number,Public,95
+2020,Number,Private,82
