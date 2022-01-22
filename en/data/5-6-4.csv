@@ -1,1 +1,133 @@
-Year,Value
+Year,UNIT_MEASURE,type_of_education,Sex,Value
+2017,Number,TOTAL,Both sexes,54
+2017,Number,education,Both sexes,4
+2017,Number,humanities_and_arts,Both sexes,6
+2017,Number,"social_sciences,_journalism_and_information",Both sexes,4
+2017,Number,"business,_administration_and_law",Both sexes,1
+2017,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,2
+2017,Number,information_and_communication_technologie,Both sexes,14
+2017,Number,"engineering,_production_and_construction",Both sexes,16
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,0
+2017,Number,health_and_social_protection,Both sexes,7
+2017,Number,services,Both sexes,0
+2017,Number,TOTAL,M,37
+2017,Number,education,M,2
+2017,Number,humanities_and_arts,M,3
+2017,Number,"social_sciences,_journalism_and_information",M,3
+2017,Number,"business,_administration_and_law",M,1
+2017,Number,"natural_sciences,_mathematics_and_statistics",M,2
+2017,Number,information_and_communication_technologie,M,10
+2017,Number,"engineering,_production_and_construction",M,13
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
+2017,Number,health_and_social_protection,M,3
+2017,Number,services,M,0
+2017,Number,TOTAL,F,17
+2017,Number,education,F,2
+2017,Number,humanities_and_arts,F,3
+2017,Number,"social_sciences,_journalism_and_information",F,1
+2017,Number,"business,_administration_and_law",F,0
+2017,Number,"natural_sciences,_mathematics_and_statistics",F,0
+2017,Number,information_and_communication_technologie,F,4
+2017,Number,"engineering,_production_and_construction",F,3
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,0
+2017,Number,health_and_social_protection,F,4
+2017,Number,services,F,0
+2018,Number,TOTAL,Both sexes,43
+2018,Number,education,Both sexes,1
+2018,Number,humanities_and_arts,Both sexes,3
+2018,Number,"social_sciences,_journalism_and_information",Both sexes,3
+2018,Number,"business,_administration_and_law",Both sexes,0
+2018,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,4
+2018,Number,information_and_communication_technologie,Both sexes,14
+2018,Number,"engineering,_production_and_construction",Both sexes,12
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,1
+2018,Number,health_and_social_protection,Both sexes,5
+2018,Number,services,Both sexes,0
+2018,Number,TOTAL,M,28
+2018,Number,education,M,1
+2018,Number,humanities_and_arts,M,1
+2018,Number,"social_sciences,_journalism_and_information",M,3
+2018,Number,"business,_administration_and_law",M,0
+2018,Number,"natural_sciences,_mathematics_and_statistics",M,1
+2018,Number,information_and_communication_technologie,M,9
+2018,Number,"engineering,_production_and_construction",M,10
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2018,Number,health_and_social_protection,M,2
+2018,Number,services,M,0
+2018,Number,TOTAL,F,15
+2018,Number,education,F,0
+2018,Number,humanities_and_arts,F,2
+2018,Number,"social_sciences,_journalism_and_information",F,0
+2018,Number,"business,_administration_and_law",F,0
+2018,Number,"natural_sciences,_mathematics_and_statistics",F,3
+2018,Number,information_and_communication_technologie,F,5
+2018,Number,"engineering,_production_and_construction",F,2
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,0
+2018,Number,health_and_social_protection,F,3
+2018,Number,services,F,0
+2019,Number,TOTAL,Both sexes,42
+2019,Number,education,Both sexes,2
+2019,Number,humanities_and_arts,Both sexes,1
+2019,Number,"social_sciences,_journalism_and_information",Both sexes,25
+2019,Number,"business,_administration_and_law",Both sexes,2
+2019,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,3
+2019,Number,information_and_communication_technologie,Both sexes,1
+2019,Number,"engineering,_production_and_construction",Both sexes,3
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,3
+2019,Number,health_and_social_protection,Both sexes,2
+2019,Number,services,Both sexes,0
+2019,Number,TOTAL,M,26
+2019,Number,education,M,2
+2019,Number,humanities_and_arts,M,0
+2019,Number,"social_sciences,_journalism_and_information",M,19
+2019,Number,"business,_administration_and_law",M,2
+2019,Number,"natural_sciences,_mathematics_and_statistics",M,0
+2019,Number,information_and_communication_technologie,M,0
+2019,Number,"engineering,_production_and_construction",M,2
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2019,Number,health_and_social_protection,M,0
+2019,Number,services,M,0
+2019,Number,TOTAL,F,16
+2019,Number,education,F,0
+2019,Number,humanities_and_arts,F,1
+2019,Number,"social_sciences,_journalism_and_information",F,6
+2019,Number,"business,_administration_and_law",F,0
+2019,Number,"natural_sciences,_mathematics_and_statistics",F,3
+2019,Number,information_and_communication_technologie,F,1
+2019,Number,"engineering,_production_and_construction",F,1
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,2
+2019,Number,health_and_social_protection,F,2
+2019,Number,services,F,0
+2020,Number,TOTAL,Both sexes,64
+2020,Number,education,Both sexes,0
+2020,Number,humanities_and_arts,Both sexes,3
+2020,Number,"social_sciences,_journalism_and_information",Both sexes,30
+2020,Number,"business,_administration_and_law",Both sexes,5
+2020,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,2
+2020,Number,information_and_communication_technologie,Both sexes,5
+2020,Number,"engineering,_production_and_construction",Both sexes,8
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,2
+2020,Number,health_and_social_protection,Both sexes,9
+2020,Number,services,Both sexes,0
+2020,Number,TOTAL,M,34
+2020,Number,education,M,0
+2020,Number,humanities_and_arts,M,0
+2020,Number,"social_sciences,_journalism_and_information",M,21
+2020,Number,"business,_administration_and_law",M,4
+2020,Number,"natural_sciences,_mathematics_and_statistics",M,1
+2020,Number,information_and_communication_technologie,M,3
+2020,Number,"engineering,_production_and_construction",M,3
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
+2020,Number,health_and_social_protection,M,2
+2020,Number,services,M,0
+2020,Number,TOTAL,F,30
+2020,Number,education,F,0
+2020,Number,humanities_and_arts,F,3
+2020,Number,"social_sciences,_journalism_and_information",F,9
+2020,Number,"business,_administration_and_law",F,1
+2020,Number,"natural_sciences,_mathematics_and_statistics",F,1
+2020,Number,information_and_communication_technologie,F,2
+2020,Number,"engineering,_production_and_construction",F,5
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,2
+2020,Number,health_and_social_protection,F,7
+2020,Number,services,F,0
