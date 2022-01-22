@@ -3835,31 +3835,17 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Total",
                 "Art schools",
                 "Gymnasium",
-                "High schools for children with special needs",
-                "Religion schools",
-                "Technical schools",
-                "Vocational schools"
+                "high_schools_for_students_with_disabilities",
+                "religious_schools",
+                "technical_high_schools",
+                "vocational_high_schools"
               ]
             },
             "title": "Type_of_school"

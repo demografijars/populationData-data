@@ -3543,25 +3543,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "gymnasium",
-                "technical_schools",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "art_schools",
-                "religion_schools",
-                "vocational_schools",
-                "high_schools_for_children_with_special_needs",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_T",
-                "M",
-                "F",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             }

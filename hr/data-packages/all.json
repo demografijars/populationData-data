@@ -3849,30 +3849,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "Gimnazija",
-                "Tehničke škole",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "Škole umjetnosti",
-                "Vjerske škole",
-                "Strukovne škole",
-                "Srednje škole za djecu s posebnim potrebama",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             },
             "title": "Type_of_school"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
           },
           {
             "name": "Value",
