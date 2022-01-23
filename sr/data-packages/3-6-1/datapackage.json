@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "Све методе",
-                "Традиционалне методе",
-                "Савремене методе",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Метода"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

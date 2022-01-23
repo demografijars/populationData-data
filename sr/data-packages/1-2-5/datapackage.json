@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "AGE",
@@ -25,17 +25,17 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

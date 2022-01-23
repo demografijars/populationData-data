@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -98,7 +98,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -111,7 +111,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "one_member",
                 "two_members",
                 "three_members",
@@ -126,7 +126,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

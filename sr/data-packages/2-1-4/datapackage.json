@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -62,7 +62,7 @@
                 "110-114",
                 "115-120",
                 "75+",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
@@ -71,7 +71,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

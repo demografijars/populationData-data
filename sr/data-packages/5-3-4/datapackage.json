@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_school",
@@ -39,7 +39,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

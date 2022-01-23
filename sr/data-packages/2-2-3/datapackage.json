@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -91,14 +91,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -111,12 +111,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "bosnian",
                 "croatian",
                 "serbian",
-                "Друго",
-                "Непознато",
+                "other",
+                "unknown",
                 ""
               ]
             },
@@ -125,7 +125,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "REPUBLIKA SRPSKA",
-                "Град Бања Лука",
+                "grad_banja_luka",
                 "BERKOVICI",
                 "GRAD BIJELJINA",
-                "Билећа",
-                "Братунац",
+                "bileca",
+                "bratunac",
                 "BROD",
                 "VISEGRAD",
                 "VLASENICA",
@@ -100,7 +100,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -132,16 +132,16 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "Укупно",
+                "_T",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

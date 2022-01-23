@@ -15,17 +15,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -44,17 +44,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -73,12 +73,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -93,7 +93,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -112,17 +112,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -141,12 +141,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -226,7 +226,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -239,7 +239,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "one_member",
                 "two_members",
                 "three_members",
@@ -254,7 +254,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -273,19 +273,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -298,7 +298,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -321,12 +321,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -345,17 +345,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -374,17 +374,17 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -403,19 +403,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -426,7 +426,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -445,19 +445,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -468,7 +468,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -487,14 +487,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -507,42 +507,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Неоплазме (C00–D48)",
-                "(И00-И99) Болести циркулацијског система",
-                "(Ј00-Ј99) Болести респираторног система",
-                "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
-                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
-                "Укупно",
-                "(А00-Б99) Заразне и паразитарне болести",
-                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
-                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
-                "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
-                "(Г00-Г99) Болести нервног система",
-                "(Х00-Х93) Болести ока, уха и аднекса",
-                "(Л00-Л99) Болести коже и поткожног ткива",
-                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
-                "(Н00-Н99) Болести генитално-уринарног система",
-                "(О00-О99) Трудноћа, порођај и постпорођајни период",
-                "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
-                "(В01-Y98) Спољни узроци смртности",
-                "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
-                "Непознато",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "total",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "pregnancy_childbirth_and_the",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -561,14 +561,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -591,17 +591,17 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -620,17 +620,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -649,7 +649,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -666,12 +666,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -690,12 +690,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -768,14 +768,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -788,15 +788,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "islam",
                 "catholic",
                 "ortodox",
                 "agnostic",
                 "atheist",
-                "Друго",
+                "other",
                 "does_not_declare",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
@@ -805,7 +805,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -824,17 +824,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -853,17 +853,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -882,19 +882,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -905,7 +905,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -924,17 +924,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -953,12 +953,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -1038,7 +1038,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "agricultural_households",
                 "agricultural_selling",
                 ""
@@ -1049,7 +1049,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1068,17 +1068,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1097,17 +1097,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1126,17 +1126,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1155,17 +1155,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1184,12 +1184,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "scientific_field",
@@ -1215,7 +1215,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1234,12 +1234,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -1254,7 +1254,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1273,33 +1273,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупан омјер економске подршке",
-                "Омјер економске подршке младима",
-                "Омјер економске подршке старијим лицима",
-                "Омјер старијих и младих",
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
                 ""
               ]
             },
-            "title": "Тип односа зависности"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1310,7 +1310,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1329,17 +1329,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1358,12 +1358,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -1372,7 +1372,7 @@
               "enum": [
                 "M",
                 "Ж",
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -1381,7 +1381,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1400,19 +1400,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1433,12 +1433,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1457,19 +1457,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1480,7 +1480,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1499,17 +1499,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1528,19 +1528,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1553,7 +1553,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "total",
                 "0",
                 "1",
                 "2",
@@ -1643,12 +1643,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1667,12 +1667,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -1745,14 +1745,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1765,8 +1765,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Без образовања",
+                "_T",
+                "no_education",
                 "incomplete_elementary",
                 "elementary_education",
                 "secondary_education",
@@ -1781,7 +1781,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1800,19 +1800,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -1833,12 +1833,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1857,30 +1857,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "Све методе",
-                "Традиционалне методе",
-                "Савремене методе",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Метода"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -1899,19 +1899,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0",
                 "1",
                 "2",
@@ -2006,14 +2006,14 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -2024,7 +2024,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2043,48 +2043,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "Неоплазме (C00–D48)",
-                "(И00-И99) Болести циркулацијског система",
-                "(Ј00-Ј99) Болести респираторног система",
-                "(К00-К93) Болести дигестивног система",
-                "(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класифицирани",
-                "(С00-Т98) Повреде, тровања и друге посљедице дејстава спољних фактора",
-                "(А00-Б99) Заразне и паразитарне болести",
-                "(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",
-                "(Е00-Е90) Ендокрине болести, болести исхране и болести метаболизма",
-                "(Ф00-Ф99) Душевни поремећаји и поремећаји понашања",
-                "(Г00-Г99) Болести нервног система",
-                "(Х00-Х93) Болести ока, уха и аднекса",
-                "(Л00-Л99) Болести коже и поткожног ткива",
-                "(Н00-Н99) Болести генитално-уринарног система",
-                "(П00-П96) Одређена стања настала у перинаталном периоду",
-                "(Q00-Q99) Конгениталне малформације, деформитети и хромосомске абнормалности",
-                "(В01-Y98) Спољни узроци смртности",
-                "(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом",
-                "Непознато",
-                "(М00-М99) Болести мускулоскелетног система и везивног ткива",
-                "(О00-О99) Трудноћа, порођај и постпорођајни период",
+                "neoplasms",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "infectious_and_parasitic",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_skin",
+                "diseases_of_the_genitourinary",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "external_causes_of_mortality",
+                "factors_influencing_health_status",
+                "unknown",
+                "diseases_of_the_musculoskeletal",
+                "pregnancy_childbirth_and_the",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2103,12 +2103,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -2123,7 +2123,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2142,19 +2142,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -2163,7 +2163,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2182,12 +2182,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -2206,12 +2206,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2230,12 +2230,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -2252,7 +2252,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2271,17 +2271,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2300,19 +2300,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -2335,14 +2335,14 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -2353,7 +2353,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2372,19 +2372,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "homes_for_children_and_youth_without_parental_care",
                 "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
                 "social_welfare_institutions_for_adults_with_disabilities",
@@ -2399,7 +2399,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -2410,7 +2410,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2429,17 +2429,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2458,19 +2458,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "minor_beneficiaries",
                 "adult_beneficiaries",
                 ""
@@ -2481,7 +2481,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2500,12 +2500,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -2520,7 +2520,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2539,19 +2539,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -2562,7 +2562,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2581,17 +2581,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2610,17 +2610,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2639,17 +2639,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2668,12 +2668,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -2692,7 +2692,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0",
                 "1",
                 "2",
@@ -2817,12 +2817,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2841,12 +2841,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -2890,7 +2890,7 @@
                 "110-114",
                 "115-120",
                 "75+",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
@@ -2899,7 +2899,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2918,19 +2918,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "homes_for_children_and_youth_without_parental_care",
                 "adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities",
                 "social_welfare_institutions_for_adults_with_disabilities",
@@ -2945,7 +2945,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -2956,7 +2956,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -2975,17 +2975,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3004,17 +3004,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3033,19 +3033,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3066,12 +3066,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3090,12 +3090,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
@@ -3112,12 +3112,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3136,12 +3136,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -3156,7 +3156,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3175,17 +3175,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3204,19 +3204,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3227,7 +3227,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3246,19 +3246,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3271,36 +3271,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Инфективне и паразитске болести (А00–B99)",
-                "Неоплазме (C00–D48)",
-                "Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89)",
-                "Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)",
-                "Душевни поремећаји и поремећаји понашања (F00–F99)",
-                "Болести нервног система (G00–G99)",
-                "Болести ока и припојка ока (H00–H59)",
-                "Болести ува и мастоидног наставка (H60–H93)",
-                "Болести циркулаторног система (I00–I99)",
-                "Болести респираторног система (Ј00–Ј99)",
-                "Болести дигестивног система (К00–К92)",
-                "Болести коже и поткожног ткива (L00–L98)",
-                "Болести мишићно-коштаног система и везивног ткива (М00–М99)",
-                "Болести генитоуринарног система (N00–N98)",
-                "Одређена стања настала у перинаталном периоду (P00–P96)",
-                "Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)",
-                "Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)",
-                "Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)",
-                "Шифре за посебне намјене (U00-U85)",
-                "Трудноћа, порођај и пуерперијум (О00–О99)",
+                "total",
+                "infectious_and_parasitic_diseases",
+                "neoplasms",
+                "diseases_of_the_blood_and_blood_forming_organs",
+                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
+                "mental_disorders_and_behavioral_disorders",
+                "diseases_of_the_nervous_system",
+                "eye_diseases_and_eye_soldering_disease",
+                "diseases_of_ear_and_mastoid_process",
+                "diseases_of_the_circulatory_system",
+                "diseases_of_the_respiratory_system",
+                "diseases_of_the_digestive_system",
+                "skin_and_subcutaneous_tissue_disorders",
+                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
+                "diseases_of_the_genitourinary_system",
+                "certain_conditions_occurred_in_the_perinatal_period",
+                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
+                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
+                "injuries_poisonings_and_consequences_of_external_factors",
+                "special_purpose_codes",
+                "pregnancy_childbirth_and_puerperium",
                 ""
               ]
             },
-            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3319,17 +3319,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3348,12 +3348,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_education",
@@ -3381,7 +3381,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3392,7 +3392,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3411,12 +3411,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -3431,7 +3431,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3450,12 +3450,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -3473,7 +3473,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "F",
                 ""
@@ -3484,7 +3484,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3503,17 +3503,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3532,17 +3532,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3561,14 +3561,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -3577,12 +3577,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3601,7 +3601,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "AGE",
@@ -3613,17 +3613,17 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3642,12 +3642,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -3666,17 +3666,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Живорођени",
-                "Смртни случајеви",
+                "LIVE_BIRTH",
+                "DEATHS",
                 ""
               ]
             },
-            "title": "Рађање"
+            "title": "BIRTH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3695,7 +3695,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -3712,12 +3712,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3736,33 +3736,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупан омјер економске подршке",
-                "Омјер економске подршке младима",
-                "Омјер економске подршке старијим лицима",
-                "Омјер старијих и младих",
+                "total_support_ratio",
+                "young_age_support_ratio",
+                "old_age_support_ratio",
+                "older_persons_to_youth_ratio",
                 ""
               ]
             },
-            "title": "Тип односа зависности"
+            "title": "TYPE_OF_DEPENDENCY_RATIO"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3773,7 +3773,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3792,17 +3792,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3821,17 +3821,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3850,19 +3850,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -3873,7 +3873,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3892,12 +3892,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_school",
@@ -3918,7 +3918,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3937,19 +3937,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -3958,7 +3958,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -3977,19 +3977,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4000,7 +4000,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4019,12 +4019,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -4097,14 +4097,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4117,13 +4117,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "bosniaks",
                 "croats",
                 "serbs",
-                "Друго",
+                "other",
                 "does_not_declare",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
@@ -4132,7 +4132,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4151,12 +4151,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -4171,7 +4171,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4190,17 +4190,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4219,17 +4219,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4248,12 +4248,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -4326,14 +4326,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4346,10 +4346,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "illiterate",
                 "illiterates_percentage",
-                "Непознато",
+                "unknown",
                 ""
               ]
             },
@@ -4358,7 +4358,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4377,19 +4377,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4400,7 +4400,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4419,17 +4419,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4448,17 +4448,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4477,19 +4477,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -4500,18 +4500,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Живорођени",
-                "Смртни случајеви",
-                "Природно кретање",
+                "LIVE_BIRTH",
+                "DEATHS",
+                "NATURAL_CHANGE",
                 ""
               ]
             },
-            "title": "Витална статистика"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4530,17 +4530,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4559,12 +4559,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Municipality",
@@ -4636,14 +4636,14 @@
                 ""
               ]
             },
-            "title": "Oпштина"
+            "title": "Municipality"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4656,7 +4656,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -4679,12 +4679,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4703,17 +4703,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4732,12 +4732,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -4755,7 +4755,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4774,17 +4774,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4803,17 +4803,17 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4832,19 +4832,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -4855,7 +4855,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4874,17 +4874,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4903,17 +4903,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -4932,12 +4932,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -4998,7 +4998,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5017,17 +5017,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5046,12 +5046,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -5059,11 +5059,11 @@
             "constraints": {
               "enum": [
                 "REPUBLIKA SRPSKA",
-                "Град Бања Лука",
+                "grad_banja_luka",
                 "BERKOVICI",
                 "GRAD BIJELJINA",
-                "Билећа",
-                "Братунац",
+                "bileca",
+                "bratunac",
                 "BROD",
                 "VISEGRAD",
                 "VLASENICA",
@@ -5133,7 +5133,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5165,16 +5165,16 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "Укупно",
+                "_T",
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5193,19 +5193,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_user",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "minor_beneficiaries",
                 "adult_beneficiaries",
                 ""
@@ -5218,7 +5218,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5229,7 +5229,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5248,22 +5248,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
-                "Број",
+                "NUMBER",
                 ""
               ]
             },
@@ -5272,7 +5272,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5291,19 +5291,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "total",
                 "public",
                 "private",
                 ""
@@ -5314,7 +5314,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5333,7 +5333,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
@@ -5350,12 +5350,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5374,19 +5374,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5397,7 +5397,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5416,17 +5416,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5445,17 +5445,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5474,19 +5474,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5497,7 +5497,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5516,12 +5516,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -5536,7 +5536,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5555,19 +5555,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5578,7 +5578,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5597,12 +5597,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -5693,8 +5693,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Нису рађале",
+                "_T",
+                "did_not_give_birth",
                 "one_child",
                 "two_children",
                 "three_children",
@@ -5703,12 +5703,12 @@
                 ""
               ]
             },
-            "title": "Витална статистика"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5727,17 +5727,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5756,17 +5756,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5785,12 +5785,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -5863,14 +5863,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -5883,7 +5883,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "disabilities_T",
                 "eyesight",
                 "hearing",
@@ -5900,7 +5900,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5919,14 +5919,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Број",
+                "NUMBER",
                 ""
               ]
             },
@@ -5935,14 +5935,14 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "0",
                 "1-4",
                 "5-9",
@@ -5972,12 +5972,12 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -5996,12 +5996,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "scientific_field",
@@ -6031,7 +6031,7 @@
               "enum": [
                 "M",
                 "Ж",
-                "Укупно",
+                "_T",
                 ""
               ]
             },
@@ -6040,7 +6040,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6059,12 +6059,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Type_of_school",
@@ -6085,7 +6085,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6104,19 +6104,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -6127,7 +6127,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },
@@ -6146,12 +6146,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "ADMIN_AREA",
@@ -6224,14 +6224,14 @@
                 ""
               ]
             },
-            "title": "Административно подручје"
+            "title": "ADMIN_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "M",
                 "Ж",
                 ""
@@ -6244,12 +6244,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
+                "_T",
                 "bosnian",
                 "croatian",
                 "serbian",
-                "Друго",
-                "Непознато",
+                "other",
+                "unknown",
                 ""
               ]
             },
@@ -6258,7 +6258,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       },

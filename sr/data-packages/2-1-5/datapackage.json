@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Teritory",
@@ -109,8 +109,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
-                "Нису рађале",
+                "_T",
+                "did_not_give_birth",
                 "one_child",
                 "two_children",
                 "three_children",
@@ -119,12 +119,12 @@
                 ""
               ]
             },
-            "title": "Витална статистика"
+            "title": "BIRTHS"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }
