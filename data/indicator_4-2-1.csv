@@ -1,1 +1,16 @@
-Year,UNIT_MEASURE,Value
+Year,UNIT_MEASURE,TYPE_OF_USERS,Value
+2016,NUMBER,total,36
+2017,NUMBER,total,38
+2018,NUMBER,total,52
+2019,NUMBER,total,56
+2020,NUMBER,total,61
+2016,NUMBER,institutions_for_children_and_youth,4
+2017,NUMBER,institutions_for_children_and_youth,4
+2018,NUMBER,institutions_for_children_and_youth,4
+2019,NUMBER,institutions_for_children_and_youth,4
+2020,NUMBER,institutions_for_children_and_youth,4
+2016,NUMBER,adult_facilities,32
+2017,NUMBER,adult_facilities,34
+2018,NUMBER,adult_facilities,48
+2019,NUMBER,adult_facilities,52
+2020,NUMBER,adult_facilities,57
