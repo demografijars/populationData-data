@@ -12,17 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "natural_sciences,_mathematics_and_statistics",
+                "engineering,_production_and_construction",
+                "information_and_communication_technologies",
+                "health_and_social_protection",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "education",
+                "services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TYPE_OF_EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "enrolled_in_master's_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies",
+                "doctoral_students",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
+                "F",
+                "M",
                 ""
               ]
             }
