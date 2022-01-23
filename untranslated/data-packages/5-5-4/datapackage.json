@@ -12,24 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
+            "name": "scientific_field",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "social_sciences,_journalism_and_information",
+                "humanities_and_arts",
+                "information_and_communication_technologies",
+                "engineering,_production_and_construction",
+                "education",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistic",
+                "servies",
+                "health_and_social_protection",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "M",
+                "F",
+                "_T",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
