@@ -219,7 +219,7 @@ SOURCE_OF_WATER: Izvor vode
 TYPE_OF_SEWAGE: Vrsta kanalizacije
 TYPE_OF_TOILET: Vrsta toaleta
 persons_with_disabilities: Osobe s invaliditetom
-GRAND_TOTAL: Sveukupno
+GRAND_total: Sveukupno
 persons_without_disabilities: Osobe s invaliditetom
 status_unknown: Status nepoznat
 married_couple_without_children: Bračni par bez djece 

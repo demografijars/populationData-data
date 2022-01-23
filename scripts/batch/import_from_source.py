@@ -386,7 +386,7 @@ def clean_disaggregation_value(value, column=''):
             conversions = {
                 'ISIC4_A': 'ISIC4_A',
                 'NONAGR': 'ISIC4_BTU',
-                'TOTAL': '_T',
+                'total': '_T',
             }
         if column == 'Parliamentary committees':
             conversions = {
