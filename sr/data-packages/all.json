@@ -3973,7 +3973,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Година"
           },
           {
@@ -3986,6 +3986,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Укупно",
+                "M",
+                "Ж",
                 ""
               ]
             },
@@ -3993,7 +3996,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
