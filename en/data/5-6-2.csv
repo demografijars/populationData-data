@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,scientific_field,Sex,Value
-2017,Number,TOTAL,Both sexes,130
+2017,Number,Total,Both sexes,130
 2017,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,10
 2017,Number,"engineering,_production_and_construction",Both sexes,4
 2017,Number,information_and_communication_technologies,Both sexes,12
@@ -10,7 +10,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,eduaction,Both sexes,0
 2017,Number,humanities_and_arts,Both sexes,10
 2017,Number,services,Both sexes,0
-2017,Number,TOTAL,M,70
+2017,Number,Total,M,70
 2017,Number,"natural_sciences,_mathematics_and_statistic",M,6
 2017,Number,"engineering,_production_and_construction",M,3
 2017,Number,information_and_communication_technologies,M,9
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,eduaction,M,0
 2017,Number,humanities_and_arts,M,9
 2017,Number,services,M,0
-2017,Number,TOTAL,F,60
+2017,Number,Total,F,60
 2017,Number,"natural_sciences,_mathematics_and_statistic",F,4
 2017,Number,"engineering,_production_and_construction",F,1
 2017,Number,information_and_communication_technologies,F,3
@@ -32,7 +32,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,eduaction,F,0
 2017,Number,humanities_and_arts,F,1
 2017,Number,services,F,0
-2018,Number,TOTAL,Both sexes,119
+2018,Number,Total,Both sexes,119
 2018,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,8
 2018,Number,"engineering,_production_and_construction",Both sexes,3
 2018,Number,information_and_communication_technologies,Both sexes,11
@@ -43,7 +43,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,eduaction,Both sexes,3
 2018,Number,humanities_and_arts,Both sexes,22
 2018,Number,services,Both sexes,0
-2018,Number,TOTAL,M,56
+2018,Number,Total,M,56
 2018,Number,"natural_sciences,_mathematics_and_statistic",M,3
 2018,Number,"engineering,_production_and_construction",M,2
 2018,Number,information_and_communication_technologies,M,11
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,eduaction,M,3
 2018,Number,humanities_and_arts,M,10
 2018,Number,services,M,0
-2018,Number,TOTAL,F,63
+2018,Number,Total,F,63
 2018,Number,"natural_sciences,_mathematics_and_statistic",F,5
 2018,Number,"engineering,_production_and_construction",F,1
 2018,Number,information_and_communication_technologies,F,0
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,eduaction,F,0
 2018,Number,humanities_and_arts,F,12
 2018,Number,services,F,0
-2019,Number,TOTAL,Both sexes,165
+2019,Number,Total,Both sexes,165
 2019,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,10
 2019,Number,"engineering,_production_and_construction",Both sexes,0
 2019,Number,information_and_communication_technologies,Both sexes,0
@@ -76,7 +76,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,eduaction,Both sexes,8
 2019,Number,humanities_and_arts,Both sexes,10
 2019,Number,services,Both sexes,0
-2019,Number,TOTAL,M,71
+2019,Number,Total,M,71
 2019,Number,"natural_sciences,_mathematics_and_statistic",M,6
 2019,Number,"engineering,_production_and_construction",M,0
 2019,Number,information_and_communication_technologies,M,0
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,eduaction,M,5
 2019,Number,humanities_and_arts,M,5
 2019,Number,services,M,0
-2019,Number,TOTAL,F,94
+2019,Number,Total,F,94
 2019,Number,"natural_sciences,_mathematics_and_statistic",F,4
 2019,Number,"engineering,_production_and_construction",F,0
 2019,Number,information_and_communication_technologies,F,0
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,eduaction,F,3
 2019,Number,humanities_and_arts,F,5
 2019,Number,services,F,0
-2020,Number,TOTAL,Both sexes,184
+2020,Number,Total,Both sexes,184
 2020,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,12
 2020,Number,"engineering,_production_and_construction",Both sexes,2
 2020,Number,information_and_communication_technologies,Both sexes,5
@@ -109,7 +109,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2020,Number,eduaction,Both sexes,8
 2020,Number,humanities_and_arts,Both sexes,24
 2020,Number,services,Both sexes,0
-2020,Number,TOTAL,M,79
+2020,Number,Total,M,79
 2020,Number,"natural_sciences,_mathematics_and_statistic",M,8
 2020,Number,"engineering,_production_and_construction",M,1
 2020,Number,information_and_communication_technologies,M,3
@@ -120,7 +120,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2020,Number,eduaction,M,8
 2020,Number,humanities_and_arts,M,3
 2020,Number,services,M,0
-2020,Number,TOTAL,F,105
+2020,Number,Total,F,105
 2020,Number,"natural_sciences,_mathematics_and_statistic",F,4
 2020,Number,"engineering,_production_and_construction",F,1
 2020,Number,information_and_communication_technologies,F,2

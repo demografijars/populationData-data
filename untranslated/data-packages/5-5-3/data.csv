@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,TYPE_OF_EDUCATION,SEX,Value
+Year,UNIT_MEASURE,type_of_education,SEX,Value
 2016,NUMBER,masters_of_science,_T,36
 2016,NUMBER,masters_of_science,F,20
 2016,NUMBER,masters_of_science,M,16

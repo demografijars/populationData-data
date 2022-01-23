@@ -1,5 +1,5 @@
-Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
-2017,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,2140
+Year,UNIT_MEASURE,scientific_field,type_of_education,Spol,Value
+2017,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,2140
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,917
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,1223
 2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,31
@@ -9,7 +9,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Ž,34
 2017,Broj,education,enrolled_in_specialist_studies,M,39
 2017,Broj,services,doctoral_students,Oba spola,130
-2017,Broj,TOTAL,doctoral_students,Ž,70
+2017,Broj,Ukupno,doctoral_students,Ž,70
 2017,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,60
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,67
 2017,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,26
@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,M,1
 2017,Broj,education,enrolled_in_specialist_studies,Oba spola,0
 2017,Broj,services,enrolled_in_specialist_studies,Ž,0
-2017,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2017,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2017,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,10
 2017,Broj,"engineering,_production_and_construction",doctoral_students,Ž,6
 2017,Broj,information_and_communication_technologies,doctoral_students,M,4
@@ -29,7 +29,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,0
 2017,Broj,education,enrolled_in_specialist_studies,Ž,0
 2017,Broj,services,enrolled_in_specialist_studies,M,0
-2017,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,0
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2017,Broj,information_and_communication_technologies,doctoral_students,Oba spola,4
@@ -39,7 +39,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_master's_studies,Ž,80
 2017,Broj,education,enrolled_in_master's_studies,M,19
 2017,Broj,services,enrolled_in_master_studies,Oba spola,22
-2017,Broj,TOTAL,enrolled_in_specialist_studies,Ž,14
+2017,Broj,Ukupno,enrolled_in_specialist_studies,Ž,14
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,8
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -49,7 +49,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",doctoral_students,M,3
 2017,Broj,education,enrolled_in_master's_studies,Oba spola,35
 2017,Broj,services,enrolled_in_master's_studies,Ž,8
-2017,Broj,TOTAL,enrolled_in_master's_studies,M,27
+2017,Broj,Ukupno,enrolled_in_master's_studies,M,27
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -59,7 +59,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",doctoral_students,Oba spola,25
 2017,Broj,education,doctoral_students,Ž,6
 2017,Broj,services,doctoral_students,M,19
-2017,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,206
+2017,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,206
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,114
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,92
 2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,0
@@ -69,7 +69,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Ž,0
 2017,Broj,education,enrolled_in_specialist_studies,M,0
 2017,Broj,services,doctoral_students,Oba spola,9
-2017,Broj,TOTAL,doctoral_students,Ž,4
+2017,Broj,Ukupno,doctoral_students,Ž,4
 2017,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,5
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,473
 2017,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,176
@@ -79,7 +79,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
 2017,Broj,education,enrolled_in_specialist_studies,Oba spola,1
 2017,Broj,services,enrolled_in_specialist_studies,Ž,1
-2017,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2017,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2017,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,50
 2017,Broj,"engineering,_production_and_construction",doctoral_students,Ž,29
 2017,Broj,information_and_communication_technologies,doctoral_students,M,21
@@ -89,7 +89,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,2
 2017,Broj,education,enrolled_in_specialist_studies,Ž,2
 2017,Broj,services,enrolled_in_specialist_studies,M,0
-2017,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,1
+2017,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,1
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,1
 2017,Broj,information_and_communication_technologies,doctoral_students,Oba spola,10
@@ -99,7 +99,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_master's_studies,Ž,39
 2017,Broj,education,enrolled_in_master's_studies,M,197
 2017,Broj,services,enrolled_in_master_studies,Oba spola,1
-2017,Broj,TOTAL,enrolled_in_specialist_studies,Ž,0
+2017,Broj,Ukupno,enrolled_in_specialist_studies,Ž,0
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,1
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -109,7 +109,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",doctoral_students,M,0
 2017,Broj,education,enrolled_in_master's_studies,Oba spola,319
 2017,Broj,services,enrolled_in_master's_studies,Ž,142
-2017,Broj,TOTAL,enrolled_in_master's_studies,M,177
+2017,Broj,Ukupno,enrolled_in_master's_studies,M,177
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,5
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,5
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -119,7 +119,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",doctoral_students,Oba spola,10
 2017,Broj,education,doctoral_students,Ž,9
 2017,Broj,services,doctoral_students,M,1
-2017,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,2
+2017,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,2
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,2
 2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,0
@@ -129,10 +129,10 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Ž,0
 2017,Broj,education,enrolled_in_specialist_studies,M,0
 2017,Broj,services,doctoral_students,Oba spola,0
-2017,Broj,TOTAL,doctoral_students,Ž,0
+2017,Broj,Ukupno,doctoral_students,Ž,0
 2017,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,0
 2018,Broj,,enrolled_in_master's_studies,Oba spola,0
-2018,Broj,TOTAL,enrolled_in_master's_studies,Ž,0
+2018,Broj,Ukupno,enrolled_in_master's_studies,Ž,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,0
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -143,7 +143,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,doctoral_students,Oba spola,0
 2018,Broj,services,doctoral_students,Ž,0
 2018,Broj,,doctoral_students,M,0
-2018,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,16
+2018,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,16
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,12
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,4
 2018,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,2 109
@@ -154,7 +154,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_specialist_studies,M,98
 2018,Broj,services,doctoral_students,Oba spola,165
 2018,Broj,,doctoral_students,Ž,71
-2018,Broj,TOTAL,doctoral_students,M,94
+2018,Broj,Ukupno,doctoral_students,M,94
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Oba spola,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Ž,0
 2018,Broj,information_and_communication_technologies,enrolled_in_master's_studies,M,0
@@ -165,7 +165,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_specialist_studies,Ž,0
 2018,Broj,services,enrolled_in_specialist_studies,M,0
 2018,Broj,,doctoral_students,Oba spola,10
-2018,Broj,TOTAL,doctoral_students,Ž,6
+2018,Broj,Ukupno,doctoral_students,Ž,6
 2018,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,4
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,13
 2018,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,10
@@ -176,7 +176,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_specialist_studies,Oba spola,0
 2018,Broj,services,enrolled_in_specialist_studies,Ž,0
 2018,Broj,,enrolled_in_specialist_studies,M,0
-2018,Broj,TOTAL,doctoral_students,Oba spola,0
+2018,Broj,Ukupno,doctoral_students,Oba spola,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Ž,0
 2018,Broj,"engineering,_production_and_construction",doctoral_students,M,0
 2018,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Oba spola,0
@@ -187,7 +187,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_specialist_studies,M,21
 2018,Broj,services,enrolled_in_specialist_studies,Oba spola,0
 2018,Broj,,enrolled_in_specialist_studies,Ž,0
-2018,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2018,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,0
 2018,Broj,"engineering,_production_and_construction",doctoral_students,Ž,0
 2018,Broj,information_and_communication_technologies,doctoral_students,M,0
@@ -198,7 +198,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_specialist_studies,Ž,10
 2018,Broj,services,enrolled_in_specialist_studies,M,35
 2018,Broj,,enrolled_in_specialist_studies,Oba spola,170
-2018,Broj,TOTAL,enrolled_in_specialist_studies,Ž,72
+2018,Broj,Ukupno,enrolled_in_specialist_studies,Ž,72
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,98
 2018,Broj,"engineering,_production_and_construction",doctoral_students,Oba spola,65
 2018,Broj,information_and_communication_technologies,doctoral_students,Ž,19
@@ -209,7 +209,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_master_studies,Oba spola,188
 2018,Broj,services,enrolled_in_specialist_studies,Ž,98
 2018,Broj,,enrolled_in_specialist_studies,M,90
-2018,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2018,Broj,information_and_communication_technologies,doctoral_students,Oba spola,9
@@ -220,7 +220,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_master's_studies,M,0
 2018,Broj,services,enrolled_in_master_studies,Oba spola,492
 2018,Broj,,enrolled_in_specialist_studies,Ž,160
-2018,Broj,TOTAL,enrolled_in_specialist_studies,M,332
+2018,Broj,Ukupno,enrolled_in_specialist_studies,M,332
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -231,7 +231,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_master's_studies,Ž,0
 2018,Broj,services,enrolled_in_master's_studies,M,0
 2018,Broj,,enrolled_in_master_studies,Oba spola,236
-2018,Broj,TOTAL,enrolled_in_specialist_studies,Ž,89
+2018,Broj,Ukupno,enrolled_in_specialist_studies,Ž,89
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,147
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -242,7 +242,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,enrolled_in_master's_studies,Oba spola,2
 2018,Broj,services,enrolled_in_master's_studies,Ž,1
 2018,Broj,,enrolled_in_master's_studies,M,1
-2018,Broj,TOTAL,enrolled_in_master_studies,Oba spola,298
+2018,Broj,Ukupno,enrolled_in_master_studies,Oba spola,298
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,104
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,194
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
@@ -253,7 +253,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,doctoral_students,M,3
 2018,Broj,services,enrolled_in_master's_studies,Oba spola,1
 2018,Broj,,enrolled_in_master's_studies,Ž,1
-2018,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2018,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,291
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,142
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,149
@@ -265,7 +265,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,services,doctoral_students,M,5
 2018,Broj,,enrolled_in_master's_studies,Oba spola,0
 2018,Broj,,enrolled_in_master's_studies,Ž,0
-2018,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2018,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,6
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,3
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,3
@@ -276,7 +276,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2018,Broj,education,doctoral_students,Ž,0
 2018,Broj,services,doctoral_students,M,0
 2019,Broj,,enrolled_in_master's_studies,Oba spola,0
-2019,Broj,TOTAL,enrolled_in_master's_studies,Ž,0
+2019,Broj,Ukupno,enrolled_in_master's_studies,Ž,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,0
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -287,7 +287,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,doctoral_students,Oba spola,0
 2019,Broj,services,doctoral_students,Ž,0
 2019,Broj,,doctoral_students,M,0
-2019,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,16
+2019,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,16
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,12
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,4
 2019,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,2 109
@@ -298,7 +298,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_specialist_studies,M,98
 2019,Broj,services,doctoral_students,Oba spola,165
 2019,Broj,,doctoral_students,Ž,71
-2019,Broj,TOTAL,doctoral_students,M,94
+2019,Broj,Ukupno,doctoral_students,M,94
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Oba spola,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Ž,0
 2019,Broj,information_and_communication_technologies,enrolled_in_master's_studies,M,0
@@ -309,7 +309,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_specialist_studies,Ž,0
 2019,Broj,services,enrolled_in_specialist_studies,M,0
 2019,Broj,,doctoral_students,Oba spola,10
-2019,Broj,TOTAL,doctoral_students,Ž,6
+2019,Broj,Ukupno,doctoral_students,Ž,6
 2019,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,4
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,13
 2019,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,10
@@ -320,7 +320,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_specialist_studies,Oba spola,0
 2019,Broj,services,enrolled_in_specialist_studies,Ž,0
 2019,Broj,,enrolled_in_specialist_studies,M,0
-2019,Broj,TOTAL,doctoral_students,Oba spola,0
+2019,Broj,Ukupno,doctoral_students,Oba spola,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Ž,0
 2019,Broj,"engineering,_production_and_construction",doctoral_students,M,0
 2019,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Oba spola,0
@@ -331,7 +331,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_specialist_studies,M,21
 2019,Broj,services,enrolled_in_specialist_studies,Oba spola,0
 2019,Broj,,enrolled_in_specialist_studies,Ž,0
-2019,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2019,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,0
 2019,Broj,"engineering,_production_and_construction",doctoral_students,Ž,0
 2019,Broj,information_and_communication_technologies,doctoral_students,M,0
@@ -342,7 +342,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_specialist_studies,Ž,10
 2019,Broj,services,enrolled_in_specialist_studies,M,35
 2019,Broj,,enrolled_in_specialist_studies,Oba spola,170
-2019,Broj,TOTAL,enrolled_in_specialist_studies,Ž,72
+2019,Broj,Ukupno,enrolled_in_specialist_studies,Ž,72
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,98
 2019,Broj,"engineering,_production_and_construction",doctoral_students,Oba spola,65
 2019,Broj,information_and_communication_technologies,doctoral_students,Ž,19
@@ -353,7 +353,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_master_studies,Oba spola,188
 2019,Broj,services,enrolled_in_specialist_studies,Ž,98
 2019,Broj,,enrolled_in_specialist_studies,M,90
-2019,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2019,Broj,information_and_communication_technologies,doctoral_students,Oba spola,9
@@ -364,7 +364,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_master's_studies,M,0
 2019,Broj,services,enrolled_in_master_studies,Oba spola,492
 2019,Broj,,enrolled_in_specialist_studies,Ž,160
-2019,Broj,TOTAL,enrolled_in_specialist_studies,M,332
+2019,Broj,Ukupno,enrolled_in_specialist_studies,M,332
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -375,7 +375,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_master's_studies,Ž,0
 2019,Broj,services,enrolled_in_master's_studies,M,0
 2019,Broj,,enrolled_in_master_studies,Oba spola,236
-2019,Broj,TOTAL,enrolled_in_specialist_studies,Ž,89
+2019,Broj,Ukupno,enrolled_in_specialist_studies,Ž,89
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,147
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -386,7 +386,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,enrolled_in_master's_studies,Oba spola,2
 2019,Broj,services,enrolled_in_master's_studies,Ž,1
 2019,Broj,,enrolled_in_master's_studies,M,1
-2019,Broj,TOTAL,enrolled_in_master_studies,Oba spola,298
+2019,Broj,Ukupno,enrolled_in_master_studies,Oba spola,298
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,104
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,194
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
@@ -397,7 +397,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,education,doctoral_students,M,3
 2019,Broj,services,enrolled_in_master's_studies,Oba spola,1
 2019,Broj,,enrolled_in_master's_studies,Ž,1
-2019,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2019,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,291
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,142
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,149
@@ -409,7 +409,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,services,doctoral_students,M,5
 2019,Broj,education,enrolled_in_master's_studies,Oba spola,0
 2019,Broj,services,enrolled_in_master's_studies,Ž,0
-2019,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2019,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,6
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,3
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,3
@@ -419,7 +419,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2019,Broj,"business,_administration_and_law",doctoral_students,Oba spola,0
 2019,Broj,education,doctoral_students,Ž,0
 2019,Broj,services,doctoral_students,M,0
-2020,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,4
+2020,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,4
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,3
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,1
 2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,2 430
@@ -429,7 +429,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Ž,39
 2020,Broj,education,enrolled_in_specialist_studies,M,131
 2020,Broj,services,doctoral_students,Oba spola,184
-2020,Broj,TOTAL,doctoral_students,Ž,79
+2020,Broj,Ukupno,doctoral_students,Ž,79
 2020,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,105
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,0
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,M,67
 2020,Broj,education,enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,services,enrolled_in_specialist_studies,Ž,0
-2020,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2020,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,12
 2020,Broj,"engineering,_production_and_construction",doctoral_students,Ž,8
 2020,Broj,information_and_communication_technologies,doctoral_students,M,4
@@ -449,7 +449,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,399
 2020,Broj,education,enrolled_in_specialist_studies,Ž,252
 2020,Broj,services,enrolled_in_specialist_studies,M,147
-2020,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2020,Broj,information_and_communication_technologies,doctoral_students,Oba spola,2
@@ -459,7 +459,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_master's_studies,Ž,0
 2020,Broj,education,enrolled_in_master's_studies,M,0
 2020,Broj,services,enrolled_in_master_studies,Oba spola,117
-2020,Broj,TOTAL,enrolled_in_specialist_studies,Ž,82
+2020,Broj,Ukupno,enrolled_in_specialist_studies,Ž,82
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,35
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -469,7 +469,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",doctoral_students,M,2
 2020,Broj,education,enrolled_in_master's_studies,Oba spola,0
 2020,Broj,services,enrolled_in_master's_studies,Ž,0
-2020,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2020,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,52
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,10
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,42
@@ -479,7 +479,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",doctoral_students,Oba spola,96
 2020,Broj,education,doctoral_students,Ž,35
 2020,Broj,services,doctoral_students,M,61
-2020,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,0
+2020,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,216
@@ -489,7 +489,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Ž,0
 2020,Broj,education,enrolled_in_specialist_studies,M,0
 2020,Broj,services,doctoral_students,Oba spola,14
-2020,Broj,TOTAL,doctoral_students,Ž,9
+2020,Broj,Ukupno,doctoral_students,Ž,9
 2020,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,5
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,Oba spola,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master's_studies,Ž,0
@@ -499,7 +499,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,M,425
 2020,Broj,education,enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,services,enrolled_in_specialist_studies,Ž,0
-2020,Broj,TOTAL,enrolled_in_specialist_studies,M,0
+2020,Broj,Ukupno,enrolled_in_specialist_studies,M,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",doctoral_students,Oba spola,22
 2020,Broj,"engineering,_production_and_construction",doctoral_students,Ž,12
 2020,Broj,information_and_communication_technologies,doctoral_students,M,10
@@ -509,7 +509,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,216
 2020,Broj,education,enrolled_in_specialist_studies,Ž,79
 2020,Broj,services,enrolled_in_specialist_studies,M,137
-2020,Broj,TOTAL,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,Ukupno,enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2020,Broj,information_and_communication_technologies,doctoral_students,Oba spola,1
@@ -519,7 +519,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",enrolled_in_master's_studies,Ž,2
 2020,Broj,education,enrolled_in_master's_studies,M,0
 2020,Broj,services,enrolled_in_master_studies,Oba spola,381
-2020,Broj,TOTAL,enrolled_in_specialist_studies,Ž,129
+2020,Broj,Ukupno,enrolled_in_specialist_studies,Ž,129
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,252
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -529,7 +529,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",doctoral_students,M,0
 2020,Broj,education,enrolled_in_master's_studies,Oba spola,0
 2020,Broj,services,enrolled_in_master's_studies,Ž,0
-2020,Broj,TOTAL,enrolled_in_master's_studies,M,0
+2020,Broj,Ukupno,enrolled_in_master's_studies,M,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,328
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,142
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,186
@@ -539,7 +539,7 @@ Year,UNIT_MEASURE,scientific_field,TYPE_OF_EDUCATION,Spol,Value
 2020,Broj,"business,_administration_and_law",doctoral_students,Oba spola,24
 2020,Broj,education,doctoral_students,Ž,3
 2020,Broj,services,doctoral_students,M,21
-2020,Broj,TOTAL,enrolled_in_master's_studies,Oba spola,0
+2020,Broj,Ukupno,enrolled_in_master's_studies,Oba spola,0
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,9

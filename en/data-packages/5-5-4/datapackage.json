@@ -44,7 +44,6 @@
             "constraints": {
               "enum": [
                 "",
-                "TOTAL",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "business,_administration_and_law",
                 "education",
@@ -54,7 +53,8 @@
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistic",
                 "servies",
-                "social_sciences,_journalism_and_information"
+                "social_sciences,_journalism_and_information",
+                "Total"
               ]
             },
             "title": "scientific_field"

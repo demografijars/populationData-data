@@ -84,20 +84,6 @@
             "title": "Sex"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "doctors",
-                "masters",
-                "masters_of_science",
-                "specialists"
-              ]
-            },
-            "title": "TYPE_OF_EDUCATION"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -111,6 +97,20 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "doctors",
+                "masters",
+                "masters_of_science",
+                "specialists"
+              ]
+            },
+            "title": "type_of_education"
           }
         ]
       },
@@ -1273,19 +1273,6 @@
             "title": "Sex"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "enrolled_in_master's_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies"
-              ]
-            },
-            "title": "TYPE_OF_EDUCATION"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -1299,6 +1286,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "enrolled_in_master's_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies"
+              ]
+            },
+            "title": "type_of_education"
           }
         ]
       },
@@ -3394,7 +3394,6 @@
             "constraints": {
               "enum": [
                 "",
-                "TOTAL",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
                 "business,_administration_and_law",
                 "education",
@@ -3404,7 +3403,8 @@
                 "information_and_communication_technologie",
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
-                "social_sciences,_journalism_and_information"
+                "social_sciences,_journalism_and_information",
+                "Total"
               ]
             },
             "title": "type_of_education"
@@ -4166,20 +4166,6 @@
             "title": "Sex"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "doctoral_students",
-                "enrolled_in_master's_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies"
-              ]
-            },
-            "title": "TYPE_OF_EDUCATION"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -4200,7 +4186,6 @@
             "constraints": {
               "enum": [
                 "",
-                "TOTAL",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "business,_administration_and_law",
                 "education",
@@ -4209,10 +4194,25 @@
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
-                "social_sciences,_journalism_and_information"
+                "social_sciences,_journalism_and_information",
+                "Total"
               ]
             },
             "title": "scientific_field"
+          },
+          {
+            "name": "type_of_education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "doctoral_students",
+                "enrolled_in_master's_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies"
+              ]
+            },
+            "title": "type_of_education"
           }
         ]
       },
@@ -5588,7 +5588,6 @@
             "constraints": {
               "enum": [
                 "",
-                "TOTAL",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "business,_administration_and_law",
                 "eduaction",
@@ -5598,7 +5597,8 @@
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistic",
                 "services",
-                "social_sciences,_journalism_and_information"
+                "social_sciences,_journalism_and_information",
+                "Total"
               ]
             },
             "title": "scientific_field"
@@ -6092,7 +6092,6 @@
             "constraints": {
               "enum": [
                 "",
-                "TOTAL",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "business,_administration_and_law",
                 "education",
@@ -6102,7 +6101,8 @@
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistic",
                 "servies",
-                "social_sciences,_journalism_and_information"
+                "social_sciences,_journalism_and_information",
+                "Total"
               ]
             },
             "title": "scientific_field"

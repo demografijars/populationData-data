@@ -81,7 +81,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -92,7 +92,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_EDUCATION"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
@@ -1271,7 +1271,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1281,7 +1281,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_EDUCATION"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
@@ -3375,7 +3375,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "education",
                 "humanities_and_arts",
                 "social_sciences,_journalism_and_information",
@@ -4167,7 +4167,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "natural_sciences,_mathematics_and_statistics",
                 "engineering,_production_and_construction",
                 "information_and_communication_technologies",
@@ -4183,7 +4183,7 @@
             "title": "scientific_field"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4194,7 +4194,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_EDUCATION"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
@@ -5569,7 +5569,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "natural_sciences,_mathematics_and_statistic",
                 "engineering,_production_and_construction",
                 "information_and_communication_technologies",
@@ -6073,7 +6073,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "social_sciences,_journalism_and_information",
                 "humanities_and_arts",
                 "information_and_communication_technologies",

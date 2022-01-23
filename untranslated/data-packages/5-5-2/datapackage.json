@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "total",
                 "natural_sciences,_mathematics_and_statistics",
                 "engineering,_production_and_construction",
                 "information_and_communication_technologies",
@@ -38,7 +38,7 @@
             }
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [

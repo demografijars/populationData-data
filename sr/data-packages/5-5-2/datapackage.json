@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Укупно",
                 "Природне науке, математика и статистика",
                 "Инжeњерство, производња и грађевинарство",
                 "Информационе и комуникационе технологије",
-                "Zdravstvo i socijalna zaštita",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Društvene nauke, novinarstvo i informisanje",
+                "Здравство и социјална заштита",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "Друштвене науке, новинарство и информисање",
                 "Пословање, администрација и право",
                 "Образовање",
                 "Услуге",
@@ -41,7 +41,7 @@
             "title": "Научна област"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -52,7 +52,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_EDUCATION"
+            "title": "Врста образовања"
           },
           {
             "name": "SEX",

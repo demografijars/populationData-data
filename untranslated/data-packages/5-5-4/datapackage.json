@@ -23,7 +23,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "total",
                 "social_sciences,_journalism_and_information",
                 "humanities_and_arts",
                 "information_and_communication_technologies",

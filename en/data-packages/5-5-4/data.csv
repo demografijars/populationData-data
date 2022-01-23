@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,scientific_field,Sex,Value
-2017,Number,TOTAL,M,252
+2017,Number,Total,M,252
 2017,Number,"social_sciences,_journalism_and_information",M,45
 2017,Number,humanities_and_arts,M,49
 2017,Number,information_and_communication_technologies,M,14
@@ -10,7 +10,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,"natural_sciences,_mathematics_and_statistic",M,6
 2017,Number,servies,M,1
 2017,Number,health_and_social_protection,M,48
-2017,Number,TOTAL,F,282
+2017,Number,Total,F,282
 2017,Number,"social_sciences,_journalism_and_information",F,55
 2017,Number,humanities_and_arts,F,51
 2017,Number,information_and_communication_technologies,F,3
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,"natural_sciences,_mathematics_and_statistic",F,9
 2017,Number,servies,F,0
 2017,Number,health_and_social_protection,F,70
-2017,Number,TOTAL,Both sexes,534
+2017,Number,Total,Both sexes,534
 2017,Number,"social_sciences,_journalism_and_information",Both sexes,100
 2017,Number,humanities_and_arts,Both sexes,100
 2017,Number,information_and_communication_technologies,Both sexes,17
@@ -32,7 +32,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2017,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,15
 2017,Number,servies,Both sexes,1
 2017,Number,health_and_social_protection,Both sexes,118
-2018,Number,TOTAL,M,322
+2018,Number,Total,M,322
 2018,Number,"social_sciences,_journalism_and_information",M,64
 2018,Number,humanities_and_arts,M,46
 2018,Number,information_and_communication_technologies,M,5
@@ -43,7 +43,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,"natural_sciences,_mathematics_and_statistic",M,18
 2018,Number,servies,M,3
 2018,Number,health_and_social_protection,M,85
-2018,Number,TOTAL,F,208
+2018,Number,Total,F,208
 2018,Number,"social_sciences,_journalism_and_information",F,37
 2018,Number,humanities_and_arts,F,30
 2018,Number,information_and_communication_technologies,F,17
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,"natural_sciences,_mathematics_and_statistic",F,5
 2018,Number,servies,F,0
 2018,Number,health_and_social_protection,F,38
-2018,Number,TOTAL,Both sexes,530
+2018,Number,Total,Both sexes,530
 2018,Number,"social_sciences,_journalism_and_information",Both sexes,101
 2018,Number,humanities_and_arts,Both sexes,76
 2018,Number,information_and_communication_technologies,Both sexes,22
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2018,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,23
 2018,Number,servies,Both sexes,3
 2018,Number,health_and_social_protection,Both sexes,123
-2019,Number,TOTAL,M,188
+2019,Number,Total,M,188
 2019,Number,"social_sciences,_journalism_and_information",M,65
 2019,Number,humanities_and_arts,M,21
 2019,Number,information_and_communication_technologies,M,6
@@ -76,7 +76,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,"natural_sciences,_mathematics_and_statistic",M,9
 2019,Number,servies,M,1
 2019,Number,health_and_social_protection,M,36
-2019,Number,TOTAL,F,278
+2019,Number,Total,F,278
 2019,Number,"social_sciences,_journalism_and_information",F,83
 2019,Number,humanities_and_arts,F,38
 2019,Number,information_and_communication_technologies,F,4
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,"natural_sciences,_mathematics_and_statistic",F,15
 2019,Number,servies,F,0
 2019,Number,health_and_social_protection,F,64
-2019,Number,TOTAL,Both sexes,466
+2019,Number,Total,Both sexes,466
 2019,Number,"social_sciences,_journalism_and_information",Both sexes,148
 2019,Number,humanities_and_arts,Both sexes,59
 2019,Number,information_and_communication_technologies,Both sexes,10
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2019,Number,"natural_sciences,_mathematics_and_statistic",Both sexes,24
 2019,Number,servies,Both sexes,1
 2019,Number,health_and_social_protection,Both sexes,100
-2020,Number,TOTAL,M,156
+2020,Number,Total,M,156
 2020,Number,"social_sciences,_journalism_and_information",M,41
 2020,Number,humanities_and_arts,M,20
 2020,Number,information_and_communication_technologies,M,9
@@ -108,7 +108,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2020,Number,"business,_administration_and_law",M,13
 2020,Number,"natural_sciences,_mathematics_and_statistic",M,6
 2020,Number,health_and_social_protection,M,32
-2020,Number,TOTAL,F,228
+2020,Number,Total,F,228
 2020,Number,"social_sciences,_journalism_and_information",F,45
 2020,Number,humanities_and_arts,F,45
 2020,Number,information_and_communication_technologies,F,2
@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,scientific_field,Sex,Value
 2020,Number,"business,_administration_and_law",F,15
 2020,Number,"natural_sciences,_mathematics_and_statistic",F,14
 2020,Number,health_and_social_protection,F,63
-2020,Number,TOTAL,Both sexes,384
+2020,Number,Total,Both sexes,384
 2020,Number,"social_sciences,_journalism_and_information",Both sexes,86
 2020,Number,humanities_and_arts,Both sexes,65
 2020,Number,information_and_communication_technologies,Both sexes,11

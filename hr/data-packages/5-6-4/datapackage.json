@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "TOTAL",
+                "Ukupno",
                 "education",
                 "humanities_and_arts",
                 "social_sciences,_journalism_and_information",

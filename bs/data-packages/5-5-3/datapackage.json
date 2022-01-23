@@ -21,7 +21,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "TYPE_OF_EDUCATION",
+            "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
@@ -32,7 +32,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_EDUCATION"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",

@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,type_of_education,Spol,Value
-2017,Broj,TOTAL,Oba spola,54
+2017,Broj,Ukupno,Oba spola,54
 2017,Broj,education,Oba spola,4
 2017,Broj,humanities_and_arts,Oba spola,6
 2017,Broj,"social_sciences,_journalism_and_information",Oba spola,4
@@ -10,7 +10,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Oba spola,0
 2017,Broj,health_and_social_protection,Oba spola,7
 2017,Broj,services,Oba spola,0
-2017,Broj,TOTAL,M,37
+2017,Broj,Ukupno,M,37
 2017,Broj,education,M,2
 2017,Broj,humanities_and_arts,M,3
 2017,Broj,"social_sciences,_journalism_and_information",M,3
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
 2017,Broj,health_and_social_protection,M,3
 2017,Broj,services,M,0
-2017,Broj,TOTAL,Ž,17
+2017,Broj,Ukupno,Ž,17
 2017,Broj,education,Ž,2
 2017,Broj,humanities_and_arts,Ž,3
 2017,Broj,"social_sciences,_journalism_and_information",Ž,1
@@ -32,7 +32,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Ž,0
 2017,Broj,health_and_social_protection,Ž,4
 2017,Broj,services,Ž,0
-2018,Broj,TOTAL,Oba spola,43
+2018,Broj,Ukupno,Oba spola,43
 2018,Broj,education,Oba spola,1
 2018,Broj,humanities_and_arts,Oba spola,3
 2018,Broj,"social_sciences,_journalism_and_information",Oba spola,3
@@ -43,7 +43,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Oba spola,1
 2018,Broj,health_and_social_protection,Oba spola,5
 2018,Broj,services,Oba spola,0
-2018,Broj,TOTAL,M,28
+2018,Broj,Ukupno,M,28
 2018,Broj,education,M,1
 2018,Broj,humanities_and_arts,M,1
 2018,Broj,"social_sciences,_journalism_and_information",M,3
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
 2018,Broj,health_and_social_protection,M,2
 2018,Broj,services,M,0
-2018,Broj,TOTAL,Ž,15
+2018,Broj,Ukupno,Ž,15
 2018,Broj,education,Ž,0
 2018,Broj,humanities_and_arts,Ž,2
 2018,Broj,"social_sciences,_journalism_and_information",Ž,0
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Ž,0
 2018,Broj,health_and_social_protection,Ž,3
 2018,Broj,services,Ž,0
-2019,Broj,TOTAL,Oba spola,42
+2019,Broj,Ukupno,Oba spola,42
 2019,Broj,education,Oba spola,2
 2019,Broj,humanities_and_arts,Oba spola,1
 2019,Broj,"social_sciences,_journalism_and_information",Oba spola,25
@@ -76,7 +76,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Oba spola,3
 2019,Broj,health_and_social_protection,Oba spola,2
 2019,Broj,services,Oba spola,0
-2019,Broj,TOTAL,M,26
+2019,Broj,Ukupno,M,26
 2019,Broj,education,M,2
 2019,Broj,humanities_and_arts,M,0
 2019,Broj,"social_sciences,_journalism_and_information",M,19
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
 2019,Broj,health_and_social_protection,M,0
 2019,Broj,services,M,0
-2019,Broj,TOTAL,Ž,16
+2019,Broj,Ukupno,Ž,16
 2019,Broj,education,Ž,0
 2019,Broj,humanities_and_arts,Ž,1
 2019,Broj,"social_sciences,_journalism_and_information",Ž,6
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Ž,2
 2019,Broj,health_and_social_protection,Ž,2
 2019,Broj,services,Ž,0
-2020,Broj,TOTAL,Oba spola,64
+2020,Broj,Ukupno,Oba spola,64
 2020,Broj,education,Oba spola,0
 2020,Broj,humanities_and_arts,Oba spola,3
 2020,Broj,"social_sciences,_journalism_and_information",Oba spola,30
@@ -109,7 +109,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Oba spola,2
 2020,Broj,health_and_social_protection,Oba spola,9
 2020,Broj,services,Oba spola,0
-2020,Broj,TOTAL,M,34
+2020,Broj,Ukupno,M,34
 2020,Broj,education,M,0
 2020,Broj,humanities_and_arts,M,0
 2020,Broj,"social_sciences,_journalism_and_information",M,21
@@ -120,7 +120,7 @@ Year,UNIT_MEASURE,type_of_education,Spol,Value
 2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
 2020,Broj,health_and_social_protection,M,2
 2020,Broj,services,M,0
-2020,Broj,TOTAL,Ž,30
+2020,Broj,Ukupno,Ž,30
 2020,Broj,education,Ž,0
 2020,Broj,humanities_and_arts,Ž,3
 2020,Broj,"social_sciences,_journalism_and_information",Ž,9
