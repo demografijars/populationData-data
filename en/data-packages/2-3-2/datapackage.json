@@ -11,20 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Agricultural households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Number of agricultural households",
-                "Number of agricultural households that are selling their products"
-              ]
-            },
-            "title": "Agricultural households"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -94,7 +81,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -110,6 +97,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "agricultural_households_number",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Number of agricultural households",
+                "Number of agricultural households that are selling their products"
+              ]
+            },
+            "title": "agricultural_households_number"
           }
         ]
       }

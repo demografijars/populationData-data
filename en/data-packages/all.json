@@ -156,20 +156,7 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -239,7 +226,37 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Two members of household",
+                "3 members",
+                "Four members of household",
+                "Five and more members of household",
+                "Total",
+                "Average number of memebers in the household",
+                "One member of household"
+              ]
+            },
+            "title": "Household size"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -255,23 +272,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "household_members",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Five and more members of household",
-                "Total",
-                "Average number of memebers in the household",
-                "Four members of household",
-                "One member of household",
-                "three_members",
-                "Two members of household"
-              ]
-            },
-            "title": "household_members"
           }
         ]
       },
@@ -980,20 +980,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Agricultural households",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Number of agricultural households",
-                "Number of agricultural households that are selling their products"
-              ]
-            },
-            "title": "Agricultural households"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1063,7 +1050,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1079,6 +1066,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "agricultural_households_number",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Number of agricultural households",
+                "Number of agricultural households that are selling their products"
+              ]
+            },
+            "title": "agricultural_households_number"
           }
         ]
       },
@@ -5098,50 +5098,7 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "0-4",
-                "10-14",
-                "15-19",
-                "20-24",
-                "25-29",
-                "30-34",
-                "35-39",
-                "40-44",
-                "45-49",
-                "5-9",
-                "50-54",
-                "55-59",
-                "60-64",
-                "65-69",
-                "70-74",
-                "75-79",
-                "80-84",
-                "85-89",
-                "90+",
-                "Total"
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5213,7 +5170,50 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "0-4",
+                "10-14",
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "5-9",
+                "50-54",
+                "55-59",
+                "60-64",
+                "65-69",
+                "70-74",
+                "75-79",
+                "80-84",
+                "85-89",
+                "90+",
+                "Total"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5660,35 +5660,7 @@
       "schema": {
         "fields": [
           {
-            "name": "BIRTHS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Five and more members of household",
-                "Total",
-                "Did not give birth",
-                "Four children",
-                "One child",
-                "Three children",
-                "Two children"
-              ]
-            },
-            "title": "Vital statistics"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5758,7 +5730,35 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "BIRTHS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Five and more members of household",
+                "Total",
+                "Did not give birth",
+                "Four children",
+                "One child",
+                "Three children",
+                "Two children"
+              ]
+            },
+            "title": "Vital statistics"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",

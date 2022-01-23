@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Административно подручје"
           },
           {
             "name": "SEX",
@@ -115,7 +115,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+",
+                "5 и више чланова",
                 ""
               ]
             },

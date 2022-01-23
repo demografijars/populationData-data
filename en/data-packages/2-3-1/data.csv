@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Teritory,Sex,household_members,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Household size,Value
 2013,Number,Republika Srpska,Both sexes,Total,408825.0
 2013,Number,City of Banja Luka,M,Total,65010.0
 2013,Number,Berkovici,F,Total,636.0
@@ -188,69 +188,69 @@ Year,UNIT_MEASURE,Teritory,Sex,household_members,Value
 2013,Number,Samac,Both sexes,Two members of household,1408.0
 2013,Number,Sekovici,M,Two members of household,783.0
 2013,Number,Sipovo,F,Two members of household,1059.0
-2013,Number,Republika Srpska,Both sexes,three_members,79155.0
-2013,Number,City of Banja Luka,M,three_members,14267.0
-2013,Number,Berkovici,F,three_members,92.0
-2013,Number,City of Bijeljina,Both sexes,three_members,6586.0
-2013,Number,Bileca,M,three_members,620.0
-2013,Number,Bratunac,F,three_members,1137.0
-2013,Number,Brod,Both sexes,three_members,1107.0
-2013,Number,Visegrad,M,three_members,724.0
-2013,Number,Vlasenica,F,three_members,747.0
-2013,Number,Vukosavlje,Both sexes,three_members,280.0
-2013,Number,Gacko,M,three_members,561.0
-2013,Number,City of Gradiska,F,three_members,3140.0
-2013,Number,City of Derventa,Both sexes,three_members,1688.0
-2013,Number,City of Doboj,M,three_members,4956.0
-2013,Number,Donji Zabar,F,three_members,178.0
-2013,Number,City of Zvornik,Both sexes,three_members,3400.0
-2013,Number,East Ilidza,M,three_members,1075.0
-2013,Number,East Drvar,F,three_members,6.0
-2013,Number,East Mostar,Both sexes,three_members,12.0
-2013,Number,East Stari Grad,M,three_members,75.0
-2013,Number,East Novo Sarajevo,F,three_members,813.0
-2013,Number,Jezero,Both sexes,three_members,75.0
-2013,Number,Kalinovik,M,three_members,136.0
-2013,Number,Knezevo,F,three_members,554.0
-2013,Number,Kozarska Dubica,Both sexes,three_members,1351.0
-2013,Number,Kostajnica,M,three_members,384.0
-2013,Number,Kotor Varos,F,three_members,1079.0
-2013,Number,Krupa Na Uni,Both sexes,three_members,84.0
-2013,Number,Kupres,M,three_members,16.0
-2013,Number,Laktasi,F,three_members,2241.0
-2013,Number,Lopare,Both sexes,three_members,908.0
-2013,Number,Ljubinje,M,three_members,234.0
-2013,Number,Milici,F,three_members,709.0
-2013,Number,Modrica,Both sexes,three_members,1567.0
-2013,Number,Mrkonjic Grad,M,three_members,1218.0
-2013,Number,Nevesinje,F,three_members,701.0
-2013,Number,Novi Grad,Both sexes,three_members,1669.0
-2013,Number,Novo Gorazde,M,three_members,193.0
-2013,Number,Osmaci,F,three_members,317.0
-2013,Number,Ostra Luka,Both sexes,three_members,151.0
-2013,Number,Pale,M,three_members,1438.0
-2013,Number,Pelagicevo,F,three_members,225.0
-2013,Number,Petrovac,Both sexes,three_members,22.0
-2013,Number,Petrovo,M,three_members,448.0
-2013,Number,City of Prijedor,F,three_members,5351.0
-2013,Number,Prnjavor,Both sexes,three_members,2183.0
-2013,Number,Ribnik,M,three_members,356.0
-2013,Number,Rogatica,F,three_members,709.0
-2013,Number,Rudo,Both sexes,three_members,523.0
-2013,Number,Sokolac,M,three_members,808.0
-2013,Number,Srbac,F,three_members,1106.0
-2013,Number,Srebrenica,Both sexes,three_members,656.0
-2013,Number,Teslic,M,three_members,2559.0
-2013,Number,City of Trebinje,F,three_members,1871.0
-2013,Number,Trnovo,Both sexes,three_members,143.0
-2013,Number,Ugljevik,M,three_members,821.0
-2013,Number,Foca,F,three_members,1263.0
-2013,Number,Han Pijesak,Both sexes,three_members,249.0
-2013,Number,Cajnice,M,three_members,303.0
-2013,Number,Celinac,F,three_members,985.0
-2013,Number,Samac,Both sexes,three_members,971.0
-2013,Number,Sekovici,M,three_members,418.0
-2013,Number,Sipovo,F,three_members,696.0
+2013,Number,Republika Srpska,Both sexes,3 members,79155.0
+2013,Number,City of Banja Luka,M,3 members,14267.0
+2013,Number,Berkovici,F,3 members,92.0
+2013,Number,City of Bijeljina,Both sexes,3 members,6586.0
+2013,Number,Bileca,M,3 members,620.0
+2013,Number,Bratunac,F,3 members,1137.0
+2013,Number,Brod,Both sexes,3 members,1107.0
+2013,Number,Visegrad,M,3 members,724.0
+2013,Number,Vlasenica,F,3 members,747.0
+2013,Number,Vukosavlje,Both sexes,3 members,280.0
+2013,Number,Gacko,M,3 members,561.0
+2013,Number,City of Gradiska,F,3 members,3140.0
+2013,Number,City of Derventa,Both sexes,3 members,1688.0
+2013,Number,City of Doboj,M,3 members,4956.0
+2013,Number,Donji Zabar,F,3 members,178.0
+2013,Number,City of Zvornik,Both sexes,3 members,3400.0
+2013,Number,East Ilidza,M,3 members,1075.0
+2013,Number,East Drvar,F,3 members,6.0
+2013,Number,East Mostar,Both sexes,3 members,12.0
+2013,Number,East Stari Grad,M,3 members,75.0
+2013,Number,East Novo Sarajevo,F,3 members,813.0
+2013,Number,Jezero,Both sexes,3 members,75.0
+2013,Number,Kalinovik,M,3 members,136.0
+2013,Number,Knezevo,F,3 members,554.0
+2013,Number,Kozarska Dubica,Both sexes,3 members,1351.0
+2013,Number,Kostajnica,M,3 members,384.0
+2013,Number,Kotor Varos,F,3 members,1079.0
+2013,Number,Krupa Na Uni,Both sexes,3 members,84.0
+2013,Number,Kupres,M,3 members,16.0
+2013,Number,Laktasi,F,3 members,2241.0
+2013,Number,Lopare,Both sexes,3 members,908.0
+2013,Number,Ljubinje,M,3 members,234.0
+2013,Number,Milici,F,3 members,709.0
+2013,Number,Modrica,Both sexes,3 members,1567.0
+2013,Number,Mrkonjic Grad,M,3 members,1218.0
+2013,Number,Nevesinje,F,3 members,701.0
+2013,Number,Novi Grad,Both sexes,3 members,1669.0
+2013,Number,Novo Gorazde,M,3 members,193.0
+2013,Number,Osmaci,F,3 members,317.0
+2013,Number,Ostra Luka,Both sexes,3 members,151.0
+2013,Number,Pale,M,3 members,1438.0
+2013,Number,Pelagicevo,F,3 members,225.0
+2013,Number,Petrovac,Both sexes,3 members,22.0
+2013,Number,Petrovo,M,3 members,448.0
+2013,Number,City of Prijedor,F,3 members,5351.0
+2013,Number,Prnjavor,Both sexes,3 members,2183.0
+2013,Number,Ribnik,M,3 members,356.0
+2013,Number,Rogatica,F,3 members,709.0
+2013,Number,Rudo,Both sexes,3 members,523.0
+2013,Number,Sokolac,M,3 members,808.0
+2013,Number,Srbac,F,3 members,1106.0
+2013,Number,Srebrenica,Both sexes,3 members,656.0
+2013,Number,Teslic,M,3 members,2559.0
+2013,Number,City of Trebinje,F,3 members,1871.0
+2013,Number,Trnovo,Both sexes,3 members,143.0
+2013,Number,Ugljevik,M,3 members,821.0
+2013,Number,Foca,F,3 members,1263.0
+2013,Number,Han Pijesak,Both sexes,3 members,249.0
+2013,Number,Cajnice,M,3 members,303.0
+2013,Number,Celinac,F,3 members,985.0
+2013,Number,Samac,Both sexes,3 members,971.0
+2013,Number,Sekovici,M,3 members,418.0
+2013,Number,Sipovo,F,3 members,696.0
 2013,Number,Republika Srpska,Both sexes,Four members of household,72771.0
 2013,Number,City of Banja Luka,M,Four members of household,12952.0
 2013,Number,Berkovici,F,Four members of household,84.0

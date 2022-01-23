@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,20 +91,20 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Административно подручје"
           },
           {
-            "name": "Agricultural households",
+            "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
                 "Укупно",
-                "agricultural_households",
-                "agricultural_selling",
+                "Број домаћинстава која обављају пољопривредну активност",
+                "Број домаћинстава која обављају пољопривредну активност и продају производе на тржишту",
                 ""
               ]
             },
-            "title": "Agricultural households"
+            "title": "Број пољопривредних домаћинстава"
           },
           {
             "name": "Value",

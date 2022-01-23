@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +91,7 @@
             }
           },
           {
-            "name": "Agricultural households",
+            "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [

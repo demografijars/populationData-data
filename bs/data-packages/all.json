@@ -166,7 +166,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -236,7 +236,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -252,21 +252,21 @@
             "title": "Spol"
           },
           {
-            "name": "household_members",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
                 "Ukupno",
-                "one_member",
-                "two_members",
-                "three_members",
-                "four_members",
-                "5+",
-                "average_number",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5+_members",
+                "Prosječan broj članova domaćinstva",
                 ""
               ]
             },
-            "title": "household_members"
+            "title": "Veličina domaćinstva"
           },
           {
             "name": "Value",
@@ -990,7 +990,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1060,10 +1060,10 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
-            "name": "Agricultural households",
+            "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1073,7 +1073,7 @@
                 ""
               ]
             },
-            "title": "Agricultural households"
+            "title": "agricultural_households_number"
           },
           {
             "name": "Value",
@@ -5108,7 +5108,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5180,7 +5180,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -5670,7 +5670,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5740,7 +5740,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",
@@ -5764,7 +5764,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+",
+                "5+_members",
                 ""
               ]
             },

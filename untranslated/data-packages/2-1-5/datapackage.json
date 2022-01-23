@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -111,7 +111,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+",
+                "5+_members",
                 ""
               ]
             }

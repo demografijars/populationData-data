@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Административно подручје"
           },
           {
             "name": "SEX",
@@ -107,21 +107,21 @@
             "title": "Пол"
           },
           {
-            "name": "household_members",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
                 "Укупно",
-                "one_member",
-                "two_members",
-                "three_members",
-                "four_members",
-                "5+",
-                "average_number",
+                "1 члан",
+                "2 члана",
+                "3 члана",
+                "4 члана",
+                "5 и више чланова",
+                "Просјечан број чланова домаћинства",
                 ""
               ]
             },
-            "title": "household_members"
+            "title": "Величина домаћинства"
           },
           {
             "name": "Value",

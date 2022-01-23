@@ -21,7 +21,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -93,7 +93,7 @@
                 ""
               ]
             },
-            "title": "Teritory"
+            "title": "Administrativna oblast"
           },
           {
             "name": "SEX",

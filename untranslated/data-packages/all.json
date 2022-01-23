@@ -150,7 +150,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -234,17 +234,17 @@
             }
           },
           {
-            "name": "household_members",
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
                 "_T",
-                "one_member",
-                "two_members",
-                "three_members",
-                "four_members",
-                "5+",
-                "average_number",
+                "single_household",
+                "2_members",
+                "3_members",
+                "4_members",
+                "5+_members",
+                "average_number_of_hh_members",
                 ""
               ]
             }
@@ -912,7 +912,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -984,7 +984,7 @@
             }
           },
           {
-            "name": "Agricultural households",
+            "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4708,7 +4708,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5225,7 +5225,7 @@
             "type": "string"
           },
           {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5317,7 +5317,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+",
+                "5+_members",
                 ""
               ]
             }

@@ -11,20 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Teritory",
+            "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -94,7 +81,37 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Teritory"
+            "title": "Administrative area"
+          },
+          {
+            "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Two members of household",
+                "3 members",
+                "Four members of household",
+                "Five and more members of household",
+                "Total",
+                "Average number of memebers in the household",
+                "One member of household"
+              ]
+            },
+            "title": "Household size"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "F",
+                "M",
+                "Total"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -110,23 +127,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "household_members",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Five and more members of household",
-                "Total",
-                "Average number of memebers in the household",
-                "Four members of household",
-                "One member of household",
-                "three_members",
-                "Two members of household"
-              ]
-            },
-            "title": "household_members"
           }
         ]
       }
