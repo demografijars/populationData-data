@@ -1,6 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,_T,Ukupno,3,1
-adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,"Social protection institutions for children, youth and adults with mental and physical disabilities","Ustanove socijalne zaštite za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities,"Ustanove socijalne skrbi za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",3,1
-homes_for_children_and_youth_without_parental_care,Homes for children and youth without parental care,Domovi za djecu i mlade bez roditeljskog staranja,homes_for_children_and_youth_without_parental_care,Domovi za djecu i mlade bez roditeljske skrbi,3,1
-social_welfare_institutions_for_adults,Social welfare institutions for adults,Ustanove socijalne zaštite za odrasle,social_welfare_institutions_for_adults,Ustanove socijalne skrbi za odrasle,3,1
-social_welfare_institutions_for_adults_with_disabilities,Social welfare institutions for adults with disabilities,Ustanove socijalne zaštite za odrasle osobe s invaliditetom,social_welfare_institutions_for_adults_with_disabilities,Ustanove socijalne skrbi za odrasle osobe s invaliditetom,3,1
+private,Private,Privatna,private,Privatna,1,1
+public,Public,Javna,public,Javna,1,1
+total,Total,Ukupno,total,Ukupno,1,1

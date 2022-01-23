@@ -2945,32 +2945,16 @@
       "schema": {
         "fields": [
           {
-            "name": "SEX",
+            "name": "TYPE_OF_INSTITUTIONS",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M",
-                "Total"
+                "adult_facilities",
+                "institutions_for_children_and_youth"
               ]
             },
-            "title": "Sex"
-          },
-          {
-            "name": "Type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Social protection institutions for children, youth and adults with mental and physical disabilities",
-                "Homes for children and youth without parental care",
-                "Social welfare institutions for adults",
-                "Social welfare institutions for adults with disabilities"
-              ]
-            },
-            "title": "Type_of_institution"
+            "title": "TYPE_OF_INSTITUTIONS"
           },
           {
             "name": "UNIT_MEASURE",
