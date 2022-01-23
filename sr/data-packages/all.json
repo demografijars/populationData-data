@@ -390,7 +390,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -399,8 +399,20 @@
             "title": "UNIT_MEASURE"
           },
           {
-            "name": "Value",
+            "name": "TYPE_OF_USERS",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "number_of_users",
+                "number_of_children",
+                ""
+              ]
+            },
+            "title": "TYPE_OF_USERS"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]

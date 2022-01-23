@@ -1,1 +1,11 @@
-Year,Value
+Year,UNIT_MEASURE,TYPE_OF_USERS,Value
+2016,Broj,number_of_users,23202
+2017,Broj,number_of_users,20279
+2018,Broj,number_of_users,21839
+2019,Broj,number_of_users,15388
+2020,Broj,number_of_users,13381
+2016,Broj,number_of_children,33125
+2017,Broj,number_of_children,28767
+2018,Broj,number_of_children,27222
+2019,Broj,number_of_children,21862
+2020,Broj,number_of_children,19210

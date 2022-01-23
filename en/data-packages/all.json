@@ -389,18 +389,30 @@
       "schema": {
         "fields": [
           {
+            "name": "TYPE_OF_USERS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "number_of_children",
+                "number_of_users"
+              ]
+            },
+            "title": "TYPE_OF_USERS"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
