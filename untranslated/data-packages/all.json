@@ -1154,17 +1154,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
+            "name": "TYPE_OF_EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "enrolled_in_master's_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
+                "F",
                 ""
               ]
             }

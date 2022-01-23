@@ -15,10 +15,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "F",
+                "Total"
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "TYPE_OF_EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "enrolled_in_master's_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies"
+              ]
+            },
+            "title": "TYPE_OF_EDUCATION"
           },
           {
             "name": "UNIT_MEASURE",
@@ -32,7 +47,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
