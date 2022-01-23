@@ -3152,7 +3152,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -3165,6 +3165,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
+                "Ж",
                 ""
               ]
             },
@@ -3172,7 +3174,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -2916,7 +2916,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2927,13 +2927,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
+                "F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
