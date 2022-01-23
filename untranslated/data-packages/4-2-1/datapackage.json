@@ -12,15 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
           },
           {
+            "name": "TYPE_OF_USERS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total",
+                "institutions_for_children_and_youth",
+                "adult_facilities",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
