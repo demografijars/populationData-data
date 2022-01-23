@@ -11,22 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Type_of_school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Art schools",
-                "Gymnasium",
-                "high_schools_for_students_with_disabilities",
-                "religious_schools",
-                "technical_high_schools",
-                "vocational_high_schools"
-              ]
-            },
-            "title": "Type_of_school"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -40,6 +24,22 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Art schools",
+                "Gymnasium",
+                "high_schools_for_students_with_disabilities",
+                "religious_schools",
+                "technical_high_schools",
+                "vocational_high_schools"
+              ]
+            },
+            "title": "type_of_school"
           }
         ]
       }

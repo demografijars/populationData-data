@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "Type_of_school",
+            "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,7 +34,7 @@
                 ""
               ]
             },
-            "title": "Type_of_school"
+            "title": "Врста школе"
           },
           {
             "name": "Value",

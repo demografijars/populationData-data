@@ -3904,7 +3904,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_school",
+            "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3917,7 +3917,7 @@
                 ""
               ]
             },
-            "title": "Type_of_school"
+            "title": "type_of_school"
           },
           {
             "name": "Value",
@@ -6132,7 +6132,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_school",
+            "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6145,7 +6145,7 @@
                 ""
               ]
             },
-            "title": "Type_of_school"
+            "title": "type_of_school"
           },
           {
             "name": "Value",
