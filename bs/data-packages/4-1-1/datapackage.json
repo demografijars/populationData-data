@@ -34,19 +34,6 @@
             "title": "Type_of_user"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Vrijednost"

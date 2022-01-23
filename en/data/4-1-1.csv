@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,Type_of_user,Sex,Value
-2016,Number,Total,Both sexes,191604
-2017,Number,Total,M,184830
-2018,Number,Total,F,179164
-2019,Number,Total,Both sexes,171280
-2020,Number,Total,M,167786
-2016,Number,underage_users,F,53648
-2017,Number,underage_users,Both sexes,49035
-2018,Number,underage_users,M,48462
-2019,Number,underage_users,F,47135
-2020,Number,underage_users,Both sexes,41066
-2016,Number,adult_users,M,137956
-2017,Number,adult_users,F,135795
-2018,Number,adult_users,Both sexes,130702
-2019,Number,adult_users,M,124145
-2020,Number,adult_users,F,126720
+Year,UNIT_MEASURE,Type_of_user,Value
+2016,Number,Total,191604
+2017,Number,Total,184830
+2018,Number,Total,179164
+2019,Number,Total,171280
+2020,Number,Total,167786
+2016,Number,underage_users,53648
+2017,Number,underage_users,49035
+2018,Number,underage_users,48462
+2019,Number,underage_users,47135
+2020,Number,underage_users,41066
+2016,Number,adult_users,137956
+2017,Number,adult_users,135795
+2018,Number,adult_users,130702
+2019,Number,adult_users,124145
+2020,Number,adult_users,126720

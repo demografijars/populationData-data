@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,Type_of_user,Spol,Value
-2016,Broj,Ukupno,Oba spola,191604
-2017,Broj,Ukupno,M,184830
-2018,Broj,Ukupno,Ž,179164
-2019,Broj,Ukupno,Oba spola,171280
-2020,Broj,Ukupno,M,167786
-2016,Broj,underage_users,Ž,53648
-2017,Broj,underage_users,Oba spola,49035
-2018,Broj,underage_users,M,48462
-2019,Broj,underage_users,Ž,47135
-2020,Broj,underage_users,Oba spola,41066
-2016,Broj,adult_users,M,137956
-2017,Broj,adult_users,Ž,135795
-2018,Broj,adult_users,Oba spola,130702
-2019,Broj,adult_users,M,124145
-2020,Broj,adult_users,Ž,126720
+Year,UNIT_MEASURE,Type_of_user,Value
+2016,Broj,Ukupno,191604
+2017,Broj,Ukupno,184830
+2018,Broj,Ukupno,179164
+2019,Broj,Ukupno,171280
+2020,Broj,Ukupno,167786
+2016,Broj,underage_users,53648
+2017,Broj,underage_users,49035
+2018,Broj,underage_users,48462
+2019,Broj,underage_users,47135
+2020,Broj,underage_users,41066
+2016,Broj,adult_users,137956
+2017,Broj,adult_users,135795
+2018,Broj,adult_users,130702
+2019,Broj,adult_users,124145
+2020,Broj,adult_users,126720
