@@ -432,7 +432,7 @@ INDICATOR: Индикатор
 AREA: Подручје
 republic_of_srpska: Република Српска
 enrolled_students_in_the_first_cycle_of_studies: Уписани студенти  на први циклус студија
-adults_(aged_25-64)_who_participated_in_non-formal_education: Одрасли (лица старости 25 - 64 година) који су учествовали у неформалном образовању:
+adults_(aged_25-64)_who_participated_in_non-formal_education: Одрасли (лица старости 25 - 64 година) који су учествовали у неформалном образовању
 Number_of_students_at_the_beginning_of_the_school_year_by_gender: Број ученика на почетку школске године по полу
 number_of_high_school_graduates_by_gender: Број ученика који су завршили средњу школу по полу
 number_of_secondary_school_teachers_by_gender: Број наставника у средњим школама по полу
@@ -457,3 +457,23 @@ natural_sciences,_mathematics_and_informatics: Пословање, админи�
 engineering,_production_technologies_and_construction: Инжењеринг, производне технологије и грађевинарство
 agriculture_and_veterinary_medicine: Пољопривреда и ветеринарство
 agriculture,_forestry,_fisheries_and_veterinary_medicine: Пољопривреда, шумарство,рибарство и ветеринарство
+type_of_education: Врста образовања
+TYPE_OF_ENROLLMENT: Врста уписа
+enrolled_in_undergraduate_study_programs: Upisani u osnovne studijske programe
+number_of_students_who_graduated: Broj studenata koji su diplomirali
+TYPE_OF_STUDENTS: Тип полазника
+arts_and_humanities: Umjetnost i humanističke nauke			
+social_sciences,_journalism_and_information: Društvene nauke, novinarstvo i informisanje 	
+business,_administration_and_the_law_of_everything: Poslovanje, administracija i pravo svega 
+natural_sciences,_mathematics_and_statistics_of_all: Prirodne nauke, matematika i statistika svega 
+information and communication technologies: Informacione i komunikacione tehnologije 	
+engineering,_manufacturing_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo
+health_and_social_protection: Zdravstvo i socijalna zaštita
+unknown: Nepoznato
+enrolled_in_integrated_studies: Upisani  na integrisane studije
+graduated: Diplomirani
+enrolled_in_master's,_master's_and_specialist_studies : Upisani na magistarske, master i specijalističke studije
+masters_of_science,_masters_and_specialists : Magistri nauka, masteri i specijalisti
+enrolled_in_doctoral_studies: Upisani na doktorske studije
+doctors_of_science: Doktori nauka
