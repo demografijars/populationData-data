@@ -412,7 +412,7 @@ one_child: One child
 two_children: Two children
 three_children: Three children
 four_children: Four children
-5+: Five and more children
+5+_members: Five and more children
 illiterate: Illiterate
 illiterates_percentage: Percentage of illiterates
 unknown: Unknown literacy background
@@ -447,12 +447,12 @@ memory: Number of people with memory or concentracion disabilities
 dressing: Number of people with dressing or personal hygiene disabilities
 communication: Number of people with communication disabilities
 more_disabilities: Number of people with more disabilities
-one_member: One member of household
-two_members: Two members of household
+single_household: One member of household
+2_members: Two members of household
 three_memners: Three members of household
-four_members: Four members of household
-5+: Five and more members of household
-average_number: Average number of memebers in the household
+4_members: Four members of household
+5+_members: Five and more members of household
+average_number_of_hh_members: Average number of memebers in the household
 buildings_T: Total number of buildings
 one_apartment: Number of buildings with one apartment
 two_apartments: Number of buildings with two apartments
