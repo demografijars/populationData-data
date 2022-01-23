@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "TYPE_OF_INSTITUTIONS",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Тип установа"
+            "title": "Врста установа"
           },
           {
             "name": "Value",

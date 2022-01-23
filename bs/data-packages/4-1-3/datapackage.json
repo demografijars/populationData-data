@@ -21,7 +21,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "TYPE_OF_INSTITUTIONS",
+            "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_INSTITUTIONS"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",

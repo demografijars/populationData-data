@@ -23,8 +23,7 @@ Teritory,Teritory,Teritory,Teritory,Teritory,4,70
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,4
 TYPE_OF_EDUCATION,TYPE_OF_EDUCATION,TYPE_OF_EDUCATION,TYPE_OF_EDUCATION,TYPE_OF_EDUCATION,3,8
 type_of_education,type_of_education,type_of_education,Врста образовања,type_of_education,1,11
-type_of_institution,Type of institution,Vrsta ustanove,type_of_institution,Vrsta ustanove,1,3
-TYPE_OF_INSTITUTIONS,TYPE_OF_INSTITUTIONS,TYPE_OF_INSTITUTIONS,Тип установа,TYPE_OF_INSTITUTIONS,1,2
+type_of_institution,Type of institution,Vrsta ustanove,Врста установа,Vrsta ustanove,2,5
 Type_of_school,Type_of_school,Type_of_school,Type_of_school,Type_of_school,2,6
 TYPE_OF_USERS,TYPE_OF_USERS,TYPE_OF_USERS,Врста корисника,TYPE_OF_USERS,4,7
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,117,31

@@ -2945,18 +2945,6 @@
       "schema": {
         "fields": [
           {
-            "name": "TYPE_OF_INSTITUTIONS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "adult_facilities",
-                "institutions_for_children_and_youth"
-              ]
-            },
-            "title": "TYPE_OF_INSTITUTIONS"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
@@ -2970,6 +2958,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "adult_facilities",
+                "institutions_for_children_and_youth"
+              ]
+            },
+            "title": "Type of institution"
           }
         ]
       },
