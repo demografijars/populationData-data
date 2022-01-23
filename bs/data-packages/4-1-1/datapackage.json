@@ -26,8 +26,8 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Maloljetni korisnici",
-                "Odrasli korisnici",
+                "underage_users",
+                "adult_users",
                 ""
               ]
             },
