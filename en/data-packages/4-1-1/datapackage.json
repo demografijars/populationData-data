@@ -11,7 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Type_of_user",
+            "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -21,7 +21,7 @@
                 "underage_users"
               ]
             },
-            "title": "Type_of_user"
+            "title": "TYPE_OF_USERS"
           },
           {
             "name": "UNIT_MEASURE",

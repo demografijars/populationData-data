@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "Type_of_user",
+            "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
