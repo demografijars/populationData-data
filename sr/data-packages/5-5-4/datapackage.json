@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "scientific_field",
@@ -26,20 +26,20 @@
             "constraints": {
               "enum": [
                 "TOTAL",
-                "social_sciences,_journalism_and_information",
-                "humanities_and_arts",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "education",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistic",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Хуманистичке науке и умјетност",
+                "Информационе и комуникационе технологије",
+                "Инжeњерство, производња и грађевинарство",
+                "Образовање",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Пословање, администрација и право",
+                "Природне науке,  математика и  статистика",
                 "servies",
-                "health_and_social_protection",
+                "Zdravstvo i socijalna zaštita",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "SEX",
@@ -48,7 +48,7 @@
               "enum": [
                 "M",
                 "Ж",
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -57,7 +57,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

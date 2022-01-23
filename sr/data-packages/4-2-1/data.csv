@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,TYPE_OF_USERS,Value
-2016,Број,total,36
-2017,Број,total,38
-2018,Број,total,52
-2019,Број,total,56
-2020,Број,total,61
-2016,Број,institutions_for_children_and_youth,4
-2017,Број,institutions_for_children_and_youth,4
-2018,Број,institutions_for_children_and_youth,4
-2019,Број,institutions_for_children_and_youth,4
-2020,Број,institutions_for_children_and_youth,4
-2016,Број,adult_facilities,32
-2017,Број,adult_facilities,34
-2018,Број,adult_facilities,48
-2019,Број,adult_facilities,52
-2020,Број,adult_facilities,57
+Year,UNIT_MEASURE,Врста корисника,Value
+2016,Број,Укупно,36
+2017,Број,Укупно,38
+2018,Број,Укупно,52
+2019,Број,Укупно,56
+2020,Број,Укупно,61
+2016,Број,Установе за дјецу и омладину,4
+2017,Број,Установе за дјецу и омладину,4
+2018,Број,Установе за дјецу и омладину,4
+2019,Број,Установе за дјецу и омладину,4
+2020,Број,Установе за дјецу и омладину,4
+2016,Број,Установе за одрасле,32
+2017,Број,Установе за одрасле,34
+2018,Број,Установе за одрасле,48
+2019,Број,Установе за одрасле,52
+2020,Број,Установе за одрасле,57

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "scientific_field",
@@ -26,29 +26,29 @@
             "constraints": {
               "enum": [
                 "TOTAL",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "services",
+                "Природне науке, математика и статистика",
+                "Инжeњерство, производња и грађевинарство",
+                "Информационе и комуникационе технологије",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Пословање, администрација и право",
+                "Образовање",
+                "Услуге",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Научна област"
           },
           {
             "name": "TYPE_OF_EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master's_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
-                "doctoral_students",
+                "Уписани на магистарске студије",
+                "Уписани на мастер студије",
+                "Уписани на специјалистичке студије",
+                "Докторанти",
                 ""
               ]
             },
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "Ж",
                 "M",
                 ""
@@ -70,7 +70,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

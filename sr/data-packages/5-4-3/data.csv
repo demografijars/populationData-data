@@ -1,49 +1,49 @@
-Year,UNIT_MEASURE,scientific_field,Value
-2016,Број,education,547
-2016,Број,humanities_and_arts,457
-2016,Број,"social_sciences,_business_and_law",2455
-2016,Број,"natural_sciences,_mathematics_and_informatics",458
-2016,Број,"engineering,_production_technologies_and_construction",449
-2016,Број,agriculture_and_veterinary_medicine,219
-2016,Број,health_and_social_protection,725
-2016,Број,services,164
-2017,Број,education,542
-2017,Број,humanities_and_arts,429
-2017,Број,"social_sciences,_business_and_law",725
-2017,Број,"business,_administration_and_law",1677
-2017,Број,"natural_sciences,_mathematics_and_informatics",209
-2017,Број,information_and_communication_technologie,262
-2017,Број,"engineering,_production_technologies_and_construction",367
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2017,Број,health_and_social_protection,547
-2017,Број,services,118
-2018,Број,education,459
-2018,Број,humanities_and_arts,403
-2018,Број,"social_sciences,_business_and_law",524
-2018,Број,"business,_administration_and_law",1320
-2018,Број,"natural_sciences,_mathematics_and_informatics",165
-2018,Број,information_and_communication_technologie,294
-2018,Број,"engineering,_production_technologies_and_construction",464
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2018,Број,health_and_social_protection,629
-2018,Број,services,101
-2019,Број,education,406
-2019,Број,humanities_and_arts,385
-2019,Број,"social_sciences,_business_and_law",482
-2019,Број,"business,_administration_and_law",1110
-2019,Број,"natural_sciences,_mathematics_and_informatics",168
-2019,Број,information_and_communication_technologie,231
-2019,Број,"engineering,_production_technologies_and_construction",461
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",238
-2019,Број,health_and_social_protection,534
-2019,Број,services,129
-2020,Број,education,336
-2020,Број,humanities_and_arts,433
-2020,Број,"social_sciences,_business_and_law",588
-2020,Број,"business,_administration_and_law",991
-2020,Број,"natural_sciences,_mathematics_and_informatics",166
-2020,Број,information_and_communication_technologie,254
-2020,Број,"engineering,_production_technologies_and_construction",438
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",229
-2020,Број,health_and_social_protection,590
-2020,Број,services,159
+Year,UNIT_MEASURE,Научна област,Value
+2016,Број,Образовање,547
+2016,Број,Хуманистичке науке и умјетност,457
+2016,Број,"Друштвене науке,пословање и право",2455
+2016,Број,"Пословање, администрација и право Природне науке, математика и информатика",458
+2016,Број,"Инжењеринг, производне технологије и грађевинарство",449
+2016,Број,Пољопривреда и ветеринарство,219
+2016,Број,Zdravstvo i socijalna zaštita,725
+2016,Број,Услуге,164
+2017,Број,Образовање,542
+2017,Број,Хуманистичке науке и умјетност,429
+2017,Број,"Друштвене науке,пословање и право",725
+2017,Број,"Пословање, администрација и право",1677
+2017,Број,"Пословање, администрација и право Природне науке, математика и информатика",209
+2017,Број,Информационе и комуникационе технологије,262
+2017,Број,"Инжењеринг, производне технологије и грађевинарство",367
+2017,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
+2017,Број,Zdravstvo i socijalna zaštita,547
+2017,Број,Услуге,118
+2018,Број,Образовање,459
+2018,Број,Хуманистичке науке и умјетност,403
+2018,Број,"Друштвене науке,пословање и право",524
+2018,Број,"Пословање, администрација и право",1320
+2018,Број,"Пословање, администрација и право Природне науке, математика и информатика",165
+2018,Број,Информационе и комуникационе технологије,294
+2018,Број,"Инжењеринг, производне технологије и грађевинарство",464
+2018,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
+2018,Број,Zdravstvo i socijalna zaštita,629
+2018,Број,Услуге,101
+2019,Број,Образовање,406
+2019,Број,Хуманистичке науке и умјетност,385
+2019,Број,"Друштвене науке,пословање и право",482
+2019,Број,"Пословање, администрација и право",1110
+2019,Број,"Пословање, администрација и право Природне науке, математика и информатика",168
+2019,Број,Информационе и комуникационе технологије,231
+2019,Број,"Инжењеринг, производне технологије и грађевинарство",461
+2019,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",238
+2019,Број,Zdravstvo i socijalna zaštita,534
+2019,Број,Услуге,129
+2020,Број,Образовање,336
+2020,Број,Хуманистичке науке и умјетност,433
+2020,Број,"Друштвене науке,пословање и право",588
+2020,Број,"Пословање, администрација и право",991
+2020,Број,"Пословање, администрација и право Природне науке, математика и информатика",166
+2020,Број,Информационе и комуникационе технологије,254
+2020,Број,"Инжењеринг, производне технологије и грађевинарство",438
+2020,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",229
+2020,Број,Zdravstvo i socijalna zaštita,590
+2020,Број,Услуге,159

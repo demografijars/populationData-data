@@ -1,77 +1,71 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-BANJA LUKA,BANJA LUKA,BANJA LUKA,BANJA LUKA,BANJA LUKA,17,3
-BERKOVICI,BERKOVICI,BERKOVICI,BERKOVICI,BERKOVICI,77,4
-BIJELJINA,BIJELJINA,BIJELJINA,BIJELJINA,BIJELJINA,17,3
-BILECA,BILECA,BILECA,BILECA,BILECA,17,3
-bileca,Bileca,Bileća,bileca,Bileća,60,1
-BRATUNAC,BRATUNAC,BRATUNAC,BRATUNAC,BRATUNAC,17,3
-bratunac,Bratunac,Bratunac,bratunac,Bratunac,60,1
-BROD,BROD,BROD,BROD,BROD,77,4
-CAJNICE,CAJNICE,CAJNICE,CAJNICE,CAJNICE,77,4
-CELINAC,CELINAC,CELINAC,CELINAC,CELINAC,77,4
-DERVENTA,DERVENTA,DERVENTA,DERVENTA,DERVENTA,17,3
-DOBOJ,DOBOJ,DOBOJ,DOBOJ,DOBOJ,17,3
-DONJI ZABAR,DONJI ZABAR,DONJI ZABAR,DONJI ZABAR,DONJI ZABAR,77,4
-FOCA,FOCA,FOCA,FOCA,FOCA,77,4
-GACKO,GACKO,GACKO,GACKO,GACKO,77,4
-GRAD BIJELJINA,GRAD BIJELJINA,GRAD BIJELJINA,GRAD BIJELJINA,GRAD BIJELJINA,60,1
-GRAD DERVENTA,GRAD DERVENTA,GRAD DERVENTA,GRAD DERVENTA,GRAD DERVENTA,60,1
-GRAD DOBOJ,GRAD DOBOJ,GRAD DOBOJ,GRAD DOBOJ,GRAD DOBOJ,60,1
-GRAD GRADISKA,GRAD GRADISKA,GRAD GRADISKA,GRAD GRADISKA,GRAD GRADISKA,60,1
+berkovici,Berkovici,Berkovići,Берковићи,Berkovići,77,4
+bileca,Bileca,Bileća,Билећа,Bileća,77,4
+bratunac,Bratunac,Bratunac,Братунац,Bratunac,77,4
+brod,Brod,Brod,Брод,Brod,77,4
+cajnice,Cajnice,Čajniče,Чајниче,Čajniče,77,4
+celinac,Celinac,Čelinac,Челинац,Čelinac,77,4
+donji_zabar,Donji Zabar,Donji Žabar,Доњи Жабар,Donji Žabar,77,4
+foca,Foca,Foča,Фоча,Foča,77,4
+gacko,Gacko,Gacko,Гацко,Gacko,77,4
+GRAD grad_bijeljina,GRAD grad_bijeljina,GRAD grad_bijeljina,GRAD grad_bijeljina,GRAD grad_bijeljina,60,1
+GRAD grad_derventa,GRAD grad_derventa,GRAD grad_derventa,GRAD grad_derventa,GRAD grad_derventa,60,1
+GRAD grad_gradiska,GRAD grad_gradiska,GRAD grad_gradiska,GRAD grad_gradiska,GRAD grad_gradiska,60,1
+GRAD grad_prijedor,GRAD grad_prijedor,GRAD grad_prijedor,GRAD grad_prijedor,GRAD grad_prijedor,60,1
+GRAD grad_trebinje,GRAD grad_trebinje,GRAD grad_trebinje,GRAD grad_trebinje,GRAD grad_trebinje,60,1
 GRAD ISTOCNO SARAJEVO,GRAD ISTOCNO SARAJEVO,GRAD ISTOCNO SARAJEVO,GRAD ISTOCNO SARAJEVO,GRAD ISTOCNO SARAJEVO,60,1
-GRAD PRIJEDOR,GRAD PRIJEDOR,GRAD PRIJEDOR,GRAD PRIJEDOR,GRAD PRIJEDOR,60,1
-GRAD TREBINJE,GRAD TREBINJE,GRAD TREBINJE,GRAD TREBINJE,GRAD TREBINJE,60,1
-GRAD ZVORNIK,GRAD ZVORNIK,GRAD ZVORNIK,GRAD ZVORNIK,GRAD ZVORNIK,60,1
-grad_banja_luka,City of Banja Luka,Grad Banja Luka,grad_banja_luka,Grad Banja Luka,60,1
-GRADISKA,GRADISKA,GRADISKA,GRADISKA,GRADISKA,17,3
-HAN PIJESAK,HAN PIJESAK,HAN PIJESAK,HAN PIJESAK,HAN PIJESAK,77,4
-ISTOCNA ILIDZA,ISTOCNA ILIDZA,ISTOCNA ILIDZA,ISTOCNA ILIDZA,ISTOCNA ILIDZA,77,4
-ISTOCNI DRVAR,ISTOCNI DRVAR,ISTOCNI DRVAR,ISTOCNI DRVAR,ISTOCNI DRVAR,77,4
-ISTOCNI MOSTAR,ISTOCNI MOSTAR,ISTOCNI MOSTAR,ISTOCNI MOSTAR,ISTOCNI MOSTAR,77,4
-ISTOCNI STARI GRAD,ISTOCNI STARI GRAD,ISTOCNI STARI GRAD,ISTOCNI STARI GRAD,ISTOCNI STARI GRAD,17,3
-ISTOCNO NOVO SARAJEVO,ISTOCNO NOVO SARAJEVO,ISTOCNO NOVO SARAJEVO,ISTOCNO NOVO SARAJEVO,ISTOCNO NOVO SARAJEVO,77,4
-ISTOČNI STARI GRAD,ISTOČNI STARI GRAD,ISTOČNI STARI GRAD,ISTOČNI STARI GRAD,ISTOČNI STARI GRAD,60,1
-JEZERO,JEZERO,JEZERO,JEZERO,JEZERO,77,4
-KALINOVIK,KALINOVIK,KALINOVIK,KALINOVIK,KALINOVIK,77,4
-KNEZEVO,KNEZEVO,KNEZEVO,KNEZEVO,KNEZEVO,77,4
-KOSTAJNICA,KOSTAJNICA,KOSTAJNICA,KOSTAJNICA,KOSTAJNICA,77,4
-KOTOR VAROS,KOTOR VAROS,KOTOR VAROS,KOTOR VAROS,KOTOR VAROS,77,4
-KOZARSKA DUBICA,KOZARSKA DUBICA,KOZARSKA DUBICA,KOZARSKA DUBICA,KOZARSKA DUBICA,77,4
-KRUPA NA UNI,KRUPA NA UNI,KRUPA NA UNI,KRUPA NA UNI,KRUPA NA UNI,77,4
-KUPRES,KUPRES,KUPRES,KUPRES,KUPRES,77,4
-LAKTASI,LAKTASI,LAKTASI,LAKTASI,LAKTASI,77,4
-LJUBINJE,LJUBINJE,LJUBINJE,LJUBINJE,LJUBINJE,77,4
-LOPARE,LOPARE,LOPARE,LOPARE,LOPARE,77,4
-MILICI,MILICI,MILICI,MILICI,MILICI,77,4
-MODRICA,MODRICA,MODRICA,MODRICA,MODRICA,77,4
-MRKONJIC GRAD,MRKONJIC GRAD,MRKONJIC GRAD,MRKONJIC GRAD,MRKONJIC GRAD,77,4
-NEVESINJE,NEVESINJE,NEVESINJE,NEVESINJE,NEVESINJE,77,4
-NOVI GRAD,NOVI GRAD,NOVI GRAD,NOVI GRAD,NOVI GRAD,77,4
-NOVO GORAZDE,NOVO GORAZDE,NOVO GORAZDE,NOVO GORAZDE,NOVO GORAZDE,77,4
-OSMACI,OSMACI,OSMACI,OSMACI,OSMACI,77,4
-OSTRA LUKA,OSTRA LUKA,OSTRA LUKA,OSTRA LUKA,OSTRA LUKA,77,4
-PALE,PALE,PALE,PALE,PALE,77,4
-PELAGICEVO,PELAGICEVO,PELAGICEVO,PELAGICEVO,PELAGICEVO,77,4
-PETROVAC,PETROVAC,PETROVAC,PETROVAC,PETROVAC,77,4
-PETROVO,PETROVO,PETROVO,PETROVO,PETROVO,77,4
-PRIJEDOR,PRIJEDOR,PRIJEDOR,PRIJEDOR,PRIJEDOR,17,3
-PRNJAVOR,PRNJAVOR,PRNJAVOR,PRNJAVOR,PRNJAVOR,77,4
-REPUBLIKA SRPSKA,REPUBLIKA SRPSKA,REPUBLIKA SRPSKA,REPUBLIKA SRPSKA,REPUBLIKA SRPSKA,77,4
-RIBNIK,RIBNIK,RIBNIK,RIBNIK,RIBNIK,77,4
-ROGATICA,ROGATICA,ROGATICA,ROGATICA,ROGATICA,77,4
-RUDO,RUDO,RUDO,RUDO,RUDO,77,4
-SAMAC,SAMAC,SAMAC,SAMAC,SAMAC,77,4
-SEKOVICI,SEKOVICI,SEKOVICI,SEKOVICI,SEKOVICI,77,4
-SIPOVO,SIPOVO,SIPOVO,SIPOVO,SIPOVO,77,4
-SOKOLAC,SOKOLAC,SOKOLAC,SOKOLAC,SOKOLAC,77,4
-SRBAC,SRBAC,SRBAC,SRBAC,SRBAC,77,4
-SREBRENICA,SREBRENICA,SREBRENICA,SREBRENICA,SREBRENICA,77,4
+grad_banja_luka,City of Banja Luka,Grad Banja Luka,Град Бања Лука,Grad Banja Luka,77,4
+grad_bijeljina,City of Bijeljina,Grad Bijeljina,Град Бијељина,Grad Bijeljina,17,3
+grad_derventa,City of Derventa,Grad Derventa,Град Дервента,Grad Derventa,17,3
+grad_doboj,City of Doboj,Grad Doboj,Град Добој,Grad Doboj,77,4
+grad_gradiska,City of Gradiska,Grad Gradiška,Град Градишка,Grad Gradiška,17,3
+grad_prijedor,City of Prijedor,Grad Prijedor,Град Приједор,Grad Prijedor,17,3
+grad_trebinje,City of Trebinje,Grad Trebinje,Град Требиње,Grad Trebinje,17,3
+grad_zvornik,City of Zvornik,Grad Zvornik,Град Зворник,Grad Zvornik,77,4
+han_pijesak,Han Pijesak,Han Pijesak,Хан Пијесак,Han Pijesak,77,4
+istocna_ilidza,East Ilidza,Istočna Ilidža,Источна Илиџа,Istočna Ilidža,77,4
+istocni_drvar,East Drvar,Istočni Drvar,Источни Дрвар,Istočni Drvar,77,4
+istocni_mostar,East Mostar,Istočni Mostar,Источни Мостар,Istočni Mostar,77,4
+istocni_stari_grad,East Stari Grad,Istočni Stari Grad,Источни Стари Град,Istočni Stari Grad,77,4
+istocno_novo_sarajevo,East Novo Sarajevo,Istočno Novo Sarajevo,Источно Ново Сарајево,Istočno Novo Sarajevo,77,4
+jezero,Jezero,Jezero,Језеро,Jezero,77,4
+kalinovik,Kalinovik,Kalinovik,Калиновик,Kalinovik,77,4
+knezevo,Knezevo,Kneževo,Кнежево,Kneževo,77,4
+kostajnica,Kostajnica,Kostajnica,Костајница,Kostajnica,77,4
+kotor_varos,Kotor Varos,Kotor Varoš,Котор Варош,Kotor Varoš,77,4
+kozarska_dubica,Kozarska Dubica,Kozarska Dubica,Козарска Дубица,Kozarska Dubica,77,4
+krupa_na_uni,Krupa Na Uni,Krupa Na Uni,Крупа на Уни,Krupa Na Uni,77,4
+kupres,Kupres,Kupres,Купрес,Kupres,77,4
+laktasi,Laktasi,Laktaši,Лакташи,Laktaši,77,4
+ljubinje,Ljubinje,Ljubinje,Љубиње,Ljubinje,77,4
+lopare,Lopare,Lopare,Лопаре,Lopare,77,4
+milici,Milici,Milići,Милићи,Milići,77,4
+modrica,Modrica,Modriča,Модрича,Modriča,77,4
+mrkonjic_grad,Mrkonjic Grad,Mrkonjić Grad,Мркоњић Град,Mrkonjić Grad,77,4
+nevesinje,Nevesinje,Nevesinje,Невесиње,Nevesinje,77,4
+novi_grad,Novi Grad,Novi Grad,Нови Град,Novi Grad,77,4
+novo_gorazde,Novo Gorazde,Novo Goražde,Ново Горажде,Novo Goražde,77,4
+osmaci,Osmaci,Osmaci,Осмаци,Osmaci,77,4
+ostra_luka,Ostra Luka,Oštra Luka,Оштра Лука,Oštra Luka,77,4
+pale,Pale,Pale,Пале,Pale,77,4
+pelagicevo,Pelagicevo,Pelagićevo,Пелагићево,Pelagićevo,77,4
+petrovac,Petrovac,Petrovac,Петровац,Petrovac,77,4
+petrovo,Petrovo,Petrovo,Петрово,Petrovo,77,4
+prnjavor,Prnjavor,Prnjavor,Прњавор,Prnjavor,77,4
+republika_srpska,Republika Srpska,Republika Srpska,Република Српска,Republika Srpska,77,4
+ribnik,Ribnik,Ribnik,Рибник,Ribnik,77,4
+rogatica,Rogatica,Rogatica,Рогатица,Rogatica,77,4
+rudo,Rudo,Rudo,Рудо,Rudo,77,4
+samac,Samac,Šamac,Шамац,Šamac,77,4
+sekovici,Sekovici,Šekovići,Шековићи,Šekovići,77,4
+sipovo,Sipovo,Šipovo,Шипово,Šipovo,77,4
+sokolac,Sokolac,Sokolac,Соколац,Sokolac,77,4
+srbac,Srbac,Srbac,Србац,Srbac,77,4
+srebrenica,Srebrenica,Srebrenica,Сребреница,Srebrenica,77,4
 STANARI,STANARI,STANARI,STANARI,STANARI,60,1
-TESLIC,TESLIC,TESLIC,TESLIC,TESLIC,77,4
-TREBINJE,TREBINJE,TREBINJE,TREBINJE,TREBINJE,17,3
-TRNOVO,TRNOVO,TRNOVO,TRNOVO,TRNOVO,77,4
-UGLJEVIK,UGLJEVIK,UGLJEVIK,UGLJEVIK,UGLJEVIK,77,4
-VISEGRAD,VISEGRAD,VISEGRAD,VISEGRAD,VISEGRAD,77,4
-VLASENICA,VLASENICA,VLASENICA,VLASENICA,VLASENICA,77,4
-VUKOSAVLJE,VUKOSAVLJE,VUKOSAVLJE,VUKOSAVLJE,VUKOSAVLJE,77,4
-ZVORNIK,ZVORNIK,ZVORNIK,ZVORNIK,ZVORNIK,17,3
+teslic,Teslic,Teslić,Теслић,Teslić,77,4
+trnovo,Trnovo,Trnovo,Трново,Trnovo,77,4
+ugljevik,Ugljevik,Ugljevik,Угљевик,Ugljevik,77,4
+visegrad,Visegrad,Višegrad,Вишеград,Višegrad,77,4
+vlasenica,Vlasenica,Vlasenica,Власеница,Vlasenica,77,4
+vukosavlje,Vukosavlje,Vukosavlje,Вукосавље,Vukosavlje,77,4

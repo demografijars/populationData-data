@@ -1,130 +1,130 @@
-Year,UNIT_MEASURE,scientific_field,Пол,Value
+Year,UNIT_MEASURE,Научна област,Пол,Value
 2017,Број,TOTAL,M,252
-2017,Број,"social_sciences,_journalism_and_information",M,45
-2017,Број,humanities_and_arts,M,49
-2017,Број,information_and_communication_technologies,M,14
-2017,Број,"engineering,_production_and_construction",M,17
-2017,Број,education,M,14
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,10
-2017,Број,"business,_administration_and_law",M,48
-2017,Број,"natural_sciences,_mathematics_and_statistic",M,6
+2017,Број,"Društvene nauke, novinarstvo i informisanje",M,45
+2017,Број,Хуманистичке науке и умјетност,M,49
+2017,Број,Информационе и комуникационе технологије,M,14
+2017,Број,"Инжeњерство, производња и грађевинарство",M,17
+2017,Број,Образовање,M,14
+2017,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,10
+2017,Број,"Пословање, администрација и право",M,48
+2017,Број,"Природне науке,  математика и  статистика",M,6
 2017,Број,servies,M,1
-2017,Број,health_and_social_protection,M,48
+2017,Број,Zdravstvo i socijalna zaštita,M,48
 2017,Број,TOTAL,Ж,282
-2017,Број,"social_sciences,_journalism_and_information",Ж,55
-2017,Број,humanities_and_arts,Ж,51
-2017,Број,information_and_communication_technologies,Ж,3
-2017,Број,"engineering,_production_and_construction",Ж,15
-2017,Број,education,Ж,37
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Ж,10
-2017,Број,"business,_administration_and_law",Ж,32
-2017,Број,"natural_sciences,_mathematics_and_statistic",Ж,9
+2017,Број,"Društvene nauke, novinarstvo i informisanje",Ж,55
+2017,Број,Хуманистичке науке и умјетност,Ж,51
+2017,Број,Информационе и комуникационе технологије,Ж,3
+2017,Број,"Инжeњерство, производња и грађевинарство",Ж,15
+2017,Број,Образовање,Ж,37
+2017,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ж,10
+2017,Број,"Пословање, администрација и право",Ж,32
+2017,Број,"Природне науке,  математика и  статистика",Ж,9
 2017,Број,servies,Ж,0
-2017,Број,health_and_social_protection,Ж,70
+2017,Број,Zdravstvo i socijalna zaštita,Ж,70
 2017,Број,TOTAL,Оба пола,534
-2017,Број,"social_sciences,_journalism_and_information",Оба пола,100
-2017,Број,humanities_and_arts,Оба пола,100
-2017,Број,information_and_communication_technologies,Оба пола,17
-2017,Број,"engineering,_production_and_construction",Оба пола,32
-2017,Број,education,Оба пола,51
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Оба пола,20
-2017,Број,"business,_administration_and_law",Оба пола,80
-2017,Број,"natural_sciences,_mathematics_and_statistic",Оба пола,15
+2017,Број,"Društvene nauke, novinarstvo i informisanje",Оба пола,100
+2017,Број,Хуманистичке науке и умјетност,Оба пола,100
+2017,Број,Информационе и комуникационе технологије,Оба пола,17
+2017,Број,"Инжeњерство, производња и грађевинарство",Оба пола,32
+2017,Број,Образовање,Оба пола,51
+2017,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Оба пола,20
+2017,Број,"Пословање, администрација и право",Оба пола,80
+2017,Број,"Природне науке,  математика и  статистика",Оба пола,15
 2017,Број,servies,Оба пола,1
-2017,Број,health_and_social_protection,Оба пола,118
+2017,Број,Zdravstvo i socijalna zaštita,Оба пола,118
 2018,Број,TOTAL,M,322
-2018,Број,"social_sciences,_journalism_and_information",M,64
-2018,Број,humanities_and_arts,M,46
-2018,Број,information_and_communication_technologies,M,5
-2018,Број,"engineering,_production_and_construction",M,17
-2018,Број,education,M,35
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,13
-2018,Број,"business,_administration_and_law",M,36
-2018,Број,"natural_sciences,_mathematics_and_statistic",M,18
+2018,Број,"Društvene nauke, novinarstvo i informisanje",M,64
+2018,Број,Хуманистичке науке и умјетност,M,46
+2018,Број,Информационе и комуникационе технологије,M,5
+2018,Број,"Инжeњерство, производња и грађевинарство",M,17
+2018,Број,Образовање,M,35
+2018,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,13
+2018,Број,"Пословање, администрација и право",M,36
+2018,Број,"Природне науке,  математика и  статистика",M,18
 2018,Број,servies,M,3
-2018,Број,health_and_social_protection,M,85
+2018,Број,Zdravstvo i socijalna zaštita,M,85
 2018,Број,TOTAL,Ж,208
-2018,Број,"social_sciences,_journalism_and_information",Ж,37
-2018,Број,humanities_and_arts,Ж,30
-2018,Број,information_and_communication_technologies,Ж,17
-2018,Број,"engineering,_production_and_construction",Ж,16
-2018,Број,education,Ж,20
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Ж,14
-2018,Број,"business,_administration_and_law",Ж,31
-2018,Број,"natural_sciences,_mathematics_and_statistic",Ж,5
+2018,Број,"Društvene nauke, novinarstvo i informisanje",Ж,37
+2018,Број,Хуманистичке науке и умјетност,Ж,30
+2018,Број,Информационе и комуникационе технологије,Ж,17
+2018,Број,"Инжeњерство, производња и грађевинарство",Ж,16
+2018,Број,Образовање,Ж,20
+2018,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ж,14
+2018,Број,"Пословање, администрација и право",Ж,31
+2018,Број,"Природне науке,  математика и  статистика",Ж,5
 2018,Број,servies,Ж,0
-2018,Број,health_and_social_protection,Ж,38
+2018,Број,Zdravstvo i socijalna zaštita,Ж,38
 2018,Број,TOTAL,Оба пола,530
-2018,Број,"social_sciences,_journalism_and_information",Оба пола,101
-2018,Број,humanities_and_arts,Оба пола,76
-2018,Број,information_and_communication_technologies,Оба пола,22
-2018,Број,"engineering,_production_and_construction",Оба пола,33
-2018,Број,education,Оба пола,55
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Оба пола,27
-2018,Број,"business,_administration_and_law",Оба пола,67
-2018,Број,"natural_sciences,_mathematics_and_statistic",Оба пола,23
+2018,Број,"Društvene nauke, novinarstvo i informisanje",Оба пола,101
+2018,Број,Хуманистичке науке и умјетност,Оба пола,76
+2018,Број,Информационе и комуникационе технологије,Оба пола,22
+2018,Број,"Инжeњерство, производња и грађевинарство",Оба пола,33
+2018,Број,Образовање,Оба пола,55
+2018,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Оба пола,27
+2018,Број,"Пословање, администрација и право",Оба пола,67
+2018,Број,"Природне науке,  математика и  статистика",Оба пола,23
 2018,Број,servies,Оба пола,3
-2018,Број,health_and_social_protection,Оба пола,123
+2018,Број,Zdravstvo i socijalna zaštita,Оба пола,123
 2019,Број,TOTAL,M,188
-2019,Број,"social_sciences,_journalism_and_information",M,65
-2019,Број,humanities_and_arts,M,21
-2019,Број,information_and_communication_technologies,M,6
-2019,Број,"engineering,_production_and_construction",M,12
-2019,Број,education,M,12
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,4
-2019,Број,"business,_administration_and_law",M,22
-2019,Број,"natural_sciences,_mathematics_and_statistic",M,9
+2019,Број,"Društvene nauke, novinarstvo i informisanje",M,65
+2019,Број,Хуманистичке науке и умјетност,M,21
+2019,Број,Информационе и комуникационе технологије,M,6
+2019,Број,"Инжeњерство, производња и грађевинарство",M,12
+2019,Број,Образовање,M,12
+2019,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,4
+2019,Број,"Пословање, администрација и право",M,22
+2019,Број,"Природне науке,  математика и  статистика",M,9
 2019,Број,servies,M,1
-2019,Број,health_and_social_protection,M,36
+2019,Број,Zdravstvo i socijalna zaštita,M,36
 2019,Број,TOTAL,Ж,278
-2019,Број,"social_sciences,_journalism_and_information",Ж,83
-2019,Број,humanities_and_arts,Ж,38
-2019,Број,information_and_communication_technologies,Ж,4
-2019,Број,"engineering,_production_and_construction",Ж,18
-2019,Број,education,Ж,36
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Ж,7
-2019,Број,"business,_administration_and_law",Ж,13
-2019,Број,"natural_sciences,_mathematics_and_statistic",Ж,15
+2019,Број,"Društvene nauke, novinarstvo i informisanje",Ж,83
+2019,Број,Хуманистичке науке и умјетност,Ж,38
+2019,Број,Информационе и комуникационе технологије,Ж,4
+2019,Број,"Инжeњерство, производња и грађевинарство",Ж,18
+2019,Број,Образовање,Ж,36
+2019,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ж,7
+2019,Број,"Пословање, администрација и право",Ж,13
+2019,Број,"Природне науке,  математика и  статистика",Ж,15
 2019,Број,servies,Ж,0
-2019,Број,health_and_social_protection,Ж,64
+2019,Број,Zdravstvo i socijalna zaštita,Ж,64
 2019,Број,TOTAL,Оба пола,466
-2019,Број,"social_sciences,_journalism_and_information",Оба пола,148
-2019,Број,humanities_and_arts,Оба пола,59
-2019,Број,information_and_communication_technologies,Оба пола,10
-2019,Број,"engineering,_production_and_construction",Оба пола,30
-2019,Број,education,Оба пола,48
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Оба пола,11
-2019,Број,"business,_administration_and_law",Оба пола,35
-2019,Број,"natural_sciences,_mathematics_and_statistic",Оба пола,24
+2019,Број,"Društvene nauke, novinarstvo i informisanje",Оба пола,148
+2019,Број,Хуманистичке науке и умјетност,Оба пола,59
+2019,Број,Информационе и комуникационе технологије,Оба пола,10
+2019,Број,"Инжeњерство, производња и грађевинарство",Оба пола,30
+2019,Број,Образовање,Оба пола,48
+2019,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Оба пола,11
+2019,Број,"Пословање, администрација и право",Оба пола,35
+2019,Број,"Природне науке,  математика и  статистика",Оба пола,24
 2019,Број,servies,Оба пола,1
-2019,Број,health_and_social_protection,Оба пола,100
+2019,Број,Zdravstvo i socijalna zaštita,Оба пола,100
 2020,Број,TOTAL,M,156
-2020,Број,"social_sciences,_journalism_and_information",M,41
-2020,Број,humanities_and_arts,M,20
-2020,Број,information_and_communication_technologies,M,9
-2020,Број,"engineering,_production_and_construction",M,15
-2020,Број,education,M,7
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,13
-2020,Број,"business,_administration_and_law",M,13
-2020,Број,"natural_sciences,_mathematics_and_statistic",M,6
-2020,Број,health_and_social_protection,M,32
+2020,Број,"Društvene nauke, novinarstvo i informisanje",M,41
+2020,Број,Хуманистичке науке и умјетност,M,20
+2020,Број,Информационе и комуникационе технологије,M,9
+2020,Број,"Инжeњерство, производња и грађевинарство",M,15
+2020,Број,Образовање,M,7
+2020,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",M,13
+2020,Број,"Пословање, администрација и право",M,13
+2020,Број,"Природне науке,  математика и  статистика",M,6
+2020,Број,Zdravstvo i socijalna zaštita,M,32
 2020,Број,TOTAL,Ж,228
-2020,Број,"social_sciences,_journalism_and_information",Ж,45
-2020,Број,humanities_and_arts,Ж,45
-2020,Број,information_and_communication_technologies,Ж,2
-2020,Број,"engineering,_production_and_construction",Ж,15
-2020,Број,education,Ж,22
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Ж,7
-2020,Број,"business,_administration_and_law",Ж,15
-2020,Број,"natural_sciences,_mathematics_and_statistic",Ж,14
-2020,Број,health_and_social_protection,Ж,63
+2020,Број,"Društvene nauke, novinarstvo i informisanje",Ж,45
+2020,Број,Хуманистичке науке и умјетност,Ж,45
+2020,Број,Информационе и комуникационе технологије,Ж,2
+2020,Број,"Инжeњерство, производња и грађевинарство",Ж,15
+2020,Број,Образовање,Ж,22
+2020,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Ж,7
+2020,Број,"Пословање, администрација и право",Ж,15
+2020,Број,"Природне науке,  математика и  статистика",Ж,14
+2020,Број,Zdravstvo i socijalna zaštita,Ж,63
 2020,Број,TOTAL,Оба пола,384
-2020,Број,"social_sciences,_journalism_and_information",Оба пола,86
-2020,Број,humanities_and_arts,Оба пола,65
-2020,Број,information_and_communication_technologies,Оба пола,11
-2020,Број,"engineering,_production_and_construction",Оба пола,30
-2020,Број,education,Оба пола,29
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Оба пола,20
-2020,Број,"business,_administration_and_law",Оба пола,28
-2020,Број,"natural_sciences,_mathematics_and_statistic",Оба пола,20
-2020,Број,health_and_social_protection,Оба пола,95
+2020,Број,"Društvene nauke, novinarstvo i informisanje",Оба пола,86
+2020,Број,Хуманистичке науке и умјетност,Оба пола,65
+2020,Број,Информационе и комуникационе технологије,Оба пола,11
+2020,Број,"Инжeњерство, производња и грађевинарство",Оба пола,30
+2020,Број,Образовање,Оба пола,29
+2020,Број,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Оба пола,20
+2020,Број,"Пословање, администрација и право",Оба пола,28
+2020,Број,"Природне науке,  математика и  статистика",Оба пола,20
+2020,Број,Zdravstvo i socijalna zaštita,Оба пола,95

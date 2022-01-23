@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -38,36 +38,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "infectious_and_parasitic_diseases",
-                "neoplasms",
-                "diseases_of_the_blood_and_blood_forming_organs",
-                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
-                "mental_disorders_and_behavioral_disorders",
-                "diseases_of_the_nervous_system",
-                "eye_diseases_and_eye_soldering_disease",
-                "diseases_of_ear_and_mastoid_process",
-                "diseases_of_the_circulatory_system",
-                "diseases_of_the_respiratory_system",
-                "diseases_of_the_digestive_system",
-                "skin_and_subcutaneous_tissue_disorders",
-                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
-                "diseases_of_the_genitourinary_system",
-                "certain_conditions_occurred_in_the_perinatal_period",
-                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
-                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
-                "injuries_poisonings_and_consequences_of_external_factors",
-                "special_purpose_codes",
-                "pregnancy_childbirth_and_puerperium",
+                "Укупно",
+                "Инфективне и паразитске болести (А00–B99)",
+                "Неоплазме (C00–D48)",
+                "Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89)",
+                "Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)",
+                "Душевни поремећаји и поремећаји понашања (F00–F99)",
+                "Болести нервног система (G00–G99)",
+                "Болести ока и припојка ока (H00–H59)",
+                "Болести ува и мастоидног наставка (H60–H93)",
+                "Болести циркулаторног система (I00–I99)",
+                "Болести респираторног система (Ј00–Ј99)",
+                "Болести дигестивног система (К00–К92)",
+                "Болести коже и поткожног ткива (L00–L98)",
+                "Болести мишићно-коштаног система и везивног ткива (М00–М99)",
+                "Болести генитоуринарног система (N00–N98)",
+                "Одређена стања настала у перинаталном периоду (P00–P96)",
+                "Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)",
+                "Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)",
+                "Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)",
+                "Шифре за посебне намјене (U00-U85)",
+                "Трудноћа, порођај и пуерперијум (О00–О99)",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Узрок смрти (према шифрама болести по МКБ-10)"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

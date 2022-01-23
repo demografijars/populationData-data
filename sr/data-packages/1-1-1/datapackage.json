@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 ""
               ]
             },
@@ -36,18 +36,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Живорођени",
+                "Смртни случајеви",
+                "Природно кретање",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Витална статистика"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

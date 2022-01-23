@@ -1,6 +1,6 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-adult_facilities,adult_facilities,adult_facilities,adult_facilities,adult_facilities,1,1
-institutions_for_children_and_youth,institutions_for_children_and_youth,institutions_for_children_and_youth,institutions_for_children_and_youth,institutions_for_children_and_youth,1,1
-number_of_children,number_of_children,number_of_children,number_of_children,number_of_children,1,1
-number_of_users,number_of_users,number_of_users,number_of_users,number_of_users,1,1
-total,Total,Ukupno,total,Ukupno,1,1
+adult_facilities,adult_facilities,adult_facilities,Установе за одрасле,adult_facilities,1,1
+institutions_for_children_and_youth,institutions_for_children_and_youth,institutions_for_children_and_youth,Установе за дјецу и омладину,institutions_for_children_and_youth,1,1
+number_of_children,number_of_children,number_of_children,Број дјеце,number_of_children,1,1
+number_of_users,number_of_users,number_of_users,Број корисника,number_of_users,1,1
+total,Total,Ukupno,Укупно,Ukupno,1,1

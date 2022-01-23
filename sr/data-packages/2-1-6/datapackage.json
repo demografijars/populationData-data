@@ -13,33 +13,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "Укупан омјер економске подршке",
+                "Омјер економске подршке младима",
+                "Омјер економске подршке старијим лицима",
+                "Омјер старијих и младих",
                 ""
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Тип односа зависности"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -50,7 +50,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

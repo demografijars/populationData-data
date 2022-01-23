@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_high_school_graduates_by_gender",
+                "Број ученика који су завршили средњу школу по полу",
                 ""
               ]
             },
@@ -36,7 +36,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "F",
                 ""
@@ -47,7 +47,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

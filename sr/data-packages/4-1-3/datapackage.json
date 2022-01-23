@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_INSTITUTIONS",
             "type": "string",
             "constraints": {
               "enum": [
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Установе за дјецу и омладину",
+                "Установе за одрасле",
                 ""
               ]
             },
-            "title": "TYPE_OF_INSTITUTIONS"
+            "title": "Тип установа"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

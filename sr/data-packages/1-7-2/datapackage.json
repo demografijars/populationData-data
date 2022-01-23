@@ -13,14 +13,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "Број",
                 ""
               ]
             },
@@ -29,14 +29,14 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "0",
                 "1-4",
                 "5-9",
@@ -66,12 +66,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Старосна доб"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

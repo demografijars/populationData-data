@@ -1,4 +1,4 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-adult_users,adult_users,adult_users,adult_users,adult_users,4,2
-total,Total,Ukupno,total,Ukupno,4,2
-underage_users,underage_users,underage_users,underage_users,underage_users,4,2
+adult_users,adult_users,adult_users,Пунољетни корисници,adult_users,4,2
+total,Total,Ukupno,Укупно,Ukupno,4,2
+underage_users,underage_users,underage_users,Малољетни корисници,underage_users,4,2

@@ -13,21 +13,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_EDUCATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master's_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Уписани на магистарске студије",
+                "Уписани на мастер студије",
+                "Уписани на специјалистичке студије",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "Ж",
                 ""
               ]
@@ -48,7 +48,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

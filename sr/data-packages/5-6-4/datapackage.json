@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "type_of_education",
@@ -26,27 +26,27 @@
             "constraints": {
               "enum": [
                 "TOTAL",
-                "education",
-                "humanities_and_arts",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologie",
-                "engineering,_production_and_construction",
+                "Образовање",
+                "Хуманистичке науке и умјетност",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Пословање, администрација и право",
+                "Природне науке, математика и статистика",
+                "Информационе и комуникационе технологије",
+                "Инжeњерство, производња и грађевинарство",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
-                "health_and_social_protection",
-                "services",
+                "Zdravstvo i socijalna zaštita",
+                "Услуге",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Врста образовања"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -57,7 +57,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }
