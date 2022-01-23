@@ -23,16 +23,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_high_school_graduates_by_gender",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "_T",
                 "M",
                 "F",

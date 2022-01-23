@@ -25,24 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_high_school_graduates_by_gender",
+                "Ukupno",
+                "M",
+                "Ž",
                 ""
               ]
             },
             "title": "Spol"
-          },
-          {
-            "name": "SEX.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX.1"
           },
           {
             "name": "Value",

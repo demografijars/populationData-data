@@ -1,13 +1,13 @@
-Year,UNIT_MEASURE,Sex,SEX.1,Value
-2017,Number,number_of_high_school_graduates_by_gender,Total,10642
-2017,Number,number_of_high_school_graduates_by_gender,M,5418
-2017,Number,number_of_high_school_graduates_by_gender,F,5224
-2018,Number,number_of_high_school_graduates_by_gender,Total,10440
-2018,Number,number_of_high_school_graduates_by_gender,M,5284
-2018,Number,number_of_high_school_graduates_by_gender,F,5156
-2019,Number,number_of_high_school_graduates_by_gender,Total,10471
-2019,Number,number_of_high_school_graduates_by_gender,M,5344
-2019,Number,number_of_high_school_graduates_by_gender,F,5127
-2020,Number,number_of_high_school_graduates_by_gender,Total,9888
-2020,Number,number_of_high_school_graduates_by_gender,M,5116
-2020,Number,number_of_high_school_graduates_by_gender,F,4772
+Year,UNIT_MEASURE,Sex,Value
+2017,Number,Both sexes,10642
+2017,Number,M,5418
+2017,Number,F,5224
+2018,Number,Both sexes,10440
+2018,Number,M,5284
+2018,Number,F,5156
+2019,Number,Both sexes,10471
+2019,Number,M,5344
+2019,Number,F,5127
+2020,Number,Both sexes,9888
+2020,Number,M,5116
+2020,Number,F,4772

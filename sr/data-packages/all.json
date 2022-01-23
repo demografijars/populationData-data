@@ -3477,24 +3477,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Број ученика који су завршили средњу школу по полу",
+                "Укупно",
+                "M",
+                "Ж",
                 ""
               ]
             },
             "title": "Пол"
-          },
-          {
-            "name": "SEX.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "M",
-                "F",
-                ""
-              ]
-            },
-            "title": "SEX.1"
           },
           {
             "name": "Value",
