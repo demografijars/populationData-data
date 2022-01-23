@@ -21,21 +21,6 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "Type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "Domovi za djecu i mlade bez roditeljske skrbi",
-                "Ustanove socijalne skrbi za djecu, mlade i odrasle s mentalnim i fizičkim invaliditetom",
-                "Ustanove socijalne skrbi za odrasle osobe s invaliditetom",
-                "Ustanove socijalne skrbi za odrasle",
-                ""
-              ]
-            },
-            "title": "Type_of_institution"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {

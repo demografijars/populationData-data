@@ -24,21 +24,6 @@
             "title": "Sex"
           },
           {
-            "name": "Type_of_institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Social protection institutions for children, youth and adults with mental and physical disabilities",
-                "Homes for children and youth without parental care",
-                "Social welfare institutions for adults",
-                "Social welfare institutions for adults with disabilities"
-              ]
-            },
-            "title": "Type_of_institution"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
