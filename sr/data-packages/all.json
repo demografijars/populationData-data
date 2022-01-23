@@ -2502,9 +2502,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "minor_beneficiaries",
-                "adult_beneficiaries",
+                "total",
+                "underage_users",
+                "adult_users",
                 ""
               ]
             },

@@ -2503,8 +2503,8 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Malodobni korisnici",
-                "Odrasli korisnici",
+                "underage_users",
+                "adult_users",
                 ""
               ]
             },

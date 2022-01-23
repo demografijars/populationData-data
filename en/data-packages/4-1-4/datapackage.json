@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
+                "adult_users",
                 "Total",
-                "Adult beneficiaries",
-                "Minor beneficiaries"
+                "underage_users"
               ]
             },
             "title": "Type_of_user"
