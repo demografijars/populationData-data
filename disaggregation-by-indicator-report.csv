@@ -32,17 +32,17 @@ Indicator,Disaggregations,Number of disaggregations
 #1-7-8,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
 #1-8-1,"UNIT_MEASURE, SEX, AGE",3
 #1-8-2,"UNIT_MEASURE, SEX, AGE",3
-#1-8-3,"UNIT_MEASURE, Teritory, SEX, AGE",4
+#1-8-3,"UNIT_MEASURE, SEX, Teritory, AGE",4
 #2-1-1,"UNIT_MEASURE, SEX, AGE",3
 #2-1-2,"UNIT_MEASURE, SEX, AGE",3
 #2-1-3,"UNIT_MEASURE, SEX, AGE, Municipality",4
 #2-1-4,"UNIT_MEASURE, PYRAMID_SEX, PYRAMID_AGE",3
-#2-1-5,"UNIT_MEASURE, Teritory, SEX, BIRTHS",4
+#2-1-5,"UNIT_MEASURE, SEX, Teritory, BIRTHS",4
 #2-1-6,"UNIT_MEASURE, SEX, TYPE_OF_DEPENDENCY_RATIO",3
 #2-2-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Nationality",4
 #2-2-2,"UNIT_MEASURE, SEX, ADMIN_AREA, Religion",4
 #2-2-3,"UNIT_MEASURE, SEX, ADMIN_AREA, Mother tounge",4
-#2-3-1,"UNIT_MEASURE, Teritory, SEX, household_members",4
+#2-3-1,"UNIT_MEASURE, SEX, Teritory, household_members",4
 #2-3-2,"UNIT_MEASURE, Teritory, Agricultural households",3
 #2-4-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Literacy",4
 #2-4-2,"UNIT_MEASURE, SEX, ADMIN_AREA, Education",4
@@ -96,6 +96,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,"UNIT_MEASURE, SEX",2
 #5-4-2,"UNIT_MEASURE, SEX",2
 #5-4-3,"UNIT_MEASURE, scientific_field",2
+#5-5-3,"UNIT_MEASURE, TYPE_OF_EDUCATION, SEX",3
 #5-5-4,"UNIT_MEASURE, SEX, scientific_field",3
 #5-6-3,"UNIT_MEASURE, SEX",2
 #5-6-4,"UNIT_MEASURE, SEX, type_of_education",3

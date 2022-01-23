@@ -72,7 +72,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -81,10 +81,27 @@
             "title": "UNIT_MEASURE"
           },
           {
+            "name": "TYPE_OF_EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "masters_of_science",
+                "masters",
+                "specialists",
+                "doctors",
+                ""
+              ]
+            },
+            "title": "TYPE_OF_EDUCATION"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "_T",
+                "Ж",
+                "M",
                 ""
               ]
             },
@@ -92,7 +109,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]

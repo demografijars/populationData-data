@@ -1,12 +1,5 @@
 Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-"agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ",3,1
-"business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","business,_administration_and_law",3,1
-education,education,education,education,education,3,1
-"engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction",3,1
-health_and_social_protection,health_and_social_protection,health_and_social_protection,health_and_social_protection,health_and_social_protection,3,1
-humanities_and_arts,humanities_and_arts,humanities_and_arts,humanities_and_arts,humanities_and_arts,3,1
-information_and_communication_technologie,information_and_communication_technologie,information_and_communication_technologie,information_and_communication_technologie,information_and_communication_technologie,3,1
-"natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics",3,1
-services,services,services,services,services,3,1
-"social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information",3,1
-TOTAL,TOTAL,TOTAL,TOTAL,TOTAL,3,1
+doctors,doctors,doctors,doctors,doctors,3,1
+masters,masters,masters,masters,masters,3,1
+masters_of_science,masters_of_science,masters_of_science,masters_of_science,masters_of_science,3,1
+specialists,specialists,specialists,specialists,specialists,3,1

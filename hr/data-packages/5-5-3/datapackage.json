@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -21,10 +21,27 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "TYPE_OF_EDUCATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "masters_of_science",
+                "masters",
+                "specialists",
+                "doctors",
+                ""
+              ]
+            },
+            "title": "TYPE_OF_EDUCATION"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukupno",
+                "Ž",
+                "M",
                 ""
               ]
             },
@@ -32,7 +49,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]
