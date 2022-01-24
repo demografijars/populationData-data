@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
-2017,Number,TOTAL,enrolled_in_master's_studies,Both sexes,2140
+2017,Number,Total,enrolled_in_master's_studies,Both sexes,2140
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,67
 2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,347
 2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,99
@@ -10,7 +10,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master's_studies,Both sexes,236
 2017,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,319
 2017,Number,services,enrolled_in_master's_studies,Both sexes,2
-2017,Number,TOTAL,enrolled_in_master's_studies,M,917
+2017,Number,Total,enrolled_in_master's_studies,M,917
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,26
 2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,208
 2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,80
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master's_studies,M,39
 2017,Number,humanities_and_arts,enrolled_in_master's_studies,M,142
 2017,Number,services,enrolled_in_master's_studies,M,0
-2017,Number,TOTAL,enrolled_in_master's_studies,F,1223
+2017,Number,Total,enrolled_in_master's_studies,F,1223
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,41
 2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,139
 2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,19
@@ -32,7 +32,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master's_studies,F,197
 2017,Number,humanities_and_arts,enrolled_in_master's_studies,F,177
 2017,Number,services,enrolled_in_master's_studies,F,2
-2017,Number,TOTAL,enrolled_in_master_studies,Both sexes,31
+2017,Number,Total,enrolled_in_master_studies,Both sexes,31
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,1
 2017,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,0
 2017,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,22
@@ -43,7 +43,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master_studies,Both sexes,1
 2017,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,5
 2017,Number,services,enrolled_in_master_studies,Both sexes,0
-2017,Number,TOTAL,enrolled_in_master_studies,M,21
+2017,Number,Total,enrolled_in_master_studies,M,21
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,0
 2017,Number,"engineering,_production_and_construction",enrolled_in_master_studies,M,0
 2017,Number,information_and_communication_technologies,enrolled_in_master_studies,M,14
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master_studies,M,0
 2017,Number,humanities_and_arts,enrolled_in_master_studies,M,5
 2017,Number,services,enrolled_in_master_studies,M,0
-2017,Number,TOTAL,enrolled_in_master_studies,F,10
+2017,Number,Total,enrolled_in_master_studies,F,10
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,1
 2017,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,0
 2017,Number,information_and_communication_technologies,enrolled_in_master_studies,F,8
@@ -65,7 +65,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_master_studies,F,1
 2017,Number,humanities_and_arts,enrolled_in_master_studies,F,0
 2017,Number,services,enrolled_in_master_studies,F,0
-2017,Number,TOTAL,enrolled_in_specialist_studies,Both sexes,73
+2017,Number,Total,enrolled_in_specialist_studies,Both sexes,73
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
 2017,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,Both sexes,0
 2017,Number,information_and_communication_technologies,enrolled_in_specialist_studies,Both sexes,0
@@ -76,7 +76,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_specialist_studies,Both sexes,0
 2017,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
 2017,Number,services,enrolled_in_specialist_studies,Both sexes,0
-2017,Number,TOTAL,enrolled_in_specialist_studies,M,34
+2017,Number,Total,enrolled_in_specialist_studies,M,34
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2017,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2017,Number,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_specialist_studies,M,0
 2017,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
 2017,Number,services,enrolled_in_specialist_studies,M,0
-2017,Number,TOTAL,enrolled_in_specialist_studies,F,39
+2017,Number,Total,enrolled_in_specialist_studies,F,39
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
 2017,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,F,0
 2017,Number,information_and_communication_technologies,enrolled_in_specialist_studies,F,0
@@ -98,7 +98,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,enrolled_in_specialist_studies,F,0
 2017,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
 2017,Number,services,enrolled_in_specialist_studies,F,0
-2017,Number,TOTAL,doctoral_students,Both sexes,130
+2017,Number,Total,doctoral_students,Both sexes,130
 2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,10
 2017,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,4
 2017,Number,information_and_communication_technologies,doctoral_students,Both sexes,12
@@ -109,7 +109,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,doctoral_students,Both sexes,0
 2017,Number,humanities_and_arts,doctoral_students,Both sexes,10
 2017,Number,services,doctoral_students,Both sexes,0
-2017,Number,TOTAL,doctoral_students,M,70
+2017,Number,Total,doctoral_students,M,70
 2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,6
 2017,Number,"engineering,_production_and_construction",doctoral_students,M,3
 2017,Number,information_and_communication_technologies,doctoral_students,M,9
@@ -120,7 +120,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,doctoral_students,M,0
 2017,Number,humanities_and_arts,doctoral_students,M,9
 2017,Number,services,doctoral_students,M,0
-2017,Number,TOTAL,doctoral_students,F,60
+2017,Number,Total,doctoral_students,F,60
 2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
 2017,Number,"engineering,_production_and_construction",doctoral_students,F,1
 2017,Number,information_and_communication_technologies,doctoral_students,F,3
@@ -131,7 +131,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,education,doctoral_students,F,0
 2017,Number,humanities_and_arts,doctoral_students,F,1
 2017,Number,services,doctoral_students,F,0
-2018,Number,TOTAL,enrolled_in_master's_studies,Both sexes,14
+2018,Number,Total,enrolled_in_master's_studies,Both sexes,14
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,0
 2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
@@ -142,7 +142,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master's_studies,Both sexes,9
 2018,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,3
 2018,Number,services,enrolled_in_master's_studies,Both sexes,0
-2018,Number,TOTAL,enrolled_in_master's_studies,M,6
+2018,Number,Total,enrolled_in_master's_studies,M,6
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
 2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
@@ -153,7 +153,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master's_studies,M,2
 2018,Number,humanities_and_arts,enrolled_in_master's_studies,M,3
 2018,Number,services,enrolled_in_master's_studies,M,0
-2018,Number,TOTAL,enrolled_in_master's_studies,F,8
+2018,Number,Total,enrolled_in_master's_studies,F,8
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,0
 2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
@@ -164,7 +164,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master's_studies,F,7
 2018,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
 2018,Number,services,enrolled_in_master's_studies,F,0
-2018,Number,TOTAL,enrolled_in_master_studies,Both sexes,2 144
+2018,Number,Total,enrolled_in_master_studies,Both sexes,2 144
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,76
 2018,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,362
 2018,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,120
@@ -175,7 +175,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master_studies,Both sexes,314
 2018,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,291
 2018,Number,services,enrolled_in_master_studies,Both sexes,7
-2018,Number,TOTAL,enrolled_in_master_studies,M,937
+2018,Number,Total,enrolled_in_master_studies,M,937
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,28
 2018,Number,"engineering,_production_and_construction",enrolled_in_master_studies,M,229
 2018,Number,information_and_communication_technologies,enrolled_in_master_studies,M,83
@@ -186,7 +186,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master_studies,M,103
 2018,Number,humanities_and_arts,enrolled_in_master_studies,M,133
 2018,Number,services,enrolled_in_master_studies,M,3
-2018,Number,TOTAL,enrolled_in_master_studies,F,1 207
+2018,Number,Total,enrolled_in_master_studies,F,1 207
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,48
 2018,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,133
 2018,Number,information_and_communication_technologies,enrolled_in_master_studies,F,37
@@ -197,7 +197,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_master_studies,F,211
 2018,Number,humanities_and_arts,enrolled_in_master_studies,F,158
 2018,Number,services,enrolled_in_master_studies,F,4
-2018,Number,TOTAL,enrolled_in_specialist_studies,Both sexes,160
+2018,Number,Total,enrolled_in_specialist_studies,Both sexes,160
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,Both sexes,0
 2018,Number,information_and_communication_technologies,enrolled_in_specialist_studies,Both sexes,0
@@ -208,7 +208,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_specialist_studies,Both sexes,2
 2018,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,1
 2018,Number,services,enrolled_in_specialist_studies,Both sexes,0
-2018,Number,TOTAL,enrolled_in_specialist_studies,M,66
+2018,Number,Total,enrolled_in_specialist_studies,M,66
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2018,Number,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -219,7 +219,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_specialist_studies,M,0
 2018,Number,humanities_and_arts,enrolled_in_specialist_studies,M,1
 2018,Number,services,enrolled_in_specialist_studies,M,0
-2018,Number,TOTAL,enrolled_in_specialist_studies,F,94
+2018,Number,Total,enrolled_in_specialist_studies,F,94
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
 2018,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,F,0
 2018,Number,information_and_communication_technologies,enrolled_in_specialist_studies,F,0
@@ -230,7 +230,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,enrolled_in_specialist_studies,F,2
 2018,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
 2018,Number,services,enrolled_in_specialist_studies,F,0
-2018,Number,TOTAL,doctoral_students,Both sexes,119
+2018,Number,Total,doctoral_students,Both sexes,119
 2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,8
 2018,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,3
 2018,Number,information_and_communication_technologies,doctoral_students,Both sexes,11
@@ -241,7 +241,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,doctoral_students,Both sexes,3
 2018,Number,humanities_and_arts,doctoral_students,Both sexes,22
 2018,Number,services,doctoral_students,Both sexes,0
-2018,Number,TOTAL,doctoral_students,M,56
+2018,Number,Total,doctoral_students,M,56
 2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,3
 2018,Number,"engineering,_production_and_construction",doctoral_students,M,2
 2018,Number,information_and_communication_technologies,doctoral_students,M,11
@@ -252,7 +252,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,doctoral_students,M,3
 2018,Number,humanities_and_arts,doctoral_students,M,10
 2018,Number,services,doctoral_students,M,0
-2018,Number,TOTAL,doctoral_students,F,63
+2018,Number,Total,doctoral_students,F,63
 2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,5
 2018,Number,"engineering,_production_and_construction",doctoral_students,F,1
 2018,Number,information_and_communication_technologies,doctoral_students,F,0
@@ -263,7 +263,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,education,doctoral_students,F,0
 2018,Number,humanities_and_arts,doctoral_students,F,12
 2018,Number,services,doctoral_students,F,0
-2019,Number,TOTAL,enrolled_in_master's_studies,Both sexes,16
+2019,Number,Total,enrolled_in_master's_studies,Both sexes,16
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,13
 2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
@@ -274,7 +274,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master's_studies,Both sexes,2
 2019,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,1
 2019,Number,services,enrolled_in_master's_studies,Both sexes,0
-2019,Number,TOTAL,enrolled_in_master's_studies,M,12
+2019,Number,Total,enrolled_in_master's_studies,M,12
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,10
 2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
@@ -285,7 +285,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master's_studies,M,1
 2019,Number,humanities_and_arts,enrolled_in_master's_studies,M,1
 2019,Number,services,enrolled_in_master's_studies,M,0
-2019,Number,TOTAL,enrolled_in_master's_studies,F,4
+2019,Number,Total,enrolled_in_master's_studies,F,4
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,3
 2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
@@ -296,7 +296,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master's_studies,F,1
 2019,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
 2019,Number,services,enrolled_in_master's_studies,F,0
-2019,Number,TOTAL,enrolled_in_master_studies,Both sexes,2 109
+2019,Number,Total,enrolled_in_master_studies,Both sexes,2 109
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,79
 2019,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,394
 2019,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,80
@@ -307,7 +307,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master_studies,Both sexes,298
 2019,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,291
 2019,Number,services,enrolled_in_master_studies,Both sexes,6
-2019,Number,TOTAL,enrolled_in_master_studies,M,930
+2019,Number,Total,enrolled_in_master_studies,M,930
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,22
 2019,Number,"engineering,_production_and_construction",enrolled_in_master_studies,M,243
 2019,Number,information_and_communication_technologies,enrolled_in_master_studies,M,59
@@ -318,7 +318,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master_studies,M,104
 2019,Number,humanities_and_arts,enrolled_in_master_studies,M,142
 2019,Number,services,enrolled_in_master_studies,M,3
-2019,Number,TOTAL,enrolled_in_master_studies,F,1 179
+2019,Number,Total,enrolled_in_master_studies,F,1 179
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,57
 2019,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,151
 2019,Number,information_and_communication_technologies,enrolled_in_master_studies,F,21
@@ -329,7 +329,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_master_studies,F,194
 2019,Number,humanities_and_arts,enrolled_in_master_studies,F,149
 2019,Number,services,enrolled_in_master_studies,F,3
-2019,Number,TOTAL,enrolled_in_specialist_studies,Both sexes,170
+2019,Number,Total,enrolled_in_specialist_studies,Both sexes,170
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,Both sexes,0
 2019,Number,information_and_communication_technologies,enrolled_in_specialist_studies,Both sexes,0
@@ -340,7 +340,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_specialist_studies,Both sexes,0
 2019,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
 2019,Number,services,enrolled_in_specialist_studies,Both sexes,0
-2019,Number,TOTAL,enrolled_in_specialist_studies,M,72
+2019,Number,Total,enrolled_in_specialist_studies,M,72
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2019,Number,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -351,7 +351,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_specialist_studies,M,0
 2019,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
 2019,Number,services,enrolled_in_specialist_studies,M,0
-2019,Number,TOTAL,enrolled_in_specialist_studies,F,98
+2019,Number,Total,enrolled_in_specialist_studies,F,98
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
 2019,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,F,0
 2019,Number,information_and_communication_technologies,enrolled_in_specialist_studies,F,0
@@ -362,7 +362,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,enrolled_in_specialist_studies,F,0
 2019,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
 2019,Number,services,enrolled_in_specialist_studies,F,0
-2019,Number,TOTAL,doctoral_students,Both sexes,165
+2019,Number,Total,doctoral_students,Both sexes,165
 2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,10
 2019,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,0
 2019,Number,information_and_communication_technologies,doctoral_students,Both sexes,0
@@ -373,7 +373,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,doctoral_students,Both sexes,8
 2019,Number,humanities_and_arts,doctoral_students,Both sexes,10
 2019,Number,services,doctoral_students,Both sexes,0
-2019,Number,TOTAL,doctoral_students,M,71
+2019,Number,Total,doctoral_students,M,71
 2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,6
 2019,Number,"engineering,_production_and_construction",doctoral_students,M,0
 2019,Number,information_and_communication_technologies,doctoral_students,M,0
@@ -384,7 +384,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,doctoral_students,M,5
 2019,Number,humanities_and_arts,doctoral_students,M,5
 2019,Number,services,doctoral_students,M,0
-2019,Number,TOTAL,doctoral_students,F,94
+2019,Number,Total,doctoral_students,F,94
 2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
 2019,Number,"engineering,_production_and_construction",doctoral_students,F,0
 2019,Number,information_and_communication_technologies,doctoral_students,F,0
@@ -395,7 +395,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,education,doctoral_students,F,3
 2019,Number,humanities_and_arts,doctoral_students,F,5
 2019,Number,services,doctoral_students,F,0
-2020,Number,TOTAL,enrolled_in_master's_studies,Both sexes,4
+2020,Number,Total,enrolled_in_master's_studies,Both sexes,4
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,0
 2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
@@ -406,7 +406,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master's_studies,Both sexes,2
 2020,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,0
 2020,Number,services,enrolled_in_master's_studies,Both sexes,0
-2020,Number,TOTAL,enrolled_in_master's_studies,M,3
+2020,Number,Total,enrolled_in_master's_studies,M,3
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
 2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
@@ -417,7 +417,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master's_studies,M,2
 2020,Number,humanities_and_arts,enrolled_in_master's_studies,M,0
 2020,Number,services,enrolled_in_master's_studies,M,0
-2020,Number,TOTAL,enrolled_in_master's_studies,F,1
+2020,Number,Total,enrolled_in_master's_studies,F,1
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,0
 2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
@@ -428,7 +428,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master's_studies,F,0
 2020,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
 2020,Number,services,enrolled_in_master's_studies,F,0
-2020,Number,TOTAL,enrolled_in_master_studies,Both sexes,2 430
+2020,Number,Total,enrolled_in_master_studies,Both sexes,2 430
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,93
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,399
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,117
@@ -439,7 +439,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master_studies,Both sexes,381
 2020,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,328
 2020,Number,services,enrolled_in_master_studies,Both sexes,9
-2020,Number,TOTAL,enrolled_in_master_studies,M,1 036
+2020,Number,Total,enrolled_in_master_studies,M,1 036
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,26
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,M,252
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,M,82
@@ -450,7 +450,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master_studies,M,129
 2020,Number,humanities_and_arts,enrolled_in_master_studies,M,142
 2020,Number,services,enrolled_in_master_studies,M,3
-2020,Number,TOTAL,enrolled_in_master_studies,F,1 394
+2020,Number,Total,enrolled_in_master_studies,F,1 394
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,67
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,147
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,F,35
@@ -461,7 +461,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_master_studies,F,252
 2020,Number,humanities_and_arts,enrolled_in_master_studies,F,186
 2020,Number,services,enrolled_in_master_studies,F,6
-2020,Number,TOTAL,enrolled_in_specialist_studies,Both sexes,170
+2020,Number,Total,enrolled_in_specialist_studies,Both sexes,170
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,Both sexes,0
 2020,Number,information_and_communication_technologies,enrolled_in_specialist_studies,Both sexes,0
@@ -472,7 +472,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_specialist_studies,Both sexes,0
 2020,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
 2020,Number,services,enrolled_in_specialist_studies,Both sexes,0
-2020,Number,TOTAL,enrolled_in_specialist_studies,M,39
+2020,Number,Total,enrolled_in_specialist_studies,M,39
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2020,Number,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -483,7 +483,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_specialist_studies,M,0
 2020,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
 2020,Number,services,enrolled_in_specialist_studies,M,0
-2020,Number,TOTAL,enrolled_in_specialist_studies,F,131
+2020,Number,Total,enrolled_in_specialist_studies,F,131
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
 2020,Number,"engineering,_production_and_construction",enrolled_in_specialist_studies,F,0
 2020,Number,information_and_communication_technologies,enrolled_in_specialist_studies,F,0
@@ -494,7 +494,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,enrolled_in_specialist_studies,F,0
 2020,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
 2020,Number,services,enrolled_in_specialist_studies,F,0
-2020,Number,TOTAL,doctoral_students,Both sexes,184
+2020,Number,Total,doctoral_students,Both sexes,184
 2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,12
 2020,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,2
 2020,Number,information_and_communication_technologies,doctoral_students,Both sexes,5
@@ -505,7 +505,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,doctoral_students,Both sexes,8
 2020,Number,humanities_and_arts,doctoral_students,Both sexes,24
 2020,Number,services,doctoral_students,Both sexes,0
-2020,Number,TOTAL,doctoral_students,M,79
+2020,Number,Total,doctoral_students,M,79
 2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,8
 2020,Number,"engineering,_production_and_construction",doctoral_students,M,1
 2020,Number,information_and_communication_technologies,doctoral_students,M,3
@@ -516,7 +516,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,education,doctoral_students,M,8
 2020,Number,humanities_and_arts,doctoral_students,M,3
 2020,Number,services,doctoral_students,M,0
-2020,Number,TOTAL,doctoral_students,F,105
+2020,Number,Total,doctoral_students,F,105
 2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
 2020,Number,"engineering,_production_and_construction",doctoral_students,F,1
 2020,Number,information_and_communication_technologies,doctoral_students,F,2
