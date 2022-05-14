@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "INSTITUTION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "INSTITUTION"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

@@ -112,14 +112,14 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "islam",
+                "muslim",
                 "catholic",
                 "ortodox",
                 "agnostic",
                 "atheist",
-                "Drugo",
+                "other_religion",
                 "does_not_declare",
-                "Nepoznato",
+                "unknown_religion",
                 ""
               ]
             },

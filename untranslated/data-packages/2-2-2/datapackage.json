@@ -108,14 +108,14 @@
             "constraints": {
               "enum": [
                 "_T",
-                "islam",
+                "muslim",
                 "catholic",
                 "ortodox",
                 "agnostic",
                 "atheist",
-                "other",
+                "other_religion",
                 "does_not_declare",
-                "unknown",
+                "unknown_religion",
                 ""
               ]
             }

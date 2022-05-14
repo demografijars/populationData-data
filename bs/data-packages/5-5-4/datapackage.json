@@ -27,14 +27,14 @@
               "enum": [
                 "Ukupno",
                 "social_sciences,_journalism_and_information",
-                "humanities_and_arts",
+                "arts_and_humanities",
                 "information_and_communication_technologies",
                 "engineering,_production_and_construction",
                 "education",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
                 "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistic",
-                "servies",
+                "natural_sciences,_mathematics_and_statistics",
+                "services",
                 "health_and_social_protection",
                 ""
               ]
@@ -46,9 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukupno",
                 "M",
                 "Ž",
-                "Ukupno",
                 ""
               ]
             },

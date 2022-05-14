@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -25,6 +25,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "M",
+                "Ž",
                 ""
               ]
             },
@@ -32,7 +34,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

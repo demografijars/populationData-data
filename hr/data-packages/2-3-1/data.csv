@@ -1,442 +1,379 @@
-Year,UNIT_MEASURE,Administrativna oblast,Spol,Veličina kućanstva,Value
-2013,Broj,Republika Srpska,Oba spola,Ukupno,408825.0
-2013,Broj,Grad Banja Luka,M,Ukupno,65010.0
-2013,Broj,Berkovići,Ž,Ukupno,636.0
-2013,Broj,Grad Bijeljina,Oba spola,Ukupno,34309.0
-2013,Broj,Bileća,M,Ukupno,3307.0
-2013,Broj,Bratunac,Ž,Ukupno,5945.0
-2013,Broj,Brod,Oba spola,Ukupno,5599.0
-2013,Broj,Višegrad,M,Ukupno,3966.0
-2013,Broj,Vlasenica,Ž,Ukupno,3712.0
-2013,Broj,Vukosavlje,Oba spola,Ukupno,1537.0
-2013,Broj,Gacko,M,Ukupno,2766.0
-2013,Broj,Grad Gradiška,Ž,Ukupno,16939.0
-2013,Broj,Grad Derventa,Oba spola,Ukupno,9345.0
-2013,Broj,Grad Doboj,M,Ukupno,25447.0
-2013,Broj,Donji Žabar,Ž,Ukupno,1191.0
-2013,Broj,Grad Zvornik,Oba spola,Ukupno,17690.0
-2013,Broj,Istočna Ilidža,M,Ukupno,4981.0
-2013,Broj,Istočni Drvar,Ž,Ukupno,38.0
-2013,Broj,Istočni Mostar,Oba spola,Ukupno,83.0
-2013,Broj,Istočni Stari Grad,M,Ukupno,438.0
-2013,Broj,Istočno Novo Sarajevo,Ž,Ukupno,3819.0
-2013,Broj,Jezero,Oba spola,Ukupno,365.0
-2013,Broj,Kalinovik,M,Ukupno,783.0
-2013,Broj,Kneževo,Ž,Ukupno,3168.0
-2013,Broj,Kozarska Dubica,Oba spola,Ukupno,7492.0
-2013,Broj,Kostajnica,M,Ukupno,1896.0
-2013,Broj,Kotor Varoš,Ž,Ukupno,5863.0
-2013,Broj,Krupa Na Uni,Oba spola,Ukupno,543.0
-2013,Broj,Kupres,M,Ukupno,128.0
-2013,Broj,Laktaši,Ž,Ukupno,11293.0
-2013,Broj,Lopare,Oba spola,Ukupno,5081.0
-2013,Broj,Ljubinje,M,Ukupno,1077.0
-2013,Broj,Milići,Ž,Ukupno,3579.0
-2013,Broj,Modriča,Oba spola,Ukupno,8553.0
-2013,Broj,Mrkonjić Grad,M,Ukupno,6104.0
-2013,Broj,Nevesinje,Ž,Ukupno,3985.0
-2013,Broj,Novi Grad,Oba spola,Ukupno,8792.0
-2013,Broj,Novo Goražde,M,Ukupno,1078.0
-2013,Broj,Osmaci,Ž,Ukupno,1675.0
-2013,Broj,Oštra Luka,Oba spola,Ukupno,971.0
-2013,Broj,Pale,M,Ukupno,7158.0
-2013,Broj,Pelagićevo,Ž,Ukupno,1787.0
-2013,Broj,Petrovac,Oba spola,Ukupno,130.0
-2013,Broj,Petrovo,M,Ukupno,2532.0
-2013,Broj,Grad Prijedor,Ž,Ukupno,27961.0
-2013,Broj,Prnjavor,Oba spola,Ukupno,12166.0
-2013,Broj,Ribnik,M,Ukupno,2252.0
-2013,Broj,Rogatica,Ž,Ukupno,3871.0
-2013,Broj,Rudo,Oba spola,Ukupno,2847.0
-2013,Broj,Sokolac,M,Ukupno,4276.0
-2013,Broj,Srbac,Ž,Ukupno,6157.0
-2013,Broj,Srebrenica,Oba spola,Ukupno,3792.0
-2013,Broj,Teslić,M,Ukupno,13255.0
-2013,Broj,Grad Trebinje,Ž,Ukupno,9394.0
-2013,Broj,Trnovo,Oba spola,Ukupno,800.0
-2013,Broj,Ugljevik,M,Ukupno,4867.0
-2013,Broj,Foča,Ž,Ukupno,6544.0
-2013,Broj,Han Pijesak,Oba spola,Ukupno,1390.0
-2013,Broj,Čajniče,M,Ukupno,1662.0
-2013,Broj,Čelinac,Ž,Ukupno,5009.0
-2013,Broj,Šamac,Oba spola,Ukupno,5609.0
-2013,Broj,Šekovići,M,Ukupno,2517.0
-2013,Broj,Šipovo,Ž,Ukupno,3665.0
-2013,Broj,Republika Srpska,Oba spola,1 član,91300.0
-2013,Broj,Grad Banja Luka,M,1 član,13984.0
-2013,Broj,Berkovići,Ž,1 član,129.0
-2013,Broj,Grad Bijeljina,Oba spola,1 član,6984.0
-2013,Broj,Bileća,M,1 član,629.0
-2013,Broj,Bratunac,Ž,1 član,1155.0
-2013,Broj,Brod,Oba spola,1 član,1360.0
-2013,Broj,Višegrad,M,1 član,1132.0
-2013,Broj,Vlasenica,Ž,1 član,768.0
-2013,Broj,Vukosavlje,Oba spola,1 član,348.0
-2013,Broj,Gacko,M,1 član,522.0
-2013,Broj,Grad Gradiška,Ž,1 član,3782.0
-2013,Broj,Grad Derventa,Oba spola,1 član,2270.0
-2013,Broj,Grad Doboj,M,1 član,6230.0
-2013,Broj,Donji Žabar,Ž,1 član,271.0
-2013,Broj,Grad Zvornik,Oba spola,1 član,3323.0
-2013,Broj,Istočna Ilidža,M,1 član,949.0
-2013,Broj,Istočni Drvar,Ž,1 član,24.0
-2013,Broj,Istočni Mostar,Oba spola,1 član,29.0
-2013,Broj,Istočni Stari Grad,M,1 član,123.0
-2013,Broj,Istočno Novo Sarajevo,Ž,1 član,904.0
-2013,Broj,Jezero,Oba spola,1 član,86.0
-2013,Broj,Kalinovik,M,1 član,245.0
-2013,Broj,Kneževo,Ž,1 član,611.0
-2013,Broj,Kozarska Dubica,Oba spola,1 član,1898.0
-2013,Broj,Kostajnica,M,1 član,384.0
-2013,Broj,Kotor Varoš,Ž,1 član,1089.0
-2013,Broj,Krupa Na Uni,Oba spola,1 član,159.0
-2013,Broj,Kupres,M,1 član,44.0
-2013,Broj,Laktaši,Ž,1 član,2093.0
-2013,Broj,Lopare,Oba spola,1 član,1256.0
-2013,Broj,Ljubinje,M,1 član,196.0
-2013,Broj,Milići,Ž,1 član,789.0
-2013,Broj,Modriča,Oba spola,1 član,1983.0
-2013,Broj,Mrkonjić Grad,M,1 član,1538.0
-2013,Broj,Nevesinje,Ž,1 član,766.0
-2013,Broj,Novi Grad,Oba spola,1 član,1965.0
-2013,Broj,Novo Goražde,M,1 član,270.0
-2013,Broj,Osmaci,Ž,1 član,254.0
-2013,Broj,Oštra Luka,Oba spola,1 član,277.0
-2013,Broj,Pale,M,1 član,1515.0
-2013,Broj,Pelagićevo,Ž,1 član,640.0
-2013,Broj,Petrovac,Oba spola,1 član,34.0
-2013,Broj,Petrovo,M,1 član,726.0
-2013,Broj,Grad Prijedor,Ž,1 član,6423.0
-2013,Broj,Prnjavor,Oba spola,1 član,2943.0
-2013,Broj,Ribnik,M,1 član,642.0
-2013,Broj,Rogatica,Ž,1 član,986.0
-2013,Broj,Rudo,Oba spola,1 član,696.0
-2013,Broj,Sokolac,M,1 član,1022.0
-2013,Broj,Srbac,Ž,1 član,1507.0
-2013,Broj,Srebrenica,Oba spola,1 član,874.0
-2013,Broj,Teslić,M,1 član,3060.0
-2013,Broj,Grad Trebinje,Ž,1 član,1848.0
-2013,Broj,Trnovo,Oba spola,1 član,223.0
-2013,Broj,Ugljevik,M,1 član,1019.0
-2013,Broj,Foča,Ž,1 član,1635.0
-2013,Broj,Han Pijesak,Oba spola,1 član,389.0
-2013,Broj,Čajniče,M,1 član,395.0
-2013,Broj,Čelinac,Ž,1 član,951.0
-2013,Broj,Šamac,Oba spola,1 član,1406.0
-2013,Broj,Šekovići,M,1 član,708.0
-2013,Broj,Šipovo,Ž,1 član,839.0
-2013,Broj,Republika Srpska,Oba spola,2 člana,107130.0
-2013,Broj,Grad Banja Luka,M,2 člana,17243.0
-2013,Broj,Berkovići,Ž,2 člana,166.0
-2013,Broj,Grad Bijeljina,Oba spola,2 člana,8272.0
-2013,Broj,Bileća,M,2 člana,719.0
-2013,Broj,Bratunac,Ž,2 člana,1345.0
-2013,Broj,Brod,Oba spola,2 člana,1439.0
-2013,Broj,Višegrad,M,2 člana,1172.0
-2013,Broj,Vlasenica,Ž,2 člana,1001.0
-2013,Broj,Vukosavlje,Oba spola,2 člana,425.0
-2013,Broj,Gacko,M,2 člana,622.0
-2013,Broj,Grad Gradiška,Ž,2 člana,4438.0
-2013,Broj,Grad Derventa,Oba spola,2 člana,2598.0
-2013,Broj,Grad Doboj,M,2 člana,7242.0
-2013,Broj,Donji Žabar,Ž,2 člana,290.0
-2013,Broj,Grad Zvornik,Oba spola,2 člana,4288.0
-2013,Broj,Istočna Ilidža,M,2 člana,1316.0
-2013,Broj,Istočni Drvar,Ž,2 člana,7.0
-2013,Broj,Istočni Mostar,Oba spola,2 člana,15.0
-2013,Broj,Istočni Stari Grad,M,2 člana,146.0
-2013,Broj,Istočno Novo Sarajevo,Ž,2 člana,1011.0
-2013,Broj,Jezero,Oba spola,2 člana,89.0
-2013,Broj,Kalinovik,M,2 člana,213.0
-2013,Broj,Kneževo,Ž,2 člana,937.0
-2013,Broj,Kozarska Dubica,Oba spola,2 člana,2021.0
-2013,Broj,Kostajnica,M,2 člana,477.0
-2013,Broj,Kotor Varoš,Ž,2 člana,1358.0
-2013,Broj,Krupa Na Uni,Oba spola,2 člana,128.0
-2013,Broj,Kupres,M,2 člana,48.0
-2013,Broj,Laktaši,Ž,2 člana,2768.0
-2013,Broj,Lopare,Oba spola,2 člana,1261.0
-2013,Broj,Ljubinje,M,2 člana,254.0
-2013,Broj,Milići,Ž,2 člana,859.0
-2013,Broj,Modriča,Oba spola,2 člana,2332.0
-2013,Broj,Mrkonjić Grad,M,2 člana,1806.0
-2013,Broj,Nevesinje,Ž,2 člana,939.0
-2013,Broj,Novi Grad,Oba spola,2 člana,2390.0
-2013,Broj,Novo Goražde,M,2 člana,288.0
-2013,Broj,Osmaci,Ž,2 člana,372.0
-2013,Broj,Oštra Luka,Oba spola,2 člana,243.0
-2013,Broj,Pale,M,2 člana,1890.0
-2013,Broj,Pelagićevo,Ž,2 člana,516.0
-2013,Broj,Petrovac,Oba spola,2 člana,35.0
-2013,Broj,Petrovo,M,2 člana,760.0
-2013,Broj,Grad Prijedor,Ž,2 člana,7125.0
-2013,Broj,Prnjavor,Oba spola,2 člana,3253.0
-2013,Broj,Ribnik,M,2 člana,673.0
-2013,Broj,Rogatica,Ž,2 člana,1120.0
-2013,Broj,Rudo,Oba spola,2 člana,851.0
-2013,Broj,Sokolac,M,2 člana,1227.0
-2013,Broj,Srbac,Ž,2 člana,1729.0
-2013,Broj,Srebrenica,Oba spola,2 člana,858.0
-2013,Broj,Teslić,M,2 člana,3602.0
-2013,Broj,Grad Trebinje,Ž,2 člana,2317.0
-2013,Broj,Trnovo,Oba spola,2 člana,250.0
-2013,Broj,Ugljevik,M,2 člana,1118.0
-2013,Broj,Foča,Ž,2 člana,1877.0
-2013,Broj,Han Pijesak,Oba spola,2 člana,439.0
-2013,Broj,Čajniče,M,2 člana,442.0
-2013,Broj,Čelinac,Ž,2 člana,1260.0
-2013,Broj,Šamac,Oba spola,2 člana,1408.0
-2013,Broj,Šekovići,M,2 člana,783.0
-2013,Broj,Šipovo,Ž,2 člana,1059.0
-2013,Broj,Republika Srpska,Oba spola,3 člana,79155.0
-2013,Broj,Grad Banja Luka,M,3 člana,14267.0
-2013,Broj,Berkovići,Ž,3 člana,92.0
-2013,Broj,Grad Bijeljina,Oba spola,3 člana,6586.0
-2013,Broj,Bileća,M,3 člana,620.0
-2013,Broj,Bratunac,Ž,3 člana,1137.0
-2013,Broj,Brod,Oba spola,3 člana,1107.0
-2013,Broj,Višegrad,M,3 člana,724.0
-2013,Broj,Vlasenica,Ž,3 člana,747.0
-2013,Broj,Vukosavlje,Oba spola,3 člana,280.0
-2013,Broj,Gacko,M,3 člana,561.0
-2013,Broj,Grad Gradiška,Ž,3 člana,3140.0
-2013,Broj,Grad Derventa,Oba spola,3 člana,1688.0
-2013,Broj,Grad Doboj,M,3 člana,4956.0
-2013,Broj,Donji Žabar,Ž,3 člana,178.0
-2013,Broj,Grad Zvornik,Oba spola,3 člana,3400.0
-2013,Broj,Istočna Ilidža,M,3 člana,1075.0
-2013,Broj,Istočni Drvar,Ž,3 člana,6.0
-2013,Broj,Istočni Mostar,Oba spola,3 člana,12.0
-2013,Broj,Istočni Stari Grad,M,3 člana,75.0
-2013,Broj,Istočno Novo Sarajevo,Ž,3 člana,813.0
-2013,Broj,Jezero,Oba spola,3 člana,75.0
-2013,Broj,Kalinovik,M,3 člana,136.0
-2013,Broj,Kneževo,Ž,3 člana,554.0
-2013,Broj,Kozarska Dubica,Oba spola,3 člana,1351.0
-2013,Broj,Kostajnica,M,3 člana,384.0
-2013,Broj,Kotor Varoš,Ž,3 člana,1079.0
-2013,Broj,Krupa Na Uni,Oba spola,3 člana,84.0
-2013,Broj,Kupres,M,3 člana,16.0
-2013,Broj,Laktaši,Ž,3 člana,2241.0
-2013,Broj,Lopare,Oba spola,3 člana,908.0
-2013,Broj,Ljubinje,M,3 člana,234.0
-2013,Broj,Milići,Ž,3 člana,709.0
-2013,Broj,Modriča,Oba spola,3 člana,1567.0
-2013,Broj,Mrkonjić Grad,M,3 člana,1218.0
-2013,Broj,Nevesinje,Ž,3 člana,701.0
-2013,Broj,Novi Grad,Oba spola,3 člana,1669.0
-2013,Broj,Novo Goražde,M,3 člana,193.0
-2013,Broj,Osmaci,Ž,3 člana,317.0
-2013,Broj,Oštra Luka,Oba spola,3 člana,151.0
-2013,Broj,Pale,M,3 člana,1438.0
-2013,Broj,Pelagićevo,Ž,3 člana,225.0
-2013,Broj,Petrovac,Oba spola,3 člana,22.0
-2013,Broj,Petrovo,M,3 člana,448.0
-2013,Broj,Grad Prijedor,Ž,3 člana,5351.0
-2013,Broj,Prnjavor,Oba spola,3 člana,2183.0
-2013,Broj,Ribnik,M,3 člana,356.0
-2013,Broj,Rogatica,Ž,3 člana,709.0
-2013,Broj,Rudo,Oba spola,3 člana,523.0
-2013,Broj,Sokolac,M,3 člana,808.0
-2013,Broj,Srbac,Ž,3 člana,1106.0
-2013,Broj,Srebrenica,Oba spola,3 člana,656.0
-2013,Broj,Teslić,M,3 člana,2559.0
-2013,Broj,Grad Trebinje,Ž,3 člana,1871.0
-2013,Broj,Trnovo,Oba spola,3 člana,143.0
-2013,Broj,Ugljevik,M,3 člana,821.0
-2013,Broj,Foča,Ž,3 člana,1263.0
-2013,Broj,Han Pijesak,Oba spola,3 člana,249.0
-2013,Broj,Čajniče,M,3 člana,303.0
-2013,Broj,Čelinac,Ž,3 člana,985.0
-2013,Broj,Šamac,Oba spola,3 člana,971.0
-2013,Broj,Šekovići,M,3 člana,418.0
-2013,Broj,Šipovo,Ž,3 člana,696.0
-2013,Broj,Republika Srpska,Oba spola,4 člana,72771.0
-2013,Broj,Grad Banja Luka,M,4 člana,12952.0
-2013,Broj,Berkovići,Ž,4 člana,84.0
-2013,Broj,Grad Bijeljina,Oba spola,4 člana,6377.0
-2013,Broj,Bileća,M,4 člana,616.0
-2013,Broj,Bratunac,Ž,4 člana,1161.0
-2013,Broj,Brod,Oba spola,4 člana,928.0
-2013,Broj,Višegrad,M,4 člana,582.0
-2013,Broj,Vlasenica,Ž,4 člana,687.0
-2013,Broj,Vukosavlje,Oba spola,4 člana,249.0
-2013,Broj,Gacko,M,4 člana,480.0
-2013,Broj,Grad Gradiška,Ž,4 člana,2878.0
-2013,Broj,Grad Derventa,Oba spola,4 člana,1520.0
-2013,Broj,Grad Doboj,M,4 člana,4148.0
-2013,Broj,Donji Žabar,Ž,4 člana,184.0
-2013,Broj,Grad Zvornik,Oba spola,4 člana,3448.0
-2013,Broj,Istočna Ilidža,M,4 člana,1028.0
-2013,Broj,Istočni Drvar,Ž,4 člana,0.0
-2013,Broj,Istočni Mostar,Oba spola,4 člana,10.0
-2013,Broj,Istočni Stari Grad,M,4 člana,43.0
-2013,Broj,Istočno Novo Sarajevo,Ž,4 člana,702.0
-2013,Broj,Jezero,Oba spola,4 člana,58.0
-2013,Broj,Kalinovik,M,4 člana,109.0
-2013,Broj,Kneževo,Ž,4 člana,551.0
-2013,Broj,Kozarska Dubica,Oba spola,4 člana,1175.0
-2013,Broj,Kostajnica,M,4 člana,311.0
-2013,Broj,Kotor Varoš,Ž,4 člana,1206.0
-2013,Broj,Krupa Na Uni,Oba spola,4 člana,72.0
-2013,Broj,Kupres,M,4 člana,6.0
-2013,Broj,Laktaši,Ž,4 člana,2345.0
-2013,Broj,Lopare,Oba spola,4 člana,805.0
-2013,Broj,Ljubinje,M,4 člana,194.0
-2013,Broj,Milići,Ž,4 člana,714.0
-2013,Broj,Modriča,Oba spola,4 člana,1422.0
-2013,Broj,Mrkonjić Grad,M,4 člana,939.0
-2013,Broj,Nevesinje,Ž,4 člana,736.0
-2013,Broj,Novi Grad,Oba spola,4 člana,1422.0
-2013,Broj,Novo Goražde,M,4 člana,204.0
-2013,Broj,Osmaci,Ž,4 člana,358.0
-2013,Broj,Oštra Luka,Oba spola,4 člana,131.0
-2013,Broj,Pale,M,4 člana,1418.0
-2013,Broj,Pelagićevo,Ž,4 člana,191.0
-2013,Broj,Petrovac,Oba spola,4 člana,19.0
-2013,Broj,Petrovo,M,4 člana,370.0
-2013,Broj,Grad Prijedor,Ž,4 člana,4862.0
-2013,Broj,Prnjavor,Oba spola,4 člana,1953.0
-2013,Broj,Ribnik,M,4 člana,308.0
-2013,Broj,Rogatica,Ž,4 člana,630.0
-2013,Broj,Rudo,Oba spola,4 člana,467.0
-2013,Broj,Sokolac,M,4 člana,728.0
-2013,Broj,Srbac,Ž,4 člana,1011.0
-2013,Broj,Srebrenica,Oba spola,4 člana,652.0
-2013,Broj,Teslić,M,4 člana,2147.0
-2013,Broj,Grad Trebinje,Ž,4 člana,1765.0
-2013,Broj,Trnovo,Oba spola,4 člana,110.0
-2013,Broj,Ugljevik,M,4 člana,932.0
-2013,Broj,Foča,Ž,4 člana,1115.0
-2013,Broj,Han Pijesak,Oba spola,4 člana,194.0
-2013,Broj,Čajniče,M,4 člana,278.0
-2013,Broj,Čelinac,Ž,4 člana,964.0
-2013,Broj,Šamac,Oba spola,4 člana,823.0
-2013,Broj,Šekovići,M,4 člana,379.0
-2013,Broj,Šipovo,Ž,4 člana,620.0
-2013,Broj,Republika Srpska,Oba spola,5+_members,58469.0
-2013,Broj,Grad Banja Luka,M,5+_members,6564.0
-2013,Broj,Berkovići,Ž,5+_members,165.0
-2013,Broj,Grad Bijeljina,Oba spola,5+_members,6090.0
-2013,Broj,Bileća,M,5+_members,723.0
-2013,Broj,Bratunac,Ž,5+_members,1147.0
-2013,Broj,Brod,Oba spola,5+_members,765.0
-2013,Broj,Višegrad,M,5+_members,356.0
-2013,Broj,Vlasenica,Ž,5+_members,509.0
-2013,Broj,Vukosavlje,Oba spola,5+_members,235.0
-2013,Broj,Gacko,M,5+_members,581.0
-2013,Broj,Grad Gradiška,Ž,5+_members,2701.0
-2013,Broj,Grad Derventa,Oba spola,5+_members,1269.0
-2013,Broj,Grad Doboj,M,5+_members,2871.0
-2013,Broj,Donji Žabar,Ž,5+_members,268.0
-2013,Broj,Grad Zvornik,Oba spola,5+_members,3231.0
-2013,Broj,Istočna Ilidža,M,5+_members,613.0
-2013,Broj,Istočni Drvar,Ž,5+_members,1.0
-2013,Broj,Istočni Mostar,Oba spola,5+_members,17.0
-2013,Broj,Istočni Stari Grad,M,5+_members,51.0
-2013,Broj,Istočno Novo Sarajevo,Ž,5+_members,389.0
-2013,Broj,Jezero,Oba spola,5+_members,57.0
-2013,Broj,Kalinovik,M,5+_members,80.0
-2013,Broj,Kneževo,Ž,5+_members,515.0
-2013,Broj,Kozarska Dubica,Oba spola,5+_members,1047.0
-2013,Broj,Kostajnica,M,5+_members,340.0
-2013,Broj,Kotor Varoš,Ž,5+_members,1131.0
-2013,Broj,Krupa Na Uni,Oba spola,5+_members,100.0
-2013,Broj,Kupres,M,5+_members,14.0
-2013,Broj,Laktaši,Ž,5+_members,1846.0
-2013,Broj,Lopare,Oba spola,5+_members,851.0
-2013,Broj,Ljubinje,M,5+_members,199.0
-2013,Broj,Milići,Ž,5+_members,508.0
-2013,Broj,Modriča,Oba spola,5+_members,1249.0
-2013,Broj,Mrkonjić Grad,M,5+_members,603.0
-2013,Broj,Nevesinje,Ž,5+_members,843.0
-2013,Broj,Novi Grad,Oba spola,5+_members,1346.0
-2013,Broj,Novo Goražde,M,5+_members,123.0
-2013,Broj,Osmaci,Ž,5+_members,374.0
-2013,Broj,Oštra Luka,Oba spola,5+_members,169.0
-2013,Broj,Pale,M,5+_members,897.0
-2013,Broj,Pelagićevo,Ž,5+_members,215.0
-2013,Broj,Petrovac,Oba spola,5+_members,20.0
-2013,Broj,Petrovo,M,5+_members,228.0
-2013,Broj,Grad Prijedor,Ž,5+_members,4200.0
-2013,Broj,Prnjavor,Oba spola,5+_members,1834.0
-2013,Broj,Ribnik,M,5+_members,273.0
-2013,Broj,Rogatica,Ž,5+_members,426.0
-2013,Broj,Rudo,Oba spola,5+_members,310.0
-2013,Broj,Sokolac,M,5+_members,491.0
-2013,Broj,Srbac,Ž,5+_members,804.0
-2013,Broj,Srebrenica,Oba spola,5+_members,752.0
-2013,Broj,Teslić,M,5+_members,1887.0
-2013,Broj,Grad Trebinje,Ž,5+_members,1593.0
-2013,Broj,Trnovo,Oba spola,5+_members,74.0
-2013,Broj,Ugljevik,M,5+_members,977.0
-2013,Broj,Foča,Ž,5+_members,654.0
-2013,Broj,Han Pijesak,Oba spola,5+_members,119.0
-2013,Broj,Čajniče,M,5+_members,244.0
-2013,Broj,Čelinac,Ž,5+_members,849.0
-2013,Broj,Šamac,Oba spola,5+_members,1001.0
-2013,Broj,Šekovići,M,5+_members,229.0
-2013,Broj,Šipovo,Ž,5+_members,451.0
-2013,Broj,Republika Srpska,Oba spola,Prosječan broj članova kućanstava,2.85
-2013,Broj,Grad Banja Luka,M,Prosječan broj članova kućanstava,2.76
-2013,Broj,Berkovići,Ž,Prosječan broj članova kućanstava,3.21
-2013,Broj,Grad Bijeljina,Oba spola,Prosječan broj članova kućanstava,3.02
-2013,Broj,Bileća,M,Prosječan broj članova kućanstava,3.21
-2013,Broj,Bratunac,Ž,Prosječan broj članova kućanstava,3.14
-2013,Broj,Brod,Oba spola,Prosječan broj članova kućanstava,2.81
-2013,Broj,Višegrad,M,Prosječan broj članova kućanstava,2.51
-2013,Broj,Vlasenica,Ž,Prosječan broj članova kućanstava,2.87
-2013,Broj,Vukosavlje,Oba spola,Prosječan broj članova kućanstava,2.84
-2013,Broj,Gacko,M,Prosječan broj članova kućanstava,3.15
-2013,Broj,Grad Gradiška,Ž,Prosječan broj članova kućanstava,2.9
-2013,Broj,Grad Derventa,Oba spola,Prosječan broj članova kućanstava,2.77
-2013,Broj,Grad Doboj,M,Prosječan broj članova kućanstava,2.68
-2013,Broj,Donji Žabar,Ž,Prosječan broj članova kućanstava,3.08
-2013,Broj,Grad Zvornik,Oba spola,Prosječan broj članova kućanstava,3.07
-2013,Broj,Istočna Ilidža,M,Prosječan broj članova kućanstava,2.86
-2013,Broj,Istočni Drvar,Ž,Prosječan broj članova kućanstava,1.61
-2013,Broj,Istočni Mostar,Oba spola,Prosječan broj članova kućanstava,2.94
-2013,Broj,Istočni Stari Grad,M,Prosječan broj članova kućanstava,2.55
-2013,Broj,Istočno Novo Sarajevo,Ž,Prosječan broj članova kućanstava,2.71
-2013,Broj,Jezero,Oba spola,Prosječan broj članova kućanstava,2.85
-2013,Broj,Kalinovik,M,Prosječan broj članova kućanstava,2.5
-2013,Broj,Kneževo,Ž,Prosječan broj članova kućanstava,2.94
-2013,Broj,Kozarska Dubica,Oba spola,Prosječan broj članova kućanstava,2.76
-2013,Broj,Kostajnica,M,Prosječan broj članova kućanstava,2.98
-2013,Broj,Kotor Varoš,Ž,Prosječan broj članova kućanstava,3.13
-2013,Broj,Krupa Na Uni,Oba spola,Prosječan broj članova kućanstava,2.87
-2013,Broj,Kupres,M,Prosječan broj članova kućanstava,2.29
-2013,Broj,Laktaši,Ž,Prosječan broj članova kućanstava,3.02
-2013,Broj,Lopare,Oba spola,Prosječan broj članova kućanstava,2.88
-2013,Broj,Ljubinje,M,Prosječan broj članova kućanstava,3.08
-2013,Broj,Milići,Ž,Prosječan broj članova kućanstava,2.92
-2013,Broj,Modriča,Oba spola,Prosječan broj članova kućanstava,2.83
-2013,Broj,Mrkonjić Grad,M,Prosječan broj članova kućanstava,2.6
-2013,Broj,Nevesinje,Ž,Prosječan broj članova kućanstava,3.15
-2013,Broj,Novi Grad,Oba spola,Prosječan broj članova kućanstava,2.87
-2013,Broj,Novo Goražde,M,Prosječan broj članova kućanstava,2.7
-2013,Broj,Osmaci,Ž,Prosječan broj članova kućanstava,3.31
-2013,Broj,Oštra Luka,Oba spola,Prosječan broj članova kućanstava,2.79
-2013,Broj,Pale,M,Prosječan broj članova kućanstava,2.83
-2013,Broj,Pelagićevo,Ž,Prosječan broj članova kućanstava,2.43
-2013,Broj,Petrovac,Oba spola,Prosječan broj članova kućanstava,2.72
-2013,Broj,Petrovo,M,Prosječan broj članova kućanstava,2.49
-2013,Broj,Grad Prijedor,Ž,Prosječan broj članova kućanstava,2.88
-2013,Broj,Prnjavor,Oba spola,Prosječan broj članova kućanstava,2.82
-2013,Broj,Ribnik,M,Prosječan broj članova kućanstava,2.6
-2013,Broj,Rogatica,Ž,Prosječan broj članova kućanstava,2.65
-2013,Broj,Rudo,Oba spola,Prosječan broj članova kućanstava,2.66
-2013,Broj,Sokolac,M,Prosječan broj članova kućanstava,2.7
-2013,Broj,Srbac,Ž,Prosječan broj članova kućanstava,2.75
-2013,Broj,Srebrenica,Oba spola,Prosječan broj članova kućanstava,3.08
-2013,Broj,Teslić,M,Prosječan broj članova kućanstava,2.81
-2013,Broj,Grad Trebinje,Ž,Prosječan broj članova kućanstava,2.99
-2013,Broj,Trnovo,Oba spola,Prosječan broj članova kućanstava,2.48
-2013,Broj,Ugljevik,M,Prosječan broj članova kućanstava,3.11
-2013,Broj,Foča,Ž,Prosječan broj članova kućanstava,2.63
-2013,Broj,Han Pijesak,Oba spola,Prosječan broj članova kućanstava,2.48
-2013,Broj,Čajniče,M,Prosječan broj članova kućanstava,2.82
-2013,Broj,Čelinac,Ž,Prosječan broj članova kućanstava,3.02
-2013,Broj,Šamac,Oba spola,Prosječan broj članova kućanstava,2.91
-2013,Broj,Šekovići,M,Prosječan broj članova kućanstava,2.51
-2013,Broj,Šipovo,Ž,Prosječan broj članova kućanstava,2.72
+Year,UNIT_MEASURE,Administrativna oblast,Veličina kućanstva,Value
+2013,Broj,Republika Srpska,Ukupno,408825
+2013,Broj,Grad Banja Luka,Ukupno,65010
+2013,Broj,Berkovići,Ukupno,636
+2013,Broj,Grad Bijeljina,Ukupno,34309
+2013,Broj,Bileća,Ukupno,3307
+2013,Broj,Bratunac,Ukupno,5945
+2013,Broj,Brod,Ukupno,5599
+2013,Broj,Višegrad,Ukupno,3966
+2013,Broj,Vlasenica,Ukupno,3712
+2013,Broj,Vukosavlje,Ukupno,1537
+2013,Broj,Gacko,Ukupno,2766
+2013,Broj,Grad Gradiška,Ukupno,16939
+2013,Broj,Grad Derventa,Ukupno,9345
+2013,Broj,Grad Doboj,Ukupno,25447
+2013,Broj,Donji Žabar,Ukupno,1191
+2013,Broj,Grad Zvornik,Ukupno,17690
+2013,Broj,Istočna Ilidža,Ukupno,4981
+2013,Broj,Istočni Drvar,Ukupno,38
+2013,Broj,Istočni Mostar,Ukupno,83
+2013,Broj,Istočni Stari Grad,Ukupno,438
+2013,Broj,Istočno Novo Sarajevo,Ukupno,3819
+2013,Broj,Jezero,Ukupno,365
+2013,Broj,Kalinovik,Ukupno,783
+2013,Broj,Kneževo,Ukupno,3168
+2013,Broj,Kozarska Dubica,Ukupno,7492
+2013,Broj,Kostajnica,Ukupno,1896
+2013,Broj,Kotor Varoš,Ukupno,5863
+2013,Broj,Krupa Na Uni,Ukupno,543
+2013,Broj,Kupres,Ukupno,128
+2013,Broj,Laktaši,Ukupno,11293
+2013,Broj,Lopare,Ukupno,5081
+2013,Broj,Ljubinje,Ukupno,1077
+2013,Broj,Milići,Ukupno,3579
+2013,Broj,Modriča,Ukupno,8553
+2013,Broj,Mrkonjić Grad,Ukupno,6104
+2013,Broj,Nevesinje,Ukupno,3985
+2013,Broj,Novi Grad,Ukupno,8792
+2013,Broj,Novo Goražde,Ukupno,1078
+2013,Broj,Osmaci,Ukupno,1675
+2013,Broj,Oštra Luka,Ukupno,971
+2013,Broj,Pale,Ukupno,7158
+2013,Broj,Pelagićevo,Ukupno,1787
+2013,Broj,Petrovac,Ukupno,130
+2013,Broj,Petrovo,Ukupno,2532
+2013,Broj,Grad Prijedor,Ukupno,27961
+2013,Broj,Prnjavor,Ukupno,12166
+2013,Broj,Ribnik,Ukupno,2252
+2013,Broj,Rogatica,Ukupno,3871
+2013,Broj,Rudo,Ukupno,2847
+2013,Broj,Sokolac,Ukupno,4276
+2013,Broj,Srbac,Ukupno,6157
+2013,Broj,Srebrenica,Ukupno,3792
+2013,Broj,Teslić,Ukupno,13255
+2013,Broj,Grad Trebinje,Ukupno,9394
+2013,Broj,Trnovo,Ukupno,800
+2013,Broj,Ugljevik,Ukupno,4867
+2013,Broj,Foča,Ukupno,6544
+2013,Broj,Han Pijesak,Ukupno,1390
+2013,Broj,Čajniče,Ukupno,1662
+2013,Broj,Čelinac,Ukupno,5009
+2013,Broj,Šamac,Ukupno,5609
+2013,Broj,Šekovići,Ukupno,2517
+2013,Broj,Šipovo,Ukupno,3665
+2013,Broj,Republika Srpska,1 član,91300
+2013,Broj,Grad Banja Luka,1 član,13984
+2013,Broj,Berkovići,1 član,129
+2013,Broj,Grad Bijeljina,1 član,6984
+2013,Broj,Bileća,1 član,629
+2013,Broj,Bratunac,1 član,1155
+2013,Broj,Brod,1 član,1360
+2013,Broj,Višegrad,1 član,1132
+2013,Broj,Vlasenica,1 član,768
+2013,Broj,Vukosavlje,1 član,348
+2013,Broj,Gacko,1 član,522
+2013,Broj,Grad Gradiška,1 član,3782
+2013,Broj,Grad Derventa,1 član,2270
+2013,Broj,Grad Doboj,1 član,6230
+2013,Broj,Donji Žabar,1 član,271
+2013,Broj,Grad Zvornik,1 član,3323
+2013,Broj,Istočna Ilidža,1 član,949
+2013,Broj,Istočni Drvar,1 član,24
+2013,Broj,Istočni Mostar,1 član,29
+2013,Broj,Istočni Stari Grad,1 član,123
+2013,Broj,Istočno Novo Sarajevo,1 član,904
+2013,Broj,Jezero,1 član,86
+2013,Broj,Kalinovik,1 član,245
+2013,Broj,Kneževo,1 član,611
+2013,Broj,Kozarska Dubica,1 član,1898
+2013,Broj,Kostajnica,1 član,384
+2013,Broj,Kotor Varoš,1 član,1089
+2013,Broj,Krupa Na Uni,1 član,159
+2013,Broj,Kupres,1 član,44
+2013,Broj,Laktaši,1 član,2093
+2013,Broj,Lopare,1 član,1256
+2013,Broj,Ljubinje,1 član,196
+2013,Broj,Milići,1 član,789
+2013,Broj,Modriča,1 član,1983
+2013,Broj,Mrkonjić Grad,1 član,1538
+2013,Broj,Nevesinje,1 član,766
+2013,Broj,Novi Grad,1 član,1965
+2013,Broj,Novo Goražde,1 član,270
+2013,Broj,Osmaci,1 član,254
+2013,Broj,Oštra Luka,1 član,277
+2013,Broj,Pale,1 član,1515
+2013,Broj,Pelagićevo,1 član,640
+2013,Broj,Petrovac,1 član,34
+2013,Broj,Petrovo,1 član,726
+2013,Broj,Grad Prijedor,1 član,6423
+2013,Broj,Prnjavor,1 član,2943
+2013,Broj,Ribnik,1 član,642
+2013,Broj,Rogatica,1 član,986
+2013,Broj,Rudo,1 član,696
+2013,Broj,Sokolac,1 član,1022
+2013,Broj,Srbac,1 član,1507
+2013,Broj,Srebrenica,1 član,874
+2013,Broj,Teslić,1 član,3060
+2013,Broj,Grad Trebinje,1 član,1848
+2013,Broj,Trnovo,1 član,223
+2013,Broj,Ugljevik,1 član,1019
+2013,Broj,Foča,1 član,1635
+2013,Broj,Han Pijesak,1 član,389
+2013,Broj,Čajniče,1 član,395
+2013,Broj,Čelinac,1 član,951
+2013,Broj,Šamac,1 član,1406
+2013,Broj,Šekovići,1 član,708
+2013,Broj,Šipovo,1 član,839
+2013,Broj,Republika Srpska,2 člana,107130
+2013,Broj,Grad Banja Luka,2 člana,17243
+2013,Broj,Berkovići,2 člana,166
+2013,Broj,Grad Bijeljina,2 člana,8272
+2013,Broj,Bileća,2 člana,719
+2013,Broj,Bratunac,2 člana,1345
+2013,Broj,Brod,2 člana,1439
+2013,Broj,Višegrad,2 člana,1172
+2013,Broj,Vlasenica,2 člana,1001
+2013,Broj,Vukosavlje,2 člana,425
+2013,Broj,Gacko,2 člana,622
+2013,Broj,Grad Gradiška,2 člana,4438
+2013,Broj,Grad Derventa,2 člana,2598
+2013,Broj,Grad Doboj,2 člana,7242
+2013,Broj,Donji Žabar,2 člana,290
+2013,Broj,Grad Zvornik,2 člana,4288
+2013,Broj,Istočna Ilidža,2 člana,1316
+2013,Broj,Istočni Drvar,2 člana,7
+2013,Broj,Istočni Mostar,2 člana,15
+2013,Broj,Istočni Stari Grad,2 člana,146
+2013,Broj,Istočno Novo Sarajevo,2 člana,1011
+2013,Broj,Jezero,2 člana,89
+2013,Broj,Kalinovik,2 člana,213
+2013,Broj,Kneževo,2 člana,937
+2013,Broj,Kozarska Dubica,2 člana,2021
+2013,Broj,Kostajnica,2 člana,477
+2013,Broj,Kotor Varoš,2 člana,1358
+2013,Broj,Krupa Na Uni,2 člana,128
+2013,Broj,Kupres,2 člana,48
+2013,Broj,Laktaši,2 člana,2768
+2013,Broj,Lopare,2 člana,1261
+2013,Broj,Ljubinje,2 člana,254
+2013,Broj,Milići,2 člana,859
+2013,Broj,Modriča,2 člana,2332
+2013,Broj,Mrkonjić Grad,2 člana,1806
+2013,Broj,Nevesinje,2 člana,939
+2013,Broj,Novi Grad,2 člana,2390
+2013,Broj,Novo Goražde,2 člana,288
+2013,Broj,Osmaci,2 člana,372
+2013,Broj,Oštra Luka,2 člana,243
+2013,Broj,Pale,2 člana,1890
+2013,Broj,Pelagićevo,2 člana,516
+2013,Broj,Petrovac,2 člana,35
+2013,Broj,Petrovo,2 člana,760
+2013,Broj,Grad Prijedor,2 člana,7125
+2013,Broj,Prnjavor,2 člana,3253
+2013,Broj,Ribnik,2 člana,673
+2013,Broj,Rogatica,2 člana,1120
+2013,Broj,Rudo,2 člana,851
+2013,Broj,Sokolac,2 člana,1227
+2013,Broj,Srbac,2 člana,1729
+2013,Broj,Srebrenica,2 člana,858
+2013,Broj,Teslić,2 člana,3602
+2013,Broj,Grad Trebinje,2 člana,2317
+2013,Broj,Trnovo,2 člana,250
+2013,Broj,Ugljevik,2 člana,1118
+2013,Broj,Foča,2 člana,1877
+2013,Broj,Han Pijesak,2 člana,439
+2013,Broj,Čajniče,2 člana,442
+2013,Broj,Čelinac,2 člana,1260
+2013,Broj,Šamac,2 člana,1408
+2013,Broj,Šekovići,2 člana,783
+2013,Broj,Šipovo,2 člana,1059
+2013,Broj,Republika Srpska,3 člana,79155
+2013,Broj,Grad Banja Luka,3 člana,14267
+2013,Broj,Berkovići,3 člana,92
+2013,Broj,Grad Bijeljina,3 člana,6586
+2013,Broj,Bileća,3 člana,620
+2013,Broj,Bratunac,3 člana,1137
+2013,Broj,Brod,3 člana,1107
+2013,Broj,Višegrad,3 člana,724
+2013,Broj,Vlasenica,3 člana,747
+2013,Broj,Vukosavlje,3 člana,280
+2013,Broj,Gacko,3 člana,561
+2013,Broj,Grad Gradiška,3 člana,3140
+2013,Broj,Grad Derventa,3 člana,1688
+2013,Broj,Grad Doboj,3 člana,4956
+2013,Broj,Donji Žabar,3 člana,178
+2013,Broj,Grad Zvornik,3 člana,3400
+2013,Broj,Istočna Ilidža,3 člana,1075
+2013,Broj,Istočni Drvar,3 člana,6
+2013,Broj,Istočni Mostar,3 člana,12
+2013,Broj,Istočni Stari Grad,3 člana,75
+2013,Broj,Istočno Novo Sarajevo,3 člana,813
+2013,Broj,Jezero,3 člana,75
+2013,Broj,Kalinovik,3 člana,136
+2013,Broj,Kneževo,3 člana,554
+2013,Broj,Kozarska Dubica,3 člana,1351
+2013,Broj,Kostajnica,3 člana,384
+2013,Broj,Kotor Varoš,3 člana,1079
+2013,Broj,Krupa Na Uni,3 člana,84
+2013,Broj,Kupres,3 člana,16
+2013,Broj,Laktaši,3 člana,2241
+2013,Broj,Lopare,3 člana,908
+2013,Broj,Ljubinje,3 člana,234
+2013,Broj,Milići,3 člana,709
+2013,Broj,Modriča,3 člana,1567
+2013,Broj,Mrkonjić Grad,3 člana,1218
+2013,Broj,Nevesinje,3 člana,701
+2013,Broj,Novi Grad,3 člana,1669
+2013,Broj,Novo Goražde,3 člana,193
+2013,Broj,Osmaci,3 člana,317
+2013,Broj,Oštra Luka,3 člana,151
+2013,Broj,Pale,3 člana,1438
+2013,Broj,Pelagićevo,3 člana,225
+2013,Broj,Petrovac,3 člana,22
+2013,Broj,Petrovo,3 člana,448
+2013,Broj,Grad Prijedor,3 člana,5351
+2013,Broj,Prnjavor,3 člana,2183
+2013,Broj,Ribnik,3 člana,356
+2013,Broj,Rogatica,3 člana,709
+2013,Broj,Rudo,3 člana,523
+2013,Broj,Sokolac,3 člana,808
+2013,Broj,Srbac,3 člana,1106
+2013,Broj,Srebrenica,3 člana,656
+2013,Broj,Teslić,3 člana,2559
+2013,Broj,Grad Trebinje,3 člana,1871
+2013,Broj,Trnovo,3 člana,143
+2013,Broj,Ugljevik,3 člana,821
+2013,Broj,Foča,3 člana,1263
+2013,Broj,Han Pijesak,3 člana,249
+2013,Broj,Čajniče,3 člana,303
+2013,Broj,Čelinac,3 člana,985
+2013,Broj,Šamac,3 člana,971
+2013,Broj,Šekovići,3 člana,418
+2013,Broj,Šipovo,3 člana,696
+2013,Broj,Republika Srpska,4 člana,72771
+2013,Broj,Grad Banja Luka,4 člana,12952
+2013,Broj,Berkovići,4 člana,84
+2013,Broj,Grad Bijeljina,4 člana,6377
+2013,Broj,Bileća,4 člana,616
+2013,Broj,Bratunac,4 člana,1161
+2013,Broj,Brod,4 člana,928
+2013,Broj,Višegrad,4 člana,582
+2013,Broj,Vlasenica,4 člana,687
+2013,Broj,Vukosavlje,4 člana,249
+2013,Broj,Gacko,4 člana,480
+2013,Broj,Grad Gradiška,4 člana,2878
+2013,Broj,Grad Derventa,4 člana,1520
+2013,Broj,Grad Doboj,4 člana,4148
+2013,Broj,Donji Žabar,4 člana,184
+2013,Broj,Grad Zvornik,4 člana,3448
+2013,Broj,Istočna Ilidža,4 člana,1028
+2013,Broj,Istočni Drvar,4 člana,0
+2013,Broj,Istočni Mostar,4 člana,10
+2013,Broj,Istočni Stari Grad,4 člana,43
+2013,Broj,Istočno Novo Sarajevo,4 člana,702
+2013,Broj,Jezero,4 člana,58
+2013,Broj,Kalinovik,4 člana,109
+2013,Broj,Kneževo,4 člana,551
+2013,Broj,Kozarska Dubica,4 člana,1175
+2013,Broj,Kostajnica,4 člana,311
+2013,Broj,Kotor Varoš,4 člana,1206
+2013,Broj,Krupa Na Uni,4 člana,72
+2013,Broj,Kupres,4 člana,6
+2013,Broj,Laktaši,4 člana,2345
+2013,Broj,Lopare,4 člana,805
+2013,Broj,Ljubinje,4 člana,194
+2013,Broj,Milići,4 člana,714
+2013,Broj,Modriča,4 člana,1422
+2013,Broj,Mrkonjić Grad,4 člana,939
+2013,Broj,Nevesinje,4 člana,736
+2013,Broj,Novi Grad,4 člana,1422
+2013,Broj,Novo Goražde,4 člana,204
+2013,Broj,Osmaci,4 člana,358
+2013,Broj,Oštra Luka,4 člana,131
+2013,Broj,Pale,4 člana,1418
+2013,Broj,Pelagićevo,4 člana,191
+2013,Broj,Petrovac,4 člana,19
+2013,Broj,Petrovo,4 člana,370
+2013,Broj,Grad Prijedor,4 člana,4862
+2013,Broj,Prnjavor,4 člana,1953
+2013,Broj,Ribnik,4 člana,308
+2013,Broj,Rogatica,4 člana,630
+2013,Broj,Rudo,4 člana,467
+2013,Broj,Sokolac,4 člana,728
+2013,Broj,Srbac,4 člana,1011
+2013,Broj,Srebrenica,4 člana,652
+2013,Broj,Teslić,4 člana,2147
+2013,Broj,Grad Trebinje,4 člana,1765
+2013,Broj,Trnovo,4 člana,110
+2013,Broj,Ugljevik,4 člana,932
+2013,Broj,Foča,4 člana,1115
+2013,Broj,Han Pijesak,4 člana,194
+2013,Broj,Čajniče,4 člana,278
+2013,Broj,Čelinac,4 člana,964
+2013,Broj,Šamac,4 člana,823
+2013,Broj,Šekovići,4 člana,379
+2013,Broj,Šipovo,4 člana,620
+2013,Broj,Republika Srpska,5+_members,58469
+2013,Broj,Grad Banja Luka,5+_members,6564
+2013,Broj,Berkovići,5+_members,165
+2013,Broj,Grad Bijeljina,5+_members,6090
+2013,Broj,Bileća,5+_members,723
+2013,Broj,Bratunac,5+_members,1147
+2013,Broj,Brod,5+_members,765
+2013,Broj,Višegrad,5+_members,356
+2013,Broj,Vlasenica,5+_members,509
+2013,Broj,Vukosavlje,5+_members,235
+2013,Broj,Gacko,5+_members,581
+2013,Broj,Grad Gradiška,5+_members,2701
+2013,Broj,Grad Derventa,5+_members,1269
+2013,Broj,Grad Doboj,5+_members,2871
+2013,Broj,Donji Žabar,5+_members,268
+2013,Broj,Grad Zvornik,5+_members,3231
+2013,Broj,Istočna Ilidža,5+_members,613
+2013,Broj,Istočni Drvar,5+_members,1
+2013,Broj,Istočni Mostar,5+_members,17
+2013,Broj,Istočni Stari Grad,5+_members,51
+2013,Broj,Istočno Novo Sarajevo,5+_members,389
+2013,Broj,Jezero,5+_members,57
+2013,Broj,Kalinovik,5+_members,80
+2013,Broj,Kneževo,5+_members,515
+2013,Broj,Kozarska Dubica,5+_members,1047
+2013,Broj,Kostajnica,5+_members,340
+2013,Broj,Kotor Varoš,5+_members,1131
+2013,Broj,Krupa Na Uni,5+_members,100
+2013,Broj,Kupres,5+_members,14
+2013,Broj,Laktaši,5+_members,1846
+2013,Broj,Lopare,5+_members,851
+2013,Broj,Ljubinje,5+_members,199
+2013,Broj,Milići,5+_members,508
+2013,Broj,Modriča,5+_members,1249
+2013,Broj,Mrkonjić Grad,5+_members,603
+2013,Broj,Nevesinje,5+_members,843
+2013,Broj,Novi Grad,5+_members,1346
+2013,Broj,Novo Goražde,5+_members,123
+2013,Broj,Osmaci,5+_members,374
+2013,Broj,Oštra Luka,5+_members,169
+2013,Broj,Pale,5+_members,897
+2013,Broj,Pelagićevo,5+_members,215
+2013,Broj,Petrovac,5+_members,20
+2013,Broj,Petrovo,5+_members,228
+2013,Broj,Grad Prijedor,5+_members,4200
+2013,Broj,Prnjavor,5+_members,1834
+2013,Broj,Ribnik,5+_members,273
+2013,Broj,Rogatica,5+_members,426
+2013,Broj,Rudo,5+_members,310
+2013,Broj,Sokolac,5+_members,491
+2013,Broj,Srbac,5+_members,804
+2013,Broj,Srebrenica,5+_members,752
+2013,Broj,Teslić,5+_members,1887
+2013,Broj,Grad Trebinje,5+_members,1593
+2013,Broj,Trnovo,5+_members,74
+2013,Broj,Ugljevik,5+_members,977
+2013,Broj,Foča,5+_members,654
+2013,Broj,Han Pijesak,5+_members,119
+2013,Broj,Čajniče,5+_members,244
+2013,Broj,Čelinac,5+_members,849
+2013,Broj,Šamac,5+_members,1001
+2013,Broj,Šekovići,5+_members,229
+2013,Broj,Šipovo,5+_members,451

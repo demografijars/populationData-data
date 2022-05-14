@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master's_studies",
+                "enrolled_in_master_of_science_studies",
                 "enrolled_in_master_studies",
                 "enrolled_in_specialist_studies",
                 ""
@@ -39,6 +39,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
+                "M",
                 "Ž",
                 ""
               ]
@@ -47,7 +48,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

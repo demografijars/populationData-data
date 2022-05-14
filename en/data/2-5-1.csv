@@ -1,382 +1,193 @@
 Year,UNIT_MEASURE,Administrative area,Sex,Disabilities,Value
-2013,Number,Republika Srpska,Both sexes,Total,1170342
-2013,Number,Republika Srpska,M,Total,571812
-2013,Number,Republika Srpska,F,Total,598530
-2013,Number,City of Banja Luka,Both sexes,Total,180053
-2013,Number,City of Banja Luka,M,Total,86510
-2013,Number,City of Banja Luka,F,Total,93543
-2013,Number,Berkovici,Both sexes,Total,2041
-2013,Number,Berkovici,M,Total,1032
-2013,Number,Berkovici,F,Total,1009
-2013,Number,City of Bijeljina,Both sexes,Total,103874
-2013,Number,City of Bijeljina,M,Total,50760
-2013,Number,City of Bijeljina,F,Total,53114
-2013,Number,Bileca,Both sexes,Total,10607
-2013,Number,Bileca,M,Total,5346
-2013,Number,Bileca,F,Total,5261
-2013,Number,Bratunac,Both sexes,Total,18651
-2013,Number,Bratunac,M,Total,9210
-2013,Number,Bratunac,F,Total,9441
-2013,Number,Brod,Both sexes,Total,15720
-2013,Number,Brod,M,Total,7670
-2013,Number,Brod,F,Total,8050
-2013,Number,Visegrad,Both sexes,Total,10118
-2013,Number,Visegrad,M,Total,4834
-2013,Number,Visegrad,F,Total,5284
-2013,Number,Vlasenica,Both sexes,Total,10657
-2013,Number,Vlasenica,M,Total,5193
-2013,Number,Vlasenica,F,Total,5464
-2013,Number,Vukosavlje,Both sexes,Total,4363
-2013,Number,Vukosavlje,M,Total,2185
-2013,Number,Vukosavlje,F,Total,2178
-2013,Number,Gacko,Both sexes,Total,8710
-2013,Number,Gacko,M,Total,4423
-2013,Number,Gacko,F,Total,4287
-2013,Number,City of Gradiska,Both sexes,Total,49196
-2013,Number,City of Gradiska,M,Total,23944
-2013,Number,City of Gradiska,F,Total,25252
-2013,Number,City of Derventa,Both sexes,Total,25922
-2013,Number,City of Derventa,M,Total,12629
-2013,Number,City of Derventa,F,Total,13293
-2013,Number,City of Doboj,Both sexes,Total,68514
-2013,Number,City of Doboj,M,Total,33222
-2013,Number,City of Doboj,F,Total,35292
-2013,Number,Donji Zabar,Both sexes,Total,3669
-2013,Number,Donji Zabar,M,Total,1853
-2013,Number,Donji Zabar,F,Total,1816
-2013,Number,City of Zvornik,Both sexes,Total,54407
-2013,Number,City of Zvornik,M,Total,26803
-2013,Number,City of Zvornik,F,Total,27604
-2013,Number,East Ilidza,Both sexes,Total,14437
-2013,Number,East Ilidza,M,Total,6905
-2013,Number,East Ilidza,F,Total,7532
-2013,Number,East Drvar,Both sexes,Total,66
-2013,Number,East Drvar,M,Total,44
-2013,Number,East Drvar,F,Total,22
-2013,Number,East Mostar,Both sexes,Total,244
-2013,Number,East Mostar,M,Total,138
-2013,Number,East Mostar,F,Total,106
-2013,Number,East Stari Grad,Both sexes,Total,1116
-2013,Number,East Stari Grad,M,Total,552
-2013,Number,East Stari Grad,F,Total,564
-2013,Number,East Novo Sarajevo,Both sexes,Total,10401
-2013,Number,East Novo Sarajevo,M,Total,4936
-2013,Number,East Novo Sarajevo,F,Total,5465
-2013,Number,Jezero,Both sexes,Total,1039
-2013,Number,Jezero,M,Total,534
-2013,Number,Jezero,F,Total,505
-2013,Number,Kalinovik,Both sexes,Total,1962
-2013,Number,Kalinovik,M,Total,950
-2013,Number,Kalinovik,F,Total,1012
-2013,Number,Knezevo,Both sexes,Total,9368
-2013,Number,Knezevo,M,Total,4632
-2013,Number,Knezevo,F,Total,4736
-2013,Number,Kozarska Dubica,Both sexes,Total,20681
-2013,Number,Kozarska Dubica,M,Total,10094
-2013,Number,Kozarska Dubica,F,Total,10587
-2013,Number,Kostajnica,Both sexes,Total,5645
-2013,Number,Kostajnica,M,Total,2780
-2013,Number,Kostajnica,F,Total,2865
-2013,Number,Kotor Varos,Both sexes,Total,18361
-2013,Number,Kotor Varos,M,Total,9007
-2013,Number,Kotor Varos,F,Total,9354
-2013,Number,Krupa Na Uni,Both sexes,Total,1560
-2013,Number,Krupa Na Uni,M,Total,841
-2013,Number,Krupa Na Uni,F,Total,719
-2013,Number,Kupres,Both sexes,Total,293
-2013,Number,Kupres,M,Total,157
-2013,Number,Kupres,F,Total,136
-2013,Number,Laktasi,Both sexes,Total,34210
-2013,Number,Laktasi,M,Total,16905
-2013,Number,Laktasi,F,Total,17305
-2013,Number,Lopare,Both sexes,Total,14689
-2013,Number,Lopare,M,Total,7377
-2013,Number,Lopare,F,Total,7312
-2013,Number,Ljubinje,Both sexes,Total,3319
-2013,Number,Ljubinje,M,Total,1633
-2013,Number,Ljubinje,F,Total,1686
-2013,Number,Milici,Both sexes,Total,10445
-2013,Number,Milici,M,Total,5252
-2013,Number,Milici,F,Total,5193
-2013,Number,Modrica,Both sexes,Total,24490
-2013,Number,Modrica,M,Total,11969
-2013,Number,Modrica,F,Total,12521
-2013,Number,Mrkonjic Grad,Both sexes,Total,15926
-2013,Number,Mrkonjic Grad,M,Total,7660
-2013,Number,Mrkonjic Grad,F,Total,8266
-2013,Number,Nevesinje,Both sexes,Total,12542
-2013,Number,Nevesinje,M,Total,6236
-2013,Number,Nevesinje,F,Total,6306
-2013,Number,Novi Grad,Both sexes,Total,25240
-2013,Number,Novi Grad,M,Total,12580
-2013,Number,Novi Grad,F,Total,12660
-2013,Number,Novo Gorazde,Both sexes,Total,2915
-2013,Number,Novo Gorazde,M,Total,1500
-2013,Number,Novo Gorazde,F,Total,1415
-2013,Number,Osmaci,Both sexes,Total,5546
-2013,Number,Osmaci,M,Total,2779
-2013,Number,Osmaci,F,Total,2767
-2013,Number,Ostra Luka,Both sexes,Total,2705
-2013,Number,Ostra Luka,M,Total,1386
-2013,Number,Ostra Luka,F,Total,1319
-2013,Number,Pale,Both sexes,Total,20359
-2013,Number,Pale,M,Total,9744
-2013,Number,Pale,F,Total,10615
-2013,Number,Pelagicevo,Both sexes,Total,4358
-2013,Number,Pelagicevo,M,Total,2151
-2013,Number,Pelagicevo,F,Total,2207
-2013,Number,Petrovac,Both sexes,Total,354
-2013,Number,Petrovac,M,Total,169
-2013,Number,Petrovac,F,Total,185
-2013,Number,Petrovo,Both sexes,Total,6317
-2013,Number,Petrovo,M,Total,3043
-2013,Number,Petrovo,F,Total,3274
-2013,Number,City of Prijedor,Both sexes,Total,80916
-2013,Number,City of Prijedor,M,Total,39418
-2013,Number,City of Prijedor,F,Total,41498
-2013,Number,Prnjavor,Both sexes,Total,34357
-2013,Number,Prnjavor,M,Total,16675
-2013,Number,Prnjavor,F,Total,17682
-2013,Number,Ribnik,Both sexes,Total,5851
-2013,Number,Ribnik,M,Total,2900
-2013,Number,Ribnik,F,Total,2951
-2013,Number,Rogatica,Both sexes,Total,10302
-2013,Number,Rogatica,M,Total,5053
-2013,Number,Rogatica,F,Total,5249
-2013,Number,Rudo,Both sexes,Total,7578
-2013,Number,Rudo,M,Total,3840
-2013,Number,Rudo,F,Total,3738
-2013,Number,Sokolac,Both sexes,Total,11620
-2013,Number,Sokolac,M,Total,5723
-2013,Number,Sokolac,F,Total,5897
-2013,Number,Srbac,Both sexes,Total,16933
-2013,Number,Srbac,M,Total,8295
-2013,Number,Srbac,F,Total,8638
-2013,Number,Srebrenica,Both sexes,Total,11698
-2013,Number,Srebrenica,M,Total,5714
-2013,Number,Srebrenica,F,Total,5984
-2013,Number,Teslic,Both sexes,Total,37236
-2013,Number,Teslic,M,Total,17894
-2013,Number,Teslic,F,Total,19342
-2013,Number,City of Trebinje,Both sexes,Total,28239
-2013,Number,City of Trebinje,M,Total,13760
-2013,Number,City of Trebinje,F,Total,14479
-2013,Number,Trnovo,Both sexes,Total,1983
-2013,Number,Trnovo,M,Total,953
-2013,Number,Trnovo,F,Total,1030
-2013,Number,Ugljevik,Both sexes,Total,15118
-2013,Number,Ugljevik,M,Total,7626
-2013,Number,Ugljevik,F,Total,7492
-2013,Number,Foca,Both sexes,Total,17580
-2013,Number,Foca,M,Total,8880
-2013,Number,Foca,F,Total,8700
-2013,Number,Han Pijesak,Both sexes,Total,3445
-2013,Number,Han Pijesak,M,Total,1632
-2013,Number,Han Pijesak,F,Total,1813
-2013,Number,Cajnice,Both sexes,Total,4679
-2013,Number,Cajnice,M,Total,2347
-2013,Number,Cajnice,F,Total,2332
-2013,Number,Celinac,Both sexes,Total,15117
-2013,Number,Celinac,M,Total,7477
-2013,Number,Celinac,F,Total,7640
-2013,Number,Samac,Both sexes,Total,16308
-2013,Number,Samac,M,Total,7908
-2013,Number,Samac,F,Total,8400
-2013,Number,Sekovici,Both sexes,Total,6323
-2013,Number,Sekovici,M,Total,3103
-2013,Number,Sekovici,F,Total,3220
-2013,Number,Sipovo,Both sexes,Total,9969
-2013,Number,Sipovo,M,Total,5046
-2013,Number,Sipovo,F,Total,4923
-2013,Number,Republika Srpska,Both sexes,Total number of people with disabilities,102262
-2013,Number,Republika Srpska,M,Total number of people with disabilities,46720
-2013,Number,Republika Srpska,F,Total number of people with disabilities,55542
-2013,Number,City of Banja Luka,Both sexes,Total number of people with disabilities,13450
-2013,Number,City of Banja Luka,M,Total number of people with disabilities,6251
-2013,Number,City of Banja Luka,F,Total number of people with disabilities,7199
-2013,Number,Berkovici,Both sexes,Total number of people with disabilities,165
-2013,Number,Berkovici,M,Total number of people with disabilities,75
-2013,Number,Berkovici,F,Total number of people with disabilities,90
-2013,Number,City of Bijeljina,Both sexes,Total number of people with disabilities,8763
-2013,Number,City of Bijeljina,M,Total number of people with disabilities,3967
-2013,Number,City of Bijeljina,F,Total number of people with disabilities,4796
-2013,Number,Bileca,Both sexes,Total number of people with disabilities,813
-2013,Number,Bileca,M,Total number of people with disabilities,339
-2013,Number,Bileca,F,Total number of people with disabilities,474
-2013,Number,Bratunac,Both sexes,Total number of people with disabilities,1534
-2013,Number,Bratunac,M,Total number of people with disabilities,688
-2013,Number,Bratunac,F,Total number of people with disabilities,846
-2013,Number,Brod,Both sexes,Total number of people with disabilities,1420
-2013,Number,Brod,M,Total number of people with disabilities,658
-2013,Number,Brod,F,Total number of people with disabilities,762
-2013,Number,Visegrad,Both sexes,Total number of people with disabilities,1097
-2013,Number,Visegrad,M,Total number of people with disabilities,422
-2013,Number,Visegrad,F,Total number of people with disabilities,675
-2013,Number,Vlasenica,Both sexes,Total number of people with disabilities,786
-2013,Number,Vlasenica,M,Total number of people with disabilities,393
-2013,Number,Vlasenica,F,Total number of people with disabilities,393
-2013,Number,Vukosavlje,Both sexes,Total number of people with disabilities,472
-2013,Number,Vukosavlje,M,Total number of people with disabilities,226
-2013,Number,Vukosavlje,F,Total number of people with disabilities,246
-2013,Number,Gacko,Both sexes,Total number of people with disabilities,597
-2013,Number,Gacko,M,Total number of people with disabilities,261
-2013,Number,Gacko,F,Total number of people with disabilities,336
-2013,Number,City of Gradiska,Both sexes,Total number of people with disabilities,4427
-2013,Number,City of Gradiska,M,Total number of people with disabilities,1965
-2013,Number,City of Gradiska,F,Total number of people with disabilities,2462
-2013,Number,City of Derventa,Both sexes,Total number of people with disabilities,2529
-2013,Number,City of Derventa,M,Total number of people with disabilities,1153
-2013,Number,City of Derventa,F,Total number of people with disabilities,1376
-2013,Number,City of Doboj,Both sexes,Total number of people with disabilities,7404
-2013,Number,City of Doboj,M,Total number of people with disabilities,3292
-2013,Number,City of Doboj,F,Total number of people with disabilities,4112
-2013,Number,Donji Zabar,Both sexes,Total number of people with disabilities,313
-2013,Number,Donji Zabar,M,Total number of people with disabilities,146
-2013,Number,Donji Zabar,F,Total number of people with disabilities,167
-2013,Number,City of Zvornik,Both sexes,Total number of people with disabilities,4328
-2013,Number,City of Zvornik,M,Total number of people with disabilities,2027
-2013,Number,City of Zvornik,F,Total number of people with disabilities,2301
-2013,Number,East Ilidza,Both sexes,Total number of people with disabilities,1025
-2013,Number,East Ilidza,M,Total number of people with disabilities,464
-2013,Number,East Ilidza,F,Total number of people with disabilities,561
-2013,Number,East Drvar,Both sexes,Total number of people with disabilities,9
-2013,Number,East Drvar,M,Total number of people with disabilities,5
-2013,Number,East Drvar,F,Total number of people with disabilities,4
-2013,Number,East Mostar,Both sexes,Total number of people with disabilities,14
-2013,Number,East Mostar,M,Total number of people with disabilities,4
-2013,Number,East Mostar,F,Total number of people with disabilities,10
-2013,Number,East Stari Grad,Both sexes,Total number of people with disabilities,100
-2013,Number,East Stari Grad,M,Total number of people with disabilities,42
-2013,Number,East Stari Grad,F,Total number of people with disabilities,58
-2013,Number,East Novo Sarajevo,Both sexes,Total number of people with disabilities,611
-2013,Number,East Novo Sarajevo,M,Total number of people with disabilities,276
-2013,Number,East Novo Sarajevo,F,Total number of people with disabilities,335
-2013,Number,Jezero,Both sexes,Total number of people with disabilities,80
-2013,Number,Jezero,M,Total number of people with disabilities,37
-2013,Number,Jezero,F,Total number of people with disabilities,43
-2013,Number,Kalinovik,Both sexes,Total number of people with disabilities,203
-2013,Number,Kalinovik,M,Total number of people with disabilities,88
-2013,Number,Kalinovik,F,Total number of people with disabilities,115
-2013,Number,Knezevo,Both sexes,Total number of people with disabilities,933
-2013,Number,Knezevo,M,Total number of people with disabilities,449
-2013,Number,Knezevo,F,Total number of people with disabilities,484
-2013,Number,Kozarska Dubica,Both sexes,Total number of people with disabilities,2078
-2013,Number,Kozarska Dubica,M,Total number of people with disabilities,919
-2013,Number,Kozarska Dubica,F,Total number of people with disabilities,1159
-2013,Number,Kostajnica,Both sexes,Total number of people with disabilities,475
-2013,Number,Kostajnica,M,Total number of people with disabilities,216
-2013,Number,Kostajnica,F,Total number of people with disabilities,259
-2013,Number,Kotor Varos,Both sexes,Total number of people with disabilities,1857
-2013,Number,Kotor Varos,M,Total number of people with disabilities,865
-2013,Number,Kotor Varos,F,Total number of people with disabilities,992
-2013,Number,Krupa Na Uni,Both sexes,Total number of people with disabilities,204
-2013,Number,Krupa Na Uni,M,Total number of people with disabilities,93
-2013,Number,Krupa Na Uni,F,Total number of people with disabilities,111
-2013,Number,Kupres,Both sexes,Total number of people with disabilities,49
-2013,Number,Kupres,M,Total number of people with disabilities,27
-2013,Number,Kupres,F,Total number of people with disabilities,22
-2013,Number,Laktasi,Both sexes,Total number of people with disabilities,2445
-2013,Number,Laktasi,M,Total number of people with disabilities,1196
-2013,Number,Laktasi,F,Total number of people with disabilities,1249
-2013,Number,Lopare,Both sexes,Total number of people with disabilities,1612
-2013,Number,Lopare,M,Total number of people with disabilities,791
-2013,Number,Lopare,F,Total number of people with disabilities,821
-2013,Number,Ljubinje,Both sexes,Total number of people with disabilities,197
-2013,Number,Ljubinje,M,Total number of people with disabilities,84
-2013,Number,Ljubinje,F,Total number of people with disabilities,113
-2013,Number,Milici,Both sexes,Total number of people with disabilities,860
-2013,Number,Milici,M,Total number of people with disabilities,392
-2013,Number,Milici,F,Total number of people with disabilities,468
-2013,Number,Modrica,Both sexes,Total number of people with disabilities,2458
-2013,Number,Modrica,M,Total number of people with disabilities,1119
-2013,Number,Modrica,F,Total number of people with disabilities,1339
-2013,Number,Mrkonjic Grad,Both sexes,Total number of people with disabilities,1300
-2013,Number,Mrkonjic Grad,M,Total number of people with disabilities,602
-2013,Number,Mrkonjic Grad,F,Total number of people with disabilities,698
-2013,Number,Nevesinje,Both sexes,Total number of people with disabilities,876
-2013,Number,Nevesinje,M,Total number of people with disabilities,379
-2013,Number,Nevesinje,F,Total number of people with disabilities,497
-2013,Number,Novi Grad,Both sexes,Total number of people with disabilities,2687
-2013,Number,Novi Grad,M,Total number of people with disabilities,1179
-2013,Number,Novi Grad,F,Total number of people with disabilities,1508
-2013,Number,Novo Gorazde,Both sexes,Total number of people with disabilities,206
-2013,Number,Novo Gorazde,M,Total number of people with disabilities,101
-2013,Number,Novo Gorazde,F,Total number of people with disabilities,105
-2013,Number,Osmaci,Both sexes,Total number of people with disabilities,513
-2013,Number,Osmaci,M,Total number of people with disabilities,234
-2013,Number,Osmaci,F,Total number of people with disabilities,279
-2013,Number,Ostra Luka,Both sexes,Total number of people with disabilities,394
-2013,Number,Ostra Luka,M,Total number of people with disabilities,205
-2013,Number,Ostra Luka,F,Total number of people with disabilities,189
-2013,Number,Pale,Both sexes,Total number of people with disabilities,1289
-2013,Number,Pale,M,Total number of people with disabilities,594
-2013,Number,Pale,F,Total number of people with disabilities,695
-2013,Number,Pelagicevo,Both sexes,Total number of people with disabilities,688
-2013,Number,Pelagicevo,M,Total number of people with disabilities,299
-2013,Number,Pelagicevo,F,Total number of people with disabilities,389
-2013,Number,Petrovac,Both sexes,Total number of people with disabilities,16
-2013,Number,Petrovac,M,Total number of people with disabilities,6
-2013,Number,Petrovac,F,Total number of people with disabilities,10
-2013,Number,Petrovo,Both sexes,Total number of people with disabilities,944
-2013,Number,Petrovo,M,Total number of people with disabilities,399
-2013,Number,Petrovo,F,Total number of people with disabilities,545
-2013,Number,City of Prijedor,Both sexes,Total number of people with disabilities,7173
-2013,Number,City of Prijedor,M,Total number of people with disabilities,3333
-2013,Number,City of Prijedor,F,Total number of people with disabilities,3840
-2013,Number,Prnjavor,Both sexes,Total number of people with disabilities,3309
-2013,Number,Prnjavor,M,Total number of people with disabilities,1497
-2013,Number,Prnjavor,F,Total number of people with disabilities,1812
-2013,Number,Ribnik,Both sexes,Total number of people with disabilities,701
-2013,Number,Ribnik,M,Total number of people with disabilities,323
-2013,Number,Ribnik,F,Total number of people with disabilities,378
-2013,Number,Rogatica,Both sexes,Total number of people with disabilities,1012
-2013,Number,Rogatica,M,Total number of people with disabilities,464
-2013,Number,Rogatica,F,Total number of people with disabilities,548
-2013,Number,Rudo,Both sexes,Total number of people with disabilities,596
-2013,Number,Rudo,M,Total number of people with disabilities,258
-2013,Number,Rudo,F,Total number of people with disabilities,338
-2013,Number,Sokolac,Both sexes,Total number of people with disabilities,944
-2013,Number,Sokolac,M,Total number of people with disabilities,422
-2013,Number,Sokolac,F,Total number of people with disabilities,522
-2013,Number,Srbac,Both sexes,Total number of people with disabilities,1526
-2013,Number,Srbac,M,Total number of people with disabilities,714
-2013,Number,Srbac,F,Total number of people with disabilities,812
-2013,Number,Srebrenica,Both sexes,Total number of people with disabilities,1061
-2013,Number,Srebrenica,M,Total number of people with disabilities,447
-2013,Number,Srebrenica,F,Total number of people with disabilities,614
-2013,Number,Teslic,Both sexes,Total number of people with disabilities,3562
-2013,Number,Teslic,M,Total number of people with disabilities,1683
-2013,Number,Teslic,F,Total number of people with disabilities,1879
-2013,Number,City of Trebinje,Both sexes,Total number of people with disabilities,1860
-2013,Number,City of Trebinje,M,Total number of people with disabilities,823
-2013,Number,City of Trebinje,F,Total number of people with disabilities,1037
-2013,Number,Trnovo,Both sexes,Total number of people with disabilities,171
-2013,Number,Trnovo,M,Total number of people with disabilities,70
-2013,Number,Trnovo,F,Total number of people with disabilities,101
-2013,Number,Ugljevik,Both sexes,Total number of people with disabilities,1179
-2013,Number,Ugljevik,M,Total number of people with disabilities,532
-2013,Number,Ugljevik,F,Total number of people with disabilities,647
-2013,Number,Foca,Both sexes,Total number of people with disabilities,1473
-2013,Number,Foca,M,Total number of people with disabilities,725
-2013,Number,Foca,F,Total number of people with disabilities,748
-2013,Number,Han Pijesak,Both sexes,Total number of people with disabilities,269
-2013,Number,Han Pijesak,M,Total number of people with disabilities,99
-2013,Number,Han Pijesak,F,Total number of people with disabilities,170
-2013,Number,Cajnice,Both sexes,Total number of people with disabilities,461
-2013,Number,Cajnice,M,Total number of people with disabilities,208
-2013,Number,Cajnice,F,Total number of people with disabilities,253
-2013,Number,Celinac,Both sexes,Total number of people with disabilities,1672
-2013,Number,Celinac,M,Total number of people with disabilities,800
-2013,Number,Celinac,F,Total number of people with disabilities,872
-2013,Number,Samac,Both sexes,Total number of people with disabilities,1634
-2013,Number,Samac,M,Total number of people with disabilities,724
-2013,Number,Samac,F,Total number of people with disabilities,910
-2013,Number,Sekovici,Both sexes,Total number of people with disabilities,595
-2013,Number,Sekovici,M,Total number of people with disabilities,279
-2013,Number,Sekovici,F,Total number of people with disabilities,316
-2013,Number,Sipovo,Both sexes,Total number of people with disabilities,843
-2013,Number,Sipovo,M,Total number of people with disabilities,391
-2013,Number,Sipovo,F,Total number of people with disabilities,452
+2013,Number,Republika Srpska,Both sexes,Total,102262
+2013,Number,Republika Srpska,M,Total,46720
+2013,Number,Republika Srpska,F,Total,55542
+2013,Number,City of Banja Luka,Both sexes,Total,13450
+2013,Number,City of Banja Luka,M,Total,6251
+2013,Number,City of Banja Luka,F,Total,7199
+2013,Number,Berkovici,Both sexes,Total,165
+2013,Number,Berkovici,M,Total,75
+2013,Number,Berkovici,F,Total,90
+2013,Number,City of Bijeljina,Both sexes,Total,8763
+2013,Number,City of Bijeljina,M,Total,3967
+2013,Number,City of Bijeljina,F,Total,4796
+2013,Number,Bileca,Both sexes,Total,813
+2013,Number,Bileca,M,Total,339
+2013,Number,Bileca,F,Total,474
+2013,Number,Bratunac,Both sexes,Total,1534
+2013,Number,Bratunac,M,Total,688
+2013,Number,Bratunac,F,Total,846
+2013,Number,Brod,Both sexes,Total,1420
+2013,Number,Brod,M,Total,658
+2013,Number,Brod,F,Total,762
+2013,Number,Visegrad,Both sexes,Total,1097
+2013,Number,Visegrad,M,Total,422
+2013,Number,Visegrad,F,Total,675
+2013,Number,Vlasenica,Both sexes,Total,786
+2013,Number,Vlasenica,M,Total,393
+2013,Number,Vlasenica,F,Total,393
+2013,Number,Vukosavlje,Both sexes,Total,472
+2013,Number,Vukosavlje,M,Total,226
+2013,Number,Vukosavlje,F,Total,246
+2013,Number,Gacko,Both sexes,Total,597
+2013,Number,Gacko,M,Total,261
+2013,Number,Gacko,F,Total,336
+2013,Number,City of Gradiska,Both sexes,Total,4427
+2013,Number,City of Gradiska,M,Total,1965
+2013,Number,City of Gradiska,F,Total,2462
+2013,Number,City of Derventa,Both sexes,Total,2529
+2013,Number,City of Derventa,M,Total,1153
+2013,Number,City of Derventa,F,Total,1376
+2013,Number,City of Doboj,Both sexes,Total,7404
+2013,Number,City of Doboj,M,Total,3292
+2013,Number,City of Doboj,F,Total,4112
+2013,Number,Donji Zabar,Both sexes,Total,313
+2013,Number,Donji Zabar,M,Total,146
+2013,Number,Donji Zabar,F,Total,167
+2013,Number,City of Zvornik,Both sexes,Total,4328
+2013,Number,City of Zvornik,M,Total,2027
+2013,Number,City of Zvornik,F,Total,2301
+2013,Number,East Ilidza,Both sexes,Total,1025
+2013,Number,East Ilidza,M,Total,464
+2013,Number,East Ilidza,F,Total,561
+2013,Number,East Drvar,Both sexes,Total,9
+2013,Number,East Drvar,M,Total,5
+2013,Number,East Drvar,F,Total,4
+2013,Number,East Mostar,Both sexes,Total,14
+2013,Number,East Mostar,M,Total,4
+2013,Number,East Mostar,F,Total,10
+2013,Number,East Stari Grad,Both sexes,Total,100
+2013,Number,East Stari Grad,M,Total,42
+2013,Number,East Stari Grad,F,Total,58
+2013,Number,East Novo Sarajevo,Both sexes,Total,611
+2013,Number,East Novo Sarajevo,M,Total,276
+2013,Number,East Novo Sarajevo,F,Total,335
+2013,Number,Jezero,Both sexes,Total,80
+2013,Number,Jezero,M,Total,37
+2013,Number,Jezero,F,Total,43
+2013,Number,Kalinovik,Both sexes,Total,203
+2013,Number,Kalinovik,M,Total,88
+2013,Number,Kalinovik,F,Total,115
+2013,Number,Knezevo,Both sexes,Total,933
+2013,Number,Knezevo,M,Total,449
+2013,Number,Knezevo,F,Total,484
+2013,Number,Kozarska Dubica,Both sexes,Total,2078
+2013,Number,Kozarska Dubica,M,Total,919
+2013,Number,Kozarska Dubica,F,Total,1159
+2013,Number,Kostajnica,Both sexes,Total,475
+2013,Number,Kostajnica,M,Total,216
+2013,Number,Kostajnica,F,Total,259
+2013,Number,Kotor Varos,Both sexes,Total,1857
+2013,Number,Kotor Varos,M,Total,865
+2013,Number,Kotor Varos,F,Total,992
+2013,Number,Krupa Na Uni,Both sexes,Total,204
+2013,Number,Krupa Na Uni,M,Total,93
+2013,Number,Krupa Na Uni,F,Total,111
+2013,Number,Kupres,Both sexes,Total,49
+2013,Number,Kupres,M,Total,27
+2013,Number,Kupres,F,Total,22
+2013,Number,Laktasi,Both sexes,Total,2445
+2013,Number,Laktasi,M,Total,1196
+2013,Number,Laktasi,F,Total,1249
+2013,Number,Lopare,Both sexes,Total,1612
+2013,Number,Lopare,M,Total,791
+2013,Number,Lopare,F,Total,821
+2013,Number,Ljubinje,Both sexes,Total,197
+2013,Number,Ljubinje,M,Total,84
+2013,Number,Ljubinje,F,Total,113
+2013,Number,Milici,Both sexes,Total,860
+2013,Number,Milici,M,Total,392
+2013,Number,Milici,F,Total,468
+2013,Number,Modrica,Both sexes,Total,2458
+2013,Number,Modrica,M,Total,1119
+2013,Number,Modrica,F,Total,1339
+2013,Number,Mrkonjic Grad,Both sexes,Total,1300
+2013,Number,Mrkonjic Grad,M,Total,602
+2013,Number,Mrkonjic Grad,F,Total,698
+2013,Number,Nevesinje,Both sexes,Total,876
+2013,Number,Nevesinje,M,Total,379
+2013,Number,Nevesinje,F,Total,497
+2013,Number,Novi Grad,Both sexes,Total,2687
+2013,Number,Novi Grad,M,Total,1179
+2013,Number,Novi Grad,F,Total,1508
+2013,Number,Novo Gorazde,Both sexes,Total,206
+2013,Number,Novo Gorazde,M,Total,101
+2013,Number,Novo Gorazde,F,Total,105
+2013,Number,Osmaci,Both sexes,Total,513
+2013,Number,Osmaci,M,Total,234
+2013,Number,Osmaci,F,Total,279
+2013,Number,Ostra Luka,Both sexes,Total,394
+2013,Number,Ostra Luka,M,Total,205
+2013,Number,Ostra Luka,F,Total,189
+2013,Number,Pale,Both sexes,Total,1289
+2013,Number,Pale,M,Total,594
+2013,Number,Pale,F,Total,695
+2013,Number,Pelagicevo,Both sexes,Total,688
+2013,Number,Pelagicevo,M,Total,299
+2013,Number,Pelagicevo,F,Total,389
+2013,Number,Petrovac,Both sexes,Total,16
+2013,Number,Petrovac,M,Total,6
+2013,Number,Petrovac,F,Total,10
+2013,Number,Petrovo,Both sexes,Total,944
+2013,Number,Petrovo,M,Total,399
+2013,Number,Petrovo,F,Total,545
+2013,Number,City of Prijedor,Both sexes,Total,7173
+2013,Number,City of Prijedor,M,Total,3333
+2013,Number,City of Prijedor,F,Total,3840
+2013,Number,Prnjavor,Both sexes,Total,3309
+2013,Number,Prnjavor,M,Total,1497
+2013,Number,Prnjavor,F,Total,1812
+2013,Number,Ribnik,Both sexes,Total,701
+2013,Number,Ribnik,M,Total,323
+2013,Number,Ribnik,F,Total,378
+2013,Number,Rogatica,Both sexes,Total,1012
+2013,Number,Rogatica,M,Total,464
+2013,Number,Rogatica,F,Total,548
+2013,Number,Rudo,Both sexes,Total,596
+2013,Number,Rudo,M,Total,258
+2013,Number,Rudo,F,Total,338
+2013,Number,Sokolac,Both sexes,Total,944
+2013,Number,Sokolac,M,Total,422
+2013,Number,Sokolac,F,Total,522
+2013,Number,Srbac,Both sexes,Total,1526
+2013,Number,Srbac,M,Total,714
+2013,Number,Srbac,F,Total,812
+2013,Number,Srebrenica,Both sexes,Total,1061
+2013,Number,Srebrenica,M,Total,447
+2013,Number,Srebrenica,F,Total,614
+2013,Number,Teslic,Both sexes,Total,3562
+2013,Number,Teslic,M,Total,1683
+2013,Number,Teslic,F,Total,1879
+2013,Number,City of Trebinje,Both sexes,Total,1860
+2013,Number,City of Trebinje,M,Total,823
+2013,Number,City of Trebinje,F,Total,1037
+2013,Number,Trnovo,Both sexes,Total,171
+2013,Number,Trnovo,M,Total,70
+2013,Number,Trnovo,F,Total,101
+2013,Number,Ugljevik,Both sexes,Total,1179
+2013,Number,Ugljevik,M,Total,532
+2013,Number,Ugljevik,F,Total,647
+2013,Number,Foca,Both sexes,Total,1473
+2013,Number,Foca,M,Total,725
+2013,Number,Foca,F,Total,748
+2013,Number,Han Pijesak,Both sexes,Total,269
+2013,Number,Han Pijesak,M,Total,99
+2013,Number,Han Pijesak,F,Total,170
+2013,Number,Cajnice,Both sexes,Total,461
+2013,Number,Cajnice,M,Total,208
+2013,Number,Cajnice,F,Total,253
+2013,Number,Celinac,Both sexes,Total,1672
+2013,Number,Celinac,M,Total,800
+2013,Number,Celinac,F,Total,872
+2013,Number,Samac,Both sexes,Total,1634
+2013,Number,Samac,M,Total,724
+2013,Number,Samac,F,Total,910
+2013,Number,Sekovici,Both sexes,Total,595
+2013,Number,Sekovici,M,Total,279
+2013,Number,Sekovici,F,Total,316
+2013,Number,Sipovo,Both sexes,Total,843
+2013,Number,Sipovo,M,Total,391
+2013,Number,Sipovo,F,Total,452
 2013,Number,Republika Srpska,Both sexes,Number of people with eyesight disabilities despite eyeglasses,43020
 2013,Number,Republika Srpska,M,Number of people with eyesight disabilities despite eyeglasses,18052
 2013,Number,Republika Srpska,F,Number of people with eyesight disabilities despite eyeglasses,24968
@@ -1511,192 +1322,192 @@ Year,UNIT_MEASURE,Administrative area,Sex,Disabilities,Value
 2013,Number,Sipovo,Both sexes,Number of people with communication disabilities,92
 2013,Number,Sipovo,M,Number of people with communication disabilities,42
 2013,Number,Sipovo,F,Number of people with communication disabilities,50
-2013,Number,Republika Srpska,Both sexes,Number of people with more disabilities,38298
-2013,Number,Republika Srpska,M,Number of people with more disabilities,16292
-2013,Number,Republika Srpska,F,Number of people with more disabilities,22006
-2013,Number,City of Banja Luka,Both sexes,Number of people with more disabilities,4944
-2013,Number,City of Banja Luka,M,Number of people with more disabilities,2158
-2013,Number,City of Banja Luka,F,Number of people with more disabilities,2786
-2013,Number,Berkovici,Both sexes,Number of people with more disabilities,73
-2013,Number,Berkovici,M,Number of people with more disabilities,32
-2013,Number,Berkovici,F,Number of people with more disabilities,41
-2013,Number,City of Bijeljina,Both sexes,Number of people with more disabilities,3094
-2013,Number,City of Bijeljina,M,Number of people with more disabilities,1359
-2013,Number,City of Bijeljina,F,Number of people with more disabilities,1735
-2013,Number,Bileca,Both sexes,Number of people with more disabilities,350
-2013,Number,Bileca,M,Number of people with more disabilities,151
-2013,Number,Bileca,F,Number of people with more disabilities,199
-2013,Number,Bratunac,Both sexes,Number of people with more disabilities,566
-2013,Number,Bratunac,M,Number of people with more disabilities,243
-2013,Number,Bratunac,F,Number of people with more disabilities,323
-2013,Number,Brod,Both sexes,Number of people with more disabilities,485
-2013,Number,Brod,M,Number of people with more disabilities,194
-2013,Number,Brod,F,Number of people with more disabilities,291
-2013,Number,Visegrad,Both sexes,Number of people with more disabilities,477
-2013,Number,Visegrad,M,Number of people with more disabilities,145
-2013,Number,Visegrad,F,Number of people with more disabilities,332
-2013,Number,Vlasenica,Both sexes,Number of people with more disabilities,305
-2013,Number,Vlasenica,M,Number of people with more disabilities,130
-2013,Number,Vlasenica,F,Number of people with more disabilities,175
-2013,Number,Vukosavlje,Both sexes,Number of people with more disabilities,158
-2013,Number,Vukosavlje,M,Number of people with more disabilities,77
-2013,Number,Vukosavlje,F,Number of people with more disabilities,81
-2013,Number,Gacko,Both sexes,Number of people with more disabilities,219
-2013,Number,Gacko,M,Number of people with more disabilities,84
-2013,Number,Gacko,F,Number of people with more disabilities,135
-2013,Number,City of Gradiska,Both sexes,Number of people with more disabilities,1641
-2013,Number,City of Gradiska,M,Number of people with more disabilities,637
-2013,Number,City of Gradiska,F,Number of people with more disabilities,1004
-2013,Number,City of Derventa,Both sexes,Number of people with more disabilities,938
-2013,Number,City of Derventa,M,Number of people with more disabilities,385
-2013,Number,City of Derventa,F,Number of people with more disabilities,553
-2013,Number,City of Doboj,Both sexes,Number of people with more disabilities,3008
-2013,Number,City of Doboj,M,Number of people with more disabilities,1227
-2013,Number,City of Doboj,F,Number of people with more disabilities,1781
-2013,Number,Donji Zabar,Both sexes,Number of people with more disabilities,89
-2013,Number,Donji Zabar,M,Number of people with more disabilities,42
-2013,Number,Donji Zabar,F,Number of people with more disabilities,47
-2013,Number,City of Zvornik,Both sexes,Number of people with more disabilities,1546
-2013,Number,City of Zvornik,M,Number of people with more disabilities,670
-2013,Number,City of Zvornik,F,Number of people with more disabilities,876
-2013,Number,East Ilidza,Both sexes,Number of people with more disabilities,394
-2013,Number,East Ilidza,M,Number of people with more disabilities,171
-2013,Number,East Ilidza,F,Number of people with more disabilities,223
-2013,Number,East Drvar,Both sexes,Number of people with more disabilities,4
-2013,Number,East Drvar,M,Number of people with more disabilities,1
-2013,Number,East Drvar,F,Number of people with more disabilities,3
-2013,Number,East Mostar,Both sexes,Number of people with more disabilities,7
-2013,Number,East Mostar,M,Number of people with more disabilities,2
-2013,Number,East Mostar,F,Number of people with more disabilities,5
-2013,Number,East Stari Grad,Both sexes,Number of people with more disabilities,32
-2013,Number,East Stari Grad,M,Number of people with more disabilities,16
-2013,Number,East Stari Grad,F,Number of people with more disabilities,16
-2013,Number,East Novo Sarajevo,Both sexes,Number of people with more disabilities,206
-2013,Number,East Novo Sarajevo,M,Number of people with more disabilities,87
-2013,Number,East Novo Sarajevo,F,Number of people with more disabilities,119
-2013,Number,Jezero,Both sexes,Number of people with more disabilities,40
-2013,Number,Jezero,M,Number of people with more disabilities,17
-2013,Number,Jezero,F,Number of people with more disabilities,23
-2013,Number,Kalinovik,Both sexes,Number of people with more disabilities,80
-2013,Number,Kalinovik,M,Number of people with more disabilities,30
-2013,Number,Kalinovik,F,Number of people with more disabilities,50
-2013,Number,Knezevo,Both sexes,Number of people with more disabilities,399
-2013,Number,Knezevo,M,Number of people with more disabilities,178
-2013,Number,Knezevo,F,Number of people with more disabilities,221
-2013,Number,Kozarska Dubica,Both sexes,Number of people with more disabilities,741
-2013,Number,Kozarska Dubica,M,Number of people with more disabilities,302
-2013,Number,Kozarska Dubica,F,Number of people with more disabilities,439
-2013,Number,Kostajnica,Both sexes,Number of people with more disabilities,209
-2013,Number,Kostajnica,M,Number of people with more disabilities,93
-2013,Number,Kostajnica,F,Number of people with more disabilities,116
-2013,Number,Kotor Varos,Both sexes,Number of people with more disabilities,702
-2013,Number,Kotor Varos,M,Number of people with more disabilities,310
-2013,Number,Kotor Varos,F,Number of people with more disabilities,392
-2013,Number,Krupa Na Uni,Both sexes,Number of people with more disabilities,88
-2013,Number,Krupa Na Uni,M,Number of people with more disabilities,40
-2013,Number,Krupa Na Uni,F,Number of people with more disabilities,48
-2013,Number,Kupres,Both sexes,Number of people with more disabilities,21
-2013,Number,Kupres,M,Number of people with more disabilities,13
-2013,Number,Kupres,F,Number of people with more disabilities,8
-2013,Number,Laktasi,Both sexes,Number of people with more disabilities,887
-2013,Number,Laktasi,M,Number of people with more disabilities,413
-2013,Number,Laktasi,F,Number of people with more disabilities,474
-2013,Number,Lopare,Both sexes,Number of people with more disabilities,583
-2013,Number,Lopare,M,Number of people with more disabilities,254
-2013,Number,Lopare,F,Number of people with more disabilities,329
-2013,Number,Ljubinje,Both sexes,Number of people with more disabilities,81
-2013,Number,Ljubinje,M,Number of people with more disabilities,34
-2013,Number,Ljubinje,F,Number of people with more disabilities,47
-2013,Number,Milici,Both sexes,Number of people with more disabilities,314
-2013,Number,Milici,M,Number of people with more disabilities,130
-2013,Number,Milici,F,Number of people with more disabilities,184
-2013,Number,Modrica,Both sexes,Number of people with more disabilities,927
-2013,Number,Modrica,M,Number of people with more disabilities,399
-2013,Number,Modrica,F,Number of people with more disabilities,528
-2013,Number,Mrkonjic Grad,Both sexes,Number of people with more disabilities,475
-2013,Number,Mrkonjic Grad,M,Number of people with more disabilities,210
-2013,Number,Mrkonjic Grad,F,Number of people with more disabilities,265
-2013,Number,Nevesinje,Both sexes,Number of people with more disabilities,327
-2013,Number,Nevesinje,M,Number of people with more disabilities,130
-2013,Number,Nevesinje,F,Number of people with more disabilities,197
-2013,Number,Novi Grad,Both sexes,Number of people with more disabilities,1049
-2013,Number,Novi Grad,M,Number of people with more disabilities,446
-2013,Number,Novi Grad,F,Number of people with more disabilities,603
-2013,Number,Novo Gorazde,Both sexes,Number of people with more disabilities,75
-2013,Number,Novo Gorazde,M,Number of people with more disabilities,28
-2013,Number,Novo Gorazde,F,Number of people with more disabilities,47
-2013,Number,Osmaci,Both sexes,Number of people with more disabilities,189
-2013,Number,Osmaci,M,Number of people with more disabilities,79
-2013,Number,Osmaci,F,Number of people with more disabilities,110
-2013,Number,Ostra Luka,Both sexes,Number of people with more disabilities,132
-2013,Number,Ostra Luka,M,Number of people with more disabilities,63
-2013,Number,Ostra Luka,F,Number of people with more disabilities,69
-2013,Number,Pale,Both sexes,Number of people with more disabilities,446
-2013,Number,Pale,M,Number of people with more disabilities,209
-2013,Number,Pale,F,Number of people with more disabilities,237
-2013,Number,Pelagicevo,Both sexes,Number of people with more disabilities,268
-2013,Number,Pelagicevo,M,Number of people with more disabilities,102
-2013,Number,Pelagicevo,F,Number of people with more disabilities,166
-2013,Number,Petrovac,Both sexes,Number of people with more disabilities,7
-2013,Number,Petrovac,M,Number of people with more disabilities,4
-2013,Number,Petrovac,F,Number of people with more disabilities,3
-2013,Number,Petrovo,Both sexes,Number of people with more disabilities,378
-2013,Number,Petrovo,M,Number of people with more disabilities,156
-2013,Number,Petrovo,F,Number of people with more disabilities,222
-2013,Number,City of Prijedor,Both sexes,Number of people with more disabilities,2789
-2013,Number,City of Prijedor,M,Number of people with more disabilities,1276
-2013,Number,City of Prijedor,F,Number of people with more disabilities,1513
-2013,Number,Prnjavor,Both sexes,Number of people with more disabilities,1199
-2013,Number,Prnjavor,M,Number of people with more disabilities,465
-2013,Number,Prnjavor,F,Number of people with more disabilities,734
-2013,Number,Ribnik,Both sexes,Number of people with more disabilities,272
-2013,Number,Ribnik,M,Number of people with more disabilities,128
-2013,Number,Ribnik,F,Number of people with more disabilities,144
-2013,Number,Rogatica,Both sexes,Number of people with more disabilities,407
-2013,Number,Rogatica,M,Number of people with more disabilities,164
-2013,Number,Rogatica,F,Number of people with more disabilities,243
-2013,Number,Rudo,Both sexes,Number of people with more disabilities,252
-2013,Number,Rudo,M,Number of people with more disabilities,104
-2013,Number,Rudo,F,Number of people with more disabilities,148
-2013,Number,Sokolac,Both sexes,Number of people with more disabilities,347
-2013,Number,Sokolac,M,Number of people with more disabilities,143
-2013,Number,Sokolac,F,Number of people with more disabilities,204
-2013,Number,Srbac,Both sexes,Number of people with more disabilities,576
-2013,Number,Srbac,M,Number of people with more disabilities,257
-2013,Number,Srbac,F,Number of people with more disabilities,319
-2013,Number,Srebrenica,Both sexes,Number of people with more disabilities,381
-2013,Number,Srebrenica,M,Number of people with more disabilities,144
-2013,Number,Srebrenica,F,Number of people with more disabilities,237
-2013,Number,Teslic,Both sexes,Number of people with more disabilities,1374
-2013,Number,Teslic,M,Number of people with more disabilities,585
-2013,Number,Teslic,F,Number of people with more disabilities,789
-2013,Number,City of Trebinje,Both sexes,Number of people with more disabilities,689
-2013,Number,City of Trebinje,M,Number of people with more disabilities,280
-2013,Number,City of Trebinje,F,Number of people with more disabilities,409
-2013,Number,Trnovo,Both sexes,Number of people with more disabilities,69
-2013,Number,Trnovo,M,Number of people with more disabilities,31
-2013,Number,Trnovo,F,Number of people with more disabilities,38
-2013,Number,Ugljevik,Both sexes,Number of people with more disabilities,402
-2013,Number,Ugljevik,M,Number of people with more disabilities,165
-2013,Number,Ugljevik,F,Number of people with more disabilities,237
-2013,Number,Foca,Both sexes,Number of people with more disabilities,581
-2013,Number,Foca,M,Number of people with more disabilities,262
-2013,Number,Foca,F,Number of people with more disabilities,319
-2013,Number,Han Pijesak,Both sexes,Number of people with more disabilities,95
-2013,Number,Han Pijesak,M,Number of people with more disabilities,30
-2013,Number,Han Pijesak,F,Number of people with more disabilities,65
-2013,Number,Cajnice,Both sexes,Number of people with more disabilities,176
-2013,Number,Cajnice,M,Number of people with more disabilities,77
-2013,Number,Cajnice,F,Number of people with more disabilities,99
-2013,Number,Celinac,Both sexes,Number of people with more disabilities,624
-2013,Number,Celinac,M,Number of people with more disabilities,269
-2013,Number,Celinac,F,Number of people with more disabilities,355
-2013,Number,Samac,Both sexes,Number of people with more disabilities,567
-2013,Number,Samac,M,Number of people with more disabilities,228
-2013,Number,Samac,F,Number of people with more disabilities,339
-2013,Number,Sekovici,Both sexes,Number of people with more disabilities,222
-2013,Number,Sekovici,M,Number of people with more disabilities,101
-2013,Number,Sekovici,F,Number of people with more disabilities,121
-2013,Number,Sipovo,Both sexes,Number of people with more disabilities,322
-2013,Number,Sipovo,M,Number of people with more disabilities,132
-2013,Number,Sipovo,F,Number of people with more disabilities,190
+2013,Number,Republika Srpska,Both sexes,multiple_disabilities,38298
+2013,Number,Republika Srpska,M,multiple_disabilities,16292
+2013,Number,Republika Srpska,F,multiple_disabilities,22006
+2013,Number,City of Banja Luka,Both sexes,multiple_disabilities,4944
+2013,Number,City of Banja Luka,M,multiple_disabilities,2158
+2013,Number,City of Banja Luka,F,multiple_disabilities,2786
+2013,Number,Berkovici,Both sexes,multiple_disabilities,73
+2013,Number,Berkovici,M,multiple_disabilities,32
+2013,Number,Berkovici,F,multiple_disabilities,41
+2013,Number,City of Bijeljina,Both sexes,multiple_disabilities,3094
+2013,Number,City of Bijeljina,M,multiple_disabilities,1359
+2013,Number,City of Bijeljina,F,multiple_disabilities,1735
+2013,Number,Bileca,Both sexes,multiple_disabilities,350
+2013,Number,Bileca,M,multiple_disabilities,151
+2013,Number,Bileca,F,multiple_disabilities,199
+2013,Number,Bratunac,Both sexes,multiple_disabilities,566
+2013,Number,Bratunac,M,multiple_disabilities,243
+2013,Number,Bratunac,F,multiple_disabilities,323
+2013,Number,Brod,Both sexes,multiple_disabilities,485
+2013,Number,Brod,M,multiple_disabilities,194
+2013,Number,Brod,F,multiple_disabilities,291
+2013,Number,Visegrad,Both sexes,multiple_disabilities,477
+2013,Number,Visegrad,M,multiple_disabilities,145
+2013,Number,Visegrad,F,multiple_disabilities,332
+2013,Number,Vlasenica,Both sexes,multiple_disabilities,305
+2013,Number,Vlasenica,M,multiple_disabilities,130
+2013,Number,Vlasenica,F,multiple_disabilities,175
+2013,Number,Vukosavlje,Both sexes,multiple_disabilities,158
+2013,Number,Vukosavlje,M,multiple_disabilities,77
+2013,Number,Vukosavlje,F,multiple_disabilities,81
+2013,Number,Gacko,Both sexes,multiple_disabilities,219
+2013,Number,Gacko,M,multiple_disabilities,84
+2013,Number,Gacko,F,multiple_disabilities,135
+2013,Number,City of Gradiska,Both sexes,multiple_disabilities,1641
+2013,Number,City of Gradiska,M,multiple_disabilities,637
+2013,Number,City of Gradiska,F,multiple_disabilities,1004
+2013,Number,City of Derventa,Both sexes,multiple_disabilities,938
+2013,Number,City of Derventa,M,multiple_disabilities,385
+2013,Number,City of Derventa,F,multiple_disabilities,553
+2013,Number,City of Doboj,Both sexes,multiple_disabilities,3008
+2013,Number,City of Doboj,M,multiple_disabilities,1227
+2013,Number,City of Doboj,F,multiple_disabilities,1781
+2013,Number,Donji Zabar,Both sexes,multiple_disabilities,89
+2013,Number,Donji Zabar,M,multiple_disabilities,42
+2013,Number,Donji Zabar,F,multiple_disabilities,47
+2013,Number,City of Zvornik,Both sexes,multiple_disabilities,1546
+2013,Number,City of Zvornik,M,multiple_disabilities,670
+2013,Number,City of Zvornik,F,multiple_disabilities,876
+2013,Number,East Ilidza,Both sexes,multiple_disabilities,394
+2013,Number,East Ilidza,M,multiple_disabilities,171
+2013,Number,East Ilidza,F,multiple_disabilities,223
+2013,Number,East Drvar,Both sexes,multiple_disabilities,4
+2013,Number,East Drvar,M,multiple_disabilities,1
+2013,Number,East Drvar,F,multiple_disabilities,3
+2013,Number,East Mostar,Both sexes,multiple_disabilities,7
+2013,Number,East Mostar,M,multiple_disabilities,2
+2013,Number,East Mostar,F,multiple_disabilities,5
+2013,Number,East Stari Grad,Both sexes,multiple_disabilities,32
+2013,Number,East Stari Grad,M,multiple_disabilities,16
+2013,Number,East Stari Grad,F,multiple_disabilities,16
+2013,Number,East Novo Sarajevo,Both sexes,multiple_disabilities,206
+2013,Number,East Novo Sarajevo,M,multiple_disabilities,87
+2013,Number,East Novo Sarajevo,F,multiple_disabilities,119
+2013,Number,Jezero,Both sexes,multiple_disabilities,40
+2013,Number,Jezero,M,multiple_disabilities,17
+2013,Number,Jezero,F,multiple_disabilities,23
+2013,Number,Kalinovik,Both sexes,multiple_disabilities,80
+2013,Number,Kalinovik,M,multiple_disabilities,30
+2013,Number,Kalinovik,F,multiple_disabilities,50
+2013,Number,Knezevo,Both sexes,multiple_disabilities,399
+2013,Number,Knezevo,M,multiple_disabilities,178
+2013,Number,Knezevo,F,multiple_disabilities,221
+2013,Number,Kozarska Dubica,Both sexes,multiple_disabilities,741
+2013,Number,Kozarska Dubica,M,multiple_disabilities,302
+2013,Number,Kozarska Dubica,F,multiple_disabilities,439
+2013,Number,Kostajnica,Both sexes,multiple_disabilities,209
+2013,Number,Kostajnica,M,multiple_disabilities,93
+2013,Number,Kostajnica,F,multiple_disabilities,116
+2013,Number,Kotor Varos,Both sexes,multiple_disabilities,702
+2013,Number,Kotor Varos,M,multiple_disabilities,310
+2013,Number,Kotor Varos,F,multiple_disabilities,392
+2013,Number,Krupa Na Uni,Both sexes,multiple_disabilities,88
+2013,Number,Krupa Na Uni,M,multiple_disabilities,40
+2013,Number,Krupa Na Uni,F,multiple_disabilities,48
+2013,Number,Kupres,Both sexes,multiple_disabilities,21
+2013,Number,Kupres,M,multiple_disabilities,13
+2013,Number,Kupres,F,multiple_disabilities,8
+2013,Number,Laktasi,Both sexes,multiple_disabilities,887
+2013,Number,Laktasi,M,multiple_disabilities,413
+2013,Number,Laktasi,F,multiple_disabilities,474
+2013,Number,Lopare,Both sexes,multiple_disabilities,583
+2013,Number,Lopare,M,multiple_disabilities,254
+2013,Number,Lopare,F,multiple_disabilities,329
+2013,Number,Ljubinje,Both sexes,multiple_disabilities,81
+2013,Number,Ljubinje,M,multiple_disabilities,34
+2013,Number,Ljubinje,F,multiple_disabilities,47
+2013,Number,Milici,Both sexes,multiple_disabilities,314
+2013,Number,Milici,M,multiple_disabilities,130
+2013,Number,Milici,F,multiple_disabilities,184
+2013,Number,Modrica,Both sexes,multiple_disabilities,927
+2013,Number,Modrica,M,multiple_disabilities,399
+2013,Number,Modrica,F,multiple_disabilities,528
+2013,Number,Mrkonjic Grad,Both sexes,multiple_disabilities,475
+2013,Number,Mrkonjic Grad,M,multiple_disabilities,210
+2013,Number,Mrkonjic Grad,F,multiple_disabilities,265
+2013,Number,Nevesinje,Both sexes,multiple_disabilities,327
+2013,Number,Nevesinje,M,multiple_disabilities,130
+2013,Number,Nevesinje,F,multiple_disabilities,197
+2013,Number,Novi Grad,Both sexes,multiple_disabilities,1049
+2013,Number,Novi Grad,M,multiple_disabilities,446
+2013,Number,Novi Grad,F,multiple_disabilities,603
+2013,Number,Novo Gorazde,Both sexes,multiple_disabilities,75
+2013,Number,Novo Gorazde,M,multiple_disabilities,28
+2013,Number,Novo Gorazde,F,multiple_disabilities,47
+2013,Number,Osmaci,Both sexes,multiple_disabilities,189
+2013,Number,Osmaci,M,multiple_disabilities,79
+2013,Number,Osmaci,F,multiple_disabilities,110
+2013,Number,Ostra Luka,Both sexes,multiple_disabilities,132
+2013,Number,Ostra Luka,M,multiple_disabilities,63
+2013,Number,Ostra Luka,F,multiple_disabilities,69
+2013,Number,Pale,Both sexes,multiple_disabilities,446
+2013,Number,Pale,M,multiple_disabilities,209
+2013,Number,Pale,F,multiple_disabilities,237
+2013,Number,Pelagicevo,Both sexes,multiple_disabilities,268
+2013,Number,Pelagicevo,M,multiple_disabilities,102
+2013,Number,Pelagicevo,F,multiple_disabilities,166
+2013,Number,Petrovac,Both sexes,multiple_disabilities,7
+2013,Number,Petrovac,M,multiple_disabilities,4
+2013,Number,Petrovac,F,multiple_disabilities,3
+2013,Number,Petrovo,Both sexes,multiple_disabilities,378
+2013,Number,Petrovo,M,multiple_disabilities,156
+2013,Number,Petrovo,F,multiple_disabilities,222
+2013,Number,City of Prijedor,Both sexes,multiple_disabilities,2789
+2013,Number,City of Prijedor,M,multiple_disabilities,1276
+2013,Number,City of Prijedor,F,multiple_disabilities,1513
+2013,Number,Prnjavor,Both sexes,multiple_disabilities,1199
+2013,Number,Prnjavor,M,multiple_disabilities,465
+2013,Number,Prnjavor,F,multiple_disabilities,734
+2013,Number,Ribnik,Both sexes,multiple_disabilities,272
+2013,Number,Ribnik,M,multiple_disabilities,128
+2013,Number,Ribnik,F,multiple_disabilities,144
+2013,Number,Rogatica,Both sexes,multiple_disabilities,407
+2013,Number,Rogatica,M,multiple_disabilities,164
+2013,Number,Rogatica,F,multiple_disabilities,243
+2013,Number,Rudo,Both sexes,multiple_disabilities,252
+2013,Number,Rudo,M,multiple_disabilities,104
+2013,Number,Rudo,F,multiple_disabilities,148
+2013,Number,Sokolac,Both sexes,multiple_disabilities,347
+2013,Number,Sokolac,M,multiple_disabilities,143
+2013,Number,Sokolac,F,multiple_disabilities,204
+2013,Number,Srbac,Both sexes,multiple_disabilities,576
+2013,Number,Srbac,M,multiple_disabilities,257
+2013,Number,Srbac,F,multiple_disabilities,319
+2013,Number,Srebrenica,Both sexes,multiple_disabilities,381
+2013,Number,Srebrenica,M,multiple_disabilities,144
+2013,Number,Srebrenica,F,multiple_disabilities,237
+2013,Number,Teslic,Both sexes,multiple_disabilities,1374
+2013,Number,Teslic,M,multiple_disabilities,585
+2013,Number,Teslic,F,multiple_disabilities,789
+2013,Number,City of Trebinje,Both sexes,multiple_disabilities,689
+2013,Number,City of Trebinje,M,multiple_disabilities,280
+2013,Number,City of Trebinje,F,multiple_disabilities,409
+2013,Number,Trnovo,Both sexes,multiple_disabilities,69
+2013,Number,Trnovo,M,multiple_disabilities,31
+2013,Number,Trnovo,F,multiple_disabilities,38
+2013,Number,Ugljevik,Both sexes,multiple_disabilities,402
+2013,Number,Ugljevik,M,multiple_disabilities,165
+2013,Number,Ugljevik,F,multiple_disabilities,237
+2013,Number,Foca,Both sexes,multiple_disabilities,581
+2013,Number,Foca,M,multiple_disabilities,262
+2013,Number,Foca,F,multiple_disabilities,319
+2013,Number,Han Pijesak,Both sexes,multiple_disabilities,95
+2013,Number,Han Pijesak,M,multiple_disabilities,30
+2013,Number,Han Pijesak,F,multiple_disabilities,65
+2013,Number,Cajnice,Both sexes,multiple_disabilities,176
+2013,Number,Cajnice,M,multiple_disabilities,77
+2013,Number,Cajnice,F,multiple_disabilities,99
+2013,Number,Celinac,Both sexes,multiple_disabilities,624
+2013,Number,Celinac,M,multiple_disabilities,269
+2013,Number,Celinac,F,multiple_disabilities,355
+2013,Number,Samac,Both sexes,multiple_disabilities,567
+2013,Number,Samac,M,multiple_disabilities,228
+2013,Number,Samac,F,multiple_disabilities,339
+2013,Number,Sekovici,Both sexes,multiple_disabilities,222
+2013,Number,Sekovici,M,multiple_disabilities,101
+2013,Number,Sekovici,F,multiple_disabilities,121
+2013,Number,Sipovo,Both sexes,multiple_disabilities,322
+2013,Number,Sipovo,M,multiple_disabilities,132
+2013,Number,Sipovo,F,multiple_disabilities,190

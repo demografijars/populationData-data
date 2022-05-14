@@ -16,20 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "0-14",
-                "0-18",
                 "0-4",
                 "10-14",
-                "100+",
                 "100-104",
                 "105-109",
                 "110-114",
                 "115-119",
                 "120+",
                 "15-19",
-                "15-29",
-                "15-49",
-                "15-64",
                 "20-24",
                 "25-29",
                 "30-34",
@@ -40,13 +34,10 @@
                 "50-54",
                 "55-59",
                 "60-64",
-                "65+",
                 "65-69",
                 "70-74",
-                "75+",
                 "75-79",
                 "80-84",
-                "Older than 85",
                 "85-89",
                 "90-94",
                 "95-99"
@@ -70,6 +61,66 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
+          },
+          {
+            "name": "Unnamed: 10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 10"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 6"
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 7"
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 8"
+          },
+          {
+            "name": "Unnamed: 9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 9"
           },
           {
             "name": "Value",

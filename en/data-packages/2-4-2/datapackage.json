@@ -89,7 +89,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Total",
                 "Elementary education",
                 "Higher school or first deegre university education",
                 "Incomplete elementary education",

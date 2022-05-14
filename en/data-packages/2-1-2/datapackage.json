@@ -34,8 +34,7 @@
                 "75-79",
                 "80-84",
                 "Older than 85",
-                "Total",
-                "Average age"
+                "Total"
               ]
             },
             "title": "Age"
@@ -60,7 +59,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

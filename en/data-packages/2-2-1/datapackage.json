@@ -92,10 +92,10 @@
                 "Total",
                 "Declares as Bosniak nationality",
                 "Declares as Croat nationality",
-                "Does not declare about religion",
-                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
+                "does_not_declare_ethnicity/nationality",
+                "other_ethnicity/nationality",
                 "Declares as Serb nationality",
-                "Unknown computer literacy rate"
+                "unknown_ethnicity/nationality"
               ]
             },
             "title": "Nationality"

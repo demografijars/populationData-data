@@ -53,7 +53,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Number"
+                "F",
+                "M",
+                "Total"
               ]
             },
             "title": "Sex"

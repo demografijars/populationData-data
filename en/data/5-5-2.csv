@@ -1,37 +1,37 @@
 Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
-2017,Number,Total,enrolled_in_master's_studies,Both sexes,2140
-2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,67
-2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,347
-2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,99
-2017,Number,health_and_social_protection,enrolled_in_master's_studies,Both sexes,35
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,Both sexes,206
-2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,Both sexes,473
-2017,Number,"business,_administration_and_law",enrolled_in_master's_studies,Both sexes,356
-2017,Number,education,enrolled_in_master's_studies,Both sexes,236
-2017,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,319
-2017,Number,services,enrolled_in_master's_studies,Both sexes,2
-2017,Number,Total,enrolled_in_master's_studies,M,917
-2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,26
-2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,208
-2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,80
-2017,Number,health_and_social_protection,enrolled_in_master's_studies,M,8
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,M,114
-2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,M,176
-2017,Number,"business,_administration_and_law",enrolled_in_master's_studies,M,124
-2017,Number,education,enrolled_in_master's_studies,M,39
-2017,Number,humanities_and_arts,enrolled_in_master's_studies,M,142
-2017,Number,services,enrolled_in_master's_studies,M,0
-2017,Number,Total,enrolled_in_master's_studies,F,1223
-2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,41
-2017,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,139
-2017,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,19
-2017,Number,health_and_social_protection,enrolled_in_master's_studies,F,27
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,F,92
-2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,F,297
-2017,Number,"business,_administration_and_law",enrolled_in_master's_studies,F,232
-2017,Number,education,enrolled_in_master's_studies,F,197
-2017,Number,humanities_and_arts,enrolled_in_master's_studies,F,177
-2017,Number,services,enrolled_in_master's_studies,F,2
+2017,Number,Total,enrolled_in_master_of_science_studies,Both sexes,2140
+2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Both sexes,67
+2017,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Both sexes,347
+2017,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,Both sexes,99
+2017,Number,health_and_social_protection,enrolled_in_master_of_science_studies,Both sexes,35
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Both sexes,206
+2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Both sexes,473
+2017,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,Both sexes,356
+2017,Number,education,enrolled_in_master_of_science_studies,Both sexes,236
+2017,Number,arts_and_humanities,enrolled_in_master_of_science_studies,Both sexes,319
+2017,Number,services,enrolled_in_master_of_science_studies,Both sexes,2
+2017,Number,Total,enrolled_in_master_of_science_studies,M,917
+2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,26
+2017,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,208
+2017,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,80
+2017,Number,health_and_social_protection,enrolled_in_master_of_science_studies,M,8
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,114
+2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,176
+2017,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,124
+2017,Number,education,enrolled_in_master_of_science_studies,M,39
+2017,Number,arts_and_humanities,enrolled_in_master_of_science_studies,M,142
+2017,Number,services,enrolled_in_master_of_science_studies,M,0
+2017,Number,Total,enrolled_in_master_of_science_studies,F,1223
+2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,F,41
+2017,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,F,139
+2017,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,F,19
+2017,Number,health_and_social_protection,enrolled_in_master_of_science_studies,F,27
+2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,F,92
+2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,F,297
+2017,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,F,232
+2017,Number,education,enrolled_in_master_of_science_studies,F,197
+2017,Number,arts_and_humanities,enrolled_in_master_of_science_studies,F,177
+2017,Number,services,enrolled_in_master_of_science_studies,F,2
 2017,Number,Total,enrolled_in_master_studies,Both sexes,31
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,1
 2017,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,0
@@ -41,7 +41,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Both sexes,0
 2017,Number,"business,_administration_and_law",enrolled_in_master_studies,Both sexes,2
 2017,Number,education,enrolled_in_master_studies,Both sexes,1
-2017,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,5
+2017,Number,arts_and_humanities,enrolled_in_master_studies,Both sexes,5
 2017,Number,services,enrolled_in_master_studies,Both sexes,0
 2017,Number,Total,enrolled_in_master_studies,M,21
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,0
@@ -52,7 +52,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,0
 2017,Number,"business,_administration_and_law",enrolled_in_master_studies,M,2
 2017,Number,education,enrolled_in_master_studies,M,0
-2017,Number,humanities_and_arts,enrolled_in_master_studies,M,5
+2017,Number,arts_and_humanities,enrolled_in_master_studies,M,5
 2017,Number,services,enrolled_in_master_studies,M,0
 2017,Number,Total,enrolled_in_master_studies,F,10
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,1
@@ -63,7 +63,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,F,0
 2017,Number,"business,_administration_and_law",enrolled_in_master_studies,F,0
 2017,Number,education,enrolled_in_master_studies,F,1
-2017,Number,humanities_and_arts,enrolled_in_master_studies,F,0
+2017,Number,arts_and_humanities,enrolled_in_master_studies,F,0
 2017,Number,services,enrolled_in_master_studies,F,0
 2017,Number,Total,enrolled_in_specialist_studies,Both sexes,73
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
@@ -74,7 +74,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Both sexes,1
 2017,Number,"business,_administration_and_law",enrolled_in_specialist_studies,Both sexes,1
 2017,Number,education,enrolled_in_specialist_studies,Both sexes,0
-2017,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
+2017,Number,arts_and_humanities,enrolled_in_specialist_studies,Both sexes,0
 2017,Number,services,enrolled_in_specialist_studies,Both sexes,0
 2017,Number,Total,enrolled_in_specialist_studies,M,34
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
@@ -85,7 +85,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,1
 2017,Number,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
 2017,Number,education,enrolled_in_specialist_studies,M,0
-2017,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
+2017,Number,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2017,Number,services,enrolled_in_specialist_studies,M,0
 2017,Number,Total,enrolled_in_specialist_studies,F,39
 2017,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
@@ -96,75 +96,42 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2017,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,F,0
 2017,Number,"business,_administration_and_law",enrolled_in_specialist_studies,F,1
 2017,Number,education,enrolled_in_specialist_studies,F,0
-2017,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
+2017,Number,arts_and_humanities,enrolled_in_specialist_studies,F,0
 2017,Number,services,enrolled_in_specialist_studies,F,0
-2017,Number,Total,doctoral_students,Both sexes,130
-2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,10
-2017,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,4
-2017,Number,information_and_communication_technologies,doctoral_students,Both sexes,12
-2017,Number,health_and_social_protection,doctoral_students,Both sexes,25
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,Both sexes,9
-2017,Number,"social_sciences,_journalism_and_information",doctoral_students,Both sexes,50
-2017,Number,"business,_administration_and_law",doctoral_students,Both sexes,10
-2017,Number,education,doctoral_students,Both sexes,0
-2017,Number,humanities_and_arts,doctoral_students,Both sexes,10
-2017,Number,services,doctoral_students,Both sexes,0
-2017,Number,Total,doctoral_students,M,70
-2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,6
-2017,Number,"engineering,_production_and_construction",doctoral_students,M,3
-2017,Number,information_and_communication_technologies,doctoral_students,M,9
-2017,Number,health_and_social_protection,doctoral_students,M,6
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,M,4
-2017,Number,"social_sciences,_journalism_and_information",doctoral_students,M,29
-2017,Number,"business,_administration_and_law",doctoral_students,M,4
-2017,Number,education,doctoral_students,M,0
-2017,Number,humanities_and_arts,doctoral_students,M,9
-2017,Number,services,doctoral_students,M,0
-2017,Number,Total,doctoral_students,F,60
-2017,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
-2017,Number,"engineering,_production_and_construction",doctoral_students,F,1
-2017,Number,information_and_communication_technologies,doctoral_students,F,3
-2017,Number,health_and_social_protection,doctoral_students,F,19
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,F,5
-2017,Number,"social_sciences,_journalism_and_information",doctoral_students,F,21
-2017,Number,"business,_administration_and_law",doctoral_students,F,6
-2017,Number,education,doctoral_students,F,0
-2017,Number,humanities_and_arts,doctoral_students,F,1
-2017,Number,services,doctoral_students,F,0
-2018,Number,Total,enrolled_in_master's_studies,Both sexes,14
-2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
-2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,0
-2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
-2018,Number,health_and_social_protection,enrolled_in_master's_studies,Both sexes,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,Both sexes,1
-2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,Both sexes,1
-2018,Number,"business,_administration_and_law",enrolled_in_master's_studies,Both sexes,0
-2018,Number,education,enrolled_in_master's_studies,Both sexes,9
-2018,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,3
-2018,Number,services,enrolled_in_master's_studies,Both sexes,0
-2018,Number,Total,enrolled_in_master's_studies,M,6
-2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
-2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
-2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
-2018,Number,health_and_social_protection,enrolled_in_master's_studies,M,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,M,0
-2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,M,1
-2018,Number,"business,_administration_and_law",enrolled_in_master's_studies,M,0
-2018,Number,education,enrolled_in_master's_studies,M,2
-2018,Number,humanities_and_arts,enrolled_in_master's_studies,M,3
-2018,Number,services,enrolled_in_master's_studies,M,0
-2018,Number,Total,enrolled_in_master's_studies,F,8
-2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
-2018,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,0
-2018,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
-2018,Number,health_and_social_protection,enrolled_in_master's_studies,F,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,F,1
-2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,F,0
-2018,Number,"business,_administration_and_law",enrolled_in_master's_studies,F,0
-2018,Number,education,enrolled_in_master's_studies,F,7
-2018,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
-2018,Number,services,enrolled_in_master's_studies,F,0
-2018,Number,Total,enrolled_in_master_studies,Both sexes,2 144
+2018,Number,Total,enrolled_in_master_of_science_studies,Both sexes,14
+2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,health_and_social_protection,enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Both sexes,1
+2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Both sexes,1
+2018,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,education,enrolled_in_master_of_science_studies,Both sexes,9
+2018,Number,arts_and_humanities,enrolled_in_master_of_science_studies,Both sexes,3
+2018,Number,services,enrolled_in_master_of_science_studies,Both sexes,0
+2018,Number,Total,enrolled_in_master_of_science_studies,M,6
+2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
+2018,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
+2018,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
+2018,Number,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
+2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,1
+2018,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,0
+2018,Number,education,enrolled_in_master_of_science_studies,M,2
+2018,Number,arts_and_humanities,enrolled_in_master_of_science_studies,M,3
+2018,Number,services,enrolled_in_master_of_science_studies,M,0
+2018,Number,Total,enrolled_in_master_of_science_studies,F,8
+2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,F,0
+2018,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,F,0
+2018,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,F,0
+2018,Number,health_and_social_protection,enrolled_in_master_of_science_studies,F,0
+2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,F,1
+2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,F,0
+2018,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,F,0
+2018,Number,education,enrolled_in_master_of_science_studies,F,7
+2018,Number,arts_and_humanities,enrolled_in_master_of_science_studies,F,0
+2018,Number,services,enrolled_in_master_of_science_studies,F,0
+2018,Number,Total,enrolled_in_master_studies,Both sexes,2144
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,76
 2018,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,362
 2018,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,120
@@ -173,7 +140,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Both sexes,503
 2018,Number,"business,_administration_and_law",enrolled_in_master_studies,Both sexes,240
 2018,Number,education,enrolled_in_master_studies,Both sexes,314
-2018,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,291
+2018,Number,arts_and_humanities,enrolled_in_master_studies,Both sexes,291
 2018,Number,services,enrolled_in_master_studies,Both sexes,7
 2018,Number,Total,enrolled_in_master_studies,M,937
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,28
@@ -184,9 +151,9 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,163
 2018,Number,"business,_administration_and_law",enrolled_in_master_studies,M,85
 2018,Number,education,enrolled_in_master_studies,M,103
-2018,Number,humanities_and_arts,enrolled_in_master_studies,M,133
+2018,Number,arts_and_humanities,enrolled_in_master_studies,M,133
 2018,Number,services,enrolled_in_master_studies,M,3
-2018,Number,Total,enrolled_in_master_studies,F,1 207
+2018,Number,Total,enrolled_in_master_studies,F,1207
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,48
 2018,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,133
 2018,Number,information_and_communication_technologies,enrolled_in_master_studies,F,37
@@ -195,7 +162,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,F,340
 2018,Number,"business,_administration_and_law",enrolled_in_master_studies,F,155
 2018,Number,education,enrolled_in_master_studies,F,211
-2018,Number,humanities_and_arts,enrolled_in_master_studies,F,158
+2018,Number,arts_and_humanities,enrolled_in_master_studies,F,158
 2018,Number,services,enrolled_in_master_studies,F,4
 2018,Number,Total,enrolled_in_specialist_studies,Both sexes,160
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
@@ -206,7 +173,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Both sexes,1
 2018,Number,"business,_administration_and_law",enrolled_in_specialist_studies,Both sexes,0
 2018,Number,education,enrolled_in_specialist_studies,Both sexes,2
-2018,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,1
+2018,Number,arts_and_humanities,enrolled_in_specialist_studies,Both sexes,1
 2018,Number,services,enrolled_in_specialist_studies,Both sexes,0
 2018,Number,Total,enrolled_in_specialist_studies,M,66
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
@@ -217,7 +184,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,1
 2018,Number,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
 2018,Number,education,enrolled_in_specialist_studies,M,0
-2018,Number,humanities_and_arts,enrolled_in_specialist_studies,M,1
+2018,Number,arts_and_humanities,enrolled_in_specialist_studies,M,1
 2018,Number,services,enrolled_in_specialist_studies,M,0
 2018,Number,Total,enrolled_in_specialist_studies,F,94
 2018,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
@@ -228,75 +195,42 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2018,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,F,0
 2018,Number,"business,_administration_and_law",enrolled_in_specialist_studies,F,0
 2018,Number,education,enrolled_in_specialist_studies,F,2
-2018,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
+2018,Number,arts_and_humanities,enrolled_in_specialist_studies,F,0
 2018,Number,services,enrolled_in_specialist_studies,F,0
-2018,Number,Total,doctoral_students,Both sexes,119
-2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,8
-2018,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,3
-2018,Number,information_and_communication_technologies,doctoral_students,Both sexes,11
-2018,Number,health_and_social_protection,doctoral_students,Both sexes,37
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,Both sexes,9
-2018,Number,"social_sciences,_journalism_and_information",doctoral_students,Both sexes,16
-2018,Number,"business,_administration_and_law",doctoral_students,Both sexes,10
-2018,Number,education,doctoral_students,Both sexes,3
-2018,Number,humanities_and_arts,doctoral_students,Both sexes,22
-2018,Number,services,doctoral_students,Both sexes,0
-2018,Number,Total,doctoral_students,M,56
-2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,3
-2018,Number,"engineering,_production_and_construction",doctoral_students,M,2
-2018,Number,information_and_communication_technologies,doctoral_students,M,11
-2018,Number,health_and_social_protection,doctoral_students,M,9
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,M,6
-2018,Number,"social_sciences,_journalism_and_information",doctoral_students,M,8
-2018,Number,"business,_administration_and_law",doctoral_students,M,4
-2018,Number,education,doctoral_students,M,3
-2018,Number,humanities_and_arts,doctoral_students,M,10
-2018,Number,services,doctoral_students,M,0
-2018,Number,Total,doctoral_students,F,63
-2018,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,5
-2018,Number,"engineering,_production_and_construction",doctoral_students,F,1
-2018,Number,information_and_communication_technologies,doctoral_students,F,0
-2018,Number,health_and_social_protection,doctoral_students,F,28
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,F,3
-2018,Number,"social_sciences,_journalism_and_information",doctoral_students,F,8
-2018,Number,"business,_administration_and_law",doctoral_students,F,6
-2018,Number,education,doctoral_students,F,0
-2018,Number,humanities_and_arts,doctoral_students,F,12
-2018,Number,services,doctoral_students,F,0
-2019,Number,Total,enrolled_in_master's_studies,Both sexes,16
-2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
-2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,13
-2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
-2019,Number,health_and_social_protection,enrolled_in_master's_studies,Both sexes,0
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,Both sexes,0
-2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,Both sexes,0
-2019,Number,"business,_administration_and_law",enrolled_in_master's_studies,Both sexes,0
-2019,Number,education,enrolled_in_master's_studies,Both sexes,2
-2019,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,1
-2019,Number,services,enrolled_in_master's_studies,Both sexes,0
-2019,Number,Total,enrolled_in_master's_studies,M,12
-2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
-2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,10
-2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
-2019,Number,health_and_social_protection,enrolled_in_master's_studies,M,0
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,M,0
-2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,M,0
-2019,Number,"business,_administration_and_law",enrolled_in_master's_studies,M,0
-2019,Number,education,enrolled_in_master's_studies,M,1
-2019,Number,humanities_and_arts,enrolled_in_master's_studies,M,1
-2019,Number,services,enrolled_in_master's_studies,M,0
-2019,Number,Total,enrolled_in_master's_studies,F,4
-2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
-2019,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,3
-2019,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
-2019,Number,health_and_social_protection,enrolled_in_master's_studies,F,0
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,F,0
-2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,F,0
-2019,Number,"business,_administration_and_law",enrolled_in_master's_studies,F,0
-2019,Number,education,enrolled_in_master's_studies,F,1
-2019,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
-2019,Number,services,enrolled_in_master's_studies,F,0
-2019,Number,Total,enrolled_in_master_studies,Both sexes,2 109
+2019,Number,Total,enrolled_in_master_of_science_studies,Both sexes,16
+2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Both sexes,13
+2019,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,health_and_social_protection,enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,education,enrolled_in_master_of_science_studies,Both sexes,2
+2019,Number,arts_and_humanities,enrolled_in_master_of_science_studies,Both sexes,1
+2019,Number,services,enrolled_in_master_of_science_studies,Both sexes,0
+2019,Number,Total,enrolled_in_master_of_science_studies,M,12
+2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
+2019,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,10
+2019,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
+2019,Number,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
+2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,0
+2019,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,0
+2019,Number,education,enrolled_in_master_of_science_studies,M,1
+2019,Number,arts_and_humanities,enrolled_in_master_of_science_studies,M,1
+2019,Number,services,enrolled_in_master_of_science_studies,M,0
+2019,Number,Total,enrolled_in_master_of_science_studies,F,4
+2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,F,0
+2019,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,F,3
+2019,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,F,0
+2019,Number,health_and_social_protection,enrolled_in_master_of_science_studies,F,0
+2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,F,0
+2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,F,0
+2019,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,F,0
+2019,Number,education,enrolled_in_master_of_science_studies,F,1
+2019,Number,arts_and_humanities,enrolled_in_master_of_science_studies,F,0
+2019,Number,services,enrolled_in_master_of_science_studies,F,0
+2019,Number,Total,enrolled_in_master_studies,Both sexes,2109
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,79
 2019,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,394
 2019,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,80
@@ -305,7 +239,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Both sexes,492
 2019,Number,"business,_administration_and_law",enrolled_in_master_studies,Both sexes,236
 2019,Number,education,enrolled_in_master_studies,Both sexes,298
-2019,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,291
+2019,Number,arts_and_humanities,enrolled_in_master_studies,Both sexes,291
 2019,Number,services,enrolled_in_master_studies,Both sexes,6
 2019,Number,Total,enrolled_in_master_studies,M,930
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,22
@@ -316,9 +250,9 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,160
 2019,Number,"business,_administration_and_law",enrolled_in_master_studies,M,89
 2019,Number,education,enrolled_in_master_studies,M,104
-2019,Number,humanities_and_arts,enrolled_in_master_studies,M,142
+2019,Number,arts_and_humanities,enrolled_in_master_studies,M,142
 2019,Number,services,enrolled_in_master_studies,M,3
-2019,Number,Total,enrolled_in_master_studies,F,1 179
+2019,Number,Total,enrolled_in_master_studies,F,1179
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,57
 2019,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,151
 2019,Number,information_and_communication_technologies,enrolled_in_master_studies,F,21
@@ -327,7 +261,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,F,332
 2019,Number,"business,_administration_and_law",enrolled_in_master_studies,F,147
 2019,Number,education,enrolled_in_master_studies,F,194
-2019,Number,humanities_and_arts,enrolled_in_master_studies,F,149
+2019,Number,arts_and_humanities,enrolled_in_master_studies,F,149
 2019,Number,services,enrolled_in_master_studies,F,3
 2019,Number,Total,enrolled_in_specialist_studies,Both sexes,170
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
@@ -338,7 +272,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Both sexes,0
 2019,Number,"business,_administration_and_law",enrolled_in_specialist_studies,Both sexes,0
 2019,Number,education,enrolled_in_specialist_studies,Both sexes,0
-2019,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
+2019,Number,arts_and_humanities,enrolled_in_specialist_studies,Both sexes,0
 2019,Number,services,enrolled_in_specialist_studies,Both sexes,0
 2019,Number,Total,enrolled_in_specialist_studies,M,72
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
@@ -349,7 +283,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,0
 2019,Number,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
 2019,Number,education,enrolled_in_specialist_studies,M,0
-2019,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
+2019,Number,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2019,Number,services,enrolled_in_specialist_studies,M,0
 2019,Number,Total,enrolled_in_specialist_studies,F,98
 2019,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
@@ -360,75 +294,42 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2019,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,F,0
 2019,Number,"business,_administration_and_law",enrolled_in_specialist_studies,F,0
 2019,Number,education,enrolled_in_specialist_studies,F,0
-2019,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
+2019,Number,arts_and_humanities,enrolled_in_specialist_studies,F,0
 2019,Number,services,enrolled_in_specialist_studies,F,0
-2019,Number,Total,doctoral_students,Both sexes,165
-2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,10
-2019,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,0
-2019,Number,information_and_communication_technologies,doctoral_students,Both sexes,0
-2019,Number,health_and_social_protection,doctoral_students,Both sexes,65
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,Both sexes,9
-2019,Number,"social_sciences,_journalism_and_information",doctoral_students,Both sexes,58
-2019,Number,"business,_administration_and_law",doctoral_students,Both sexes,5
-2019,Number,education,doctoral_students,Both sexes,8
-2019,Number,humanities_and_arts,doctoral_students,Both sexes,10
-2019,Number,services,doctoral_students,Both sexes,0
-2019,Number,Total,doctoral_students,M,71
-2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,6
-2019,Number,"engineering,_production_and_construction",doctoral_students,M,0
-2019,Number,information_and_communication_technologies,doctoral_students,M,0
-2019,Number,health_and_social_protection,doctoral_students,M,19
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,M,6
-2019,Number,"social_sciences,_journalism_and_information",doctoral_students,M,28
-2019,Number,"business,_administration_and_law",doctoral_students,M,2
-2019,Number,education,doctoral_students,M,5
-2019,Number,humanities_and_arts,doctoral_students,M,5
-2019,Number,services,doctoral_students,M,0
-2019,Number,Total,doctoral_students,F,94
-2019,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
-2019,Number,"engineering,_production_and_construction",doctoral_students,F,0
-2019,Number,information_and_communication_technologies,doctoral_students,F,0
-2019,Number,health_and_social_protection,doctoral_students,F,46
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,F,3
-2019,Number,"social_sciences,_journalism_and_information",doctoral_students,F,30
-2019,Number,"business,_administration_and_law",doctoral_students,F,3
-2019,Number,education,doctoral_students,F,3
-2019,Number,humanities_and_arts,doctoral_students,F,5
-2019,Number,services,doctoral_students,F,0
-2020,Number,Total,enrolled_in_master's_studies,Both sexes,4
-2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,Both sexes,0
-2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,Both sexes,0
-2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,Both sexes,0
-2020,Number,health_and_social_protection,enrolled_in_master's_studies,Both sexes,0
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,Both sexes,0
-2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,Both sexes,0
-2020,Number,"business,_administration_and_law",enrolled_in_master's_studies,Both sexes,2
-2020,Number,education,enrolled_in_master's_studies,Both sexes,2
-2020,Number,humanities_and_arts,enrolled_in_master's_studies,Both sexes,0
-2020,Number,services,enrolled_in_master's_studies,Both sexes,0
-2020,Number,Total,enrolled_in_master's_studies,M,3
-2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,M,0
-2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,M,0
-2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,M,0
-2020,Number,health_and_social_protection,enrolled_in_master's_studies,M,0
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,M,0
-2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,M,0
-2020,Number,"business,_administration_and_law",enrolled_in_master's_studies,M,1
-2020,Number,education,enrolled_in_master's_studies,M,2
-2020,Number,humanities_and_arts,enrolled_in_master's_studies,M,0
-2020,Number,services,enrolled_in_master's_studies,M,0
-2020,Number,Total,enrolled_in_master's_studies,F,1
-2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master's_studies,F,0
-2020,Number,"engineering,_production_and_construction",enrolled_in_master's_studies,F,0
-2020,Number,information_and_communication_technologies,enrolled_in_master's_studies,F,0
-2020,Number,health_and_social_protection,enrolled_in_master's_studies,F,0
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master's_studies,F,0
-2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master's_studies,F,0
-2020,Number,"business,_administration_and_law",enrolled_in_master's_studies,F,1
-2020,Number,education,enrolled_in_master's_studies,F,0
-2020,Number,humanities_and_arts,enrolled_in_master's_studies,F,0
-2020,Number,services,enrolled_in_master's_studies,F,0
-2020,Number,Total,enrolled_in_master_studies,Both sexes,2 430
+2020,Number,Total,enrolled_in_master_of_science_studies,Both sexes,4
+2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,health_and_social_protection,enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,Both sexes,2
+2020,Number,education,enrolled_in_master_of_science_studies,Both sexes,2
+2020,Number,arts_and_humanities,enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,services,enrolled_in_master_of_science_studies,Both sexes,0
+2020,Number,Total,enrolled_in_master_of_science_studies,M,3
+2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
+2020,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
+2020,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
+2020,Number,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
+2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,0
+2020,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,1
+2020,Number,education,enrolled_in_master_of_science_studies,M,2
+2020,Number,arts_and_humanities,enrolled_in_master_of_science_studies,M,0
+2020,Number,services,enrolled_in_master_of_science_studies,M,0
+2020,Number,Total,enrolled_in_master_of_science_studies,F,1
+2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,F,0
+2020,Number,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,F,0
+2020,Number,information_and_communication_technologies,enrolled_in_master_of_science_studies,F,0
+2020,Number,health_and_social_protection,enrolled_in_master_of_science_studies,F,0
+2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,F,0
+2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,F,0
+2020,Number,"business,_administration_and_law",enrolled_in_master_of_science_studies,F,1
+2020,Number,education,enrolled_in_master_of_science_studies,F,0
+2020,Number,arts_and_humanities,enrolled_in_master_of_science_studies,F,0
+2020,Number,services,enrolled_in_master_of_science_studies,F,0
+2020,Number,Total,enrolled_in_master_studies,Both sexes,2430
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Both sexes,93
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,Both sexes,399
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,Both sexes,117
@@ -437,9 +338,9 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Both sexes,619
 2020,Number,"business,_administration_and_law",enrolled_in_master_studies,Both sexes,216
 2020,Number,education,enrolled_in_master_studies,Both sexes,381
-2020,Number,humanities_and_arts,enrolled_in_master_studies,Both sexes,328
+2020,Number,arts_and_humanities,enrolled_in_master_studies,Both sexes,328
 2020,Number,services,enrolled_in_master_studies,Both sexes,9
-2020,Number,Total,enrolled_in_master_studies,M,1 036
+2020,Number,Total,enrolled_in_master_studies,M,1036
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,26
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,M,252
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,M,82
@@ -448,9 +349,9 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,194
 2020,Number,"business,_administration_and_law",enrolled_in_master_studies,M,79
 2020,Number,education,enrolled_in_master_studies,M,129
-2020,Number,humanities_and_arts,enrolled_in_master_studies,M,142
+2020,Number,arts_and_humanities,enrolled_in_master_studies,M,142
 2020,Number,services,enrolled_in_master_studies,M,3
-2020,Number,Total,enrolled_in_master_studies,F,1 394
+2020,Number,Total,enrolled_in_master_studies,F,1394
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,F,67
 2020,Number,"engineering,_production_and_construction",enrolled_in_master_studies,F,147
 2020,Number,information_and_communication_technologies,enrolled_in_master_studies,F,35
@@ -459,7 +360,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_master_studies,F,425
 2020,Number,"business,_administration_and_law",enrolled_in_master_studies,F,137
 2020,Number,education,enrolled_in_master_studies,F,252
-2020,Number,humanities_and_arts,enrolled_in_master_studies,F,186
+2020,Number,arts_and_humanities,enrolled_in_master_studies,F,186
 2020,Number,services,enrolled_in_master_studies,F,6
 2020,Number,Total,enrolled_in_specialist_studies,Both sexes,170
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Both sexes,0
@@ -470,7 +371,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Both sexes,0
 2020,Number,"business,_administration_and_law",enrolled_in_specialist_studies,Both sexes,0
 2020,Number,education,enrolled_in_specialist_studies,Both sexes,0
-2020,Number,humanities_and_arts,enrolled_in_specialist_studies,Both sexes,0
+2020,Number,arts_and_humanities,enrolled_in_specialist_studies,Both sexes,0
 2020,Number,services,enrolled_in_specialist_studies,Both sexes,0
 2020,Number,Total,enrolled_in_specialist_studies,M,39
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
@@ -481,7 +382,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,0
 2020,Number,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
 2020,Number,education,enrolled_in_specialist_studies,M,0
-2020,Number,humanities_and_arts,enrolled_in_specialist_studies,M,0
+2020,Number,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2020,Number,services,enrolled_in_specialist_studies,M,0
 2020,Number,Total,enrolled_in_specialist_studies,F,131
 2020,Number,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,F,0
@@ -492,38 +393,5 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Sex,Value
 2020,Number,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,F,0
 2020,Number,"business,_administration_and_law",enrolled_in_specialist_studies,F,0
 2020,Number,education,enrolled_in_specialist_studies,F,0
-2020,Number,humanities_and_arts,enrolled_in_specialist_studies,F,0
+2020,Number,arts_and_humanities,enrolled_in_specialist_studies,F,0
 2020,Number,services,enrolled_in_specialist_studies,F,0
-2020,Number,Total,doctoral_students,Both sexes,184
-2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,Both sexes,12
-2020,Number,"engineering,_production_and_construction",doctoral_students,Both sexes,2
-2020,Number,information_and_communication_technologies,doctoral_students,Both sexes,5
-2020,Number,health_and_social_protection,doctoral_students,Both sexes,96
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,Both sexes,14
-2020,Number,"social_sciences,_journalism_and_information",doctoral_students,Both sexes,22
-2020,Number,"business,_administration_and_law",doctoral_students,Both sexes,1
-2020,Number,education,doctoral_students,Both sexes,8
-2020,Number,humanities_and_arts,doctoral_students,Both sexes,24
-2020,Number,services,doctoral_students,Both sexes,0
-2020,Number,Total,doctoral_students,M,79
-2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,M,8
-2020,Number,"engineering,_production_and_construction",doctoral_students,M,1
-2020,Number,information_and_communication_technologies,doctoral_students,M,3
-2020,Number,health_and_social_protection,doctoral_students,M,35
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,M,9
-2020,Number,"social_sciences,_journalism_and_information",doctoral_students,M,12
-2020,Number,"business,_administration_and_law",doctoral_students,M,0
-2020,Number,education,doctoral_students,M,8
-2020,Number,humanities_and_arts,doctoral_students,M,3
-2020,Number,services,doctoral_students,M,0
-2020,Number,Total,doctoral_students,F,105
-2020,Number,"natural_sciences,_mathematics_and_statistics",doctoral_students,F,4
-2020,Number,"engineering,_production_and_construction",doctoral_students,F,1
-2020,Number,information_and_communication_technologies,doctoral_students,F,2
-2020,Number,health_and_social_protection,doctoral_students,F,61
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine",doctoral_students,F,5
-2020,Number,"social_sciences,_journalism_and_information",doctoral_students,F,10
-2020,Number,"business,_administration_and_law",doctoral_students,F,1
-2020,Number,education,doctoral_students,F,0
-2020,Number,humanities_and_arts,doctoral_students,F,21
-2020,Number,services,doctoral_students,F,0

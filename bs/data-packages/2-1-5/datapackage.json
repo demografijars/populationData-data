@@ -94,17 +94,6 @@
             "title": "Administrativna oblast"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
@@ -115,7 +104,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+_members",
+                "5+_children",
                 ""
               ]
             },

@@ -94,10 +94,10 @@
                 "Atheist",
                 "Catholic Cristian",
                 "Does not declare about religion",
-                "Islam",
+                "muslim",
                 "Ortodox Cristian",
-                "Religion other than Islam, Catholic Crsitian, Ortodox Cristian",
-                "Unknown computer literacy rate"
+                "other_religion",
+                "unknown_religion"
               ]
             },
             "title": "Religion"

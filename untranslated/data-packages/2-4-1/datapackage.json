@@ -107,10 +107,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "illiterate",
-                "illiterates_percentage",
-                "unknown",
+                "unknown_literacy",
                 ""
               ]
             }

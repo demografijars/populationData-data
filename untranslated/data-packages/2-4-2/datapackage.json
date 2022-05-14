@@ -107,7 +107,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
                 "no_education",
                 "incomplete_elementary",
                 "elementary_education",

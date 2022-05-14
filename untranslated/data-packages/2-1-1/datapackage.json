@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "_T",
                 "0",
                 "1",
                 "2",

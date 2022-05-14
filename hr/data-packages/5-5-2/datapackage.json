@@ -34,7 +34,7 @@
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
                 "education",
-                "humanities_and_arts",
+                "arts_and_humanities",
                 "services",
                 ""
               ]
@@ -46,10 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master's_studies",
+                "enrolled_in_master_of_science_studies",
                 "enrolled_in_master_studies",
                 "enrolled_in_specialist_studies",
-                "doctoral_students",
                 ""
               ]
             },
@@ -70,7 +69,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

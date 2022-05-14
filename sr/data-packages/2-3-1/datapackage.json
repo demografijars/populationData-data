@@ -94,19 +94,6 @@
             "title": "Административно подручје"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Укупно",
-                "M",
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
@@ -117,7 +104,6 @@
                 "3 члана",
                 "4 члана",
                 "5 и више чланова",
-                "Просјечан број чланова домаћинства",
                 ""
               ]
             },
@@ -125,7 +111,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -16,13 +16,6 @@
             "constraints": {
               "enum": [
                 "",
-                "GRAD ISTOCNO SARAJEVO",
-                "GRAD grad_bijeljina",
-                "GRAD grad_derventa",
-                "GRAD grad_gradiska",
-                "GRAD grad_prijedor",
-                "GRAD grad_trebinje",
-                "STANARI",
                 "Berkovici",
                 "Bileca",
                 "Bratunac",
@@ -33,7 +26,13 @@
                 "Foca",
                 "Gacko",
                 "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
                 "City of Doboj",
+                "City of Gradiska",
+                "City of East Sarajevo",
+                "City of Prijedor",
+                "City of Trebinje",
                 "City of Zvornik",
                 "Han Pijesak",
                 "East Ilidza",
@@ -75,6 +74,7 @@
                 "Sokolac",
                 "Srbac",
                 "Srebrenica",
+                "Stanari",
                 "Teslic",
                 "Trnovo",
                 "Ugljevik",
@@ -135,7 +135,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           },
           {

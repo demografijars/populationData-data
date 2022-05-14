@@ -26,7 +26,6 @@
                 "masters_of_science",
                 "masters",
                 "specialists",
-                "doctors",
                 ""
               ]
             }
@@ -37,8 +36,8 @@
             "constraints": {
               "enum": [
                 "_T",
-                "F",
                 "M",
+                "F",
                 ""
               ]
             }

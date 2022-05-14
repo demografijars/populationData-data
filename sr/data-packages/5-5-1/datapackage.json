@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Уписани на магистарске студије",
+                "enrolled_in_master_of_science_studies",
                 "Уписани на мастер студије",
                 "Уписани на специјалистичке студије",
                 ""
@@ -39,6 +39,7 @@
             "constraints": {
               "enum": [
                 "Укупно",
+                "M",
                 "Ж",
                 ""
               ]
@@ -47,7 +48,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]

@@ -91,16 +91,6 @@
             }
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
@@ -111,7 +101,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5+_members",
+                "5+_children",
                 ""
               ]
             }

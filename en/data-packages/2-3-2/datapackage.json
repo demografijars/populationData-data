@@ -104,7 +104,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Total",
                 "Number of agricultural households",
                 "Number of agricultural households that are selling their products"
               ]

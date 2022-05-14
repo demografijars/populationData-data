@@ -115,9 +115,9 @@
                 "bosniaks",
                 "croats",
                 "serbs",
-                "Drugo",
-                "does_not_declare",
-                "Nepoznato",
+                "other_ethnicity/nationality",
+                "does_not_declare_ethnicity/nationality",
+                "unknown_ethnicity/nationality",
                 ""
               ]
             },

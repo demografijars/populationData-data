@@ -19,6 +19,18 @@
             "type": "string"
           },
           {
+            "name": "INSTITUTION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "public",
+                "private",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

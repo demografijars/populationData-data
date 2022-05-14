@@ -94,24 +94,10 @@
                 "Four members of household",
                 "Five and more members of household",
                 "Total",
-                "Average number of memebers in the household",
                 "One member of household"
               ]
             },
             "title": "Household size"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F",
-                "M",
-                "Total"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
@@ -120,7 +106,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {

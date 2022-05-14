@@ -32,16 +32,15 @@
               "enum": [
                 "",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "agriculture_and_veterinary_medicine",
+                "arts_and_humanities",
                 "business,_administration_and_law",
                 "education",
-                "engineering,_production_technologies_and_construction",
+                "engineering,_production_and_construction",
                 "health_and_social_protection",
-                "humanities_and_arts",
-                "information_and_communication_technologie",
-                "natural_sciences,_mathematics_and_informatics",
+                "information_and_communication_technologies",
+                "natural_sciences,_mathematics_and_statistics",
                 "services",
-                "social_sciences,_business_and_law"
+                "social_sciences,_journalism_and_information"
               ]
             },
             "title": "scientific_field"

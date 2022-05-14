@@ -1,16 +1,46 @@
-Year,UNIT_MEASURE,Spol,Value
-2016,Broj,Oba spola,9953
-2016,Broj,M,5184
-2016,Broj,Ž,4769
-2017,Broj,Oba spola,10240
-2017,Broj,M,5298
-2017,Broj,Ž,4942
-2018,Broj,Oba spola,12156
-2018,Broj,M,6341
-2018,Broj,Ž,5815
-2019,Broj,Oba spola,13138
-2019,Broj,M,6801
-2019,Broj,Ž,6337
-2020,Broj,Oba spola,11247
-2020,Broj,M,5852
-2020,Broj,Ž,5395
+Year,UNIT_MEASURE,INSTITUTION,Spol,Value
+2016,Broj,Ukupno,Oba spola,9953
+2016,Broj,Ukupno,M,5184
+2016,Broj,Ukupno,Ž,4769
+2017,Broj,Ukupno,Oba spola,10240
+2017,Broj,Ukupno,M,5298
+2017,Broj,Ukupno,Ž,4942
+2018,Broj,Ukupno,Oba spola,12156
+2018,Broj,Ukupno,M,6341
+2018,Broj,Ukupno,Ž,5815
+2019,Broj,Ukupno,Oba spola,13138
+2019,Broj,Ukupno,M,6801
+2019,Broj,Ukupno,Ž,6337
+2020,Broj,Ukupno,Oba spola,11247
+2020,Broj,Ukupno,M,5852
+2020,Broj,Ukupno,Ž,5395
+2016,Broj,Javna,Oba spola,7454
+2016,Broj,Javna,M,3869
+2016,Broj,Javna,Ž,3585
+2017,Broj,Javna,Oba spola,7773
+2017,Broj,Javna,M,4012
+2017,Broj,Javna,Ž,3761
+2018,Broj,Javna,Oba spola,8553
+2018,Broj,Javna,M,4485
+2018,Broj,Javna,Ž,4068
+2019,Broj,Javna,Oba spola,9074
+2019,Broj,Javna,M,4704
+2019,Broj,Javna,Ž,4370
+2020,Broj,Javna,Oba spola,7774
+2020,Broj,Javna,M,4043
+2020,Broj,Javna,Ž,3731
+2016,Broj,Privatna,Oba spola,2499
+2016,Broj,Privatna,M,1315
+2016,Broj,Privatna,Ž,1184
+2017,Broj,Privatna,Oba spola,2467
+2017,Broj,Privatna,M,1286
+2017,Broj,Privatna,Ž,1181
+2018,Broj,Privatna,Oba spola,3603
+2018,Broj,Privatna,M,1856
+2018,Broj,Privatna,Ž,1747
+2019,Broj,Privatna,Oba spola,4064
+2019,Broj,Privatna,M,2097
+2019,Broj,Privatna,Ž,1967
+2020,Broj,Privatna,Oba spola,3473
+2020,Broj,Privatna,M,1809
+2020,Broj,Privatna,Ž,1664

@@ -1,16 +1,46 @@
-Year,UNIT_MEASURE,Sex,Value
-2016,Number,Both sexes,9953
-2016,Number,M,5184
-2016,Number,F,4769
-2017,Number,Both sexes,10240
-2017,Number,M,5298
-2017,Number,F,4942
-2018,Number,Both sexes,12156
-2018,Number,M,6341
-2018,Number,F,5815
-2019,Number,Both sexes,13138
-2019,Number,M,6801
-2019,Number,F,6337
-2020,Number,Both sexes,11247
-2020,Number,M,5852
-2020,Number,F,5395
+Year,UNIT_MEASURE,INSTITUTION,Sex,Value
+2016,Number,Total,Both sexes,9953
+2016,Number,Total,M,5184
+2016,Number,Total,F,4769
+2017,Number,Total,Both sexes,10240
+2017,Number,Total,M,5298
+2017,Number,Total,F,4942
+2018,Number,Total,Both sexes,12156
+2018,Number,Total,M,6341
+2018,Number,Total,F,5815
+2019,Number,Total,Both sexes,13138
+2019,Number,Total,M,6801
+2019,Number,Total,F,6337
+2020,Number,Total,Both sexes,11247
+2020,Number,Total,M,5852
+2020,Number,Total,F,5395
+2016,Number,Public,Both sexes,7454
+2016,Number,Public,M,3869
+2016,Number,Public,F,3585
+2017,Number,Public,Both sexes,7773
+2017,Number,Public,M,4012
+2017,Number,Public,F,3761
+2018,Number,Public,Both sexes,8553
+2018,Number,Public,M,4485
+2018,Number,Public,F,4068
+2019,Number,Public,Both sexes,9074
+2019,Number,Public,M,4704
+2019,Number,Public,F,4370
+2020,Number,Public,Both sexes,7774
+2020,Number,Public,M,4043
+2020,Number,Public,F,3731
+2016,Number,Private,Both sexes,2499
+2016,Number,Private,M,1315
+2016,Number,Private,F,1184
+2017,Number,Private,Both sexes,2467
+2017,Number,Private,M,1286
+2017,Number,Private,F,1181
+2018,Number,Private,Both sexes,3603
+2018,Number,Private,M,1856
+2018,Number,Private,F,1747
+2019,Number,Private,Both sexes,4064
+2019,Number,Private,M,2097
+2019,Number,Private,F,1967
+2020,Number,Private,Both sexes,3473
+2020,Number,Private,M,1809
+2020,Number,Private,F,1664

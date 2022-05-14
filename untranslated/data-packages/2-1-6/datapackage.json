@@ -23,10 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_support_ratio",
-                "young_age_support_ratio",
-                "old_age_support_ratio",
-                "older_persons_to_youth_ratio",
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
                 ""
               ]
             }

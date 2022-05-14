@@ -28,7 +28,6 @@
                 "masters_of_science",
                 "masters",
                 "specialists",
-                "doctors",
                 ""
               ]
             },
@@ -40,8 +39,8 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Ž",
                 "M",
+                "Ž",
                 ""
               ]
             },

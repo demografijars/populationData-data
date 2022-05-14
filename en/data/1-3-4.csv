@@ -17,6 +17,366 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,Total,14763
 2019,Number,Both sexes,Total,15081
 2020,Number,Both sexes,Total,16582
+2003,Number,Both sexes,Infectious and parasitic diseases,89
+2004,Number,Both sexes,Infectious and parasitic diseases,124
+2005,Number,Both sexes,Infectious and parasitic diseases,128
+2006,Number,Both sexes,Infectious and parasitic diseases,111
+2007,Number,Both sexes,Infectious and parasitic diseases,103
+2008,Number,Both sexes,Infectious and parasitic diseases,118
+2009,Number,Both sexes,Infectious and parasitic diseases,118
+2010,Number,Both sexes,Infectious and parasitic diseases,109
+2011,Number,Both sexes,Infectious and parasitic diseases,117
+2012,Number,Both sexes,Infectious and parasitic diseases,135
+2013,Number,Both sexes,Infectious and parasitic diseases,120
+2014,Number,Both sexes,Infectious and parasitic diseases,136
+2015,Number,Both sexes,Infectious and parasitic diseases,159
+2016,Number,Both sexes,Infectious and parasitic diseases,187
+2017,Number,Both sexes,Infectious and parasitic diseases,147
+2018,Number,Both sexes,Infectious and parasitic diseases,184
+2019,Number,Both sexes,Infectious and parasitic diseases,200
+2020,Number,Both sexes,Infectious and parasitic diseases,162
+2003,Number,Both sexes,Neoplasms,2411
+2004,Number,Both sexes,Neoplasms,2330
+2005,Number,Both sexes,Neoplasms,2653
+2006,Number,Both sexes,Neoplasms,2551
+2007,Number,Both sexes,Neoplasms,2733
+2008,Number,Both sexes,Neoplasms,2733
+2009,Number,Both sexes,Neoplasms,2822
+2010,Number,Both sexes,Neoplasms,2700
+2011,Number,Both sexes,Neoplasms,2802
+2012,Number,Both sexes,Neoplasms,2937
+2013,Number,Both sexes,Neoplasms,3090
+2014,Number,Both sexes,Neoplasms,3154
+2015,Number,Both sexes,Neoplasms,3138
+2016,Number,Both sexes,Neoplasms,2948
+2017,Number,Both sexes,Neoplasms,3027
+2018,Number,Both sexes,Neoplasms,2938
+2019,Number,Both sexes,Neoplasms,2891
+2020,Number,Both sexes,Neoplasms,2719
+2003,Number,Both sexes,Diseases of the blood and blood forming organs,8
+2004,Number,Both sexes,Diseases of the blood and blood forming organs,13
+2005,Number,Both sexes,Diseases of the blood and blood forming organs,15
+2006,Number,Both sexes,Diseases of the blood and blood forming organs,6
+2007,Number,Both sexes,Diseases of the blood and blood forming organs,16
+2008,Number,Both sexes,Diseases of the blood and blood forming organs,8
+2009,Number,Both sexes,Diseases of the blood and blood forming organs,13
+2010,Number,Both sexes,Diseases of the blood and blood forming organs,15
+2011,Number,Both sexes,Diseases of the blood and blood forming organs,17
+2012,Number,Both sexes,Diseases of the blood and blood forming organs,15
+2013,Number,Both sexes,Diseases of the blood and blood forming organs,16
+2014,Number,Both sexes,Diseases of the blood and blood forming organs,10
+2015,Number,Both sexes,Diseases of the blood and blood forming organs,19
+2016,Number,Both sexes,Diseases of the blood and blood forming organs,24
+2017,Number,Both sexes,Diseases of the blood and blood forming organs,20
+2018,Number,Both sexes,Diseases of the blood and blood forming organs,36
+2019,Number,Both sexes,Diseases of the blood and blood forming organs,24
+2020,Number,Both sexes,Diseases of the blood and blood forming organs,27
+2003,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,180
+2004,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,160
+2005,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,727
+2006,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,790
+2007,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,791
+2008,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,764
+2009,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,891
+2010,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,691
+2011,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,654
+2012,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,561
+2013,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,800
+2014,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,912
+2015,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,762
+2016,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,691
+2017,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,825
+2018,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,844
+2019,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,604
+2020,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,825
+2003,Number,Both sexes,Mental disorders and behavioral disorders,33
+2004,Number,Both sexes,Mental disorders and behavioral disorders,58
+2005,Number,Both sexes,Mental disorders and behavioral disorders,80
+2006,Number,Both sexes,Mental disorders and behavioral disorders,82
+2007,Number,Both sexes,Mental disorders and behavioral disorders,107
+2008,Number,Both sexes,Mental disorders and behavioral disorders,101
+2009,Number,Both sexes,Mental disorders and behavioral disorders,122
+2010,Number,Both sexes,Mental disorders and behavioral disorders,84
+2011,Number,Both sexes,Mental disorders and behavioral disorders,72
+2012,Number,Both sexes,Mental disorders and behavioral disorders,58
+2013,Number,Both sexes,Mental disorders and behavioral disorders,95
+2014,Number,Both sexes,Mental disorders and behavioral disorders,84
+2015,Number,Both sexes,Mental disorders and behavioral disorders,72
+2016,Number,Both sexes,Mental disorders and behavioral disorders,98
+2017,Number,Both sexes,Mental disorders and behavioral disorders,113
+2018,Number,Both sexes,Mental disorders and behavioral disorders,85
+2019,Number,Both sexes,Mental disorders and behavioral disorders,72
+2020,Number,Both sexes,Mental disorders and behavioral disorders,72
+2003,Number,Both sexes,Nervous system diseases,65
+2004,Number,Both sexes,Nervous system diseases,91
+2005,Number,Both sexes,Nervous system diseases,170
+2006,Number,Both sexes,Nervous system diseases,184
+2007,Number,Both sexes,Nervous system diseases,155
+2008,Number,Both sexes,Nervous system diseases,146
+2009,Number,Both sexes,Nervous system diseases,133
+2010,Number,Both sexes,Nervous system diseases,152
+2011,Number,Both sexes,Nervous system diseases,209
+2012,Number,Both sexes,Nervous system diseases,207
+2013,Number,Both sexes,Nervous system diseases,185
+2014,Number,Both sexes,Nervous system diseases,186
+2015,Number,Both sexes,Nervous system diseases,212
+2016,Number,Both sexes,Nervous system diseases,171
+2017,Number,Both sexes,Nervous system diseases,197
+2018,Number,Both sexes,Nervous system diseases,169
+2019,Number,Both sexes,Nervous system diseases,165
+2020,Number,Both sexes,Nervous system diseases,188
+2003,Number,Both sexes,Eye diseases and eye soldering disease,0
+2004,Number,Both sexes,Eye diseases and eye soldering disease,0
+2005,Number,Both sexes,Eye diseases and eye soldering disease,0
+2006,Number,Both sexes,Eye diseases and eye soldering disease,0
+2007,Number,Both sexes,Eye diseases and eye soldering disease,0
+2008,Number,Both sexes,Eye diseases and eye soldering disease,0
+2009,Number,Both sexes,Eye diseases and eye soldering disease,0
+2010,Number,Both sexes,Eye diseases and eye soldering disease,0
+2011,Number,Both sexes,Eye diseases and eye soldering disease,0
+2012,Number,Both sexes,Eye diseases and eye soldering disease,0
+2013,Number,Both sexes,Eye diseases and eye soldering disease,0
+2014,Number,Both sexes,Eye diseases and eye soldering disease,0
+2015,Number,Both sexes,Eye diseases and eye soldering disease,0
+2016,Number,Both sexes,Eye diseases and eye soldering disease,0
+2017,Number,Both sexes,Eye diseases and eye soldering disease,0
+2018,Number,Both sexes,Eye diseases and eye soldering disease,0
+2019,Number,Both sexes,Eye diseases and eye soldering disease,0
+2020,Number,Both sexes,Eye diseases and eye soldering disease,0
+2003,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2004,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2005,Number,Both sexes,diseases_of_ear_and_mastoid_process,1
+2006,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2007,Number,Both sexes,diseases_of_ear_and_mastoid_process,1
+2008,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2009,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2010,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2011,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2012,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2013,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2014,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2015,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2016,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2017,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2018,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2019,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2020,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
+2003,Number,Both sexes,Diseases of the circulatory system,7071
+2004,Number,Both sexes,Diseases of the circulatory system,7340
+2005,Number,Both sexes,Diseases of the circulatory system,7002
+2006,Number,Both sexes,Diseases of the circulatory system,6463
+2007,Number,Both sexes,Diseases of the circulatory system,7097
+2008,Number,Both sexes,Diseases of the circulatory system,6965
+2009,Number,Both sexes,Diseases of the circulatory system,7014
+2010,Number,Both sexes,Diseases of the circulatory system,7211
+2011,Number,Both sexes,Diseases of the circulatory system,7339
+2012,Number,Both sexes,Diseases of the circulatory system,7625
+2013,Number,Both sexes,Diseases of the circulatory system,6687
+2014,Number,Both sexes,Diseases of the circulatory system,6777
+2015,Number,Both sexes,Diseases of the circulatory system,7275
+2016,Number,Both sexes,Diseases of the circulatory system,6920
+2017,Number,Both sexes,Diseases of the circulatory system,7180
+2018,Number,Both sexes,Diseases of the circulatory system,6989
+2019,Number,Both sexes,Diseases of the circulatory system,7473
+2020,Number,Both sexes,Diseases of the circulatory system,7602
+2003,Number,Both sexes,Diseases of the respiratory system,304
+2004,Number,Both sexes,Diseases of the respiratory system,345
+2005,Number,Both sexes,Diseases of the respiratory system,504
+2006,Number,Both sexes,Diseases of the respiratory system,520
+2007,Number,Both sexes,Diseases of the respiratory system,493
+2008,Number,Both sexes,Diseases of the respiratory system,449
+2009,Number,Both sexes,Diseases of the respiratory system,430
+2010,Number,Both sexes,Diseases of the respiratory system,450
+2011,Number,Both sexes,Diseases of the respiratory system,536
+2012,Number,Both sexes,Diseases of the respiratory system,424
+2013,Number,Both sexes,Diseases of the respiratory system,556
+2014,Number,Both sexes,Diseases of the respiratory system,524
+2015,Number,Both sexes,Diseases of the respiratory system,618
+2016,Number,Both sexes,Diseases of the respiratory system,510
+2017,Number,Both sexes,Diseases of the respiratory system,576
+2018,Number,Both sexes,Diseases of the respiratory system,626
+2019,Number,Both sexes,Diseases of the respiratory system,596
+2020,Number,Both sexes,Diseases of the respiratory system,631
+2003,Number,Both sexes,Diseases of the digestive system,352
+2004,Number,Both sexes,Diseases of the digestive system,347
+2005,Number,Both sexes,Diseases of the digestive system,343
+2006,Number,Both sexes,Diseases of the digestive system,379
+2007,Number,Both sexes,Diseases of the digestive system,396
+2008,Number,Both sexes,Diseases of the digestive system,366
+2009,Number,Both sexes,Diseases of the digestive system,371
+2010,Number,Both sexes,Diseases of the digestive system,398
+2011,Number,Both sexes,Diseases of the digestive system,391
+2012,Number,Both sexes,Diseases of the digestive system,393
+2013,Number,Both sexes,Diseases of the digestive system,402
+2014,Number,Both sexes,Diseases of the digestive system,429
+2015,Number,Both sexes,Diseases of the digestive system,440
+2016,Number,Both sexes,Diseases of the digestive system,450
+2017,Number,Both sexes,Diseases of the digestive system,413
+2018,Number,Both sexes,Diseases of the digestive system,481
+2019,Number,Both sexes,Diseases of the digestive system,419
+2020,Number,Both sexes,Diseases of the digestive system,438
+2003,Number,Both sexes,Skin and subcutaneous tissue disorders,0
+2004,Number,Both sexes,Skin and subcutaneous tissue disorders,3
+2005,Number,Both sexes,Skin and subcutaneous tissue disorders,0
+2006,Number,Both sexes,Skin and subcutaneous tissue disorders,1
+2007,Number,Both sexes,Skin and subcutaneous tissue disorders,2
+2008,Number,Both sexes,Skin and subcutaneous tissue disorders,2
+2009,Number,Both sexes,Skin and subcutaneous tissue disorders,3
+2010,Number,Both sexes,Skin and subcutaneous tissue disorders,6
+2011,Number,Both sexes,Skin and subcutaneous tissue disorders,1
+2012,Number,Both sexes,Skin and subcutaneous tissue disorders,4
+2013,Number,Both sexes,Skin and subcutaneous tissue disorders,20
+2014,Number,Both sexes,Skin and subcutaneous tissue disorders,22
+2015,Number,Both sexes,Skin and subcutaneous tissue disorders,22
+2016,Number,Both sexes,Skin and subcutaneous tissue disorders,21
+2017,Number,Both sexes,Skin and subcutaneous tissue disorders,24
+2018,Number,Both sexes,Skin and subcutaneous tissue disorders,22
+2019,Number,Both sexes,Skin and subcutaneous tissue disorders,23
+2020,Number,Both sexes,Skin and subcutaneous tissue disorders,30
+2003,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,6
+2004,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,3
+2005,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,12
+2006,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,10
+2007,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
+2008,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,17
+2009,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
+2010,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,11
+2011,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,18
+2012,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,16
+2013,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,28
+2014,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,22
+2015,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,30
+2016,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,19
+2017,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,17
+2018,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,21
+2019,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
+2020,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,28
+2003,Number,Both sexes,Diseases_of_the_genitourinary_system,222
+2004,Number,Both sexes,Diseases_of_the_genitourinary_system,205
+2005,Number,Both sexes,Diseases_of_the_genitourinary_system,257
+2006,Number,Both sexes,Diseases_of_the_genitourinary_system,266
+2007,Number,Both sexes,Diseases_of_the_genitourinary_system,275
+2008,Number,Both sexes,Diseases_of_the_genitourinary_system,268
+2009,Number,Both sexes,Diseases_of_the_genitourinary_system,257
+2010,Number,Both sexes,Diseases_of_the_genitourinary_system,255
+2011,Number,Both sexes,Diseases_of_the_genitourinary_system,175
+2012,Number,Both sexes,Diseases_of_the_genitourinary_system,236
+2013,Number,Both sexes,Diseases_of_the_genitourinary_system,213
+2014,Number,Both sexes,Diseases_of_the_genitourinary_system,150
+2015,Number,Both sexes,Diseases_of_the_genitourinary_system,179
+2016,Number,Both sexes,Diseases_of_the_genitourinary_system,218
+2017,Number,Both sexes,Diseases_of_the_genitourinary_system,193
+2018,Number,Both sexes,Diseases_of_the_genitourinary_system,220
+2019,Number,Both sexes,Diseases_of_the_genitourinary_system,195
+2020,Number,Both sexes,Diseases_of_the_genitourinary_system,221
+2003,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2004,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2005,Number,Both sexes,Pregnancy childbirth and puerperium,2
+2006,Number,Both sexes,Pregnancy childbirth and puerperium,2
+2007,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2008,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2009,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2010,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2011,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2012,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2013,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2014,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2015,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2016,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2017,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2018,Number,Both sexes,Pregnancy childbirth and puerperium,1
+2019,Number,Both sexes,Pregnancy childbirth and puerperium,0
+2020,Number,Both sexes,Pregnancy childbirth and puerperium,3
+2003,Number,Both sexes,Certain conditions occurred in the perinatal period,44
+2004,Number,Both sexes,Certain conditions occurred in the perinatal period,38
+2005,Number,Both sexes,Certain conditions occurred in the perinatal period,27
+2006,Number,Both sexes,Certain conditions occurred in the perinatal period,38
+2007,Number,Both sexes,Certain conditions occurred in the perinatal period,27
+2008,Number,Both sexes,Certain conditions occurred in the perinatal period,20
+2009,Number,Both sexes,Certain conditions occurred in the perinatal period,34
+2010,Number,Both sexes,Certain conditions occurred in the perinatal period,29
+2011,Number,Both sexes,Certain conditions occurred in the perinatal period,36
+2012,Number,Both sexes,Certain conditions occurred in the perinatal period,29
+2013,Number,Both sexes,Certain conditions occurred in the perinatal period,21
+2014,Number,Both sexes,Certain conditions occurred in the perinatal period,16
+2015,Number,Both sexes,Certain conditions occurred in the perinatal period,10
+2016,Number,Both sexes,Certain conditions occurred in the perinatal period,18
+2017,Number,Both sexes,Certain conditions occurred in the perinatal period,17
+2018,Number,Both sexes,Certain conditions occurred in the perinatal period,10
+2019,Number,Both sexes,Certain conditions occurred in the perinatal period,11
+2020,Number,Both sexes,Certain conditions occurred in the perinatal period,34
+2003,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
+2004,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",11
+2005,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
+2006,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
+2007,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
+2008,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",15
+2009,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",20
+2010,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",17
+2011,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",9
+2012,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",6
+2013,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
+2014,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
+2015,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",7
+2016,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
+2017,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
+2018,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
+2019,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",4
+2020,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",6
+2003,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1612
+2004,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1462
+2005,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1249
+2006,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1200
+2007,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1288
+2008,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,945
+2009,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,953
+2010,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,877
+2011,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,681
+2012,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,612
+2013,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1231
+2014,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1445
+2015,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1556
+2016,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1198
+2017,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1435
+2018,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1650
+2019,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1961
+2020,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1599
+2003,Number,Both sexes,Injuries poisonings and consequences of external factors,580
+2004,Number,Both sexes,Injuries poisonings and consequences of external factors,552
+2005,Number,Both sexes,Injuries poisonings and consequences of external factors,618
+2006,Number,Both sexes,Injuries poisonings and consequences of external factors,615
+2007,Number,Both sexes,Injuries poisonings and consequences of external factors,634
+2008,Number,Both sexes,Injuries poisonings and consequences of external factors,584
+2009,Number,Both sexes,Injuries poisonings and consequences of external factors,581
+2010,Number,Both sexes,Injuries poisonings and consequences of external factors,511
+2011,Number,Both sexes,Injuries poisonings and consequences of external factors,600
+2012,Number,Both sexes,Injuries poisonings and consequences of external factors,538
+2013,Number,Both sexes,Injuries poisonings and consequences of external factors,504
+2014,Number,Both sexes,Injuries poisonings and consequences of external factors,532
+2015,Number,Both sexes,Injuries poisonings and consequences of external factors,559
+2016,Number,Both sexes,Injuries poisonings and consequences of external factors,491
+2017,Number,Both sexes,Injuries poisonings and consequences of external factors,474
+2018,Number,Both sexes,Injuries poisonings and consequences of external factors,482
+2019,Number,Both sexes,Injuries poisonings and consequences of external factors,430
+2020,Number,Both sexes,Injuries poisonings and consequences of external factors,405
+2003,Number,Both sexes,special_purpose_codes,0
+2004,Number,Both sexes,special_purpose_codes,0
+2005,Number,Both sexes,special_purpose_codes,0
+2006,Number,Both sexes,special_purpose_codes,0
+2007,Number,Both sexes,special_purpose_codes,0
+2008,Number,Both sexes,special_purpose_codes,0
+2009,Number,Both sexes,special_purpose_codes,0
+2010,Number,Both sexes,special_purpose_codes,0
+2011,Number,Both sexes,special_purpose_codes,0
+2012,Number,Both sexes,special_purpose_codes,0
+2013,Number,Both sexes,special_purpose_codes,0
+2014,Number,Both sexes,special_purpose_codes,0
+2015,Number,Both sexes,special_purpose_codes,0
+2016,Number,Both sexes,special_purpose_codes,0
+2017,Number,Both sexes,special_purpose_codes,0
+2018,Number,Both sexes,special_purpose_codes,0
+2019,Number,Both sexes,special_purpose_codes,0
+2020,Number,Both sexes,special_purpose_codes,1592
 2003,Number,M,Total,6804
 2004,Number,M,Total,6735
 2005,Number,M,Total,7239

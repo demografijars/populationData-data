@@ -111,7 +111,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "Bez obrazovanja",
                 "incomplete_elementary",
                 "elementary_education",

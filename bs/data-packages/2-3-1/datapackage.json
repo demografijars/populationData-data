@@ -94,19 +94,6 @@
             "title": "Administrativna oblast"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Spol"
-          },
-          {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
@@ -117,7 +104,6 @@
                 "3 člana",
                 "4 člana",
                 "5+_members",
-                "Prosječan broj članova domaćinstva",
                 ""
               ]
             },
@@ -125,7 +111,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

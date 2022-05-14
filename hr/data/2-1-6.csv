@@ -1,49 +1,10 @@
 Year,UNIT_MEASURE,Tip odnosa zavisnosti,Spol,Value
-1971,%,Ukupan omjer gospodarske potpore,Oba spola,65.4
-1971,%,Ukupan omjer gospodarske potpore,M,67.9
-1971,%,Ukupan omjer gospodarske potpore,Ž,63.0
-1981,%,Ukupan omjer gospodarske potpore,Oba spola,52.3
-1981,%,Ukupan omjer gospodarske potpore,M,53.0
-1981,%,Ukupan omjer gospodarske potpore,Ž,51.6
-1991,%,Ukupan omjer gospodarske potpore,Oba spola,48.3
-1991,%,Ukupan omjer gospodarske potpore,M,46.8
-1991,%,Ukupan omjer gospodarske potpore,Ž,49.7
-2013,%,Ukupan omjer gospodarske potpore,Oba spola,42.1
-2013,%,Ukupan omjer gospodarske potpore,M,39.2
-2013,%,Ukupan omjer gospodarske potpore,Ž,44.9
-1971,%,Omjer gospodarske potpore mladima,Oba spola,57.0
-1971,%,Omjer gospodarske potpore mladima,M,60.2
-1971,%,Omjer gospodarske potpore mladima,Ž,53.9
-1981,%,Omjer gospodarske potpore mladima,Oba spola,42.5
-1981,%,Omjer gospodarske potpore mladima,M,44.5
-1981,%,Omjer gospodarske potpore mladima,Ž,40.6
-1991,%,Omjer gospodarske potpore mladima,Oba spola,35.6
-1991,%,Omjer gospodarske potpore mladima,M,36.6
-1991,%,Omjer gospodarske potpore mladima,Ž,34.6
-2013,%,Omjer gospodarske potpore mladima,Oba spola,21.9
-2013,%,Omjer gospodarske potpore mladima,M,22.4
-2013,%,Omjer gospodarske potpore mladima,Ž,21.3
-1971,%,Omjer gospodarske potpore starijim osobama,Oba spola,8.4
-1971,%,Omjer gospodarske potpore starijim osobama,M,7.7
-1971,%,Omjer gospodarske potpore starijim osobama,Ž,9.1
-1981,%,Omjer gospodarske potpore starijim osobama,Oba spola,9.8
-1981,%,Omjer gospodarske potpore starijim osobama,M,8.5
-1981,%,Omjer gospodarske potpore starijim osobama,Ž,11.0
-1991,%,Omjer gospodarske potpore starijim osobama,Oba spola,12.7
-1991,%,Omjer gospodarske potpore starijim osobama,M,10.1
-1991,%,Omjer gospodarske potpore starijim osobama,Ž,15.2
-2013,%,Omjer gospodarske potpore starijim osobama,Oba spola,20.2
-2013,%,Omjer gospodarske potpore starijim osobama,M,16.8
-2013,%,Omjer gospodarske potpore starijim osobama,Ž,23.6
-1971,%,Omjer starijih i mladih,Oba spola,14.8
-1971,%,Omjer starijih i mladih,M,12.8
-1971,%,Omjer starijih i mladih,Ž,16.9
-1981,%,Omjer starijih i mladih,Oba spola,23.1
-1981,%,Omjer starijih i mladih,M,19.2
-1981,%,Omjer starijih i mladih,Ž,27.2
-1991,%,Omjer starijih i mladih,Oba spola,35.6
-1991,%,Omjer starijih i mladih,M,27.7
-1991,%,Omjer starijih i mladih,Ž,43.8
-2013,%,Omjer starijih i mladih,Oba spola,92.3
-2013,%,Omjer starijih i mladih,M,75.0
-2013,%,Omjer starijih i mladih,Ž,110.6
+2013,%,(0-14+60+)/(15-59),Oba spola,63.01
+2013,%,(0-19+65+)/(20-64),Oba spola,59.38
+2013,%,(0-14+50+)/(15-49),Oba spola,119.79
+2013,%,(0-14+60+)/(15-59),M,57.84
+2013,%,(0-19+65+)/(20-64),M,55.76
+2013,%,(0-14+50+)/(15-49),M,110.36
+2013,%,(0-14+60+)/(15-59),Ž,68.28
+2013,%,(0-19+65+)/(20-64),Ž,62.99
+2013,%,(0-14+50+)/(15-49),Ž,129.62

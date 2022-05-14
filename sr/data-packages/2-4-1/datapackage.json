@@ -111,10 +111,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупно",
                 "illiterate",
-                "illiterates_percentage",
-                "Непознато",
+                "unknown_literacy",
                 ""
               ]
             },

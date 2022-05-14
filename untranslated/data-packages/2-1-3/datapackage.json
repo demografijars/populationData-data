@@ -125,14 +125,13 @@
                 "75-79",
                 "80-84",
                 "85+",
-                "average_age",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

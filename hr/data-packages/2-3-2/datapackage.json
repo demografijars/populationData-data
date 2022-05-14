@@ -98,7 +98,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
                 "agricultural_households",
                 "agricultural_selling",
                 ""

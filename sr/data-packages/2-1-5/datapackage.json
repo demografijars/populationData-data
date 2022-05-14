@@ -94,17 +94,6 @@
             "title": "Административно подручје"
           },
           {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ж",
-                ""
-              ]
-            },
-            "title": "Пол"
-          },
-          {
             "name": "BIRTHS",
             "type": "string",
             "constraints": {
@@ -115,7 +104,7 @@
                 "two_children",
                 "three_children",
                 "four_children",
-                "5 и више чланова",
+                "5+_children",
                 ""
               ]
             },

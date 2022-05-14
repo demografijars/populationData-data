@@ -26,15 +26,15 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "education",
-                "humanities_and_arts",
+                "natural_sciences,_mathematics_and_statistics",
+                "engineering,_production_and_construction",
+                "information_and_communication_technologie",
+                "health_and_social_protection",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
                 "social_sciences,_journalism_and_information",
                 "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologie",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
-                "health_and_social_protection",
+                "education",
+                "arts_and_humanities",
                 "services",
                 ""
               ]

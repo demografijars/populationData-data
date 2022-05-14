@@ -112,14 +112,13 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "disabilities_T",
                 "eyesight",
                 "hearing",
                 "walking",
                 "memory",
                 "dressing",
                 "communication",
-                "more_disabilities",
+                "multiple_disabilities",
                 ""
               ]
             },

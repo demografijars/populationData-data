@@ -89,10 +89,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Total",
                 "Illiterate",
-                "Percentage of illiterates",
-                "Unknown computer literacy rate"
+                "unknown_literacy"
               ]
             },
             "title": "Literacy"

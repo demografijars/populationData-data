@@ -21,6 +21,19 @@
             "title": "Mjerna jedinica"
           },
           {
+            "name": "INSTITUTION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "Javna",
+                "Privatna",
+                ""
+              ]
+            },
+            "title": "INSTITUTION"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

@@ -1,31 +1,46 @@
 Year,UNIT_MEASURE,type_of_education,Spol,Value
-2016,Broj,enrolled_in_master's_studies,Oba spola,59
-2016,Broj,enrolled_in_master's_studies,Ž,22
-2016,Broj,enrolled_in_master_studies,Oba spola,2 456
-2016,Broj,enrolled_in_master_studies,Ž,1 408
+2016,Broj,enrolled_in_master_of_science_studies,Oba spola,59
+2017,Broj,enrolled_in_master_of_science_studies,Oba spola,31
+2018,Broj,enrolled_in_master_of_science_studies,Oba spola,14
+2019,Broj,enrolled_in_master_of_science_studies,Oba spola,16
+2020,Broj,enrolled_in_master_of_science_studies,Oba spola,4
+2016,Broj,enrolled_in_master_of_science_studies,M,37
+2017,Broj,enrolled_in_master_of_science_studies,M,21
+2018,Broj,enrolled_in_master_of_science_studies,M,6
+2019,Broj,enrolled_in_master_of_science_studies,M,12
+2020,Broj,enrolled_in_master_of_science_studies,M,3
+2016,Broj,enrolled_in_master_of_science_studies,Ž,22
+2017,Broj,enrolled_in_master_of_science_studies,Ž,10
+2018,Broj,enrolled_in_master_of_science_studies,Ž,8
+2019,Broj,enrolled_in_master_of_science_studies,Ž,4
+2020,Broj,enrolled_in_master_of_science_studies,Ž,1
+2016,Broj,enrolled_in_master_studies,Oba spola,2456
+2017,Broj,enrolled_in_master_studies,Oba spola,2140
+2018,Broj,enrolled_in_master_studies,Oba spola,2144
+2019,Broj,enrolled_in_master_studies,Oba spola,2109
+2020,Broj,enrolled_in_master_studies,Oba spola,2430
+2016,Broj,enrolled_in_master_studies,M,1048
+2017,Broj,enrolled_in_master_studies,M,917
+2018,Broj,enrolled_in_master_studies,M,937
+2019,Broj,enrolled_in_master_studies,M,930
+2020,Broj,enrolled_in_master_studies,M,1036
+2016,Broj,enrolled_in_master_studies,Ž,1408
+2017,Broj,enrolled_in_master_studies,Ž,1223
+2018,Broj,enrolled_in_master_studies,Ž,1207
+2019,Broj,enrolled_in_master_studies,Ž,1179
+2020,Broj,enrolled_in_master_studies,Ž,1394
 2016,Broj,enrolled_in_specialist_studies,Oba spola,71
-2016,Broj,enrolled_in_specialist_studies,Ž,43
-2017,Broj,enrolled_in_master's_studies,Oba spola,31
-2017,Broj,enrolled_in_master's_studies,Ž,10
-2017,Broj,enrolled_in_master_studies,Oba spola,2 140
-2017,Broj,enrolled_in_master_studies,Ž,1 223
 2017,Broj,enrolled_in_specialist_studies,Oba spola,73
-2017,Broj,enrolled_in_specialist_studies,Ž,39
-2018,Broj,enrolled_in_master's_studies,Oba spola,14
-2018,Broj,enrolled_in_master's_studies,Ž,8
-2018,Broj,enrolled_in_master_studies,Oba spola,2 144
-2018,Broj,enrolled_in_master_studies,Ž,1 207
 2018,Broj,enrolled_in_specialist_studies,Oba spola,160
-2018,Broj,enrolled_in_specialist_studies,Ž,94
-2019,Broj,enrolled_in_master's_studies,Oba spola,16
-2019,Broj,enrolled_in_master's_studies,Ž,4
-2019,Broj,enrolled_in_master_studies,Oba spola,2 109
-2019,Broj,enrolled_in_master_studies,Ž,1 179
 2019,Broj,enrolled_in_specialist_studies,Oba spola,170
-2019,Broj,enrolled_in_specialist_studies,Ž,98
-2020,Broj,enrolled_in_master's_studies,Oba spola,4
-2020,Broj,enrolled_in_master's_studies,Ž,1
-2020,Broj,enrolled_in_master_studies,Oba spola,2 430
-2020,Broj,enrolled_in_master_studies,Ž,1 394
 2020,Broj,enrolled_in_specialist_studies,Oba spola,170
+2016,Broj,enrolled_in_specialist_studies,M,28
+2017,Broj,enrolled_in_specialist_studies,M,34
+2018,Broj,enrolled_in_specialist_studies,M,66
+2019,Broj,enrolled_in_specialist_studies,M,72
+2020,Broj,enrolled_in_specialist_studies,M,39
+2016,Broj,enrolled_in_specialist_studies,Ž,43
+2017,Broj,enrolled_in_specialist_studies,Ž,39
+2018,Broj,enrolled_in_specialist_studies,Ž,94
+2019,Broj,enrolled_in_specialist_studies,Ž,98
 2020,Broj,enrolled_in_specialist_studies,Ž,131

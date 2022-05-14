@@ -89,7 +89,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Five and more members of household",
+                "5+_children",
                 "Total",
                 "Did not give birth",
                 "Four children",
@@ -99,17 +99,6 @@
               ]
             },
             "title": "Vital statistics"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "F"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
