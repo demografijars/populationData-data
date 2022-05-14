@@ -1,18 +1,18 @@
-Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-"agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ",3,1
-arts_and_humanities,arts_and_humanities,arts_and_humanities,Умјетност и хуманистичке науке,arts_and_humanities,3,1
-"business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","Пословање, администрација и право","business,_administration_and_law",3,1
-education,education,education,Образовање,education,3,1
-"engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","Инжeњерство, производња и грађевинарство","engineering,_production_and_construction",3,1
-enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,36,2
-enrolled_in_master_studies,enrolled_in_master_studies,enrolled_in_master_studies,Уписани на мастер студије,enrolled_in_master_studies,36,2
-enrolled_in_specialist_studies,enrolled_in_specialist_studies,enrolled_in_specialist_studies,Уписани на специјалистичке студије,enrolled_in_specialist_studies,36,2
-health_and_social_protection,health_and_social_protection,health_and_social_protection,Здравство и социјална заштита,health_and_social_protection,3,1
-information_and_communication_technologie,information_and_communication_technologie,information_and_communication_technologie,Информационе и комуникационе технологије,information_and_communication_technologie,3,1
-masters,masters,masters,Мастери,masters,3,1
-masters_of_science,masters_of_science,masters_of_science,Mагистри наука,masters_of_science,3,1
-"natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","Природне науке, математика и статистика","natural_sciences,_mathematics_and_statistics",3,1
-services,services,services,Услуге,services,3,1
-"social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","Друштвене науке, новинарство и информисање","social_sciences,_journalism_and_information",3,1
-specialists,specialists,specialists,Специјалисти,specialists,3,1
-total,Total,Ukupno,Укупно,Ukupno,3,1
+Value,en,bs,sr,Disaggregation combinations using this value,Number of indicators
+"agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ","agriculture,_forestry,_fisheries_and_veterinary_medicine: ",3,1
+arts_and_humanities,arts_and_humanities,arts_and_humanities,Умјетност и хуманистичке науке,3,1
+"business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","Пословање, администрација и право",3,1
+education,education,education,Образовање,3,1
+"engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","Инжeњерство, производња и грађевинарство",3,1
+enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,enrolled_in_master_of_science_studies,36,2
+enrolled_in_master_studies,enrolled_in_master_studies,enrolled_in_master_studies,Уписани на мастер студије,36,2
+enrolled_in_specialist_studies,enrolled_in_specialist_studies,enrolled_in_specialist_studies,Уписани на специјалистичке студије,36,2
+health_and_social_protection,health_and_social_protection,health_and_social_protection,Здравство и социјална заштита,3,1
+information_and_communication_technologie,information_and_communication_technologie,information_and_communication_technologie,Информационе и комуникационе технологије,3,1
+masters,masters,masters,Мастери,3,1
+masters_of_science,masters_of_science,masters_of_science,Mагистри наука,3,1
+"natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","Природне науке, математика и статистика",3,1
+services,services,services,Услуге,3,1
+"social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","Друштвене науке, новинарство и информисање",3,1
+specialists,specialists,specialists,Специјалисти,3,1
+total,Total,Ukupno,Укупно,3,1

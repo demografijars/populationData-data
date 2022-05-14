@@ -1,11 +1,11 @@
-Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-5+_children,5+_children,5+_children,5+_children,5+_children,63,1
-_T,Total,Ukupno,Укупно,Ukupno,63,1
-DEATHS,Deaths,Smrtni slučajevi,Смртни случајеви,Smrtni slučajevi,1,1
-did_not_give_birth,Did not give birth,Nisu rađale,Нису рађале,Nisu rađale,63,1
-four_children,Four children,four_children,four_children,four_children,63,1
-LIVE_BIRTH,Live births,Živorođeni,Живорођени,Živorođeni,1,1
-NATURAL_CHANGE,Natural change,Prirodno kretanje,Природно кретање,Prirodno kretanje,1,1
-one_child,One child,one_child,one_child,one_child,63,1
-three_children,Three children,three_children,three_children,three_children,63,1
-two_children,Two children,two_children,two_children,two_children,63,1
+Value,en,bs,sr,Disaggregation combinations using this value,Number of indicators
+5+_children,5+_children,5+_children,5+_children,63,1
+_T,Total,Ukupno,Укупно,63,1
+DEATHS,Deaths,Smrtni slučajevi,Смртни случајеви,1,1
+did_not_give_birth,Did not give birth,Nisu rađale,Нису рађале,63,1
+four_children,Four children,four_children,four_children,63,1
+LIVE_BIRTH,Live births,Živorođeni,Живорођени,1,1
+NATURAL_CHANGE,Natural change,Prirodno kretanje,Природно кретање,1,1
+one_child,One child,one_child,one_child,63,1
+three_children,Three children,three_children,three_children,63,1
+two_children,Two children,two_children,two_children,63,1

@@ -1,12 +1,12 @@
-Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-"agriculture,_forestry,_fisheries_and_veterinary_medicine","agriculture,_forestry,_fisheries_and_veterinary_medicine","agriculture,_forestry,_fisheries_and_veterinary_medicine","Пољопривреда, шумарство, рибарство и ветеринарство","agriculture,_forestry,_fisheries_and_veterinary_medicine",16,4
-arts_and_humanities,arts_and_humanities,arts_and_humanities,Умјетност и хуманистичке науке,arts_and_humanities,16,4
-"business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","Пословање, администрација и право","business,_administration_and_law",16,4
-education,education,education,Образовање,education,16,4
-"engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","Инжeњерство, производња и грађевинарство","engineering,_production_and_construction",16,4
-health_and_social_protection,health_and_social_protection,health_and_social_protection,Здравство и социјална заштита,health_and_social_protection,16,4
-information_and_communication_technologies,information_and_communication_technologies,information_and_communication_technologies,Информационе и комуникационе технологије,information_and_communication_technologies,16,4
-"natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","Природне науке, математика и статистика","natural_sciences,_mathematics_and_statistics",16,4
-services,services,services,Услуге,services,16,4
-"social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","Друштвене науке, новинарство и информисање","social_sciences,_journalism_and_information",16,4
-total,Total,Ukupno,Укупно,Ukupno,15,3
+Value,en,bs,sr,Disaggregation combinations using this value,Number of indicators
+"agriculture,_forestry,_fisheries_and_veterinary_medicine","agriculture,_forestry,_fisheries_and_veterinary_medicine","agriculture,_forestry,_fisheries_and_veterinary_medicine","Пољопривреда, шумарство, рибарство и ветеринарство",16,4
+arts_and_humanities,arts_and_humanities,arts_and_humanities,Умјетност и хуманистичке науке,16,4
+"business,_administration_and_law","business,_administration_and_law","business,_administration_and_law","Пословање, администрација и право",16,4
+education,education,education,Образовање,16,4
+"engineering,_production_and_construction","engineering,_production_and_construction","engineering,_production_and_construction","Инжeњерство, производња и грађевинарство",16,4
+health_and_social_protection,health_and_social_protection,health_and_social_protection,Здравство и социјална заштита,16,4
+information_and_communication_technologies,information_and_communication_technologies,information_and_communication_technologies,Информационе и комуникационе технологије,16,4
+"natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","natural_sciences,_mathematics_and_statistics","Природне науке, математика и статистика",16,4
+services,services,services,Услуге,16,4
+"social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","social_sciences,_journalism_and_information","Друштвене науке, новинарство и информисање",16,4
+total,Total,Ukupno,Укупно,15,3

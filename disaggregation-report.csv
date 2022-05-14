@@ -1,27 +1,27 @@
-Disaggregation,en,bs,sr,hr,Number of indicators,Number of values
-ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,Administrativna oblast,10,65
-AGE,Age,Starosna dob,Старосна доб,Starosna dob,14,165
-agricultural_households_number,agricultural_households_number,agricultural_households_number,Број пољопривредних домаћинстава,agricultural_households_number,1,2
-BIRTH,Birth,Rađanje,Рађање,Rađanje,1,2
-BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,Vitalna statistika,2,10
-CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),Uzrok smrti (prema šiframa bolesti po MKB-10),1,21
-Disabilities,Disabilities,Disabilities,Disabilities,Disabilities,1,8
-Education,Education,Education,Education,Education,1,7
-INSTITUTION,INSTITUTION,INSTITUTION,INSTITUTION,INSTITUTION,1,3
-Literacy,Literacy,Literacy,Literacy,Literacy,1,2
-MICS_NUMBER,Method,Metoda,Метода,Metoda,1,3
-Mother tounge,Mother tounge,Mother tounge,Mother tounge,Mother tounge,1,6
-Municipality,Municipality,Općina,Oпштина,Općina,1,62
-Nationality,Nationality,Nationality,Nationality,Nationality,1,7
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,Veličina kućanstva,1,6
-PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
-PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
-Religion,Religion,Religija,Religion,Religija,1,9
-scientific_field,scientific_field,scientific_field,Научна област,scientific_field,4,11
-SEX,Sex,Spol,Пол,Spol,51,3
-TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,Tip odnosa zavisnosti,2,3
-type_of_education,type_of_education,type_of_education,Врста образовања,type_of_education,4,17
-type_of_institution,Type of institution,Vrsta ustanove,Врста установа,Vrsta ustanove,2,5
-type_of_school,type_of_school,type_of_school,Врста школе,type_of_school,2,6
-TYPE_OF_USERS,TYPE_OF_USERS,TYPE_OF_USERS,Врста корисника,TYPE_OF_USERS,4,7
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,Mjerna jedinica,112,25
+Disaggregation,en,bs,sr,Number of indicators,Number of values
+ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,10,65
+AGE,Age,Starosna dob,Старосна доб,14,165
+agricultural_households_number,agricultural_households_number,agricultural_households_number,Број пољопривредних домаћинстава,1,2
+BIRTH,Birth,Rađanje,Рађање,1,2
+BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,2,10
+CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),1,21
+Disabilities,Disabilities,Disabilities,Disabilities,1,8
+Education,Education,Education,Education,1,7
+INSTITUTION,INSTITUTION,INSTITUTION,INSTITUTION,1,3
+Literacy,Literacy,Literacy,Literacy,1,2
+MICS_NUMBER,Method,Metoda,Метода,1,3
+Mother tounge,Mother tounge,Mother tounge,Mother tounge,1,6
+Municipality,Municipality,Općina,Oпштина,1,62
+Nationality,Nationality,Nationality,Nationality,1,7
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,1,6
+PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
+PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
+Religion,Religion,Religija,Religion,1,9
+scientific_field,scientific_field,scientific_field,Научна област,4,11
+SEX,Sex,Spol,Пол,51,3
+TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Tip odnosa zavisnosti,Тип односа зависности,2,3
+type_of_education,type_of_education,type_of_education,Врста образовања,4,17
+type_of_institution,Type of institution,Vrsta ustanove,Врста установа,2,5
+type_of_school,type_of_school,type_of_school,Врста школе,2,6
+TYPE_OF_USERS,TYPE_OF_USERS,TYPE_OF_USERS,Врста корисника,4,7
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,112,25

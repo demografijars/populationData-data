@@ -1,22 +1,22 @@
-Value,en,bs,sr,hr,Disaggregation combinations using this value,Number of indicators
-certain_conditions_occurred_in_the_perinatal_period,Certain conditions occurred in the perinatal period,certain_conditions_occurred_in_the_perinatal_period,Одређена стања настала у перинаталном периоду (P00–P96),certain_conditions_occurred_in_the_perinatal_period,3,1
-congenital_anomalies_deformities_and_chromosomal_abnormalities,"Congenital anomalies, deformities and chromosomal abnormalities",congenital_anomalies_deformities_and_chromosomal_abnormalities,"Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)",congenital_anomalies_deformities_and_chromosomal_abnormalities,3,1
-diseases_of_ear_and_mastoid_process,diseases_of_ear_and_mastoid_process,diseases_of_ear_and_mastoid_process,Болести ува и мастоидног наставка (H60–H93),diseases_of_ear_and_mastoid_process,3,1
-diseases_of_the_blood_and_blood_forming_organs,Diseases of the blood and blood forming organs,diseases_of_the_blood_and_blood_forming_organs,Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89),diseases_of_the_blood_and_blood_forming_organs,3,1
-diseases_of_the_circulatory_system,Diseases of the circulatory system,diseases_of_the_circulatory_system,Болести циркулаторног система (I00–I99),diseases_of_the_circulatory_system,3,1
-diseases_of_the_digestive_system,Diseases of the digestive system,diseases_of_the_digestive_system,Болести дигестивног система (К00–К92),diseases_of_the_digestive_system,3,1
-diseases_of_the_endocrine_glands_nutrition_and_metabolism,Diseases of the endocrine glands nutrition and metabolism,diseases_of_the_endocrine_glands_nutrition_and_metabolism,"Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)",diseases_of_the_endocrine_glands_nutrition_and_metabolism,3,1
-diseases_of_the_genitourinary_system,Diseases_of_the_genitourinary_system,diseases_of_the_genitourinary_system,Болести генитоуринарног система (N00–N98),diseases_of_the_genitourinary_system,3,1
-diseases_of_the_musculoskeletal_system_and_connective_tissue,Diseases of the musculoskeletal system and connective tissue,diseases_of_the_musculoskeletal_system_and_connective_tissue,Болести мишићно-коштаног система и везивног ткива (М00–М99),diseases_of_the_musculoskeletal_system_and_connective_tissue,3,1
-diseases_of_the_nervous_system,Nervous system diseases,diseases_of_the_nervous_system,Болести нервног система (G00–G99),diseases_of_the_nervous_system,3,1
-diseases_of_the_respiratory_system,Diseases of the respiratory system,diseases_of_the_respiratory_system,Болести респираторног система (Ј00–Ј99),diseases_of_the_respiratory_system,3,1
-eye_diseases_and_eye_soldering_disease,Eye diseases and eye soldering disease,eye_diseases_and_eye_soldering_disease,Болести ока и припојка ока (H00–H59),eye_diseases_and_eye_soldering_disease,3,1
-infectious_and_parasitic_diseases,Infectious and parasitic diseases,infectious_and_parasitic_diseases,Инфективне и паразитске болести (А00–B99),infectious_and_parasitic_diseases,3,1
-injuries_poisonings_and_consequences_of_external_factors,Injuries poisonings and consequences of external factors,injuries_poisonings_and_consequences_of_external_factors,"Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)",injuries_poisonings_and_consequences_of_external_factors,3,1
-mental_disorders_and_behavioral_disorders,Mental disorders and behavioral disorders,mental_disorders_and_behavioral_disorders,Душевни поремећаји и поремећаји понашања (F00–F99),mental_disorders_and_behavioral_disorders,3,1
-neoplasms,Neoplasms,"(C00-C97,D00-D48) Neoplazme",Неоплазме (C00–D48),"„(C00-C97,D00-D48) Neoplazme“",3,1
-pregnancy_childbirth_and_puerperium,Pregnancy childbirth and puerperium,pregnancy_childbirth_and_puerperium,"Трудноћа, порођај и пуерперијум (О00–О99)",pregnancy_childbirth_and_puerperium,2,1
-skin_and_subcutaneous_tissue_disorders,Skin and subcutaneous tissue disorders,skin_and_subcutaneous_tissue_disorders,Болести коже и поткожног ткива (L00–L98),skin_and_subcutaneous_tissue_disorders,3,1
-special_purpose_codes,special_purpose_codes,special_purpose_codes,Шифре за посебне намјене (U00-U85),special_purpose_codes,3,1
-symptoms_signs_and_abnormal_clinical_and_laboratory_findings,Symptoms signs and abnormal clinical and laboratory findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,"Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)",symptoms_signs_and_abnormal_clinical_and_laboratory_findings,3,1
-total,Total,Ukupno,Укупно,Ukupno,3,1
+Value,en,bs,sr,Disaggregation combinations using this value,Number of indicators
+certain_conditions_occurred_in_the_perinatal_period,Certain conditions occurred in the perinatal period,certain_conditions_occurred_in_the_perinatal_period,Одређена стања настала у перинаталном периоду (P00–P96),3,1
+congenital_anomalies_deformities_and_chromosomal_abnormalities,"Congenital anomalies, deformities and chromosomal abnormalities",congenital_anomalies_deformities_and_chromosomal_abnormalities,"Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)",3,1
+diseases_of_ear_and_mastoid_process,diseases_of_ear_and_mastoid_process,diseases_of_ear_and_mastoid_process,Болести ува и мастоидног наставка (H60–H93),3,1
+diseases_of_the_blood_and_blood_forming_organs,Diseases of the blood and blood forming organs,diseases_of_the_blood_and_blood_forming_organs,Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89),3,1
+diseases_of_the_circulatory_system,Diseases of the circulatory system,diseases_of_the_circulatory_system,Болести циркулаторног система (I00–I99),3,1
+diseases_of_the_digestive_system,Diseases of the digestive system,diseases_of_the_digestive_system,Болести дигестивног система (К00–К92),3,1
+diseases_of_the_endocrine_glands_nutrition_and_metabolism,Diseases of the endocrine glands nutrition and metabolism,diseases_of_the_endocrine_glands_nutrition_and_metabolism,"Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)",3,1
+diseases_of_the_genitourinary_system,Diseases_of_the_genitourinary_system,diseases_of_the_genitourinary_system,Болести генитоуринарног система (N00–N98),3,1
+diseases_of_the_musculoskeletal_system_and_connective_tissue,Diseases of the musculoskeletal system and connective tissue,diseases_of_the_musculoskeletal_system_and_connective_tissue,Болести мишићно-коштаног система и везивног ткива (М00–М99),3,1
+diseases_of_the_nervous_system,Nervous system diseases,diseases_of_the_nervous_system,Болести нервног система (G00–G99),3,1
+diseases_of_the_respiratory_system,Diseases of the respiratory system,diseases_of_the_respiratory_system,Болести респираторног система (Ј00–Ј99),3,1
+eye_diseases_and_eye_soldering_disease,Eye diseases and eye soldering disease,eye_diseases_and_eye_soldering_disease,Болести ока и припојка ока (H00–H59),3,1
+infectious_and_parasitic_diseases,Infectious and parasitic diseases,infectious_and_parasitic_diseases,Инфективне и паразитске болести (А00–B99),3,1
+injuries_poisonings_and_consequences_of_external_factors,Injuries poisonings and consequences of external factors,injuries_poisonings_and_consequences_of_external_factors,"Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)",3,1
+mental_disorders_and_behavioral_disorders,Mental disorders and behavioral disorders,mental_disorders_and_behavioral_disorders,Душевни поремећаји и поремећаји понашања (F00–F99),3,1
+neoplasms,Neoplasms,"(C00-C97,D00-D48) Neoplazme",Неоплазме (C00–D48),3,1
+pregnancy_childbirth_and_puerperium,Pregnancy childbirth and puerperium,pregnancy_childbirth_and_puerperium,"Трудноћа, порођај и пуерперијум (О00–О99)",2,1
+skin_and_subcutaneous_tissue_disorders,Skin and subcutaneous tissue disorders,skin_and_subcutaneous_tissue_disorders,Болести коже и поткожног ткива (L00–L98),3,1
+special_purpose_codes,special_purpose_codes,special_purpose_codes,Шифре за посебне намјене (U00-U85),3,1
+symptoms_signs_and_abnormal_clinical_and_laboratory_findings,Symptoms signs and abnormal clinical and laboratory findings,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,"Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)",3,1
+total,Total,Ukupno,Укупно,3,1
