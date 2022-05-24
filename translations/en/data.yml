@@ -1,4 +1,4 @@
-Year: Year
+﻿Year: Year
 Sex: Sex
 Month: Month
 Value: Value
@@ -6,9 +6,9 @@ ADMIN_AREA: Administrative area
 FBIH: Federation of BiH
 RS: Republika Srpska
 BD: Brčko District of BiH
+Municipality: Municipality
 YEARS: Years
 AGE: Age
-KG: Kilograms
 NUMBER: Number
 UNIT_MEASURE: Unit of measure
 USD: USD
@@ -20,10 +20,6 @@ BIRTHS: Vital statistics
 LIVE_BIRTH: Live births
 DEATHS: Deaths
 NATURAL_CHANGE: Natural change
-total_support_ratio: Total support ratio
-young_age_support_ratio: Young-age support ratio
-old_age_support_ratio: Old-age support ratio
-older_persons_to_youth_ratio: Older persons to youth ratio
 _ALL: All
 FERTILITY_RATE: Fertility rate
 total_fertility_rate: Total fertility rate
@@ -93,24 +89,23 @@ per_1000: Per 1,000 livebirths
 number_of_stillbirths: Number of stillbirths
 health_indicators: Health indicators
 number_of_new_cases_of_cervical_cancer: Number of new cases of cervical cancer
-number_of_new_cases_of_cervical_cancer_per_100000_female_population: Number of new cases of female breast cancer per 100,000 female population
-number_of_new_cases_of_female_breast_cancer_per_100000: Number of new cases of female breast cancer per 100,000 female population
+number_of_new_cases_of_cervical_cancer_per_100000_female_population: Rate of new cases of cervical cancer per 100,000 female population
+number_of_new_cases_of_female_breast_cancer_per_100000: Rate of new cases of female breast cancer per 100,000 female population
 number_of_new_cases_of_female_breast_cancer: Number of new cases of female breast cancer
 number_of_new_cases_of_syphilis: Number of new cases of syphilis
 number_of_new_cases_of_gonorrhea: Number of new cases of gonorrhea
 number_of_new_cases_of_AIDS_clinically_diagnosed: Number of new cases of AIDS clinically diagnosed
 number_of_new_cases_of_HIV: Number of new cases of HIV
-number_of_new_cases_of_HIV_per_100000_population: Number of new cases of HIV per 100,000 population
+number_of_new_cases_of_HIV_per_100000_population: Rate of new cases of HIV per 100,000 population
 number_of_caesarean_sections: Number of caesarean sections
-number_of_caesarean_sections_per_1000_live_births: Number of caesarean sections per 1,000 live births
+number_of_caesarean_sections_per_1000_live_births: Rate of caesarean sections per 1,000 live births
 number_of_beds_in_hospitals: Number of beds in hospitals
-number_of_beds_in_hospitals_per_100000_population: Number of beds in hospitals per 100,000 population
+number_of_beds_in_hospitals_per_100000_population: Rate of beds in hospitals per 100,000 population
 number_of_medical_doctors_providing_health_care_in_public_institutions: Number of medical doctors providing health care in public institutions
-number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population: Number of medical doctors providing health care in public institutions per 100,000 population
+number_of_medical_doctors_providing_health_care_in_public_institutions_per_100000_population: Rate of medical doctors providing health care in public institutions per 100,000 population
 number_of_general_practitioners: Number of general practitioners
 number_of_population_per_general_practitioner: Number of population per general practitioner
 number_of_midwives: Number of midwives
-total_population_(as_per_Public_Health_Institute_or_NSO_reports): Total population (as per Public Health Institute or NSO reports)
 male_population: Male population
 female_population: Female population
 contraceptive_prevalence_rate_(total): Contraceptive prevalence rate (total)
@@ -120,66 +115,8 @@ unmet_need_for_family_planning: Unmet need for family planning
 satisfied_demand_for_family_planning: Satisfied demand for family planning
 skilled_attendant_at_delivery: Skilled attendant at delivery
 institutional_deliveries: Institutional deliveries
-marriage_before_age_15_(women_15-49): Marriage before age 15 (women 15-49)
-marriage_before_age_15_(men_15-49): Marriage before age 15 (men 15-49)
-marriage_before_age_18_(women_20-49): Marriage before age 18 (women 20-49)
-marriage_before_age_18_(men_20-49): Marriage before age 18 (women 20-49)
-young_women_aged_15-19_years_currently_married_or_in_union: Young women aged 15-19 years currently married or in union
-young_men_aged_15-19_years_currently_married_or_in_union: Young men aged 15-19 years currently married or in union
-husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(women_15-49): Husband/partner has the right to hit or beat his wife/partner (women 15-49)
-husband/partner_has_the_right_to_hit_or_beat_his_wife/partner_(men_15-49): Husband/partner has the right to hit or beat his wife/partner (men 15-49)
-comprehensive_knowledge_about_hiv_prevention_(women_15-49): Comprehensive knowledge about HIV prevention (women 15-49)
-comprehensive_knowledge_about_hiv_prevention_(men_15-49): Comprehensive knowledge about HIV prevention (men 15-49)
-comprehensive_knowledge_about_hiv_prevention_(women_15-24): Comprehensive knowledge about HIV prevention (women 15-24)
-comprehensive_knowledge_about_hiv_prevention_(men_15-24): Comprehensive knowledge about HIV prevention (men 15-24)
-accepting_attitudes_towards_people_living_with_hiv_(women_15-49): Accepting attitudes towards people living with HIV (women 15-49)
-accepting_attitudes_towards_people_living_with_hiv_(men_15-49): Accepting attitudes towards people living with HIV (men 15-49)
-women_aged_15-24_who_have_never_had_sex_: Women aged 15-24 who have never had sex
-men_aged_15-24_who_have_never_had_sex_: Men aged 15-24 who have never had sex
-sex_before_age_15_(women_15-19-24): Sex before age 15 (women 15-19-24)
-sex_before_age_15_(men_15-24): Sex before age 15 (men 15-24)
-sex_with_multiple_partners_(women_15-49): Sex with multiple partners (women 15-49)
-sex_with_multiple_partners_(men_15-49): Sex with multiple partners (men 15-49)
-condom_use_during_sex_with_multiple_partners_(women_15-49): Condom use during sex with multiple partners (women 15-49)
-condom_use_during_sex_with_multiple_partners_(men_15-49): Condom use during sex with multiple partners (men 15-49)
-sex_with_non-regular_partners_(women_15-24): Sex with non-regular partners (women 15-24)
-sex_with_non-regular_partners_(men_15-24): Sex with non-regular partners (men 15-24)
-condom_use_with_non-regular_partners_(women_15-24): Condom use with non-regular partners (women 15-24)
-condom_use_with_non-regular_partners_(men_15-24): Condom use with non-regular partners (men 15-24)
-life_satisfaction_(women_15-24): Life satisfaction (women 15-24)
-life_satisfaction_(men_15-24): Life satisfaction (men 15-24)
-happiness_(women_15-24): Happiness (women 15-24)
-happiness_(men_15-24): Happiness (women 15-24)
-tobacco_use_(women_15-49): Tobacco use (women 15-49)
-tobacco_use_(men_15-49): Tobacco use (men 15-49)
-alcohol_use_(women_15-49): Alcohol use (women 15-49)
-alcohol_use_(men_15-49): Alcohol use (men 15-49)
-MICS_NUMBER: Method
-all_methods: All methods
-modern_methods: Modern methods
-traditional_methods: Traditional methods
-MICS_INDICATORS: MICS Indicators
-SOURCE_OF_WATER: Source Of Water
-piped_water_in_the_dwelling_unit_connected_to_community_scheme: Piped water in the dwelling unit connected to community scheme
-piped_water_in_the_dwelling_unit_connected_to_rural_or_local_water_supply_system: Piped water in the dwelling unit connected to rural or local water supply system
-piped_water_in_the_dwelling_unit_connected_to_own_pump_water_system: Piped water in the dwelling unit connected to own pump water system
-drinking_fountain_connected_to_community_scheme: Drinking fountain connected to community scheme
-drinking_fountain_connected_to_own_pump_water_scheme: Drinking fountain connected to own pump water scheme
-street_drinking_fountain: Street drinking fountain
-dug_well: Dug well
-drilled_(pipe)_well: Drilled (pipe) well
-artesian_well: Artesian well
-regulated_water_spring: Regulated water spring
-container_(water_tank)_: Container (water tank)
-bottled_water_from_shop: Bottled water from shop
-other: Other
-public_sewage: Public sewage
-closed_septic_tank: Closed septic tank
-closed_septic_tank_with_overflow: Closed septic tank with overflow
-other_arrangements: Other arrangements
 persons_with_disabilities: Persons with disabilities
 GRAND_total: Grand Total
-persons_without_disabilities: Persons without disabilities
 status_unknown: Status unknown
 married_couple_without_children: Married couple without children
 consensual_couple_without_children: Consensual couple without children
@@ -190,7 +127,7 @@ father_with_children: Father with children
 non-family/single_households: Non-family/single households
 non-family/multi-person_households: Non-family/multi-person households
 TYPE_OF_FAMILY/HOUSEHOLD: Type of family/household
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE:  Number of households
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Number of households
 average_number_of_hh_members: Average number of HH members
 single_household: 1 member
 2_members: 2 members
@@ -213,13 +150,9 @@ informal_union: Informal union
 married: Married
 divorced: Divorced
 widowed: Widowed
-INFANT_MORTALITY: Infant Mortality Infant (up to 12 months of age) mortality rate
-number_of_infant_deaths: Number of infant deaths 
+INFANT_MORTALITY: Infant Mortality Infant (up to 12 months of age) number_of_infant_deaths: Number of infant deaths 
 AGE_OF_MOTHER: Age of mother
 MARRIAGE_BIRTH: Marriage Birth
-in_marriage_birth: In marriage birth
-out_of_marriage_birth: Out of marriage birth
-unknown_marital_status_birth: Unknown marital status birth
 AGE_GROUP_OF_WOMEN: Age group of women
 BIRTH: Birth
 gave_birth: Gave birth
@@ -246,10 +179,8 @@ no_per_1000_marriages: Number per 1000 marriages
 census_pyramid: Census
 projection_pyramid: Year of projection
 LIVE_BORN_CHILDREN: Live-born children
-did_not_give_birth: Did not give birth
 10_and_more: 10 and more
 Ethnicity_national_affiliation: Ethnicity/national affiliation
-Bosnian_and_Herzegovinian: Bosnian and Herzegovinian
 Religion: Religion
 Islam: Islam
 Orthodox: Orthodox
@@ -261,7 +192,6 @@ jehovah_s_witnesses: Jehovah's Witnesses
 Greek_Catholic: Greek Catholic
 Protestant: Protestant
 Romani: Romani
-Protestant: Protestant
 Christian: Christian
 Bosniak: Bosniak
 Croat: Croat
@@ -275,7 +205,7 @@ Mother_tongue: Mother tongue
 Bosnian: Bosnian
 Serbian: Serbian
 Croatian: Croatian
-Serbo_Croatian: Serbo_Croatian
+Serbo_Croatian: Serbo-Croatian
 Romani: Romani
 Albanian: Albanian
 Bosnian_Croatian_Serbian: Bosnian_Croatian_Serbian
@@ -293,13 +223,13 @@ Performing_agricultural_activity_and_selling_agricultural_products_in_the_market
 LITERACY: Literacy
 Literate: Literate
 Illiterate: Illiterate
-Highest_education_atainment: Highest education atainment 
+Highest_education_atainment: Highest education attainment 
 No_education: No education
 Incomplete_primary_education: Incomplete primary education
 Primary_school: Primary school
 Secondary_school: Secondary school
 Post-secondary_school_specialization: Post-secondary school specialization
-High_school_and_first_grade_of_faculty: High school and first grade of faculty
+Higher_school_and_first_grade_of_faculty: Higher school and first grade of faculty
 Advanced_schools_faculty_academy_university: Advanced schools/faculty/academy/university
 private: Private
 public: Public
@@ -310,7 +240,7 @@ religion_schools: Religion schools
 vocational_schools: Vocational schools
 high_schools_for_children_with_special_needs: High schools for children with special needs
 school_year_end: End of the school year
-school_year_beginning: Begininng of the school year 
+school_year_beginning: Beginning of the school year 
 minor_beneficiaries: Minor beneficiaries
 adult_beneficiaries: Adult beneficiaries
 homes_for_children_and_youth_without_parental_care: Homes for children and youth without parental care
@@ -387,142 +317,4 @@ ugljevik: "Ugljevik"
 visegrad: "Visegrad"
 vlasenica: "Vlasenica"
 vukosavlje: "Vukosavlje"
-85+: Older than 85
-average_age: Average age
-bosniaks: Declares as Bosniak nationality
-serbs: Declares as Serb nationality
-croats: Declares as Croat nationality
-other: Declares as other nationality than Bosniak, Croat or Serb
-does_not_declare: Does not declare about nationality
-unknown: Unknown nationality
-islam: Islam
-catholic: Catholic Cristian
-ortodox: Ortodox Cristian
-agnostic: Agnostic
-atheist: Atheist
-other: Religion other than Islam, Catholic Crsitian, Ortodox Cristian
-does_not_declare: Does not declare about religion
-unknow: Unknown religious background
-never_married: Never been married
-married: Married
-divorced: Divorced
-widow: Widow
-did_not_give_birth: Did not give birth
-one_child: One child
-two_children: Two children
-three_children: Three children
-four_children: Four children
-5+_members: Five and more children
-illiterate: Illiterate
-illiterates_percentage: Percentage of illiterates
-unknown: Unknown literacy background
-no_education: No education
-incomplete_elementary: Incomplete elementary education
-elementary_education: Elementary education
-secondary_education: High school education
-secondary_specialization: Specialization after high school
-first_degree: Higher school or first deegre university education
-university_degree: University degree education or academia
-computer_literate: Computer literate people
-partlly_literate: Partlly computer literate people
-computer_illiterate: Computer illiterate people
-unknown: Unknown computer literacy rate
-working_age_population: Working age population
-manpower_T: Total of manpower
-manpower_employed: Manpower that is employed
-unemployed_T: Total of unemployed manpower
-unemployed_experienced: Unemployed manpower with previous working experience
-unemployed_inexperienced: Unemployed manpower without previous working experience
-economically_inactive_T: Total ofeconomically inactive people
-economically_inactive_students: Number of students aged 15+ that are economically inactive
-economically_inactive_retirees: Number of retirees that are economically inactive
-economically_inactive_chores: Number of people doing chores and beeing economically inactive
-economically_inactive_unable: Number of people unable to work
-economically_inactive_other: Other categories of economically inactive people
-disabilities_T: Total number of people with disabilities
-eyesight: Number of people with eyesight disabilities despite eyeglasses
-hearing: Number of people with hearing disabilities despite hearing aid
-walking: Number of people with walking or climbing the stairs disabilities
-memory: Number of people with memory or concentracion disabilities
-dressing: Number of people with dressing or personal hygiene disabilities
-communication: Number of people with communication disabilities
-more_disabilities: Number of people with more disabilities
-single_household: One member of household
-2_members: Two members of household
-three_memners: Three members of household
-4_members: Four members of household
-5+_members: Five and more members of household
-average_number_of_hh_members: Average number of memebers in the household
-buildings_T: Total number of buildings
-one_apartment: Number of buildings with one apartment
-two_apartments: Number of buildings with two apartments
-three_apartments: Number of buildings with three apartments
-four_apartments: Number of budildings with four apartments
-five_apartments: Number of buildings with five apartments
-6_to_10_apartments: Number of buildings with 6 to 10 apartments
-11_to_20_apartments: Number of buildings with 11-20 apartments
-21_to_30_apartments: Number of buildingas with 21-30 apartments
-31_to_50_apartments: Number of buildings with 31-50 apartments
-50+: Number of buildings with 50 or more apartments
-housing_only: Number of apartments and living area used for housing only
-housing_work: Number of apartments and living area used for both, housing and work
-work_only: Number of apartments and living area used for work only
-recreation: Number of apartments and living area used for relaxation and recreation
-agriculture: Number of apartments and living area used in agriculture season
-second_apartment: Number of apartments and living area used as second apartment in the same building
-tenent: Number of apartments and living area used by tenents
-empty: Number of apartments and living area that are empty
-one_bedroom: Numbers of apartments and living area with one-bedroom 
-two_bedrooms: Numbers of apartments and living area with two-bedrooms 
-three_bedrooms: Numbers of apartments and living area with three-bedrooms 
-four_bedrooms: Numbers of apartments and living area with four-bedrooms 
-five_bedrooms: Numbers of apartments and living area with five-bedrooms 
-six_bedrooms: Numbers of apartments and living area with six-bedrooms
-seven_bedrooms: Numbers of apartments and living area with seven-bedrooms
-8+: Numbers of apartments and living area with eight and more bedrooms
-agricultural_households: Number of agricultural households
-agricultural_selling: Number of agricultural households that are selling their products
-married_couple_without_kids: Husband and wife without children
-illegitimate_couple_without_kids: Not married couple without children
-married_couple_with_kids: Husband and wife with children
-illegitimate_couple_with_kids: Not married couple with children
-mother_with_kids: Single mother with children
-father_with_kids: Single father with children
-live_births: Live births
-deaths: Passed away
-natural_increase: Difference between live births and deaths
-birth_rate: Number of live births per 1.000 women
-total_fertility_rate: Fertility rate
-age_of_mother_at_birth_of_first_child: Age of mother at birth of firstborn
-age_of_death: Age of death
-infant_deaths: Number of infant deaths
-infant_death_rate: Infant death rate
-infant_mortality_rate: Infant mortality rate (IMR)
-deaths: Number of deaths
-infectious_and_parasitic_diseases: Infectious and parasitic diseases
-neoplasms: Neoplasms
-diseases_of_the_blood_and_blood_forming_organs: Diseases of the blood and blood forming organs
-diseases_of_the_endocrine_glands_nutrition_and_metabolism: Diseases of the endocrine glands nutrition and metabolism
-mental_disorders_and_behavioral_disorders: Mental disorders and behavioral disorders
-diseases_of_the_nervous_system: Nervous system diseases
-eye_diseases_and_eye_soldering_disease: Eye diseases and eye soldering disease
-diseases_of_the_ear_and_mastoid_process: Diseases of the ear and mastoid process
-diseases_of_the_circulatory_system: Diseases of the circulatory system
-diseases_of_the_respiratory_system: Diseases of the respiratory system
-diseases_of_the_digestive_system: Diseases of the digestive system
-skin_and_subcutaneous_tissue_disorders: Skin and subcutaneous tissue disorders
-diseases_of_the_musculoskeletal_system_and_connective_tissue: Diseases of the musculoskeletal system and connective tissue
-diseases_of_the_genitourinary_system: Diseases_of_the_genitourinary_system
-certain_conditions_occurred_in_the_perinatal_period: Certain conditions occurred in the perinatal period
-congenital_anomalies_deformities_and_chromosomal_abnormalities: Congenital anomalies, deformities and chromosomal abnormalities
-symptoms_signs_and_abnormal_clinical_and_laboratory_findings: Symptoms signs and abnormal clinical and laboratory findings
-injuries_poisonings_and_consequences_of_external_factors: Injuries poisonings and consequences of external factors
-Special_puprose_codes: Special puprose codes
-pregnancy_childbirth_and_puerperium: Pregnancy childbirth and puerperium
-numerical: Numerical
-rate: Rate
-expected: Expected
-marriages_concluded: Marriages concluded
-nuptiality_rate: Nuptiality rate
-divorced_marriage: Divorced marriage
-divorce_rate: Divorce rate
+
