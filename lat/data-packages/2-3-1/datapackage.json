@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
@@ -120,5 +120,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-1",
-  "title": "Domaćinstva prema gradu/općini i broju članova"
+  "title": "Domaćinstva prema gradu/opštini i broju članova"
 }

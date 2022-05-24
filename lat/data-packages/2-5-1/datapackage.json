@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "SEX",
@@ -104,7 +104,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "Disabilities",
@@ -135,5 +135,5 @@
   ],
   "profile": "data-package",
   "name": "2-5-1",
-  "title": "Stanovništvo sa poteškoćama prema spolu"
+  "title": "Stanovništvo sa poteškoćama prema polu"
 }

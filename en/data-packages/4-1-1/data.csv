@@ -1,9 +1,9 @@
 Year,UNIT_MEASURE,TYPE_OF_USERS,Value
-2016,Number,Total,191604
-2017,Number,Total,184830
-2018,Number,Total,179164
-2019,Number,Total,171280
-2020,Number,Total,167786
+2016,Number,total,191604
+2017,Number,total,184830
+2018,Number,total,179164
+2019,Number,total,171280
+2020,Number,total,167786
 2016,Number,underage_users,53648
 2017,Number,underage_users,49035
 2018,Number,underage_users,48462

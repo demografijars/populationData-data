@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "agricultural_households_number",
@@ -116,5 +116,5 @@
   ],
   "profile": "data-package",
   "name": "2-3-2",
-  "title": "Domaćinstva prema gradu/općini i poljoprivrednoj aktivnosti"
+  "title": "Domaćinstva prema gradu/opštini i poljoprivrednoj aktivnosti"
 }

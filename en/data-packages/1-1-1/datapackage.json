@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Deaths",
-                "Live births",
-                "Natural change"
+                "DEATHS",
+                "LIVE_BIRTH",
+                "NATURAL_CHANGE"
               ]
             },
-            "title": "Vital statistics"
+            "title": "BIRTHS"
           },
           {
             "name": "SEX",
@@ -29,7 +29,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Total"
+                "_T"
               ]
             },
             "title": "Sex"
@@ -37,7 +37,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

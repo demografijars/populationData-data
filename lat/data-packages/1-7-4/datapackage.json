@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "BIRTH",
@@ -38,7 +38,7 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
+                "Umrli",
                 ""
               ]
             },
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-4",
-  "title": "Projekcije vitalne statistike prema spolu"
+  "title": "Projekcije vitalne statistike prema polu"
 }

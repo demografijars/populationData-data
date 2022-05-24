@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Све методе",
-                "Традиционалне методе",
-                "Савремене методе",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Метода"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",

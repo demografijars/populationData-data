@@ -1,148 +1,148 @@
-Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
-2003,Number,Both sexes,Total,12988
-2004,Number,Both sexes,Total,13082
-2005,Number,Both sexes,Total,13802
-2006,Number,Both sexes,Total,13232
-2007,Number,Both sexes,Total,14146
-2008,Number,Both sexes,Total,13501
-2009,Number,Both sexes,Total,13775
-2010,Number,Both sexes,Total,13517
-2011,Number,Both sexes,Total,13658
-2012,Number,Both sexes,Total,13796
-2013,Number,Both sexes,Total,13978
-2014,Number,Both sexes,Total,14409
-2015,Number,Both sexes,Total,15059
-2016,Number,Both sexes,Total,13970
-2017,Number,Both sexes,Total,14663
-2018,Number,Both sexes,Total,14763
-2019,Number,Both sexes,Total,15081
-2020,Number,Both sexes,Total,16582
-2003,Number,Both sexes,Infectious and parasitic diseases,89
-2004,Number,Both sexes,Infectious and parasitic diseases,124
-2005,Number,Both sexes,Infectious and parasitic diseases,128
-2006,Number,Both sexes,Infectious and parasitic diseases,111
-2007,Number,Both sexes,Infectious and parasitic diseases,103
-2008,Number,Both sexes,Infectious and parasitic diseases,118
-2009,Number,Both sexes,Infectious and parasitic diseases,118
-2010,Number,Both sexes,Infectious and parasitic diseases,109
-2011,Number,Both sexes,Infectious and parasitic diseases,117
-2012,Number,Both sexes,Infectious and parasitic diseases,135
-2013,Number,Both sexes,Infectious and parasitic diseases,120
-2014,Number,Both sexes,Infectious and parasitic diseases,136
-2015,Number,Both sexes,Infectious and parasitic diseases,159
-2016,Number,Both sexes,Infectious and parasitic diseases,187
-2017,Number,Both sexes,Infectious and parasitic diseases,147
-2018,Number,Both sexes,Infectious and parasitic diseases,184
-2019,Number,Both sexes,Infectious and parasitic diseases,200
-2020,Number,Both sexes,Infectious and parasitic diseases,162
-2003,Number,Both sexes,Neoplasms,2411
-2004,Number,Both sexes,Neoplasms,2330
-2005,Number,Both sexes,Neoplasms,2653
-2006,Number,Both sexes,Neoplasms,2551
-2007,Number,Both sexes,Neoplasms,2733
-2008,Number,Both sexes,Neoplasms,2733
-2009,Number,Both sexes,Neoplasms,2822
-2010,Number,Both sexes,Neoplasms,2700
-2011,Number,Both sexes,Neoplasms,2802
-2012,Number,Both sexes,Neoplasms,2937
-2013,Number,Both sexes,Neoplasms,3090
-2014,Number,Both sexes,Neoplasms,3154
-2015,Number,Both sexes,Neoplasms,3138
-2016,Number,Both sexes,Neoplasms,2948
-2017,Number,Both sexes,Neoplasms,3027
-2018,Number,Both sexes,Neoplasms,2938
-2019,Number,Both sexes,Neoplasms,2891
-2020,Number,Both sexes,Neoplasms,2719
-2003,Number,Both sexes,Diseases of the blood and blood forming organs,8
-2004,Number,Both sexes,Diseases of the blood and blood forming organs,13
-2005,Number,Both sexes,Diseases of the blood and blood forming organs,15
-2006,Number,Both sexes,Diseases of the blood and blood forming organs,6
-2007,Number,Both sexes,Diseases of the blood and blood forming organs,16
-2008,Number,Both sexes,Diseases of the blood and blood forming organs,8
-2009,Number,Both sexes,Diseases of the blood and blood forming organs,13
-2010,Number,Both sexes,Diseases of the blood and blood forming organs,15
-2011,Number,Both sexes,Diseases of the blood and blood forming organs,17
-2012,Number,Both sexes,Diseases of the blood and blood forming organs,15
-2013,Number,Both sexes,Diseases of the blood and blood forming organs,16
-2014,Number,Both sexes,Diseases of the blood and blood forming organs,10
-2015,Number,Both sexes,Diseases of the blood and blood forming organs,19
-2016,Number,Both sexes,Diseases of the blood and blood forming organs,24
-2017,Number,Both sexes,Diseases of the blood and blood forming organs,20
-2018,Number,Both sexes,Diseases of the blood and blood forming organs,36
-2019,Number,Both sexes,Diseases of the blood and blood forming organs,24
-2020,Number,Both sexes,Diseases of the blood and blood forming organs,27
-2003,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,180
-2004,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,160
-2005,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,727
-2006,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,790
-2007,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,791
-2008,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,764
-2009,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,891
-2010,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,691
-2011,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,654
-2012,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,561
-2013,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,800
-2014,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,912
-2015,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,762
-2016,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,691
-2017,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,825
-2018,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,844
-2019,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,604
-2020,Number,Both sexes,Diseases of the endocrine glands nutrition and metabolism,825
-2003,Number,Both sexes,Mental disorders and behavioral disorders,33
-2004,Number,Both sexes,Mental disorders and behavioral disorders,58
-2005,Number,Both sexes,Mental disorders and behavioral disorders,80
-2006,Number,Both sexes,Mental disorders and behavioral disorders,82
-2007,Number,Both sexes,Mental disorders and behavioral disorders,107
-2008,Number,Both sexes,Mental disorders and behavioral disorders,101
-2009,Number,Both sexes,Mental disorders and behavioral disorders,122
-2010,Number,Both sexes,Mental disorders and behavioral disorders,84
-2011,Number,Both sexes,Mental disorders and behavioral disorders,72
-2012,Number,Both sexes,Mental disorders and behavioral disorders,58
-2013,Number,Both sexes,Mental disorders and behavioral disorders,95
-2014,Number,Both sexes,Mental disorders and behavioral disorders,84
-2015,Number,Both sexes,Mental disorders and behavioral disorders,72
-2016,Number,Both sexes,Mental disorders and behavioral disorders,98
-2017,Number,Both sexes,Mental disorders and behavioral disorders,113
-2018,Number,Both sexes,Mental disorders and behavioral disorders,85
-2019,Number,Both sexes,Mental disorders and behavioral disorders,72
-2020,Number,Both sexes,Mental disorders and behavioral disorders,72
-2003,Number,Both sexes,Nervous system diseases,65
-2004,Number,Both sexes,Nervous system diseases,91
-2005,Number,Both sexes,Nervous system diseases,170
-2006,Number,Both sexes,Nervous system diseases,184
-2007,Number,Both sexes,Nervous system diseases,155
-2008,Number,Both sexes,Nervous system diseases,146
-2009,Number,Both sexes,Nervous system diseases,133
-2010,Number,Both sexes,Nervous system diseases,152
-2011,Number,Both sexes,Nervous system diseases,209
-2012,Number,Both sexes,Nervous system diseases,207
-2013,Number,Both sexes,Nervous system diseases,185
-2014,Number,Both sexes,Nervous system diseases,186
-2015,Number,Both sexes,Nervous system diseases,212
-2016,Number,Both sexes,Nervous system diseases,171
-2017,Number,Both sexes,Nervous system diseases,197
-2018,Number,Both sexes,Nervous system diseases,169
-2019,Number,Both sexes,Nervous system diseases,165
-2020,Number,Both sexes,Nervous system diseases,188
-2003,Number,Both sexes,Eye diseases and eye soldering disease,0
-2004,Number,Both sexes,Eye diseases and eye soldering disease,0
-2005,Number,Both sexes,Eye diseases and eye soldering disease,0
-2006,Number,Both sexes,Eye diseases and eye soldering disease,0
-2007,Number,Both sexes,Eye diseases and eye soldering disease,0
-2008,Number,Both sexes,Eye diseases and eye soldering disease,0
-2009,Number,Both sexes,Eye diseases and eye soldering disease,0
-2010,Number,Both sexes,Eye diseases and eye soldering disease,0
-2011,Number,Both sexes,Eye diseases and eye soldering disease,0
-2012,Number,Both sexes,Eye diseases and eye soldering disease,0
-2013,Number,Both sexes,Eye diseases and eye soldering disease,0
-2014,Number,Both sexes,Eye diseases and eye soldering disease,0
-2015,Number,Both sexes,Eye diseases and eye soldering disease,0
-2016,Number,Both sexes,Eye diseases and eye soldering disease,0
-2017,Number,Both sexes,Eye diseases and eye soldering disease,0
-2018,Number,Both sexes,Eye diseases and eye soldering disease,0
-2019,Number,Both sexes,Eye diseases and eye soldering disease,0
-2020,Number,Both sexes,Eye diseases and eye soldering disease,0
+Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
+2003,Number,Both sexes,total,12988
+2004,Number,Both sexes,total,13082
+2005,Number,Both sexes,total,13802
+2006,Number,Both sexes,total,13232
+2007,Number,Both sexes,total,14146
+2008,Number,Both sexes,total,13501
+2009,Number,Both sexes,total,13775
+2010,Number,Both sexes,total,13517
+2011,Number,Both sexes,total,13658
+2012,Number,Both sexes,total,13796
+2013,Number,Both sexes,total,13978
+2014,Number,Both sexes,total,14409
+2015,Number,Both sexes,total,15059
+2016,Number,Both sexes,total,13970
+2017,Number,Both sexes,total,14663
+2018,Number,Both sexes,total,14763
+2019,Number,Both sexes,total,15081
+2020,Number,Both sexes,total,16582
+2003,Number,Both sexes,infectious_and_parasitic_diseases,89
+2004,Number,Both sexes,infectious_and_parasitic_diseases,124
+2005,Number,Both sexes,infectious_and_parasitic_diseases,128
+2006,Number,Both sexes,infectious_and_parasitic_diseases,111
+2007,Number,Both sexes,infectious_and_parasitic_diseases,103
+2008,Number,Both sexes,infectious_and_parasitic_diseases,118
+2009,Number,Both sexes,infectious_and_parasitic_diseases,118
+2010,Number,Both sexes,infectious_and_parasitic_diseases,109
+2011,Number,Both sexes,infectious_and_parasitic_diseases,117
+2012,Number,Both sexes,infectious_and_parasitic_diseases,135
+2013,Number,Both sexes,infectious_and_parasitic_diseases,120
+2014,Number,Both sexes,infectious_and_parasitic_diseases,136
+2015,Number,Both sexes,infectious_and_parasitic_diseases,159
+2016,Number,Both sexes,infectious_and_parasitic_diseases,187
+2017,Number,Both sexes,infectious_and_parasitic_diseases,147
+2018,Number,Both sexes,infectious_and_parasitic_diseases,184
+2019,Number,Both sexes,infectious_and_parasitic_diseases,200
+2020,Number,Both sexes,infectious_and_parasitic_diseases,162
+2003,Number,Both sexes,neoplasms,2411
+2004,Number,Both sexes,neoplasms,2330
+2005,Number,Both sexes,neoplasms,2653
+2006,Number,Both sexes,neoplasms,2551
+2007,Number,Both sexes,neoplasms,2733
+2008,Number,Both sexes,neoplasms,2733
+2009,Number,Both sexes,neoplasms,2822
+2010,Number,Both sexes,neoplasms,2700
+2011,Number,Both sexes,neoplasms,2802
+2012,Number,Both sexes,neoplasms,2937
+2013,Number,Both sexes,neoplasms,3090
+2014,Number,Both sexes,neoplasms,3154
+2015,Number,Both sexes,neoplasms,3138
+2016,Number,Both sexes,neoplasms,2948
+2017,Number,Both sexes,neoplasms,3027
+2018,Number,Both sexes,neoplasms,2938
+2019,Number,Both sexes,neoplasms,2891
+2020,Number,Both sexes,neoplasms,2719
+2003,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,8
+2004,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,13
+2005,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,15
+2006,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,6
+2007,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,16
+2008,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,8
+2009,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,13
+2010,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,15
+2011,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,17
+2012,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,15
+2013,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,16
+2014,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,10
+2015,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,19
+2016,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,24
+2017,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,20
+2018,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,36
+2019,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,24
+2020,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,27
+2003,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,180
+2004,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,160
+2005,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,727
+2006,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,790
+2007,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,791
+2008,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,764
+2009,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,891
+2010,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,691
+2011,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,654
+2012,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,561
+2013,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,800
+2014,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,912
+2015,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,762
+2016,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,691
+2017,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,825
+2018,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,844
+2019,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,604
+2020,Number,Both sexes,diseases_of_the_endocrine_glands_nutrition_and_metabolism,825
+2003,Number,Both sexes,mental_disorders_and_behavioral_disorders,33
+2004,Number,Both sexes,mental_disorders_and_behavioral_disorders,58
+2005,Number,Both sexes,mental_disorders_and_behavioral_disorders,80
+2006,Number,Both sexes,mental_disorders_and_behavioral_disorders,82
+2007,Number,Both sexes,mental_disorders_and_behavioral_disorders,107
+2008,Number,Both sexes,mental_disorders_and_behavioral_disorders,101
+2009,Number,Both sexes,mental_disorders_and_behavioral_disorders,122
+2010,Number,Both sexes,mental_disorders_and_behavioral_disorders,84
+2011,Number,Both sexes,mental_disorders_and_behavioral_disorders,72
+2012,Number,Both sexes,mental_disorders_and_behavioral_disorders,58
+2013,Number,Both sexes,mental_disorders_and_behavioral_disorders,95
+2014,Number,Both sexes,mental_disorders_and_behavioral_disorders,84
+2015,Number,Both sexes,mental_disorders_and_behavioral_disorders,72
+2016,Number,Both sexes,mental_disorders_and_behavioral_disorders,98
+2017,Number,Both sexes,mental_disorders_and_behavioral_disorders,113
+2018,Number,Both sexes,mental_disorders_and_behavioral_disorders,85
+2019,Number,Both sexes,mental_disorders_and_behavioral_disorders,72
+2020,Number,Both sexes,mental_disorders_and_behavioral_disorders,72
+2003,Number,Both sexes,diseases_of_the_nervous_system,65
+2004,Number,Both sexes,diseases_of_the_nervous_system,91
+2005,Number,Both sexes,diseases_of_the_nervous_system,170
+2006,Number,Both sexes,diseases_of_the_nervous_system,184
+2007,Number,Both sexes,diseases_of_the_nervous_system,155
+2008,Number,Both sexes,diseases_of_the_nervous_system,146
+2009,Number,Both sexes,diseases_of_the_nervous_system,133
+2010,Number,Both sexes,diseases_of_the_nervous_system,152
+2011,Number,Both sexes,diseases_of_the_nervous_system,209
+2012,Number,Both sexes,diseases_of_the_nervous_system,207
+2013,Number,Both sexes,diseases_of_the_nervous_system,185
+2014,Number,Both sexes,diseases_of_the_nervous_system,186
+2015,Number,Both sexes,diseases_of_the_nervous_system,212
+2016,Number,Both sexes,diseases_of_the_nervous_system,171
+2017,Number,Both sexes,diseases_of_the_nervous_system,197
+2018,Number,Both sexes,diseases_of_the_nervous_system,169
+2019,Number,Both sexes,diseases_of_the_nervous_system,165
+2020,Number,Both sexes,diseases_of_the_nervous_system,188
+2003,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2004,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2005,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2006,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2007,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2008,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2009,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2010,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2011,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2012,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2013,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2014,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2015,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2016,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2017,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2018,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2019,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
+2020,Number,Both sexes,eye_diseases_and_eye_soldering_disease,0
 2003,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
 2004,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
 2005,Number,Both sexes,diseases_of_ear_and_mastoid_process,1
@@ -161,204 +161,204 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
 2019,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
 2020,Number,Both sexes,diseases_of_ear_and_mastoid_process,0
-2003,Number,Both sexes,Diseases of the circulatory system,7071
-2004,Number,Both sexes,Diseases of the circulatory system,7340
-2005,Number,Both sexes,Diseases of the circulatory system,7002
-2006,Number,Both sexes,Diseases of the circulatory system,6463
-2007,Number,Both sexes,Diseases of the circulatory system,7097
-2008,Number,Both sexes,Diseases of the circulatory system,6965
-2009,Number,Both sexes,Diseases of the circulatory system,7014
-2010,Number,Both sexes,Diseases of the circulatory system,7211
-2011,Number,Both sexes,Diseases of the circulatory system,7339
-2012,Number,Both sexes,Diseases of the circulatory system,7625
-2013,Number,Both sexes,Diseases of the circulatory system,6687
-2014,Number,Both sexes,Diseases of the circulatory system,6777
-2015,Number,Both sexes,Diseases of the circulatory system,7275
-2016,Number,Both sexes,Diseases of the circulatory system,6920
-2017,Number,Both sexes,Diseases of the circulatory system,7180
-2018,Number,Both sexes,Diseases of the circulatory system,6989
-2019,Number,Both sexes,Diseases of the circulatory system,7473
-2020,Number,Both sexes,Diseases of the circulatory system,7602
-2003,Number,Both sexes,Diseases of the respiratory system,304
-2004,Number,Both sexes,Diseases of the respiratory system,345
-2005,Number,Both sexes,Diseases of the respiratory system,504
-2006,Number,Both sexes,Diseases of the respiratory system,520
-2007,Number,Both sexes,Diseases of the respiratory system,493
-2008,Number,Both sexes,Diseases of the respiratory system,449
-2009,Number,Both sexes,Diseases of the respiratory system,430
-2010,Number,Both sexes,Diseases of the respiratory system,450
-2011,Number,Both sexes,Diseases of the respiratory system,536
-2012,Number,Both sexes,Diseases of the respiratory system,424
-2013,Number,Both sexes,Diseases of the respiratory system,556
-2014,Number,Both sexes,Diseases of the respiratory system,524
-2015,Number,Both sexes,Diseases of the respiratory system,618
-2016,Number,Both sexes,Diseases of the respiratory system,510
-2017,Number,Both sexes,Diseases of the respiratory system,576
-2018,Number,Both sexes,Diseases of the respiratory system,626
-2019,Number,Both sexes,Diseases of the respiratory system,596
-2020,Number,Both sexes,Diseases of the respiratory system,631
-2003,Number,Both sexes,Diseases of the digestive system,352
-2004,Number,Both sexes,Diseases of the digestive system,347
-2005,Number,Both sexes,Diseases of the digestive system,343
-2006,Number,Both sexes,Diseases of the digestive system,379
-2007,Number,Both sexes,Diseases of the digestive system,396
-2008,Number,Both sexes,Diseases of the digestive system,366
-2009,Number,Both sexes,Diseases of the digestive system,371
-2010,Number,Both sexes,Diseases of the digestive system,398
-2011,Number,Both sexes,Diseases of the digestive system,391
-2012,Number,Both sexes,Diseases of the digestive system,393
-2013,Number,Both sexes,Diseases of the digestive system,402
-2014,Number,Both sexes,Diseases of the digestive system,429
-2015,Number,Both sexes,Diseases of the digestive system,440
-2016,Number,Both sexes,Diseases of the digestive system,450
-2017,Number,Both sexes,Diseases of the digestive system,413
-2018,Number,Both sexes,Diseases of the digestive system,481
-2019,Number,Both sexes,Diseases of the digestive system,419
-2020,Number,Both sexes,Diseases of the digestive system,438
-2003,Number,Both sexes,Skin and subcutaneous tissue disorders,0
-2004,Number,Both sexes,Skin and subcutaneous tissue disorders,3
-2005,Number,Both sexes,Skin and subcutaneous tissue disorders,0
-2006,Number,Both sexes,Skin and subcutaneous tissue disorders,1
-2007,Number,Both sexes,Skin and subcutaneous tissue disorders,2
-2008,Number,Both sexes,Skin and subcutaneous tissue disorders,2
-2009,Number,Both sexes,Skin and subcutaneous tissue disorders,3
-2010,Number,Both sexes,Skin and subcutaneous tissue disorders,6
-2011,Number,Both sexes,Skin and subcutaneous tissue disorders,1
-2012,Number,Both sexes,Skin and subcutaneous tissue disorders,4
-2013,Number,Both sexes,Skin and subcutaneous tissue disorders,20
-2014,Number,Both sexes,Skin and subcutaneous tissue disorders,22
-2015,Number,Both sexes,Skin and subcutaneous tissue disorders,22
-2016,Number,Both sexes,Skin and subcutaneous tissue disorders,21
-2017,Number,Both sexes,Skin and subcutaneous tissue disorders,24
-2018,Number,Both sexes,Skin and subcutaneous tissue disorders,22
-2019,Number,Both sexes,Skin and subcutaneous tissue disorders,23
-2020,Number,Both sexes,Skin and subcutaneous tissue disorders,30
-2003,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,6
-2004,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,3
-2005,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,12
-2006,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,10
-2007,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
-2008,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,17
-2009,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
-2010,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,11
-2011,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,18
-2012,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,16
-2013,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,28
-2014,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,22
-2015,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,30
-2016,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,19
-2017,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,17
-2018,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,21
-2019,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,13
-2020,Number,Both sexes,Diseases of the musculoskeletal system and connective tissue,28
-2003,Number,Both sexes,Diseases_of_the_genitourinary_system,222
-2004,Number,Both sexes,Diseases_of_the_genitourinary_system,205
-2005,Number,Both sexes,Diseases_of_the_genitourinary_system,257
-2006,Number,Both sexes,Diseases_of_the_genitourinary_system,266
-2007,Number,Both sexes,Diseases_of_the_genitourinary_system,275
-2008,Number,Both sexes,Diseases_of_the_genitourinary_system,268
-2009,Number,Both sexes,Diseases_of_the_genitourinary_system,257
-2010,Number,Both sexes,Diseases_of_the_genitourinary_system,255
-2011,Number,Both sexes,Diseases_of_the_genitourinary_system,175
-2012,Number,Both sexes,Diseases_of_the_genitourinary_system,236
-2013,Number,Both sexes,Diseases_of_the_genitourinary_system,213
-2014,Number,Both sexes,Diseases_of_the_genitourinary_system,150
-2015,Number,Both sexes,Diseases_of_the_genitourinary_system,179
-2016,Number,Both sexes,Diseases_of_the_genitourinary_system,218
-2017,Number,Both sexes,Diseases_of_the_genitourinary_system,193
-2018,Number,Both sexes,Diseases_of_the_genitourinary_system,220
-2019,Number,Both sexes,Diseases_of_the_genitourinary_system,195
-2020,Number,Both sexes,Diseases_of_the_genitourinary_system,221
-2003,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2004,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2005,Number,Both sexes,Pregnancy childbirth and puerperium,2
-2006,Number,Both sexes,Pregnancy childbirth and puerperium,2
-2007,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2008,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2009,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2010,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2011,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2012,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2013,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2014,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2015,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2016,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2017,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2018,Number,Both sexes,Pregnancy childbirth and puerperium,1
-2019,Number,Both sexes,Pregnancy childbirth and puerperium,0
-2020,Number,Both sexes,Pregnancy childbirth and puerperium,3
-2003,Number,Both sexes,Certain conditions occurred in the perinatal period,44
-2004,Number,Both sexes,Certain conditions occurred in the perinatal period,38
-2005,Number,Both sexes,Certain conditions occurred in the perinatal period,27
-2006,Number,Both sexes,Certain conditions occurred in the perinatal period,38
-2007,Number,Both sexes,Certain conditions occurred in the perinatal period,27
-2008,Number,Both sexes,Certain conditions occurred in the perinatal period,20
-2009,Number,Both sexes,Certain conditions occurred in the perinatal period,34
-2010,Number,Both sexes,Certain conditions occurred in the perinatal period,29
-2011,Number,Both sexes,Certain conditions occurred in the perinatal period,36
-2012,Number,Both sexes,Certain conditions occurred in the perinatal period,29
-2013,Number,Both sexes,Certain conditions occurred in the perinatal period,21
-2014,Number,Both sexes,Certain conditions occurred in the perinatal period,16
-2015,Number,Both sexes,Certain conditions occurred in the perinatal period,10
-2016,Number,Both sexes,Certain conditions occurred in the perinatal period,18
-2017,Number,Both sexes,Certain conditions occurred in the perinatal period,17
-2018,Number,Both sexes,Certain conditions occurred in the perinatal period,10
-2019,Number,Both sexes,Certain conditions occurred in the perinatal period,11
-2020,Number,Both sexes,Certain conditions occurred in the perinatal period,34
-2003,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2004,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",11
-2005,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
-2006,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
-2007,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",14
-2008,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",15
-2009,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",20
-2010,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",17
-2011,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",9
-2012,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",6
-2013,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2014,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2015,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2016,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
-2017,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
-2018,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",5
-2019,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",4
-2020,Number,Both sexes,"Congenital anomalies, deformities and chromosomal abnormalities",6
-2003,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1612
-2004,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1462
-2005,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1249
-2006,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1200
-2007,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1288
-2008,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,945
-2009,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,953
-2010,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,877
-2011,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,681
-2012,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,612
-2013,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1231
-2014,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1445
-2015,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1556
-2016,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1198
-2017,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1435
-2018,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1650
-2019,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1961
-2020,Number,Both sexes,Symptoms signs and abnormal clinical and laboratory findings,1599
-2003,Number,Both sexes,Injuries poisonings and consequences of external factors,580
-2004,Number,Both sexes,Injuries poisonings and consequences of external factors,552
-2005,Number,Both sexes,Injuries poisonings and consequences of external factors,618
-2006,Number,Both sexes,Injuries poisonings and consequences of external factors,615
-2007,Number,Both sexes,Injuries poisonings and consequences of external factors,634
-2008,Number,Both sexes,Injuries poisonings and consequences of external factors,584
-2009,Number,Both sexes,Injuries poisonings and consequences of external factors,581
-2010,Number,Both sexes,Injuries poisonings and consequences of external factors,511
-2011,Number,Both sexes,Injuries poisonings and consequences of external factors,600
-2012,Number,Both sexes,Injuries poisonings and consequences of external factors,538
-2013,Number,Both sexes,Injuries poisonings and consequences of external factors,504
-2014,Number,Both sexes,Injuries poisonings and consequences of external factors,532
-2015,Number,Both sexes,Injuries poisonings and consequences of external factors,559
-2016,Number,Both sexes,Injuries poisonings and consequences of external factors,491
-2017,Number,Both sexes,Injuries poisonings and consequences of external factors,474
-2018,Number,Both sexes,Injuries poisonings and consequences of external factors,482
-2019,Number,Both sexes,Injuries poisonings and consequences of external factors,430
-2020,Number,Both sexes,Injuries poisonings and consequences of external factors,405
+2003,Number,Both sexes,diseases_of_the_circulatory_system,7071
+2004,Number,Both sexes,diseases_of_the_circulatory_system,7340
+2005,Number,Both sexes,diseases_of_the_circulatory_system,7002
+2006,Number,Both sexes,diseases_of_the_circulatory_system,6463
+2007,Number,Both sexes,diseases_of_the_circulatory_system,7097
+2008,Number,Both sexes,diseases_of_the_circulatory_system,6965
+2009,Number,Both sexes,diseases_of_the_circulatory_system,7014
+2010,Number,Both sexes,diseases_of_the_circulatory_system,7211
+2011,Number,Both sexes,diseases_of_the_circulatory_system,7339
+2012,Number,Both sexes,diseases_of_the_circulatory_system,7625
+2013,Number,Both sexes,diseases_of_the_circulatory_system,6687
+2014,Number,Both sexes,diseases_of_the_circulatory_system,6777
+2015,Number,Both sexes,diseases_of_the_circulatory_system,7275
+2016,Number,Both sexes,diseases_of_the_circulatory_system,6920
+2017,Number,Both sexes,diseases_of_the_circulatory_system,7180
+2018,Number,Both sexes,diseases_of_the_circulatory_system,6989
+2019,Number,Both sexes,diseases_of_the_circulatory_system,7473
+2020,Number,Both sexes,diseases_of_the_circulatory_system,7602
+2003,Number,Both sexes,diseases_of_the_respiratory_system,304
+2004,Number,Both sexes,diseases_of_the_respiratory_system,345
+2005,Number,Both sexes,diseases_of_the_respiratory_system,504
+2006,Number,Both sexes,diseases_of_the_respiratory_system,520
+2007,Number,Both sexes,diseases_of_the_respiratory_system,493
+2008,Number,Both sexes,diseases_of_the_respiratory_system,449
+2009,Number,Both sexes,diseases_of_the_respiratory_system,430
+2010,Number,Both sexes,diseases_of_the_respiratory_system,450
+2011,Number,Both sexes,diseases_of_the_respiratory_system,536
+2012,Number,Both sexes,diseases_of_the_respiratory_system,424
+2013,Number,Both sexes,diseases_of_the_respiratory_system,556
+2014,Number,Both sexes,diseases_of_the_respiratory_system,524
+2015,Number,Both sexes,diseases_of_the_respiratory_system,618
+2016,Number,Both sexes,diseases_of_the_respiratory_system,510
+2017,Number,Both sexes,diseases_of_the_respiratory_system,576
+2018,Number,Both sexes,diseases_of_the_respiratory_system,626
+2019,Number,Both sexes,diseases_of_the_respiratory_system,596
+2020,Number,Both sexes,diseases_of_the_respiratory_system,631
+2003,Number,Both sexes,diseases_of_the_digestive_system,352
+2004,Number,Both sexes,diseases_of_the_digestive_system,347
+2005,Number,Both sexes,diseases_of_the_digestive_system,343
+2006,Number,Both sexes,diseases_of_the_digestive_system,379
+2007,Number,Both sexes,diseases_of_the_digestive_system,396
+2008,Number,Both sexes,diseases_of_the_digestive_system,366
+2009,Number,Both sexes,diseases_of_the_digestive_system,371
+2010,Number,Both sexes,diseases_of_the_digestive_system,398
+2011,Number,Both sexes,diseases_of_the_digestive_system,391
+2012,Number,Both sexes,diseases_of_the_digestive_system,393
+2013,Number,Both sexes,diseases_of_the_digestive_system,402
+2014,Number,Both sexes,diseases_of_the_digestive_system,429
+2015,Number,Both sexes,diseases_of_the_digestive_system,440
+2016,Number,Both sexes,diseases_of_the_digestive_system,450
+2017,Number,Both sexes,diseases_of_the_digestive_system,413
+2018,Number,Both sexes,diseases_of_the_digestive_system,481
+2019,Number,Both sexes,diseases_of_the_digestive_system,419
+2020,Number,Both sexes,diseases_of_the_digestive_system,438
+2003,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,0
+2004,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,3
+2005,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,0
+2006,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,1
+2007,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,2
+2008,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,2
+2009,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,3
+2010,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,6
+2011,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,1
+2012,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,4
+2013,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,20
+2014,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,22
+2015,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,22
+2016,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,21
+2017,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,24
+2018,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,22
+2019,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,23
+2020,Number,Both sexes,skin_and_subcutaneous_tissue_disorders,30
+2003,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,6
+2004,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2005,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
+2006,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,10
+2007,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
+2008,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
+2009,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
+2010,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,11
+2011,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,18
+2012,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,16
+2013,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,28
+2014,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,22
+2015,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,30
+2016,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,19
+2017,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
+2018,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,21
+2019,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
+2020,Number,Both sexes,diseases_of_the_musculoskeletal_system_and_connective_tissue,28
+2003,Number,Both sexes,diseases_of_the_genitourinary_system,222
+2004,Number,Both sexes,diseases_of_the_genitourinary_system,205
+2005,Number,Both sexes,diseases_of_the_genitourinary_system,257
+2006,Number,Both sexes,diseases_of_the_genitourinary_system,266
+2007,Number,Both sexes,diseases_of_the_genitourinary_system,275
+2008,Number,Both sexes,diseases_of_the_genitourinary_system,268
+2009,Number,Both sexes,diseases_of_the_genitourinary_system,257
+2010,Number,Both sexes,diseases_of_the_genitourinary_system,255
+2011,Number,Both sexes,diseases_of_the_genitourinary_system,175
+2012,Number,Both sexes,diseases_of_the_genitourinary_system,236
+2013,Number,Both sexes,diseases_of_the_genitourinary_system,213
+2014,Number,Both sexes,diseases_of_the_genitourinary_system,150
+2015,Number,Both sexes,diseases_of_the_genitourinary_system,179
+2016,Number,Both sexes,diseases_of_the_genitourinary_system,218
+2017,Number,Both sexes,diseases_of_the_genitourinary_system,193
+2018,Number,Both sexes,diseases_of_the_genitourinary_system,220
+2019,Number,Both sexes,diseases_of_the_genitourinary_system,195
+2020,Number,Both sexes,diseases_of_the_genitourinary_system,221
+2003,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2004,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2005,Number,Both sexes,pregnancy_childbirth_and_puerperium,2
+2006,Number,Both sexes,pregnancy_childbirth_and_puerperium,2
+2007,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2008,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2009,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2010,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2011,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2012,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2013,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2014,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2015,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2016,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2017,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2018,Number,Both sexes,pregnancy_childbirth_and_puerperium,1
+2019,Number,Both sexes,pregnancy_childbirth_and_puerperium,0
+2020,Number,Both sexes,pregnancy_childbirth_and_puerperium,3
+2003,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,44
+2004,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,38
+2005,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,27
+2006,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,38
+2007,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,27
+2008,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,20
+2009,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,34
+2010,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,29
+2011,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,36
+2012,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,29
+2013,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,21
+2014,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,16
+2015,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,10
+2016,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,18
+2017,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,17
+2018,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,10
+2019,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,11
+2020,Number,Both sexes,certain_conditions_occurred_in_the_perinatal_period,34
+2003,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2004,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,11
+2005,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
+2006,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
+2007,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
+2008,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,15
+2009,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,20
+2010,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,17
+2011,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,9
+2012,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
+2013,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2014,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2015,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2016,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
+2017,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
+2018,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
+2019,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
+2020,Number,Both sexes,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
+2003,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1612
+2004,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1462
+2005,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1249
+2006,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1200
+2007,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1288
+2008,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,945
+2009,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,953
+2010,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,877
+2011,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,681
+2012,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,612
+2013,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1231
+2014,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1445
+2015,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1556
+2016,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1198
+2017,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1435
+2018,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1650
+2019,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1961
+2020,Number,Both sexes,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1599
+2003,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,580
+2004,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,552
+2005,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,618
+2006,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,615
+2007,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,634
+2008,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,584
+2009,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,581
+2010,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,511
+2011,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,600
+2012,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,538
+2013,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,504
+2014,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,532
+2015,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,559
+2016,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,491
+2017,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,474
+2018,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,482
+2019,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,430
+2020,Number,Both sexes,injuries_poisonings_and_consequences_of_external_factors,405
 2003,Number,Both sexes,special_purpose_codes,0
 2004,Number,Both sexes,special_purpose_codes,0
 2005,Number,Both sexes,special_purpose_codes,0
@@ -377,150 +377,150 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,special_purpose_codes,0
 2019,Number,Both sexes,special_purpose_codes,0
 2020,Number,Both sexes,special_purpose_codes,1592
-2003,Number,M,Total,6804
-2004,Number,M,Total,6735
-2005,Number,M,Total,7239
-2006,Number,M,Total,6904
-2007,Number,M,Total,7302
-2008,Number,M,Total,7058
-2009,Number,M,Total,7099
-2010,Number,M,Total,6935
-2011,Number,M,Total,7001
-2012,Number,M,Total,7064
-2013,Number,M,Total,7237
-2014,Number,M,Total,7386
-2015,Number,M,Total,7640
-2016,Number,M,Total,7198
-2017,Number,M,Total,7363
-2018,Number,M,Total,7449
-2019,Number,M,Total,7753
-2020,Number,M,Total,8613
-2003,Number,M,Infectious and parasitic diseases,59
-2004,Number,M,Infectious and parasitic diseases,75
-2005,Number,M,Infectious and parasitic diseases,78
-2006,Number,M,Infectious and parasitic diseases,73
-2007,Number,M,Infectious and parasitic diseases,70
-2008,Number,M,Infectious and parasitic diseases,72
-2009,Number,M,Infectious and parasitic diseases,75
-2010,Number,M,Infectious and parasitic diseases,72
-2011,Number,M,Infectious and parasitic diseases,79
-2012,Number,M,Infectious and parasitic diseases,69
-2013,Number,M,Infectious and parasitic diseases,73
-2014,Number,M,Infectious and parasitic diseases,80
-2015,Number,M,Infectious and parasitic diseases,92
-2016,Number,M,Infectious and parasitic diseases,104
-2017,Number,M,Infectious and parasitic diseases,85
-2018,Number,M,Infectious and parasitic diseases,109
-2019,Number,M,Infectious and parasitic diseases,119
-2020,Number,M,Infectious and parasitic diseases,87
-2003,Number,M,Neoplasms,1461
-2004,Number,M,Neoplasms,1402
-2005,Number,M,Neoplasms,1581
-2006,Number,M,Neoplasms,1536
-2007,Number,M,Neoplasms,1624
-2008,Number,M,Neoplasms,1658
-2009,Number,M,Neoplasms,1661
-2010,Number,M,Neoplasms,1595
-2011,Number,M,Neoplasms,1684
-2012,Number,M,Neoplasms,1754
-2013,Number,M,Neoplasms,1859
-2014,Number,M,Neoplasms,1801
-2015,Number,M,Neoplasms,1783
-2016,Number,M,Neoplasms,1739
-2017,Number,M,Neoplasms,1759
-2018,Number,M,Neoplasms,1729
-2019,Number,M,Neoplasms,1705
-2020,Number,M,Neoplasms,1622
-2003,Number,M,Diseases of the blood and blood forming organs,6
-2004,Number,M,Diseases of the blood and blood forming organs,2
-2005,Number,M,Diseases of the blood and blood forming organs,5
-2006,Number,M,Diseases of the blood and blood forming organs,2
-2007,Number,M,Diseases of the blood and blood forming organs,6
-2008,Number,M,Diseases of the blood and blood forming organs,3
-2009,Number,M,Diseases of the blood and blood forming organs,4
-2010,Number,M,Diseases of the blood and blood forming organs,5
-2011,Number,M,Diseases of the blood and blood forming organs,7
-2012,Number,M,Diseases of the blood and blood forming organs,9
-2013,Number,M,Diseases of the blood and blood forming organs,8
-2014,Number,M,Diseases of the blood and blood forming organs,2
-2015,Number,M,Diseases of the blood and blood forming organs,9
-2016,Number,M,Diseases of the blood and blood forming organs,9
-2017,Number,M,Diseases of the blood and blood forming organs,3
-2018,Number,M,Diseases of the blood and blood forming organs,18
-2019,Number,M,Diseases of the blood and blood forming organs,8
-2020,Number,M,Diseases of the blood and blood forming organs,12
-2003,Number,M,Diseases of the endocrine glands nutrition and metabolism,71
-2004,Number,M,Diseases of the endocrine glands nutrition and metabolism,68
-2005,Number,M,Diseases of the endocrine glands nutrition and metabolism,286
-2006,Number,M,Diseases of the endocrine glands nutrition and metabolism,306
-2007,Number,M,Diseases of the endocrine glands nutrition and metabolism,349
-2008,Number,M,Diseases of the endocrine glands nutrition and metabolism,310
-2009,Number,M,Diseases of the endocrine glands nutrition and metabolism,361
-2010,Number,M,Diseases of the endocrine glands nutrition and metabolism,289
-2011,Number,M,Diseases of the endocrine glands nutrition and metabolism,257
-2012,Number,M,Diseases of the endocrine glands nutrition and metabolism,211
-2013,Number,M,Diseases of the endocrine glands nutrition and metabolism,341
-2014,Number,M,Diseases of the endocrine glands nutrition and metabolism,411
-2015,Number,M,Diseases of the endocrine glands nutrition and metabolism,362
-2016,Number,M,Diseases of the endocrine glands nutrition and metabolism,313
-2017,Number,M,Diseases of the endocrine glands nutrition and metabolism,373
-2018,Number,M,Diseases of the endocrine glands nutrition and metabolism,386
-2019,Number,M,Diseases of the endocrine glands nutrition and metabolism,261
-2020,Number,M,Diseases of the endocrine glands nutrition and metabolism,340
-2003,Number,M,Mental disorders and behavioral disorders,24
-2004,Number,M,Mental disorders and behavioral disorders,46
-2005,Number,M,Mental disorders and behavioral disorders,64
-2006,Number,M,Mental disorders and behavioral disorders,67
-2007,Number,M,Mental disorders and behavioral disorders,87
-2008,Number,M,Mental disorders and behavioral disorders,82
-2009,Number,M,Mental disorders and behavioral disorders,92
-2010,Number,M,Mental disorders and behavioral disorders,73
-2011,Number,M,Mental disorders and behavioral disorders,58
-2012,Number,M,Mental disorders and behavioral disorders,46
-2013,Number,M,Mental disorders and behavioral disorders,64
-2014,Number,M,Mental disorders and behavioral disorders,63
-2015,Number,M,Mental disorders and behavioral disorders,44
-2016,Number,M,Mental disorders and behavioral disorders,72
-2017,Number,M,Mental disorders and behavioral disorders,70
-2018,Number,M,Mental disorders and behavioral disorders,55
-2019,Number,M,Mental disorders and behavioral disorders,50
-2020,Number,M,Mental disorders and behavioral disorders,43
-2003,Number,M,Nervous system diseases,39
-2004,Number,M,Nervous system diseases,53
-2005,Number,M,Nervous system diseases,86
-2006,Number,M,Nervous system diseases,111
-2007,Number,M,Nervous system diseases,85
-2008,Number,M,Nervous system diseases,91
-2009,Number,M,Nervous system diseases,78
-2010,Number,M,Nervous system diseases,76
-2011,Number,M,Nervous system diseases,112
-2012,Number,M,Nervous system diseases,105
-2013,Number,M,Nervous system diseases,98
-2014,Number,M,Nervous system diseases,97
-2015,Number,M,Nervous system diseases,106
-2016,Number,M,Nervous system diseases,96
-2017,Number,M,Nervous system diseases,102
-2018,Number,M,Nervous system diseases,82
-2019,Number,M,Nervous system diseases,84
-2020,Number,M,Nervous system diseases,91
-2003,Number,M,Eye diseases and eye soldering disease,0
-2004,Number,M,Eye diseases and eye soldering disease,0
-2005,Number,M,Eye diseases and eye soldering disease,0
-2006,Number,M,Eye diseases and eye soldering disease,0
-2007,Number,M,Eye diseases and eye soldering disease,0
-2008,Number,M,Eye diseases and eye soldering disease,0
-2009,Number,M,Eye diseases and eye soldering disease,0
-2010,Number,M,Eye diseases and eye soldering disease,0
-2011,Number,M,Eye diseases and eye soldering disease,0
-2012,Number,M,Eye diseases and eye soldering disease,0
-2013,Number,M,Eye diseases and eye soldering disease,0
-2014,Number,M,Eye diseases and eye soldering disease,0
-2015,Number,M,Eye diseases and eye soldering disease,0
-2016,Number,M,Eye diseases and eye soldering disease,0
-2017,Number,M,Eye diseases and eye soldering disease,0
-2018,Number,M,Eye diseases and eye soldering disease,0
-2019,Number,M,Eye diseases and eye soldering disease,0
-2020,Number,M,Eye diseases and eye soldering disease,0
+2003,Number,M,total,6804
+2004,Number,M,total,6735
+2005,Number,M,total,7239
+2006,Number,M,total,6904
+2007,Number,M,total,7302
+2008,Number,M,total,7058
+2009,Number,M,total,7099
+2010,Number,M,total,6935
+2011,Number,M,total,7001
+2012,Number,M,total,7064
+2013,Number,M,total,7237
+2014,Number,M,total,7386
+2015,Number,M,total,7640
+2016,Number,M,total,7198
+2017,Number,M,total,7363
+2018,Number,M,total,7449
+2019,Number,M,total,7753
+2020,Number,M,total,8613
+2003,Number,M,infectious_and_parasitic_diseases,59
+2004,Number,M,infectious_and_parasitic_diseases,75
+2005,Number,M,infectious_and_parasitic_diseases,78
+2006,Number,M,infectious_and_parasitic_diseases,73
+2007,Number,M,infectious_and_parasitic_diseases,70
+2008,Number,M,infectious_and_parasitic_diseases,72
+2009,Number,M,infectious_and_parasitic_diseases,75
+2010,Number,M,infectious_and_parasitic_diseases,72
+2011,Number,M,infectious_and_parasitic_diseases,79
+2012,Number,M,infectious_and_parasitic_diseases,69
+2013,Number,M,infectious_and_parasitic_diseases,73
+2014,Number,M,infectious_and_parasitic_diseases,80
+2015,Number,M,infectious_and_parasitic_diseases,92
+2016,Number,M,infectious_and_parasitic_diseases,104
+2017,Number,M,infectious_and_parasitic_diseases,85
+2018,Number,M,infectious_and_parasitic_diseases,109
+2019,Number,M,infectious_and_parasitic_diseases,119
+2020,Number,M,infectious_and_parasitic_diseases,87
+2003,Number,M,neoplasms,1461
+2004,Number,M,neoplasms,1402
+2005,Number,M,neoplasms,1581
+2006,Number,M,neoplasms,1536
+2007,Number,M,neoplasms,1624
+2008,Number,M,neoplasms,1658
+2009,Number,M,neoplasms,1661
+2010,Number,M,neoplasms,1595
+2011,Number,M,neoplasms,1684
+2012,Number,M,neoplasms,1754
+2013,Number,M,neoplasms,1859
+2014,Number,M,neoplasms,1801
+2015,Number,M,neoplasms,1783
+2016,Number,M,neoplasms,1739
+2017,Number,M,neoplasms,1759
+2018,Number,M,neoplasms,1729
+2019,Number,M,neoplasms,1705
+2020,Number,M,neoplasms,1622
+2003,Number,M,diseases_of_the_blood_and_blood_forming_organs,6
+2004,Number,M,diseases_of_the_blood_and_blood_forming_organs,2
+2005,Number,M,diseases_of_the_blood_and_blood_forming_organs,5
+2006,Number,M,diseases_of_the_blood_and_blood_forming_organs,2
+2007,Number,M,diseases_of_the_blood_and_blood_forming_organs,6
+2008,Number,M,diseases_of_the_blood_and_blood_forming_organs,3
+2009,Number,M,diseases_of_the_blood_and_blood_forming_organs,4
+2010,Number,M,diseases_of_the_blood_and_blood_forming_organs,5
+2011,Number,M,diseases_of_the_blood_and_blood_forming_organs,7
+2012,Number,M,diseases_of_the_blood_and_blood_forming_organs,9
+2013,Number,M,diseases_of_the_blood_and_blood_forming_organs,8
+2014,Number,M,diseases_of_the_blood_and_blood_forming_organs,2
+2015,Number,M,diseases_of_the_blood_and_blood_forming_organs,9
+2016,Number,M,diseases_of_the_blood_and_blood_forming_organs,9
+2017,Number,M,diseases_of_the_blood_and_blood_forming_organs,3
+2018,Number,M,diseases_of_the_blood_and_blood_forming_organs,18
+2019,Number,M,diseases_of_the_blood_and_blood_forming_organs,8
+2020,Number,M,diseases_of_the_blood_and_blood_forming_organs,12
+2003,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,71
+2004,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,68
+2005,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,286
+2006,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,306
+2007,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,349
+2008,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,310
+2009,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,361
+2010,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,289
+2011,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,257
+2012,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,211
+2013,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,341
+2014,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,411
+2015,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,362
+2016,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,313
+2017,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,373
+2018,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,386
+2019,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,261
+2020,Number,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,340
+2003,Number,M,mental_disorders_and_behavioral_disorders,24
+2004,Number,M,mental_disorders_and_behavioral_disorders,46
+2005,Number,M,mental_disorders_and_behavioral_disorders,64
+2006,Number,M,mental_disorders_and_behavioral_disorders,67
+2007,Number,M,mental_disorders_and_behavioral_disorders,87
+2008,Number,M,mental_disorders_and_behavioral_disorders,82
+2009,Number,M,mental_disorders_and_behavioral_disorders,92
+2010,Number,M,mental_disorders_and_behavioral_disorders,73
+2011,Number,M,mental_disorders_and_behavioral_disorders,58
+2012,Number,M,mental_disorders_and_behavioral_disorders,46
+2013,Number,M,mental_disorders_and_behavioral_disorders,64
+2014,Number,M,mental_disorders_and_behavioral_disorders,63
+2015,Number,M,mental_disorders_and_behavioral_disorders,44
+2016,Number,M,mental_disorders_and_behavioral_disorders,72
+2017,Number,M,mental_disorders_and_behavioral_disorders,70
+2018,Number,M,mental_disorders_and_behavioral_disorders,55
+2019,Number,M,mental_disorders_and_behavioral_disorders,50
+2020,Number,M,mental_disorders_and_behavioral_disorders,43
+2003,Number,M,diseases_of_the_nervous_system,39
+2004,Number,M,diseases_of_the_nervous_system,53
+2005,Number,M,diseases_of_the_nervous_system,86
+2006,Number,M,diseases_of_the_nervous_system,111
+2007,Number,M,diseases_of_the_nervous_system,85
+2008,Number,M,diseases_of_the_nervous_system,91
+2009,Number,M,diseases_of_the_nervous_system,78
+2010,Number,M,diseases_of_the_nervous_system,76
+2011,Number,M,diseases_of_the_nervous_system,112
+2012,Number,M,diseases_of_the_nervous_system,105
+2013,Number,M,diseases_of_the_nervous_system,98
+2014,Number,M,diseases_of_the_nervous_system,97
+2015,Number,M,diseases_of_the_nervous_system,106
+2016,Number,M,diseases_of_the_nervous_system,96
+2017,Number,M,diseases_of_the_nervous_system,102
+2018,Number,M,diseases_of_the_nervous_system,82
+2019,Number,M,diseases_of_the_nervous_system,84
+2020,Number,M,diseases_of_the_nervous_system,91
+2003,Number,M,eye_diseases_and_eye_soldering_disease,0
+2004,Number,M,eye_diseases_and_eye_soldering_disease,0
+2005,Number,M,eye_diseases_and_eye_soldering_disease,0
+2006,Number,M,eye_diseases_and_eye_soldering_disease,0
+2007,Number,M,eye_diseases_and_eye_soldering_disease,0
+2008,Number,M,eye_diseases_and_eye_soldering_disease,0
+2009,Number,M,eye_diseases_and_eye_soldering_disease,0
+2010,Number,M,eye_diseases_and_eye_soldering_disease,0
+2011,Number,M,eye_diseases_and_eye_soldering_disease,0
+2012,Number,M,eye_diseases_and_eye_soldering_disease,0
+2013,Number,M,eye_diseases_and_eye_soldering_disease,0
+2014,Number,M,eye_diseases_and_eye_soldering_disease,0
+2015,Number,M,eye_diseases_and_eye_soldering_disease,0
+2016,Number,M,eye_diseases_and_eye_soldering_disease,0
+2017,Number,M,eye_diseases_and_eye_soldering_disease,0
+2018,Number,M,eye_diseases_and_eye_soldering_disease,0
+2019,Number,M,eye_diseases_and_eye_soldering_disease,0
+2020,Number,M,eye_diseases_and_eye_soldering_disease,0
 2003,Number,M,diseases_of_ear_and_mastoid_process,0
 2004,Number,M,diseases_of_ear_and_mastoid_process,0
 2005,Number,M,diseases_of_ear_and_mastoid_process,1
@@ -539,186 +539,186 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,diseases_of_ear_and_mastoid_process,0
 2019,Number,M,diseases_of_ear_and_mastoid_process,0
 2020,Number,M,diseases_of_ear_and_mastoid_process,0
-2003,Number,M,Diseases of the circulatory system,3323
-2004,Number,M,Diseases of the circulatory system,3383
-2005,Number,M,Diseases of the circulatory system,3325
-2006,Number,M,Diseases of the circulatory system,3005
-2007,Number,M,Diseases of the circulatory system,3233
-2008,Number,M,Diseases of the circulatory system,3209
-2009,Number,M,Diseases of the circulatory system,3271
-2010,Number,M,Diseases of the circulatory system,3285
-2011,Number,M,Diseases of the circulatory system,3330
-2012,Number,M,Diseases of the circulatory system,3516
-2013,Number,M,Diseases of the circulatory system,3062
-2014,Number,M,Diseases of the circulatory system,3142
-2015,Number,M,Diseases of the circulatory system,3311
-2016,Number,M,Diseases of the circulatory system,3177
-2017,Number,M,Diseases of the circulatory system,3220
-2018,Number,M,Diseases of the circulatory system,3084
-2019,Number,M,Diseases of the circulatory system,3440
-2020,Number,M,Diseases of the circulatory system,3452
-2003,Number,M,Diseases of the respiratory system,184
-2004,Number,M,Diseases of the respiratory system,211
-2005,Number,M,Diseases of the respiratory system,284
-2006,Number,M,Diseases of the respiratory system,292
-2007,Number,M,Diseases of the respiratory system,282
-2008,Number,M,Diseases of the respiratory system,276
-2009,Number,M,Diseases of the respiratory system,254
-2010,Number,M,Diseases of the respiratory system,277
-2011,Number,M,Diseases of the respiratory system,303
-2012,Number,M,Diseases of the respiratory system,263
-2013,Number,M,Diseases of the respiratory system,334
-2014,Number,M,Diseases of the respiratory system,315
-2015,Number,M,Diseases of the respiratory system,370
-2016,Number,M,Diseases of the respiratory system,306
-2017,Number,M,Diseases of the respiratory system,333
-2018,Number,M,Diseases of the respiratory system,344
-2019,Number,M,Diseases of the respiratory system,338
-2020,Number,M,Diseases of the respiratory system,377
-2003,Number,M,Diseases of the digestive system,216
-2004,Number,M,Diseases of the digestive system,206
-2005,Number,M,Diseases of the digestive system,219
-2006,Number,M,Diseases of the digestive system,233
-2007,Number,M,Diseases of the digestive system,249
-2008,Number,M,Diseases of the digestive system,235
-2009,Number,M,Diseases of the digestive system,223
-2010,Number,M,Diseases of the digestive system,242
-2011,Number,M,Diseases of the digestive system,255
-2012,Number,M,Diseases of the digestive system,248
-2013,Number,M,Diseases of the digestive system,219
-2014,Number,M,Diseases of the digestive system,241
-2015,Number,M,Diseases of the digestive system,249
-2016,Number,M,Diseases of the digestive system,265
-2017,Number,M,Diseases of the digestive system,229
-2018,Number,M,Diseases of the digestive system,290
-2019,Number,M,Diseases of the digestive system,239
-2020,Number,M,Diseases of the digestive system,269
-2003,Number,M,Skin and subcutaneous tissue disorders,0
-2004,Number,M,Skin and subcutaneous tissue disorders,0
-2005,Number,M,Skin and subcutaneous tissue disorders,0
-2006,Number,M,Skin and subcutaneous tissue disorders,0
-2007,Number,M,Skin and subcutaneous tissue disorders,0
-2008,Number,M,Skin and subcutaneous tissue disorders,0
-2009,Number,M,Skin and subcutaneous tissue disorders,1
-2010,Number,M,Skin and subcutaneous tissue disorders,4
-2011,Number,M,Skin and subcutaneous tissue disorders,0
-2012,Number,M,Skin and subcutaneous tissue disorders,3
-2013,Number,M,Skin and subcutaneous tissue disorders,9
-2014,Number,M,Skin and subcutaneous tissue disorders,13
-2015,Number,M,Skin and subcutaneous tissue disorders,7
-2016,Number,M,Skin and subcutaneous tissue disorders,7
-2017,Number,M,Skin and subcutaneous tissue disorders,5
-2018,Number,M,Skin and subcutaneous tissue disorders,12
-2019,Number,M,Skin and subcutaneous tissue disorders,7
-2020,Number,M,Skin and subcutaneous tissue disorders,13
-2003,Number,M,Diseases of the musculoskeletal system and connective tissue,3
-2004,Number,M,Diseases of the musculoskeletal system and connective tissue,1
-2005,Number,M,Diseases of the musculoskeletal system and connective tissue,5
-2006,Number,M,Diseases of the musculoskeletal system and connective tissue,1
-2007,Number,M,Diseases of the musculoskeletal system and connective tissue,4
-2008,Number,M,Diseases of the musculoskeletal system and connective tissue,3
-2009,Number,M,Diseases of the musculoskeletal system and connective tissue,2
-2010,Number,M,Diseases of the musculoskeletal system and connective tissue,3
-2011,Number,M,Diseases of the musculoskeletal system and connective tissue,4
-2012,Number,M,Diseases of the musculoskeletal system and connective tissue,4
-2013,Number,M,Diseases of the musculoskeletal system and connective tissue,9
-2014,Number,M,Diseases of the musculoskeletal system and connective tissue,8
-2015,Number,M,Diseases of the musculoskeletal system and connective tissue,12
-2016,Number,M,Diseases of the musculoskeletal system and connective tissue,6
-2017,Number,M,Diseases of the musculoskeletal system and connective tissue,8
-2018,Number,M,Diseases of the musculoskeletal system and connective tissue,4
-2019,Number,M,Diseases of the musculoskeletal system and connective tissue,4
-2020,Number,M,Diseases of the musculoskeletal system and connective tissue,7
-2003,Number,M,Diseases_of_the_genitourinary_system,123
-2004,Number,M,Diseases_of_the_genitourinary_system,113
-2005,Number,M,Diseases_of_the_genitourinary_system,160
-2006,Number,M,Diseases_of_the_genitourinary_system,152
-2007,Number,M,Diseases_of_the_genitourinary_system,163
-2008,Number,M,Diseases_of_the_genitourinary_system,155
-2009,Number,M,Diseases_of_the_genitourinary_system,139
-2010,Number,M,Diseases_of_the_genitourinary_system,140
-2011,Number,M,Diseases_of_the_genitourinary_system,101
-2012,Number,M,Diseases_of_the_genitourinary_system,116
-2013,Number,M,Diseases_of_the_genitourinary_system,121
-2014,Number,M,Diseases_of_the_genitourinary_system,73
-2015,Number,M,Diseases_of_the_genitourinary_system,93
-2016,Number,M,Diseases_of_the_genitourinary_system,117
-2017,Number,M,Diseases_of_the_genitourinary_system,96
-2018,Number,M,Diseases_of_the_genitourinary_system,117
-2019,Number,M,Diseases_of_the_genitourinary_system,104
-2020,Number,M,Diseases_of_the_genitourinary_system,113
-2003,Number,M,Certain conditions occurred in the perinatal period,23
-2004,Number,M,Certain conditions occurred in the perinatal period,28
-2005,Number,M,Certain conditions occurred in the perinatal period,17
-2006,Number,M,Certain conditions occurred in the perinatal period,26
-2007,Number,M,Certain conditions occurred in the perinatal period,15
-2008,Number,M,Certain conditions occurred in the perinatal period,12
-2009,Number,M,Certain conditions occurred in the perinatal period,22
-2010,Number,M,Certain conditions occurred in the perinatal period,13
-2011,Number,M,Certain conditions occurred in the perinatal period,20
-2012,Number,M,Certain conditions occurred in the perinatal period,18
-2013,Number,M,Certain conditions occurred in the perinatal period,13
-2014,Number,M,Certain conditions occurred in the perinatal period,7
-2015,Number,M,Certain conditions occurred in the perinatal period,2
-2016,Number,M,Certain conditions occurred in the perinatal period,13
-2017,Number,M,Certain conditions occurred in the perinatal period,7
-2018,Number,M,Certain conditions occurred in the perinatal period,3
-2019,Number,M,Certain conditions occurred in the perinatal period,6
-2020,Number,M,Certain conditions occurred in the perinatal period,16
-2003,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2004,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2005,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",6
-2006,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2007,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",8
-2008,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",5
-2009,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2010,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2011,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2012,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",5
-2013,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2014,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2015,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2016,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2017,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",4
-2018,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",2
-2019,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",0
-2020,Number,M,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2003,Number,M,Symptoms signs and abnormal clinical and laboratory findings,821
-2004,Number,M,Symptoms signs and abnormal clinical and laboratory findings,726
-2005,Number,M,Symptoms signs and abnormal clinical and laboratory findings,659
-2006,Number,M,Symptoms signs and abnormal clinical and laboratory findings,627
-2007,Number,M,Symptoms signs and abnormal clinical and laboratory findings,638
-2008,Number,M,Symptoms signs and abnormal clinical and laboratory findings,496
-2009,Number,M,Symptoms signs and abnormal clinical and laboratory findings,485
-2010,Number,M,Symptoms signs and abnormal clinical and laboratory findings,446
-2011,Number,M,Symptoms signs and abnormal clinical and laboratory findings,302
-2012,Number,M,Symptoms signs and abnormal clinical and laboratory findings,277
-2013,Number,M,Symptoms signs and abnormal clinical and laboratory findings,643
-2014,Number,M,Symptoms signs and abnormal clinical and laboratory findings,718
-2015,Number,M,Symptoms signs and abnormal clinical and laboratory findings,780
-2016,Number,M,Symptoms signs and abnormal clinical and laboratory findings,598
-2017,Number,M,Symptoms signs and abnormal clinical and laboratory findings,720
-2018,Number,M,Symptoms signs and abnormal clinical and laboratory findings,844
-2019,Number,M,Symptoms signs and abnormal clinical and laboratory findings,1048
-2020,Number,M,Symptoms signs and abnormal clinical and laboratory findings,834
-2003,Number,M,Injuries poisonings and consequences of external factors,444
-2004,Number,M,Injuries poisonings and consequences of external factors,411
-2005,Number,M,Injuries poisonings and consequences of external factors,463
-2006,Number,M,Injuries poisonings and consequences of external factors,466
-2007,Number,M,Injuries poisonings and consequences of external factors,488
-2008,Number,M,Injuries poisonings and consequences of external factors,451
-2009,Number,M,Injuries poisonings and consequences of external factors,424
-2010,Number,M,Injuries poisonings and consequences of external factors,405
-2011,Number,M,Injuries poisonings and consequences of external factors,482
-2012,Number,M,Injuries poisonings and consequences of external factors,420
-2013,Number,M,Injuries poisonings and consequences of external factors,377
-2014,Number,M,Injuries poisonings and consequences of external factors,412
-2015,Number,M,Injuries poisonings and consequences of external factors,417
-2016,Number,M,Injuries poisonings and consequences of external factors,373
-2017,Number,M,Injuries poisonings and consequences of external factors,349
-2018,Number,M,Injuries poisonings and consequences of external factors,370
-2019,Number,M,Injuries poisonings and consequences of external factors,340
-2020,Number,M,Injuries poisonings and consequences of external factors,304
+2003,Number,M,diseases_of_the_circulatory_system,3323
+2004,Number,M,diseases_of_the_circulatory_system,3383
+2005,Number,M,diseases_of_the_circulatory_system,3325
+2006,Number,M,diseases_of_the_circulatory_system,3005
+2007,Number,M,diseases_of_the_circulatory_system,3233
+2008,Number,M,diseases_of_the_circulatory_system,3209
+2009,Number,M,diseases_of_the_circulatory_system,3271
+2010,Number,M,diseases_of_the_circulatory_system,3285
+2011,Number,M,diseases_of_the_circulatory_system,3330
+2012,Number,M,diseases_of_the_circulatory_system,3516
+2013,Number,M,diseases_of_the_circulatory_system,3062
+2014,Number,M,diseases_of_the_circulatory_system,3142
+2015,Number,M,diseases_of_the_circulatory_system,3311
+2016,Number,M,diseases_of_the_circulatory_system,3177
+2017,Number,M,diseases_of_the_circulatory_system,3220
+2018,Number,M,diseases_of_the_circulatory_system,3084
+2019,Number,M,diseases_of_the_circulatory_system,3440
+2020,Number,M,diseases_of_the_circulatory_system,3452
+2003,Number,M,diseases_of_the_respiratory_system,184
+2004,Number,M,diseases_of_the_respiratory_system,211
+2005,Number,M,diseases_of_the_respiratory_system,284
+2006,Number,M,diseases_of_the_respiratory_system,292
+2007,Number,M,diseases_of_the_respiratory_system,282
+2008,Number,M,diseases_of_the_respiratory_system,276
+2009,Number,M,diseases_of_the_respiratory_system,254
+2010,Number,M,diseases_of_the_respiratory_system,277
+2011,Number,M,diseases_of_the_respiratory_system,303
+2012,Number,M,diseases_of_the_respiratory_system,263
+2013,Number,M,diseases_of_the_respiratory_system,334
+2014,Number,M,diseases_of_the_respiratory_system,315
+2015,Number,M,diseases_of_the_respiratory_system,370
+2016,Number,M,diseases_of_the_respiratory_system,306
+2017,Number,M,diseases_of_the_respiratory_system,333
+2018,Number,M,diseases_of_the_respiratory_system,344
+2019,Number,M,diseases_of_the_respiratory_system,338
+2020,Number,M,diseases_of_the_respiratory_system,377
+2003,Number,M,diseases_of_the_digestive_system,216
+2004,Number,M,diseases_of_the_digestive_system,206
+2005,Number,M,diseases_of_the_digestive_system,219
+2006,Number,M,diseases_of_the_digestive_system,233
+2007,Number,M,diseases_of_the_digestive_system,249
+2008,Number,M,diseases_of_the_digestive_system,235
+2009,Number,M,diseases_of_the_digestive_system,223
+2010,Number,M,diseases_of_the_digestive_system,242
+2011,Number,M,diseases_of_the_digestive_system,255
+2012,Number,M,diseases_of_the_digestive_system,248
+2013,Number,M,diseases_of_the_digestive_system,219
+2014,Number,M,diseases_of_the_digestive_system,241
+2015,Number,M,diseases_of_the_digestive_system,249
+2016,Number,M,diseases_of_the_digestive_system,265
+2017,Number,M,diseases_of_the_digestive_system,229
+2018,Number,M,diseases_of_the_digestive_system,290
+2019,Number,M,diseases_of_the_digestive_system,239
+2020,Number,M,diseases_of_the_digestive_system,269
+2003,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2004,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2005,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2006,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2007,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2008,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2009,Number,M,skin_and_subcutaneous_tissue_disorders,1
+2010,Number,M,skin_and_subcutaneous_tissue_disorders,4
+2011,Number,M,skin_and_subcutaneous_tissue_disorders,0
+2012,Number,M,skin_and_subcutaneous_tissue_disorders,3
+2013,Number,M,skin_and_subcutaneous_tissue_disorders,9
+2014,Number,M,skin_and_subcutaneous_tissue_disorders,13
+2015,Number,M,skin_and_subcutaneous_tissue_disorders,7
+2016,Number,M,skin_and_subcutaneous_tissue_disorders,7
+2017,Number,M,skin_and_subcutaneous_tissue_disorders,5
+2018,Number,M,skin_and_subcutaneous_tissue_disorders,12
+2019,Number,M,skin_and_subcutaneous_tissue_disorders,7
+2020,Number,M,skin_and_subcutaneous_tissue_disorders,13
+2003,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2004,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,1
+2005,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,5
+2006,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,1
+2007,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
+2008,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2009,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,2
+2010,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2011,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
+2012,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
+2013,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2014,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2015,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
+2016,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,6
+2017,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2018,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
+2019,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
+2020,Number,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,7
+2003,Number,M,diseases_of_the_genitourinary_system,123
+2004,Number,M,diseases_of_the_genitourinary_system,113
+2005,Number,M,diseases_of_the_genitourinary_system,160
+2006,Number,M,diseases_of_the_genitourinary_system,152
+2007,Number,M,diseases_of_the_genitourinary_system,163
+2008,Number,M,diseases_of_the_genitourinary_system,155
+2009,Number,M,diseases_of_the_genitourinary_system,139
+2010,Number,M,diseases_of_the_genitourinary_system,140
+2011,Number,M,diseases_of_the_genitourinary_system,101
+2012,Number,M,diseases_of_the_genitourinary_system,116
+2013,Number,M,diseases_of_the_genitourinary_system,121
+2014,Number,M,diseases_of_the_genitourinary_system,73
+2015,Number,M,diseases_of_the_genitourinary_system,93
+2016,Number,M,diseases_of_the_genitourinary_system,117
+2017,Number,M,diseases_of_the_genitourinary_system,96
+2018,Number,M,diseases_of_the_genitourinary_system,117
+2019,Number,M,diseases_of_the_genitourinary_system,104
+2020,Number,M,diseases_of_the_genitourinary_system,113
+2003,Number,M,certain_conditions_occurred_in_the_perinatal_period,23
+2004,Number,M,certain_conditions_occurred_in_the_perinatal_period,28
+2005,Number,M,certain_conditions_occurred_in_the_perinatal_period,17
+2006,Number,M,certain_conditions_occurred_in_the_perinatal_period,26
+2007,Number,M,certain_conditions_occurred_in_the_perinatal_period,15
+2008,Number,M,certain_conditions_occurred_in_the_perinatal_period,12
+2009,Number,M,certain_conditions_occurred_in_the_perinatal_period,22
+2010,Number,M,certain_conditions_occurred_in_the_perinatal_period,13
+2011,Number,M,certain_conditions_occurred_in_the_perinatal_period,20
+2012,Number,M,certain_conditions_occurred_in_the_perinatal_period,18
+2013,Number,M,certain_conditions_occurred_in_the_perinatal_period,13
+2014,Number,M,certain_conditions_occurred_in_the_perinatal_period,7
+2015,Number,M,certain_conditions_occurred_in_the_perinatal_period,2
+2016,Number,M,certain_conditions_occurred_in_the_perinatal_period,13
+2017,Number,M,certain_conditions_occurred_in_the_perinatal_period,7
+2018,Number,M,certain_conditions_occurred_in_the_perinatal_period,3
+2019,Number,M,certain_conditions_occurred_in_the_perinatal_period,6
+2020,Number,M,certain_conditions_occurred_in_the_perinatal_period,16
+2003,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2004,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2005,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
+2006,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2007,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
+2008,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
+2009,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2010,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2011,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2012,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
+2013,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2014,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2015,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2016,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2017,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
+2018,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
+2019,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,0
+2020,Number,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2003,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,821
+2004,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,726
+2005,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,659
+2006,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,627
+2007,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,638
+2008,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,496
+2009,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,485
+2010,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,446
+2011,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,302
+2012,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,277
+2013,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,643
+2014,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,718
+2015,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,780
+2016,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,598
+2017,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,720
+2018,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,844
+2019,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1048
+2020,Number,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,834
+2003,Number,M,injuries_poisonings_and_consequences_of_external_factors,444
+2004,Number,M,injuries_poisonings_and_consequences_of_external_factors,411
+2005,Number,M,injuries_poisonings_and_consequences_of_external_factors,463
+2006,Number,M,injuries_poisonings_and_consequences_of_external_factors,466
+2007,Number,M,injuries_poisonings_and_consequences_of_external_factors,488
+2008,Number,M,injuries_poisonings_and_consequences_of_external_factors,451
+2009,Number,M,injuries_poisonings_and_consequences_of_external_factors,424
+2010,Number,M,injuries_poisonings_and_consequences_of_external_factors,405
+2011,Number,M,injuries_poisonings_and_consequences_of_external_factors,482
+2012,Number,M,injuries_poisonings_and_consequences_of_external_factors,420
+2013,Number,M,injuries_poisonings_and_consequences_of_external_factors,377
+2014,Number,M,injuries_poisonings_and_consequences_of_external_factors,412
+2015,Number,M,injuries_poisonings_and_consequences_of_external_factors,417
+2016,Number,M,injuries_poisonings_and_consequences_of_external_factors,373
+2017,Number,M,injuries_poisonings_and_consequences_of_external_factors,349
+2018,Number,M,injuries_poisonings_and_consequences_of_external_factors,370
+2019,Number,M,injuries_poisonings_and_consequences_of_external_factors,340
+2020,Number,M,injuries_poisonings_and_consequences_of_external_factors,304
 2003,Number,M,special_purpose_codes,0
 2004,Number,M,special_purpose_codes,0
 2005,Number,M,special_purpose_codes,0
@@ -737,150 +737,150 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,special_purpose_codes,0
 2019,Number,M,special_purpose_codes,0
 2020,Number,M,special_purpose_codes,1030
-2003,Number,F,Total,6184
-2004,Number,F,Total,6347
-2005,Number,F,Total,6563
-2006,Number,F,Total,6328
-2007,Number,F,Total,6844
-2008,Number,F,Total,6443
-2009,Number,F,Total,6676
-2010,Number,F,Total,6582
-2011,Number,F,Total,6657
-2012,Number,F,Total,6732
-2013,Number,F,Total,6741
-2014,Number,F,Total,7023
-2015,Number,F,Total,7419
-2016,Number,F,Total,6772
-2017,Number,F,Total,7300
-2018,Number,F,Total,7314
-2019,Number,F,Total,7328
-2020,Number,F,Total,7969
-2003,Number,F,Infectious and parasitic diseases,30
-2004,Number,F,Infectious and parasitic diseases,49
-2005,Number,F,Infectious and parasitic diseases,50
-2006,Number,F,Infectious and parasitic diseases,38
-2007,Number,F,Infectious and parasitic diseases,33
-2008,Number,F,Infectious and parasitic diseases,46
-2009,Number,F,Infectious and parasitic diseases,43
-2010,Number,F,Infectious and parasitic diseases,37
-2011,Number,F,Infectious and parasitic diseases,38
-2012,Number,F,Infectious and parasitic diseases,66
-2013,Number,F,Infectious and parasitic diseases,47
-2014,Number,F,Infectious and parasitic diseases,56
-2015,Number,F,Infectious and parasitic diseases,67
-2016,Number,F,Infectious and parasitic diseases,83
-2017,Number,F,Infectious and parasitic diseases,62
-2018,Number,F,Infectious and parasitic diseases,75
-2019,Number,F,Infectious and parasitic diseases,81
-2020,Number,F,Infectious and parasitic diseases,75
-2003,Number,F,Neoplasms,950
-2004,Number,F,Neoplasms,928
-2005,Number,F,Neoplasms,1072
-2006,Number,F,Neoplasms,1015
-2007,Number,F,Neoplasms,1109
-2008,Number,F,Neoplasms,1075
-2009,Number,F,Neoplasms,1161
-2010,Number,F,Neoplasms,1105
-2011,Number,F,Neoplasms,1118
-2012,Number,F,Neoplasms,1183
-2013,Number,F,Neoplasms,1231
-2014,Number,F,Neoplasms,1353
-2015,Number,F,Neoplasms,1355
-2016,Number,F,Neoplasms,1209
-2017,Number,F,Neoplasms,1268
-2018,Number,F,Neoplasms,1209
-2019,Number,F,Neoplasms,1186
-2020,Number,F,Neoplasms,1097
-2003,Number,F,Diseases of the blood and blood forming organs,2
-2004,Number,F,Diseases of the blood and blood forming organs,11
-2005,Number,F,Diseases of the blood and blood forming organs,10
-2006,Number,F,Diseases of the blood and blood forming organs,4
-2007,Number,F,Diseases of the blood and blood forming organs,10
-2008,Number,F,Diseases of the blood and blood forming organs,5
-2009,Number,F,Diseases of the blood and blood forming organs,9
-2010,Number,F,Diseases of the blood and blood forming organs,10
-2011,Number,F,Diseases of the blood and blood forming organs,10
-2012,Number,F,Diseases of the blood and blood forming organs,6
-2013,Number,F,Diseases of the blood and blood forming organs,8
-2014,Number,F,Diseases of the blood and blood forming organs,8
-2015,Number,F,Diseases of the blood and blood forming organs,10
-2016,Number,F,Diseases of the blood and blood forming organs,15
-2017,Number,F,Diseases of the blood and blood forming organs,17
-2018,Number,F,Diseases of the blood and blood forming organs,18
-2019,Number,F,Diseases of the blood and blood forming organs,16
-2020,Number,F,Diseases of the blood and blood forming organs,15
-2003,Number,F,Diseases of the endocrine glands nutrition and metabolism,109
-2004,Number,F,Diseases of the endocrine glands nutrition and metabolism,92
-2005,Number,F,Diseases of the endocrine glands nutrition and metabolism,441
-2006,Number,F,Diseases of the endocrine glands nutrition and metabolism,484
-2007,Number,F,Diseases of the endocrine glands nutrition and metabolism,442
-2008,Number,F,Diseases of the endocrine glands nutrition and metabolism,454
-2009,Number,F,Diseases of the endocrine glands nutrition and metabolism,530
-2010,Number,F,Diseases of the endocrine glands nutrition and metabolism,402
-2011,Number,F,Diseases of the endocrine glands nutrition and metabolism,397
-2012,Number,F,Diseases of the endocrine glands nutrition and metabolism,350
-2013,Number,F,Diseases of the endocrine glands nutrition and metabolism,459
-2014,Number,F,Diseases of the endocrine glands nutrition and metabolism,501
-2015,Number,F,Diseases of the endocrine glands nutrition and metabolism,400
-2016,Number,F,Diseases of the endocrine glands nutrition and metabolism,378
-2017,Number,F,Diseases of the endocrine glands nutrition and metabolism,452
-2018,Number,F,Diseases of the endocrine glands nutrition and metabolism,458
-2019,Number,F,Diseases of the endocrine glands nutrition and metabolism,343
-2020,Number,F,Diseases of the endocrine glands nutrition and metabolism,485
-2003,Number,F,Mental disorders and behavioral disorders,9
-2004,Number,F,Mental disorders and behavioral disorders,12
-2005,Number,F,Mental disorders and behavioral disorders,16
-2006,Number,F,Mental disorders and behavioral disorders,15
-2007,Number,F,Mental disorders and behavioral disorders,20
-2008,Number,F,Mental disorders and behavioral disorders,19
-2009,Number,F,Mental disorders and behavioral disorders,30
-2010,Number,F,Mental disorders and behavioral disorders,11
-2011,Number,F,Mental disorders and behavioral disorders,14
-2012,Number,F,Mental disorders and behavioral disorders,12
-2013,Number,F,Mental disorders and behavioral disorders,31
-2014,Number,F,Mental disorders and behavioral disorders,21
-2015,Number,F,Mental disorders and behavioral disorders,28
-2016,Number,F,Mental disorders and behavioral disorders,26
-2017,Number,F,Mental disorders and behavioral disorders,43
-2018,Number,F,Mental disorders and behavioral disorders,30
-2019,Number,F,Mental disorders and behavioral disorders,22
-2020,Number,F,Mental disorders and behavioral disorders,29
-2003,Number,F,Nervous system diseases,26
-2004,Number,F,Nervous system diseases,38
-2005,Number,F,Nervous system diseases,84
-2006,Number,F,Nervous system diseases,73
-2007,Number,F,Nervous system diseases,70
-2008,Number,F,Nervous system diseases,55
-2009,Number,F,Nervous system diseases,55
-2010,Number,F,Nervous system diseases,76
-2011,Number,F,Nervous system diseases,97
-2012,Number,F,Nervous system diseases,102
-2013,Number,F,Nervous system diseases,87
-2014,Number,F,Nervous system diseases,89
-2015,Number,F,Nervous system diseases,106
-2016,Number,F,Nervous system diseases,75
-2017,Number,F,Nervous system diseases,95
-2018,Number,F,Nervous system diseases,87
-2019,Number,F,Nervous system diseases,81
-2020,Number,F,Nervous system diseases,97
-2003,Number,F,Eye diseases and eye soldering disease,0
-2004,Number,F,Eye diseases and eye soldering disease,0
-2005,Number,F,Eye diseases and eye soldering disease,0
-2006,Number,F,Eye diseases and eye soldering disease,0
-2007,Number,F,Eye diseases and eye soldering disease,0
-2008,Number,F,Eye diseases and eye soldering disease,0
-2009,Number,F,Eye diseases and eye soldering disease,0
-2010,Number,F,Eye diseases and eye soldering disease,0
-2011,Number,F,Eye diseases and eye soldering disease,0
-2012,Number,F,Eye diseases and eye soldering disease,0
-2013,Number,F,Eye diseases and eye soldering disease,0
-2014,Number,F,Eye diseases and eye soldering disease,0
-2015,Number,F,Eye diseases and eye soldering disease,0
-2016,Number,F,Eye diseases and eye soldering disease,0
-2017,Number,F,Eye diseases and eye soldering disease,0
-2018,Number,F,Eye diseases and eye soldering disease,0
-2019,Number,F,Eye diseases and eye soldering disease,0
-2020,Number,F,Eye diseases and eye soldering disease,0
+2003,Number,F,total,6184
+2004,Number,F,total,6347
+2005,Number,F,total,6563
+2006,Number,F,total,6328
+2007,Number,F,total,6844
+2008,Number,F,total,6443
+2009,Number,F,total,6676
+2010,Number,F,total,6582
+2011,Number,F,total,6657
+2012,Number,F,total,6732
+2013,Number,F,total,6741
+2014,Number,F,total,7023
+2015,Number,F,total,7419
+2016,Number,F,total,6772
+2017,Number,F,total,7300
+2018,Number,F,total,7314
+2019,Number,F,total,7328
+2020,Number,F,total,7969
+2003,Number,F,infectious_and_parasitic_diseases,30
+2004,Number,F,infectious_and_parasitic_diseases,49
+2005,Number,F,infectious_and_parasitic_diseases,50
+2006,Number,F,infectious_and_parasitic_diseases,38
+2007,Number,F,infectious_and_parasitic_diseases,33
+2008,Number,F,infectious_and_parasitic_diseases,46
+2009,Number,F,infectious_and_parasitic_diseases,43
+2010,Number,F,infectious_and_parasitic_diseases,37
+2011,Number,F,infectious_and_parasitic_diseases,38
+2012,Number,F,infectious_and_parasitic_diseases,66
+2013,Number,F,infectious_and_parasitic_diseases,47
+2014,Number,F,infectious_and_parasitic_diseases,56
+2015,Number,F,infectious_and_parasitic_diseases,67
+2016,Number,F,infectious_and_parasitic_diseases,83
+2017,Number,F,infectious_and_parasitic_diseases,62
+2018,Number,F,infectious_and_parasitic_diseases,75
+2019,Number,F,infectious_and_parasitic_diseases,81
+2020,Number,F,infectious_and_parasitic_diseases,75
+2003,Number,F,neoplasms,950
+2004,Number,F,neoplasms,928
+2005,Number,F,neoplasms,1072
+2006,Number,F,neoplasms,1015
+2007,Number,F,neoplasms,1109
+2008,Number,F,neoplasms,1075
+2009,Number,F,neoplasms,1161
+2010,Number,F,neoplasms,1105
+2011,Number,F,neoplasms,1118
+2012,Number,F,neoplasms,1183
+2013,Number,F,neoplasms,1231
+2014,Number,F,neoplasms,1353
+2015,Number,F,neoplasms,1355
+2016,Number,F,neoplasms,1209
+2017,Number,F,neoplasms,1268
+2018,Number,F,neoplasms,1209
+2019,Number,F,neoplasms,1186
+2020,Number,F,neoplasms,1097
+2003,Number,F,diseases_of_the_blood_and_blood_forming_organs,2
+2004,Number,F,diseases_of_the_blood_and_blood_forming_organs,11
+2005,Number,F,diseases_of_the_blood_and_blood_forming_organs,10
+2006,Number,F,diseases_of_the_blood_and_blood_forming_organs,4
+2007,Number,F,diseases_of_the_blood_and_blood_forming_organs,10
+2008,Number,F,diseases_of_the_blood_and_blood_forming_organs,5
+2009,Number,F,diseases_of_the_blood_and_blood_forming_organs,9
+2010,Number,F,diseases_of_the_blood_and_blood_forming_organs,10
+2011,Number,F,diseases_of_the_blood_and_blood_forming_organs,10
+2012,Number,F,diseases_of_the_blood_and_blood_forming_organs,6
+2013,Number,F,diseases_of_the_blood_and_blood_forming_organs,8
+2014,Number,F,diseases_of_the_blood_and_blood_forming_organs,8
+2015,Number,F,diseases_of_the_blood_and_blood_forming_organs,10
+2016,Number,F,diseases_of_the_blood_and_blood_forming_organs,15
+2017,Number,F,diseases_of_the_blood_and_blood_forming_organs,17
+2018,Number,F,diseases_of_the_blood_and_blood_forming_organs,18
+2019,Number,F,diseases_of_the_blood_and_blood_forming_organs,16
+2020,Number,F,diseases_of_the_blood_and_blood_forming_organs,15
+2003,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,109
+2004,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,92
+2005,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,441
+2006,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,484
+2007,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,442
+2008,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,454
+2009,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,530
+2010,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,402
+2011,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,397
+2012,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,350
+2013,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,459
+2014,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,501
+2015,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,400
+2016,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,378
+2017,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,452
+2018,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,458
+2019,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,343
+2020,Number,F,diseases_of_the_endocrine_glands_nutrition_and_metabolism,485
+2003,Number,F,mental_disorders_and_behavioral_disorders,9
+2004,Number,F,mental_disorders_and_behavioral_disorders,12
+2005,Number,F,mental_disorders_and_behavioral_disorders,16
+2006,Number,F,mental_disorders_and_behavioral_disorders,15
+2007,Number,F,mental_disorders_and_behavioral_disorders,20
+2008,Number,F,mental_disorders_and_behavioral_disorders,19
+2009,Number,F,mental_disorders_and_behavioral_disorders,30
+2010,Number,F,mental_disorders_and_behavioral_disorders,11
+2011,Number,F,mental_disorders_and_behavioral_disorders,14
+2012,Number,F,mental_disorders_and_behavioral_disorders,12
+2013,Number,F,mental_disorders_and_behavioral_disorders,31
+2014,Number,F,mental_disorders_and_behavioral_disorders,21
+2015,Number,F,mental_disorders_and_behavioral_disorders,28
+2016,Number,F,mental_disorders_and_behavioral_disorders,26
+2017,Number,F,mental_disorders_and_behavioral_disorders,43
+2018,Number,F,mental_disorders_and_behavioral_disorders,30
+2019,Number,F,mental_disorders_and_behavioral_disorders,22
+2020,Number,F,mental_disorders_and_behavioral_disorders,29
+2003,Number,F,diseases_of_the_nervous_system,26
+2004,Number,F,diseases_of_the_nervous_system,38
+2005,Number,F,diseases_of_the_nervous_system,84
+2006,Number,F,diseases_of_the_nervous_system,73
+2007,Number,F,diseases_of_the_nervous_system,70
+2008,Number,F,diseases_of_the_nervous_system,55
+2009,Number,F,diseases_of_the_nervous_system,55
+2010,Number,F,diseases_of_the_nervous_system,76
+2011,Number,F,diseases_of_the_nervous_system,97
+2012,Number,F,diseases_of_the_nervous_system,102
+2013,Number,F,diseases_of_the_nervous_system,87
+2014,Number,F,diseases_of_the_nervous_system,89
+2015,Number,F,diseases_of_the_nervous_system,106
+2016,Number,F,diseases_of_the_nervous_system,75
+2017,Number,F,diseases_of_the_nervous_system,95
+2018,Number,F,diseases_of_the_nervous_system,87
+2019,Number,F,diseases_of_the_nervous_system,81
+2020,Number,F,diseases_of_the_nervous_system,97
+2003,Number,F,eye_diseases_and_eye_soldering_disease,0
+2004,Number,F,eye_diseases_and_eye_soldering_disease,0
+2005,Number,F,eye_diseases_and_eye_soldering_disease,0
+2006,Number,F,eye_diseases_and_eye_soldering_disease,0
+2007,Number,F,eye_diseases_and_eye_soldering_disease,0
+2008,Number,F,eye_diseases_and_eye_soldering_disease,0
+2009,Number,F,eye_diseases_and_eye_soldering_disease,0
+2010,Number,F,eye_diseases_and_eye_soldering_disease,0
+2011,Number,F,eye_diseases_and_eye_soldering_disease,0
+2012,Number,F,eye_diseases_and_eye_soldering_disease,0
+2013,Number,F,eye_diseases_and_eye_soldering_disease,0
+2014,Number,F,eye_diseases_and_eye_soldering_disease,0
+2015,Number,F,eye_diseases_and_eye_soldering_disease,0
+2016,Number,F,eye_diseases_and_eye_soldering_disease,0
+2017,Number,F,eye_diseases_and_eye_soldering_disease,0
+2018,Number,F,eye_diseases_and_eye_soldering_disease,0
+2019,Number,F,eye_diseases_and_eye_soldering_disease,0
+2020,Number,F,eye_diseases_and_eye_soldering_disease,0
 2003,Number,F,diseases_of_ear_and_mastoid_process,0
 2004,Number,F,diseases_of_ear_and_mastoid_process,0
 2005,Number,F,diseases_of_ear_and_mastoid_process,0
@@ -899,204 +899,204 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,diseases_of_ear_and_mastoid_process,0
 2019,Number,F,diseases_of_ear_and_mastoid_process,0
 2020,Number,F,diseases_of_ear_and_mastoid_process,0
-2003,Number,F,Diseases of the circulatory system,3748
-2004,Number,F,Diseases of the circulatory system,3957
-2005,Number,F,Diseases of the circulatory system,3677
-2006,Number,F,Diseases of the circulatory system,3458
-2007,Number,F,Diseases of the circulatory system,3864
-2008,Number,F,Diseases of the circulatory system,3756
-2009,Number,F,Diseases of the circulatory system,3743
-2010,Number,F,Diseases of the circulatory system,3926
-2011,Number,F,Diseases of the circulatory system,4009
-2012,Number,F,Diseases of the circulatory system,4109
-2013,Number,F,Diseases of the circulatory system,3625
-2014,Number,F,Diseases of the circulatory system,3635
-2015,Number,F,Diseases of the circulatory system,3964
-2016,Number,F,Diseases of the circulatory system,3743
-2017,Number,F,Diseases of the circulatory system,3960
-2018,Number,F,Diseases of the circulatory system,3905
-2019,Number,F,Diseases of the circulatory system,4033
-2020,Number,F,Diseases of the circulatory system,4150
-2003,Number,F,Diseases of the respiratory system,120
-2004,Number,F,Diseases of the respiratory system,134
-2005,Number,F,Diseases of the respiratory system,220
-2006,Number,F,Diseases of the respiratory system,228
-2007,Number,F,Diseases of the respiratory system,211
-2008,Number,F,Diseases of the respiratory system,173
-2009,Number,F,Diseases of the respiratory system,176
-2010,Number,F,Diseases of the respiratory system,173
-2011,Number,F,Diseases of the respiratory system,233
-2012,Number,F,Diseases of the respiratory system,161
-2013,Number,F,Diseases of the respiratory system,222
-2014,Number,F,Diseases of the respiratory system,209
-2015,Number,F,Diseases of the respiratory system,248
-2016,Number,F,Diseases of the respiratory system,204
-2017,Number,F,Diseases of the respiratory system,243
-2018,Number,F,Diseases of the respiratory system,282
-2019,Number,F,Diseases of the respiratory system,258
-2020,Number,F,Diseases of the respiratory system,254
-2003,Number,F,Diseases of the digestive system,136
-2004,Number,F,Diseases of the digestive system,141
-2005,Number,F,Diseases of the digestive system,124
-2006,Number,F,Diseases of the digestive system,146
-2007,Number,F,Diseases of the digestive system,147
-2008,Number,F,Diseases of the digestive system,131
-2009,Number,F,Diseases of the digestive system,148
-2010,Number,F,Diseases of the digestive system,156
-2011,Number,F,Diseases of the digestive system,136
-2012,Number,F,Diseases of the digestive system,145
-2013,Number,F,Diseases of the digestive system,183
-2014,Number,F,Diseases of the digestive system,188
-2015,Number,F,Diseases of the digestive system,191
-2016,Number,F,Diseases of the digestive system,185
-2017,Number,F,Diseases of the digestive system,184
-2018,Number,F,Diseases of the digestive system,191
-2019,Number,F,Diseases of the digestive system,180
-2020,Number,F,Diseases of the digestive system,169
-2003,Number,F,Skin and subcutaneous tissue disorders,0
-2004,Number,F,Skin and subcutaneous tissue disorders,3
-2005,Number,F,Skin and subcutaneous tissue disorders,0
-2006,Number,F,Skin and subcutaneous tissue disorders,1
-2007,Number,F,Skin and subcutaneous tissue disorders,2
-2008,Number,F,Skin and subcutaneous tissue disorders,2
-2009,Number,F,Skin and subcutaneous tissue disorders,2
-2010,Number,F,Skin and subcutaneous tissue disorders,2
-2011,Number,F,Skin and subcutaneous tissue disorders,1
-2012,Number,F,Skin and subcutaneous tissue disorders,1
-2013,Number,F,Skin and subcutaneous tissue disorders,11
-2014,Number,F,Skin and subcutaneous tissue disorders,9
-2015,Number,F,Skin and subcutaneous tissue disorders,15
-2016,Number,F,Skin and subcutaneous tissue disorders,14
-2017,Number,F,Skin and subcutaneous tissue disorders,19
-2018,Number,F,Skin and subcutaneous tissue disorders,10
-2019,Number,F,Skin and subcutaneous tissue disorders,16
-2020,Number,F,Skin and subcutaneous tissue disorders,17
-2003,Number,F,Diseases of the musculoskeletal system and connective tissue,3
-2004,Number,F,Diseases of the musculoskeletal system and connective tissue,2
-2005,Number,F,Diseases of the musculoskeletal system and connective tissue,7
-2006,Number,F,Diseases of the musculoskeletal system and connective tissue,9
-2007,Number,F,Diseases of the musculoskeletal system and connective tissue,9
-2008,Number,F,Diseases of the musculoskeletal system and connective tissue,14
-2009,Number,F,Diseases of the musculoskeletal system and connective tissue,11
-2010,Number,F,Diseases of the musculoskeletal system and connective tissue,8
-2011,Number,F,Diseases of the musculoskeletal system and connective tissue,14
-2012,Number,F,Diseases of the musculoskeletal system and connective tissue,12
-2013,Number,F,Diseases of the musculoskeletal system and connective tissue,19
-2014,Number,F,Diseases of the musculoskeletal system and connective tissue,14
-2015,Number,F,Diseases of the musculoskeletal system and connective tissue,18
-2016,Number,F,Diseases of the musculoskeletal system and connective tissue,13
-2017,Number,F,Diseases of the musculoskeletal system and connective tissue,9
-2018,Number,F,Diseases of the musculoskeletal system and connective tissue,17
-2019,Number,F,Diseases of the musculoskeletal system and connective tissue,9
-2020,Number,F,Diseases of the musculoskeletal system and connective tissue,21
-2003,Number,F,Diseases_of_the_genitourinary_system,99
-2004,Number,F,Diseases_of_the_genitourinary_system,92
-2005,Number,F,Diseases_of_the_genitourinary_system,97
-2006,Number,F,Diseases_of_the_genitourinary_system,114
-2007,Number,F,Diseases_of_the_genitourinary_system,112
-2008,Number,F,Diseases_of_the_genitourinary_system,113
-2009,Number,F,Diseases_of_the_genitourinary_system,118
-2010,Number,F,Diseases_of_the_genitourinary_system,115
-2011,Number,F,Diseases_of_the_genitourinary_system,74
-2012,Number,F,Diseases_of_the_genitourinary_system,120
-2013,Number,F,Diseases_of_the_genitourinary_system,92
-2014,Number,F,Diseases_of_the_genitourinary_system,77
-2015,Number,F,Diseases_of_the_genitourinary_system,86
-2016,Number,F,Diseases_of_the_genitourinary_system,101
-2017,Number,F,Diseases_of_the_genitourinary_system,97
-2018,Number,F,Diseases_of_the_genitourinary_system,103
-2019,Number,F,Diseases_of_the_genitourinary_system,91
-2020,Number,F,Diseases_of_the_genitourinary_system,108
-2003,Number,F,Pregnancy childbirth and puerperium,1
-2004,Number,F,Pregnancy childbirth and puerperium,0
-2005,Number,F,Pregnancy childbirth and puerperium,2
-2006,Number,F,Pregnancy childbirth and puerperium,2
-2007,Number,F,Pregnancy childbirth and puerperium,1
-2008,Number,F,Pregnancy childbirth and puerperium,1
-2009,Number,F,Pregnancy childbirth and puerperium,0
-2010,Number,F,Pregnancy childbirth and puerperium,1
-2011,Number,F,Pregnancy childbirth and puerperium,1
-2012,Number,F,Pregnancy childbirth and puerperium,0
-2013,Number,F,Pregnancy childbirth and puerperium,0
-2014,Number,F,Pregnancy childbirth and puerperium,0
-2015,Number,F,Pregnancy childbirth and puerperium,1
-2016,Number,F,Pregnancy childbirth and puerperium,1
-2017,Number,F,Pregnancy childbirth and puerperium,0
-2018,Number,F,Pregnancy childbirth and puerperium,1
-2019,Number,F,Pregnancy childbirth and puerperium,0
-2020,Number,F,Pregnancy childbirth and puerperium,3
-2003,Number,F,Certain conditions occurred in the perinatal period,21
-2004,Number,F,Certain conditions occurred in the perinatal period,10
-2005,Number,F,Certain conditions occurred in the perinatal period,10
-2006,Number,F,Certain conditions occurred in the perinatal period,12
-2007,Number,F,Certain conditions occurred in the perinatal period,12
-2008,Number,F,Certain conditions occurred in the perinatal period,8
-2009,Number,F,Certain conditions occurred in the perinatal period,12
-2010,Number,F,Certain conditions occurred in the perinatal period,16
-2011,Number,F,Certain conditions occurred in the perinatal period,16
-2012,Number,F,Certain conditions occurred in the perinatal period,11
-2013,Number,F,Certain conditions occurred in the perinatal period,8
-2014,Number,F,Certain conditions occurred in the perinatal period,9
-2015,Number,F,Certain conditions occurred in the perinatal period,8
-2016,Number,F,Certain conditions occurred in the perinatal period,5
-2017,Number,F,Certain conditions occurred in the perinatal period,10
-2018,Number,F,Certain conditions occurred in the perinatal period,7
-2019,Number,F,Certain conditions occurred in the perinatal period,5
-2020,Number,F,Certain conditions occurred in the perinatal period,18
-2003,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2004,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",1
-2005,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",8
-2006,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2007,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",6
-2008,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",10
-2009,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",13
-2010,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2011,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",2
-2012,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",1
-2013,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2014,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",7
-2015,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",4
-2016,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",2
-2017,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",1
-2018,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2019,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",4
-2020,Number,F,"Congenital anomalies, deformities and chromosomal abnormalities",3
-2003,Number,F,Symptoms signs and abnormal clinical and laboratory findings,791
-2004,Number,F,Symptoms signs and abnormal clinical and laboratory findings,736
-2005,Number,F,Symptoms signs and abnormal clinical and laboratory findings,590
-2006,Number,F,Symptoms signs and abnormal clinical and laboratory findings,573
-2007,Number,F,Symptoms signs and abnormal clinical and laboratory findings,650
-2008,Number,F,Symptoms signs and abnormal clinical and laboratory findings,449
-2009,Number,F,Symptoms signs and abnormal clinical and laboratory findings,468
-2010,Number,F,Symptoms signs and abnormal clinical and laboratory findings,431
-2011,Number,F,Symptoms signs and abnormal clinical and laboratory findings,379
-2012,Number,F,Symptoms signs and abnormal clinical and laboratory findings,335
-2013,Number,F,Symptoms signs and abnormal clinical and laboratory findings,588
-2014,Number,F,Symptoms signs and abnormal clinical and laboratory findings,727
-2015,Number,F,Symptoms signs and abnormal clinical and laboratory findings,776
-2016,Number,F,Symptoms signs and abnormal clinical and laboratory findings,600
-2017,Number,F,Symptoms signs and abnormal clinical and laboratory findings,715
-2018,Number,F,Symptoms signs and abnormal clinical and laboratory findings,806
-2019,Number,F,Symptoms signs and abnormal clinical and laboratory findings,913
-2020,Number,F,Symptoms signs and abnormal clinical and laboratory findings,765
-2003,Number,F,Injuries poisonings and consequences of external factors,136
-2004,Number,F,Injuries poisonings and consequences of external factors,141
-2005,Number,F,Injuries poisonings and consequences of external factors,155
-2006,Number,F,Injuries poisonings and consequences of external factors,149
-2007,Number,F,Injuries poisonings and consequences of external factors,146
-2008,Number,F,Injuries poisonings and consequences of external factors,133
-2009,Number,F,Injuries poisonings and consequences of external factors,157
-2010,Number,F,Injuries poisonings and consequences of external factors,106
-2011,Number,F,Injuries poisonings and consequences of external factors,118
-2012,Number,F,Injuries poisonings and consequences of external factors,118
-2013,Number,F,Injuries poisonings and consequences of external factors,127
-2014,Number,F,Injuries poisonings and consequences of external factors,120
-2015,Number,F,Injuries poisonings and consequences of external factors,142
-2016,Number,F,Injuries poisonings and consequences of external factors,118
-2017,Number,F,Injuries poisonings and consequences of external factors,125
-2018,Number,F,Injuries poisonings and consequences of external factors,112
-2019,Number,F,Injuries poisonings and consequences of external factors,90
-2020,Number,F,Injuries poisonings and consequences of external factors,101
+2003,Number,F,diseases_of_the_circulatory_system,3748
+2004,Number,F,diseases_of_the_circulatory_system,3957
+2005,Number,F,diseases_of_the_circulatory_system,3677
+2006,Number,F,diseases_of_the_circulatory_system,3458
+2007,Number,F,diseases_of_the_circulatory_system,3864
+2008,Number,F,diseases_of_the_circulatory_system,3756
+2009,Number,F,diseases_of_the_circulatory_system,3743
+2010,Number,F,diseases_of_the_circulatory_system,3926
+2011,Number,F,diseases_of_the_circulatory_system,4009
+2012,Number,F,diseases_of_the_circulatory_system,4109
+2013,Number,F,diseases_of_the_circulatory_system,3625
+2014,Number,F,diseases_of_the_circulatory_system,3635
+2015,Number,F,diseases_of_the_circulatory_system,3964
+2016,Number,F,diseases_of_the_circulatory_system,3743
+2017,Number,F,diseases_of_the_circulatory_system,3960
+2018,Number,F,diseases_of_the_circulatory_system,3905
+2019,Number,F,diseases_of_the_circulatory_system,4033
+2020,Number,F,diseases_of_the_circulatory_system,4150
+2003,Number,F,diseases_of_the_respiratory_system,120
+2004,Number,F,diseases_of_the_respiratory_system,134
+2005,Number,F,diseases_of_the_respiratory_system,220
+2006,Number,F,diseases_of_the_respiratory_system,228
+2007,Number,F,diseases_of_the_respiratory_system,211
+2008,Number,F,diseases_of_the_respiratory_system,173
+2009,Number,F,diseases_of_the_respiratory_system,176
+2010,Number,F,diseases_of_the_respiratory_system,173
+2011,Number,F,diseases_of_the_respiratory_system,233
+2012,Number,F,diseases_of_the_respiratory_system,161
+2013,Number,F,diseases_of_the_respiratory_system,222
+2014,Number,F,diseases_of_the_respiratory_system,209
+2015,Number,F,diseases_of_the_respiratory_system,248
+2016,Number,F,diseases_of_the_respiratory_system,204
+2017,Number,F,diseases_of_the_respiratory_system,243
+2018,Number,F,diseases_of_the_respiratory_system,282
+2019,Number,F,diseases_of_the_respiratory_system,258
+2020,Number,F,diseases_of_the_respiratory_system,254
+2003,Number,F,diseases_of_the_digestive_system,136
+2004,Number,F,diseases_of_the_digestive_system,141
+2005,Number,F,diseases_of_the_digestive_system,124
+2006,Number,F,diseases_of_the_digestive_system,146
+2007,Number,F,diseases_of_the_digestive_system,147
+2008,Number,F,diseases_of_the_digestive_system,131
+2009,Number,F,diseases_of_the_digestive_system,148
+2010,Number,F,diseases_of_the_digestive_system,156
+2011,Number,F,diseases_of_the_digestive_system,136
+2012,Number,F,diseases_of_the_digestive_system,145
+2013,Number,F,diseases_of_the_digestive_system,183
+2014,Number,F,diseases_of_the_digestive_system,188
+2015,Number,F,diseases_of_the_digestive_system,191
+2016,Number,F,diseases_of_the_digestive_system,185
+2017,Number,F,diseases_of_the_digestive_system,184
+2018,Number,F,diseases_of_the_digestive_system,191
+2019,Number,F,diseases_of_the_digestive_system,180
+2020,Number,F,diseases_of_the_digestive_system,169
+2003,Number,F,skin_and_subcutaneous_tissue_disorders,0
+2004,Number,F,skin_and_subcutaneous_tissue_disorders,3
+2005,Number,F,skin_and_subcutaneous_tissue_disorders,0
+2006,Number,F,skin_and_subcutaneous_tissue_disorders,1
+2007,Number,F,skin_and_subcutaneous_tissue_disorders,2
+2008,Number,F,skin_and_subcutaneous_tissue_disorders,2
+2009,Number,F,skin_and_subcutaneous_tissue_disorders,2
+2010,Number,F,skin_and_subcutaneous_tissue_disorders,2
+2011,Number,F,skin_and_subcutaneous_tissue_disorders,1
+2012,Number,F,skin_and_subcutaneous_tissue_disorders,1
+2013,Number,F,skin_and_subcutaneous_tissue_disorders,11
+2014,Number,F,skin_and_subcutaneous_tissue_disorders,9
+2015,Number,F,skin_and_subcutaneous_tissue_disorders,15
+2016,Number,F,skin_and_subcutaneous_tissue_disorders,14
+2017,Number,F,skin_and_subcutaneous_tissue_disorders,19
+2018,Number,F,skin_and_subcutaneous_tissue_disorders,10
+2019,Number,F,skin_and_subcutaneous_tissue_disorders,16
+2020,Number,F,skin_and_subcutaneous_tissue_disorders,17
+2003,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
+2004,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,2
+2005,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,7
+2006,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2007,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2008,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
+2009,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,11
+2010,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
+2011,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
+2012,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
+2013,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,19
+2014,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
+2015,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,18
+2016,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
+2017,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2018,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
+2019,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
+2020,Number,F,diseases_of_the_musculoskeletal_system_and_connective_tissue,21
+2003,Number,F,diseases_of_the_genitourinary_system,99
+2004,Number,F,diseases_of_the_genitourinary_system,92
+2005,Number,F,diseases_of_the_genitourinary_system,97
+2006,Number,F,diseases_of_the_genitourinary_system,114
+2007,Number,F,diseases_of_the_genitourinary_system,112
+2008,Number,F,diseases_of_the_genitourinary_system,113
+2009,Number,F,diseases_of_the_genitourinary_system,118
+2010,Number,F,diseases_of_the_genitourinary_system,115
+2011,Number,F,diseases_of_the_genitourinary_system,74
+2012,Number,F,diseases_of_the_genitourinary_system,120
+2013,Number,F,diseases_of_the_genitourinary_system,92
+2014,Number,F,diseases_of_the_genitourinary_system,77
+2015,Number,F,diseases_of_the_genitourinary_system,86
+2016,Number,F,diseases_of_the_genitourinary_system,101
+2017,Number,F,diseases_of_the_genitourinary_system,97
+2018,Number,F,diseases_of_the_genitourinary_system,103
+2019,Number,F,diseases_of_the_genitourinary_system,91
+2020,Number,F,diseases_of_the_genitourinary_system,108
+2003,Number,F,pregnancy_childbirth_and_puerperium,1
+2004,Number,F,pregnancy_childbirth_and_puerperium,0
+2005,Number,F,pregnancy_childbirth_and_puerperium,2
+2006,Number,F,pregnancy_childbirth_and_puerperium,2
+2007,Number,F,pregnancy_childbirth_and_puerperium,1
+2008,Number,F,pregnancy_childbirth_and_puerperium,1
+2009,Number,F,pregnancy_childbirth_and_puerperium,0
+2010,Number,F,pregnancy_childbirth_and_puerperium,1
+2011,Number,F,pregnancy_childbirth_and_puerperium,1
+2012,Number,F,pregnancy_childbirth_and_puerperium,0
+2013,Number,F,pregnancy_childbirth_and_puerperium,0
+2014,Number,F,pregnancy_childbirth_and_puerperium,0
+2015,Number,F,pregnancy_childbirth_and_puerperium,1
+2016,Number,F,pregnancy_childbirth_and_puerperium,1
+2017,Number,F,pregnancy_childbirth_and_puerperium,0
+2018,Number,F,pregnancy_childbirth_and_puerperium,1
+2019,Number,F,pregnancy_childbirth_and_puerperium,0
+2020,Number,F,pregnancy_childbirth_and_puerperium,3
+2003,Number,F,certain_conditions_occurred_in_the_perinatal_period,21
+2004,Number,F,certain_conditions_occurred_in_the_perinatal_period,10
+2005,Number,F,certain_conditions_occurred_in_the_perinatal_period,10
+2006,Number,F,certain_conditions_occurred_in_the_perinatal_period,12
+2007,Number,F,certain_conditions_occurred_in_the_perinatal_period,12
+2008,Number,F,certain_conditions_occurred_in_the_perinatal_period,8
+2009,Number,F,certain_conditions_occurred_in_the_perinatal_period,12
+2010,Number,F,certain_conditions_occurred_in_the_perinatal_period,16
+2011,Number,F,certain_conditions_occurred_in_the_perinatal_period,16
+2012,Number,F,certain_conditions_occurred_in_the_perinatal_period,11
+2013,Number,F,certain_conditions_occurred_in_the_perinatal_period,8
+2014,Number,F,certain_conditions_occurred_in_the_perinatal_period,9
+2015,Number,F,certain_conditions_occurred_in_the_perinatal_period,8
+2016,Number,F,certain_conditions_occurred_in_the_perinatal_period,5
+2017,Number,F,certain_conditions_occurred_in_the_perinatal_period,10
+2018,Number,F,certain_conditions_occurred_in_the_perinatal_period,7
+2019,Number,F,certain_conditions_occurred_in_the_perinatal_period,5
+2020,Number,F,certain_conditions_occurred_in_the_perinatal_period,18
+2003,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2004,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
+2005,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
+2006,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2007,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
+2008,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
+2009,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,13
+2010,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2011,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
+2012,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
+2013,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2014,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
+2015,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
+2016,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
+2017,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
+2018,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2019,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
+2020,Number,F,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
+2003,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,791
+2004,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,736
+2005,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,590
+2006,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,573
+2007,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,650
+2008,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,449
+2009,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,468
+2010,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,431
+2011,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,379
+2012,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,335
+2013,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,588
+2014,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,727
+2015,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,776
+2016,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,600
+2017,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,715
+2018,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,806
+2019,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,913
+2020,Number,F,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,765
+2003,Number,F,injuries_poisonings_and_consequences_of_external_factors,136
+2004,Number,F,injuries_poisonings_and_consequences_of_external_factors,141
+2005,Number,F,injuries_poisonings_and_consequences_of_external_factors,155
+2006,Number,F,injuries_poisonings_and_consequences_of_external_factors,149
+2007,Number,F,injuries_poisonings_and_consequences_of_external_factors,146
+2008,Number,F,injuries_poisonings_and_consequences_of_external_factors,133
+2009,Number,F,injuries_poisonings_and_consequences_of_external_factors,157
+2010,Number,F,injuries_poisonings_and_consequences_of_external_factors,106
+2011,Number,F,injuries_poisonings_and_consequences_of_external_factors,118
+2012,Number,F,injuries_poisonings_and_consequences_of_external_factors,118
+2013,Number,F,injuries_poisonings_and_consequences_of_external_factors,127
+2014,Number,F,injuries_poisonings_and_consequences_of_external_factors,120
+2015,Number,F,injuries_poisonings_and_consequences_of_external_factors,142
+2016,Number,F,injuries_poisonings_and_consequences_of_external_factors,118
+2017,Number,F,injuries_poisonings_and_consequences_of_external_factors,125
+2018,Number,F,injuries_poisonings_and_consequences_of_external_factors,112
+2019,Number,F,injuries_poisonings_and_consequences_of_external_factors,90
+2020,Number,F,injuries_poisonings_and_consequences_of_external_factors,101
 2003,Number,F,special_purpose_codes,0
 2004,Number,F,special_purpose_codes,0
 2005,Number,F,special_purpose_codes,0

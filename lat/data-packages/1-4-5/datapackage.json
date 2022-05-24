@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "UNIT_MEASURE",
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-5",
-  "title": "Prosječna dob prilikom razvoda braka prema spolu"
+  "title": "Prosječna starost prilikom razvoda braka prema polu"
 }

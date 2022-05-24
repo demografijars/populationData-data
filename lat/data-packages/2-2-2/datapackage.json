@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "SEX",
@@ -104,7 +104,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "Religion",
@@ -136,5 +136,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-2",
-  "title": "Stanovništvo prema gradu/općini, vjeroispovijesti i spolu"
+  "title": "Stanovništvo prema gradu/opštini, vjeroispovijesti i polu"
 }

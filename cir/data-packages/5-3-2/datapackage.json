@@ -26,15 +26,15 @@
             "constraints": {
               "enum": [
                 "Гимназија",
-                "Средње техничке школе",
-                "Средње стручне школе",
+                "technical_high_schools",
+                "vocational_high_schools",
                 "Умјетничке школе",
-                "Вјерске школе",
-                "Средње школе за ученике са сметњама у развоју",
+                "religious_schools",
+                "high_schools_for_students_with_disabilities",
                 ""
               ]
             },
-            "title": "Врста школе"
+            "title": "type_of_school"
           },
           {
             "name": "Value",

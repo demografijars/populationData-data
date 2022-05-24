@@ -26,20 +26,20 @@
             "constraints": {
               "enum": [
                 "Укупно",
-                "Друштвене науке, новинарство и информисање",
-                "Умјетност и хуманистичке науке",
-                "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Образовање",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
-                "Услуге",
-                "Здравство и социјална заштита",
+                "social_sciences,_journalism_and_information",
+                "arts_and_humanities",
+                "information_and_communication_technologies",
+                "engineering,_production_and_construction",
+                "education",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
+                "services",
+                "health_and_social_protection",
                 ""
               ]
             },
-            "title": "Научна област"
+            "title": "scientific_field"
           },
           {
             "name": "SEX",

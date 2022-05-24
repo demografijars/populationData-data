@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "Tip odnosa zavisnosti"
+            "title": "Vrsta koeficijenta zavisnosti"
           },
           {
             "name": "SEX",
@@ -43,7 +43,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "Value",
@@ -56,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-3",
-  "title": "Projektovani koeficijenti zavisnosti prema spolu"
+  "title": "Projektovani koeficijenti zavisnosti prema polu"
 }

@@ -13,7 +13,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -31,12 +31,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Private",
-                "Public",
-                "Total"
+                "private",
+                "public",
+                "total"
               ]
             },
-            "title": "Type of institution"
+            "title": "type_of_institution"
           }
         ]
       }

@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "SEX",
@@ -104,7 +104,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "Literacy",
@@ -129,5 +129,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-1",
-  "title": "Stanovništvo staro 10 i više godina prema gradu/općini, pismenosti i spolu"
+  "title": "Stanovništvo staro 10 i više godina prema gradu/opštini, pismenosti i polu"
 }

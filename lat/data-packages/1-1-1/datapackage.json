@@ -29,7 +29,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "BIRTHS",
@@ -37,7 +37,7 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
+                "Umrli",
                 "Prirodno kretanje",
                 ""
               ]
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1",
-  "title": "Vitalna statistika prema spolu (živorođeni, umrli i prirodni priraštaj)"
+  "title": "Vitalna statistika prema polu (živorođeni, umrli i prirodni priraštaj)"
 }

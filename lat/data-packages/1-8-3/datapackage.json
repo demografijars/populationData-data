@@ -93,7 +93,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Administrativno područje"
           },
           {
             "name": "SEX",
@@ -106,7 +106,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "AGE",
@@ -149,5 +149,5 @@
   ],
   "profile": "data-package",
   "name": "1-8-3",
-  "title": "Procjene stanovništva prema gradu/općini, dobnim skupinama i spolu"
+  "title": "Procjene stanovništva prema gradu/opštini, starosnim grupama i polu"
 }

@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sve metode",
-                "Tradicionalne metode",
-                "Savremene metode",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Metoda"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",

@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Spol"
+            "title": "Pol"
           },
           {
             "name": "Value",
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "5-1-2",
-  "title": "Broj djece u predškolskim ustanovama prema spolu"
+  "title": "Broj djece u predškolskim ustanovama prema polu"
 }

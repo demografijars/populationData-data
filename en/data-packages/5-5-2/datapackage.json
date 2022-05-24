@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "_T"
               ]
             },
             "title": "Sex"
@@ -26,7 +26,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
@@ -54,7 +54,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "Total"
+                "total"
               ]
             },
             "title": "scientific_field"
@@ -78,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-2",
-  "title": "Enrolled in master and specialist studies by type of education"
+  "title": "Enrolled in master of science, master and specialist studies by type of education"
 }

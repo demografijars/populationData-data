@@ -16,30 +16,30 @@
             "constraints": {
               "enum": [
                 "",
-                "Certain conditions occurred in the perinatal period",
-                "Congenital anomalies, deformities and chromosomal abnormalities",
+                "certain_conditions_occurred_in_the_perinatal_period",
+                "congenital_anomalies_deformities_and_chromosomal_abnormalities",
                 "diseases_of_ear_and_mastoid_process",
-                "Diseases of the blood and blood forming organs",
-                "Diseases of the circulatory system",
-                "Diseases of the digestive system",
-                "Diseases of the endocrine glands nutrition and metabolism",
-                "Diseases_of_the_genitourinary_system",
-                "Diseases of the musculoskeletal system and connective tissue",
-                "Nervous system diseases",
-                "Diseases of the respiratory system",
-                "Eye diseases and eye soldering disease",
-                "Infectious and parasitic diseases",
-                "Injuries poisonings and consequences of external factors",
-                "Mental disorders and behavioral disorders",
-                "Neoplasms",
-                "Pregnancy childbirth and puerperium",
-                "Skin and subcutaneous tissue disorders",
+                "diseases_of_the_blood_and_blood_forming_organs",
+                "diseases_of_the_circulatory_system",
+                "diseases_of_the_digestive_system",
+                "diseases_of_the_endocrine_glands_nutrition_and_metabolism",
+                "diseases_of_the_genitourinary_system",
+                "diseases_of_the_musculoskeletal_system_and_connective_tissue",
+                "diseases_of_the_nervous_system",
+                "diseases_of_the_respiratory_system",
+                "eye_diseases_and_eye_soldering_disease",
+                "infectious_and_parasitic_diseases",
+                "injuries_poisonings_and_consequences_of_external_factors",
+                "mental_disorders_and_behavioral_disorders",
+                "neoplasms",
+                "pregnancy_childbirth_and_puerperium",
+                "skin_and_subcutaneous_tissue_disorders",
                 "special_purpose_codes",
-                "Symptoms signs and abnormal clinical and laboratory findings",
-                "Total"
+                "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
+                "total"
               ]
             },
-            "title": "Cause of death (as per ICD-10 codes)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "SEX",
@@ -49,7 +49,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "_T"
               ]
             },
             "title": "Sex"
@@ -57,7 +57,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

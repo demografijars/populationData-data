@@ -107,10 +107,10 @@
                 "89",
                 "9",
                 "90 +",
-                "Total"
+                "_T"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "SEX",
@@ -120,7 +120,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "_T"
               ]
             },
             "title": "Sex"
@@ -128,7 +128,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

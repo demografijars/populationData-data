@@ -1,9 +1,9 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,Укупно,189,1
-communication,Number of people with communication disabilities,communication,communication,189,1
-dressing,Number of people with dressing or personal hygiene disabilities,dressing,dressing,189,1
-eyesight,Number of people with eyesight disabilities despite eyeglasses,eyesight,eyesight,189,1
-hearing,Number of people with hearing disabilities despite hearing aid,hearing,hearing,189,1
-memory,Number of people with memory or concentracion disabilities,memory,memory,189,1
+_T,_T,Ukupno,Укупно,189,1
+communication,communication,communication,communication,189,1
+dressing,dressing,dressing,dressing,189,1
+eyesight,eyesight,eyesight,eyesight,189,1
+hearing,hearing,hearing,hearing,189,1
+memory,memory,memory,memory,189,1
 multiple_disabilities,multiple_disabilities,multiple_disabilities,multiple_disabilities,189,1
-walking,Number of people with walking or climbing the stairs disabilities,walking,walking,189,1
+walking,walking,walking,walking,189,1

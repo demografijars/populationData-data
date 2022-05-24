@@ -33,11 +33,11 @@
                 "70-74",
                 "75-79",
                 "80-84",
-                "Older than 85",
-                "Total"
+                "85+",
+                "_T"
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "SEX",
@@ -47,7 +47,7 @@
                 "",
                 "F",
                 "M",
-                "Total"
+                "_T"
               ]
             },
             "title": "Sex"
@@ -55,7 +55,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
