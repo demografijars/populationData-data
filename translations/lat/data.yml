@@ -62,7 +62,8 @@ diseases_of_the_blood: "(D50-D89) Bolesti krvi i krvotvornih organa, kao i porem
 endocrine_metabolic_and_nutritional: "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma"
 mental_and_behavioural_disorders: "(F00-F99) Duševni poremećaji i poremećaji ponašanja"
 diseases_of_the_nervous: "(G00-G99) Bolesti nervnog sistema"
-diseases_of_the_eye: "(H00-H93) Bolesti oka, uha i adneksa"
+diseases_of_the_eye: "(H00-H59) Bolesti oka i pripojka oka"
+diseases_of_the_ear: "(H60–H93) Bolesti uva i mastoidnog nastavka"
 diseases_of_the_circulatory: "(I00-I99) Bolesti cirkulatornog sistema"
 diseases_of_the_respiratory: "(J00-J99) Bolesti respiratornog sistema"
 diseases_of_the_digestive: "(K00-K93) Bolesti digestivnog sistema"
@@ -76,6 +77,7 @@ symptoms_signs_and_abnormal: "(R00-R99) Simptomi, znakovi i abnormalni klinički
 injuries_poisoning_and_consequences: "(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora"
 external_causes_of_mortality: "(V01-Y98) Spoljni uzroci smrtnosti"
 factors_influencing_health_status: "(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom"
+special_purpose_codes: "(U00-U85) Šifre za posebne namjene"
 total: Ukupno
 EDUCATION: Nivo obrazovanja
 women_who_have_experienced_any_form_of_violence_after_the_age_of_15_(ever): Žene koje su doživjele bilo koji oblik nasilja u dobi od 15 i više godina (bilo kada)
