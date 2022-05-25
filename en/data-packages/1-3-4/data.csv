@@ -125,42 +125,42 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,(G00-G99) Diseases of the nervous system,169
 2019,Number,Both sexes,(G00-G99) Diseases of the nervous system,165
 2020,Number,Both sexes,(G00-G99) Diseases of the nervous system,188
-2003,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2004,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2005,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2006,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2007,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2008,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2009,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2010,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2011,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2012,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2013,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2014,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2015,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2016,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2017,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2018,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2019,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2020,Number,Both sexes,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2003,Number,Both sexes,diseases_of_the_ear,0
-2004,Number,Both sexes,diseases_of_the_ear,0
-2005,Number,Both sexes,diseases_of_the_ear,1
-2006,Number,Both sexes,diseases_of_the_ear,0
-2007,Number,Both sexes,diseases_of_the_ear,1
-2008,Number,Both sexes,diseases_of_the_ear,0
-2009,Number,Both sexes,diseases_of_the_ear,0
-2010,Number,Both sexes,diseases_of_the_ear,0
-2011,Number,Both sexes,diseases_of_the_ear,0
-2012,Number,Both sexes,diseases_of_the_ear,0
-2013,Number,Both sexes,diseases_of_the_ear,0
-2014,Number,Both sexes,diseases_of_the_ear,0
-2015,Number,Both sexes,diseases_of_the_ear,0
-2016,Number,Both sexes,diseases_of_the_ear,0
-2017,Number,Both sexes,diseases_of_the_ear,0
-2018,Number,Both sexes,diseases_of_the_ear,0
-2019,Number,Both sexes,diseases_of_the_ear,0
-2020,Number,Both sexes,diseases_of_the_ear,0
+2003,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2004,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2005,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2006,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2007,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2008,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2009,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2010,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2011,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2012,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2013,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2014,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2015,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2016,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2017,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2018,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2019,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2020,Number,Both sexes,(H00-H59) Diseases of the eye,0
+2003,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2004,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2005,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,1
+2006,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2007,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,1
+2008,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2009,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2010,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2011,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2012,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2013,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2014,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2015,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2016,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2017,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2018,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2019,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
+2020,Number,Both sexes,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,Both sexes,(I00-I99) Diseases of the circulatory system,7071
 2004,Number,Both sexes,(I00-I99) Diseases of the circulatory system,7340
 2005,Number,Both sexes,(I00-I99) Diseases of the circulatory system,7002
@@ -359,24 +359,24 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",482
 2019,Number,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",430
 2020,Number,Both sexes,"(S00-T98) Injuries, poisoning and consequences of external causes",405
-2003,Number,Both sexes,special_purpose_codes,0
-2004,Number,Both sexes,special_purpose_codes,0
-2005,Number,Both sexes,special_purpose_codes,0
-2006,Number,Both sexes,special_purpose_codes,0
-2007,Number,Both sexes,special_purpose_codes,0
-2008,Number,Both sexes,special_purpose_codes,0
-2009,Number,Both sexes,special_purpose_codes,0
-2010,Number,Both sexes,special_purpose_codes,0
-2011,Number,Both sexes,special_purpose_codes,0
-2012,Number,Both sexes,special_purpose_codes,0
-2013,Number,Both sexes,special_purpose_codes,0
-2014,Number,Both sexes,special_purpose_codes,0
-2015,Number,Both sexes,special_purpose_codes,0
-2016,Number,Both sexes,special_purpose_codes,0
-2017,Number,Both sexes,special_purpose_codes,0
-2018,Number,Both sexes,special_purpose_codes,0
-2019,Number,Both sexes,special_purpose_codes,0
-2020,Number,Both sexes,special_purpose_codes,1592
+2003,Number,Both sexes,(U00-U85) Special purpose codes,0
+2004,Number,Both sexes,(U00-U85) Special purpose codes,0
+2005,Number,Both sexes,(U00-U85) Special purpose codes,0
+2006,Number,Both sexes,(U00-U85) Special purpose codes,0
+2007,Number,Both sexes,(U00-U85) Special purpose codes,0
+2008,Number,Both sexes,(U00-U85) Special purpose codes,0
+2009,Number,Both sexes,(U00-U85) Special purpose codes,0
+2010,Number,Both sexes,(U00-U85) Special purpose codes,0
+2011,Number,Both sexes,(U00-U85) Special purpose codes,0
+2012,Number,Both sexes,(U00-U85) Special purpose codes,0
+2013,Number,Both sexes,(U00-U85) Special purpose codes,0
+2014,Number,Both sexes,(U00-U85) Special purpose codes,0
+2015,Number,Both sexes,(U00-U85) Special purpose codes,0
+2016,Number,Both sexes,(U00-U85) Special purpose codes,0
+2017,Number,Both sexes,(U00-U85) Special purpose codes,0
+2018,Number,Both sexes,(U00-U85) Special purpose codes,0
+2019,Number,Both sexes,(U00-U85) Special purpose codes,0
+2020,Number,Both sexes,(U00-U85) Special purpose codes,1592
 2003,Number,M,Total,6804
 2004,Number,M,Total,6735
 2005,Number,M,Total,7239
@@ -503,42 +503,42 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(G00-G99) Diseases of the nervous system,82
 2019,Number,M,(G00-G99) Diseases of the nervous system,84
 2020,Number,M,(G00-G99) Diseases of the nervous system,91
-2003,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2004,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2005,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2006,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2007,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2008,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2009,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2010,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2011,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2012,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2013,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2014,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2015,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2016,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2017,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2018,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2019,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2020,Number,M,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2003,Number,M,diseases_of_the_ear,0
-2004,Number,M,diseases_of_the_ear,0
-2005,Number,M,diseases_of_the_ear,1
-2006,Number,M,diseases_of_the_ear,0
-2007,Number,M,diseases_of_the_ear,1
-2008,Number,M,diseases_of_the_ear,0
-2009,Number,M,diseases_of_the_ear,0
-2010,Number,M,diseases_of_the_ear,0
-2011,Number,M,diseases_of_the_ear,0
-2012,Number,M,diseases_of_the_ear,0
-2013,Number,M,diseases_of_the_ear,0
-2014,Number,M,diseases_of_the_ear,0
-2015,Number,M,diseases_of_the_ear,0
-2016,Number,M,diseases_of_the_ear,0
-2017,Number,M,diseases_of_the_ear,0
-2018,Number,M,diseases_of_the_ear,0
-2019,Number,M,diseases_of_the_ear,0
-2020,Number,M,diseases_of_the_ear,0
+2003,Number,M,(H00-H59) Diseases of the eye,0
+2004,Number,M,(H00-H59) Diseases of the eye,0
+2005,Number,M,(H00-H59) Diseases of the eye,0
+2006,Number,M,(H00-H59) Diseases of the eye,0
+2007,Number,M,(H00-H59) Diseases of the eye,0
+2008,Number,M,(H00-H59) Diseases of the eye,0
+2009,Number,M,(H00-H59) Diseases of the eye,0
+2010,Number,M,(H00-H59) Diseases of the eye,0
+2011,Number,M,(H00-H59) Diseases of the eye,0
+2012,Number,M,(H00-H59) Diseases of the eye,0
+2013,Number,M,(H00-H59) Diseases of the eye,0
+2014,Number,M,(H00-H59) Diseases of the eye,0
+2015,Number,M,(H00-H59) Diseases of the eye,0
+2016,Number,M,(H00-H59) Diseases of the eye,0
+2017,Number,M,(H00-H59) Diseases of the eye,0
+2018,Number,M,(H00-H59) Diseases of the eye,0
+2019,Number,M,(H00-H59) Diseases of the eye,0
+2020,Number,M,(H00-H59) Diseases of the eye,0
+2003,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2004,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2005,Number,M,(H60–H93) Diseases of the ear and adnexa,1
+2006,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2007,Number,M,(H60–H93) Diseases of the ear and adnexa,1
+2008,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2009,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2010,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2011,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2012,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2013,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2014,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2015,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2016,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2017,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2018,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2019,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2020,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,M,(I00-I99) Diseases of the circulatory system,3323
 2004,Number,M,(I00-I99) Diseases of the circulatory system,3383
 2005,Number,M,(I00-I99) Diseases of the circulatory system,3325
@@ -719,24 +719,24 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",370
 2019,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",340
 2020,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",304
-2003,Number,M,special_purpose_codes,0
-2004,Number,M,special_purpose_codes,0
-2005,Number,M,special_purpose_codes,0
-2006,Number,M,special_purpose_codes,0
-2007,Number,M,special_purpose_codes,0
-2008,Number,M,special_purpose_codes,0
-2009,Number,M,special_purpose_codes,0
-2010,Number,M,special_purpose_codes,0
-2011,Number,M,special_purpose_codes,0
-2012,Number,M,special_purpose_codes,0
-2013,Number,M,special_purpose_codes,0
-2014,Number,M,special_purpose_codes,0
-2015,Number,M,special_purpose_codes,0
-2016,Number,M,special_purpose_codes,0
-2017,Number,M,special_purpose_codes,0
-2018,Number,M,special_purpose_codes,0
-2019,Number,M,special_purpose_codes,0
-2020,Number,M,special_purpose_codes,1030
+2003,Number,M,(U00-U85) Special purpose codes,0
+2004,Number,M,(U00-U85) Special purpose codes,0
+2005,Number,M,(U00-U85) Special purpose codes,0
+2006,Number,M,(U00-U85) Special purpose codes,0
+2007,Number,M,(U00-U85) Special purpose codes,0
+2008,Number,M,(U00-U85) Special purpose codes,0
+2009,Number,M,(U00-U85) Special purpose codes,0
+2010,Number,M,(U00-U85) Special purpose codes,0
+2011,Number,M,(U00-U85) Special purpose codes,0
+2012,Number,M,(U00-U85) Special purpose codes,0
+2013,Number,M,(U00-U85) Special purpose codes,0
+2014,Number,M,(U00-U85) Special purpose codes,0
+2015,Number,M,(U00-U85) Special purpose codes,0
+2016,Number,M,(U00-U85) Special purpose codes,0
+2017,Number,M,(U00-U85) Special purpose codes,0
+2018,Number,M,(U00-U85) Special purpose codes,0
+2019,Number,M,(U00-U85) Special purpose codes,0
+2020,Number,M,(U00-U85) Special purpose codes,1030
 2003,Number,F,Total,6184
 2004,Number,F,Total,6347
 2005,Number,F,Total,6563
@@ -863,42 +863,42 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(G00-G99) Diseases of the nervous system,87
 2019,Number,F,(G00-G99) Diseases of the nervous system,81
 2020,Number,F,(G00-G99) Diseases of the nervous system,97
-2003,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2004,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2005,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2006,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2007,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2008,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2009,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2010,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2011,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2012,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2013,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2014,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2015,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2016,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2017,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2018,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2019,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2020,Number,F,"(H00-H93) Diseases of the eye, ear and adnexa",0
-2003,Number,F,diseases_of_the_ear,0
-2004,Number,F,diseases_of_the_ear,0
-2005,Number,F,diseases_of_the_ear,0
-2006,Number,F,diseases_of_the_ear,0
-2007,Number,F,diseases_of_the_ear,0
-2008,Number,F,diseases_of_the_ear,0
-2009,Number,F,diseases_of_the_ear,0
-2010,Number,F,diseases_of_the_ear,0
-2011,Number,F,diseases_of_the_ear,0
-2012,Number,F,diseases_of_the_ear,0
-2013,Number,F,diseases_of_the_ear,0
-2014,Number,F,diseases_of_the_ear,0
-2015,Number,F,diseases_of_the_ear,0
-2016,Number,F,diseases_of_the_ear,0
-2017,Number,F,diseases_of_the_ear,0
-2018,Number,F,diseases_of_the_ear,0
-2019,Number,F,diseases_of_the_ear,0
-2020,Number,F,diseases_of_the_ear,0
+2003,Number,F,(H00-H59) Diseases of the eye,0
+2004,Number,F,(H00-H59) Diseases of the eye,0
+2005,Number,F,(H00-H59) Diseases of the eye,0
+2006,Number,F,(H00-H59) Diseases of the eye,0
+2007,Number,F,(H00-H59) Diseases of the eye,0
+2008,Number,F,(H00-H59) Diseases of the eye,0
+2009,Number,F,(H00-H59) Diseases of the eye,0
+2010,Number,F,(H00-H59) Diseases of the eye,0
+2011,Number,F,(H00-H59) Diseases of the eye,0
+2012,Number,F,(H00-H59) Diseases of the eye,0
+2013,Number,F,(H00-H59) Diseases of the eye,0
+2014,Number,F,(H00-H59) Diseases of the eye,0
+2015,Number,F,(H00-H59) Diseases of the eye,0
+2016,Number,F,(H00-H59) Diseases of the eye,0
+2017,Number,F,(H00-H59) Diseases of the eye,0
+2018,Number,F,(H00-H59) Diseases of the eye,0
+2019,Number,F,(H00-H59) Diseases of the eye,0
+2020,Number,F,(H00-H59) Diseases of the eye,0
+2003,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2004,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2005,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2006,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2007,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2008,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2009,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2010,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2011,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2012,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2013,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2014,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2015,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2016,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2017,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2018,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2019,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2020,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,F,(I00-I99) Diseases of the circulatory system,3748
 2004,Number,F,(I00-I99) Diseases of the circulatory system,3957
 2005,Number,F,(I00-I99) Diseases of the circulatory system,3677
@@ -1097,21 +1097,21 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",112
 2019,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",90
 2020,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",101
-2003,Number,F,special_purpose_codes,0
-2004,Number,F,special_purpose_codes,0
-2005,Number,F,special_purpose_codes,0
-2006,Number,F,special_purpose_codes,0
-2007,Number,F,special_purpose_codes,0
-2008,Number,F,special_purpose_codes,0
-2009,Number,F,special_purpose_codes,0
-2010,Number,F,special_purpose_codes,0
-2011,Number,F,special_purpose_codes,0
-2012,Number,F,special_purpose_codes,0
-2013,Number,F,special_purpose_codes,0
-2014,Number,F,special_purpose_codes,0
-2015,Number,F,special_purpose_codes,0
-2016,Number,F,special_purpose_codes,0
-2017,Number,F,special_purpose_codes,0
-2018,Number,F,special_purpose_codes,0
-2019,Number,F,special_purpose_codes,0
-2020,Number,F,special_purpose_codes,562
+2003,Number,F,(U00-U85) Special purpose codes,0
+2004,Number,F,(U00-U85) Special purpose codes,0
+2005,Number,F,(U00-U85) Special purpose codes,0
+2006,Number,F,(U00-U85) Special purpose codes,0
+2007,Number,F,(U00-U85) Special purpose codes,0
+2008,Number,F,(U00-U85) Special purpose codes,0
+2009,Number,F,(U00-U85) Special purpose codes,0
+2010,Number,F,(U00-U85) Special purpose codes,0
+2011,Number,F,(U00-U85) Special purpose codes,0
+2012,Number,F,(U00-U85) Special purpose codes,0
+2013,Number,F,(U00-U85) Special purpose codes,0
+2014,Number,F,(U00-U85) Special purpose codes,0
+2015,Number,F,(U00-U85) Special purpose codes,0
+2016,Number,F,(U00-U85) Special purpose codes,0
+2017,Number,F,(U00-U85) Special purpose codes,0
+2018,Number,F,(U00-U85) Special purpose codes,0
+2019,Number,F,(U00-U85) Special purpose codes,0
+2020,Number,F,(U00-U85) Special purpose codes,562

@@ -21,8 +21,8 @@
                 "(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",
                 "(I00-I99) Diseases of the circulatory system",
                 "(K00-K93) Diseases of the digestive system",
-                "diseases_of_the_ear",
-                "(H00-H93) Diseases of the eye, ear and adnexa",
+                "(H60–H93) Diseases of the ear and adnexa",
+                "(H00-H59) Diseases of the eye",
                 "(N00-N99) Diseases of the genitourinary system",
                 "(M00-M99) Diseases of the musculoskeletal system and connective tissue",
                 "(G00-G99) Diseases of the nervous system",
@@ -34,7 +34,7 @@
                 "(F00-F99) Mental and behavioural disorders",
                 "(C00-C97,D00-D48) Neoplasms",
                 "(O00-O99) Pregnancy, childbirth and the puerperium",
-                "special_purpose_codes",
+                "(U00-U85) Special purpose codes",
                 "(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
                 "Total"
               ]
