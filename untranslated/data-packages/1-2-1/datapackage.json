@@ -12,56 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string"
-          },
-          {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
           },
           {
             "name": "Value",
