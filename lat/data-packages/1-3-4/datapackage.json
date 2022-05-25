@@ -45,8 +45,8 @@
                 "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "diseases_of_the_ear",
+                "(H00-H59) Bolesti oka i pripojka oka",
+                "(H60–H93) Bolesti uva i mastoidnog nastavka",
                 "(I00-I99) Bolesti cirkulatornog sistema",
                 "(J00-J99) Bolesti respiratornog sistema",
                 "(K00-K93) Bolesti digestivnog sistema",
@@ -58,7 +58,7 @@
                 "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
                 "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",
                 "(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",
-                "special_purpose_codes",
+                "(U00-U85) Šifre za posebne namjene",
                 ""
               ]
             },

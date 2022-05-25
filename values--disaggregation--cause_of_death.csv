@@ -4,8 +4,8 @@ congenital_malformations_deformations,"(Q00-Q99) Congenital malformations, defor
 diseases_of_the_blood,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism","(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema","(Д50-Д89) Болести крви и крвотворних органа, као и поремећаји имунолошког система",3,1
 diseases_of_the_circulatory,(I00-I99) Diseases of the circulatory system,(I00-I99) Bolesti cirkulatornog sistema,(И00-И99) Болести циркулаторног система,3,1
 diseases_of_the_digestive,(K00-K93) Diseases of the digestive system,(K00-K93) Bolesti digestivnog sistema,(К00-К93) Болести дигестивног система,3,1
-diseases_of_the_ear,(H60–H93) Diseases of the ear and adnexa,diseases_of_the_ear,diseases_of_the_ear,3,1
-diseases_of_the_eye,(H00-H59) Diseases of the eye,"(H00-H93) Bolesti oka, uha i adneksa","(Х00-Х93) Болести ока, уха и аднекса",3,1
+diseases_of_the_ear,(H60–H93) Diseases of the ear and adnexa,(H60–H93) Bolesti uva i mastoidnog nastavka,diseases_of_the_ear,3,1
+diseases_of_the_eye,(H00-H59) Diseases of the eye,(H00-H59) Bolesti oka i pripojka oka,"(Х00-Х93) Болести ока, уха и аднекса",3,1
 diseases_of_the_genitourinary,(N00-N99) Diseases of the genitourinary system,(N00-N99) Bolesti genitourinarnog sistema,(Н00-Н99) Болести генитоуринарног система,3,1
 diseases_of_the_musculoskeletal,(M00-M99) Diseases of the musculoskeletal system and connective tissue,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,(М00-М99) Болести мускулоскелетног система и везивног ткива,3,1
 diseases_of_the_nervous,(G00-G99) Diseases of the nervous system,(G00-G99) Bolesti nervnog sistema,(Г00-Г99) Болести нервног система,3,1
@@ -17,6 +17,6 @@ injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequen
 mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,(F00-F99) Duševni poremećaji i poremećaji ponašanja,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,3,1
 neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme","(Ц00-Ц97,Д00-Д48) Неоплазме",3,1
 pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium","(O00-O99) Trudnoća, porođaj i postporođajni period","(О00-О99) Трудноћа, порођај и постпорођајни период",2,1
-special_purpose_codes,(U00-U85) Special purpose codes,special_purpose_codes,special_purpose_codes,3,1
+special_purpose_codes,(U00-U85) Special purpose codes,(U00-U85) Šifre za posebne namjene,special_purpose_codes,3,1
 symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani","(Р00-Р99) Симптоми, знакови и абнормални клинички и лабораторијски налази који нису другдје класификовани",3,1
 total,Total,Ukupno,Укупно,3,1

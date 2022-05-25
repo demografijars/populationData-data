@@ -125,42 +125,42 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,169
 2019,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,165
 2020,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,188
-2003,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2004,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2005,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2006,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2007,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2008,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2009,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2010,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2011,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2012,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2013,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2014,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2015,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2016,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2017,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2018,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2019,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2020,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
-2003,Broj,Oba pola,diseases_of_the_ear,0
-2004,Broj,Oba pola,diseases_of_the_ear,0
-2005,Broj,Oba pola,diseases_of_the_ear,1
-2006,Broj,Oba pola,diseases_of_the_ear,0
-2007,Broj,Oba pola,diseases_of_the_ear,1
-2008,Broj,Oba pola,diseases_of_the_ear,0
-2009,Broj,Oba pola,diseases_of_the_ear,0
-2010,Broj,Oba pola,diseases_of_the_ear,0
-2011,Broj,Oba pola,diseases_of_the_ear,0
-2012,Broj,Oba pola,diseases_of_the_ear,0
-2013,Broj,Oba pola,diseases_of_the_ear,0
-2014,Broj,Oba pola,diseases_of_the_ear,0
-2015,Broj,Oba pola,diseases_of_the_ear,0
-2016,Broj,Oba pola,diseases_of_the_ear,0
-2017,Broj,Oba pola,diseases_of_the_ear,0
-2018,Broj,Oba pola,diseases_of_the_ear,0
-2019,Broj,Oba pola,diseases_of_the_ear,0
-2020,Broj,Oba pola,diseases_of_the_ear,0
+2003,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2004,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2005,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2006,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2007,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2008,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2009,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2010,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2011,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2012,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2013,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2014,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2015,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2016,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2017,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2018,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2019,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2020,Broj,Oba pola,(H00-H59) Bolesti oka i pripojka oka,0
+2003,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2004,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2005,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,1
+2006,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2007,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,1
+2008,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2009,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2010,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2011,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2012,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2013,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2014,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2015,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2016,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2017,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2018,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2019,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2020,Broj,Oba pola,(H60–H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7071
 2004,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7340
 2005,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7002
@@ -359,24 +359,24 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",482
 2019,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",430
 2020,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",405
-2003,Broj,Oba pola,special_purpose_codes,0
-2004,Broj,Oba pola,special_purpose_codes,0
-2005,Broj,Oba pola,special_purpose_codes,0
-2006,Broj,Oba pola,special_purpose_codes,0
-2007,Broj,Oba pola,special_purpose_codes,0
-2008,Broj,Oba pola,special_purpose_codes,0
-2009,Broj,Oba pola,special_purpose_codes,0
-2010,Broj,Oba pola,special_purpose_codes,0
-2011,Broj,Oba pola,special_purpose_codes,0
-2012,Broj,Oba pola,special_purpose_codes,0
-2013,Broj,Oba pola,special_purpose_codes,0
-2014,Broj,Oba pola,special_purpose_codes,0
-2015,Broj,Oba pola,special_purpose_codes,0
-2016,Broj,Oba pola,special_purpose_codes,0
-2017,Broj,Oba pola,special_purpose_codes,0
-2018,Broj,Oba pola,special_purpose_codes,0
-2019,Broj,Oba pola,special_purpose_codes,0
-2020,Broj,Oba pola,special_purpose_codes,1592
+2003,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2004,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2005,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2006,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2007,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2008,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2009,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2010,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2011,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2012,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2013,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2014,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2015,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2016,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2017,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2018,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2019,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,0
+2020,Broj,Oba pola,(U00-U85) Šifre za posebne namjene,1592
 2003,Broj,M,Ukupno,6804
 2004,Broj,M,Ukupno,6735
 2005,Broj,M,Ukupno,7239
@@ -503,42 +503,42 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,(G00-G99) Bolesti nervnog sistema,82
 2019,Broj,M,(G00-G99) Bolesti nervnog sistema,84
 2020,Broj,M,(G00-G99) Bolesti nervnog sistema,91
-2003,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2004,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2005,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2006,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2007,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2008,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2009,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2010,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2011,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2012,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2013,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2014,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2015,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2016,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2017,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2018,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2019,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2020,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
-2003,Broj,M,diseases_of_the_ear,0
-2004,Broj,M,diseases_of_the_ear,0
-2005,Broj,M,diseases_of_the_ear,1
-2006,Broj,M,diseases_of_the_ear,0
-2007,Broj,M,diseases_of_the_ear,1
-2008,Broj,M,diseases_of_the_ear,0
-2009,Broj,M,diseases_of_the_ear,0
-2010,Broj,M,diseases_of_the_ear,0
-2011,Broj,M,diseases_of_the_ear,0
-2012,Broj,M,diseases_of_the_ear,0
-2013,Broj,M,diseases_of_the_ear,0
-2014,Broj,M,diseases_of_the_ear,0
-2015,Broj,M,diseases_of_the_ear,0
-2016,Broj,M,diseases_of_the_ear,0
-2017,Broj,M,diseases_of_the_ear,0
-2018,Broj,M,diseases_of_the_ear,0
-2019,Broj,M,diseases_of_the_ear,0
-2020,Broj,M,diseases_of_the_ear,0
+2003,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2004,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2005,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2006,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2007,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2008,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2009,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2010,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2011,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2012,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2013,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2014,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2015,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2016,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2017,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2018,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2019,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2020,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2003,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2004,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2005,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,1
+2006,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2007,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,1
+2008,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2009,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2010,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2011,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2012,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2013,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2014,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2015,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2016,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2017,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2018,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2019,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2020,Broj,M,(H60–H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3323
 2004,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3383
 2005,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3325
@@ -719,24 +719,24 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",370
 2019,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",340
 2020,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",304
-2003,Broj,M,special_purpose_codes,0
-2004,Broj,M,special_purpose_codes,0
-2005,Broj,M,special_purpose_codes,0
-2006,Broj,M,special_purpose_codes,0
-2007,Broj,M,special_purpose_codes,0
-2008,Broj,M,special_purpose_codes,0
-2009,Broj,M,special_purpose_codes,0
-2010,Broj,M,special_purpose_codes,0
-2011,Broj,M,special_purpose_codes,0
-2012,Broj,M,special_purpose_codes,0
-2013,Broj,M,special_purpose_codes,0
-2014,Broj,M,special_purpose_codes,0
-2015,Broj,M,special_purpose_codes,0
-2016,Broj,M,special_purpose_codes,0
-2017,Broj,M,special_purpose_codes,0
-2018,Broj,M,special_purpose_codes,0
-2019,Broj,M,special_purpose_codes,0
-2020,Broj,M,special_purpose_codes,1030
+2003,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2004,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2005,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2006,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2007,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2008,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2009,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2010,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2011,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2012,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2013,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2014,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2015,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2016,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2017,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2018,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2019,Broj,M,(U00-U85) Šifre za posebne namjene,0
+2020,Broj,M,(U00-U85) Šifre za posebne namjene,1030
 2003,Broj,Ž,Ukupno,6184
 2004,Broj,Ž,Ukupno,6347
 2005,Broj,Ž,Ukupno,6563
@@ -863,42 +863,42 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Ž,(G00-G99) Bolesti nervnog sistema,87
 2019,Broj,Ž,(G00-G99) Bolesti nervnog sistema,81
 2020,Broj,Ž,(G00-G99) Bolesti nervnog sistema,97
-2003,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2004,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2005,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2006,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2007,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2008,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2009,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2010,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2011,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2012,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2013,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2014,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2015,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2016,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2017,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2018,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2019,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2020,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
-2003,Broj,Ž,diseases_of_the_ear,0
-2004,Broj,Ž,diseases_of_the_ear,0
-2005,Broj,Ž,diseases_of_the_ear,0
-2006,Broj,Ž,diseases_of_the_ear,0
-2007,Broj,Ž,diseases_of_the_ear,0
-2008,Broj,Ž,diseases_of_the_ear,0
-2009,Broj,Ž,diseases_of_the_ear,0
-2010,Broj,Ž,diseases_of_the_ear,0
-2011,Broj,Ž,diseases_of_the_ear,0
-2012,Broj,Ž,diseases_of_the_ear,0
-2013,Broj,Ž,diseases_of_the_ear,0
-2014,Broj,Ž,diseases_of_the_ear,0
-2015,Broj,Ž,diseases_of_the_ear,0
-2016,Broj,Ž,diseases_of_the_ear,0
-2017,Broj,Ž,diseases_of_the_ear,0
-2018,Broj,Ž,diseases_of_the_ear,0
-2019,Broj,Ž,diseases_of_the_ear,0
-2020,Broj,Ž,diseases_of_the_ear,0
+2003,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2004,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2005,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2006,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2007,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2008,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2009,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2010,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2011,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2012,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2013,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2014,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2015,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2016,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2017,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2018,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2019,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2020,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2003,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2004,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2005,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2006,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2007,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2008,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2009,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2010,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2011,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2012,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2013,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2014,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2015,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2016,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2017,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2018,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2019,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
+2020,Broj,Ž,(H60–H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3748
 2004,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3957
 2005,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3677
@@ -1097,21 +1097,21 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",112
 2019,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",90
 2020,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",101
-2003,Broj,Ž,special_purpose_codes,0
-2004,Broj,Ž,special_purpose_codes,0
-2005,Broj,Ž,special_purpose_codes,0
-2006,Broj,Ž,special_purpose_codes,0
-2007,Broj,Ž,special_purpose_codes,0
-2008,Broj,Ž,special_purpose_codes,0
-2009,Broj,Ž,special_purpose_codes,0
-2010,Broj,Ž,special_purpose_codes,0
-2011,Broj,Ž,special_purpose_codes,0
-2012,Broj,Ž,special_purpose_codes,0
-2013,Broj,Ž,special_purpose_codes,0
-2014,Broj,Ž,special_purpose_codes,0
-2015,Broj,Ž,special_purpose_codes,0
-2016,Broj,Ž,special_purpose_codes,0
-2017,Broj,Ž,special_purpose_codes,0
-2018,Broj,Ž,special_purpose_codes,0
-2019,Broj,Ž,special_purpose_codes,0
-2020,Broj,Ž,special_purpose_codes,562
+2003,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2004,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2005,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2006,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2007,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2008,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2009,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2010,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2011,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2012,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2013,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2014,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2015,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2016,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2017,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2018,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2019,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
+2020,Broj,Ž,(U00-U85) Šifre za posebne namjene,562
