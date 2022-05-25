@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
+                "Ukupno",
                 "natural_sciences,_mathematics_and_statistics",
                 "engineering,_production_and_construction",
                 "information_and_communication_technologies",
@@ -59,7 +59,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -70,7 +70,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       }

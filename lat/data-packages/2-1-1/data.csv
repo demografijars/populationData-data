@@ -1,5 +1,5 @@
-Year,UNIT_MEASURE,Spol,AGE,Value
-2013,Broj,Oba spola,_T,1170342
+Year,UNIT_MEASURE,Spol,Starosna dob,Value
+2013,Broj,Oba spola,Ukupno,1170342
 2013,Broj,Oba spola,0,10089
 2013,Broj,Oba spola,1,10442
 2013,Broj,Oba spola,2,10534
@@ -86,7 +86,7 @@ Year,UNIT_MEASURE,Spol,AGE,Value
 2013,Broj,Oba spola,83,4589
 2013,Broj,Oba spola,84,3530
 2013,Broj,Oba spola,85+,11565
-2013,Broj,M,_T,571812
+2013,Broj,M,Ukupno,571812
 2013,Broj,M,0,5148
 2013,Broj,M,1,5271
 2013,Broj,M,2,5457
@@ -173,7 +173,7 @@ Year,UNIT_MEASURE,Spol,AGE,Value
 2013,Broj,M,83,1689
 2013,Broj,M,84,1308
 2013,Broj,M,85+,3865
-2013,Broj,Ž,_T,598530
+2013,Broj,Ž,Ukupno,598530
 2013,Broj,Ž,0,4941
 2013,Broj,Ž,1,5171
 2013,Broj,Ž,2,5077

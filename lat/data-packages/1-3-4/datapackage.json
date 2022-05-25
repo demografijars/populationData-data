@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -38,36 +38,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "infectious_and_parasitic",
-                "neoplasms",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
+                "Ukupno",
+                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
+                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H93) Bolesti oka, uha i adneksa",
                 "diseases_of_the_ear",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
+                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
+                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
+                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
                 "special_purpose_codes",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       }

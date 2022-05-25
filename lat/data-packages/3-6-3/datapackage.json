@@ -13,17 +13,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       }

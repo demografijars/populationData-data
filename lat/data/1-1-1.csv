@@ -1,55 +1,55 @@
-Year,UNIT_MEASURE,Spol,BIRTHS,Value
-2003,Broj,Oba spola,LIVE_BIRTH,10537
-2004,Broj,Oba spola,LIVE_BIRTH,10628
-2005,Broj,Oba spola,LIVE_BIRTH,10322
-2006,Broj,Oba spola,LIVE_BIRTH,10524
-2007,Broj,Oba spola,LIVE_BIRTH,10110
-2008,Broj,Oba spola,LIVE_BIRTH,10198
-2009,Broj,Oba spola,LIVE_BIRTH,10603
-2010,Broj,Oba spola,LIVE_BIRTH,10147
-2011,Broj,Oba spola,LIVE_BIRTH,9561
-2012,Broj,Oba spola,LIVE_BIRTH,9978
-2013,Broj,Oba spola,LIVE_BIRTH,9510
-2014,Broj,Oba spola,LIVE_BIRTH,9335
-2015,Broj,Oba spola,LIVE_BIRTH,9357
-2016,Broj,Oba spola,LIVE_BIRTH,9452
-2017,Broj,Oba spola,LIVE_BIRTH,9339
-2018,Broj,Oba spola,LIVE_BIRTH,9568
-2019,Broj,Oba spola,LIVE_BIRTH,9274
-2020,Broj,Oba spola,LIVE_BIRTH,9161
-2003,Broj,Oba spola,DEATHS,12988
-2004,Broj,Oba spola,DEATHS,13082
-2005,Broj,Oba spola,DEATHS,13802
-2006,Broj,Oba spola,DEATHS,13232
-2007,Broj,Oba spola,DEATHS,14146
-2008,Broj,Oba spola,DEATHS,13501
-2009,Broj,Oba spola,DEATHS,13775
-2010,Broj,Oba spola,DEATHS,13517
-2011,Broj,Oba spola,DEATHS,13658
-2012,Broj,Oba spola,DEATHS,13796
-2013,Broj,Oba spola,DEATHS,13978
-2014,Broj,Oba spola,DEATHS,14409
-2015,Broj,Oba spola,DEATHS,15059
-2016,Broj,Oba spola,DEATHS,13970
-2017,Broj,Oba spola,DEATHS,14663
-2018,Broj,Oba spola,DEATHS,14763
-2019,Broj,Oba spola,DEATHS,15081
-2020,Broj,Oba spola,DEATHS,16582
-2003,Broj,Oba spola,NATURAL_CHANGE,-2451
-2004,Broj,Oba spola,NATURAL_CHANGE,-2454
-2005,Broj,Oba spola,NATURAL_CHANGE,-3480
-2006,Broj,Oba spola,NATURAL_CHANGE,-2708
-2007,Broj,Oba spola,NATURAL_CHANGE,-4036
-2008,Broj,Oba spola,NATURAL_CHANGE,-3303
-2009,Broj,Oba spola,NATURAL_CHANGE,-3172
-2010,Broj,Oba spola,NATURAL_CHANGE,-3370
-2011,Broj,Oba spola,NATURAL_CHANGE,-4097
-2012,Broj,Oba spola,NATURAL_CHANGE,-3818
-2013,Broj,Oba spola,NATURAL_CHANGE,-4468
-2014,Broj,Oba spola,NATURAL_CHANGE,-5074
-2015,Broj,Oba spola,NATURAL_CHANGE,-5702
-2016,Broj,Oba spola,NATURAL_CHANGE,-4518
-2017,Broj,Oba spola,NATURAL_CHANGE,-5324
-2018,Broj,Oba spola,NATURAL_CHANGE,-5195
-2019,Broj,Oba spola,NATURAL_CHANGE,-5807
-2020,Broj,Oba spola,NATURAL_CHANGE,-7421
+Year,UNIT_MEASURE,Spol,Vitalna statistika,Value
+2003,Broj,Oba spola,Živorođeni,10537
+2004,Broj,Oba spola,Živorođeni,10628
+2005,Broj,Oba spola,Živorođeni,10322
+2006,Broj,Oba spola,Živorođeni,10524
+2007,Broj,Oba spola,Živorođeni,10110
+2008,Broj,Oba spola,Živorođeni,10198
+2009,Broj,Oba spola,Živorođeni,10603
+2010,Broj,Oba spola,Živorođeni,10147
+2011,Broj,Oba spola,Živorođeni,9561
+2012,Broj,Oba spola,Živorođeni,9978
+2013,Broj,Oba spola,Živorođeni,9510
+2014,Broj,Oba spola,Živorođeni,9335
+2015,Broj,Oba spola,Živorođeni,9357
+2016,Broj,Oba spola,Živorođeni,9452
+2017,Broj,Oba spola,Živorođeni,9339
+2018,Broj,Oba spola,Živorođeni,9568
+2019,Broj,Oba spola,Živorođeni,9274
+2020,Broj,Oba spola,Živorođeni,9161
+2003,Broj,Oba spola,Smrtni slučajevi,12988
+2004,Broj,Oba spola,Smrtni slučajevi,13082
+2005,Broj,Oba spola,Smrtni slučajevi,13802
+2006,Broj,Oba spola,Smrtni slučajevi,13232
+2007,Broj,Oba spola,Smrtni slučajevi,14146
+2008,Broj,Oba spola,Smrtni slučajevi,13501
+2009,Broj,Oba spola,Smrtni slučajevi,13775
+2010,Broj,Oba spola,Smrtni slučajevi,13517
+2011,Broj,Oba spola,Smrtni slučajevi,13658
+2012,Broj,Oba spola,Smrtni slučajevi,13796
+2013,Broj,Oba spola,Smrtni slučajevi,13978
+2014,Broj,Oba spola,Smrtni slučajevi,14409
+2015,Broj,Oba spola,Smrtni slučajevi,15059
+2016,Broj,Oba spola,Smrtni slučajevi,13970
+2017,Broj,Oba spola,Smrtni slučajevi,14663
+2018,Broj,Oba spola,Smrtni slučajevi,14763
+2019,Broj,Oba spola,Smrtni slučajevi,15081
+2020,Broj,Oba spola,Smrtni slučajevi,16582
+2003,Broj,Oba spola,Prirodno kretanje,-2451
+2004,Broj,Oba spola,Prirodno kretanje,-2454
+2005,Broj,Oba spola,Prirodno kretanje,-3480
+2006,Broj,Oba spola,Prirodno kretanje,-2708
+2007,Broj,Oba spola,Prirodno kretanje,-4036
+2008,Broj,Oba spola,Prirodno kretanje,-3303
+2009,Broj,Oba spola,Prirodno kretanje,-3172
+2010,Broj,Oba spola,Prirodno kretanje,-3370
+2011,Broj,Oba spola,Prirodno kretanje,-4097
+2012,Broj,Oba spola,Prirodno kretanje,-3818
+2013,Broj,Oba spola,Prirodno kretanje,-4468
+2014,Broj,Oba spola,Prirodno kretanje,-5074
+2015,Broj,Oba spola,Prirodno kretanje,-5702
+2016,Broj,Oba spola,Prirodno kretanje,-4518
+2017,Broj,Oba spola,Prirodno kretanje,-5324
+2018,Broj,Oba spola,Prirodno kretanje,-5195
+2019,Broj,Oba spola,Prirodno kretanje,-5807
+2020,Broj,Oba spola,Prirodno kretanje,-7421

@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "MICS_NUMBER",
             "type": "string",
             "constraints": {
               "enum": [
-                "all_methods",
-                "traditional_methods",
-                "modern_methods",
+                "Sve metode",
+                "Tradicionalne metode",
+                "Savremene metode",
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Metoda"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       }
