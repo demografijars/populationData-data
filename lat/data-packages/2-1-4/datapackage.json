@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PYRAMID_SEX",
@@ -63,7 +63,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -71,5 +71,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-4",
-  "title": "Populaciona piramida"
+  "title": "Populacijska piramida"
 }

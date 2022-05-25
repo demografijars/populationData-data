@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -30,24 +30,24 @@
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "BIRTH",
             "type": "string",
             "constraints": {
               "enum": [
-                "Živorođeni",
-                "Umrli",
+                "LIVE_BIRTH",
+                "DEATHS",
                 ""
               ]
             },
-            "title": "Rađanje"
+            "title": "BIRTH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-4",
-  "title": "Projekcije vitalne statistike prema polu"
+  "title": "Projekcije vitalne statistike prema spolu"
 }

@@ -13,17 +13,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -31,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-2",
-  "title": "Bruto društveni proizvod (BDP) - prema glavi stanovnika"
+  "title": "Bruto društveni proizvod (BDP) prema glavi stanovnika"
 }

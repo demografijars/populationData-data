@@ -1,397 +1,397 @@
-Year,UNIT_MEASURE,scientific_field,type_of_education,Пол,Value
+Year,UNIT_MEASURE,Научна област,Врста образовања,Пол,Value
 2017,Број,Укупно,enrolled_in_master_of_science_studies,Оба пола,2140
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Оба пола,67
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Оба пола,347
-2017,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Оба пола,99
-2017,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Оба пола,35
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Оба пола,206
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Оба пола,473
-2017,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Оба пола,356
-2017,Број,education,enrolled_in_master_of_science_studies,Оба пола,236
-2017,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Оба пола,319
-2017,Број,services,enrolled_in_master_of_science_studies,Оба пола,2
+2017,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Оба пола,67
+2017,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Оба пола,347
+2017,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Оба пола,99
+2017,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Оба пола,35
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Оба пола,206
+2017,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Оба пола,473
+2017,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Оба пола,356
+2017,Број,Образовање,enrolled_in_master_of_science_studies,Оба пола,236
+2017,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Оба пола,319
+2017,Број,Услуге,enrolled_in_master_of_science_studies,Оба пола,2
 2017,Број,Укупно,enrolled_in_master_of_science_studies,M,917
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,26
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,208
-2017,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,80
-2017,Број,health_and_social_protection,enrolled_in_master_of_science_studies,M,8
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,114
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,176
-2017,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,124
-2017,Број,education,enrolled_in_master_of_science_studies,M,39
-2017,Број,arts_and_humanities,enrolled_in_master_of_science_studies,M,142
-2017,Број,services,enrolled_in_master_of_science_studies,M,0
+2017,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,M,26
+2017,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,M,208
+2017,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,M,80
+2017,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,M,8
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,M,114
+2017,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,M,176
+2017,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,M,124
+2017,Број,Образовање,enrolled_in_master_of_science_studies,M,39
+2017,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,M,142
+2017,Број,Услуге,enrolled_in_master_of_science_studies,M,0
 2017,Број,Укупно,enrolled_in_master_of_science_studies,Ж,1223
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ж,41
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ж,139
-2017,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ж,19
-2017,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Ж,27
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Ж,92
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Ж,297
-2017,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Ж,232
-2017,Број,education,enrolled_in_master_of_science_studies,Ж,197
-2017,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Ж,177
-2017,Број,services,enrolled_in_master_of_science_studies,Ж,2
-2017,Број,Укупно,enrolled_in_master_studies,Оба пола,31
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Оба пола,1
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Оба пола,0
-2017,Број,information_and_communication_technologies,enrolled_in_master_studies,Оба пола,22
-2017,Број,health_and_social_protection,enrolled_in_master_studies,Оба пола,0
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Оба пола,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Оба пола,0
-2017,Број,"business,_administration_and_law",enrolled_in_master_studies,Оба пола,2
-2017,Број,education,enrolled_in_master_studies,Оба пола,1
-2017,Број,arts_and_humanities,enrolled_in_master_studies,Оба пола,5
-2017,Број,services,enrolled_in_master_studies,Оба пола,0
-2017,Број,Укупно,enrolled_in_master_studies,M,21
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,0
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_studies,M,0
-2017,Број,information_and_communication_technologies,enrolled_in_master_studies,M,14
-2017,Број,health_and_social_protection,enrolled_in_master_studies,M,0
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,M,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,0
-2017,Број,"business,_administration_and_law",enrolled_in_master_studies,M,2
-2017,Број,education,enrolled_in_master_studies,M,0
-2017,Број,arts_and_humanities,enrolled_in_master_studies,M,5
-2017,Број,services,enrolled_in_master_studies,M,0
-2017,Број,Укупно,enrolled_in_master_studies,Ж,10
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ж,1
-2017,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Ж,0
-2017,Број,information_and_communication_technologies,enrolled_in_master_studies,Ж,8
-2017,Број,health_and_social_protection,enrolled_in_master_studies,Ж,0
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Ж,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Ж,0
-2017,Број,"business,_administration_and_law",enrolled_in_master_studies,Ж,0
-2017,Број,education,enrolled_in_master_studies,Ж,1
-2017,Број,arts_and_humanities,enrolled_in_master_studies,Ж,0
-2017,Број,services,enrolled_in_master_studies,Ж,0
-2017,Број,Укупно,enrolled_in_specialist_studies,Оба пола,73
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Оба пола,0
-2017,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Оба пола,0
-2017,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Оба пола,0
-2017,Број,health_and_social_protection,enrolled_in_specialist_studies,Оба пола,71
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Оба пола,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Оба пола,1
-2017,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Оба пола,1
-2017,Број,education,enrolled_in_specialist_studies,Оба пола,0
-2017,Број,arts_and_humanities,enrolled_in_specialist_studies,Оба пола,0
-2017,Број,services,enrolled_in_specialist_studies,Оба пола,0
-2017,Број,Укупно,enrolled_in_specialist_studies,M,34
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
-2017,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
-2017,Број,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
-2017,Број,health_and_social_protection,enrolled_in_specialist_studies,M,33
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,M,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,1
-2017,Број,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
-2017,Број,education,enrolled_in_specialist_studies,M,0
-2017,Број,arts_and_humanities,enrolled_in_specialist_studies,M,0
-2017,Број,services,enrolled_in_specialist_studies,M,0
-2017,Број,Укупно,enrolled_in_specialist_studies,Ж,39
-2017,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ж,0
-2017,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ж,0
-2017,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Ж,0
-2017,Број,health_and_social_protection,enrolled_in_specialist_studies,Ж,38
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Ж,0
-2017,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Ж,0
-2017,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Ж,1
-2017,Број,education,enrolled_in_specialist_studies,Ж,0
-2017,Број,arts_and_humanities,enrolled_in_specialist_studies,Ж,0
-2017,Број,services,enrolled_in_specialist_studies,Ж,0
+2017,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Ж,41
+2017,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Ж,139
+2017,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Ж,19
+2017,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Ж,27
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Ж,92
+2017,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Ж,297
+2017,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Ж,232
+2017,Број,Образовање,enrolled_in_master_of_science_studies,Ж,197
+2017,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Ж,177
+2017,Број,Услуге,enrolled_in_master_of_science_studies,Ж,2
+2017,Број,Укупно,Уписани на мастер студије,Оба пола,31
+2017,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Оба пола,1
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Оба пола,0
+2017,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Оба пола,22
+2017,Број,Здравство и социјална заштита,Уписани на мастер студије,Оба пола,0
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Оба пола,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Оба пола,0
+2017,Број,"Пословање, администрација и право",Уписани на мастер студије,Оба пола,2
+2017,Број,Образовање,Уписани на мастер студије,Оба пола,1
+2017,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Оба пола,5
+2017,Број,Услуге,Уписани на мастер студије,Оба пола,0
+2017,Број,Укупно,Уписани на мастер студије,M,21
+2017,Број,"Природне науке, математика и статистика",Уписани на мастер студије,M,0
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,M,0
+2017,Број,Информационе и комуникационе технологије,Уписани на мастер студије,M,14
+2017,Број,Здравство и социјална заштита,Уписани на мастер студије,M,0
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,M,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,M,0
+2017,Број,"Пословање, администрација и право",Уписани на мастер студије,M,2
+2017,Број,Образовање,Уписани на мастер студије,M,0
+2017,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,M,5
+2017,Број,Услуге,Уписани на мастер студије,M,0
+2017,Број,Укупно,Уписани на мастер студије,Ж,10
+2017,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Ж,1
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Ж,0
+2017,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Ж,8
+2017,Број,Здравство и социјална заштита,Уписани на мастер студије,Ж,0
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Ж,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Ж,0
+2017,Број,"Пословање, администрација и право",Уписани на мастер студије,Ж,0
+2017,Број,Образовање,Уписани на мастер студије,Ж,1
+2017,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Ж,0
+2017,Број,Услуге,Уписани на мастер студије,Ж,0
+2017,Број,Укупно,Уписани на специјалистичке студије,Оба пола,73
+2017,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Оба пола,0
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Оба пола,0
+2017,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Оба пола,0
+2017,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Оба пола,71
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Оба пола,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Оба пола,1
+2017,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Оба пола,1
+2017,Број,Образовање,Уписани на специјалистичке студије,Оба пола,0
+2017,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Оба пола,0
+2017,Број,Услуге,Уписани на специјалистичке студије,Оба пола,0
+2017,Број,Укупно,Уписани на специјалистичке студије,M,34
+2017,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,M,0
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,M,0
+2017,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,M,0
+2017,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,M,33
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,M,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,M,1
+2017,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,M,0
+2017,Број,Образовање,Уписани на специјалистичке студије,M,0
+2017,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,M,0
+2017,Број,Услуге,Уписани на специјалистичке студије,M,0
+2017,Број,Укупно,Уписани на специјалистичке студије,Ж,39
+2017,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Ж,0
+2017,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Ж,0
+2017,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Ж,0
+2017,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Ж,38
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Ж,0
+2017,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Ж,0
+2017,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Ж,1
+2017,Број,Образовање,Уписани на специјалистичке студије,Ж,0
+2017,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Ж,0
+2017,Број,Услуге,Уписани на специјалистичке студије,Ж,0
 2018,Број,Укупно,enrolled_in_master_of_science_studies,Оба пола,14
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Оба пола,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Оба пола,0
-2018,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Оба пола,0
-2018,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Оба пола,0
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Оба пола,1
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Оба пола,1
-2018,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Оба пола,0
-2018,Број,education,enrolled_in_master_of_science_studies,Оба пола,9
-2018,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Оба пола,3
-2018,Број,services,enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Оба пола,1
+2018,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Оба пола,1
+2018,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Оба пола,0
+2018,Број,Образовање,enrolled_in_master_of_science_studies,Оба пола,9
+2018,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Оба пола,3
+2018,Број,Услуге,enrolled_in_master_of_science_studies,Оба пола,0
 2018,Број,Укупно,enrolled_in_master_of_science_studies,M,6
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
-2018,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
-2018,Број,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,1
-2018,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,0
-2018,Број,education,enrolled_in_master_of_science_studies,M,2
-2018,Број,arts_and_humanities,enrolled_in_master_of_science_studies,M,3
-2018,Број,services,enrolled_in_master_of_science_studies,M,0
+2018,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,M,0
+2018,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,M,0
+2018,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,M,0
+2018,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,M,0
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,M,0
+2018,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,M,1
+2018,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,M,0
+2018,Број,Образовање,enrolled_in_master_of_science_studies,M,2
+2018,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,M,3
+2018,Број,Услуге,enrolled_in_master_of_science_studies,M,0
 2018,Број,Укупно,enrolled_in_master_of_science_studies,Ж,8
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ж,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ж,0
-2018,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ж,0
-2018,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Ж,0
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Ж,1
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Ж,0
-2018,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Ж,0
-2018,Број,education,enrolled_in_master_of_science_studies,Ж,7
-2018,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Ж,0
-2018,Број,services,enrolled_in_master_of_science_studies,Ж,0
-2018,Број,Укупно,enrolled_in_master_studies,Оба пола,2144
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Оба пола,76
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Оба пола,362
-2018,Број,information_and_communication_technologies,enrolled_in_master_studies,Оба пола,120
-2018,Број,health_and_social_protection,enrolled_in_master_studies,Оба пола,42
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Оба пола,189
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Оба пола,503
-2018,Број,"business,_administration_and_law",enrolled_in_master_studies,Оба пола,240
-2018,Број,education,enrolled_in_master_studies,Оба пола,314
-2018,Број,arts_and_humanities,enrolled_in_master_studies,Оба пола,291
-2018,Број,services,enrolled_in_master_studies,Оба пола,7
-2018,Број,Укупно,enrolled_in_master_studies,M,937
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,28
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_studies,M,229
-2018,Број,information_and_communication_technologies,enrolled_in_master_studies,M,83
-2018,Број,health_and_social_protection,enrolled_in_master_studies,M,12
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,M,98
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,163
-2018,Број,"business,_administration_and_law",enrolled_in_master_studies,M,85
-2018,Број,education,enrolled_in_master_studies,M,103
-2018,Број,arts_and_humanities,enrolled_in_master_studies,M,133
-2018,Број,services,enrolled_in_master_studies,M,3
-2018,Број,Укупно,enrolled_in_master_studies,Ж,1207
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ж,48
-2018,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Ж,133
-2018,Број,information_and_communication_technologies,enrolled_in_master_studies,Ж,37
-2018,Број,health_and_social_protection,enrolled_in_master_studies,Ж,30
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Ж,91
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Ж,340
-2018,Број,"business,_administration_and_law",enrolled_in_master_studies,Ж,155
-2018,Број,education,enrolled_in_master_studies,Ж,211
-2018,Број,arts_and_humanities,enrolled_in_master_studies,Ж,158
-2018,Број,services,enrolled_in_master_studies,Ж,4
-2018,Број,Укупно,enrolled_in_specialist_studies,Оба пола,160
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Оба пола,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Оба пола,0
-2018,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Оба пола,0
-2018,Број,health_and_social_protection,enrolled_in_specialist_studies,Оба пола,156
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Оба пола,0
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Оба пола,1
-2018,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Оба пола,0
-2018,Број,education,enrolled_in_specialist_studies,Оба пола,2
-2018,Број,arts_and_humanities,enrolled_in_specialist_studies,Оба пола,1
-2018,Број,services,enrolled_in_specialist_studies,Оба пола,0
-2018,Број,Укупно,enrolled_in_specialist_studies,M,66
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
-2018,Број,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
-2018,Број,health_and_social_protection,enrolled_in_specialist_studies,M,64
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,M,0
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,1
-2018,Број,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
-2018,Број,education,enrolled_in_specialist_studies,M,0
-2018,Број,arts_and_humanities,enrolled_in_specialist_studies,M,1
-2018,Број,services,enrolled_in_specialist_studies,M,0
-2018,Број,Укупно,enrolled_in_specialist_studies,Ж,94
-2018,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ж,0
-2018,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ж,0
-2018,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Ж,0
-2018,Број,health_and_social_protection,enrolled_in_specialist_studies,Ж,92
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Ж,0
-2018,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Ж,0
-2018,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Ж,0
-2018,Број,education,enrolled_in_specialist_studies,Ж,2
-2018,Број,arts_and_humanities,enrolled_in_specialist_studies,Ж,0
-2018,Број,services,enrolled_in_specialist_studies,Ж,0
+2018,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Ж,0
+2018,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Ж,0
+2018,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Ж,0
+2018,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Ж,0
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Ж,1
+2018,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Ж,0
+2018,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Ж,0
+2018,Број,Образовање,enrolled_in_master_of_science_studies,Ж,7
+2018,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Ж,0
+2018,Број,Услуге,enrolled_in_master_of_science_studies,Ж,0
+2018,Број,Укупно,Уписани на мастер студије,Оба пола,2144
+2018,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Оба пола,76
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Оба пола,362
+2018,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Оба пола,120
+2018,Број,Здравство и социјална заштита,Уписани на мастер студије,Оба пола,42
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Оба пола,189
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Оба пола,503
+2018,Број,"Пословање, администрација и право",Уписани на мастер студије,Оба пола,240
+2018,Број,Образовање,Уписани на мастер студије,Оба пола,314
+2018,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Оба пола,291
+2018,Број,Услуге,Уписани на мастер студије,Оба пола,7
+2018,Број,Укупно,Уписани на мастер студије,M,937
+2018,Број,"Природне науке, математика и статистика",Уписани на мастер студије,M,28
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,M,229
+2018,Број,Информационе и комуникационе технологије,Уписани на мастер студије,M,83
+2018,Број,Здравство и социјална заштита,Уписани на мастер студије,M,12
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,M,98
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,M,163
+2018,Број,"Пословање, администрација и право",Уписани на мастер студије,M,85
+2018,Број,Образовање,Уписани на мастер студије,M,103
+2018,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,M,133
+2018,Број,Услуге,Уписани на мастер студије,M,3
+2018,Број,Укупно,Уписани на мастер студије,Ж,1207
+2018,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Ж,48
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Ж,133
+2018,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Ж,37
+2018,Број,Здравство и социјална заштита,Уписани на мастер студије,Ж,30
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Ж,91
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Ж,340
+2018,Број,"Пословање, администрација и право",Уписани на мастер студије,Ж,155
+2018,Број,Образовање,Уписани на мастер студије,Ж,211
+2018,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Ж,158
+2018,Број,Услуге,Уписани на мастер студије,Ж,4
+2018,Број,Укупно,Уписани на специјалистичке студије,Оба пола,160
+2018,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Оба пола,0
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Оба пола,0
+2018,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Оба пола,0
+2018,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Оба пола,156
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Оба пола,0
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Оба пола,1
+2018,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Оба пола,0
+2018,Број,Образовање,Уписани на специјалистичке студије,Оба пола,2
+2018,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Оба пола,1
+2018,Број,Услуге,Уписани на специјалистичке студије,Оба пола,0
+2018,Број,Укупно,Уписани на специјалистичке студије,M,66
+2018,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,M,0
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,M,0
+2018,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,M,0
+2018,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,M,64
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,M,0
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,M,1
+2018,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,M,0
+2018,Број,Образовање,Уписани на специјалистичке студије,M,0
+2018,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,M,1
+2018,Број,Услуге,Уписани на специјалистичке студије,M,0
+2018,Број,Укупно,Уписани на специјалистичке студије,Ж,94
+2018,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Ж,0
+2018,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Ж,0
+2018,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Ж,0
+2018,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Ж,92
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Ж,0
+2018,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Ж,0
+2018,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Ж,0
+2018,Број,Образовање,Уписани на специјалистичке студије,Ж,2
+2018,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Ж,0
+2018,Број,Услуге,Уписани на специјалистичке студије,Ж,0
 2019,Број,Укупно,enrolled_in_master_of_science_studies,Оба пола,16
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Оба пола,13
-2019,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Оба пола,0
-2019,Број,education,enrolled_in_master_of_science_studies,Оба пола,2
-2019,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Оба пола,1
-2019,Број,services,enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Оба пола,13
+2019,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Оба пола,0
+2019,Број,Образовање,enrolled_in_master_of_science_studies,Оба пола,2
+2019,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Оба пола,1
+2019,Број,Услуге,enrolled_in_master_of_science_studies,Оба пола,0
 2019,Број,Укупно,enrolled_in_master_of_science_studies,M,12
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,10
-2019,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
-2019,Број,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,0
-2019,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,0
-2019,Број,education,enrolled_in_master_of_science_studies,M,1
-2019,Број,arts_and_humanities,enrolled_in_master_of_science_studies,M,1
-2019,Број,services,enrolled_in_master_of_science_studies,M,0
+2019,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,M,0
+2019,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,M,10
+2019,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,M,0
+2019,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,M,0
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,M,0
+2019,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,M,0
+2019,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,M,0
+2019,Број,Образовање,enrolled_in_master_of_science_studies,M,1
+2019,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,M,1
+2019,Број,Услуге,enrolled_in_master_of_science_studies,M,0
 2019,Број,Укупно,enrolled_in_master_of_science_studies,Ж,4
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ж,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ж,3
-2019,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ж,0
-2019,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Ж,0
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Ж,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Ж,0
-2019,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Ж,0
-2019,Број,education,enrolled_in_master_of_science_studies,Ж,1
-2019,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Ж,0
-2019,Број,services,enrolled_in_master_of_science_studies,Ж,0
-2019,Број,Укупно,enrolled_in_master_studies,Оба пола,2109
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Оба пола,79
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Оба пола,394
-2019,Број,information_and_communication_technologies,enrolled_in_master_studies,Оба пола,80
-2019,Број,health_and_social_protection,enrolled_in_master_studies,Оба пола,45
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Оба пола,188
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Оба пола,492
-2019,Број,"business,_administration_and_law",enrolled_in_master_studies,Оба пола,236
-2019,Број,education,enrolled_in_master_studies,Оба пола,298
-2019,Број,arts_and_humanities,enrolled_in_master_studies,Оба пола,291
-2019,Број,services,enrolled_in_master_studies,Оба пола,6
-2019,Број,Укупно,enrolled_in_master_studies,M,930
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,22
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_studies,M,243
-2019,Број,information_and_communication_technologies,enrolled_in_master_studies,M,59
-2019,Број,health_and_social_protection,enrolled_in_master_studies,M,10
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,M,98
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,160
-2019,Број,"business,_administration_and_law",enrolled_in_master_studies,M,89
-2019,Број,education,enrolled_in_master_studies,M,104
-2019,Број,arts_and_humanities,enrolled_in_master_studies,M,142
-2019,Број,services,enrolled_in_master_studies,M,3
-2019,Број,Укупно,enrolled_in_master_studies,Ж,1179
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ж,57
-2019,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Ж,151
-2019,Број,information_and_communication_technologies,enrolled_in_master_studies,Ж,21
-2019,Број,health_and_social_protection,enrolled_in_master_studies,Ж,35
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Ж,90
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Ж,332
-2019,Број,"business,_administration_and_law",enrolled_in_master_studies,Ж,147
-2019,Број,education,enrolled_in_master_studies,Ж,194
-2019,Број,arts_and_humanities,enrolled_in_master_studies,Ж,149
-2019,Број,services,enrolled_in_master_studies,Ж,3
-2019,Број,Укупно,enrolled_in_specialist_studies,Оба пола,170
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Оба пола,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Оба пола,0
-2019,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Оба пола,0
-2019,Број,health_and_social_protection,enrolled_in_specialist_studies,Оба пола,170
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Оба пола,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Оба пола,0
-2019,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Оба пола,0
-2019,Број,education,enrolled_in_specialist_studies,Оба пола,0
-2019,Број,arts_and_humanities,enrolled_in_specialist_studies,Оба пола,0
-2019,Број,services,enrolled_in_specialist_studies,Оба пола,0
-2019,Број,Укупно,enrolled_in_specialist_studies,M,72
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
-2019,Број,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
-2019,Број,health_and_social_protection,enrolled_in_specialist_studies,M,72
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,M,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,0
-2019,Број,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
-2019,Број,education,enrolled_in_specialist_studies,M,0
-2019,Број,arts_and_humanities,enrolled_in_specialist_studies,M,0
-2019,Број,services,enrolled_in_specialist_studies,M,0
-2019,Број,Укупно,enrolled_in_specialist_studies,Ж,98
-2019,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ж,0
-2019,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ж,0
-2019,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Ж,0
-2019,Број,health_and_social_protection,enrolled_in_specialist_studies,Ж,98
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Ж,0
-2019,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Ж,0
-2019,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Ж,0
-2019,Број,education,enrolled_in_specialist_studies,Ж,0
-2019,Број,arts_and_humanities,enrolled_in_specialist_studies,Ж,0
-2019,Број,services,enrolled_in_specialist_studies,Ж,0
+2019,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Ж,0
+2019,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Ж,3
+2019,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Ж,0
+2019,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Ж,0
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Ж,0
+2019,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Ж,0
+2019,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Ж,0
+2019,Број,Образовање,enrolled_in_master_of_science_studies,Ж,1
+2019,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Ж,0
+2019,Број,Услуге,enrolled_in_master_of_science_studies,Ж,0
+2019,Број,Укупно,Уписани на мастер студије,Оба пола,2109
+2019,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Оба пола,79
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Оба пола,394
+2019,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Оба пола,80
+2019,Број,Здравство и социјална заштита,Уписани на мастер студије,Оба пола,45
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Оба пола,188
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Оба пола,492
+2019,Број,"Пословање, администрација и право",Уписани на мастер студије,Оба пола,236
+2019,Број,Образовање,Уписани на мастер студије,Оба пола,298
+2019,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Оба пола,291
+2019,Број,Услуге,Уписани на мастер студије,Оба пола,6
+2019,Број,Укупно,Уписани на мастер студије,M,930
+2019,Број,"Природне науке, математика и статистика",Уписани на мастер студије,M,22
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,M,243
+2019,Број,Информационе и комуникационе технологије,Уписани на мастер студије,M,59
+2019,Број,Здравство и социјална заштита,Уписани на мастер студије,M,10
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,M,98
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,M,160
+2019,Број,"Пословање, администрација и право",Уписани на мастер студије,M,89
+2019,Број,Образовање,Уписани на мастер студије,M,104
+2019,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,M,142
+2019,Број,Услуге,Уписани на мастер студије,M,3
+2019,Број,Укупно,Уписани на мастер студије,Ж,1179
+2019,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Ж,57
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Ж,151
+2019,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Ж,21
+2019,Број,Здравство и социјална заштита,Уписани на мастер студије,Ж,35
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Ж,90
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Ж,332
+2019,Број,"Пословање, администрација и право",Уписани на мастер студије,Ж,147
+2019,Број,Образовање,Уписани на мастер студије,Ж,194
+2019,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Ж,149
+2019,Број,Услуге,Уписани на мастер студије,Ж,3
+2019,Број,Укупно,Уписани на специјалистичке студије,Оба пола,170
+2019,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Оба пола,0
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Оба пола,170
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Оба пола,0
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Оба пола,0
+2019,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Образовање,Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Услуге,Уписани на специјалистичке студије,Оба пола,0
+2019,Број,Укупно,Уписани на специјалистичке студије,M,72
+2019,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,M,0
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,M,0
+2019,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,M,0
+2019,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,M,72
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,M,0
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,M,0
+2019,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,M,0
+2019,Број,Образовање,Уписани на специјалистичке студије,M,0
+2019,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,M,0
+2019,Број,Услуге,Уписани на специјалистичке студије,M,0
+2019,Број,Укупно,Уписани на специјалистичке студије,Ж,98
+2019,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Ж,0
+2019,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Ж,0
+2019,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Ж,0
+2019,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Ж,98
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Ж,0
+2019,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Ж,0
+2019,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Ж,0
+2019,Број,Образовање,Уписани на специјалистичке студије,Ж,0
+2019,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Ж,0
+2019,Број,Услуге,Уписани на специјалистичке студије,Ж,0
 2020,Број,Укупно,enrolled_in_master_of_science_studies,Оба пола,4
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Оба пола,2
-2020,Број,education,enrolled_in_master_of_science_studies,Оба пола,2
-2020,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Оба пола,0
-2020,Број,services,enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Оба пола,2
+2020,Број,Образовање,enrolled_in_master_of_science_studies,Оба пола,2
+2020,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Оба пола,0
+2020,Број,Услуге,enrolled_in_master_of_science_studies,Оба пола,0
 2020,Број,Укупно,enrolled_in_master_of_science_studies,M,3
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
-2020,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
-2020,Број,health_and_social_protection,enrolled_in_master_of_science_studies,M,0
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,M,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,M,0
-2020,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,M,1
-2020,Број,education,enrolled_in_master_of_science_studies,M,2
-2020,Број,arts_and_humanities,enrolled_in_master_of_science_studies,M,0
-2020,Број,services,enrolled_in_master_of_science_studies,M,0
+2020,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,M,0
+2020,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,M,0
+2020,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,M,0
+2020,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,M,0
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,M,0
+2020,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,M,0
+2020,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,M,1
+2020,Број,Образовање,enrolled_in_master_of_science_studies,M,2
+2020,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,M,0
+2020,Број,Услуге,enrolled_in_master_of_science_studies,M,0
 2020,Број,Укупно,enrolled_in_master_of_science_studies,Ж,1
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ж,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ж,0
-2020,Број,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ж,0
-2020,Број,health_and_social_protection,enrolled_in_master_of_science_studies,Ж,0
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Ж,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Ж,0
-2020,Број,"business,_administration_and_law",enrolled_in_master_of_science_studies,Ж,1
-2020,Број,education,enrolled_in_master_of_science_studies,Ж,0
-2020,Број,arts_and_humanities,enrolled_in_master_of_science_studies,Ж,0
-2020,Број,services,enrolled_in_master_of_science_studies,Ж,0
-2020,Број,Укупно,enrolled_in_master_studies,Оба пола,2430
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Оба пола,93
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Оба пола,399
-2020,Број,information_and_communication_technologies,enrolled_in_master_studies,Оба пола,117
-2020,Број,health_and_social_protection,enrolled_in_master_studies,Оба пола,52
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Оба пола,216
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Оба пола,619
-2020,Број,"business,_administration_and_law",enrolled_in_master_studies,Оба пола,216
-2020,Број,education,enrolled_in_master_studies,Оба пола,381
-2020,Број,arts_and_humanities,enrolled_in_master_studies,Оба пола,328
-2020,Број,services,enrolled_in_master_studies,Оба пола,9
-2020,Број,Укупно,enrolled_in_master_studies,M,1036
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,26
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_studies,M,252
-2020,Број,information_and_communication_technologies,enrolled_in_master_studies,M,82
-2020,Број,health_and_social_protection,enrolled_in_master_studies,M,10
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,M,119
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,M,194
-2020,Број,"business,_administration_and_law",enrolled_in_master_studies,M,79
-2020,Број,education,enrolled_in_master_studies,M,129
-2020,Број,arts_and_humanities,enrolled_in_master_studies,M,142
-2020,Број,services,enrolled_in_master_studies,M,3
-2020,Број,Укупно,enrolled_in_master_studies,Ж,1394
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ж,67
-2020,Број,"engineering,_production_and_construction",enrolled_in_master_studies,Ж,147
-2020,Број,information_and_communication_technologies,enrolled_in_master_studies,Ж,35
-2020,Број,health_and_social_protection,enrolled_in_master_studies,Ж,42
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Ж,97
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Ж,425
-2020,Број,"business,_administration_and_law",enrolled_in_master_studies,Ж,137
-2020,Број,education,enrolled_in_master_studies,Ж,252
-2020,Број,arts_and_humanities,enrolled_in_master_studies,Ж,186
-2020,Број,services,enrolled_in_master_studies,Ж,6
-2020,Број,Укупно,enrolled_in_specialist_studies,Оба пола,170
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Оба пола,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Оба пола,0
-2020,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Оба пола,0
-2020,Број,health_and_social_protection,enrolled_in_specialist_studies,Оба пола,170
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Оба пола,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Оба пола,0
-2020,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Оба пола,0
-2020,Број,education,enrolled_in_specialist_studies,Оба пола,0
-2020,Број,arts_and_humanities,enrolled_in_specialist_studies,Оба пола,0
-2020,Број,services,enrolled_in_specialist_studies,Оба пола,0
-2020,Број,Укупно,enrolled_in_specialist_studies,M,39
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
-2020,Број,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
-2020,Број,health_and_social_protection,enrolled_in_specialist_studies,M,39
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,M,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,M,0
-2020,Број,"business,_administration_and_law",enrolled_in_specialist_studies,M,0
-2020,Број,education,enrolled_in_specialist_studies,M,0
-2020,Број,arts_and_humanities,enrolled_in_specialist_studies,M,0
-2020,Број,services,enrolled_in_specialist_studies,M,0
-2020,Број,Укупно,enrolled_in_specialist_studies,Ж,131
-2020,Број,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ж,0
-2020,Број,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ж,0
-2020,Број,information_and_communication_technologies,enrolled_in_specialist_studies,Ж,0
-2020,Број,health_and_social_protection,enrolled_in_specialist_studies,Ж,131
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Ж,0
-2020,Број,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Ж,0
-2020,Број,"business,_administration_and_law",enrolled_in_specialist_studies,Ж,0
-2020,Број,education,enrolled_in_specialist_studies,Ж,0
-2020,Број,arts_and_humanities,enrolled_in_specialist_studies,Ж,0
-2020,Број,services,enrolled_in_specialist_studies,Ж,0
+2020,Број,"Природне науке, математика и статистика",enrolled_in_master_of_science_studies,Ж,0
+2020,Број,"Инжeњерство, производња и грађевинарство",enrolled_in_master_of_science_studies,Ж,0
+2020,Број,Информационе и комуникационе технологије,enrolled_in_master_of_science_studies,Ж,0
+2020,Број,Здравство и социјална заштита,enrolled_in_master_of_science_studies,Ж,0
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",enrolled_in_master_of_science_studies,Ж,0
+2020,Број,"Друштвене науке, новинарство и информисање",enrolled_in_master_of_science_studies,Ж,0
+2020,Број,"Пословање, администрација и право",enrolled_in_master_of_science_studies,Ж,1
+2020,Број,Образовање,enrolled_in_master_of_science_studies,Ж,0
+2020,Број,Умјетност и хуманистичке науке,enrolled_in_master_of_science_studies,Ж,0
+2020,Број,Услуге,enrolled_in_master_of_science_studies,Ж,0
+2020,Број,Укупно,Уписани на мастер студије,Оба пола,2430
+2020,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Оба пола,93
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Оба пола,399
+2020,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Оба пола,117
+2020,Број,Здравство и социјална заштита,Уписани на мастер студије,Оба пола,52
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Оба пола,216
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Оба пола,619
+2020,Број,"Пословање, администрација и право",Уписани на мастер студије,Оба пола,216
+2020,Број,Образовање,Уписани на мастер студије,Оба пола,381
+2020,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Оба пола,328
+2020,Број,Услуге,Уписани на мастер студије,Оба пола,9
+2020,Број,Укупно,Уписани на мастер студије,M,1036
+2020,Број,"Природне науке, математика и статистика",Уписани на мастер студије,M,26
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,M,252
+2020,Број,Информационе и комуникационе технологије,Уписани на мастер студије,M,82
+2020,Број,Здравство и социјална заштита,Уписани на мастер студије,M,10
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,M,119
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,M,194
+2020,Број,"Пословање, администрација и право",Уписани на мастер студије,M,79
+2020,Број,Образовање,Уписани на мастер студије,M,129
+2020,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,M,142
+2020,Број,Услуге,Уписани на мастер студије,M,3
+2020,Број,Укупно,Уписани на мастер студије,Ж,1394
+2020,Број,"Природне науке, математика и статистика",Уписани на мастер студије,Ж,67
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на мастер студије,Ж,147
+2020,Број,Информационе и комуникационе технологије,Уписани на мастер студије,Ж,35
+2020,Број,Здравство и социјална заштита,Уписани на мастер студије,Ж,42
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на мастер студије,Ж,97
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на мастер студије,Ж,425
+2020,Број,"Пословање, администрација и право",Уписани на мастер студије,Ж,137
+2020,Број,Образовање,Уписани на мастер студије,Ж,252
+2020,Број,Умјетност и хуманистичке науке,Уписани на мастер студије,Ж,186
+2020,Број,Услуге,Уписани на мастер студије,Ж,6
+2020,Број,Укупно,Уписани на специјалистичке студије,Оба пола,170
+2020,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Оба пола,0
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Оба пола,170
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Оба пола,0
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Оба пола,0
+2020,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Образовање,Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Услуге,Уписани на специјалистичке студије,Оба пола,0
+2020,Број,Укупно,Уписани на специјалистичке студије,M,39
+2020,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,M,0
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,M,0
+2020,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,M,0
+2020,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,M,39
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,M,0
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,M,0
+2020,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,M,0
+2020,Број,Образовање,Уписани на специјалистичке студије,M,0
+2020,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,M,0
+2020,Број,Услуге,Уписани на специјалистичке студије,M,0
+2020,Број,Укупно,Уписани на специјалистичке студије,Ж,131
+2020,Број,"Природне науке, математика и статистика",Уписани на специјалистичке студије,Ж,0
+2020,Број,"Инжeњерство, производња и грађевинарство",Уписани на специјалистичке студије,Ж,0
+2020,Број,Информационе и комуникационе технологије,Уписани на специјалистичке студије,Ж,0
+2020,Број,Здравство и социјална заштита,Уписани на специјалистичке студије,Ж,131
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",Уписани на специјалистичке студије,Ж,0
+2020,Број,"Друштвене науке, новинарство и информисање",Уписани на специјалистичке студије,Ж,0
+2020,Број,"Пословање, администрација и право",Уписани на специјалистичке студије,Ж,0
+2020,Број,Образовање,Уписани на специјалистичке студије,Ж,0
+2020,Број,Умјетност и хуманистичке науке,Уписани на специјалистичке студије,Ж,0
+2020,Број,Услуге,Уписани на специјалистичке студије,Ж,0

@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_education",
@@ -38,18 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -57,5 +57,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-3",
-  "title": "Magistri nauka, masteri i specijalisti prema polu"
+  "title": "Magistri nauka, masteri i specijalisti prema spolu"
 }

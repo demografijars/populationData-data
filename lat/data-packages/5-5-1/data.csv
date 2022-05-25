@@ -1,9 +1,9 @@
-Year,UNIT_MEASURE,type_of_education,Pol,Value
-2016,Broj,enrolled_in_master_of_science_studies,Oba pola,59
-2017,Broj,enrolled_in_master_of_science_studies,Oba pola,31
-2018,Broj,enrolled_in_master_of_science_studies,Oba pola,14
-2019,Broj,enrolled_in_master_of_science_studies,Oba pola,16
-2020,Broj,enrolled_in_master_of_science_studies,Oba pola,4
+Year,UNIT_MEASURE,type_of_education,Spol,Value
+2016,Broj,enrolled_in_master_of_science_studies,Oba spola,59
+2017,Broj,enrolled_in_master_of_science_studies,Oba spola,31
+2018,Broj,enrolled_in_master_of_science_studies,Oba spola,14
+2019,Broj,enrolled_in_master_of_science_studies,Oba spola,16
+2020,Broj,enrolled_in_master_of_science_studies,Oba spola,4
 2016,Broj,enrolled_in_master_of_science_studies,M,37
 2017,Broj,enrolled_in_master_of_science_studies,M,21
 2018,Broj,enrolled_in_master_of_science_studies,M,6
@@ -14,11 +14,11 @@ Year,UNIT_MEASURE,type_of_education,Pol,Value
 2018,Broj,enrolled_in_master_of_science_studies,Ž,8
 2019,Broj,enrolled_in_master_of_science_studies,Ž,4
 2020,Broj,enrolled_in_master_of_science_studies,Ž,1
-2016,Broj,enrolled_in_master_studies,Oba pola,2456
-2017,Broj,enrolled_in_master_studies,Oba pola,2140
-2018,Broj,enrolled_in_master_studies,Oba pola,2144
-2019,Broj,enrolled_in_master_studies,Oba pola,2109
-2020,Broj,enrolled_in_master_studies,Oba pola,2430
+2016,Broj,enrolled_in_master_studies,Oba spola,2456
+2017,Broj,enrolled_in_master_studies,Oba spola,2140
+2018,Broj,enrolled_in_master_studies,Oba spola,2144
+2019,Broj,enrolled_in_master_studies,Oba spola,2109
+2020,Broj,enrolled_in_master_studies,Oba spola,2430
 2016,Broj,enrolled_in_master_studies,M,1048
 2017,Broj,enrolled_in_master_studies,M,917
 2018,Broj,enrolled_in_master_studies,M,937
@@ -29,11 +29,11 @@ Year,UNIT_MEASURE,type_of_education,Pol,Value
 2018,Broj,enrolled_in_master_studies,Ž,1207
 2019,Broj,enrolled_in_master_studies,Ž,1179
 2020,Broj,enrolled_in_master_studies,Ž,1394
-2016,Broj,enrolled_in_specialist_studies,Oba pola,71
-2017,Broj,enrolled_in_specialist_studies,Oba pola,73
-2018,Broj,enrolled_in_specialist_studies,Oba pola,160
-2019,Broj,enrolled_in_specialist_studies,Oba pola,170
-2020,Broj,enrolled_in_specialist_studies,Oba pola,170
+2016,Broj,enrolled_in_specialist_studies,Oba spola,71
+2017,Broj,enrolled_in_specialist_studies,Oba spola,73
+2018,Broj,enrolled_in_specialist_studies,Oba spola,160
+2019,Broj,enrolled_in_specialist_studies,Oba spola,170
+2020,Broj,enrolled_in_specialist_studies,Oba spola,170
 2016,Broj,enrolled_in_specialist_studies,M,28
 2017,Broj,enrolled_in_specialist_studies,M,34
 2018,Broj,enrolled_in_specialist_studies,M,66

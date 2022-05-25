@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,scientific_field,Pol,Value
-2017,Broj,Ukupno,Oba pola,534
-2017,Broj,"social_sciences,_journalism_and_information",Oba pola,100
-2017,Broj,arts_and_humanities,Oba pola,100
-2017,Broj,information_and_communication_technologies,Oba pola,17
-2017,Broj,"engineering,_production_and_construction",Oba pola,32
-2017,Broj,education,Oba pola,51
-2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba pola,20
-2017,Broj,"business,_administration_and_law",Oba pola,80
-2017,Broj,"natural_sciences,_mathematics_and_statistics",Oba pola,15
-2017,Broj,services,Oba pola,1
-2017,Broj,health_and_social_protection,Oba pola,118
-2017,Broj,Ukupno,M,252
+Year,UNIT_MEASURE,scientific_field,Spol,Value
+2017,Broj,total,Oba spola,534
+2017,Broj,"social_sciences,_journalism_and_information",Oba spola,100
+2017,Broj,arts_and_humanities,Oba spola,100
+2017,Broj,information_and_communication_technologies,Oba spola,17
+2017,Broj,"engineering,_production_and_construction",Oba spola,32
+2017,Broj,education,Oba spola,51
+2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba spola,20
+2017,Broj,"business,_administration_and_law",Oba spola,80
+2017,Broj,"natural_sciences,_mathematics_and_statistics",Oba spola,15
+2017,Broj,services,Oba spola,1
+2017,Broj,health_and_social_protection,Oba spola,118
+2017,Broj,total,M,252
 2017,Broj,"social_sciences,_journalism_and_information",M,45
 2017,Broj,arts_and_humanities,M,49
 2017,Broj,information_and_communication_technologies,M,14
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2017,Broj,"natural_sciences,_mathematics_and_statistics",M,6
 2017,Broj,services,M,1
 2017,Broj,health_and_social_protection,M,48
-2017,Broj,Ukupno,Ž,282
+2017,Broj,total,Ž,282
 2017,Broj,"social_sciences,_journalism_and_information",Ž,55
 2017,Broj,arts_and_humanities,Ž,51
 2017,Broj,information_and_communication_technologies,Ž,3
@@ -32,18 +32,18 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2017,Broj,"natural_sciences,_mathematics_and_statistics",Ž,9
 2017,Broj,services,Ž,0
 2017,Broj,health_and_social_protection,Ž,70
-2018,Broj,Ukupno,Oba pola,530
-2018,Broj,"social_sciences,_journalism_and_information",Oba pola,101
-2018,Broj,arts_and_humanities,Oba pola,76
-2018,Broj,information_and_communication_technologies,Oba pola,22
-2018,Broj,"engineering,_production_and_construction",Oba pola,33
-2018,Broj,education,Oba pola,55
-2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba pola,27
-2018,Broj,"business,_administration_and_law",Oba pola,67
-2018,Broj,"natural_sciences,_mathematics_and_statistics",Oba pola,23
-2018,Broj,services,Oba pola,3
-2018,Broj,health_and_social_protection,Oba pola,123
-2018,Broj,Ukupno,M,322
+2018,Broj,total,Oba spola,530
+2018,Broj,"social_sciences,_journalism_and_information",Oba spola,101
+2018,Broj,arts_and_humanities,Oba spola,76
+2018,Broj,information_and_communication_technologies,Oba spola,22
+2018,Broj,"engineering,_production_and_construction",Oba spola,33
+2018,Broj,education,Oba spola,55
+2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba spola,27
+2018,Broj,"business,_administration_and_law",Oba spola,67
+2018,Broj,"natural_sciences,_mathematics_and_statistics",Oba spola,23
+2018,Broj,services,Oba spola,3
+2018,Broj,health_and_social_protection,Oba spola,123
+2018,Broj,total,M,322
 2018,Broj,"social_sciences,_journalism_and_information",M,64
 2018,Broj,arts_and_humanities,M,46
 2018,Broj,information_and_communication_technologies,M,5
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2018,Broj,"natural_sciences,_mathematics_and_statistics",M,18
 2018,Broj,services,M,3
 2018,Broj,health_and_social_protection,M,85
-2018,Broj,Ukupno,Ž,208
+2018,Broj,total,Ž,208
 2018,Broj,"social_sciences,_journalism_and_information",Ž,37
 2018,Broj,arts_and_humanities,Ž,30
 2018,Broj,information_and_communication_technologies,Ž,17
@@ -65,18 +65,18 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2018,Broj,"natural_sciences,_mathematics_and_statistics",Ž,5
 2018,Broj,services,Ž,0
 2018,Broj,health_and_social_protection,Ž,38
-2019,Broj,Ukupno,Oba pola,466
-2019,Broj,"social_sciences,_journalism_and_information",Oba pola,148
-2019,Broj,arts_and_humanities,Oba pola,59
-2019,Broj,information_and_communication_technologies,Oba pola,10
-2019,Broj,"engineering,_production_and_construction",Oba pola,30
-2019,Broj,education,Oba pola,48
-2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba pola,11
-2019,Broj,"business,_administration_and_law",Oba pola,35
-2019,Broj,"natural_sciences,_mathematics_and_statistics",Oba pola,24
-2019,Broj,services,Oba pola,1
-2019,Broj,health_and_social_protection,Oba pola,100
-2019,Broj,Ukupno,M,188
+2019,Broj,total,Oba spola,466
+2019,Broj,"social_sciences,_journalism_and_information",Oba spola,148
+2019,Broj,arts_and_humanities,Oba spola,59
+2019,Broj,information_and_communication_technologies,Oba spola,10
+2019,Broj,"engineering,_production_and_construction",Oba spola,30
+2019,Broj,education,Oba spola,48
+2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba spola,11
+2019,Broj,"business,_administration_and_law",Oba spola,35
+2019,Broj,"natural_sciences,_mathematics_and_statistics",Oba spola,24
+2019,Broj,services,Oba spola,1
+2019,Broj,health_and_social_protection,Oba spola,100
+2019,Broj,total,M,188
 2019,Broj,"social_sciences,_journalism_and_information",M,65
 2019,Broj,arts_and_humanities,M,21
 2019,Broj,information_and_communication_technologies,M,6
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2019,Broj,"natural_sciences,_mathematics_and_statistics",M,9
 2019,Broj,services,M,1
 2019,Broj,health_and_social_protection,M,36
-2019,Broj,Ukupno,Ž,278
+2019,Broj,total,Ž,278
 2019,Broj,"social_sciences,_journalism_and_information",Ž,83
 2019,Broj,arts_and_humanities,Ž,38
 2019,Broj,information_and_communication_technologies,Ž,4
@@ -98,18 +98,18 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2019,Broj,"natural_sciences,_mathematics_and_statistics",Ž,15
 2019,Broj,services,Ž,0
 2019,Broj,health_and_social_protection,Ž,64
-2020,Broj,Ukupno,Oba pola,384
-2020,Broj,"social_sciences,_journalism_and_information",Oba pola,86
-2020,Broj,arts_and_humanities,Oba pola,65
-2020,Broj,information_and_communication_technologies,Oba pola,11
-2020,Broj,"engineering,_production_and_construction",Oba pola,30
-2020,Broj,education,Oba pola,29
-2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba pola,20
-2020,Broj,"business,_administration_and_law",Oba pola,28
-2020,Broj,"natural_sciences,_mathematics_and_statistics",Oba pola,20
-2020,Broj,services,Oba pola,0
-2020,Broj,health_and_social_protection,Oba pola,95
-2020,Broj,Ukupno,M,156
+2020,Broj,total,Oba spola,384
+2020,Broj,"social_sciences,_journalism_and_information",Oba spola,86
+2020,Broj,arts_and_humanities,Oba spola,65
+2020,Broj,information_and_communication_technologies,Oba spola,11
+2020,Broj,"engineering,_production_and_construction",Oba spola,30
+2020,Broj,education,Oba spola,29
+2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",Oba spola,20
+2020,Broj,"business,_administration_and_law",Oba spola,28
+2020,Broj,"natural_sciences,_mathematics_and_statistics",Oba spola,20
+2020,Broj,services,Oba spola,0
+2020,Broj,health_and_social_protection,Oba spola,95
+2020,Broj,total,M,156
 2020,Broj,"social_sciences,_journalism_and_information",M,41
 2020,Broj,arts_and_humanities,M,20
 2020,Broj,information_and_communication_technologies,M,9
@@ -120,7 +120,7 @@ Year,UNIT_MEASURE,scientific_field,Pol,Value
 2020,Broj,"natural_sciences,_mathematics_and_statistics",M,6
 2020,Broj,services,M,0
 2020,Broj,health_and_social_protection,M,32
-2020,Broj,Ukupno,Ž,228
+2020,Broj,total,Ž,228
 2020,Broj,"social_sciences,_journalism_and_information",Ž,45
 2020,Broj,arts_and_humanities,Ž,45
 2020,Broj,information_and_communication_technologies,Ž,2

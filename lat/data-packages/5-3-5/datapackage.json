@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "5-3-5",
-  "title": "Broj nastavnika u srednjim školama prema polu"
+  "title": "Broj nastavnika u srednjim školama prema spolu"
 }

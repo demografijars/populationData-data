@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Javna",
-                "Privatna",
+                "total",
+                "public",
+                "private",
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "type_of_institution"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

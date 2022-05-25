@@ -13,22 +13,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gimnazija",
+                "gymnasium",
                 "technical_high_schools",
                 "vocational_high_schools",
-                "Umjetničke škole",
+                "art_schools",
                 "religious_schools",
                 "high_schools_for_students_with_disabilities",
                 ""
@@ -39,7 +39,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

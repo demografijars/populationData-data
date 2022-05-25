@@ -13,17 +13,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -31,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-6",
-  "title": "Broj doktora porodične medicine uposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
+  "title": "Broj doktora opšte medicine uposlenih u ustanovama za pružanje zdravstvene zaštite na 100.000 stanovnika"
 }

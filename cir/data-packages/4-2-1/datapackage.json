@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "Укупно",
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Установе за дјецу и омладину",
+                "Установе за одрасле",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Врста корисника"
           },
           {
             "name": "Value",

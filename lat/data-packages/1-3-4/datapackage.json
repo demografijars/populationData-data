@@ -13,61 +13,61 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "(A00-B99) Zarazne i parazitske bolesti",
-                "(C00-C97,D00-D48) Neoplazme",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
-                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
-                "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H59) Bolesti oka i pripojka oka",
-                "(H60–H93) Bolesti uva i mastoidnog nastavka",
-                "(I00-I99) Bolesti cirkulatornog sistema",
-                "(J00-J99) Bolesti respiratornog sistema",
-                "(K00-K93) Bolesti digestivnog sistema",
-                "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(N00-N99) Bolesti genitourinarnog sistema",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
-                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",
-                "(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",
-                "(U00-U85) Šifre za posebne namjene",
+                "total",
+                "infectious_and_parasitic",
+                "neoplasms",
+                "diseases_of_the_blood",
+                "endocrine_metabolic_and_nutritional",
+                "mental_and_behavioural_disorders",
+                "diseases_of_the_nervous",
+                "diseases_of_the_eye",
+                "diseases_of_the_ear",
+                "diseases_of_the_circulatory",
+                "diseases_of_the_respiratory",
+                "diseases_of_the_digestive",
+                "diseases_of_the_skin",
+                "diseases_of_the_musculoskeletal",
+                "diseases_of_the_genitourinary",
+                "pregnancy_childbirth_and_the",
+                "certain_conditions_originating",
+                "congenital_malformations_deformations",
+                "symptoms_signs_and_abnormal",
+                "injuries_poisoning_and_consequences",
+                "special_purpose_codes",
                 ""
               ]
             },
-            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
+            "title": "CAUSE_OF_DEATH"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -75,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-4",
-  "title": "Umrli prema uzroku smrti i polu"
+  "title": "Umrli prema uzroku smrti i spolu"
 }

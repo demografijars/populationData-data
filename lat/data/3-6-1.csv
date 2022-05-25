@@ -1,10 +1,10 @@
 Year,UNIT_MEASURE,MICS_NUMBER,Value
-2000,% od ukupne vrijednosti,all_methods,45.1
-2006,% od ukupne vrijednosti,all_methods,40.7
-2011,% od ukupne vrijednosti,all_methods,53.7
-2000,% od ukupne vrijednosti,traditional_methods,29.4
-2006,% od ukupne vrijednosti,traditional_methods,31.2
-2011,% od ukupne vrijednosti,traditional_methods,36.9
-2000,% od ukupne vrijednosti,modern_methods,15.7
-2006,% od ukupne vrijednosti,modern_methods,9.4
-2011,% od ukupne vrijednosti,modern_methods,16.8
+2000,_%,all_methods,45.1
+2006,_%,all_methods,40.7
+2011,_%,all_methods,53.7
+2000,_%,traditional_methods,29.4
+2006,_%,traditional_methods,31.2
+2011,_%,traditional_methods,36.9
+2000,_%,modern_methods,15.7
+2006,_%,modern_methods,9.4
+2011,_%,modern_methods,16.8

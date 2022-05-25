@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "AGE",
@@ -25,17 +25,17 @@
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-5",
-  "title": "Broj porođaja adolescentkinja prema starosnim grupama"
+  "title": "Broj porođaja adolescentkinja prema dobnim skupinama"
 }

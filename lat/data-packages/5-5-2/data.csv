@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
-2017,Broj,Ukupno,enrolled_in_master_of_science_studies,Oba pola,2140
-2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba pola,67
-2017,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba pola,347
-2017,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba pola,99
-2017,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba pola,35
-2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba pola,206
-2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba pola,473
-2017,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba pola,356
-2017,Broj,education,enrolled_in_master_of_science_studies,Oba pola,236
-2017,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba pola,319
-2017,Broj,services,enrolled_in_master_of_science_studies,Oba pola,2
-2017,Broj,Ukupno,enrolled_in_master_of_science_studies,M,917
+Year,UNIT_MEASURE,scientific_field,type_of_education,Spol,Value
+2017,Broj,total,enrolled_in_master_of_science_studies,Oba spola,2140
+2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba spola,67
+2017,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba spola,347
+2017,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba spola,99
+2017,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba spola,35
+2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba spola,206
+2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba spola,473
+2017,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba spola,356
+2017,Broj,education,enrolled_in_master_of_science_studies,Oba spola,236
+2017,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba spola,319
+2017,Broj,services,enrolled_in_master_of_science_studies,Oba spola,2
+2017,Broj,total,enrolled_in_master_of_science_studies,M,917
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,26
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,208
 2017,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,80
@@ -21,7 +21,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_master_of_science_studies,M,39
 2017,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,M,142
 2017,Broj,services,enrolled_in_master_of_science_studies,M,0
-2017,Broj,Ukupno,enrolled_in_master_of_science_studies,Ž,1223
+2017,Broj,total,enrolled_in_master_of_science_studies,Ž,1223
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ž,41
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ž,139
 2017,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ž,19
@@ -32,18 +32,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_master_of_science_studies,Ž,197
 2017,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Ž,177
 2017,Broj,services,enrolled_in_master_of_science_studies,Ž,2
-2017,Broj,Ukupno,enrolled_in_master_studies,Oba pola,31
-2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba pola,1
-2017,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba pola,0
-2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba pola,22
-2017,Broj,health_and_social_protection,enrolled_in_master_studies,Oba pola,0
-2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba pola,0
-2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba pola,0
-2017,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba pola,2
-2017,Broj,education,enrolled_in_master_studies,Oba pola,1
-2017,Broj,arts_and_humanities,enrolled_in_master_studies,Oba pola,5
-2017,Broj,services,enrolled_in_master_studies,Oba pola,0
-2017,Broj,Ukupno,enrolled_in_master_studies,M,21
+2017,Broj,total,enrolled_in_master_studies,Oba spola,31
+2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,1
+2017,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,0
+2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,22
+2017,Broj,health_and_social_protection,enrolled_in_master_studies,Oba spola,0
+2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba spola,0
+2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba spola,0
+2017,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,2
+2017,Broj,education,enrolled_in_master_studies,Oba spola,1
+2017,Broj,arts_and_humanities,enrolled_in_master_studies,Oba spola,5
+2017,Broj,services,enrolled_in_master_studies,Oba spola,0
+2017,Broj,total,enrolled_in_master_studies,M,21
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,M,0
 2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,M,14
@@ -54,7 +54,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_master_studies,M,0
 2017,Broj,arts_and_humanities,enrolled_in_master_studies,M,5
 2017,Broj,services,enrolled_in_master_studies,M,0
-2017,Broj,Ukupno,enrolled_in_master_studies,Ž,10
+2017,Broj,total,enrolled_in_master_studies,Ž,10
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ž,1
 2017,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Ž,0
 2017,Broj,information_and_communication_technologies,enrolled_in_master_studies,Ž,8
@@ -65,18 +65,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_master_studies,Ž,1
 2017,Broj,arts_and_humanities,enrolled_in_master_studies,Ž,0
 2017,Broj,services,enrolled_in_master_studies,Ž,0
-2017,Broj,Ukupno,enrolled_in_specialist_studies,Oba pola,73
-2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba pola,71
-2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba pola,1
-2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba pola,1
-2017,Broj,education,enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,services,enrolled_in_specialist_studies,Oba pola,0
-2017,Broj,Ukupno,enrolled_in_specialist_studies,M,34
+2017,Broj,total,enrolled_in_specialist_studies,Oba spola,73
+2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba spola,71
+2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba spola,1
+2017,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba spola,1
+2017,Broj,education,enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,services,enrolled_in_specialist_studies,Oba spola,0
+2017,Broj,total,enrolled_in_specialist_studies,M,34
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -87,7 +87,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_specialist_studies,M,0
 2017,Broj,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2017,Broj,services,enrolled_in_specialist_studies,M,0
-2017,Broj,Ukupno,enrolled_in_specialist_studies,Ž,39
+2017,Broj,total,enrolled_in_specialist_studies,Ž,39
 2017,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2017,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2017,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -98,18 +98,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2017,Broj,education,enrolled_in_specialist_studies,Ž,0
 2017,Broj,arts_and_humanities,enrolled_in_specialist_studies,Ž,0
 2017,Broj,services,enrolled_in_specialist_studies,Ž,0
-2018,Broj,Ukupno,enrolled_in_master_of_science_studies,Oba pola,14
-2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba pola,1
-2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba pola,1
-2018,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,education,enrolled_in_master_of_science_studies,Oba pola,9
-2018,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba pola,3
-2018,Broj,services,enrolled_in_master_of_science_studies,Oba pola,0
-2018,Broj,Ukupno,enrolled_in_master_of_science_studies,M,6
+2018,Broj,total,enrolled_in_master_of_science_studies,Oba spola,14
+2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba spola,1
+2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba spola,1
+2018,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,education,enrolled_in_master_of_science_studies,Oba spola,9
+2018,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba spola,3
+2018,Broj,services,enrolled_in_master_of_science_studies,Oba spola,0
+2018,Broj,total,enrolled_in_master_of_science_studies,M,6
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
 2018,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
@@ -120,7 +120,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_master_of_science_studies,M,2
 2018,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,M,3
 2018,Broj,services,enrolled_in_master_of_science_studies,M,0
-2018,Broj,Ukupno,enrolled_in_master_of_science_studies,Ž,8
+2018,Broj,total,enrolled_in_master_of_science_studies,Ž,8
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ž,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ž,0
 2018,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ž,0
@@ -131,18 +131,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_master_of_science_studies,Ž,7
 2018,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Ž,0
 2018,Broj,services,enrolled_in_master_of_science_studies,Ž,0
-2018,Broj,Ukupno,enrolled_in_master_studies,Oba pola,2144
-2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba pola,76
-2018,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba pola,362
-2018,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba pola,120
-2018,Broj,health_and_social_protection,enrolled_in_master_studies,Oba pola,42
-2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba pola,189
-2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba pola,503
-2018,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba pola,240
-2018,Broj,education,enrolled_in_master_studies,Oba pola,314
-2018,Broj,arts_and_humanities,enrolled_in_master_studies,Oba pola,291
-2018,Broj,services,enrolled_in_master_studies,Oba pola,7
-2018,Broj,Ukupno,enrolled_in_master_studies,M,937
+2018,Broj,total,enrolled_in_master_studies,Oba spola,2144
+2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,76
+2018,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,362
+2018,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,120
+2018,Broj,health_and_social_protection,enrolled_in_master_studies,Oba spola,42
+2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba spola,189
+2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba spola,503
+2018,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,240
+2018,Broj,education,enrolled_in_master_studies,Oba spola,314
+2018,Broj,arts_and_humanities,enrolled_in_master_studies,Oba spola,291
+2018,Broj,services,enrolled_in_master_studies,Oba spola,7
+2018,Broj,total,enrolled_in_master_studies,M,937
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,28
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,M,229
 2018,Broj,information_and_communication_technologies,enrolled_in_master_studies,M,83
@@ -153,7 +153,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_master_studies,M,103
 2018,Broj,arts_and_humanities,enrolled_in_master_studies,M,133
 2018,Broj,services,enrolled_in_master_studies,M,3
-2018,Broj,Ukupno,enrolled_in_master_studies,Ž,1207
+2018,Broj,total,enrolled_in_master_studies,Ž,1207
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ž,48
 2018,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Ž,133
 2018,Broj,information_and_communication_technologies,enrolled_in_master_studies,Ž,37
@@ -164,18 +164,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_master_studies,Ž,211
 2018,Broj,arts_and_humanities,enrolled_in_master_studies,Ž,158
 2018,Broj,services,enrolled_in_master_studies,Ž,4
-2018,Broj,Ukupno,enrolled_in_specialist_studies,Oba pola,160
-2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba pola,156
-2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba pola,1
-2018,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,education,enrolled_in_specialist_studies,Oba pola,2
-2018,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba pola,1
-2018,Broj,services,enrolled_in_specialist_studies,Oba pola,0
-2018,Broj,Ukupno,enrolled_in_specialist_studies,M,66
+2018,Broj,total,enrolled_in_specialist_studies,Oba spola,160
+2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba spola,156
+2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba spola,1
+2018,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,education,enrolled_in_specialist_studies,Oba spola,2
+2018,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba spola,1
+2018,Broj,services,enrolled_in_specialist_studies,Oba spola,0
+2018,Broj,total,enrolled_in_specialist_studies,M,66
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -186,7 +186,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_specialist_studies,M,0
 2018,Broj,arts_and_humanities,enrolled_in_specialist_studies,M,1
 2018,Broj,services,enrolled_in_specialist_studies,M,0
-2018,Broj,Ukupno,enrolled_in_specialist_studies,Ž,94
+2018,Broj,total,enrolled_in_specialist_studies,Ž,94
 2018,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2018,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2018,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -197,18 +197,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2018,Broj,education,enrolled_in_specialist_studies,Ž,2
 2018,Broj,arts_and_humanities,enrolled_in_specialist_studies,Ž,0
 2018,Broj,services,enrolled_in_specialist_studies,Ž,0
-2019,Broj,Ukupno,enrolled_in_master_of_science_studies,Oba pola,16
-2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba pola,13
-2019,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,education,enrolled_in_master_of_science_studies,Oba pola,2
-2019,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba pola,1
-2019,Broj,services,enrolled_in_master_of_science_studies,Oba pola,0
-2019,Broj,Ukupno,enrolled_in_master_of_science_studies,M,12
+2019,Broj,total,enrolled_in_master_of_science_studies,Oba spola,16
+2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba spola,13
+2019,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,education,enrolled_in_master_of_science_studies,Oba spola,2
+2019,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba spola,1
+2019,Broj,services,enrolled_in_master_of_science_studies,Oba spola,0
+2019,Broj,total,enrolled_in_master_of_science_studies,M,12
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,10
 2019,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
@@ -219,7 +219,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_master_of_science_studies,M,1
 2019,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,M,1
 2019,Broj,services,enrolled_in_master_of_science_studies,M,0
-2019,Broj,Ukupno,enrolled_in_master_of_science_studies,Ž,4
+2019,Broj,total,enrolled_in_master_of_science_studies,Ž,4
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ž,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ž,3
 2019,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ž,0
@@ -230,18 +230,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_master_of_science_studies,Ž,1
 2019,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Ž,0
 2019,Broj,services,enrolled_in_master_of_science_studies,Ž,0
-2019,Broj,Ukupno,enrolled_in_master_studies,Oba pola,2109
-2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba pola,79
-2019,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba pola,394
-2019,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba pola,80
-2019,Broj,health_and_social_protection,enrolled_in_master_studies,Oba pola,45
-2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba pola,188
-2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba pola,492
-2019,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba pola,236
-2019,Broj,education,enrolled_in_master_studies,Oba pola,298
-2019,Broj,arts_and_humanities,enrolled_in_master_studies,Oba pola,291
-2019,Broj,services,enrolled_in_master_studies,Oba pola,6
-2019,Broj,Ukupno,enrolled_in_master_studies,M,930
+2019,Broj,total,enrolled_in_master_studies,Oba spola,2109
+2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,79
+2019,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,394
+2019,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,80
+2019,Broj,health_and_social_protection,enrolled_in_master_studies,Oba spola,45
+2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba spola,188
+2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba spola,492
+2019,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,236
+2019,Broj,education,enrolled_in_master_studies,Oba spola,298
+2019,Broj,arts_and_humanities,enrolled_in_master_studies,Oba spola,291
+2019,Broj,services,enrolled_in_master_studies,Oba spola,6
+2019,Broj,total,enrolled_in_master_studies,M,930
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,22
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,M,243
 2019,Broj,information_and_communication_technologies,enrolled_in_master_studies,M,59
@@ -252,7 +252,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_master_studies,M,104
 2019,Broj,arts_and_humanities,enrolled_in_master_studies,M,142
 2019,Broj,services,enrolled_in_master_studies,M,3
-2019,Broj,Ukupno,enrolled_in_master_studies,Ž,1179
+2019,Broj,total,enrolled_in_master_studies,Ž,1179
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ž,57
 2019,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Ž,151
 2019,Broj,information_and_communication_technologies,enrolled_in_master_studies,Ž,21
@@ -263,18 +263,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_master_studies,Ž,194
 2019,Broj,arts_and_humanities,enrolled_in_master_studies,Ž,149
 2019,Broj,services,enrolled_in_master_studies,Ž,3
-2019,Broj,Ukupno,enrolled_in_specialist_studies,Oba pola,170
-2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba pola,170
-2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,education,enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,services,enrolled_in_specialist_studies,Oba pola,0
-2019,Broj,Ukupno,enrolled_in_specialist_studies,M,72
+2019,Broj,total,enrolled_in_specialist_studies,Oba spola,170
+2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba spola,170
+2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,education,enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,services,enrolled_in_specialist_studies,Oba spola,0
+2019,Broj,total,enrolled_in_specialist_studies,M,72
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -285,7 +285,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_specialist_studies,M,0
 2019,Broj,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2019,Broj,services,enrolled_in_specialist_studies,M,0
-2019,Broj,Ukupno,enrolled_in_specialist_studies,Ž,98
+2019,Broj,total,enrolled_in_specialist_studies,Ž,98
 2019,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2019,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2019,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0
@@ -296,18 +296,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2019,Broj,education,enrolled_in_specialist_studies,Ž,0
 2019,Broj,arts_and_humanities,enrolled_in_specialist_studies,Ž,0
 2019,Broj,services,enrolled_in_specialist_studies,Ž,0
-2020,Broj,Ukupno,enrolled_in_master_of_science_studies,Oba pola,4
-2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba pola,2
-2020,Broj,education,enrolled_in_master_of_science_studies,Oba pola,2
-2020,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,services,enrolled_in_master_of_science_studies,Oba pola,0
-2020,Broj,Ukupno,enrolled_in_master_of_science_studies,M,3
+2020,Broj,total,enrolled_in_master_of_science_studies,Oba spola,4
+2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,health_and_social_protection,enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,"business,_administration_and_law",enrolled_in_master_of_science_studies,Oba spola,2
+2020,Broj,education,enrolled_in_master_of_science_studies,Oba spola,2
+2020,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,services,enrolled_in_master_of_science_studies,Oba spola,0
+2020,Broj,total,enrolled_in_master_of_science_studies,M,3
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,M,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,M,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,M,0
@@ -318,7 +318,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2020,Broj,education,enrolled_in_master_of_science_studies,M,2
 2020,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,M,0
 2020,Broj,services,enrolled_in_master_of_science_studies,M,0
-2020,Broj,Ukupno,enrolled_in_master_of_science_studies,Ž,1
+2020,Broj,total,enrolled_in_master_of_science_studies,Ž,1
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_of_science_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master_of_science_studies,Ž,0
 2020,Broj,information_and_communication_technologies,enrolled_in_master_of_science_studies,Ž,0
@@ -329,18 +329,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2020,Broj,education,enrolled_in_master_of_science_studies,Ž,0
 2020,Broj,arts_and_humanities,enrolled_in_master_of_science_studies,Ž,0
 2020,Broj,services,enrolled_in_master_of_science_studies,Ž,0
-2020,Broj,Ukupno,enrolled_in_master_studies,Oba pola,2430
-2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba pola,93
-2020,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba pola,399
-2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba pola,117
-2020,Broj,health_and_social_protection,enrolled_in_master_studies,Oba pola,52
-2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba pola,216
-2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba pola,619
-2020,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba pola,216
-2020,Broj,education,enrolled_in_master_studies,Oba pola,381
-2020,Broj,arts_and_humanities,enrolled_in_master_studies,Oba pola,328
-2020,Broj,services,enrolled_in_master_studies,Oba pola,9
-2020,Broj,Ukupno,enrolled_in_master_studies,M,1036
+2020,Broj,total,enrolled_in_master_studies,Oba spola,2430
+2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Oba spola,93
+2020,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Oba spola,399
+2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Oba spola,117
+2020,Broj,health_and_social_protection,enrolled_in_master_studies,Oba spola,52
+2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_master_studies,Oba spola,216
+2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_master_studies,Oba spola,619
+2020,Broj,"business,_administration_and_law",enrolled_in_master_studies,Oba spola,216
+2020,Broj,education,enrolled_in_master_studies,Oba spola,381
+2020,Broj,arts_and_humanities,enrolled_in_master_studies,Oba spola,328
+2020,Broj,services,enrolled_in_master_studies,Oba spola,9
+2020,Broj,total,enrolled_in_master_studies,M,1036
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,M,26
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,M,252
 2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,M,82
@@ -351,7 +351,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2020,Broj,education,enrolled_in_master_studies,M,129
 2020,Broj,arts_and_humanities,enrolled_in_master_studies,M,142
 2020,Broj,services,enrolled_in_master_studies,M,3
-2020,Broj,Ukupno,enrolled_in_master_studies,Ž,1394
+2020,Broj,total,enrolled_in_master_studies,Ž,1394
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_master_studies,Ž,67
 2020,Broj,"engineering,_production_and_construction",enrolled_in_master_studies,Ž,147
 2020,Broj,information_and_communication_technologies,enrolled_in_master_studies,Ž,35
@@ -362,18 +362,18 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2020,Broj,education,enrolled_in_master_studies,Ž,252
 2020,Broj,arts_and_humanities,enrolled_in_master_studies,Ž,186
 2020,Broj,services,enrolled_in_master_studies,Ž,6
-2020,Broj,Ukupno,enrolled_in_specialist_studies,Oba pola,170
-2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba pola,170
-2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,education,enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,services,enrolled_in_specialist_studies,Oba pola,0
-2020,Broj,Ukupno,enrolled_in_specialist_studies,M,39
+2020,Broj,total,enrolled_in_specialist_studies,Oba spola,170
+2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,health_and_social_protection,enrolled_in_specialist_studies,Oba spola,170
+2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,"social_sciences,_journalism_and_information",enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,"business,_administration_and_law",enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,education,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,arts_and_humanities,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,services,enrolled_in_specialist_studies,Oba spola,0
+2020,Broj,total,enrolled_in_specialist_studies,M,39
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,M,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,M,0
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,M,0
@@ -384,7 +384,7 @@ Year,UNIT_MEASURE,scientific_field,type_of_education,Pol,Value
 2020,Broj,education,enrolled_in_specialist_studies,M,0
 2020,Broj,arts_and_humanities,enrolled_in_specialist_studies,M,0
 2020,Broj,services,enrolled_in_specialist_studies,M,0
-2020,Broj,Ukupno,enrolled_in_specialist_studies,Ž,131
+2020,Broj,total,enrolled_in_specialist_studies,Ž,131
 2020,Broj,"natural_sciences,_mathematics_and_statistics",enrolled_in_specialist_studies,Ž,0
 2020,Broj,"engineering,_production_and_construction",enrolled_in_specialist_studies,Ž,0
 2020,Broj,information_and_communication_technologies,enrolled_in_specialist_studies,Ž,0

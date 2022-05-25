@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -30,12 +30,12 @@
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-2",
-  "title": "Prosječna starost stanovništva prema polu"
+  "title": "Prosječna dob stanovništva prema spolu"
 }

@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "AGE",
@@ -46,12 +46,12 @@
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -59,5 +59,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-1",
-  "title": "Stopa učešća radne snage (postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu (15-64) prema starosnoj grupi i polu)"
+  "title": "Stopa učešća radne snage (postotak aktivnog stanovništva (radne snage) u radno sposobnom stanovništvu (15-64) dobnoj skupini i spolu)"
 }

@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "Укупно",
-                "underage_users",
-                "adult_users",
+                "Малољетни корисници",
+                "Пунољетни корисници",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Врста корисника"
           },
           {
             "name": "Value",

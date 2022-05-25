@@ -13,17 +13,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -31,5 +31,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-7",
-  "title": "Projekcije prosječne starosti stanovništva"
+  "title": "Projekcije prosječne dobi stanovništva"
 }

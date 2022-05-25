@@ -25,13 +25,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Mагистри наука",
+                "Мастери",
+                "Специјалисти",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Врста образовања"
           },
           {
             "name": "SEX",

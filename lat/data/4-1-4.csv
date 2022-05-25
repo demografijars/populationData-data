@@ -1,9 +1,9 @@
 Year,UNIT_MEASURE,TYPE_OF_USERS,Value
-2016,Broj,Ukupno,114991
-2017,Broj,Ukupno,113231
-2018,Broj,Ukupno,113895
-2019,Broj,Ukupno,111620
-2020,Broj,Ukupno,107536
+2016,Broj,total,114991
+2017,Broj,total,113231
+2018,Broj,total,113895
+2019,Broj,total,111620
+2020,Broj,total,107536
 2016,Broj,underage_users,23870
 2017,Broj,underage_users,20700
 2018,Broj,underage_users,18358

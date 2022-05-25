@@ -13,32 +13,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
               ]
             },
-            "title": "Pol"
+            "title": "Spol"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "0",
                 "1-4",
                 "5-9",
@@ -68,12 +68,12 @@
                 ""
               ]
             },
-            "title": "Starosna dob"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }
@@ -81,5 +81,5 @@
   ],
   "profile": "data-package",
   "name": "1-7-2",
-  "title": "Projekcije stanovništva prema starosnim grupama i polu"
+  "title": "Projekcije stanovništva prema dobnim skupinama i spolu"
 }
