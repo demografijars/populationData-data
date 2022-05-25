@@ -18,7 +18,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -26,7 +26,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -54,7 +54,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "total"
+                "Total"
               ]
             },
             "title": "scientific_field"

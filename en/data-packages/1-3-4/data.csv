@@ -1,22 +1,22 @@
-Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
-2003,Number,Both sexes,total,12988
-2004,Number,Both sexes,total,13082
-2005,Number,Both sexes,total,13802
-2006,Number,Both sexes,total,13232
-2007,Number,Both sexes,total,14146
-2008,Number,Both sexes,total,13501
-2009,Number,Both sexes,total,13775
-2010,Number,Both sexes,total,13517
-2011,Number,Both sexes,total,13658
-2012,Number,Both sexes,total,13796
-2013,Number,Both sexes,total,13978
-2014,Number,Both sexes,total,14409
-2015,Number,Both sexes,total,15059
-2016,Number,Both sexes,total,13970
-2017,Number,Both sexes,total,14663
-2018,Number,Both sexes,total,14763
-2019,Number,Both sexes,total,15081
-2020,Number,Both sexes,total,16582
+Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
+2003,Number,Both sexes,Total,12988
+2004,Number,Both sexes,Total,13082
+2005,Number,Both sexes,Total,13802
+2006,Number,Both sexes,Total,13232
+2007,Number,Both sexes,Total,14146
+2008,Number,Both sexes,Total,13501
+2009,Number,Both sexes,Total,13775
+2010,Number,Both sexes,Total,13517
+2011,Number,Both sexes,Total,13658
+2012,Number,Both sexes,Total,13796
+2013,Number,Both sexes,Total,13978
+2014,Number,Both sexes,Total,14409
+2015,Number,Both sexes,Total,15059
+2016,Number,Both sexes,Total,13970
+2017,Number,Both sexes,Total,14663
+2018,Number,Both sexes,Total,14763
+2019,Number,Both sexes,Total,15081
+2020,Number,Both sexes,Total,16582
 2003,Number,Both sexes,infectious_and_parasitic_diseases,89
 2004,Number,Both sexes,infectious_and_parasitic_diseases,124
 2005,Number,Both sexes,infectious_and_parasitic_diseases,128
@@ -35,24 +35,24 @@ Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
 2018,Number,Both sexes,infectious_and_parasitic_diseases,184
 2019,Number,Both sexes,infectious_and_parasitic_diseases,200
 2020,Number,Both sexes,infectious_and_parasitic_diseases,162
-2003,Number,Both sexes,neoplasms,2411
-2004,Number,Both sexes,neoplasms,2330
-2005,Number,Both sexes,neoplasms,2653
-2006,Number,Both sexes,neoplasms,2551
-2007,Number,Both sexes,neoplasms,2733
-2008,Number,Both sexes,neoplasms,2733
-2009,Number,Both sexes,neoplasms,2822
-2010,Number,Both sexes,neoplasms,2700
-2011,Number,Both sexes,neoplasms,2802
-2012,Number,Both sexes,neoplasms,2937
-2013,Number,Both sexes,neoplasms,3090
-2014,Number,Both sexes,neoplasms,3154
-2015,Number,Both sexes,neoplasms,3138
-2016,Number,Both sexes,neoplasms,2948
-2017,Number,Both sexes,neoplasms,3027
-2018,Number,Both sexes,neoplasms,2938
-2019,Number,Both sexes,neoplasms,2891
-2020,Number,Both sexes,neoplasms,2719
+2003,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2411
+2004,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2330
+2005,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2653
+2006,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2551
+2007,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2733
+2008,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2733
+2009,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2822
+2010,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2700
+2011,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2802
+2012,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2937
+2013,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",3090
+2014,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",3154
+2015,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",3138
+2016,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2948
+2017,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",3027
+2018,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2938
+2019,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2891
+2020,Number,Both sexes,"(C00-C97,D00-D48) Neoplasms",2719
 2003,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,8
 2004,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,13
 2005,Number,Both sexes,diseases_of_the_blood_and_blood_forming_organs,15
@@ -377,24 +377,24 @@ Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
 2018,Number,Both sexes,special_purpose_codes,0
 2019,Number,Both sexes,special_purpose_codes,0
 2020,Number,Both sexes,special_purpose_codes,1592
-2003,Number,M,total,6804
-2004,Number,M,total,6735
-2005,Number,M,total,7239
-2006,Number,M,total,6904
-2007,Number,M,total,7302
-2008,Number,M,total,7058
-2009,Number,M,total,7099
-2010,Number,M,total,6935
-2011,Number,M,total,7001
-2012,Number,M,total,7064
-2013,Number,M,total,7237
-2014,Number,M,total,7386
-2015,Number,M,total,7640
-2016,Number,M,total,7198
-2017,Number,M,total,7363
-2018,Number,M,total,7449
-2019,Number,M,total,7753
-2020,Number,M,total,8613
+2003,Number,M,Total,6804
+2004,Number,M,Total,6735
+2005,Number,M,Total,7239
+2006,Number,M,Total,6904
+2007,Number,M,Total,7302
+2008,Number,M,Total,7058
+2009,Number,M,Total,7099
+2010,Number,M,Total,6935
+2011,Number,M,Total,7001
+2012,Number,M,Total,7064
+2013,Number,M,Total,7237
+2014,Number,M,Total,7386
+2015,Number,M,Total,7640
+2016,Number,M,Total,7198
+2017,Number,M,Total,7363
+2018,Number,M,Total,7449
+2019,Number,M,Total,7753
+2020,Number,M,Total,8613
 2003,Number,M,infectious_and_parasitic_diseases,59
 2004,Number,M,infectious_and_parasitic_diseases,75
 2005,Number,M,infectious_and_parasitic_diseases,78
@@ -413,24 +413,24 @@ Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
 2018,Number,M,infectious_and_parasitic_diseases,109
 2019,Number,M,infectious_and_parasitic_diseases,119
 2020,Number,M,infectious_and_parasitic_diseases,87
-2003,Number,M,neoplasms,1461
-2004,Number,M,neoplasms,1402
-2005,Number,M,neoplasms,1581
-2006,Number,M,neoplasms,1536
-2007,Number,M,neoplasms,1624
-2008,Number,M,neoplasms,1658
-2009,Number,M,neoplasms,1661
-2010,Number,M,neoplasms,1595
-2011,Number,M,neoplasms,1684
-2012,Number,M,neoplasms,1754
-2013,Number,M,neoplasms,1859
-2014,Number,M,neoplasms,1801
-2015,Number,M,neoplasms,1783
-2016,Number,M,neoplasms,1739
-2017,Number,M,neoplasms,1759
-2018,Number,M,neoplasms,1729
-2019,Number,M,neoplasms,1705
-2020,Number,M,neoplasms,1622
+2003,Number,M,"(C00-C97,D00-D48) Neoplasms",1461
+2004,Number,M,"(C00-C97,D00-D48) Neoplasms",1402
+2005,Number,M,"(C00-C97,D00-D48) Neoplasms",1581
+2006,Number,M,"(C00-C97,D00-D48) Neoplasms",1536
+2007,Number,M,"(C00-C97,D00-D48) Neoplasms",1624
+2008,Number,M,"(C00-C97,D00-D48) Neoplasms",1658
+2009,Number,M,"(C00-C97,D00-D48) Neoplasms",1661
+2010,Number,M,"(C00-C97,D00-D48) Neoplasms",1595
+2011,Number,M,"(C00-C97,D00-D48) Neoplasms",1684
+2012,Number,M,"(C00-C97,D00-D48) Neoplasms",1754
+2013,Number,M,"(C00-C97,D00-D48) Neoplasms",1859
+2014,Number,M,"(C00-C97,D00-D48) Neoplasms",1801
+2015,Number,M,"(C00-C97,D00-D48) Neoplasms",1783
+2016,Number,M,"(C00-C97,D00-D48) Neoplasms",1739
+2017,Number,M,"(C00-C97,D00-D48) Neoplasms",1759
+2018,Number,M,"(C00-C97,D00-D48) Neoplasms",1729
+2019,Number,M,"(C00-C97,D00-D48) Neoplasms",1705
+2020,Number,M,"(C00-C97,D00-D48) Neoplasms",1622
 2003,Number,M,diseases_of_the_blood_and_blood_forming_organs,6
 2004,Number,M,diseases_of_the_blood_and_blood_forming_organs,2
 2005,Number,M,diseases_of_the_blood_and_blood_forming_organs,5
@@ -737,24 +737,24 @@ Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
 2018,Number,M,special_purpose_codes,0
 2019,Number,M,special_purpose_codes,0
 2020,Number,M,special_purpose_codes,1030
-2003,Number,F,total,6184
-2004,Number,F,total,6347
-2005,Number,F,total,6563
-2006,Number,F,total,6328
-2007,Number,F,total,6844
-2008,Number,F,total,6443
-2009,Number,F,total,6676
-2010,Number,F,total,6582
-2011,Number,F,total,6657
-2012,Number,F,total,6732
-2013,Number,F,total,6741
-2014,Number,F,total,7023
-2015,Number,F,total,7419
-2016,Number,F,total,6772
-2017,Number,F,total,7300
-2018,Number,F,total,7314
-2019,Number,F,total,7328
-2020,Number,F,total,7969
+2003,Number,F,Total,6184
+2004,Number,F,Total,6347
+2005,Number,F,Total,6563
+2006,Number,F,Total,6328
+2007,Number,F,Total,6844
+2008,Number,F,Total,6443
+2009,Number,F,Total,6676
+2010,Number,F,Total,6582
+2011,Number,F,Total,6657
+2012,Number,F,Total,6732
+2013,Number,F,Total,6741
+2014,Number,F,Total,7023
+2015,Number,F,Total,7419
+2016,Number,F,Total,6772
+2017,Number,F,Total,7300
+2018,Number,F,Total,7314
+2019,Number,F,Total,7328
+2020,Number,F,Total,7969
 2003,Number,F,infectious_and_parasitic_diseases,30
 2004,Number,F,infectious_and_parasitic_diseases,49
 2005,Number,F,infectious_and_parasitic_diseases,50
@@ -773,24 +773,24 @@ Year,UNIT_MEASURE,Sex,CAUSE_OF_DEATH,Value
 2018,Number,F,infectious_and_parasitic_diseases,75
 2019,Number,F,infectious_and_parasitic_diseases,81
 2020,Number,F,infectious_and_parasitic_diseases,75
-2003,Number,F,neoplasms,950
-2004,Number,F,neoplasms,928
-2005,Number,F,neoplasms,1072
-2006,Number,F,neoplasms,1015
-2007,Number,F,neoplasms,1109
-2008,Number,F,neoplasms,1075
-2009,Number,F,neoplasms,1161
-2010,Number,F,neoplasms,1105
-2011,Number,F,neoplasms,1118
-2012,Number,F,neoplasms,1183
-2013,Number,F,neoplasms,1231
-2014,Number,F,neoplasms,1353
-2015,Number,F,neoplasms,1355
-2016,Number,F,neoplasms,1209
-2017,Number,F,neoplasms,1268
-2018,Number,F,neoplasms,1209
-2019,Number,F,neoplasms,1186
-2020,Number,F,neoplasms,1097
+2003,Number,F,"(C00-C97,D00-D48) Neoplasms",950
+2004,Number,F,"(C00-C97,D00-D48) Neoplasms",928
+2005,Number,F,"(C00-C97,D00-D48) Neoplasms",1072
+2006,Number,F,"(C00-C97,D00-D48) Neoplasms",1015
+2007,Number,F,"(C00-C97,D00-D48) Neoplasms",1109
+2008,Number,F,"(C00-C97,D00-D48) Neoplasms",1075
+2009,Number,F,"(C00-C97,D00-D48) Neoplasms",1161
+2010,Number,F,"(C00-C97,D00-D48) Neoplasms",1105
+2011,Number,F,"(C00-C97,D00-D48) Neoplasms",1118
+2012,Number,F,"(C00-C97,D00-D48) Neoplasms",1183
+2013,Number,F,"(C00-C97,D00-D48) Neoplasms",1231
+2014,Number,F,"(C00-C97,D00-D48) Neoplasms",1353
+2015,Number,F,"(C00-C97,D00-D48) Neoplasms",1355
+2016,Number,F,"(C00-C97,D00-D48) Neoplasms",1209
+2017,Number,F,"(C00-C97,D00-D48) Neoplasms",1268
+2018,Number,F,"(C00-C97,D00-D48) Neoplasms",1209
+2019,Number,F,"(C00-C97,D00-D48) Neoplasms",1186
+2020,Number,F,"(C00-C97,D00-D48) Neoplasms",1097
 2003,Number,F,diseases_of_the_blood_and_blood_forming_organs,2
 2004,Number,F,diseases_of_the_blood_and_blood_forming_organs,11
 2005,Number,F,diseases_of_the_blood_and_blood_forming_organs,10

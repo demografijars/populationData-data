@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "private",
-                "public"
+                "Total",
+                "Private",
+                "Public"
               ]
             },
             "title": "INSTITUTION"
@@ -31,7 +31,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -39,7 +39,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

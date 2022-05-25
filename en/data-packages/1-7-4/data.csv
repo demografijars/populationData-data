@@ -1,49 +1,49 @@
-Year,UNIT_MEASURE,Sex,BIRTH,Value
-2019,Number,M,LIVE_BIRTH,4839
-2020,Number,M,LIVE_BIRTH,4783
-2025,Number,M,LIVE_BIRTH,4500
-2030,Number,M,LIVE_BIRTH,4246
-2035,Number,M,LIVE_BIRTH,3997
-2040,Number,M,LIVE_BIRTH,3783
-2045,Number,M,LIVE_BIRTH,3584
-2050,Number,M,LIVE_BIRTH,3414
-2055,Number,M,LIVE_BIRTH,3266
-2060,Number,M,LIVE_BIRTH,3120
-2065,Number,M,LIVE_BIRTH,2973
-2070,Number,M,LIVE_BIRTH,2834
-2019,Number,M,DEATHS,7387
-2020,Number,M,DEATHS,7383
-2025,Number,M,DEATHS,7370
-2030,Number,M,DEATHS,7389
-2035,Number,M,DEATHS,7439
-2040,Number,M,DEATHS,7460
-2045,Number,M,DEATHS,7359
-2050,Number,M,DEATHS,7154
-2055,Number,M,DEATHS,6949
-2060,Number,M,DEATHS,6763
-2065,Number,M,DEATHS,6573
-2070,Number,M,DEATHS,6376
-2019,Number,F,LIVE_BIRTH,4557
-2020,Number,F,LIVE_BIRTH,4505
-2025,Number,F,LIVE_BIRTH,4238
-2030,Number,F,LIVE_BIRTH,3999
-2035,Number,F,LIVE_BIRTH,3764
-2040,Number,F,LIVE_BIRTH,3562
-2045,Number,F,LIVE_BIRTH,3375
-2050,Number,F,LIVE_BIRTH,3215
-2055,Number,F,LIVE_BIRTH,3076
-2060,Number,F,LIVE_BIRTH,2938
-2065,Number,F,LIVE_BIRTH,2799
-2070,Number,F,LIVE_BIRTH,2669
-2019,Number,F,DEATHS,7218
-2020,Number,F,DEATHS,7231
-2025,Number,F,DEATHS,7312
-2030,Number,F,DEATHS,7459
-2035,Number,F,DEATHS,7668
-2040,Number,F,DEATHS,7858
-2045,Number,F,DEATHS,7872
-2050,Number,F,DEATHS,7641
-2055,Number,F,DEATHS,7336
-2060,Number,F,DEATHS,7021
-2065,Number,F,DEATHS,6810
-2070,Number,F,DEATHS,6627
+Year,UNIT_MEASURE,Sex,Birth,Value
+2019,Number,M,Live births,4839
+2020,Number,M,Live births,4783
+2025,Number,M,Live births,4500
+2030,Number,M,Live births,4246
+2035,Number,M,Live births,3997
+2040,Number,M,Live births,3783
+2045,Number,M,Live births,3584
+2050,Number,M,Live births,3414
+2055,Number,M,Live births,3266
+2060,Number,M,Live births,3120
+2065,Number,M,Live births,2973
+2070,Number,M,Live births,2834
+2019,Number,M,Deaths,7387
+2020,Number,M,Deaths,7383
+2025,Number,M,Deaths,7370
+2030,Number,M,Deaths,7389
+2035,Number,M,Deaths,7439
+2040,Number,M,Deaths,7460
+2045,Number,M,Deaths,7359
+2050,Number,M,Deaths,7154
+2055,Number,M,Deaths,6949
+2060,Number,M,Deaths,6763
+2065,Number,M,Deaths,6573
+2070,Number,M,Deaths,6376
+2019,Number,F,Live births,4557
+2020,Number,F,Live births,4505
+2025,Number,F,Live births,4238
+2030,Number,F,Live births,3999
+2035,Number,F,Live births,3764
+2040,Number,F,Live births,3562
+2045,Number,F,Live births,3375
+2050,Number,F,Live births,3215
+2055,Number,F,Live births,3076
+2060,Number,F,Live births,2938
+2065,Number,F,Live births,2799
+2070,Number,F,Live births,2669
+2019,Number,F,Deaths,7218
+2020,Number,F,Deaths,7231
+2025,Number,F,Deaths,7312
+2030,Number,F,Deaths,7459
+2035,Number,F,Deaths,7668
+2040,Number,F,Deaths,7858
+2045,Number,F,Deaths,7872
+2050,Number,F,Deaths,7641
+2055,Number,F,Deaths,7336
+2060,Number,F,Deaths,7021
+2065,Number,F,Deaths,6810
+2070,Number,F,Deaths,6627

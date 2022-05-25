@@ -1,5 +1,5 @@
-Year,UNIT_MEASURE,AGE,Sex,Value
-2013,Number,_T,Both sexes,1171179
+Year,UNIT_MEASURE,Age,Sex,Value
+2013,Number,Total,Both sexes,1171179
 2013,Number,0,Both sexes,10035
 2013,Number,1,Both sexes,10460
 2013,Number,2,Both sexes,10707
@@ -91,7 +91,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2013,Number,88,Both sexes,1215
 2013,Number,89,Both sexes,906
 2013,Number,90 +,Both sexes,2101
-2013,Number,_T,M,572298
+2013,Number,Total,M,572298
 2013,Number,0,M,5127
 2013,Number,1,M,5347
 2013,Number,2,M,5471
@@ -183,7 +183,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2013,Number,88,M,383
 2013,Number,89,M,277
 2013,Number,90 +,M,617
-2013,Number,_T,F,598881
+2013,Number,Total,F,598881
 2013,Number,0,F,4908
 2013,Number,1,F,5113
 2013,Number,2,F,5236
@@ -275,7 +275,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2013,Number,88,F,832
 2013,Number,89,F,629
 2013,Number,90 +,F,1484
-2014,Number,_T,Both sexes,1167082
+2014,Number,Total,Both sexes,1167082
 2014,Number,0,Both sexes,9475
 2014,Number,1,Both sexes,10043
 2014,Number,2,Both sexes,10468
@@ -367,7 +367,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2014,Number,88,Both sexes,1341
 2014,Number,89,Both sexes,975
 2014,Number,90 +,Both sexes,2300
-2014,Number,_T,M,570176
+2014,Number,Total,M,570176
 2014,Number,0,M,4901
 2014,Number,1,M,5132
 2014,Number,2,M,5344
@@ -459,7 +459,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2014,Number,88,M,427
 2014,Number,89,M,291
 2014,Number,90 +,M,674
-2014,Number,_T,F,596906
+2014,Number,Total,F,596906
 2014,Number,0,F,4574
 2014,Number,1,F,4911
 2014,Number,2,F,5124
@@ -551,7 +551,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2014,Number,88,F,914
 2014,Number,89,F,684
 2014,Number,90 +,F,1626
-2015,Number,_T,Both sexes,1162164
+2015,Number,Total,Both sexes,1162164
 2015,Number,0,Both sexes,9368
 2015,Number,1,Both sexes,9480
 2015,Number,2,Both sexes,10048
@@ -643,7 +643,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2015,Number,88,Both sexes,1446
 2015,Number,89,Both sexes,1067
 2015,Number,90 +,Both sexes,2507
-2015,Number,_T,M,567711
+2015,Number,Total,M,567711
 2015,Number,0,M,4854
 2015,Number,1,M,4907
 2015,Number,2,M,5133
@@ -735,7 +735,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2015,Number,88,M,467
 2015,Number,89,M,329
 2015,Number,90 +,M,749
-2015,Number,_T,F,594453
+2015,Number,Total,F,594453
 2015,Number,0,F,4514
 2015,Number,1,F,4573
 2015,Number,2,F,4915
@@ -827,7 +827,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2015,Number,88,F,979
 2015,Number,89,F,738
 2015,Number,90 +,F,1758
-2016,Number,_T,Both sexes,1157516
+2016,Number,Total,Both sexes,1157516
 2016,Number,0,Both sexes,9378
 2016,Number,1,Both sexes,9354
 2016,Number,2,Both sexes,9505
@@ -919,7 +919,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2016,Number,88,Both sexes,1744
 2016,Number,89,Both sexes,1151
 2016,Number,90 +,Both sexes,2720
-2016,Number,_T,M,565368
+2016,Number,Total,M,565368
 2016,Number,0,M,4855
 2016,Number,1,M,4847
 2016,Number,2,M,4934
@@ -1011,7 +1011,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2016,Number,88,M,625
 2016,Number,89,M,365
 2016,Number,90 +,M,822
-2016,Number,_T,F,592148
+2016,Number,Total,F,592148
 2016,Number,0,F,4523
 2016,Number,1,F,4507
 2016,Number,2,F,4571
@@ -1103,7 +1103,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2016,Number,88,F,1119
 2016,Number,89,F,786
 2016,Number,90 +,F,1898
-2017,Number,_T,Both sexes,1153017
+2017,Number,Total,Both sexes,1153017
 2017,Number,0,Both sexes,9367
 2017,Number,1,Both sexes,9358
 2017,Number,2,Both sexes,9392
@@ -1195,7 +1195,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2017,Number,88,Both sexes,1887
 2017,Number,89,Both sexes,1387
 2017,Number,90 +,Both sexes,2935
-2017,Number,_T,M,563187
+2017,Number,Total,M,563187
 2017,Number,0,M,4861
 2017,Number,1,M,4844
 2017,Number,2,M,4897
@@ -1287,7 +1287,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2017,Number,88,M,705
 2017,Number,89,M,500
 2017,Number,90 +,M,915
-2017,Number,_T,F,589830
+2017,Number,Total,F,589830
 2017,Number,0,F,4506
 2017,Number,1,F,4514
 2017,Number,2,F,4495
@@ -1379,7 +1379,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2017,Number,88,F,1182
 2017,Number,89,F,887
 2017,Number,90 +,F,2020
-2018,Number,_T,Both sexes,1147902
+2018,Number,Total,Both sexes,1147902
 2018,Number,0,Both sexes,9155
 2018,Number,1,Both sexes,9364
 2018,Number,2,Both sexes,9354
@@ -1471,7 +1471,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2018,Number,88,Both sexes,1979
 2018,Number,89,Both sexes,1524
 2018,Number,90 +,Both sexes,3110
-2018,Number,_T,M,560795
+2018,Number,Total,M,560795
 2018,Number,0,M,4784
 2018,Number,1,M,4856
 2018,Number,2,M,4846
@@ -1563,7 +1563,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2018,Number,88,M,705
 2018,Number,89,M,562
 2018,Number,90 +,M,1002
-2018,Number,_T,F,587107
+2018,Number,Total,F,587107
 2018,Number,0,F,4371
 2018,Number,1,F,4508
 2018,Number,2,F,4508
@@ -1655,7 +1655,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2018,Number,88,F,1274
 2018,Number,89,F,962
 2018,Number,90 +,F,2108
-2019,Number,_T,Both sexes,1142495
+2019,Number,Total,Both sexes,1142495
 2019,Number,0,Both sexes,9410
 2019,Number,1,Both sexes,9427
 2019,Number,2,Both sexes,9359
@@ -1747,7 +1747,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2019,Number,88,Both sexes,2064
 2019,Number,89,Both sexes,1618
 2019,Number,90 +,Both sexes,3604
-2019,Number,_T,M,558093
+2019,Number,Total,M,558093
 2019,Number,0,M,4954
 2019,Number,1,M,4914
 2019,Number,2,M,4858
@@ -1839,7 +1839,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2019,Number,88,M,728
 2019,Number,89,M,565
 2019,Number,90 +,M,1229
-2019,Number,_T,F,584402
+2019,Number,Total,F,584402
 2019,Number,0,F,4456
 2019,Number,1,F,4513
 2019,Number,2,F,4501
@@ -1931,7 +1931,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2019,Number,88,F,1336
 2019,Number,89,F,1053
 2019,Number,90 +,F,2375
-2020,Number,_T,Both sexes,1136274
+2020,Number,Total,Both sexes,1136274
 2020,Number,0,Both sexes,9194
 2020,Number,1,Both sexes,9402
 2020,Number,2,Both sexes,9430
@@ -2023,7 +2023,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2020,Number,88,Both sexes,2054
 2020,Number,89,Both sexes,1693
 2020,Number,90 +,Both sexes,4022
-2020,Number,_T,M,557422
+2020,Number,Total,M,557422
 2020,Number,0,M,4842
 2020,Number,1,M,4961
 2020,Number,2,M,4929
@@ -2115,7 +2115,7 @@ Year,UNIT_MEASURE,AGE,Sex,Value
 2020,Number,88,M,721
 2020,Number,89,M,593
 2020,Number,90 +,M,1411
-2020,Number,_T,F,578852
+2020,Number,Total,F,578852
 2020,Number,0,F,4352
 2020,Number,1,F,4441
 2020,Number,2,F,4501

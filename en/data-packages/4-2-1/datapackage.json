@@ -18,7 +18,7 @@
                 "",
                 "adult_facilities",
                 "institutions_for_children_and_youth",
-                "total"
+                "Total"
               ]
             },
             "title": "TYPE_OF_USERS"
@@ -26,7 +26,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -31,8 +31,8 @@
             "constraints": {
               "enum": [
                 "",
-                "art_schools",
-                "gymnasium",
+                "Art schools",
+                "Gymnasium",
                 "high_schools_for_students_with_disabilities",
                 "religious_schools",
                 "technical_high_schools",

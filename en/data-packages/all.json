@@ -19,7 +19,7 @@
               "enum": [
                 "",
                 "adult_users",
-                "total",
+                "Total",
                 "underage_users"
               ]
             },
@@ -28,7 +28,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -57,7 +57,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -91,7 +91,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -99,7 +99,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -127,7 +127,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "total"
+                "Total"
               ]
             },
             "title": "scientific_field"
@@ -189,7 +189,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -230,7 +230,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -264,7 +264,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -272,7 +272,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -300,7 +300,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "total"
+                "Total"
               ]
             },
             "title": "type_of_education"
@@ -322,7 +322,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -351,7 +351,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -380,7 +380,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -414,7 +414,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -422,7 +422,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -450,7 +450,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "total"
+                "Total"
               ]
             },
             "title": "scientific_field"
@@ -472,7 +472,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -501,7 +501,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -542,7 +542,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -576,7 +576,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -584,7 +584,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -634,10 +634,10 @@
                 "75-79",
                 "80-84",
                 "85+",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -647,7 +647,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -655,7 +655,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -687,72 +687,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Nationality",
@@ -760,7 +760,7 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
+                "Total",
                 "bosniaks",
                 "croats",
                 "does_not_declare_ethnicity/nationality",
@@ -779,7 +779,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -787,7 +787,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -816,7 +816,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -850,7 +850,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -858,7 +858,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -887,7 +887,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -916,7 +916,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -948,72 +948,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Literacy",
@@ -1035,7 +1035,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1043,7 +1043,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1072,7 +1072,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1106,7 +1106,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1114,7 +1114,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1143,7 +1143,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1261,10 +1261,10 @@
                 "84",
                 "85+",
                 "9",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1274,7 +1274,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1282,7 +1282,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1316,7 +1316,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1324,7 +1324,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1353,7 +1353,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1387,7 +1387,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1395,7 +1395,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1423,7 +1423,7 @@
                 "natural_sciences,_mathematics_and_statistics",
                 "services",
                 "social_sciences,_journalism_and_information",
-                "total"
+                "Total"
               ]
             },
             "title": "scientific_field"
@@ -1552,10 +1552,10 @@
                 "89",
                 "9",
                 "90 +",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1565,7 +1565,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1573,7 +1573,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1607,7 +1607,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1615,7 +1615,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1644,7 +1644,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1673,7 +1673,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1826,10 +1826,10 @@
                 "97",
                 "98",
                 "99",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1839,7 +1839,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1847,7 +1847,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1876,7 +1876,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1927,10 +1927,10 @@
                 "80-84",
                 "85-89",
                 "90 +",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1940,7 +1940,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -1948,7 +1948,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -1987,7 +1987,7 @@
                 "50 - 64"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -1997,7 +1997,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2005,7 +2005,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2039,7 +2039,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2047,7 +2047,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2076,7 +2076,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2108,9 +2108,9 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
-                "private",
-                "public"
+                "Total",
+                "Private",
+                "Public"
               ]
             },
             "title": "INSTITUTION"
@@ -2123,7 +2123,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2131,7 +2131,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2207,7 +2207,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Unnamed: 10",
@@ -2296,7 +2296,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2325,7 +2325,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2359,7 +2359,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2367,7 +2367,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2396,7 +2396,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2432,12 +2432,12 @@
                 "15 - 19"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2480,12 +2480,12 @@
                 "50+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2514,7 +2514,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2532,12 +2532,12 @@
             "constraints": {
               "enum": [
                 "",
-                "private",
-                "public",
-                "total"
+                "Private",
+                "Public",
+                "Total"
               ]
             },
-            "title": "type_of_institution"
+            "title": "Type of institution"
           }
         ]
       },
@@ -2556,7 +2556,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2578,7 +2578,7 @@
                 "institutions_for_children_and_youth"
               ]
             },
-            "title": "type_of_institution"
+            "title": "Type of institution"
           }
         ]
       },
@@ -2597,7 +2597,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2629,72 +2629,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Mother tounge",
@@ -2702,7 +2702,7 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
+                "Total",
                 "bosnian",
                 "croatian",
                 "other_language",
@@ -2720,7 +2720,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2728,7 +2728,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2757,7 +2757,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2796,7 +2796,7 @@
                 "50 - 64"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -2806,7 +2806,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2814,7 +2814,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2848,7 +2848,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2856,7 +2856,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2898,7 +2898,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2932,7 +2932,7 @@
                 "",
                 "adult_facilities",
                 "institutions_for_children_and_youth",
-                "total"
+                "Total"
               ]
             },
             "title": "TYPE_OF_USERS"
@@ -2940,7 +2940,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -2974,7 +2974,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -2982,7 +2982,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3011,7 +3011,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3040,7 +3040,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3074,7 +3074,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3082,7 +3082,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3114,72 +3114,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
@@ -3187,20 +3187,20 @@
             "constraints": {
               "enum": [
                 "",
-                "2_members",
-                "3_members",
-                "4_members",
+                "2 members",
+                "3 members",
+                "4 members",
                 "5+_members",
-                "_T",
-                "single_household"
+                "Total",
+                "1 member"
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Household size"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3234,7 +3234,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3242,7 +3242,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3276,7 +3276,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3284,7 +3284,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3325,7 +3325,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3359,7 +3359,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3367,7 +3367,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3401,7 +3401,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3409,7 +3409,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3438,7 +3438,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3470,72 +3470,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Education",
@@ -3546,7 +3546,7 @@
                 "elementary_education",
                 "first_degree",
                 "incomplete_elementary",
-                "no_education",
+                "No education",
                 "secondary_education",
                 "secondary_specialization",
                 "university_degree"
@@ -3562,7 +3562,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3570,7 +3570,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3611,7 +3611,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3640,7 +3640,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3689,12 +3689,12 @@
                 "(0-19+65+)/(20-64)"
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3723,7 +3723,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3757,7 +3757,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3765,7 +3765,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3799,7 +3799,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3807,7 +3807,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3836,7 +3836,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3903,15 +3903,15 @@
                 "infectious_and_parasitic_diseases",
                 "injuries_poisonings_and_consequences_of_external_factors",
                 "mental_disorders_and_behavioral_disorders",
-                "neoplasms",
+                "(C00-C97,D00-D48) Neoplasms",
                 "pregnancy_childbirth_and_puerperium",
                 "skin_and_subcutaneous_tissue_disorders",
                 "special_purpose_codes",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
-                "total"
+                "Total"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "SEX",
@@ -3921,7 +3921,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -3929,7 +3929,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3958,7 +3958,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -3976,8 +3976,8 @@
             "constraints": {
               "enum": [
                 "",
-                "art_schools",
-                "gymnasium",
+                "Art schools",
+                "Gymnasium",
                 "high_schools_for_students_with_disabilities",
                 "religious_schools",
                 "technical_high_schools",
@@ -4006,74 +4006,74 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_istocno_sarajevo",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "stanari",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of East Sarajevo",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Stanari",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "AGE",
@@ -4100,10 +4100,10 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -4113,7 +4113,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4121,7 +4121,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4162,7 +4162,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4196,7 +4196,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4212,12 +4212,12 @@
                 "(0-19+65+)/(20-64)"
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Type of dependency ratio"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4249,72 +4249,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "BIRTHS",
@@ -4323,20 +4323,20 @@
               "enum": [
                 "",
                 "5+_children",
-                "_T",
-                "did_not_give_birth",
+                "Total",
+                "Did not give birth",
                 "four_children",
                 "one_child",
                 "three_children",
                 "two_children"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vital statistics"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4365,7 +4365,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4397,72 +4397,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Disabilities",
@@ -4470,7 +4470,7 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
+                "Total",
                 "communication",
                 "dressing",
                 "eyesight",
@@ -4490,7 +4490,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4498,7 +4498,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4527,7 +4527,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Unnamed: 3",
@@ -4618,12 +4618,12 @@
                 "65+"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4652,7 +4652,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4693,7 +4693,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4722,7 +4722,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4751,7 +4751,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4780,7 +4780,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4809,7 +4809,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4838,7 +4838,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4896,10 +4896,10 @@
                 "85-89",
                 "90-94",
                 "95-99",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -4909,7 +4909,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4917,7 +4917,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -4951,7 +4951,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -4959,7 +4959,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5022,10 +5022,10 @@
                 "75-79",
                 "80-84",
                 "85+",
-                "_T"
+                "Total"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "Municipality",
@@ -5033,68 +5033,68 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
             "title": "Municipality"
@@ -5107,7 +5107,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5115,7 +5115,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5144,7 +5144,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5173,7 +5173,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5202,7 +5202,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5236,7 +5236,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5244,7 +5244,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5276,12 +5276,12 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH",
-                "NATURAL_CHANGE"
+                "Deaths",
+                "Live births",
+                "Natural change"
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vital statistics"
           },
           {
             "name": "SEX",
@@ -5289,7 +5289,7 @@
             "constraints": {
               "enum": [
                 "",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5297,7 +5297,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5339,7 +5339,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5368,7 +5368,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5386,8 +5386,8 @@
             "constraints": {
               "enum": [
                 "",
-                "art_schools",
-                "gymnasium",
+                "Art schools",
+                "Gymnasium",
                 "high_schools_for_students_with_disabilities",
                 "religious_schools",
                 "technical_high_schools",
@@ -5416,77 +5416,77 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5527,7 +5527,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5556,7 +5556,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5585,7 +5585,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5614,7 +5614,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5648,7 +5648,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5656,7 +5656,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5685,7 +5685,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5724,7 +5724,7 @@
                 "50 - 64"
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "SEX",
@@ -5734,7 +5734,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5742,7 +5742,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5775,7 +5775,7 @@
               "enum": [
                 "",
                 "adult_users",
-                "total",
+                "Total",
                 "underage_users"
               ]
             },
@@ -5784,7 +5784,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5816,11 +5816,11 @@
             "constraints": {
               "enum": [
                 "",
-                "DEATHS",
-                "LIVE_BIRTH"
+                "Deaths",
+                "Live births"
               ]
             },
-            "title": "BIRTH"
+            "title": "Birth"
           },
           {
             "name": "SEX",
@@ -5837,7 +5837,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -5869,72 +5869,72 @@
             "constraints": {
               "enum": [
                 "",
-                "berkovici",
-                "bileca",
-                "bratunac",
-                "brod",
-                "cajnice",
-                "celinac",
-                "donji_zabar",
-                "foca",
-                "gacko",
-                "grad_banja_luka",
-                "grad_bijeljina",
-                "grad_derventa",
-                "grad_doboj",
-                "grad_gradiska",
-                "grad_prijedor",
-                "grad_trebinje",
-                "grad_zvornik",
-                "han_pijesak",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "ljubinje",
-                "lopare",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "prnjavor",
-                "republika_srpska",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "samac",
-                "sekovici",
-                "sipovo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "trnovo",
-                "ugljevik",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje"
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Administrative area"
           },
           {
             "name": "Religion",
@@ -5942,7 +5942,7 @@
             "constraints": {
               "enum": [
                 "",
-                "_T",
+                "Total",
                 "agnostic",
                 "atheist",
                 "catholic",
@@ -5963,7 +5963,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -5971,7 +5971,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

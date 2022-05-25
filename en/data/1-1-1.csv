@@ -1,55 +1,55 @@
-Year,UNIT_MEASURE,Sex,BIRTHS,Value
-2003,Number,Both sexes,LIVE_BIRTH,10537
-2004,Number,Both sexes,LIVE_BIRTH,10628
-2005,Number,Both sexes,LIVE_BIRTH,10322
-2006,Number,Both sexes,LIVE_BIRTH,10524
-2007,Number,Both sexes,LIVE_BIRTH,10110
-2008,Number,Both sexes,LIVE_BIRTH,10198
-2009,Number,Both sexes,LIVE_BIRTH,10603
-2010,Number,Both sexes,LIVE_BIRTH,10147
-2011,Number,Both sexes,LIVE_BIRTH,9561
-2012,Number,Both sexes,LIVE_BIRTH,9978
-2013,Number,Both sexes,LIVE_BIRTH,9510
-2014,Number,Both sexes,LIVE_BIRTH,9335
-2015,Number,Both sexes,LIVE_BIRTH,9357
-2016,Number,Both sexes,LIVE_BIRTH,9452
-2017,Number,Both sexes,LIVE_BIRTH,9339
-2018,Number,Both sexes,LIVE_BIRTH,9568
-2019,Number,Both sexes,LIVE_BIRTH,9274
-2020,Number,Both sexes,LIVE_BIRTH,9161
-2003,Number,Both sexes,DEATHS,12988
-2004,Number,Both sexes,DEATHS,13082
-2005,Number,Both sexes,DEATHS,13802
-2006,Number,Both sexes,DEATHS,13232
-2007,Number,Both sexes,DEATHS,14146
-2008,Number,Both sexes,DEATHS,13501
-2009,Number,Both sexes,DEATHS,13775
-2010,Number,Both sexes,DEATHS,13517
-2011,Number,Both sexes,DEATHS,13658
-2012,Number,Both sexes,DEATHS,13796
-2013,Number,Both sexes,DEATHS,13978
-2014,Number,Both sexes,DEATHS,14409
-2015,Number,Both sexes,DEATHS,15059
-2016,Number,Both sexes,DEATHS,13970
-2017,Number,Both sexes,DEATHS,14663
-2018,Number,Both sexes,DEATHS,14763
-2019,Number,Both sexes,DEATHS,15081
-2020,Number,Both sexes,DEATHS,16582
-2003,Number,Both sexes,NATURAL_CHANGE,-2451
-2004,Number,Both sexes,NATURAL_CHANGE,-2454
-2005,Number,Both sexes,NATURAL_CHANGE,-3480
-2006,Number,Both sexes,NATURAL_CHANGE,-2708
-2007,Number,Both sexes,NATURAL_CHANGE,-4036
-2008,Number,Both sexes,NATURAL_CHANGE,-3303
-2009,Number,Both sexes,NATURAL_CHANGE,-3172
-2010,Number,Both sexes,NATURAL_CHANGE,-3370
-2011,Number,Both sexes,NATURAL_CHANGE,-4097
-2012,Number,Both sexes,NATURAL_CHANGE,-3818
-2013,Number,Both sexes,NATURAL_CHANGE,-4468
-2014,Number,Both sexes,NATURAL_CHANGE,-5074
-2015,Number,Both sexes,NATURAL_CHANGE,-5702
-2016,Number,Both sexes,NATURAL_CHANGE,-4518
-2017,Number,Both sexes,NATURAL_CHANGE,-5324
-2018,Number,Both sexes,NATURAL_CHANGE,-5195
-2019,Number,Both sexes,NATURAL_CHANGE,-5807
-2020,Number,Both sexes,NATURAL_CHANGE,-7421
+Year,UNIT_MEASURE,Sex,Vital statistics,Value
+2003,Number,Both sexes,Live births,10537
+2004,Number,Both sexes,Live births,10628
+2005,Number,Both sexes,Live births,10322
+2006,Number,Both sexes,Live births,10524
+2007,Number,Both sexes,Live births,10110
+2008,Number,Both sexes,Live births,10198
+2009,Number,Both sexes,Live births,10603
+2010,Number,Both sexes,Live births,10147
+2011,Number,Both sexes,Live births,9561
+2012,Number,Both sexes,Live births,9978
+2013,Number,Both sexes,Live births,9510
+2014,Number,Both sexes,Live births,9335
+2015,Number,Both sexes,Live births,9357
+2016,Number,Both sexes,Live births,9452
+2017,Number,Both sexes,Live births,9339
+2018,Number,Both sexes,Live births,9568
+2019,Number,Both sexes,Live births,9274
+2020,Number,Both sexes,Live births,9161
+2003,Number,Both sexes,Deaths,12988
+2004,Number,Both sexes,Deaths,13082
+2005,Number,Both sexes,Deaths,13802
+2006,Number,Both sexes,Deaths,13232
+2007,Number,Both sexes,Deaths,14146
+2008,Number,Both sexes,Deaths,13501
+2009,Number,Both sexes,Deaths,13775
+2010,Number,Both sexes,Deaths,13517
+2011,Number,Both sexes,Deaths,13658
+2012,Number,Both sexes,Deaths,13796
+2013,Number,Both sexes,Deaths,13978
+2014,Number,Both sexes,Deaths,14409
+2015,Number,Both sexes,Deaths,15059
+2016,Number,Both sexes,Deaths,13970
+2017,Number,Both sexes,Deaths,14663
+2018,Number,Both sexes,Deaths,14763
+2019,Number,Both sexes,Deaths,15081
+2020,Number,Both sexes,Deaths,16582
+2003,Number,Both sexes,Natural change,-2451
+2004,Number,Both sexes,Natural change,-2454
+2005,Number,Both sexes,Natural change,-3480
+2006,Number,Both sexes,Natural change,-2708
+2007,Number,Both sexes,Natural change,-4036
+2008,Number,Both sexes,Natural change,-3303
+2009,Number,Both sexes,Natural change,-3172
+2010,Number,Both sexes,Natural change,-3370
+2011,Number,Both sexes,Natural change,-4097
+2012,Number,Both sexes,Natural change,-3818
+2013,Number,Both sexes,Natural change,-4468
+2014,Number,Both sexes,Natural change,-5074
+2015,Number,Both sexes,Natural change,-5702
+2016,Number,Both sexes,Natural change,-4518
+2017,Number,Both sexes,Natural change,-5324
+2018,Number,Both sexes,Natural change,-5195
+2019,Number,Both sexes,Natural change,-5807
+2020,Number,Both sexes,Natural change,-7421

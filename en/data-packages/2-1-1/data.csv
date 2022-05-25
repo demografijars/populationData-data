@@ -1,5 +1,5 @@
-Year,UNIT_MEASURE,Sex,AGE,Value
-2013,Number,Both sexes,_T,1170342
+Year,UNIT_MEASURE,Sex,Age,Value
+2013,Number,Both sexes,Total,1170342
 2013,Number,Both sexes,0,10089
 2013,Number,Both sexes,1,10442
 2013,Number,Both sexes,2,10534
@@ -86,7 +86,7 @@ Year,UNIT_MEASURE,Sex,AGE,Value
 2013,Number,Both sexes,83,4589
 2013,Number,Both sexes,84,3530
 2013,Number,Both sexes,85+,11565
-2013,Number,M,_T,571812
+2013,Number,M,Total,571812
 2013,Number,M,0,5148
 2013,Number,M,1,5271
 2013,Number,M,2,5457
@@ -173,7 +173,7 @@ Year,UNIT_MEASURE,Sex,AGE,Value
 2013,Number,M,83,1689
 2013,Number,M,84,1308
 2013,Number,M,85+,3865
-2013,Number,F,_T,598530
+2013,Number,F,Total,598530
 2013,Number,F,0,4941
 2013,Number,F,1,5171
 2013,Number,F,2,5077

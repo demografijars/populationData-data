@@ -31,15 +31,15 @@
                 "infectious_and_parasitic_diseases",
                 "injuries_poisonings_and_consequences_of_external_factors",
                 "mental_disorders_and_behavioral_disorders",
-                "neoplasms",
+                "(C00-C97,D00-D48) Neoplasms",
                 "pregnancy_childbirth_and_puerperium",
                 "skin_and_subcutaneous_tissue_disorders",
                 "special_purpose_codes",
                 "symptoms_signs_and_abnormal_clinical_and_laboratory_findings",
-                "total"
+                "Total"
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Cause of death (as per ICD-10 codes)"
           },
           {
             "name": "SEX",
@@ -49,7 +49,7 @@
                 "",
                 "F",
                 "M",
-                "_T"
+                "Total"
               ]
             },
             "title": "Sex"
@@ -57,7 +57,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
