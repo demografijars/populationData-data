@@ -1734,26 +1734,26 @@
             "constraints": {
               "enum": [
                 "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(I00-I99) Bolesti cirkulatornog sistema",
                 "(J00-J99) Bolesti respiratornog sistema",
                 "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
                 "Ukupno",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(A00-B99) Infektivne i parazitske bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(H00-H59) Bolesti oka i pripojka oka",
                 "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitourinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
                 "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(V01-Y98) Spoljni uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom",
                 "Nepoznato",
                 ""
               ]
@@ -3133,26 +3133,26 @@
             "constraints": {
               "enum": [
                 "(C00-C97,D00-D48) Neoplazme",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(I00-I99) Bolesti cirkulatornog sistema",
                 "(J00-J99) Bolesti respiratornog sistema",
                 "(K00-K93) Bolesti digestivnog sistema",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
-                "(A00-B99) Zarazne i parazitarne bolesti",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
+                "(A00-B99) Infektivne i parazitske bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
+                "(H00-H59) Bolesti oka i pripojka oka",
                 "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
+                "(N00-N99) Bolesti genitourinarnog sistema",
                 "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(V01-Y98) Vanjski uzroci smrtnosti",
-                "(Z00-Z99) Faktori koji utječu na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(V01-Y98) Spoljni uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom",
                 "Nepoznato",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
                 ""
               ]
             },
@@ -3903,7 +3903,7 @@
                 ""
               ]
             },
-            "title": "Tip odnosa zavisnosti"
+            "title": "Vrsta koeficijenta zavisnosti"
           },
           {
             "name": "SEX",
@@ -4127,26 +4127,26 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "(A00-B99) Zarazne i parazitarne bolesti",
+                "(A00-B99) Infektivne i parazitske bolesti",
                 "(C00-C97,D00-D48) Neoplazme",
-                "(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",
-                "(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
                 "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
                 "(G00-G99) Bolesti nervnog sistema",
-                "(H00-H93) Bolesti oka, uha i adneksa",
-                "diseases_of_the_ear",
-                "(I00-I99) Bolesti cirkulacijskog sistema",
+                "(H00-H59) Bolesti oka i pripojka oka",
+                "(H60-H93) Bolesti uva i mastoidnog nastavka",
+                "(I00-I99) Bolesti cirkulatornog sistema",
                 "(J00-J99) Bolesti respiratornog sistema",
                 "(K00-K93) Bolesti digestivnog sistema",
                 "(L00-L99) Bolesti kože i potkožnog tkiva",
-                "(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva",
-                "(N00-N99) Bolesti genitalno-urinarnog sistema",
-                "(O00-O99) Trudnoća, porođaj i postporođajni period",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitourinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
                 "(P00-P96) Određena stanja nastala u perinatalnom periodu",
-                "(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",
-                "(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasificirani",
-                "(S00-T98) Ozljede, trovanja i druge posljedice s vanjskim uzrokom",
-                "special_purpose_codes",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
+                "(U00-U85) Šifre za posebne namjene",
                 ""
               ]
             },
@@ -4189,7 +4189,7 @@
                 "Gimnazija",
                 "technical_high_schools",
                 "vocational_high_schools",
-                "Škole umjetnosti",
+                "Umjetničke škole",
                 "religious_schools",
                 "high_schools_for_students_with_disabilities",
                 ""
@@ -4425,7 +4425,7 @@
                 ""
               ]
             },
-            "title": "Tip odnosa zavisnosti"
+            "title": "Vrsta koeficijenta zavisnosti"
           },
           {
             "name": "SEX",
@@ -5283,7 +5283,7 @@
                 ""
               ]
             },
-            "title": "Općina"
+            "title": "Opština"
           },
           {
             "name": "SEX",
@@ -5502,7 +5502,7 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
+                "Umrli",
                 "Prirodno kretanje",
                 ""
               ]
@@ -5543,13 +5543,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sve metode",
-                "Tradicionalne metode",
-                "Savremene metode",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Metoda"
+            "title": "MICS_NUMBER"
           },
           {
             "name": "Value",
@@ -5588,7 +5588,7 @@
                 "Gimnazija",
                 "technical_high_schools",
                 "vocational_high_schools",
-                "Škole umjetnosti",
+                "Umjetničke škole",
                 "religious_schools",
                 "high_schools_for_students_with_disabilities",
                 ""
@@ -6122,7 +6122,7 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
+                "Umrli",
                 ""
               ]
             },

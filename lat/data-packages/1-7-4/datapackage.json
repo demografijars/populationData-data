@@ -38,7 +38,7 @@
             "constraints": {
               "enum": [
                 "Živorođeni",
-                "Smrtni slučajevi",
+                "Umrli",
                 ""
               ]
             },

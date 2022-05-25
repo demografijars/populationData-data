@@ -11,18 +11,18 @@ Year,UNIT_MEASURE,Spol,Rađanje,Value
 2060,Broj,M,Živorođeni,3120
 2065,Broj,M,Živorođeni,2973
 2070,Broj,M,Živorođeni,2834
-2019,Broj,M,Smrtni slučajevi,7387
-2020,Broj,M,Smrtni slučajevi,7383
-2025,Broj,M,Smrtni slučajevi,7370
-2030,Broj,M,Smrtni slučajevi,7389
-2035,Broj,M,Smrtni slučajevi,7439
-2040,Broj,M,Smrtni slučajevi,7460
-2045,Broj,M,Smrtni slučajevi,7359
-2050,Broj,M,Smrtni slučajevi,7154
-2055,Broj,M,Smrtni slučajevi,6949
-2060,Broj,M,Smrtni slučajevi,6763
-2065,Broj,M,Smrtni slučajevi,6573
-2070,Broj,M,Smrtni slučajevi,6376
+2019,Broj,M,Umrli,7387
+2020,Broj,M,Umrli,7383
+2025,Broj,M,Umrli,7370
+2030,Broj,M,Umrli,7389
+2035,Broj,M,Umrli,7439
+2040,Broj,M,Umrli,7460
+2045,Broj,M,Umrli,7359
+2050,Broj,M,Umrli,7154
+2055,Broj,M,Umrli,6949
+2060,Broj,M,Umrli,6763
+2065,Broj,M,Umrli,6573
+2070,Broj,M,Umrli,6376
 2019,Broj,Ž,Živorođeni,4557
 2020,Broj,Ž,Živorođeni,4505
 2025,Broj,Ž,Živorođeni,4238
@@ -35,15 +35,15 @@ Year,UNIT_MEASURE,Spol,Rađanje,Value
 2060,Broj,Ž,Živorođeni,2938
 2065,Broj,Ž,Živorođeni,2799
 2070,Broj,Ž,Živorođeni,2669
-2019,Broj,Ž,Smrtni slučajevi,7218
-2020,Broj,Ž,Smrtni slučajevi,7231
-2025,Broj,Ž,Smrtni slučajevi,7312
-2030,Broj,Ž,Smrtni slučajevi,7459
-2035,Broj,Ž,Smrtni slučajevi,7668
-2040,Broj,Ž,Smrtni slučajevi,7858
-2045,Broj,Ž,Smrtni slučajevi,7872
-2050,Broj,Ž,Smrtni slučajevi,7641
-2055,Broj,Ž,Smrtni slučajevi,7336
-2060,Broj,Ž,Smrtni slučajevi,7021
-2065,Broj,Ž,Smrtni slučajevi,6810
-2070,Broj,Ž,Smrtni slučajevi,6627
+2019,Broj,Ž,Umrli,7218
+2020,Broj,Ž,Umrli,7231
+2025,Broj,Ž,Umrli,7312
+2030,Broj,Ž,Umrli,7459
+2035,Broj,Ž,Umrli,7668
+2040,Broj,Ž,Umrli,7858
+2045,Broj,Ž,Umrli,7872
+2050,Broj,Ž,Umrli,7641
+2055,Broj,Ž,Umrli,7336
+2060,Broj,Ž,Umrli,7021
+2065,Broj,Ž,Umrli,6810
+2070,Broj,Ž,Umrli,6627
