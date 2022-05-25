@@ -17,24 +17,24 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Oba pola,Ukupno,14763
 2019,Broj,Oba pola,Ukupno,15081
 2020,Broj,Oba pola,Ukupno,16582
-2003,Broj,Oba pola,infectious_and_parasitic_diseases,89
-2004,Broj,Oba pola,infectious_and_parasitic_diseases,124
-2005,Broj,Oba pola,infectious_and_parasitic_diseases,128
-2006,Broj,Oba pola,infectious_and_parasitic_diseases,111
-2007,Broj,Oba pola,infectious_and_parasitic_diseases,103
-2008,Broj,Oba pola,infectious_and_parasitic_diseases,118
-2009,Broj,Oba pola,infectious_and_parasitic_diseases,118
-2010,Broj,Oba pola,infectious_and_parasitic_diseases,109
-2011,Broj,Oba pola,infectious_and_parasitic_diseases,117
-2012,Broj,Oba pola,infectious_and_parasitic_diseases,135
-2013,Broj,Oba pola,infectious_and_parasitic_diseases,120
-2014,Broj,Oba pola,infectious_and_parasitic_diseases,136
-2015,Broj,Oba pola,infectious_and_parasitic_diseases,159
-2016,Broj,Oba pola,infectious_and_parasitic_diseases,187
-2017,Broj,Oba pola,infectious_and_parasitic_diseases,147
-2018,Broj,Oba pola,infectious_and_parasitic_diseases,184
-2019,Broj,Oba pola,infectious_and_parasitic_diseases,200
-2020,Broj,Oba pola,infectious_and_parasitic_diseases,162
+2003,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,89
+2004,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,124
+2005,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,128
+2006,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,111
+2007,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,103
+2008,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,118
+2009,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,118
+2010,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,109
+2011,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,117
+2012,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,135
+2013,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,120
+2014,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,136
+2015,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,159
+2016,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,187
+2017,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,147
+2018,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,184
+2019,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,200
+2020,Broj,Oba pola,(A00-B99) Zarazne i parazitske bolesti,162
 2003,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2411
 2004,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2330
 2005,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2653
@@ -53,312 +53,312 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2938
 2019,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2891
 2020,Broj,Oba pola,"(C00-C97,D00-D48) Neoplazme",2719
-2003,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,8
-2004,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,13
-2005,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,15
-2006,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,6
-2007,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,16
-2008,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,8
-2009,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,13
-2010,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,15
-2011,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,17
-2012,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,15
-2013,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,16
-2014,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,10
-2015,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,19
-2016,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,24
-2017,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,20
-2018,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,36
-2019,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,24
-2020,Broj,Oba pola,diseases_of_the_blood_and_blood_forming_organs,27
-2003,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,180
-2004,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,160
-2005,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,727
-2006,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,790
-2007,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,791
-2008,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,764
-2009,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,891
-2010,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,691
-2011,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,654
-2012,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,561
-2013,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,800
-2014,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,912
-2015,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,762
-2016,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,691
-2017,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,825
-2018,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,844
-2019,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,604
-2020,Broj,Oba pola,diseases_of_the_endocrine_glands_nutrition_and_metabolism,825
-2003,Broj,Oba pola,mental_disorders_and_behavioral_disorders,33
-2004,Broj,Oba pola,mental_disorders_and_behavioral_disorders,58
-2005,Broj,Oba pola,mental_disorders_and_behavioral_disorders,80
-2006,Broj,Oba pola,mental_disorders_and_behavioral_disorders,82
-2007,Broj,Oba pola,mental_disorders_and_behavioral_disorders,107
-2008,Broj,Oba pola,mental_disorders_and_behavioral_disorders,101
-2009,Broj,Oba pola,mental_disorders_and_behavioral_disorders,122
-2010,Broj,Oba pola,mental_disorders_and_behavioral_disorders,84
-2011,Broj,Oba pola,mental_disorders_and_behavioral_disorders,72
-2012,Broj,Oba pola,mental_disorders_and_behavioral_disorders,58
-2013,Broj,Oba pola,mental_disorders_and_behavioral_disorders,95
-2014,Broj,Oba pola,mental_disorders_and_behavioral_disorders,84
-2015,Broj,Oba pola,mental_disorders_and_behavioral_disorders,72
-2016,Broj,Oba pola,mental_disorders_and_behavioral_disorders,98
-2017,Broj,Oba pola,mental_disorders_and_behavioral_disorders,113
-2018,Broj,Oba pola,mental_disorders_and_behavioral_disorders,85
-2019,Broj,Oba pola,mental_disorders_and_behavioral_disorders,72
-2020,Broj,Oba pola,mental_disorders_and_behavioral_disorders,72
-2003,Broj,Oba pola,diseases_of_the_nervous_system,65
-2004,Broj,Oba pola,diseases_of_the_nervous_system,91
-2005,Broj,Oba pola,diseases_of_the_nervous_system,170
-2006,Broj,Oba pola,diseases_of_the_nervous_system,184
-2007,Broj,Oba pola,diseases_of_the_nervous_system,155
-2008,Broj,Oba pola,diseases_of_the_nervous_system,146
-2009,Broj,Oba pola,diseases_of_the_nervous_system,133
-2010,Broj,Oba pola,diseases_of_the_nervous_system,152
-2011,Broj,Oba pola,diseases_of_the_nervous_system,209
-2012,Broj,Oba pola,diseases_of_the_nervous_system,207
-2013,Broj,Oba pola,diseases_of_the_nervous_system,185
-2014,Broj,Oba pola,diseases_of_the_nervous_system,186
-2015,Broj,Oba pola,diseases_of_the_nervous_system,212
-2016,Broj,Oba pola,diseases_of_the_nervous_system,171
-2017,Broj,Oba pola,diseases_of_the_nervous_system,197
-2018,Broj,Oba pola,diseases_of_the_nervous_system,169
-2019,Broj,Oba pola,diseases_of_the_nervous_system,165
-2020,Broj,Oba pola,diseases_of_the_nervous_system,188
-2003,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2004,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2005,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2006,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2007,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2008,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2009,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2010,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2011,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2012,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2013,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2014,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2015,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2016,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2017,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2018,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2019,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2020,Broj,Oba pola,eye_diseases_and_eye_soldering_disease,0
-2003,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2004,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2005,Broj,Oba pola,diseases_of_ear_and_mastoid_process,1
-2006,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2007,Broj,Oba pola,diseases_of_ear_and_mastoid_process,1
-2008,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2009,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2010,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2011,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2012,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2013,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2014,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2015,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2016,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2017,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2018,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2019,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2020,Broj,Oba pola,diseases_of_ear_and_mastoid_process,0
-2003,Broj,Oba pola,diseases_of_the_circulatory_system,7071
-2004,Broj,Oba pola,diseases_of_the_circulatory_system,7340
-2005,Broj,Oba pola,diseases_of_the_circulatory_system,7002
-2006,Broj,Oba pola,diseases_of_the_circulatory_system,6463
-2007,Broj,Oba pola,diseases_of_the_circulatory_system,7097
-2008,Broj,Oba pola,diseases_of_the_circulatory_system,6965
-2009,Broj,Oba pola,diseases_of_the_circulatory_system,7014
-2010,Broj,Oba pola,diseases_of_the_circulatory_system,7211
-2011,Broj,Oba pola,diseases_of_the_circulatory_system,7339
-2012,Broj,Oba pola,diseases_of_the_circulatory_system,7625
-2013,Broj,Oba pola,diseases_of_the_circulatory_system,6687
-2014,Broj,Oba pola,diseases_of_the_circulatory_system,6777
-2015,Broj,Oba pola,diseases_of_the_circulatory_system,7275
-2016,Broj,Oba pola,diseases_of_the_circulatory_system,6920
-2017,Broj,Oba pola,diseases_of_the_circulatory_system,7180
-2018,Broj,Oba pola,diseases_of_the_circulatory_system,6989
-2019,Broj,Oba pola,diseases_of_the_circulatory_system,7473
-2020,Broj,Oba pola,diseases_of_the_circulatory_system,7602
-2003,Broj,Oba pola,diseases_of_the_respiratory_system,304
-2004,Broj,Oba pola,diseases_of_the_respiratory_system,345
-2005,Broj,Oba pola,diseases_of_the_respiratory_system,504
-2006,Broj,Oba pola,diseases_of_the_respiratory_system,520
-2007,Broj,Oba pola,diseases_of_the_respiratory_system,493
-2008,Broj,Oba pola,diseases_of_the_respiratory_system,449
-2009,Broj,Oba pola,diseases_of_the_respiratory_system,430
-2010,Broj,Oba pola,diseases_of_the_respiratory_system,450
-2011,Broj,Oba pola,diseases_of_the_respiratory_system,536
-2012,Broj,Oba pola,diseases_of_the_respiratory_system,424
-2013,Broj,Oba pola,diseases_of_the_respiratory_system,556
-2014,Broj,Oba pola,diseases_of_the_respiratory_system,524
-2015,Broj,Oba pola,diseases_of_the_respiratory_system,618
-2016,Broj,Oba pola,diseases_of_the_respiratory_system,510
-2017,Broj,Oba pola,diseases_of_the_respiratory_system,576
-2018,Broj,Oba pola,diseases_of_the_respiratory_system,626
-2019,Broj,Oba pola,diseases_of_the_respiratory_system,596
-2020,Broj,Oba pola,diseases_of_the_respiratory_system,631
-2003,Broj,Oba pola,diseases_of_the_digestive_system,352
-2004,Broj,Oba pola,diseases_of_the_digestive_system,347
-2005,Broj,Oba pola,diseases_of_the_digestive_system,343
-2006,Broj,Oba pola,diseases_of_the_digestive_system,379
-2007,Broj,Oba pola,diseases_of_the_digestive_system,396
-2008,Broj,Oba pola,diseases_of_the_digestive_system,366
-2009,Broj,Oba pola,diseases_of_the_digestive_system,371
-2010,Broj,Oba pola,diseases_of_the_digestive_system,398
-2011,Broj,Oba pola,diseases_of_the_digestive_system,391
-2012,Broj,Oba pola,diseases_of_the_digestive_system,393
-2013,Broj,Oba pola,diseases_of_the_digestive_system,402
-2014,Broj,Oba pola,diseases_of_the_digestive_system,429
-2015,Broj,Oba pola,diseases_of_the_digestive_system,440
-2016,Broj,Oba pola,diseases_of_the_digestive_system,450
-2017,Broj,Oba pola,diseases_of_the_digestive_system,413
-2018,Broj,Oba pola,diseases_of_the_digestive_system,481
-2019,Broj,Oba pola,diseases_of_the_digestive_system,419
-2020,Broj,Oba pola,diseases_of_the_digestive_system,438
-2003,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,0
-2004,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,3
-2005,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,0
-2006,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,1
-2007,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,2
-2008,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,2
-2009,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,3
-2010,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,6
-2011,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,1
-2012,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,4
-2013,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,20
-2014,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,22
-2015,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,22
-2016,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,21
-2017,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,24
-2018,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,22
-2019,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,23
-2020,Broj,Oba pola,skin_and_subcutaneous_tissue_disorders,30
-2003,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,6
-2004,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
-2005,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
-2006,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,10
-2007,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
-2008,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
-2009,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
-2010,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,11
-2011,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,18
-2012,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,16
-2013,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,28
-2014,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,22
-2015,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,30
-2016,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,19
-2017,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
-2018,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,21
-2019,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
-2020,Broj,Oba pola,diseases_of_the_musculoskeletal_system_and_connective_tissue,28
-2003,Broj,Oba pola,diseases_of_the_genitourinary_system,222
-2004,Broj,Oba pola,diseases_of_the_genitourinary_system,205
-2005,Broj,Oba pola,diseases_of_the_genitourinary_system,257
-2006,Broj,Oba pola,diseases_of_the_genitourinary_system,266
-2007,Broj,Oba pola,diseases_of_the_genitourinary_system,275
-2008,Broj,Oba pola,diseases_of_the_genitourinary_system,268
-2009,Broj,Oba pola,diseases_of_the_genitourinary_system,257
-2010,Broj,Oba pola,diseases_of_the_genitourinary_system,255
-2011,Broj,Oba pola,diseases_of_the_genitourinary_system,175
-2012,Broj,Oba pola,diseases_of_the_genitourinary_system,236
-2013,Broj,Oba pola,diseases_of_the_genitourinary_system,213
-2014,Broj,Oba pola,diseases_of_the_genitourinary_system,150
-2015,Broj,Oba pola,diseases_of_the_genitourinary_system,179
-2016,Broj,Oba pola,diseases_of_the_genitourinary_system,218
-2017,Broj,Oba pola,diseases_of_the_genitourinary_system,193
-2018,Broj,Oba pola,diseases_of_the_genitourinary_system,220
-2019,Broj,Oba pola,diseases_of_the_genitourinary_system,195
-2020,Broj,Oba pola,diseases_of_the_genitourinary_system,221
-2003,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2004,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2005,Broj,Oba pola,pregnancy_childbirth_and_puerperium,2
-2006,Broj,Oba pola,pregnancy_childbirth_and_puerperium,2
-2007,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2008,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2009,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2010,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2011,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2012,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2013,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2014,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2015,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2016,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2017,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2018,Broj,Oba pola,pregnancy_childbirth_and_puerperium,1
-2019,Broj,Oba pola,pregnancy_childbirth_and_puerperium,0
-2020,Broj,Oba pola,pregnancy_childbirth_and_puerperium,3
-2003,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,44
-2004,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,38
-2005,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,27
-2006,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,38
-2007,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,27
-2008,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,20
-2009,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,34
-2010,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,29
-2011,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,36
-2012,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,29
-2013,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,21
-2014,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,16
-2015,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,10
-2016,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,18
-2017,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,17
-2018,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,10
-2019,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,11
-2020,Broj,Oba pola,certain_conditions_occurred_in_the_perinatal_period,34
-2003,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2004,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,11
-2005,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
-2006,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
-2007,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,14
-2008,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,15
-2009,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,20
-2010,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,17
-2011,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,9
-2012,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
-2013,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2014,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2015,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2016,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
-2017,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
-2018,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
-2019,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
-2020,Broj,Oba pola,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
-2003,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1612
-2004,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1462
-2005,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1249
-2006,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1200
-2007,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1288
-2008,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,945
-2009,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,953
-2010,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,877
-2011,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,681
-2012,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,612
-2013,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1231
-2014,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1445
-2015,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1556
-2016,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1198
-2017,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1435
-2018,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1650
-2019,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1961
-2020,Broj,Oba pola,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1599
-2003,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,580
-2004,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,552
-2005,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,618
-2006,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,615
-2007,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,634
-2008,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,584
-2009,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,581
-2010,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,511
-2011,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,600
-2012,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,538
-2013,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,504
-2014,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,532
-2015,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,559
-2016,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,491
-2017,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,474
-2018,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,482
-2019,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,430
-2020,Broj,Oba pola,injuries_poisonings_and_consequences_of_external_factors,405
+2003,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2004,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",13
+2005,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",15
+2006,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",6
+2007,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",16
+2008,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2009,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",13
+2010,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",15
+2011,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",17
+2012,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",15
+2013,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",16
+2014,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2015,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",19
+2016,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",24
+2017,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",20
+2018,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",36
+2019,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",24
+2020,Broj,Oba pola,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",27
+2003,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",180
+2004,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",160
+2005,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",727
+2006,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",790
+2007,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",791
+2008,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",764
+2009,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",891
+2010,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",691
+2011,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",654
+2012,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",561
+2013,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",800
+2014,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",912
+2015,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",762
+2016,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",691
+2017,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",825
+2018,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",844
+2019,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",604
+2020,Broj,Oba pola,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",825
+2003,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,33
+2004,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,58
+2005,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,80
+2006,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,82
+2007,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,107
+2008,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,101
+2009,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,122
+2010,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,84
+2011,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,72
+2012,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,58
+2013,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,95
+2014,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,84
+2015,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,72
+2016,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,98
+2017,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,113
+2018,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,85
+2019,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,72
+2020,Broj,Oba pola,(F00-F99) Duševni poremećaji i poremećaji ponašanja,72
+2003,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,65
+2004,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,91
+2005,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,170
+2006,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,184
+2007,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,155
+2008,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,146
+2009,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,133
+2010,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,152
+2011,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,209
+2012,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,207
+2013,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,185
+2014,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,186
+2015,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,212
+2016,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,171
+2017,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,197
+2018,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,169
+2019,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,165
+2020,Broj,Oba pola,(G00-G99) Bolesti nervnog sistema,188
+2003,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2004,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2005,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2006,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2007,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2008,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2009,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2010,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2011,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2012,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2013,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2014,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2015,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2016,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2017,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2018,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2019,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2020,Broj,Oba pola,"(H00-H93) Bolesti oka, uha i adneksa",0
+2003,Broj,Oba pola,diseases_of_the_ear,0
+2004,Broj,Oba pola,diseases_of_the_ear,0
+2005,Broj,Oba pola,diseases_of_the_ear,1
+2006,Broj,Oba pola,diseases_of_the_ear,0
+2007,Broj,Oba pola,diseases_of_the_ear,1
+2008,Broj,Oba pola,diseases_of_the_ear,0
+2009,Broj,Oba pola,diseases_of_the_ear,0
+2010,Broj,Oba pola,diseases_of_the_ear,0
+2011,Broj,Oba pola,diseases_of_the_ear,0
+2012,Broj,Oba pola,diseases_of_the_ear,0
+2013,Broj,Oba pola,diseases_of_the_ear,0
+2014,Broj,Oba pola,diseases_of_the_ear,0
+2015,Broj,Oba pola,diseases_of_the_ear,0
+2016,Broj,Oba pola,diseases_of_the_ear,0
+2017,Broj,Oba pola,diseases_of_the_ear,0
+2018,Broj,Oba pola,diseases_of_the_ear,0
+2019,Broj,Oba pola,diseases_of_the_ear,0
+2020,Broj,Oba pola,diseases_of_the_ear,0
+2003,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7071
+2004,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7340
+2005,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7002
+2006,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6463
+2007,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7097
+2008,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6965
+2009,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7014
+2010,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7211
+2011,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7339
+2012,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7625
+2013,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6687
+2014,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6777
+2015,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7275
+2016,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6920
+2017,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7180
+2018,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,6989
+2019,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7473
+2020,Broj,Oba pola,(I00-I99) Bolesti cirkulatornog sistema,7602
+2003,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,304
+2004,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,345
+2005,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,504
+2006,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,520
+2007,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,493
+2008,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,449
+2009,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,430
+2010,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,450
+2011,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,536
+2012,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,424
+2013,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,556
+2014,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,524
+2015,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,618
+2016,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,510
+2017,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,576
+2018,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,626
+2019,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,596
+2020,Broj,Oba pola,(J00-J99) Bolesti respiratornog sistema,631
+2003,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,352
+2004,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,347
+2005,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,343
+2006,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,379
+2007,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,396
+2008,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,366
+2009,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,371
+2010,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,398
+2011,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,391
+2012,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,393
+2013,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,402
+2014,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,429
+2015,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,440
+2016,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,450
+2017,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,413
+2018,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,481
+2019,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,419
+2020,Broj,Oba pola,(K00-K93) Bolesti digestivnog sistema,438
+2003,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2004,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,3
+2005,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2006,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2007,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2008,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2009,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,3
+2010,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,6
+2011,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2012,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,4
+2013,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,20
+2014,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,22
+2015,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,22
+2016,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,21
+2017,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,24
+2018,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,22
+2019,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,23
+2020,Broj,Oba pola,(L00-L99) Bolesti kože i potkožnog tkiva,30
+2003,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,6
+2004,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
+2005,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,12
+2006,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,10
+2007,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,13
+2008,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,17
+2009,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,13
+2010,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,11
+2011,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,18
+2012,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,16
+2013,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,28
+2014,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,22
+2015,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,30
+2016,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,19
+2017,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,17
+2018,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,21
+2019,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,13
+2020,Broj,Oba pola,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,28
+2003,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,222
+2004,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,205
+2005,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,257
+2006,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,266
+2007,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,275
+2008,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,268
+2009,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,257
+2010,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,255
+2011,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,175
+2012,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,236
+2013,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,213
+2014,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,150
+2015,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,179
+2016,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,218
+2017,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,193
+2018,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,220
+2019,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,195
+2020,Broj,Oba pola,(N00-N99) Bolesti genitourinarnog sistema,221
+2003,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2004,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2005,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",2
+2006,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",2
+2007,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2008,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2009,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2010,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2011,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2012,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2013,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2014,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2015,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2016,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2017,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2018,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2019,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2020,Broj,Oba pola,"(O00-O99) Trudnoća, porođaj i postporođajni period",3
+2003,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,44
+2004,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,38
+2005,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,27
+2006,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,38
+2007,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,27
+2008,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,20
+2009,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,34
+2010,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,29
+2011,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,36
+2012,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,29
+2013,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,21
+2014,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,16
+2015,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
+2016,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,18
+2017,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,17
+2018,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
+2019,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,11
+2020,Broj,Oba pola,(P00-P96) Određena stanja nastala u perinatalnom periodu,34
+2003,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2004,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",11
+2005,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",14
+2006,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",14
+2007,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",14
+2008,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",15
+2009,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",20
+2010,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",17
+2011,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",9
+2012,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",6
+2013,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2014,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2015,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2016,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",5
+2017,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",5
+2018,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",5
+2019,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",4
+2020,Broj,Oba pola,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",6
+2003,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1612
+2004,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1462
+2005,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1249
+2006,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1200
+2007,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1288
+2008,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",945
+2009,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",953
+2010,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",877
+2011,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",681
+2012,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",612
+2013,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1231
+2014,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1445
+2015,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1556
+2016,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1198
+2017,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1435
+2018,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1650
+2019,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1961
+2020,Broj,Oba pola,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1599
+2003,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",580
+2004,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",552
+2005,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",618
+2006,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",615
+2007,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",634
+2008,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",584
+2009,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",581
+2010,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",511
+2011,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",600
+2012,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",538
+2013,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",504
+2014,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",532
+2015,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",559
+2016,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",491
+2017,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",474
+2018,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",482
+2019,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",430
+2020,Broj,Oba pola,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",405
 2003,Broj,Oba pola,special_purpose_codes,0
 2004,Broj,Oba pola,special_purpose_codes,0
 2005,Broj,Oba pola,special_purpose_codes,0
@@ -395,24 +395,24 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,Ukupno,7449
 2019,Broj,M,Ukupno,7753
 2020,Broj,M,Ukupno,8613
-2003,Broj,M,infectious_and_parasitic_diseases,59
-2004,Broj,M,infectious_and_parasitic_diseases,75
-2005,Broj,M,infectious_and_parasitic_diseases,78
-2006,Broj,M,infectious_and_parasitic_diseases,73
-2007,Broj,M,infectious_and_parasitic_diseases,70
-2008,Broj,M,infectious_and_parasitic_diseases,72
-2009,Broj,M,infectious_and_parasitic_diseases,75
-2010,Broj,M,infectious_and_parasitic_diseases,72
-2011,Broj,M,infectious_and_parasitic_diseases,79
-2012,Broj,M,infectious_and_parasitic_diseases,69
-2013,Broj,M,infectious_and_parasitic_diseases,73
-2014,Broj,M,infectious_and_parasitic_diseases,80
-2015,Broj,M,infectious_and_parasitic_diseases,92
-2016,Broj,M,infectious_and_parasitic_diseases,104
-2017,Broj,M,infectious_and_parasitic_diseases,85
-2018,Broj,M,infectious_and_parasitic_diseases,109
-2019,Broj,M,infectious_and_parasitic_diseases,119
-2020,Broj,M,infectious_and_parasitic_diseases,87
+2003,Broj,M,(A00-B99) Zarazne i parazitske bolesti,59
+2004,Broj,M,(A00-B99) Zarazne i parazitske bolesti,75
+2005,Broj,M,(A00-B99) Zarazne i parazitske bolesti,78
+2006,Broj,M,(A00-B99) Zarazne i parazitske bolesti,73
+2007,Broj,M,(A00-B99) Zarazne i parazitske bolesti,70
+2008,Broj,M,(A00-B99) Zarazne i parazitske bolesti,72
+2009,Broj,M,(A00-B99) Zarazne i parazitske bolesti,75
+2010,Broj,M,(A00-B99) Zarazne i parazitske bolesti,72
+2011,Broj,M,(A00-B99) Zarazne i parazitske bolesti,79
+2012,Broj,M,(A00-B99) Zarazne i parazitske bolesti,69
+2013,Broj,M,(A00-B99) Zarazne i parazitske bolesti,73
+2014,Broj,M,(A00-B99) Zarazne i parazitske bolesti,80
+2015,Broj,M,(A00-B99) Zarazne i parazitske bolesti,92
+2016,Broj,M,(A00-B99) Zarazne i parazitske bolesti,104
+2017,Broj,M,(A00-B99) Zarazne i parazitske bolesti,85
+2018,Broj,M,(A00-B99) Zarazne i parazitske bolesti,109
+2019,Broj,M,(A00-B99) Zarazne i parazitske bolesti,119
+2020,Broj,M,(A00-B99) Zarazne i parazitske bolesti,87
 2003,Broj,M,"(C00-C97,D00-D48) Neoplazme",1461
 2004,Broj,M,"(C00-C97,D00-D48) Neoplazme",1402
 2005,Broj,M,"(C00-C97,D00-D48) Neoplazme",1581
@@ -431,294 +431,294 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,M,"(C00-C97,D00-D48) Neoplazme",1729
 2019,Broj,M,"(C00-C97,D00-D48) Neoplazme",1705
 2020,Broj,M,"(C00-C97,D00-D48) Neoplazme",1622
-2003,Broj,M,diseases_of_the_blood_and_blood_forming_organs,6
-2004,Broj,M,diseases_of_the_blood_and_blood_forming_organs,2
-2005,Broj,M,diseases_of_the_blood_and_blood_forming_organs,5
-2006,Broj,M,diseases_of_the_blood_and_blood_forming_organs,2
-2007,Broj,M,diseases_of_the_blood_and_blood_forming_organs,6
-2008,Broj,M,diseases_of_the_blood_and_blood_forming_organs,3
-2009,Broj,M,diseases_of_the_blood_and_blood_forming_organs,4
-2010,Broj,M,diseases_of_the_blood_and_blood_forming_organs,5
-2011,Broj,M,diseases_of_the_blood_and_blood_forming_organs,7
-2012,Broj,M,diseases_of_the_blood_and_blood_forming_organs,9
-2013,Broj,M,diseases_of_the_blood_and_blood_forming_organs,8
-2014,Broj,M,diseases_of_the_blood_and_blood_forming_organs,2
-2015,Broj,M,diseases_of_the_blood_and_blood_forming_organs,9
-2016,Broj,M,diseases_of_the_blood_and_blood_forming_organs,9
-2017,Broj,M,diseases_of_the_blood_and_blood_forming_organs,3
-2018,Broj,M,diseases_of_the_blood_and_blood_forming_organs,18
-2019,Broj,M,diseases_of_the_blood_and_blood_forming_organs,8
-2020,Broj,M,diseases_of_the_blood_and_blood_forming_organs,12
-2003,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,71
-2004,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,68
-2005,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,286
-2006,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,306
-2007,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,349
-2008,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,310
-2009,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,361
-2010,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,289
-2011,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,257
-2012,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,211
-2013,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,341
-2014,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,411
-2015,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,362
-2016,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,313
-2017,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,373
-2018,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,386
-2019,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,261
-2020,Broj,M,diseases_of_the_endocrine_glands_nutrition_and_metabolism,340
-2003,Broj,M,mental_disorders_and_behavioral_disorders,24
-2004,Broj,M,mental_disorders_and_behavioral_disorders,46
-2005,Broj,M,mental_disorders_and_behavioral_disorders,64
-2006,Broj,M,mental_disorders_and_behavioral_disorders,67
-2007,Broj,M,mental_disorders_and_behavioral_disorders,87
-2008,Broj,M,mental_disorders_and_behavioral_disorders,82
-2009,Broj,M,mental_disorders_and_behavioral_disorders,92
-2010,Broj,M,mental_disorders_and_behavioral_disorders,73
-2011,Broj,M,mental_disorders_and_behavioral_disorders,58
-2012,Broj,M,mental_disorders_and_behavioral_disorders,46
-2013,Broj,M,mental_disorders_and_behavioral_disorders,64
-2014,Broj,M,mental_disorders_and_behavioral_disorders,63
-2015,Broj,M,mental_disorders_and_behavioral_disorders,44
-2016,Broj,M,mental_disorders_and_behavioral_disorders,72
-2017,Broj,M,mental_disorders_and_behavioral_disorders,70
-2018,Broj,M,mental_disorders_and_behavioral_disorders,55
-2019,Broj,M,mental_disorders_and_behavioral_disorders,50
-2020,Broj,M,mental_disorders_and_behavioral_disorders,43
-2003,Broj,M,diseases_of_the_nervous_system,39
-2004,Broj,M,diseases_of_the_nervous_system,53
-2005,Broj,M,diseases_of_the_nervous_system,86
-2006,Broj,M,diseases_of_the_nervous_system,111
-2007,Broj,M,diseases_of_the_nervous_system,85
-2008,Broj,M,diseases_of_the_nervous_system,91
-2009,Broj,M,diseases_of_the_nervous_system,78
-2010,Broj,M,diseases_of_the_nervous_system,76
-2011,Broj,M,diseases_of_the_nervous_system,112
-2012,Broj,M,diseases_of_the_nervous_system,105
-2013,Broj,M,diseases_of_the_nervous_system,98
-2014,Broj,M,diseases_of_the_nervous_system,97
-2015,Broj,M,diseases_of_the_nervous_system,106
-2016,Broj,M,diseases_of_the_nervous_system,96
-2017,Broj,M,diseases_of_the_nervous_system,102
-2018,Broj,M,diseases_of_the_nervous_system,82
-2019,Broj,M,diseases_of_the_nervous_system,84
-2020,Broj,M,diseases_of_the_nervous_system,91
-2003,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2004,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2005,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2006,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2007,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2008,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2009,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2010,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2011,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2012,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2013,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2014,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2015,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2016,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2017,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2018,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2019,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2020,Broj,M,eye_diseases_and_eye_soldering_disease,0
-2003,Broj,M,diseases_of_ear_and_mastoid_process,0
-2004,Broj,M,diseases_of_ear_and_mastoid_process,0
-2005,Broj,M,diseases_of_ear_and_mastoid_process,1
-2006,Broj,M,diseases_of_ear_and_mastoid_process,0
-2007,Broj,M,diseases_of_ear_and_mastoid_process,1
-2008,Broj,M,diseases_of_ear_and_mastoid_process,0
-2009,Broj,M,diseases_of_ear_and_mastoid_process,0
-2010,Broj,M,diseases_of_ear_and_mastoid_process,0
-2011,Broj,M,diseases_of_ear_and_mastoid_process,0
-2012,Broj,M,diseases_of_ear_and_mastoid_process,0
-2013,Broj,M,diseases_of_ear_and_mastoid_process,0
-2014,Broj,M,diseases_of_ear_and_mastoid_process,0
-2015,Broj,M,diseases_of_ear_and_mastoid_process,0
-2016,Broj,M,diseases_of_ear_and_mastoid_process,0
-2017,Broj,M,diseases_of_ear_and_mastoid_process,0
-2018,Broj,M,diseases_of_ear_and_mastoid_process,0
-2019,Broj,M,diseases_of_ear_and_mastoid_process,0
-2020,Broj,M,diseases_of_ear_and_mastoid_process,0
-2003,Broj,M,diseases_of_the_circulatory_system,3323
-2004,Broj,M,diseases_of_the_circulatory_system,3383
-2005,Broj,M,diseases_of_the_circulatory_system,3325
-2006,Broj,M,diseases_of_the_circulatory_system,3005
-2007,Broj,M,diseases_of_the_circulatory_system,3233
-2008,Broj,M,diseases_of_the_circulatory_system,3209
-2009,Broj,M,diseases_of_the_circulatory_system,3271
-2010,Broj,M,diseases_of_the_circulatory_system,3285
-2011,Broj,M,diseases_of_the_circulatory_system,3330
-2012,Broj,M,diseases_of_the_circulatory_system,3516
-2013,Broj,M,diseases_of_the_circulatory_system,3062
-2014,Broj,M,diseases_of_the_circulatory_system,3142
-2015,Broj,M,diseases_of_the_circulatory_system,3311
-2016,Broj,M,diseases_of_the_circulatory_system,3177
-2017,Broj,M,diseases_of_the_circulatory_system,3220
-2018,Broj,M,diseases_of_the_circulatory_system,3084
-2019,Broj,M,diseases_of_the_circulatory_system,3440
-2020,Broj,M,diseases_of_the_circulatory_system,3452
-2003,Broj,M,diseases_of_the_respiratory_system,184
-2004,Broj,M,diseases_of_the_respiratory_system,211
-2005,Broj,M,diseases_of_the_respiratory_system,284
-2006,Broj,M,diseases_of_the_respiratory_system,292
-2007,Broj,M,diseases_of_the_respiratory_system,282
-2008,Broj,M,diseases_of_the_respiratory_system,276
-2009,Broj,M,diseases_of_the_respiratory_system,254
-2010,Broj,M,diseases_of_the_respiratory_system,277
-2011,Broj,M,diseases_of_the_respiratory_system,303
-2012,Broj,M,diseases_of_the_respiratory_system,263
-2013,Broj,M,diseases_of_the_respiratory_system,334
-2014,Broj,M,diseases_of_the_respiratory_system,315
-2015,Broj,M,diseases_of_the_respiratory_system,370
-2016,Broj,M,diseases_of_the_respiratory_system,306
-2017,Broj,M,diseases_of_the_respiratory_system,333
-2018,Broj,M,diseases_of_the_respiratory_system,344
-2019,Broj,M,diseases_of_the_respiratory_system,338
-2020,Broj,M,diseases_of_the_respiratory_system,377
-2003,Broj,M,diseases_of_the_digestive_system,216
-2004,Broj,M,diseases_of_the_digestive_system,206
-2005,Broj,M,diseases_of_the_digestive_system,219
-2006,Broj,M,diseases_of_the_digestive_system,233
-2007,Broj,M,diseases_of_the_digestive_system,249
-2008,Broj,M,diseases_of_the_digestive_system,235
-2009,Broj,M,diseases_of_the_digestive_system,223
-2010,Broj,M,diseases_of_the_digestive_system,242
-2011,Broj,M,diseases_of_the_digestive_system,255
-2012,Broj,M,diseases_of_the_digestive_system,248
-2013,Broj,M,diseases_of_the_digestive_system,219
-2014,Broj,M,diseases_of_the_digestive_system,241
-2015,Broj,M,diseases_of_the_digestive_system,249
-2016,Broj,M,diseases_of_the_digestive_system,265
-2017,Broj,M,diseases_of_the_digestive_system,229
-2018,Broj,M,diseases_of_the_digestive_system,290
-2019,Broj,M,diseases_of_the_digestive_system,239
-2020,Broj,M,diseases_of_the_digestive_system,269
-2003,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2004,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2005,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2006,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2007,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2008,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2009,Broj,M,skin_and_subcutaneous_tissue_disorders,1
-2010,Broj,M,skin_and_subcutaneous_tissue_disorders,4
-2011,Broj,M,skin_and_subcutaneous_tissue_disorders,0
-2012,Broj,M,skin_and_subcutaneous_tissue_disorders,3
-2013,Broj,M,skin_and_subcutaneous_tissue_disorders,9
-2014,Broj,M,skin_and_subcutaneous_tissue_disorders,13
-2015,Broj,M,skin_and_subcutaneous_tissue_disorders,7
-2016,Broj,M,skin_and_subcutaneous_tissue_disorders,7
-2017,Broj,M,skin_and_subcutaneous_tissue_disorders,5
-2018,Broj,M,skin_and_subcutaneous_tissue_disorders,12
-2019,Broj,M,skin_and_subcutaneous_tissue_disorders,7
-2020,Broj,M,skin_and_subcutaneous_tissue_disorders,13
-2003,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
-2004,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,1
-2005,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,5
-2006,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,1
-2007,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
-2008,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
-2009,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,2
-2010,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
-2011,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
-2012,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
-2013,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
-2014,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
-2015,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
-2016,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,6
-2017,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
-2018,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
-2019,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,4
-2020,Broj,M,diseases_of_the_musculoskeletal_system_and_connective_tissue,7
-2003,Broj,M,diseases_of_the_genitourinary_system,123
-2004,Broj,M,diseases_of_the_genitourinary_system,113
-2005,Broj,M,diseases_of_the_genitourinary_system,160
-2006,Broj,M,diseases_of_the_genitourinary_system,152
-2007,Broj,M,diseases_of_the_genitourinary_system,163
-2008,Broj,M,diseases_of_the_genitourinary_system,155
-2009,Broj,M,diseases_of_the_genitourinary_system,139
-2010,Broj,M,diseases_of_the_genitourinary_system,140
-2011,Broj,M,diseases_of_the_genitourinary_system,101
-2012,Broj,M,diseases_of_the_genitourinary_system,116
-2013,Broj,M,diseases_of_the_genitourinary_system,121
-2014,Broj,M,diseases_of_the_genitourinary_system,73
-2015,Broj,M,diseases_of_the_genitourinary_system,93
-2016,Broj,M,diseases_of_the_genitourinary_system,117
-2017,Broj,M,diseases_of_the_genitourinary_system,96
-2018,Broj,M,diseases_of_the_genitourinary_system,117
-2019,Broj,M,diseases_of_the_genitourinary_system,104
-2020,Broj,M,diseases_of_the_genitourinary_system,113
-2003,Broj,M,certain_conditions_occurred_in_the_perinatal_period,23
-2004,Broj,M,certain_conditions_occurred_in_the_perinatal_period,28
-2005,Broj,M,certain_conditions_occurred_in_the_perinatal_period,17
-2006,Broj,M,certain_conditions_occurred_in_the_perinatal_period,26
-2007,Broj,M,certain_conditions_occurred_in_the_perinatal_period,15
-2008,Broj,M,certain_conditions_occurred_in_the_perinatal_period,12
-2009,Broj,M,certain_conditions_occurred_in_the_perinatal_period,22
-2010,Broj,M,certain_conditions_occurred_in_the_perinatal_period,13
-2011,Broj,M,certain_conditions_occurred_in_the_perinatal_period,20
-2012,Broj,M,certain_conditions_occurred_in_the_perinatal_period,18
-2013,Broj,M,certain_conditions_occurred_in_the_perinatal_period,13
-2014,Broj,M,certain_conditions_occurred_in_the_perinatal_period,7
-2015,Broj,M,certain_conditions_occurred_in_the_perinatal_period,2
-2016,Broj,M,certain_conditions_occurred_in_the_perinatal_period,13
-2017,Broj,M,certain_conditions_occurred_in_the_perinatal_period,7
-2018,Broj,M,certain_conditions_occurred_in_the_perinatal_period,3
-2019,Broj,M,certain_conditions_occurred_in_the_perinatal_period,6
-2020,Broj,M,certain_conditions_occurred_in_the_perinatal_period,16
-2003,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2004,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2005,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
-2006,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2007,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
-2008,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
-2009,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2010,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2011,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2012,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,5
-2013,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2014,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2015,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2016,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2017,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
-2018,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
-2019,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,0
-2020,Broj,M,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2003,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,821
-2004,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,726
-2005,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,659
-2006,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,627
-2007,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,638
-2008,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,496
-2009,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,485
-2010,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,446
-2011,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,302
-2012,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,277
-2013,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,643
-2014,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,718
-2015,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,780
-2016,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,598
-2017,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,720
-2018,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,844
-2019,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,1048
-2020,Broj,M,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,834
-2003,Broj,M,injuries_poisonings_and_consequences_of_external_factors,444
-2004,Broj,M,injuries_poisonings_and_consequences_of_external_factors,411
-2005,Broj,M,injuries_poisonings_and_consequences_of_external_factors,463
-2006,Broj,M,injuries_poisonings_and_consequences_of_external_factors,466
-2007,Broj,M,injuries_poisonings_and_consequences_of_external_factors,488
-2008,Broj,M,injuries_poisonings_and_consequences_of_external_factors,451
-2009,Broj,M,injuries_poisonings_and_consequences_of_external_factors,424
-2010,Broj,M,injuries_poisonings_and_consequences_of_external_factors,405
-2011,Broj,M,injuries_poisonings_and_consequences_of_external_factors,482
-2012,Broj,M,injuries_poisonings_and_consequences_of_external_factors,420
-2013,Broj,M,injuries_poisonings_and_consequences_of_external_factors,377
-2014,Broj,M,injuries_poisonings_and_consequences_of_external_factors,412
-2015,Broj,M,injuries_poisonings_and_consequences_of_external_factors,417
-2016,Broj,M,injuries_poisonings_and_consequences_of_external_factors,373
-2017,Broj,M,injuries_poisonings_and_consequences_of_external_factors,349
-2018,Broj,M,injuries_poisonings_and_consequences_of_external_factors,370
-2019,Broj,M,injuries_poisonings_and_consequences_of_external_factors,340
-2020,Broj,M,injuries_poisonings_and_consequences_of_external_factors,304
+2003,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",6
+2004,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",2
+2005,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
+2006,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",2
+2007,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",6
+2008,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",3
+2009,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",4
+2010,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
+2011,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",7
+2012,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",9
+2013,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2014,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",2
+2015,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",9
+2016,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",9
+2017,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",3
+2018,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",18
+2019,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2020,Broj,M,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",12
+2003,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",71
+2004,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",68
+2005,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",286
+2006,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",306
+2007,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",349
+2008,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",310
+2009,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",361
+2010,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",289
+2011,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",257
+2012,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",211
+2013,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",341
+2014,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",411
+2015,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",362
+2016,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",313
+2017,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",373
+2018,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",386
+2019,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",261
+2020,Broj,M,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",340
+2003,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,24
+2004,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,46
+2005,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,64
+2006,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,67
+2007,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,87
+2008,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,82
+2009,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,92
+2010,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,73
+2011,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,58
+2012,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,46
+2013,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,64
+2014,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,63
+2015,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,44
+2016,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,72
+2017,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,70
+2018,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,55
+2019,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,50
+2020,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,43
+2003,Broj,M,(G00-G99) Bolesti nervnog sistema,39
+2004,Broj,M,(G00-G99) Bolesti nervnog sistema,53
+2005,Broj,M,(G00-G99) Bolesti nervnog sistema,86
+2006,Broj,M,(G00-G99) Bolesti nervnog sistema,111
+2007,Broj,M,(G00-G99) Bolesti nervnog sistema,85
+2008,Broj,M,(G00-G99) Bolesti nervnog sistema,91
+2009,Broj,M,(G00-G99) Bolesti nervnog sistema,78
+2010,Broj,M,(G00-G99) Bolesti nervnog sistema,76
+2011,Broj,M,(G00-G99) Bolesti nervnog sistema,112
+2012,Broj,M,(G00-G99) Bolesti nervnog sistema,105
+2013,Broj,M,(G00-G99) Bolesti nervnog sistema,98
+2014,Broj,M,(G00-G99) Bolesti nervnog sistema,97
+2015,Broj,M,(G00-G99) Bolesti nervnog sistema,106
+2016,Broj,M,(G00-G99) Bolesti nervnog sistema,96
+2017,Broj,M,(G00-G99) Bolesti nervnog sistema,102
+2018,Broj,M,(G00-G99) Bolesti nervnog sistema,82
+2019,Broj,M,(G00-G99) Bolesti nervnog sistema,84
+2020,Broj,M,(G00-G99) Bolesti nervnog sistema,91
+2003,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2004,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2005,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2006,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2007,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2008,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2009,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2010,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2011,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2012,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2013,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2014,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2015,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2016,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2017,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2018,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2019,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2020,Broj,M,"(H00-H93) Bolesti oka, uha i adneksa",0
+2003,Broj,M,diseases_of_the_ear,0
+2004,Broj,M,diseases_of_the_ear,0
+2005,Broj,M,diseases_of_the_ear,1
+2006,Broj,M,diseases_of_the_ear,0
+2007,Broj,M,diseases_of_the_ear,1
+2008,Broj,M,diseases_of_the_ear,0
+2009,Broj,M,diseases_of_the_ear,0
+2010,Broj,M,diseases_of_the_ear,0
+2011,Broj,M,diseases_of_the_ear,0
+2012,Broj,M,diseases_of_the_ear,0
+2013,Broj,M,diseases_of_the_ear,0
+2014,Broj,M,diseases_of_the_ear,0
+2015,Broj,M,diseases_of_the_ear,0
+2016,Broj,M,diseases_of_the_ear,0
+2017,Broj,M,diseases_of_the_ear,0
+2018,Broj,M,diseases_of_the_ear,0
+2019,Broj,M,diseases_of_the_ear,0
+2020,Broj,M,diseases_of_the_ear,0
+2003,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3323
+2004,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3383
+2005,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3325
+2006,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3005
+2007,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3233
+2008,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3209
+2009,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3271
+2010,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3285
+2011,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3330
+2012,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3516
+2013,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3062
+2014,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3142
+2015,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3311
+2016,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3177
+2017,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3220
+2018,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3084
+2019,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3440
+2020,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3452
+2003,Broj,M,(J00-J99) Bolesti respiratornog sistema,184
+2004,Broj,M,(J00-J99) Bolesti respiratornog sistema,211
+2005,Broj,M,(J00-J99) Bolesti respiratornog sistema,284
+2006,Broj,M,(J00-J99) Bolesti respiratornog sistema,292
+2007,Broj,M,(J00-J99) Bolesti respiratornog sistema,282
+2008,Broj,M,(J00-J99) Bolesti respiratornog sistema,276
+2009,Broj,M,(J00-J99) Bolesti respiratornog sistema,254
+2010,Broj,M,(J00-J99) Bolesti respiratornog sistema,277
+2011,Broj,M,(J00-J99) Bolesti respiratornog sistema,303
+2012,Broj,M,(J00-J99) Bolesti respiratornog sistema,263
+2013,Broj,M,(J00-J99) Bolesti respiratornog sistema,334
+2014,Broj,M,(J00-J99) Bolesti respiratornog sistema,315
+2015,Broj,M,(J00-J99) Bolesti respiratornog sistema,370
+2016,Broj,M,(J00-J99) Bolesti respiratornog sistema,306
+2017,Broj,M,(J00-J99) Bolesti respiratornog sistema,333
+2018,Broj,M,(J00-J99) Bolesti respiratornog sistema,344
+2019,Broj,M,(J00-J99) Bolesti respiratornog sistema,338
+2020,Broj,M,(J00-J99) Bolesti respiratornog sistema,377
+2003,Broj,M,(K00-K93) Bolesti digestivnog sistema,216
+2004,Broj,M,(K00-K93) Bolesti digestivnog sistema,206
+2005,Broj,M,(K00-K93) Bolesti digestivnog sistema,219
+2006,Broj,M,(K00-K93) Bolesti digestivnog sistema,233
+2007,Broj,M,(K00-K93) Bolesti digestivnog sistema,249
+2008,Broj,M,(K00-K93) Bolesti digestivnog sistema,235
+2009,Broj,M,(K00-K93) Bolesti digestivnog sistema,223
+2010,Broj,M,(K00-K93) Bolesti digestivnog sistema,242
+2011,Broj,M,(K00-K93) Bolesti digestivnog sistema,255
+2012,Broj,M,(K00-K93) Bolesti digestivnog sistema,248
+2013,Broj,M,(K00-K93) Bolesti digestivnog sistema,219
+2014,Broj,M,(K00-K93) Bolesti digestivnog sistema,241
+2015,Broj,M,(K00-K93) Bolesti digestivnog sistema,249
+2016,Broj,M,(K00-K93) Bolesti digestivnog sistema,265
+2017,Broj,M,(K00-K93) Bolesti digestivnog sistema,229
+2018,Broj,M,(K00-K93) Bolesti digestivnog sistema,290
+2019,Broj,M,(K00-K93) Bolesti digestivnog sistema,239
+2020,Broj,M,(K00-K93) Bolesti digestivnog sistema,269
+2003,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2004,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2005,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2006,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2007,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2008,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2009,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2010,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,4
+2011,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2012,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,3
+2013,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,9
+2014,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,13
+2015,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,7
+2016,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,7
+2017,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,5
+2018,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,12
+2019,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,7
+2020,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,13
+2003,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
+2004,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,1
+2005,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,5
+2006,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,1
+2007,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
+2008,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
+2009,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,2
+2010,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
+2011,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
+2012,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
+2013,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,9
+2014,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,8
+2015,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,12
+2016,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,6
+2017,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,8
+2018,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
+2019,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,4
+2020,Broj,M,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,7
+2003,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,123
+2004,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,113
+2005,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,160
+2006,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,152
+2007,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,163
+2008,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,155
+2009,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,139
+2010,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,140
+2011,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,101
+2012,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,116
+2013,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,121
+2014,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,73
+2015,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,93
+2016,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,117
+2017,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,96
+2018,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,117
+2019,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,104
+2020,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,113
+2003,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,23
+2004,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,28
+2005,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,17
+2006,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,26
+2007,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,15
+2008,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,12
+2009,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,22
+2010,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,13
+2011,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,20
+2012,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,18
+2013,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,13
+2014,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,7
+2015,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,2
+2016,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,13
+2017,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,7
+2018,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,3
+2019,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,6
+2020,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,16
+2003,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2004,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2005,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",6
+2006,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2007,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",8
+2008,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",5
+2009,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2010,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2011,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2012,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",5
+2013,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2014,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2015,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2016,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2017,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",4
+2018,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",2
+2019,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",0
+2020,Broj,M,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2003,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",821
+2004,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",726
+2005,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",659
+2006,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",627
+2007,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",638
+2008,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",496
+2009,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",485
+2010,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",446
+2011,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",302
+2012,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",277
+2013,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",643
+2014,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",718
+2015,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",780
+2016,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",598
+2017,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",720
+2018,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",844
+2019,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",1048
+2020,Broj,M,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",834
+2003,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",444
+2004,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",411
+2005,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",463
+2006,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",466
+2007,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",488
+2008,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",451
+2009,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",424
+2010,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",405
+2011,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",482
+2012,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",420
+2013,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",377
+2014,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",412
+2015,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",417
+2016,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",373
+2017,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",349
+2018,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",370
+2019,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",340
+2020,Broj,M,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",304
 2003,Broj,M,special_purpose_codes,0
 2004,Broj,M,special_purpose_codes,0
 2005,Broj,M,special_purpose_codes,0
@@ -755,24 +755,24 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Ž,Ukupno,7314
 2019,Broj,Ž,Ukupno,7328
 2020,Broj,Ž,Ukupno,7969
-2003,Broj,Ž,infectious_and_parasitic_diseases,30
-2004,Broj,Ž,infectious_and_parasitic_diseases,49
-2005,Broj,Ž,infectious_and_parasitic_diseases,50
-2006,Broj,Ž,infectious_and_parasitic_diseases,38
-2007,Broj,Ž,infectious_and_parasitic_diseases,33
-2008,Broj,Ž,infectious_and_parasitic_diseases,46
-2009,Broj,Ž,infectious_and_parasitic_diseases,43
-2010,Broj,Ž,infectious_and_parasitic_diseases,37
-2011,Broj,Ž,infectious_and_parasitic_diseases,38
-2012,Broj,Ž,infectious_and_parasitic_diseases,66
-2013,Broj,Ž,infectious_and_parasitic_diseases,47
-2014,Broj,Ž,infectious_and_parasitic_diseases,56
-2015,Broj,Ž,infectious_and_parasitic_diseases,67
-2016,Broj,Ž,infectious_and_parasitic_diseases,83
-2017,Broj,Ž,infectious_and_parasitic_diseases,62
-2018,Broj,Ž,infectious_and_parasitic_diseases,75
-2019,Broj,Ž,infectious_and_parasitic_diseases,81
-2020,Broj,Ž,infectious_and_parasitic_diseases,75
+2003,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,30
+2004,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,49
+2005,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,50
+2006,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,38
+2007,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,33
+2008,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,46
+2009,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,43
+2010,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,37
+2011,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,38
+2012,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,66
+2013,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,47
+2014,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,56
+2015,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,67
+2016,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,83
+2017,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,62
+2018,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,75
+2019,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,81
+2020,Broj,Ž,(A00-B99) Zarazne i parazitske bolesti,75
 2003,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",950
 2004,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",928
 2005,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1072
@@ -791,312 +791,312 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2018,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1209
 2019,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1186
 2020,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1097
-2003,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,2
-2004,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,11
-2005,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,10
-2006,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,4
-2007,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,10
-2008,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,5
-2009,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,9
-2010,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,10
-2011,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,10
-2012,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,6
-2013,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,8
-2014,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,8
-2015,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,10
-2016,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,15
-2017,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,17
-2018,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,18
-2019,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,16
-2020,Broj,Ž,diseases_of_the_blood_and_blood_forming_organs,15
-2003,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,109
-2004,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,92
-2005,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,441
-2006,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,484
-2007,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,442
-2008,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,454
-2009,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,530
-2010,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,402
-2011,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,397
-2012,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,350
-2013,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,459
-2014,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,501
-2015,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,400
-2016,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,378
-2017,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,452
-2018,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,458
-2019,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,343
-2020,Broj,Ž,diseases_of_the_endocrine_glands_nutrition_and_metabolism,485
-2003,Broj,Ž,mental_disorders_and_behavioral_disorders,9
-2004,Broj,Ž,mental_disorders_and_behavioral_disorders,12
-2005,Broj,Ž,mental_disorders_and_behavioral_disorders,16
-2006,Broj,Ž,mental_disorders_and_behavioral_disorders,15
-2007,Broj,Ž,mental_disorders_and_behavioral_disorders,20
-2008,Broj,Ž,mental_disorders_and_behavioral_disorders,19
-2009,Broj,Ž,mental_disorders_and_behavioral_disorders,30
-2010,Broj,Ž,mental_disorders_and_behavioral_disorders,11
-2011,Broj,Ž,mental_disorders_and_behavioral_disorders,14
-2012,Broj,Ž,mental_disorders_and_behavioral_disorders,12
-2013,Broj,Ž,mental_disorders_and_behavioral_disorders,31
-2014,Broj,Ž,mental_disorders_and_behavioral_disorders,21
-2015,Broj,Ž,mental_disorders_and_behavioral_disorders,28
-2016,Broj,Ž,mental_disorders_and_behavioral_disorders,26
-2017,Broj,Ž,mental_disorders_and_behavioral_disorders,43
-2018,Broj,Ž,mental_disorders_and_behavioral_disorders,30
-2019,Broj,Ž,mental_disorders_and_behavioral_disorders,22
-2020,Broj,Ž,mental_disorders_and_behavioral_disorders,29
-2003,Broj,Ž,diseases_of_the_nervous_system,26
-2004,Broj,Ž,diseases_of_the_nervous_system,38
-2005,Broj,Ž,diseases_of_the_nervous_system,84
-2006,Broj,Ž,diseases_of_the_nervous_system,73
-2007,Broj,Ž,diseases_of_the_nervous_system,70
-2008,Broj,Ž,diseases_of_the_nervous_system,55
-2009,Broj,Ž,diseases_of_the_nervous_system,55
-2010,Broj,Ž,diseases_of_the_nervous_system,76
-2011,Broj,Ž,diseases_of_the_nervous_system,97
-2012,Broj,Ž,diseases_of_the_nervous_system,102
-2013,Broj,Ž,diseases_of_the_nervous_system,87
-2014,Broj,Ž,diseases_of_the_nervous_system,89
-2015,Broj,Ž,diseases_of_the_nervous_system,106
-2016,Broj,Ž,diseases_of_the_nervous_system,75
-2017,Broj,Ž,diseases_of_the_nervous_system,95
-2018,Broj,Ž,diseases_of_the_nervous_system,87
-2019,Broj,Ž,diseases_of_the_nervous_system,81
-2020,Broj,Ž,diseases_of_the_nervous_system,97
-2003,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2004,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2005,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2006,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2007,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2008,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2009,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2010,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2011,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2012,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2013,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2014,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2015,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2016,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2017,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2018,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2019,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2020,Broj,Ž,eye_diseases_and_eye_soldering_disease,0
-2003,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2004,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2005,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2006,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2007,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2008,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2009,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2010,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2011,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2012,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2013,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2014,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2015,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2016,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2017,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2018,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2019,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2020,Broj,Ž,diseases_of_ear_and_mastoid_process,0
-2003,Broj,Ž,diseases_of_the_circulatory_system,3748
-2004,Broj,Ž,diseases_of_the_circulatory_system,3957
-2005,Broj,Ž,diseases_of_the_circulatory_system,3677
-2006,Broj,Ž,diseases_of_the_circulatory_system,3458
-2007,Broj,Ž,diseases_of_the_circulatory_system,3864
-2008,Broj,Ž,diseases_of_the_circulatory_system,3756
-2009,Broj,Ž,diseases_of_the_circulatory_system,3743
-2010,Broj,Ž,diseases_of_the_circulatory_system,3926
-2011,Broj,Ž,diseases_of_the_circulatory_system,4009
-2012,Broj,Ž,diseases_of_the_circulatory_system,4109
-2013,Broj,Ž,diseases_of_the_circulatory_system,3625
-2014,Broj,Ž,diseases_of_the_circulatory_system,3635
-2015,Broj,Ž,diseases_of_the_circulatory_system,3964
-2016,Broj,Ž,diseases_of_the_circulatory_system,3743
-2017,Broj,Ž,diseases_of_the_circulatory_system,3960
-2018,Broj,Ž,diseases_of_the_circulatory_system,3905
-2019,Broj,Ž,diseases_of_the_circulatory_system,4033
-2020,Broj,Ž,diseases_of_the_circulatory_system,4150
-2003,Broj,Ž,diseases_of_the_respiratory_system,120
-2004,Broj,Ž,diseases_of_the_respiratory_system,134
-2005,Broj,Ž,diseases_of_the_respiratory_system,220
-2006,Broj,Ž,diseases_of_the_respiratory_system,228
-2007,Broj,Ž,diseases_of_the_respiratory_system,211
-2008,Broj,Ž,diseases_of_the_respiratory_system,173
-2009,Broj,Ž,diseases_of_the_respiratory_system,176
-2010,Broj,Ž,diseases_of_the_respiratory_system,173
-2011,Broj,Ž,diseases_of_the_respiratory_system,233
-2012,Broj,Ž,diseases_of_the_respiratory_system,161
-2013,Broj,Ž,diseases_of_the_respiratory_system,222
-2014,Broj,Ž,diseases_of_the_respiratory_system,209
-2015,Broj,Ž,diseases_of_the_respiratory_system,248
-2016,Broj,Ž,diseases_of_the_respiratory_system,204
-2017,Broj,Ž,diseases_of_the_respiratory_system,243
-2018,Broj,Ž,diseases_of_the_respiratory_system,282
-2019,Broj,Ž,diseases_of_the_respiratory_system,258
-2020,Broj,Ž,diseases_of_the_respiratory_system,254
-2003,Broj,Ž,diseases_of_the_digestive_system,136
-2004,Broj,Ž,diseases_of_the_digestive_system,141
-2005,Broj,Ž,diseases_of_the_digestive_system,124
-2006,Broj,Ž,diseases_of_the_digestive_system,146
-2007,Broj,Ž,diseases_of_the_digestive_system,147
-2008,Broj,Ž,diseases_of_the_digestive_system,131
-2009,Broj,Ž,diseases_of_the_digestive_system,148
-2010,Broj,Ž,diseases_of_the_digestive_system,156
-2011,Broj,Ž,diseases_of_the_digestive_system,136
-2012,Broj,Ž,diseases_of_the_digestive_system,145
-2013,Broj,Ž,diseases_of_the_digestive_system,183
-2014,Broj,Ž,diseases_of_the_digestive_system,188
-2015,Broj,Ž,diseases_of_the_digestive_system,191
-2016,Broj,Ž,diseases_of_the_digestive_system,185
-2017,Broj,Ž,diseases_of_the_digestive_system,184
-2018,Broj,Ž,diseases_of_the_digestive_system,191
-2019,Broj,Ž,diseases_of_the_digestive_system,180
-2020,Broj,Ž,diseases_of_the_digestive_system,169
-2003,Broj,Ž,skin_and_subcutaneous_tissue_disorders,0
-2004,Broj,Ž,skin_and_subcutaneous_tissue_disorders,3
-2005,Broj,Ž,skin_and_subcutaneous_tissue_disorders,0
-2006,Broj,Ž,skin_and_subcutaneous_tissue_disorders,1
-2007,Broj,Ž,skin_and_subcutaneous_tissue_disorders,2
-2008,Broj,Ž,skin_and_subcutaneous_tissue_disorders,2
-2009,Broj,Ž,skin_and_subcutaneous_tissue_disorders,2
-2010,Broj,Ž,skin_and_subcutaneous_tissue_disorders,2
-2011,Broj,Ž,skin_and_subcutaneous_tissue_disorders,1
-2012,Broj,Ž,skin_and_subcutaneous_tissue_disorders,1
-2013,Broj,Ž,skin_and_subcutaneous_tissue_disorders,11
-2014,Broj,Ž,skin_and_subcutaneous_tissue_disorders,9
-2015,Broj,Ž,skin_and_subcutaneous_tissue_disorders,15
-2016,Broj,Ž,skin_and_subcutaneous_tissue_disorders,14
-2017,Broj,Ž,skin_and_subcutaneous_tissue_disorders,19
-2018,Broj,Ž,skin_and_subcutaneous_tissue_disorders,10
-2019,Broj,Ž,skin_and_subcutaneous_tissue_disorders,16
-2020,Broj,Ž,skin_and_subcutaneous_tissue_disorders,17
-2003,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,3
-2004,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,2
-2005,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,7
-2006,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
-2007,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
-2008,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
-2009,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,11
-2010,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,8
-2011,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
-2012,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,12
-2013,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,19
-2014,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,14
-2015,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,18
-2016,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,13
-2017,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
-2018,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,17
-2019,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,9
-2020,Broj,Ž,diseases_of_the_musculoskeletal_system_and_connective_tissue,21
-2003,Broj,Ž,diseases_of_the_genitourinary_system,99
-2004,Broj,Ž,diseases_of_the_genitourinary_system,92
-2005,Broj,Ž,diseases_of_the_genitourinary_system,97
-2006,Broj,Ž,diseases_of_the_genitourinary_system,114
-2007,Broj,Ž,diseases_of_the_genitourinary_system,112
-2008,Broj,Ž,diseases_of_the_genitourinary_system,113
-2009,Broj,Ž,diseases_of_the_genitourinary_system,118
-2010,Broj,Ž,diseases_of_the_genitourinary_system,115
-2011,Broj,Ž,diseases_of_the_genitourinary_system,74
-2012,Broj,Ž,diseases_of_the_genitourinary_system,120
-2013,Broj,Ž,diseases_of_the_genitourinary_system,92
-2014,Broj,Ž,diseases_of_the_genitourinary_system,77
-2015,Broj,Ž,diseases_of_the_genitourinary_system,86
-2016,Broj,Ž,diseases_of_the_genitourinary_system,101
-2017,Broj,Ž,diseases_of_the_genitourinary_system,97
-2018,Broj,Ž,diseases_of_the_genitourinary_system,103
-2019,Broj,Ž,diseases_of_the_genitourinary_system,91
-2020,Broj,Ž,diseases_of_the_genitourinary_system,108
-2003,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2004,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2005,Broj,Ž,pregnancy_childbirth_and_puerperium,2
-2006,Broj,Ž,pregnancy_childbirth_and_puerperium,2
-2007,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2008,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2009,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2010,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2011,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2012,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2013,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2014,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2015,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2016,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2017,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2018,Broj,Ž,pregnancy_childbirth_and_puerperium,1
-2019,Broj,Ž,pregnancy_childbirth_and_puerperium,0
-2020,Broj,Ž,pregnancy_childbirth_and_puerperium,3
-2003,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,21
-2004,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,10
-2005,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,10
-2006,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,12
-2007,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,12
-2008,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,8
-2009,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,12
-2010,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,16
-2011,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,16
-2012,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,11
-2013,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,8
-2014,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,9
-2015,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,8
-2016,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,5
-2017,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,10
-2018,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,7
-2019,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,5
-2020,Broj,Ž,certain_conditions_occurred_in_the_perinatal_period,18
-2003,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2004,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
-2005,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,8
-2006,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2007,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,6
-2008,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,10
-2009,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,13
-2010,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2011,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
-2012,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
-2013,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2014,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,7
-2015,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
-2016,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,2
-2017,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,1
-2018,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2019,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,4
-2020,Broj,Ž,congenital_anomalies_deformities_and_chromosomal_abnormalities,3
-2003,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,791
-2004,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,736
-2005,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,590
-2006,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,573
-2007,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,650
-2008,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,449
-2009,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,468
-2010,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,431
-2011,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,379
-2012,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,335
-2013,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,588
-2014,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,727
-2015,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,776
-2016,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,600
-2017,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,715
-2018,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,806
-2019,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,913
-2020,Broj,Ž,symptoms_signs_and_abnormal_clinical_and_laboratory_findings,765
-2003,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,136
-2004,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,141
-2005,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,155
-2006,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,149
-2007,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,146
-2008,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,133
-2009,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,157
-2010,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,106
-2011,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,118
-2012,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,118
-2013,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,127
-2014,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,120
-2015,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,142
-2016,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,118
-2017,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,125
-2018,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,112
-2019,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,90
-2020,Broj,Ž,injuries_poisonings_and_consequences_of_external_factors,101
+2003,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",2
+2004,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",11
+2005,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2006,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",4
+2007,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2008,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",5
+2009,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",9
+2010,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2011,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2012,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",6
+2013,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2014,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",8
+2015,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",10
+2016,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",15
+2017,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",17
+2018,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",18
+2019,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",16
+2020,Broj,Ž,"(D50-D89) Bolesti krvi i krvotvornih organa, kao i poremećaji imunološkog sistema",15
+2003,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",109
+2004,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",92
+2005,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",441
+2006,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",484
+2007,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",442
+2008,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",454
+2009,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",530
+2010,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",402
+2011,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",397
+2012,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",350
+2013,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",459
+2014,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",501
+2015,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",400
+2016,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",378
+2017,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",452
+2018,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",458
+2019,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",343
+2020,Broj,Ž,"(E00-E90) Endokrine bolesti, bolesti ishrane i bolesti metabolizma",485
+2003,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,9
+2004,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,12
+2005,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,16
+2006,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,15
+2007,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,20
+2008,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,19
+2009,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,30
+2010,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,11
+2011,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,14
+2012,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,12
+2013,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,31
+2014,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,21
+2015,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,28
+2016,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,26
+2017,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,43
+2018,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,30
+2019,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,22
+2020,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,29
+2003,Broj,Ž,(G00-G99) Bolesti nervnog sistema,26
+2004,Broj,Ž,(G00-G99) Bolesti nervnog sistema,38
+2005,Broj,Ž,(G00-G99) Bolesti nervnog sistema,84
+2006,Broj,Ž,(G00-G99) Bolesti nervnog sistema,73
+2007,Broj,Ž,(G00-G99) Bolesti nervnog sistema,70
+2008,Broj,Ž,(G00-G99) Bolesti nervnog sistema,55
+2009,Broj,Ž,(G00-G99) Bolesti nervnog sistema,55
+2010,Broj,Ž,(G00-G99) Bolesti nervnog sistema,76
+2011,Broj,Ž,(G00-G99) Bolesti nervnog sistema,97
+2012,Broj,Ž,(G00-G99) Bolesti nervnog sistema,102
+2013,Broj,Ž,(G00-G99) Bolesti nervnog sistema,87
+2014,Broj,Ž,(G00-G99) Bolesti nervnog sistema,89
+2015,Broj,Ž,(G00-G99) Bolesti nervnog sistema,106
+2016,Broj,Ž,(G00-G99) Bolesti nervnog sistema,75
+2017,Broj,Ž,(G00-G99) Bolesti nervnog sistema,95
+2018,Broj,Ž,(G00-G99) Bolesti nervnog sistema,87
+2019,Broj,Ž,(G00-G99) Bolesti nervnog sistema,81
+2020,Broj,Ž,(G00-G99) Bolesti nervnog sistema,97
+2003,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2004,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2005,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2006,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2007,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2008,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2009,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2010,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2011,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2012,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2013,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2014,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2015,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2016,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2017,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2018,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2019,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2020,Broj,Ž,"(H00-H93) Bolesti oka, uha i adneksa",0
+2003,Broj,Ž,diseases_of_the_ear,0
+2004,Broj,Ž,diseases_of_the_ear,0
+2005,Broj,Ž,diseases_of_the_ear,0
+2006,Broj,Ž,diseases_of_the_ear,0
+2007,Broj,Ž,diseases_of_the_ear,0
+2008,Broj,Ž,diseases_of_the_ear,0
+2009,Broj,Ž,diseases_of_the_ear,0
+2010,Broj,Ž,diseases_of_the_ear,0
+2011,Broj,Ž,diseases_of_the_ear,0
+2012,Broj,Ž,diseases_of_the_ear,0
+2013,Broj,Ž,diseases_of_the_ear,0
+2014,Broj,Ž,diseases_of_the_ear,0
+2015,Broj,Ž,diseases_of_the_ear,0
+2016,Broj,Ž,diseases_of_the_ear,0
+2017,Broj,Ž,diseases_of_the_ear,0
+2018,Broj,Ž,diseases_of_the_ear,0
+2019,Broj,Ž,diseases_of_the_ear,0
+2020,Broj,Ž,diseases_of_the_ear,0
+2003,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3748
+2004,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3957
+2005,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3677
+2006,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3458
+2007,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3864
+2008,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3756
+2009,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3743
+2010,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3926
+2011,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,4009
+2012,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,4109
+2013,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3625
+2014,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3635
+2015,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3964
+2016,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3743
+2017,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3960
+2018,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3905
+2019,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,4033
+2020,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,4150
+2003,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,120
+2004,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,134
+2005,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,220
+2006,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,228
+2007,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,211
+2008,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,173
+2009,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,176
+2010,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,173
+2011,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,233
+2012,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,161
+2013,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,222
+2014,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,209
+2015,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,248
+2016,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,204
+2017,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,243
+2018,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,282
+2019,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,258
+2020,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,254
+2003,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,136
+2004,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,141
+2005,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,124
+2006,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,146
+2007,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,147
+2008,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,131
+2009,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,148
+2010,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,156
+2011,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,136
+2012,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,145
+2013,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,183
+2014,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,188
+2015,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,191
+2016,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,185
+2017,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,184
+2018,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,191
+2019,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,180
+2020,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,169
+2003,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2004,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,3
+2005,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,0
+2006,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2007,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2008,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2009,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2010,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,2
+2011,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2012,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,1
+2013,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,11
+2014,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,9
+2015,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,15
+2016,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,14
+2017,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,19
+2018,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,10
+2019,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,16
+2020,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,17
+2003,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,3
+2004,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,2
+2005,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,7
+2006,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,9
+2007,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,9
+2008,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,14
+2009,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,11
+2010,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,8
+2011,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,14
+2012,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,12
+2013,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,19
+2014,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,14
+2015,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,18
+2016,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,13
+2017,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,9
+2018,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,17
+2019,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,9
+2020,Broj,Ž,(M00-M99) Bolesti muskuloskeletnog sistema i vezivnog tkiva,21
+2003,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,99
+2004,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,92
+2005,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,97
+2006,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,114
+2007,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,112
+2008,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,113
+2009,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,118
+2010,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,115
+2011,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,74
+2012,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,120
+2013,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,92
+2014,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,77
+2015,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,86
+2016,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,101
+2017,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,97
+2018,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,103
+2019,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,91
+2020,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,108
+2003,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2004,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2005,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",2
+2006,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",2
+2007,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2008,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2009,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2010,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2011,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2012,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2013,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2014,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2015,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2016,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2017,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2018,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",1
+2019,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",0
+2020,Broj,Ž,"(O00-O99) Trudnoća, porođaj i postporođajni period",3
+2003,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,21
+2004,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
+2005,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
+2006,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,12
+2007,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,12
+2008,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,8
+2009,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,12
+2010,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,16
+2011,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,16
+2012,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,11
+2013,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,8
+2014,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,9
+2015,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,8
+2016,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,5
+2017,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
+2018,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,7
+2019,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,5
+2020,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,18
+2003,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2004,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
+2005,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",8
+2006,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2007,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",6
+2008,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",10
+2009,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",13
+2010,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2011,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",2
+2012,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
+2013,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2014,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",7
+2015,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",4
+2016,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",2
+2017,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",1
+2018,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2019,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",4
+2020,Broj,Ž,"(Q00-Q99) Kongenitalne malformacije, deformiteti i hromosomske abnormalnosti",3
+2003,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",791
+2004,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",736
+2005,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",590
+2006,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",573
+2007,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",650
+2008,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",449
+2009,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",468
+2010,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",431
+2011,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",379
+2012,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",335
+2013,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",588
+2014,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",727
+2015,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",776
+2016,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",600
+2017,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",715
+2018,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",806
+2019,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",913
+2020,Broj,Ž,"(R00-R99) Simptomi, znakovi i abnormalni klinički i laboratorijski nalazi koji nisu drugdje klasifikovani",765
+2003,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",136
+2004,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",141
+2005,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",155
+2006,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",149
+2007,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",146
+2008,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",133
+2009,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",157
+2010,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",106
+2011,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",118
+2012,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",118
+2013,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",127
+2014,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",120
+2015,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",142
+2016,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",118
+2017,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",125
+2018,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",112
+2019,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",90
+2020,Broj,Ž,"(S00-T98) Povrede, trovanja i druge posljedice dejstava spoljnih faktora",101
 2003,Broj,Ž,special_purpose_codes,0
 2004,Broj,Ž,special_purpose_codes,0
 2005,Broj,Ž,special_purpose_codes,0
