@@ -26,7 +26,7 @@ NATURAL_CHANGE: Prirodno kretanje
 _ALL: Svi
 FERTILITY_RATE: Stopa fertiliteta
 total_fertility_rate: Stopa ukupnog fertiliteta
-age_specific_fertility_rates: Stope fertiliteta prema dobi
+age_specific_fertility_rates: Stope fertiliteta prema starosti
 total_millions: Ukupno (u milionima)
 enrolment_in_pre_school: Predškolski odgoj i obrazovanje
 enrolment_in_primary_school_education: Osnovna škola
