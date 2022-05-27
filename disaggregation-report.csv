@@ -1,5 +1,5 @@
 Disaggregation,en,lat,cir,Number of indicators,Number of values
-ADMIN_AREA,Administrative area,Administrativna oblast,Административно подручје,10,65
+ADMIN_AREA,Administrative area,Administrativna oblast,Административна област,10,65
 AGE,Age,Starosna dob,Старосна доб,14,165
 agricultural_households_number,agricultural_households_number,agricultural_households_number,Број пољопривредних домаћинстава,1,2
 BIRTH,Birth,Rađanje,Рађање,1,2
@@ -9,7 +9,7 @@ Disabilities,Disabilities,Disabilities,Disabilities,1,8
 Education,Education,Education,Education,1,7
 INSTITUTION,INSTITUTION,INSTITUTION,INSTITUTION,1,3
 Literacy,Literacy,Literacy,Literacy,1,2
-MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,Метода,1,3
+MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,MICS_NUMBER,1,3
 Mother tounge,Mother tounge,Mother tounge,Mother tounge,1,6
 Municipality,Municipality,Opština,Oпштина,1,62
 Nationality,Nationality,Nationality,Nationality,1,7
