@@ -26,20 +26,20 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologie",
-                "health_and_social_protection",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",

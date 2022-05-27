@@ -25,20 +25,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
-                "arts_and_humanities",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Informacione i komunikacione tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Zdravstvo i socijalna zaštita",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Naučna oblast"
           },
           {
             "name": "Value",

@@ -25,12 +25,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Ustanove za djecu i omladinu",
+                "Ustanove za odrasle",
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "Vrsta ustanova"
           },
           {
             "name": "Value",

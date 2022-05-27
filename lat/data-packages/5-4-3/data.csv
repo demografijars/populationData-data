@@ -1,41 +1,41 @@
-Year,UNIT_MEASURE,scientific_field,Value
-2017,Broj,education,542
-2017,Broj,arts_and_humanities,429
-2017,Broj,"social_sciences,_journalism_and_information",725
-2017,Broj,"business,_administration_and_law",1677
-2017,Broj,"natural_sciences,_mathematics_and_statistics",209
-2017,Broj,information_and_communication_technologies,262
-2017,Broj,"engineering,_production_and_construction",367
-2017,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2017,Broj,health_and_social_protection,547
-2017,Broj,services,118
-2018,Broj,education,459
-2018,Broj,arts_and_humanities,403
-2018,Broj,"social_sciences,_journalism_and_information",524
-2018,Broj,"business,_administration_and_law",1320
-2018,Broj,"natural_sciences,_mathematics_and_statistics",165
-2018,Broj,information_and_communication_technologies,294
-2018,Broj,"engineering,_production_and_construction",464
-2018,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2018,Broj,health_and_social_protection,629
-2018,Broj,services,101
-2019,Broj,education,406
-2019,Broj,arts_and_humanities,385
-2019,Broj,"social_sciences,_journalism_and_information",482
-2019,Broj,"business,_administration_and_law",1110
-2019,Broj,"natural_sciences,_mathematics_and_statistics",168
-2019,Broj,information_and_communication_technologies,231
-2019,Broj,"engineering,_production_and_construction",461
-2019,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",238
-2019,Broj,health_and_social_protection,534
-2019,Broj,services,129
-2020,Broj,education,336
-2020,Broj,arts_and_humanities,433
-2020,Broj,"social_sciences,_journalism_and_information",588
-2020,Broj,"business,_administration_and_law",991
-2020,Broj,"natural_sciences,_mathematics_and_statistics",166
-2020,Broj,information_and_communication_technologies,254
-2020,Broj,"engineering,_production_and_construction",438
-2020,Broj,"agriculture,_forestry,_fisheries_and_veterinary_medicine",229
-2020,Broj,health_and_social_protection,590
-2020,Broj,services,159
+Year,UNIT_MEASURE,Naučna oblast,Value
+2017,Broj,Obrazovanje,542
+2017,Broj,Umjetnost i humanističke nauke,429
+2017,Broj,"Društvene nauke, novinarstvo i informisanje",725
+2017,Broj,"Poslovanje, administracija i pravo",1677
+2017,Broj,"Prirodne nauke, matematika i statistika",209
+2017,Broj,Informacione i komunikacione tehnologije,262
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",367
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
+2017,Broj,Zdravstvo i socijalna zaštita,547
+2017,Broj,Usluge,118
+2018,Broj,Obrazovanje,459
+2018,Broj,Umjetnost i humanističke nauke,403
+2018,Broj,"Društvene nauke, novinarstvo i informisanje",524
+2018,Broj,"Poslovanje, administracija i pravo",1320
+2018,Broj,"Prirodne nauke, matematika i statistika",165
+2018,Broj,Informacione i komunikacione tehnologije,294
+2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",464
+2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
+2018,Broj,Zdravstvo i socijalna zaštita,629
+2018,Broj,Usluge,101
+2019,Broj,Obrazovanje,406
+2019,Broj,Umjetnost i humanističke nauke,385
+2019,Broj,"Društvene nauke, novinarstvo i informisanje",482
+2019,Broj,"Poslovanje, administracija i pravo",1110
+2019,Broj,"Prirodne nauke, matematika i statistika",168
+2019,Broj,Informacione i komunikacione tehnologije,231
+2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",461
+2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",238
+2019,Broj,Zdravstvo i socijalna zaštita,534
+2019,Broj,Usluge,129
+2020,Broj,Obrazovanje,336
+2020,Broj,Umjetnost i humanističke nauke,433
+2020,Broj,"Društvene nauke, novinarstvo i informisanje",588
+2020,Broj,"Poslovanje, administracija i pravo",991
+2020,Broj,"Prirodne nauke, matematika i statistika",166
+2020,Broj,Informacione i komunikacione tehnologije,254
+2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",438
+2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",229
+2020,Broj,Zdravstvo i socijalna zaštita,590
+2020,Broj,Usluge,159

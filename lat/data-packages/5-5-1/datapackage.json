@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Upisani na master studije",
+                "Upisani na specijalističke studije",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",

@@ -28,12 +28,12 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "underage_users",
-                "adult_users",
+                "Maloljetni korisnici",
+                "Punoljetni korisnici",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
@@ -99,20 +99,20 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "social_sciences,_journalism_and_information",
-                "arts_and_humanities",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "education",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "health_and_social_protection",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Umjetnost i humanističke nauke",
+                "Informacione i komunikacione tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Obrazovanje",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Usluge",
+                "Zdravstvo i socijalna zaštita",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Naučna oblast"
           },
           {
             "name": "SEX",
@@ -272,20 +272,20 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologie",
-                "health_and_social_protection",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
@@ -422,20 +422,20 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Naučna oblast"
           },
           {
             "name": "SEX",
@@ -1395,20 +1395,20 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Naučna oblast"
           },
           {
             "name": "type_of_education",
@@ -1416,12 +1416,12 @@
             "constraints": {
               "enum": [
                 "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Upisani na master studije",
+                "Upisani na specijalističke studije",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
@@ -2646,7 +2646,7 @@
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "Vrsta ustanova"
           },
           {
             "name": "Value",
@@ -2682,12 +2682,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Ustanove za djecu i omladinu",
+                "Ustanove za odrasle",
                 ""
               ]
             },
-            "title": "Vrsta ustanove"
+            "title": "Vrsta ustanova"
           },
           {
             "name": "Value",
@@ -2970,12 +2970,12 @@
             "constraints": {
               "enum": [
                 "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Upisani na master studije",
+                "Upisani na specijalističke studije",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
@@ -3054,12 +3054,12 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Ustanove za djecu i omladinu",
+                "Ustanove za odrasle",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
@@ -3375,7 +3375,7 @@
                 "2 člana",
                 "3 člana",
                 "4 člana",
-                "5+_members",
+                "5 i više članova",
                 ""
               ]
             },
@@ -4064,20 +4064,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
-                "arts_and_humanities",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Informacione i komunikacione tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Zdravstvo i socijalna zaštita",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Naučna oblast"
           },
           {
             "name": "Value",
@@ -4187,15 +4187,15 @@
             "constraints": {
               "enum": [
                 "Gimnazija",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Srednje tehničke škole",
+                "Srednje stručne škole",
                 "Umjetničke škole",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Vjerske škole",
+                "Srednje škole za učenike sa smetnjama u razvoju",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "Value",
@@ -4378,12 +4378,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_users",
-                "number_of_children",
+                "Broj korisnika",
+                "Broj djece",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
@@ -5163,13 +5163,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Magistri nauka",
+                "Masteri",
+                "Specijalisti",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
@@ -5586,15 +5586,15 @@
             "constraints": {
               "enum": [
                 "Gimnazija",
-                "technical_high_schools",
-                "vocational_high_schools",
+                "Srednje tehničke škole",
+                "Srednje stručne škole",
                 "Umjetničke škole",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Vjerske škole",
+                "Srednje škole za učenike sa smetnjama u razvoju",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "Value",
@@ -5703,12 +5703,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agricultural_households",
-                "agricultural_selling",
+                "Broj domaćinstava koja obavljaju poljoprivrednu aktivnost",
+                "Broj domaćinstava koja obavljaju poljoprivrednu aktivnost i prodaju poljoprivredne proizvode na tržištu",
                 ""
               ]
             },
-            "title": "agricultural_households_number"
+            "title": "Broj poljoprivrednih domaćinstava"
           },
           {
             "name": "Value",
@@ -6068,12 +6068,12 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "underage_users",
-                "adult_users",
+                "Maloljetni korisnici",
+                "Punoljetni korisnici",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",

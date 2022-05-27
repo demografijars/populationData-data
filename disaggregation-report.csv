@@ -1,7 +1,7 @@
 Disaggregation,en,lat,cir,Number of indicators,Number of values
 ADMIN_AREA,Administrative area,Administrativna oblast,Административна област,10,65
 AGE,Age,Starosna dob,Старосна доб,14,165
-agricultural_households_number,agricultural_households_number,agricultural_households_number,Број пољопривредних домаћинстава,1,2
+agricultural_households_number,agricultural_households_number,Broj poljoprivrednih domaćinstava,Број пољопривредних домаћинстава,1,2
 BIRTH,Birth,Rađanje,Рађање,1,2
 BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,2,10
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),3,24
@@ -17,11 +17,11 @@ NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,В�
 PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
 Religion,Religion,Religija,Религија,1,9
-scientific_field,scientific_field,scientific_field,Научна област,4,11
+scientific_field,scientific_field,Naučna oblast,Научна област,4,11
 SEX,Sex,Spol,Пол,55,3
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Vrsta koeficijenta zavisnosti,Врста коефицијента зависности,2,3
-type_of_education,type_of_education,type_of_education,Врста образовања,4,17
-type_of_institution,Type of institution,Vrsta ustanove,Врста установа,2,5
-type_of_school,type_of_school,type_of_school,Врста школе,2,6
-TYPE_OF_USERS,TYPE_OF_USERS,TYPE_OF_USERS,Врста корисника,4,7
+type_of_education,type_of_education,Vrsta obrazovanja,Врста образовања,4,17
+type_of_institution,Type of institution,Vrsta ustanova,Врста установа,2,5
+type_of_school,type_of_school,Vrsta škole,Врста школе,2,6
+TYPE_OF_USERS,TYPE_OF_USERS,Vrsta korisnika,Врста корисника,4,7
 UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,117,25

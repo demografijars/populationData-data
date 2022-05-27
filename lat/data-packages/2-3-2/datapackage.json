@@ -98,12 +98,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agricultural_households",
-                "agricultural_selling",
+                "Broj domaćinstava koja obavljaju poljoprivrednu aktivnost",
+                "Broj domaćinstava koja obavljaju poljoprivrednu aktivnost i prodaju poljoprivredne proizvode na tržištu",
                 ""
               ]
             },
-            "title": "agricultural_households_number"
+            "title": "Broj poljoprivrednih domaćinstava"
           },
           {
             "name": "Value",
