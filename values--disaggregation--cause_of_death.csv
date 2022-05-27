@@ -17,9 +17,9 @@ factors_influencing_health_status,(Z00-Z99) Factors influencing health status an
 infectious_and_parasitic,(A00-B99) Infectious and parasitic diseases,(A00-B99) Infektivne i parazitske bolesti,(А00-Б99) Инфективне и паразитске болести,7,3
 injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequences of external causes","(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora","(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",7,3
 mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,(F00-F99) Duševni poremećaji i poremećaji ponašanja,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,7,3
-neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme",Неоплазме (C00–D48),7,3
+neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme","(Ц00-Ц97,Д00-Д48) Неоплазме",7,3
 pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium","(O00-O99) Trudnoća, porođaj i puerperijum","(О00-О99) Трудноћа, порођај и пуерперијум",5,3
-special_purpose_codes,(U00-U85) Special purpose codes,(U00-U85) Šifre za posebne namjene,Шифре за посебне намјене (U00-U85),3,1
+special_purpose_codes,(U00-U85) Special purpose codes,(U00-U85) Šifre za posebne namjene,(У00-У85) Шифре за посебне намјене,3,1
 symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu","(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",7,3
 total,Total,Ukupno,Укупно,6,2
 unknown,Unknown,Nepoznato,Непознато,4,2
