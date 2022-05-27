@@ -30,7 +30,7 @@
             }
           },
           {
-            "name": "BIRTH",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [

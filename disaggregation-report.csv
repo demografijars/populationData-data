@@ -2,8 +2,7 @@ Disaggregation,en,lat,cir,Number of indicators,Number of values
 ADMIN_AREA,Administrative area,Administrativna oblast,Административна област,10,65
 AGE,Age,Starosna dob,Старосна доб,14,165
 agricultural_households_number,agricultural_households_number,Broj poljoprivrednih domaćinstava,Број пољопривредних домаћинстава,1,2
-BIRTH,Birth,Rađanje,Рађање,1,2
-BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,2,10
+BIRTHS,Vital statistics,Vitalna statistika,Витална статистика,3,10
 CAUSE_OF_DEATH,Cause of death (as per ICD-10 codes),Uzrok smrti (prema šiframa bolesti po MKB-10),Узрок смрти (према шифрама болести по МКБ-10),3,24
 Disabilities,Disabilities,Disabilities,Disabilities,1,8
 Education,Education,Education,Education,1,7

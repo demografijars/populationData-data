@@ -33,7 +33,7 @@
             "title": "Пол"
           },
           {
-            "name": "BIRTH",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Рађање"
+            "title": "Витална статистика"
           },
           {
             "name": "Value",

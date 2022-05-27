@@ -6117,7 +6117,7 @@
             "title": "Pol"
           },
           {
-            "name": "BIRTH",
+            "name": "BIRTHS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6126,7 +6126,7 @@
                 ""
               ]
             },
-            "title": "Rađanje"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
