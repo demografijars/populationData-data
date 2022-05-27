@@ -200,7 +200,6 @@ jehovah_s_witnesses: Jehovini svjedoci
 Greek_Catholic: Grkokatolička
 Protestant: Protestantska
 Romani: Romska
-Protestant: Protestantska
 Christian: Hrišćanska
 Bosniak: Bošnjak
 Croat: Hrvat
@@ -325,3 +324,104 @@ ugljevik: "Ugljevik"
 visegrad: "Višegrad"
 vlasenica: "Vlasenica"
 vukosavlje: "Vukosavlje"
+BENEFICIARIES_OF_SOCIAL_PROTECTION: KORISNICI SOCIJALNE ZAŠTITE
+social_protection_beneficiaries_by_type_of_beneficiary: Korisnici socijalne zaštite po vrsti korisnika
+forms_and_services_of_social_protection_by_type_of_user: Oblici i usluge socijalne zaštite po vrsti korisnika
+child_allowance: Dodatak na djecu
+TYPE_OF_USERS: Vrsta korisnika
+underage_users: Maloljetni korisnici
+adult_users: Punoljetni korisnici
+number_of_users: Broj korisnika
+number_of_children: Broj djece
+social_protection_institutions_by_type_of_institution: Ustanove socijalne zaštite po vrsti ustanove
+institutions_for_children_and_youth: Ustanove za djecu i omladinu
+adult_facilities: Ustanove za odrasle
+users_of_social_protection_institutions_by_gender: Korisnici ustanova socijalne zaštite po polu
+male: Muški
+female: Ženski
+users_of_social_protection_institutions_by_type_of_institution: Korisnici ustanova socijalne zaštite po vrsti ustanove
+institutions_for_children_and_youth: Ustanove za djecu i omladinu
+adult_facilities: Ustanove za odrasle
+school_year: Školska godina
+enrolled_in_master's_studies: Upisani na magistarske studije
+enrolled_in_master_studies: Upisani na master studije
+enrolled_in_specialist_studies: Upisani na specijalističke studije
+doctoral_students: Doktoranti
+scientific_field: Naučna oblast
+natural_sciences,_mathematics_and_statistic: Prirodne nauke, matematika i statistika
+engineering,_production_and_constructio: Inženjerstvo, proizvodnja i građevinarstvo
+information_and_communication_technologie: Informacione i komunikacione tehnologije
+health_and_social_protection: Zdravstvo i socijalna zaštita      
+agriculture,_forestry,_fisheries_and_veterinary_medicine: Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo
+social_sciences,_journalism_and_information: Društvene nauke, novinarstvo i informisanje
+business,_administration_and_law: Poslovanje, administracija i pravo
+education: Obrazovanje
+humanities_and_arts: Humanističke nauke i umjetnost
+services: Usluge
+masters_of_science: Magistri nauka
+masters: Masteri
+specialists: Specijalisti
+doctors: Doktori
+number_of_students_at_the_beginning_of_the_school_year_by_gender: Broj učenika na početku školske godine po polu
+number_of_students_who_completed_primary_school_by_gender: Broj učenika koji su završili osnovnu školu po polu
+number_of_primary_school_teachers_by_gender: Broj nastavnika u osnovnim školama po polu 
+number_of_preschool_institutions_by_ownership: Broj predškolskih ustanova po svojini
+type_of_institution: Vrsta ustanova
+number_of_children_in_preschool_institutions_by_sex: Broj djece u predškolskim ustanovama po polu
+number_of_children_in_public_preschools: Broj djece u javnim predškolskim ustanovama
+number_of_children_in_private_preschools: Broj djece u privatnim predškolskim ustanovama
+number_of_children_in_nurseries_by_gender: Broj djece u jaslicama po polu
+number_of_educators_in_preschool_institutions_by_gender: Broj vaspitača u predškolskim ustanovama po polu
+INDICATOR: Indikator
+AREA: Područje
+republic_of_srpska: Republika Srpska
+enrolled_students_in_the_first_cycle_of_studies: Upisani studenti na prvi ciklus studija
+adults_(aged_25-64)_who_participated_in_non-formal_education: Odrasli (lica starosti 25 - 64 godina) koji su učestvovali u neformalnom obrazovanju
+Number_of_students_at_the_beginning_of_the_school_year_by_gender: Broj učenika na početku školske godine po polu
+number_of_high_school_graduates_by_gender: Broj učenika koji su završili srednju školu po polu
+number_of_secondary_school_teachers_by_gender: Broj nastavnika u srednjim školama po polu
+number_of_students_at_the_beginning_of_the_school_year_by_type_of_school: Broj učenika na početku školske godine po vrsti škole
+number_of_students_who_completed_secondary_school_by_type_of_school: Broj učenika koji su završili srednju školu po vrsti škole
+type_of_school: Vrsta škole
+gymnasium: Gimnazija
+technical_high_schools: Srednje tehničke škole
+vocational_high_schools: Srednje stručne škole
+art_schools: Umjetničke škole
+religious_schools: Vjerske škole
+high_schools_for_students_with_disabilities: Srednje škole za učenike sa smetnjama u razvoju
+graduates_by_gender: Diplomirani studenti prema polu
+graduate_students_by_field_of_education: Diplomirani studenti prema oblasti obrazovanja
+information_and_communication_technologies: Informacione i komunikacione tehnologije
+health_and_social_protection: Zdravstvo i socijalna zaštita
+social_sciences,_journalism_and_information: Društvene nauke, novinarstvo i informisanje
+business,_administration_and_law: Poslovanje, administracija i pravo
+natural_sciences,_mathematics_and_statistics: Prirodne nauke, matematika i statistika
+engineering,_production_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
+social_sciences,_business_and_law: Društvene nauke, poslovanje i pravo
+natural_sciences,_mathematics_and_informatics: Prirodne nauke, matematika i informatika
+engineering,_production_technologies_and_construction: Inženjering, proizvodne tehnologije i građevinarstvo
+agriculture_and_veterinary_medicine: Poljoprivreda i veterinarstvo
+type_of_education: Vrsta obrazovanja
+TYPE_OF_ENROLLMENT: Vrsta upisa
+enrolled_in_undergraduate_study_programs: Upisani u osnovne studijske programe
+number_of_students_who_graduated: Broj studenata koji su diplomirali
+TYPE_OF_STUDENTS: Tip polaznika
+arts_and_humanities: Umjetnost i humanističke nauke
+social_sciences,_journalism_and_information: Društvene nauke, novinarstvo i informisanje
+business,_administration_and_the_law_of_everything: Poslovanje, administracija i pravo
+natural_sciences,_mathematics_and_statistics_of_all: Prirodne nauke, matematika i statistika
+information and communication technologies: Informacione i komunikacione tehnologije
+engineering,_manufacturing_and_construction: Inženjerstvo, proizvodnja i građevinarstvo
+health_and_social_protection: Zdravstvo i socijalna zaštita
+enrolled_in_integrated_studies: Upisani na integrisane studije
+graduated: Diplomirani
+enrolled_in_master's,_master's_and_specialist_studies: Upisani na magistarske, master i specijalističe studije
+masters_of_science,_masters_and_specialists: Magistri nauka, masteri i specijalisti
+enrolled_in_doctoral_studies: Upisani na doktorske studije
+doctors_of_science: Doktori nauka
+private: Privatna
+public: Javna
+5+_members: 5 i više članova
+agricultural_households_number: Broj poljoprivrednih domaćinstava
+agricultural_households: Broj domaćinstava koja obavljaju poljoprivrednu aktivnost
+agricultural_selling: Broj domaćinstava koja obavljaju poljoprivrednu aktivnost i prodaju poljoprivredne proizvode na tržištu
