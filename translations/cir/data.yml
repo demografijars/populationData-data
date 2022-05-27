@@ -156,60 +156,109 @@ married: У браку
 divorced: Разведен/а
 widowed: Удовац/удовица
 INFANT_MORTALITY: Смртност дојенчади (до навршене прве године живота)
-number_of_infant_deaths: Број смртних случајева међу дојенчади 
-AGE_OF_MOTHER: Старосна доб мајке
-MARRIAGE_BIRTH: Брак и порођај 
-in_marriage_birth: Порођај у браку
-out_of_marriage_birth: Порођај изван брака
-unknown_marital_status_birth: Порођај при непознатом брачном статусу
+number_of_infant_deaths: Број смртних случајева дојенчади 
+AGE_OF_MOTHER: Старосt мајке
 AGE_GROUP_OF_WOMEN: Старосна група жена
 BIRTH: Рађање
 gave_birth: Рађале
 did_not_give_birth: Нису рађале
-crude_death_rate: Сирова стопа смртности
+crude_death_rate: Стопа смртности
 DEATH: Смрт
-crude_birth_rate: Сирова стопа наталитета
-BIRTHS_AND_DEATHS: Рођење и смрт
+crude_birth_rate: Стопа наталитета
+BIRTHS_AND_DEATHS: Рођени и умрли
 live_births: Живорођени
-deaths: Смрт
+deaths: Умрли
 natural_increase: Природни прираштај
-mean_age: Средња доб
-number_birth_rate: Број на 1.000 становника
-crude_death_rate_1000: Број на 1.000 становника
+mean_age: Просјечна старост
+number_birth_rate: Стопа наталитета на 1.000 становника
+crude_death_rate_1000: Стопа смртности на 1.000 становника
 infant_(up_to_12_months_of_age)_mortality_rate: Стопа смртности дојенчади (до навршене прве године живота)
 VITAL_STATISTICS: Витална статистика
 UNIT_MEASUREMENT: Мјерна јединица
-children_pre_woman: Број дјеце по жени 15-49
-boys_to_girls: Број дјечака на 100 ђевојчица
+children_pre_woman: Број дјеце по жени од 15-49 старости
+boys_to_girls: Број дјечака на 100 дјевојчица
 no_education: Без образовања
 post_secondary_school_specialisation: Специјализација након завршене средње школе
-TYPE_OF_DEPENDENCY_RATIO: Тип односа зависности
-NO_PER_1000_LIVE_BIRTHS: Број на 1000 живорођених
-no_per_1000_marriages: Број на 1000 бракова
-census_pyramid: Ценсус
-projection_pyramid: Година пројектовања
+TYPE_OF_DEPENDENCY_RATIO: Врста коефицијента зависности
+NO_PER_1000_LIVE_BIRTHS: Број на 1.000 живорођених
+no_per_1000_marriages: Број на 1.000 бракова
+census_pyramid: Цензус
+projection_pyramid: Година пројекције
+LIVE_BORN_CHILDREN: Живорођена дјеца
+did_not_give_birth: Нису рађале
+10_and_more: 10 и више
+Ethnicity_national_affiliation: Етничка/национална припадност
+Bosnian_and_Herzegovinian: Босанско-херцеговачка
+Religion: Религија
+Islam: Исламска
+Orthodox: Православна
+Catholic: Католичка
+Muslim: Муслиман
+Roman_Catholic: Римокатоличка
+Serbian: Србин
+jehovah_s_witnesses: Јеховини свједоци
+Greek_Catholic: Гркокатоличка
+Protestant: Протестантска
+Romani: Ромска
+Christian: Хришћанска
+Bosniak: Бошњак
+Croat: Хрват
+Adventist: Адвентистичка
+Bosnian: Босанац
+Agnostic: Агностик
+Atheist: Атеист
+Others: Друго
+Undeclared: Неопредијељен
+Mother_tongue: Матерњи језик
+Bosnian: Босански
+Serbian: Српски
+Croatian: Хрватски
+Serbo_Croatian: Српско-хрватски
+Romani: Ромски
+Albanian: Албански
+Bosnian_Croatian_Serbian: Босански-хрватски-српски
+Turkish: Турски
+Croato_Serbian: Хрватско-српски
+Bosniak: Бошњачки
+Ukranian: Украјински
+Bosnian_Serbian_Croatian: Босански-српски-хрватски
+Bosnian_Croatian: Босански-хрватски
+Bosnian_Herzegovinian: Босанско-херцеговачки
+German: Њемачки
+AGRICULTURAL_ACTIVITY: Пољопривредна дјелатност
+Performing_agricultural_activity: Обављање пољопривредне дјелатности
+Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Обављање пољопривредне дјелатности и продаја пољопривредних производа на тржишту
+LITERACY: Писменост
+Literate: Писмен
+Illiterate: Неписмен
+Highest_education_atainment: Највиши достигнути степен образовања
+No_education: Необразован
+Incomplete_primary_education: Незавршено основно образовање
+Primary_school: Основна школа
+High_school: Средња школа
+Post-secondary_school_specialization: Специјализација након завршене средње школе
+High_school_and_first_grade_of_faculty: Виша школа и први степен факултета
+Advanced_schools_faculty_academy_university: Висока школа / факултет / академија / универзитет
+private: Приватна
+public: Јавна
+gymnasium: Гимназија
+technical_schools: Техничке школе
+art_schools: Умјетничке школе
+religion_schools: Вјерске школе
+vocational_schools: Школе за стручно образовање
+high_schools_for_children_with_special_needs: Средње школе за дјецу са посебним потребама
+school_year_end: Крај школске године
+school_year_beginning: Почетак школске године
+minor_beneficiaries: Малољетни корисници
+adult_beneficiaries: Одрасли корисници
+homes_for_children_and_youth_without_parental_care: Домови за дјецу и младе без родитељског старања
+adult_beneficiaries_social_protection_institutions_for_children_youth_and_adults_with_mental_and_physical_disabilities: Установе социјалне заштите за дјецу, младе и одрасле с менталним и физичким инвалидитетом
+social_welfare_institutions_for_adults_with_disabilities: Установе социјалне заштите за одрасле особе с инвалидитетом
+social_welfare_institutions_for_adults: Установе социјалне заштите за одрасле
+type_of_institution: Врста установе
 _T: Укупно
 total: Укупно
-infectious_and_parasitic_diseases: Инфективне и паразитске болести (А00–B99)
-neoplasms: Неоплазме (C00–D48)
-diseases_of_the_blood_and_blood_forming_organs: Болести крви и крвотворних органа и неки поремећаји имуног система (D50–D89)
-diseases_of_the_endocrine_glands_nutrition_and_metabolism: Болести жлијезда са унутрашњим лучењем, исхране и метаболизма (Е00–Е88)
-mental_disorders_and_behavioral_disorders: Душевни поремећаји и поремећаји понашања (F00–F99)
-diseases_of_the_nervous_system: Болести нервног система (G00–G99)
-eye_diseases_and_eye_soldering_disease: Болести ока и припојка ока (H00–H59)
-diseases_of_ear_and_mastoid_process: Болести ува и мастоидног наставка (H60–H93)
-diseases_of_the_circulatory_system: Болести циркулаторног система (I00–I99)
-diseases_of_the_respiratory_system: Болести респираторног система (Ј00–Ј99)
-diseases_of_the_digestive_system: Болести дигестивног система (К00–К92)
-skin_and_subcutaneous_tissue_disorders: Болести коже и поткожног ткива (L00–L98)
-diseases_of_the_musculoskeletal_system_and_connective_tissue: Болести мишићно-коштаног система и везивног ткива (М00–М99)
-diseases_of_the_genitourinary_system: Болести генитоуринарног система (N00–N98)
-certain_conditions_occurred_in_the_perinatal_period: Одређена стања настала у перинаталном периоду (P00–P96)
-congenital_anomalies_deformities_and_chromosomal_abnormalities: Конгениталне аномалије, деформације и хромозомске ненормалности (Q00–Q99)
-symptoms_signs_and_abnormal_clinical_and_laboratory_findings: Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту (R00–R99)
-injuries_poisonings_and_consequences_of_external_factors: Повреде, тровања и посљедице дјеловања спољних фактора (S00–Т98)
-special_purpose_codes: Шифре за посебне намјене (U00-U85)
-pregnancy_childbirth_and_puerperium: Трудноћа, порођај и пуерперијум (О00–О99)
+school_year: Школска година
 berkovici: "Берковићи"
 bileca: "Билећа"
 bratunac: "Братунац"
