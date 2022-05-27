@@ -74,8 +74,8 @@ source_url_5: Link do izvora podataka
 source_url_6: Link do izvora podataka
 target: Naziv podcilja
 target_id: Broj podcilja
-un_custodian_agency: UN kustos agencija
-un_designated_tier: UN-ov označeni nivo
+un_custodian_agency: UN agencija odgovorna za prikupljanje podataka
+un_designated_tier: UN-ov označeni nivo podataka
 quality_assurance: Osiguranje kvaliteta
 international_comparability: Uporedivost sa međunarodnim podacima/standardima
 comments_limitations: Komentari i ograničenja
