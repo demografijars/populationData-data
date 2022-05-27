@@ -24,10 +24,10 @@ unit_of_measurement: Mjerna jedinica
 footnote: Fusnota
 units_type: Tip jedinice
 series: Varijabla
-dataset_size_warning: Grafikon može prikazivati ​​podatke za do 40 varijabli. Uklonite neke odabire u lijevim izbornicima za pravilnu prezentaciju.
+dataset_size_warning: Grafikon može prikazivati podatke za do 40 varijabli. Uklonite neke odabire u lijevim menijima za pravilnu prezentaciju.
 view_indicator_list: Pogledajte listu indikatora ovog cilja
 sub_categories: Podkategorije
-series_help: Odaberite kategorije iz  padajućeg menija ispod kako biste vidjeli različite podjele podataka. Neki neće biti dostupni dok se ne odabere viši nivo.
+series_help: Odaberite kategorije iz padajućeg menija ispod kako biste vidjeli različite podjele podataka. Neki neće biti dostupni dok se ne odabere viši nivo.
 legend_help: Kliknite na legendu kako biste uklonili pojedine linije s grafikona.
 chart: Grafikon
 table: Tabela
