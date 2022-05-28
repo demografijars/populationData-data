@@ -89,13 +89,13 @@
             "constraints": {
               "enum": [
                 "",
-                "5+_children",
+                "5+ children",
                 "Total",
                 "Did not give birth",
-                "four_children",
-                "one_child",
-                "three_children",
-                "two_children"
+                "4 children",
+                "1 child",
+                "3 children",
+                "2 children"
               ]
             },
             "title": "Vital statistics"
