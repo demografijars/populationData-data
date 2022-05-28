@@ -91,7 +91,7 @@
             }
           },
           {
-            "name": "BIRTHS",
+            "name": "NO_OF_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [

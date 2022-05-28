@@ -84,7 +84,7 @@
             "title": "Administrative area"
           },
           {
-            "name": "BIRTHS",
+            "name": "NO_OF_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 "2 children"
               ]
             },
-            "title": "Vital statistics"
+            "title": "NO_OF_CHILDREN"
           },
           {
             "name": "UNIT_MEASURE",

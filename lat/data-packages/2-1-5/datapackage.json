@@ -94,7 +94,7 @@
             "title": "Administrativna oblast"
           },
           {
-            "name": "BIRTHS",
+            "name": "NO_OF_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -108,7 +108,7 @@
                 ""
               ]
             },
-            "title": "Vitalna statistika"
+            "title": "NO_OF_CHILDREN"
           },
           {
             "name": "Value",
