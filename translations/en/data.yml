@@ -159,6 +159,11 @@ AGE_GROUP_OF_WOMEN: Age group of women
 BIRTH: Birth
 gave_birth: Gave birth
 did_not_give_birth: Did not give birth
+one_child: 1 child
+two_children: 2 children
+three_children: 3 children
+four_children: 4 children
+5+_children: 5+ children
 crude_death_rate: Crude death rate
 DEATH: Death
 crude_birth_rate: Crude birth rate
