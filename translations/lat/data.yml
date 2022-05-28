@@ -161,7 +161,6 @@ AGE_OF_MOTHER: Starost majke
 AGE_GROUP_OF_WOMEN: Starosna grupa žena
 BIRTH: Rađanje
 gave_birth: Rađale
-did_not_give_birth: Nisu rađale
 crude_death_rate: Stopa smrtnosti
 DEATH: Smrt
 crude_birth_rate: Stopa nataliteta
@@ -186,6 +185,11 @@ census_pyramid: Cenzus
 projection_pyramid: Godina projekcije
 LIVE_BORN_CHILDREN: Živorođena djeca
 did_not_give_birth: Nisu rađale
+one_child: 1 dijete
+two_children: 2 djece
+three_children: 3 djece
+four_children: 4 djece
+5+_children: 5 i više djece
 10_and_more: 10 i više
 Ethnicity_national_affiliation: Etnička/nacionalna pripadnost
 Bosnian_and_Herzegovinian: Bosansko-hercegovačka
