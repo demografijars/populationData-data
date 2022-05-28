@@ -4549,11 +4549,11 @@
               "enum": [
                 "Ukupno",
                 "Nisu rađale",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "1 dijete",
+                "2 djece",
+                "3 djece",
+                "4 djece",
+                "5 i više djece",
                 ""
               ]
             },
