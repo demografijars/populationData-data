@@ -162,6 +162,11 @@ AGE_GROUP_OF_WOMEN: Старосна група жена
 BIRTH: Рађање
 gave_birth: Рађале
 did_not_give_birth: Нису рађале
+one_child: 1 дијете
+two_children: 2 дјеце
+three_children: 3 дјеце
+four_children: 4 дјеце
+5+_children: 5 и више дјеце
 crude_death_rate: Стопа смртности
 DEATH: Смрт
 crude_birth_rate: Стопа наталитета
