@@ -205,21 +205,11 @@ other_religion: Друге религије
 unknown_religion: Непозната религија
 does_not_declare: Неопредијељен
 Mother_tongue: Матерњи језик
-Bosnian: Босански
-Serbian: Српски
-Croatian: Хрватски
-Serbo_Croatian: Српско-хрватски
-Romani: Ромски
-Albanian: Албански
-Bosnian_Croatian_Serbian: Босански-хрватски-српски
-Turkish: Турски
-Croato_Serbian: Хрватско-српски
-Bosniak: Бошњачки
-Ukranian: Украјински
-Bosnian_Serbian_Croatian: Босански-српски-хрватски
-Bosnian_Croatian: Босански-хрватски
-Bosnian_Herzegovinian: Босанско-херцеговачки
-German: Њемачки
+bosnian: Босански
+serbian: Српски
+croatian: Хрватски
+other_language: Други језици
+unknown_language: Непознат језик
 AGRICULTURAL_ACTIVITY: Пољопривредна дјелатност
 Performing_agricultural_activity: Обављање пољопривредне дјелатности
 Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Обављање пољопривредне дјелатности и продаја пољопривредних производа на тржишту
