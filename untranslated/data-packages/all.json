@@ -3115,7 +3115,7 @@
             "constraints": {
               "enum": [
                 "_T",
-                "single_household",
+                "1_member",
                 "2_members",
                 "3_members",
                 "4_members",

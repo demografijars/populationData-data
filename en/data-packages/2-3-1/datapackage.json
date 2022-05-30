@@ -89,12 +89,12 @@
             "constraints": {
               "enum": [
                 "",
+                "1 member",
                 "2 members",
                 "3 members",
                 "4 members",
                 "5+ members",
-                "Total",
-                "single_household"
+                "Total"
               ]
             },
             "title": "Household size"

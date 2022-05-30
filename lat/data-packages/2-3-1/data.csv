@@ -62,69 +62,69 @@ Year,UNIT_MEASURE,Administrativna oblast,Veličina domaćinstva,Value
 2013,Broj,Šamac,Ukupno,5609
 2013,Broj,Šekovići,Ukupno,2517
 2013,Broj,Šipovo,Ukupno,3665
-2013,Broj,Republika Srpska,1 član,91300
-2013,Broj,Grad Banja Luka,1 član,13984
-2013,Broj,Berkovići,1 član,129
-2013,Broj,Grad Bijeljina,1 član,6984
-2013,Broj,Bileća,1 član,629
-2013,Broj,Bratunac,1 član,1155
-2013,Broj,Brod,1 član,1360
-2013,Broj,Višegrad,1 član,1132
-2013,Broj,Vlasenica,1 član,768
-2013,Broj,Vukosavlje,1 član,348
-2013,Broj,Gacko,1 član,522
-2013,Broj,Grad Gradiška,1 član,3782
-2013,Broj,Grad Derventa,1 član,2270
-2013,Broj,Grad Doboj,1 član,6230
-2013,Broj,Donji Žabar,1 član,271
-2013,Broj,Grad Zvornik,1 član,3323
-2013,Broj,Istočna Ilidža,1 član,949
-2013,Broj,Istočni Drvar,1 član,24
-2013,Broj,Istočni Mostar,1 član,29
-2013,Broj,Istočni Stari Grad,1 član,123
-2013,Broj,Istočno Novo Sarajevo,1 član,904
-2013,Broj,Jezero,1 član,86
-2013,Broj,Kalinovik,1 član,245
-2013,Broj,Kneževo,1 član,611
-2013,Broj,Kozarska Dubica,1 član,1898
-2013,Broj,Kostajnica,1 član,384
-2013,Broj,Kotor Varoš,1 član,1089
-2013,Broj,Krupa Na Uni,1 član,159
-2013,Broj,Kupres,1 član,44
-2013,Broj,Laktaši,1 član,2093
-2013,Broj,Lopare,1 član,1256
-2013,Broj,Ljubinje,1 član,196
-2013,Broj,Milići,1 član,789
-2013,Broj,Modriča,1 član,1983
-2013,Broj,Mrkonjić Grad,1 član,1538
-2013,Broj,Nevesinje,1 član,766
-2013,Broj,Novi Grad,1 član,1965
-2013,Broj,Novo Goražde,1 član,270
-2013,Broj,Osmaci,1 član,254
-2013,Broj,Oštra Luka,1 član,277
-2013,Broj,Pale,1 član,1515
-2013,Broj,Pelagićevo,1 član,640
-2013,Broj,Petrovac,1 član,34
-2013,Broj,Petrovo,1 član,726
-2013,Broj,Grad Prijedor,1 član,6423
-2013,Broj,Prnjavor,1 član,2943
-2013,Broj,Ribnik,1 član,642
-2013,Broj,Rogatica,1 član,986
-2013,Broj,Rudo,1 član,696
-2013,Broj,Sokolac,1 član,1022
-2013,Broj,Srbac,1 član,1507
-2013,Broj,Srebrenica,1 član,874
-2013,Broj,Teslić,1 član,3060
-2013,Broj,Grad Trebinje,1 član,1848
-2013,Broj,Trnovo,1 član,223
-2013,Broj,Ugljevik,1 član,1019
-2013,Broj,Foča,1 član,1635
-2013,Broj,Han Pijesak,1 član,389
-2013,Broj,Čajniče,1 član,395
-2013,Broj,Čelinac,1 član,951
-2013,Broj,Šamac,1 član,1406
-2013,Broj,Šekovići,1 član,708
-2013,Broj,Šipovo,1 član,839
+2013,Broj,Republika Srpska,1_member,91300
+2013,Broj,Grad Banja Luka,1_member,13984
+2013,Broj,Berkovići,1_member,129
+2013,Broj,Grad Bijeljina,1_member,6984
+2013,Broj,Bileća,1_member,629
+2013,Broj,Bratunac,1_member,1155
+2013,Broj,Brod,1_member,1360
+2013,Broj,Višegrad,1_member,1132
+2013,Broj,Vlasenica,1_member,768
+2013,Broj,Vukosavlje,1_member,348
+2013,Broj,Gacko,1_member,522
+2013,Broj,Grad Gradiška,1_member,3782
+2013,Broj,Grad Derventa,1_member,2270
+2013,Broj,Grad Doboj,1_member,6230
+2013,Broj,Donji Žabar,1_member,271
+2013,Broj,Grad Zvornik,1_member,3323
+2013,Broj,Istočna Ilidža,1_member,949
+2013,Broj,Istočni Drvar,1_member,24
+2013,Broj,Istočni Mostar,1_member,29
+2013,Broj,Istočni Stari Grad,1_member,123
+2013,Broj,Istočno Novo Sarajevo,1_member,904
+2013,Broj,Jezero,1_member,86
+2013,Broj,Kalinovik,1_member,245
+2013,Broj,Kneževo,1_member,611
+2013,Broj,Kozarska Dubica,1_member,1898
+2013,Broj,Kostajnica,1_member,384
+2013,Broj,Kotor Varoš,1_member,1089
+2013,Broj,Krupa Na Uni,1_member,159
+2013,Broj,Kupres,1_member,44
+2013,Broj,Laktaši,1_member,2093
+2013,Broj,Lopare,1_member,1256
+2013,Broj,Ljubinje,1_member,196
+2013,Broj,Milići,1_member,789
+2013,Broj,Modriča,1_member,1983
+2013,Broj,Mrkonjić Grad,1_member,1538
+2013,Broj,Nevesinje,1_member,766
+2013,Broj,Novi Grad,1_member,1965
+2013,Broj,Novo Goražde,1_member,270
+2013,Broj,Osmaci,1_member,254
+2013,Broj,Oštra Luka,1_member,277
+2013,Broj,Pale,1_member,1515
+2013,Broj,Pelagićevo,1_member,640
+2013,Broj,Petrovac,1_member,34
+2013,Broj,Petrovo,1_member,726
+2013,Broj,Grad Prijedor,1_member,6423
+2013,Broj,Prnjavor,1_member,2943
+2013,Broj,Ribnik,1_member,642
+2013,Broj,Rogatica,1_member,986
+2013,Broj,Rudo,1_member,696
+2013,Broj,Sokolac,1_member,1022
+2013,Broj,Srbac,1_member,1507
+2013,Broj,Srebrenica,1_member,874
+2013,Broj,Teslić,1_member,3060
+2013,Broj,Grad Trebinje,1_member,1848
+2013,Broj,Trnovo,1_member,223
+2013,Broj,Ugljevik,1_member,1019
+2013,Broj,Foča,1_member,1635
+2013,Broj,Han Pijesak,1_member,389
+2013,Broj,Čajniče,1_member,395
+2013,Broj,Čelinac,1_member,951
+2013,Broj,Šamac,1_member,1406
+2013,Broj,Šekovići,1_member,708
+2013,Broj,Šipovo,1_member,839
 2013,Broj,Republika Srpska,2 člana,107130
 2013,Broj,Grad Banja Luka,2 člana,17243
 2013,Broj,Berkovići,2 člana,166

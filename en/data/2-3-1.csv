@@ -62,69 +62,69 @@ Year,UNIT_MEASURE,Administrative area,Household size,Value
 2013,Number,Samac,Total,5609
 2013,Number,Sekovici,Total,2517
 2013,Number,Sipovo,Total,3665
-2013,Number,Republika Srpska,single_household,91300
-2013,Number,City of Banja Luka,single_household,13984
-2013,Number,Berkovici,single_household,129
-2013,Number,City of Bijeljina,single_household,6984
-2013,Number,Bileca,single_household,629
-2013,Number,Bratunac,single_household,1155
-2013,Number,Brod,single_household,1360
-2013,Number,Visegrad,single_household,1132
-2013,Number,Vlasenica,single_household,768
-2013,Number,Vukosavlje,single_household,348
-2013,Number,Gacko,single_household,522
-2013,Number,City of Gradiska,single_household,3782
-2013,Number,City of Derventa,single_household,2270
-2013,Number,City of Doboj,single_household,6230
-2013,Number,Donji Zabar,single_household,271
-2013,Number,City of Zvornik,single_household,3323
-2013,Number,East Ilidza,single_household,949
-2013,Number,East Drvar,single_household,24
-2013,Number,East Mostar,single_household,29
-2013,Number,East Stari Grad,single_household,123
-2013,Number,East Novo Sarajevo,single_household,904
-2013,Number,Jezero,single_household,86
-2013,Number,Kalinovik,single_household,245
-2013,Number,Knezevo,single_household,611
-2013,Number,Kozarska Dubica,single_household,1898
-2013,Number,Kostajnica,single_household,384
-2013,Number,Kotor Varos,single_household,1089
-2013,Number,Krupa Na Uni,single_household,159
-2013,Number,Kupres,single_household,44
-2013,Number,Laktasi,single_household,2093
-2013,Number,Lopare,single_household,1256
-2013,Number,Ljubinje,single_household,196
-2013,Number,Milici,single_household,789
-2013,Number,Modrica,single_household,1983
-2013,Number,Mrkonjic Grad,single_household,1538
-2013,Number,Nevesinje,single_household,766
-2013,Number,Novi Grad,single_household,1965
-2013,Number,Novo Gorazde,single_household,270
-2013,Number,Osmaci,single_household,254
-2013,Number,Ostra Luka,single_household,277
-2013,Number,Pale,single_household,1515
-2013,Number,Pelagicevo,single_household,640
-2013,Number,Petrovac,single_household,34
-2013,Number,Petrovo,single_household,726
-2013,Number,City of Prijedor,single_household,6423
-2013,Number,Prnjavor,single_household,2943
-2013,Number,Ribnik,single_household,642
-2013,Number,Rogatica,single_household,986
-2013,Number,Rudo,single_household,696
-2013,Number,Sokolac,single_household,1022
-2013,Number,Srbac,single_household,1507
-2013,Number,Srebrenica,single_household,874
-2013,Number,Teslic,single_household,3060
-2013,Number,City of Trebinje,single_household,1848
-2013,Number,Trnovo,single_household,223
-2013,Number,Ugljevik,single_household,1019
-2013,Number,Foca,single_household,1635
-2013,Number,Han Pijesak,single_household,389
-2013,Number,Cajnice,single_household,395
-2013,Number,Celinac,single_household,951
-2013,Number,Samac,single_household,1406
-2013,Number,Sekovici,single_household,708
-2013,Number,Sipovo,single_household,839
+2013,Number,Republika Srpska,1 member,91300
+2013,Number,City of Banja Luka,1 member,13984
+2013,Number,Berkovici,1 member,129
+2013,Number,City of Bijeljina,1 member,6984
+2013,Number,Bileca,1 member,629
+2013,Number,Bratunac,1 member,1155
+2013,Number,Brod,1 member,1360
+2013,Number,Visegrad,1 member,1132
+2013,Number,Vlasenica,1 member,768
+2013,Number,Vukosavlje,1 member,348
+2013,Number,Gacko,1 member,522
+2013,Number,City of Gradiska,1 member,3782
+2013,Number,City of Derventa,1 member,2270
+2013,Number,City of Doboj,1 member,6230
+2013,Number,Donji Zabar,1 member,271
+2013,Number,City of Zvornik,1 member,3323
+2013,Number,East Ilidza,1 member,949
+2013,Number,East Drvar,1 member,24
+2013,Number,East Mostar,1 member,29
+2013,Number,East Stari Grad,1 member,123
+2013,Number,East Novo Sarajevo,1 member,904
+2013,Number,Jezero,1 member,86
+2013,Number,Kalinovik,1 member,245
+2013,Number,Knezevo,1 member,611
+2013,Number,Kozarska Dubica,1 member,1898
+2013,Number,Kostajnica,1 member,384
+2013,Number,Kotor Varos,1 member,1089
+2013,Number,Krupa Na Uni,1 member,159
+2013,Number,Kupres,1 member,44
+2013,Number,Laktasi,1 member,2093
+2013,Number,Lopare,1 member,1256
+2013,Number,Ljubinje,1 member,196
+2013,Number,Milici,1 member,789
+2013,Number,Modrica,1 member,1983
+2013,Number,Mrkonjic Grad,1 member,1538
+2013,Number,Nevesinje,1 member,766
+2013,Number,Novi Grad,1 member,1965
+2013,Number,Novo Gorazde,1 member,270
+2013,Number,Osmaci,1 member,254
+2013,Number,Ostra Luka,1 member,277
+2013,Number,Pale,1 member,1515
+2013,Number,Pelagicevo,1 member,640
+2013,Number,Petrovac,1 member,34
+2013,Number,Petrovo,1 member,726
+2013,Number,City of Prijedor,1 member,6423
+2013,Number,Prnjavor,1 member,2943
+2013,Number,Ribnik,1 member,642
+2013,Number,Rogatica,1 member,986
+2013,Number,Rudo,1 member,696
+2013,Number,Sokolac,1 member,1022
+2013,Number,Srbac,1 member,1507
+2013,Number,Srebrenica,1 member,874
+2013,Number,Teslic,1 member,3060
+2013,Number,City of Trebinje,1 member,1848
+2013,Number,Trnovo,1 member,223
+2013,Number,Ugljevik,1 member,1019
+2013,Number,Foca,1 member,1635
+2013,Number,Han Pijesak,1 member,389
+2013,Number,Cajnice,1 member,395
+2013,Number,Celinac,1 member,951
+2013,Number,Samac,1 member,1406
+2013,Number,Sekovici,1 member,708
+2013,Number,Sipovo,1 member,839
 2013,Number,Republika Srpska,2 members,107130
 2013,Number,City of Banja Luka,2 members,17243
 2013,Number,Berkovici,2 members,166

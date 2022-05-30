@@ -99,7 +99,7 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "1 član",
+                "1_member",
                 "2 člana",
                 "3 člana",
                 "4 člana",
