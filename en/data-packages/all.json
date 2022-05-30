@@ -2817,11 +2817,11 @@
               "enum": [
                 "",
                 "Total",
-                "bosnian",
-                "croatian",
-                "other_language",
-                "serbian",
-                "unknown_language"
+                "Bosnian",
+                "Croatian",
+                "Other language",
+                "Serbian",
+                "Unknown language"
               ]
             },
             "title": "Mother tongue"
@@ -3364,9 +3364,9 @@
                 "2 members",
                 "3 members",
                 "4 members",
-                "5+_members",
+                "5+ members",
                 "Total",
-                "1 member"
+                "single_household"
               ]
             },
             "title": "Household size"
