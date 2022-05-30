@@ -6227,14 +6227,14 @@
               "enum": [
                 "",
                 "Total",
-                "agnostic",
-                "atheist",
-                "catholic",
-                "does_not_declare",
-                "muslim",
+                "Agnostic",
+                "Atheist",
+                "Catholic",
+                "Does not declare",
+                "Muslim",
                 "ortodox",
-                "other_religion",
-                "unknown_religion"
+                "Other religion",
+                "Unknown religion"
               ]
             },
             "title": "Religion"
