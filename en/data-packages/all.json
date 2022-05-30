@@ -761,11 +761,11 @@
               "enum": [
                 "",
                 "Total",
-                "Bosniaks",
-                "Croats",
+                "Bosniak",
+                "Croat",
                 "Does not declare ethnicity/nationality",
                 "Other ethnicity/nationality",
-                "Serbs",
+                "Serb",
                 "Unknown ethnicity/nationality"
               ]
             },
