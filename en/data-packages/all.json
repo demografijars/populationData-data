@@ -2811,7 +2811,7 @@
             "title": "Administrative area"
           },
           {
-            "name": "Mother tounge",
+            "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2824,7 +2824,7 @@
                 "unknown_language"
               ]
             },
-            "title": "Mother tounge"
+            "title": "Mother tongue"
           },
           {
             "name": "SEX",

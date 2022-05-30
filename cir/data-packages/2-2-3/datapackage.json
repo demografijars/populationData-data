@@ -107,7 +107,7 @@
             "title": "Пол"
           },
           {
-            "name": "Mother tounge",
+            "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [
@@ -120,7 +120,7 @@
                 ""
               ]
             },
-            "title": "Mother tounge"
+            "title": "Матерњи језик"
           },
           {
             "name": "Value",

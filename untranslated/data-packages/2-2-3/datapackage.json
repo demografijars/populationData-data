@@ -103,7 +103,7 @@
             }
           },
           {
-            "name": "Mother tounge",
+            "name": "Mother_tongue",
             "type": "string",
             "constraints": {
               "enum": [

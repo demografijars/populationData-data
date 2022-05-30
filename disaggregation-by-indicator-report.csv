@@ -41,7 +41,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-6,"UNIT_MEASURE, SEX, TYPE_OF_DEPENDENCY_RATIO",3
 #2-2-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Nationality",4
 #2-2-2,"UNIT_MEASURE, SEX, ADMIN_AREA, Religion",4
-#2-2-3,"UNIT_MEASURE, SEX, ADMIN_AREA, Mother tounge",4
+#2-2-3,"UNIT_MEASURE, SEX, ADMIN_AREA, Mother_tongue",4
 #2-3-1,"UNIT_MEASURE, ADMIN_AREA, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",3
 #2-3-2,"UNIT_MEASURE, ADMIN_AREA, agricultural_households_number",3
 #2-4-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Literacy",4
