@@ -112,14 +112,14 @@
             "constraints": {
               "enum": [
                 "Укупно",
-                "muslim",
-                "catholic",
+                "Муслиман",
+                "Католик",
                 "ortodox",
-                "agnostic",
-                "atheist",
-                "other_religion",
-                "does_not_declare",
-                "unknown_religion",
+                "Агностик",
+                "Атеиста",
+                "Друге религије",
+                "Неопредијељен",
+                "Непозната религија",
                 ""
               ]
             },
