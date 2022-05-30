@@ -2817,11 +2817,11 @@
               "enum": [
                 "",
                 "Total",
-                "Bosnian",
-                "Croatian",
-                "Other language",
-                "Serbian",
-                "Unknown language"
+                "bosnian",
+                "croatian",
+                "other_language",
+                "serbian",
+                "unknown_language"
               ]
             },
             "title": "Mother tongue"
