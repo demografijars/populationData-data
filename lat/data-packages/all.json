@@ -6249,14 +6249,14 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "muslim",
-                "catholic",
+                "Musliman",
+                "Katolik",
                 "ortodox",
-                "agnostic",
-                "atheist",
-                "other_religion",
-                "does_not_declare",
-                "unknown_religion",
+                "Agnostik",
+                "Ateista",
+                "Druga religija",
+                "Neopredijeljen",
+                "Nepoznata religija",
                 ""
               ]
             },
