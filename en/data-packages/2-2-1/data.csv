@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Administrative area,Sex,Nationality,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Ethnicity/nationality,Value
 2013,Number,Republika Srpska,Both sexes,Total,1170342
 2013,Number,Republika Srpska,M,Total,571812
 2013,Number,Republika Srpska,F,Total,598530
@@ -188,1137 +188,1137 @@ Year,UNIT_MEASURE,Administrative area,Sex,Nationality,Value
 2013,Number,Sipovo,Both sexes,Total,9969
 2013,Number,Sipovo,M,Total,5046
 2013,Number,Sipovo,F,Total,4923
-2013,Number,Republika Srpska,Both sexes,bosniaks,148477
-2013,Number,Republika Srpska,M,bosniaks,72148
-2013,Number,Republika Srpska,F,bosniaks,76329
-2013,Number,City of Banja Luka,Both sexes,bosniaks,6816
-2013,Number,City of Banja Luka,M,bosniaks,3108
-2013,Number,City of Banja Luka,F,bosniaks,3708
-2013,Number,Berkovici,Both sexes,bosniaks,155
-2013,Number,Berkovici,M,bosniaks,87
-2013,Number,Berkovici,F,bosniaks,68
-2013,Number,City of Bijeljina,Both sexes,bosniaks,11680
-2013,Number,City of Bijeljina,M,bosniaks,5733
-2013,Number,City of Bijeljina,F,bosniaks,5947
-2013,Number,Bileca,Both sexes,bosniaks,26
-2013,Number,Bileca,M,bosniaks,16
-2013,Number,Bileca,F,bosniaks,10
-2013,Number,Bratunac,Both sexes,bosniaks,6588
-2013,Number,Bratunac,M,bosniaks,3218
-2013,Number,Bratunac,F,bosniaks,3370
-2013,Number,Brod,Both sexes,bosniaks,1312
-2013,Number,Brod,M,bosniaks,640
-2013,Number,Brod,F,bosniaks,672
-2013,Number,Visegrad,Both sexes,bosniaks,895
-2013,Number,Visegrad,M,bosniaks,454
-2013,Number,Visegrad,F,bosniaks,441
-2013,Number,Vlasenica,Both sexes,bosniaks,3360
-2013,Number,Vlasenica,M,bosniaks,1646
-2013,Number,Vlasenica,F,bosniaks,1714
-2013,Number,Vukosavlje,Both sexes,bosniaks,2025
-2013,Number,Vukosavlje,M,bosniaks,1034
-2013,Number,Vukosavlje,F,bosniaks,991
-2013,Number,Gacko,Both sexes,bosniaks,332
-2013,Number,Gacko,M,bosniaks,179
-2013,Number,Gacko,F,bosniaks,153
-2013,Number,City of Gradiska,Both sexes,bosniaks,6266
-2013,Number,City of Gradiska,M,bosniaks,3047
-2013,Number,City of Gradiska,F,bosniaks,3219
-2013,Number,City of Derventa,Both sexes,bosniaks,1686
-2013,Number,City of Derventa,M,bosniaks,812
-2013,Number,City of Derventa,F,bosniaks,874
-2013,Number,City of Doboj,Both sexes,bosniaks,14417
-2013,Number,City of Doboj,M,bosniaks,6904
-2013,Number,City of Doboj,F,bosniaks,7513
-2013,Number,Donji Zabar,Both sexes,bosniaks,4
-2013,Number,Donji Zabar,M,bosniaks,0
-2013,Number,Donji Zabar,F,bosniaks,4
-2013,Number,City of Zvornik,Both sexes,bosniaks,16775
-2013,Number,City of Zvornik,M,bosniaks,8206
-2013,Number,City of Zvornik,F,bosniaks,8569
-2013,Number,East Ilidza,Both sexes,bosniaks,632
-2013,Number,East Ilidza,M,bosniaks,293
-2013,Number,East Ilidza,F,bosniaks,339
-2013,Number,East Drvar,Both sexes,bosniaks,0
-2013,Number,East Drvar,M,bosniaks,0
-2013,Number,East Drvar,F,bosniaks,0
-2013,Number,East Mostar,Both sexes,bosniaks,78
-2013,Number,East Mostar,M,bosniaks,45
-2013,Number,East Mostar,F,bosniaks,33
-2013,Number,East Stari Grad,Both sexes,bosniaks,41
-2013,Number,East Stari Grad,M,bosniaks,25
-2013,Number,East Stari Grad,F,bosniaks,16
-2013,Number,East Novo Sarajevo,Both sexes,bosniaks,44
-2013,Number,East Novo Sarajevo,M,bosniaks,14
-2013,Number,East Novo Sarajevo,F,bosniaks,30
-2013,Number,Jezero,Both sexes,bosniaks,251
-2013,Number,Jezero,M,bosniaks,118
-2013,Number,Jezero,F,bosniaks,133
-2013,Number,Kalinovik,Both sexes,bosniaks,43
-2013,Number,Kalinovik,M,bosniaks,19
-2013,Number,Kalinovik,F,bosniaks,24
-2013,Number,Knezevo,Both sexes,bosniaks,413
-2013,Number,Knezevo,M,bosniaks,186
-2013,Number,Knezevo,F,bosniaks,227
-2013,Number,Kozarska Dubica,Both sexes,bosniaks,1883
-2013,Number,Kozarska Dubica,M,bosniaks,906
-2013,Number,Kozarska Dubica,F,bosniaks,977
-2013,Number,Kostajnica,Both sexes,bosniaks,1276
-2013,Number,Kostajnica,M,bosniaks,626
-2013,Number,Kostajnica,F,bosniaks,650
-2013,Number,Kotor Varos,Both sexes,bosniaks,4516
-2013,Number,Kotor Varos,M,bosniaks,2173
-2013,Number,Kotor Varos,F,bosniaks,2343
-2013,Number,Krupa Na Uni,Both sexes,bosniaks,3
-2013,Number,Krupa Na Uni,M,bosniaks,1
-2013,Number,Krupa Na Uni,F,bosniaks,2
-2013,Number,Kupres,Both sexes,bosniaks,0
-2013,Number,Kupres,M,bosniaks,0
-2013,Number,Kupres,F,bosniaks,0
-2013,Number,Laktasi,Both sexes,bosniaks,104
-2013,Number,Laktasi,M,bosniaks,47
-2013,Number,Laktasi,F,bosniaks,57
-2013,Number,Lopare,Both sexes,bosniaks,1310
-2013,Number,Lopare,M,bosniaks,646
-2013,Number,Lopare,F,bosniaks,664
-2013,Number,Ljubinje,Both sexes,bosniaks,9
-2013,Number,Ljubinje,M,bosniaks,5
-2013,Number,Ljubinje,F,bosniaks,4
-2013,Number,Milici,Both sexes,bosniaks,3532
-2013,Number,Milici,M,bosniaks,1746
-2013,Number,Milici,F,bosniaks,1786
-2013,Number,Modrica,Both sexes,bosniaks,2880
-2013,Number,Modrica,M,bosniaks,1364
-2013,Number,Modrica,F,bosniaks,1516
-2013,Number,Mrkonjic Grad,Both sexes,bosniaks,354
-2013,Number,Mrkonjic Grad,M,bosniaks,170
-2013,Number,Mrkonjic Grad,F,bosniaks,184
-2013,Number,Nevesinje,Both sexes,bosniaks,508
-2013,Number,Nevesinje,M,bosniaks,261
-2013,Number,Nevesinje,F,bosniaks,247
-2013,Number,Novi Grad,Both sexes,bosniaks,5214
-2013,Number,Novi Grad,M,bosniaks,2606
-2013,Number,Novi Grad,F,bosniaks,2608
-2013,Number,Novo Gorazde,Both sexes,bosniaks,1317
-2013,Number,Novo Gorazde,M,bosniaks,662
-2013,Number,Novo Gorazde,F,bosniaks,655
-2013,Number,Osmaci,Both sexes,bosniaks,2673
-2013,Number,Osmaci,M,bosniaks,1321
-2013,Number,Osmaci,F,bosniaks,1352
-2013,Number,Ostra Luka,Both sexes,bosniaks,23
-2013,Number,Ostra Luka,M,bosniaks,7
-2013,Number,Ostra Luka,F,bosniaks,16
-2013,Number,Pale,Both sexes,bosniaks,165
-2013,Number,Pale,M,bosniaks,86
-2013,Number,Pale,F,bosniaks,79
-2013,Number,Pelagicevo,Both sexes,bosniaks,13
-2013,Number,Pelagicevo,M,bosniaks,2
-2013,Number,Pelagicevo,F,bosniaks,11
-2013,Number,Petrovac,Both sexes,bosniaks,0
-2013,Number,Petrovac,M,bosniaks,0
-2013,Number,Petrovac,F,bosniaks,0
-2013,Number,Petrovo,Both sexes,bosniaks,6
-2013,Number,Petrovo,M,bosniaks,2
-2013,Number,Petrovo,F,bosniaks,4
-2013,Number,City of Prijedor,Both sexes,bosniaks,22303
-2013,Number,City of Prijedor,M,bosniaks,10669
-2013,Number,City of Prijedor,F,bosniaks,11634
-2013,Number,Prnjavor,Both sexes,bosniaks,2749
-2013,Number,Prnjavor,M,bosniaks,1329
-2013,Number,Prnjavor,F,bosniaks,1420
-2013,Number,Ribnik,Both sexes,bosniaks,0
-2013,Number,Ribnik,M,bosniaks,0
-2013,Number,Ribnik,F,bosniaks,0
-2013,Number,Rogatica,Both sexes,bosniaks,1009
-2013,Number,Rogatica,M,bosniaks,520
-2013,Number,Rogatica,F,bosniaks,489
-2013,Number,Rudo,Both sexes,bosniaks,574
-2013,Number,Rudo,M,bosniaks,300
-2013,Number,Rudo,F,bosniaks,274
-2013,Number,Sokolac,Both sexes,bosniaks,629
-2013,Number,Sokolac,M,bosniaks,329
-2013,Number,Sokolac,F,bosniaks,300
-2013,Number,Srbac,Both sexes,bosniaks,394
-2013,Number,Srbac,M,bosniaks,184
-2013,Number,Srbac,F,bosniaks,210
-2013,Number,Srebrenica,Both sexes,bosniaks,6122
-2013,Number,Srebrenica,M,bosniaks,2913
-2013,Number,Srebrenica,F,bosniaks,3209
-2013,Number,Teslic,Both sexes,bosniaks,6887
-2013,Number,Teslic,M,bosniaks,3387
-2013,Number,Teslic,F,bosniaks,3500
-2013,Number,City of Trebinje,Both sexes,bosniaks,863
-2013,Number,City of Trebinje,M,bosniaks,426
-2013,Number,City of Trebinje,F,bosniaks,437
-2013,Number,Trnovo,Both sexes,bosniaks,818
-2013,Number,Trnovo,M,bosniaks,405
-2013,Number,Trnovo,F,bosniaks,413
-2013,Number,Ugljevik,Both sexes,bosniaks,1999
-2013,Number,Ugljevik,M,bosniaks,974
-2013,Number,Ugljevik,F,bosniaks,1025
-2013,Number,Foca,Both sexes,bosniaks,1169
-2013,Number,Foca,M,bosniaks,626
-2013,Number,Foca,F,bosniaks,543
-2013,Number,Han Pijesak,Both sexes,bosniaks,420
-2013,Number,Han Pijesak,M,bosniaks,204
-2013,Number,Han Pijesak,F,bosniaks,216
-2013,Number,Cajnice,Both sexes,bosniaks,835
-2013,Number,Cajnice,M,bosniaks,439
-2013,Number,Cajnice,F,bosniaks,396
-2013,Number,Celinac,Both sexes,bosniaks,395
-2013,Number,Celinac,M,bosniaks,197
-2013,Number,Celinac,F,bosniaks,198
-2013,Number,Samac,Both sexes,bosniaks,1005
-2013,Number,Samac,M,bosniaks,486
-2013,Number,Samac,F,bosniaks,519
-2013,Number,Sekovici,Both sexes,bosniaks,103
-2013,Number,Sekovici,M,bosniaks,51
-2013,Number,Sekovici,F,bosniaks,52
-2013,Number,Sipovo,Both sexes,bosniaks,578
-2013,Number,Sipovo,M,bosniaks,294
-2013,Number,Sipovo,F,bosniaks,284
-2013,Number,Republika Srpska,Both sexes,croats,26509
-2013,Number,Republika Srpska,M,croats,11005
-2013,Number,Republika Srpska,F,croats,15504
-2013,Number,City of Banja Luka,Both sexes,croats,4887
-2013,Number,City of Banja Luka,M,croats,1761
-2013,Number,City of Banja Luka,F,croats,3126
-2013,Number,Berkovici,Both sexes,croats,11
-2013,Number,Berkovici,M,croats,1
-2013,Number,Berkovici,F,croats,10
-2013,Number,City of Bijeljina,Both sexes,croats,498
-2013,Number,City of Bijeljina,M,croats,140
-2013,Number,City of Bijeljina,F,croats,358
-2013,Number,Bileca,Both sexes,croats,21
-2013,Number,Bileca,M,croats,2
-2013,Number,Bileca,F,croats,19
-2013,Number,Bratunac,Both sexes,croats,30
-2013,Number,Bratunac,M,croats,5
-2013,Number,Bratunac,F,croats,25
-2013,Number,Brod,Both sexes,croats,3021
-2013,Number,Brod,M,croats,1413
-2013,Number,Brod,F,croats,1608
-2013,Number,Visegrad,Both sexes,croats,32
-2013,Number,Visegrad,M,croats,5
-2013,Number,Visegrad,F,croats,27
-2013,Number,Vlasenica,Both sexes,croats,29
-2013,Number,Vlasenica,M,croats,5
-2013,Number,Vlasenica,F,croats,24
-2013,Number,Vukosavlje,Both sexes,croats,698
-2013,Number,Vukosavlje,M,croats,332
-2013,Number,Vukosavlje,F,croats,366
-2013,Number,Gacko,Both sexes,croats,13
-2013,Number,Gacko,M,croats,5
-2013,Number,Gacko,F,croats,8
-2013,Number,City of Gradiska,Both sexes,croats,800
-2013,Number,City of Gradiska,M,croats,276
-2013,Number,City of Gradiska,F,croats,524
-2013,Number,City of Derventa,Both sexes,croats,2181
-2013,Number,City of Derventa,M,croats,1040
-2013,Number,City of Derventa,F,croats,1141
-2013,Number,City of Doboj,Both sexes,croats,1550
-2013,Number,City of Doboj,M,croats,605
-2013,Number,City of Doboj,F,croats,945
-2013,Number,Donji Zabar,Both sexes,croats,991
-2013,Number,Donji Zabar,M,croats,497
-2013,Number,Donji Zabar,F,croats,494
-2013,Number,City of Zvornik,Both sexes,croats,103
-2013,Number,City of Zvornik,M,croats,17
-2013,Number,City of Zvornik,F,croats,86
-2013,Number,East Ilidza,Both sexes,croats,148
-2013,Number,East Ilidza,M,croats,39
-2013,Number,East Ilidza,F,croats,109
-2013,Number,East Drvar,Both sexes,croats,1
-2013,Number,East Drvar,M,croats,0
-2013,Number,East Drvar,F,croats,1
-2013,Number,East Mostar,Both sexes,croats,11
-2013,Number,East Mostar,M,croats,8
-2013,Number,East Mostar,F,croats,3
-2013,Number,East Stari Grad,Both sexes,croats,6
-2013,Number,East Stari Grad,M,croats,2
-2013,Number,East Stari Grad,F,croats,4
-2013,Number,East Novo Sarajevo,Both sexes,croats,102
-2013,Number,East Novo Sarajevo,M,croats,23
-2013,Number,East Novo Sarajevo,F,croats,79
-2013,Number,Jezero,Both sexes,croats,6
-2013,Number,Jezero,M,croats,4
-2013,Number,Jezero,F,croats,2
-2013,Number,Kalinovik,Both sexes,croats,8
-2013,Number,Kalinovik,M,croats,2
-2013,Number,Kalinovik,F,croats,6
-2013,Number,Knezevo,Both sexes,croats,24
-2013,Number,Knezevo,M,croats,5
-2013,Number,Knezevo,F,croats,19
-2013,Number,Kozarska Dubica,Both sexes,croats,261
-2013,Number,Kozarska Dubica,M,croats,79
-2013,Number,Kozarska Dubica,F,croats,182
-2013,Number,Kostajnica,Both sexes,croats,82
-2013,Number,Kostajnica,M,croats,29
-2013,Number,Kostajnica,F,croats,53
-2013,Number,Kotor Varos,Both sexes,croats,852
-2013,Number,Kotor Varos,M,croats,410
-2013,Number,Kotor Varos,F,croats,442
-2013,Number,Krupa Na Uni,Both sexes,croats,2
-2013,Number,Krupa Na Uni,M,croats,0
-2013,Number,Krupa Na Uni,F,croats,2
-2013,Number,Kupres,Both sexes,croats,0
-2013,Number,Kupres,M,croats,0
-2013,Number,Kupres,F,croats,0
-2013,Number,Laktasi,Both sexes,croats,500
-2013,Number,Laktasi,M,croats,175
-2013,Number,Laktasi,F,croats,325
-2013,Number,Lopare,Both sexes,croats,48
-2013,Number,Lopare,M,croats,9
-2013,Number,Lopare,F,croats,39
-2013,Number,Ljubinje,Both sexes,croats,10
-2013,Number,Ljubinje,M,croats,3
-2013,Number,Ljubinje,F,croats,7
-2013,Number,Milici,Both sexes,croats,22
-2013,Number,Milici,M,croats,7
-2013,Number,Milici,F,croats,15
-2013,Number,Modrica,Both sexes,croats,1396
-2013,Number,Modrica,M,croats,662
-2013,Number,Modrica,F,croats,734
-2013,Number,Mrkonjic Grad,Both sexes,croats,148
-2013,Number,Mrkonjic Grad,M,croats,60
-2013,Number,Mrkonjic Grad,F,croats,88
-2013,Number,Nevesinje,Both sexes,croats,27
-2013,Number,Nevesinje,M,croats,9
-2013,Number,Nevesinje,F,croats,18
-2013,Number,Novi Grad,Both sexes,croats,174
-2013,Number,Novi Grad,M,croats,58
-2013,Number,Novi Grad,F,croats,116
-2013,Number,Novo Gorazde,Both sexes,croats,2
-2013,Number,Novo Gorazde,M,croats,1
-2013,Number,Novo Gorazde,F,croats,1
-2013,Number,Osmaci,Both sexes,croats,7
-2013,Number,Osmaci,M,croats,1
-2013,Number,Osmaci,F,croats,6
-2013,Number,Ostra Luka,Both sexes,croats,149
-2013,Number,Ostra Luka,M,croats,74
-2013,Number,Ostra Luka,F,croats,75
-2013,Number,Pale,Both sexes,croats,126
-2013,Number,Pale,M,croats,37
-2013,Number,Pale,F,croats,89
-2013,Number,Pelagicevo,Both sexes,croats,1182
-2013,Number,Pelagicevo,M,croats,580
-2013,Number,Pelagicevo,F,croats,602
-2013,Number,Petrovac,Both sexes,croats,0
-2013,Number,Petrovac,M,croats,0
-2013,Number,Petrovac,F,croats,0
-2013,Number,Petrovo,Both sexes,croats,34
-2013,Number,Petrovo,M,croats,8
-2013,Number,Petrovo,F,croats,26
-2013,Number,City of Prijedor,Both sexes,croats,1666
-2013,Number,City of Prijedor,M,croats,679
-2013,Number,City of Prijedor,F,croats,987
-2013,Number,Prnjavor,Both sexes,croats,423
-2013,Number,Prnjavor,M,croats,150
-2013,Number,Prnjavor,F,croats,273
-2013,Number,Ribnik,Both sexes,croats,11
-2013,Number,Ribnik,M,croats,4
-2013,Number,Ribnik,F,croats,7
-2013,Number,Rogatica,Both sexes,croats,18
-2013,Number,Rogatica,M,croats,2
-2013,Number,Rogatica,F,croats,16
-2013,Number,Rudo,Both sexes,croats,7
-2013,Number,Rudo,M,croats,6
-2013,Number,Rudo,F,croats,1
-2013,Number,Sokolac,Both sexes,croats,28
-2013,Number,Sokolac,M,croats,8
-2013,Number,Sokolac,F,croats,20
-2013,Number,Srbac,Both sexes,croats,128
-2013,Number,Srbac,M,croats,21
-2013,Number,Srbac,F,croats,107
-2013,Number,Srebrenica,Both sexes,croats,14
-2013,Number,Srebrenica,M,croats,6
-2013,Number,Srebrenica,F,croats,8
-2013,Number,Teslic,Both sexes,croats,1346
-2013,Number,Teslic,M,croats,581
-2013,Number,Teslic,F,croats,765
-2013,Number,City of Trebinje,Both sexes,croats,295
-2013,Number,City of Trebinje,M,croats,99
-2013,Number,City of Trebinje,F,croats,196
-2013,Number,Trnovo,Both sexes,croats,15
-2013,Number,Trnovo,M,croats,3
-2013,Number,Trnovo,F,croats,12
-2013,Number,Ugljevik,Both sexes,croats,42
-2013,Number,Ugljevik,M,croats,8
-2013,Number,Ugljevik,F,croats,34
-2013,Number,Foca,Both sexes,croats,52
-2013,Number,Foca,M,croats,16
-2013,Number,Foca,F,croats,36
-2013,Number,Han Pijesak,Both sexes,croats,7
-2013,Number,Han Pijesak,M,croats,1
-2013,Number,Han Pijesak,F,croats,6
-2013,Number,Cajnice,Both sexes,croats,6
-2013,Number,Cajnice,M,croats,1
-2013,Number,Cajnice,F,croats,5
-2013,Number,Celinac,Both sexes,croats,48
-2013,Number,Celinac,M,croats,11
-2013,Number,Celinac,F,croats,37
-2013,Number,Samac,Both sexes,croats,2176
-2013,Number,Samac,M,croats,1011
-2013,Number,Samac,F,croats,1165
-2013,Number,Sekovici,Both sexes,croats,8
-2013,Number,Sekovici,M,croats,2
-2013,Number,Sekovici,F,croats,6
-2013,Number,Sipovo,Both sexes,croats,26
-2013,Number,Sipovo,M,croats,7
-2013,Number,Sipovo,F,croats,19
-2013,Number,Republika Srpska,Both sexes,serbs,970857
-2013,Number,Republika Srpska,M,serbs,477334
-2013,Number,Republika Srpska,F,serbs,493523
-2013,Number,City of Banja Luka,Both sexes,serbs,162057
-2013,Number,City of Banja Luka,M,serbs,78827
-2013,Number,City of Banja Luka,F,serbs,83230
-2013,Number,Berkovici,Both sexes,serbs,1873
-2013,Number,Berkovici,M,serbs,943
-2013,Number,Berkovici,F,serbs,930
-2013,Number,City of Bijeljina,Both sexes,serbs,89474
-2013,Number,City of Bijeljina,M,serbs,43861
-2013,Number,City of Bijeljina,F,serbs,45613
-2013,Number,Bileca,Both sexes,serbs,10447
-2013,Number,Bileca,M,serbs,5276
-2013,Number,Bileca,F,serbs,5171
-2013,Number,Bratunac,Both sexes,serbs,11897
-2013,Number,Bratunac,M,serbs,5915
-2013,Number,Bratunac,F,serbs,5982
-2013,Number,Brod,Both sexes,serbs,11065
-2013,Number,Brod,M,serbs,5486
-2013,Number,Brod,F,serbs,5579
-2013,Number,Visegrad,Both sexes,serbs,8942
-2013,Number,Visegrad,M,serbs,4337
-2013,Number,Visegrad,F,serbs,4605
-2013,Number,Vlasenica,Both sexes,serbs,7190
-2013,Number,Vlasenica,M,serbs,3505
-2013,Number,Vlasenica,F,serbs,3685
-2013,Number,Vukosavlje,Both sexes,serbs,1448
-2013,Number,Vukosavlje,M,serbs,720
-2013,Number,Vukosavlje,F,serbs,728
-2013,Number,Gacko,Both sexes,serbs,8316
-2013,Number,Gacko,M,serbs,4211
-2013,Number,Gacko,F,serbs,4105
-2013,Number,City of Gradiska,Both sexes,serbs,40707
-2013,Number,City of Gradiska,M,serbs,19960
-2013,Number,City of Gradiska,F,serbs,20747
-2013,Number,City of Derventa,Both sexes,serbs,21495
-2013,Number,City of Derventa,M,serbs,10524
-2013,Number,City of Derventa,F,serbs,10971
-2013,Number,City of Doboj,Both sexes,serbs,50968
-2013,Number,City of Doboj,M,serbs,24968
-2013,Number,City of Doboj,F,serbs,26000
-2013,Number,Donji Zabar,Both sexes,serbs,2658
-2013,Number,Donji Zabar,M,serbs,1352
-2013,Number,Donji Zabar,F,serbs,1306
-2013,Number,City of Zvornik,Both sexes,serbs,37242
-2013,Number,City of Zvornik,M,serbs,18452
-2013,Number,City of Zvornik,F,serbs,18790
-2013,Number,East Ilidza,Both sexes,serbs,13455
-2013,Number,East Ilidza,M,serbs,6486
-2013,Number,East Ilidza,F,serbs,6969
-2013,Number,East Drvar,Both sexes,serbs,65
-2013,Number,East Drvar,M,serbs,44
-2013,Number,East Drvar,F,serbs,21
-2013,Number,East Mostar,Both sexes,serbs,153
-2013,Number,East Mostar,M,serbs,84
-2013,Number,East Mostar,F,serbs,69
-2013,Number,East Stari Grad,Both sexes,serbs,1059
-2013,Number,East Stari Grad,M,serbs,519
-2013,Number,East Stari Grad,F,serbs,540
-2013,Number,East Novo Sarajevo,Both sexes,serbs,10028
-2013,Number,East Novo Sarajevo,M,serbs,4801
-2013,Number,East Novo Sarajevo,F,serbs,5227
-2013,Number,Jezero,Both sexes,serbs,779
-2013,Number,Jezero,M,serbs,410
-2013,Number,Jezero,F,serbs,369
-2013,Number,Kalinovik,Both sexes,serbs,1895
-2013,Number,Kalinovik,M,serbs,920
-2013,Number,Kalinovik,F,serbs,975
-2013,Number,Knezevo,Both sexes,serbs,8886
-2013,Number,Knezevo,M,serbs,4414
-2013,Number,Knezevo,F,serbs,4472
-2013,Number,Kozarska Dubica,Both sexes,serbs,18144
-2013,Number,Kozarska Dubica,M,serbs,8939
-2013,Number,Kozarska Dubica,F,serbs,9205
-2013,Number,Kostajnica,Both sexes,serbs,4177
-2013,Number,Kostajnica,M,serbs,2077
-2013,Number,Kostajnica,F,serbs,2100
-2013,Number,Kotor Varos,Both sexes,serbs,12730
-2013,Number,Kotor Varos,M,serbs,6305
-2013,Number,Kotor Varos,F,serbs,6425
-2013,Number,Krupa Na Uni,Both sexes,serbs,1555
-2013,Number,Krupa Na Uni,M,serbs,840
-2013,Number,Krupa Na Uni,F,serbs,715
-2013,Number,Kupres,Both sexes,serbs,292
-2013,Number,Kupres,M,serbs,156
-2013,Number,Kupres,F,serbs,136
-2013,Number,Laktasi,Both sexes,serbs,32761
-2013,Number,Laktasi,M,serbs,16275
-2013,Number,Laktasi,F,serbs,16486
-2013,Number,Lopare,Both sexes,serbs,13267
-2013,Number,Lopare,M,serbs,6695
-2013,Number,Lopare,F,serbs,6572
-2013,Number,Ljubinje,Both sexes,serbs,3280
-2013,Number,Ljubinje,M,serbs,1615
-2013,Number,Ljubinje,F,serbs,1665
-2013,Number,Milici,Both sexes,serbs,6857
-2013,Number,Milici,M,serbs,3486
-2013,Number,Milici,F,serbs,3371
-2013,Number,Modrica,Both sexes,serbs,19530
-2013,Number,Modrica,M,serbs,9611
-2013,Number,Modrica,F,serbs,9919
-2013,Number,Mrkonjic Grad,Both sexes,serbs,15340
-2013,Number,Mrkonjic Grad,M,serbs,7388
-2013,Number,Mrkonjic Grad,F,serbs,7952
-2013,Number,Nevesinje,Both sexes,serbs,11964
-2013,Number,Nevesinje,M,serbs,5951
-2013,Number,Nevesinje,F,serbs,6013
-2013,Number,Novi Grad,Both sexes,serbs,19491
-2013,Number,Novi Grad,M,serbs,9747
-2013,Number,Novi Grad,F,serbs,9744
-2013,Number,Novo Gorazde,Both sexes,serbs,1561
-2013,Number,Novo Gorazde,M,serbs,821
-2013,Number,Novo Gorazde,F,serbs,740
-2013,Number,Osmaci,Both sexes,serbs,2852
-2013,Number,Osmaci,M,serbs,1450
-2013,Number,Osmaci,F,serbs,1402
-2013,Number,Ostra Luka,Both sexes,serbs,2510
-2013,Number,Ostra Luka,M,serbs,1296
-2013,Number,Ostra Luka,F,serbs,1214
-2013,Number,Pale,Both sexes,serbs,19932
-2013,Number,Pale,M,serbs,9561
-2013,Number,Pale,F,serbs,10371
-2013,Number,Pelagicevo,Both sexes,serbs,3146
-2013,Number,Pelagicevo,M,serbs,1563
-2013,Number,Pelagicevo,F,serbs,1583
-2013,Number,Petrovac,Both sexes,serbs,351
-2013,Number,Petrovac,M,serbs,168
-2013,Number,Petrovac,F,serbs,183
-2013,Number,Petrovo,Both sexes,serbs,6222
-2013,Number,Petrovo,M,serbs,3002
-2013,Number,Petrovo,F,serbs,3220
-2013,Number,City of Prijedor,Both sexes,serbs,54365
-2013,Number,City of Prijedor,M,serbs,26834
-2013,Number,City of Prijedor,F,serbs,27531
-2013,Number,Prnjavor,Both sexes,serbs,29478
-2013,Number,Prnjavor,M,serbs,14352
-2013,Number,Prnjavor,F,serbs,15126
-2013,Number,Ribnik,Both sexes,serbs,5825
-2013,Number,Ribnik,M,serbs,2891
-2013,Number,Ribnik,F,serbs,2934
-2013,Number,Rogatica,Both sexes,serbs,9217
-2013,Number,Rogatica,M,serbs,4502
-2013,Number,Rogatica,F,serbs,4715
-2013,Number,Rudo,Both sexes,serbs,6963
-2013,Number,Rudo,M,serbs,3517
-2013,Number,Rudo,F,serbs,3446
-2013,Number,Sokolac,Both sexes,serbs,10894
-2013,Number,Sokolac,M,serbs,5357
-2013,Number,Sokolac,F,serbs,5537
-2013,Number,Srbac,Both sexes,serbs,16013
-2013,Number,Srbac,M,serbs,7888
-2013,Number,Srbac,F,serbs,8125
-2013,Number,Srebrenica,Both sexes,serbs,5467
-2013,Number,Srebrenica,M,serbs,2743
-2013,Number,Srebrenica,F,serbs,2724
-2013,Number,Teslic,Both sexes,serbs,28166
-2013,Number,Teslic,M,serbs,13545
-2013,Number,Teslic,F,serbs,14621
-2013,Number,City of Trebinje,Both sexes,serbs,26484
-2013,Number,City of Trebinje,M,serbs,12943
-2013,Number,City of Trebinje,F,serbs,13541
-2013,Number,Trnovo,Both sexes,serbs,1131
-2013,Number,Trnovo,M,serbs,534
-2013,Number,Trnovo,F,serbs,597
-2013,Number,Ugljevik,Both sexes,serbs,13007
-2013,Number,Ugljevik,M,serbs,6606
-2013,Number,Ugljevik,F,serbs,6401
-2013,Number,Foca,Both sexes,serbs,16157
-2013,Number,Foca,M,serbs,8133
-2013,Number,Foca,F,serbs,8024
-2013,Number,Han Pijesak,Both sexes,serbs,2994
-2013,Number,Han Pijesak,M,serbs,1412
-2013,Number,Han Pijesak,F,serbs,1582
-2013,Number,Cajnice,Both sexes,serbs,3806
-2013,Number,Cajnice,M,serbs,1891
-2013,Number,Cajnice,F,serbs,1915
-2013,Number,Celinac,Both sexes,serbs,14508
-2013,Number,Celinac,M,serbs,7194
-2013,Number,Celinac,F,serbs,7314
-2013,Number,Samac,Both sexes,serbs,12832
-2013,Number,Samac,M,serbs,6277
-2013,Number,Samac,F,serbs,6555
-2013,Number,Sekovici,Both sexes,serbs,6187
-2013,Number,Sekovici,M,serbs,3038
-2013,Number,Sekovici,F,serbs,3149
-2013,Number,Sipovo,Both sexes,serbs,9302
-2013,Number,Sipovo,M,serbs,4716
-2013,Number,Sipovo,F,serbs,4586
-2013,Number,Republika Srpska,Both sexes,other_ethnicity/nationality,14641
-2013,Number,Republika Srpska,M,other_ethnicity/nationality,7207
-2013,Number,Republika Srpska,F,other_ethnicity/nationality,7434
-2013,Number,City of Banja Luka,Both sexes,other_ethnicity/nationality,3324
-2013,Number,City of Banja Luka,M,other_ethnicity/nationality,1617
-2013,Number,City of Banja Luka,F,other_ethnicity/nationality,1707
-2013,Number,Berkovici,Both sexes,other_ethnicity/nationality,1
-2013,Number,Berkovici,M,other_ethnicity/nationality,1
-2013,Number,Berkovici,F,other_ethnicity/nationality,0
-2013,Number,City of Bijeljina,Both sexes,other_ethnicity/nationality,1478
-2013,Number,City of Bijeljina,M,other_ethnicity/nationality,717
-2013,Number,City of Bijeljina,F,other_ethnicity/nationality,761
-2013,Number,Bileca,Both sexes,other_ethnicity/nationality,72
-2013,Number,Bileca,M,other_ethnicity/nationality,38
-2013,Number,Bileca,F,other_ethnicity/nationality,34
-2013,Number,Bratunac,Both sexes,other_ethnicity/nationality,79
-2013,Number,Bratunac,M,other_ethnicity/nationality,45
-2013,Number,Bratunac,F,other_ethnicity/nationality,34
-2013,Number,Brod,Both sexes,other_ethnicity/nationality,151
-2013,Number,Brod,M,other_ethnicity/nationality,69
-2013,Number,Brod,F,other_ethnicity/nationality,82
-2013,Number,Visegrad,Both sexes,other_ethnicity/nationality,53
-2013,Number,Visegrad,M,other_ethnicity/nationality,26
-2013,Number,Visegrad,F,other_ethnicity/nationality,27
-2013,Number,Vlasenica,Both sexes,other_ethnicity/nationality,29
-2013,Number,Vlasenica,M,other_ethnicity/nationality,13
-2013,Number,Vlasenica,F,other_ethnicity/nationality,16
-2013,Number,Vukosavlje,Both sexes,other_ethnicity/nationality,146
-2013,Number,Vukosavlje,M,other_ethnicity/nationality,81
-2013,Number,Vukosavlje,F,other_ethnicity/nationality,65
-2013,Number,Gacko,Both sexes,other_ethnicity/nationality,40
-2013,Number,Gacko,M,other_ethnicity/nationality,27
-2013,Number,Gacko,F,other_ethnicity/nationality,13
-2013,Number,City of Gradiska,Both sexes,other_ethnicity/nationality,970
-2013,Number,City of Gradiska,M,other_ethnicity/nationality,468
-2013,Number,City of Gradiska,F,other_ethnicity/nationality,502
-2013,Number,City of Derventa,Both sexes,other_ethnicity/nationality,264
-2013,Number,City of Derventa,M,other_ethnicity/nationality,116
-2013,Number,City of Derventa,F,other_ethnicity/nationality,148
-2013,Number,City of Doboj,Both sexes,other_ethnicity/nationality,949
-2013,Number,City of Doboj,M,other_ethnicity/nationality,486
-2013,Number,City of Doboj,F,other_ethnicity/nationality,463
-2013,Number,Donji Zabar,Both sexes,other_ethnicity/nationality,9
-2013,Number,Donji Zabar,M,other_ethnicity/nationality,1
-2013,Number,Donji Zabar,F,other_ethnicity/nationality,8
-2013,Number,City of Zvornik,Both sexes,other_ethnicity/nationality,120
-2013,Number,City of Zvornik,M,other_ethnicity/nationality,55
-2013,Number,City of Zvornik,F,other_ethnicity/nationality,65
-2013,Number,East Ilidza,Both sexes,other_ethnicity/nationality,96
-2013,Number,East Ilidza,M,other_ethnicity/nationality,44
-2013,Number,East Ilidza,F,other_ethnicity/nationality,52
-2013,Number,East Drvar,Both sexes,other_ethnicity/nationality,0
-2013,Number,East Drvar,M,other_ethnicity/nationality,0
-2013,Number,East Drvar,F,other_ethnicity/nationality,0
-2013,Number,East Mostar,Both sexes,other_ethnicity/nationality,0
-2013,Number,East Mostar,M,other_ethnicity/nationality,0
-2013,Number,East Mostar,F,other_ethnicity/nationality,0
-2013,Number,East Stari Grad,Both sexes,other_ethnicity/nationality,7
-2013,Number,East Stari Grad,M,other_ethnicity/nationality,5
-2013,Number,East Stari Grad,F,other_ethnicity/nationality,2
-2013,Number,East Novo Sarajevo,Both sexes,other_ethnicity/nationality,163
-2013,Number,East Novo Sarajevo,M,other_ethnicity/nationality,72
-2013,Number,East Novo Sarajevo,F,other_ethnicity/nationality,91
-2013,Number,Jezero,Both sexes,other_ethnicity/nationality,1
-2013,Number,Jezero,M,other_ethnicity/nationality,1
-2013,Number,Jezero,F,other_ethnicity/nationality,0
-2013,Number,Kalinovik,Both sexes,other_ethnicity/nationality,15
-2013,Number,Kalinovik,M,other_ethnicity/nationality,8
-2013,Number,Kalinovik,F,other_ethnicity/nationality,7
-2013,Number,Knezevo,Both sexes,other_ethnicity/nationality,37
-2013,Number,Knezevo,M,other_ethnicity/nationality,21
-2013,Number,Knezevo,F,other_ethnicity/nationality,16
-2013,Number,Kozarska Dubica,Both sexes,other_ethnicity/nationality,219
-2013,Number,Kozarska Dubica,M,other_ethnicity/nationality,102
-2013,Number,Kozarska Dubica,F,other_ethnicity/nationality,117
-2013,Number,Kostajnica,Both sexes,other_ethnicity/nationality,42
-2013,Number,Kostajnica,M,other_ethnicity/nationality,20
-2013,Number,Kostajnica,F,other_ethnicity/nationality,22
-2013,Number,Kotor Varos,Both sexes,other_ethnicity/nationality,129
-2013,Number,Kotor Varos,M,other_ethnicity/nationality,63
-2013,Number,Kotor Varos,F,other_ethnicity/nationality,66
-2013,Number,Krupa Na Uni,Both sexes,other_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,M,other_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,F,other_ethnicity/nationality,0
-2013,Number,Kupres,Both sexes,other_ethnicity/nationality,0
-2013,Number,Kupres,M,other_ethnicity/nationality,0
-2013,Number,Kupres,F,other_ethnicity/nationality,0
-2013,Number,Laktasi,Both sexes,other_ethnicity/nationality,562
-2013,Number,Laktasi,M,other_ethnicity/nationality,285
-2013,Number,Laktasi,F,other_ethnicity/nationality,277
-2013,Number,Lopare,Both sexes,other_ethnicity/nationality,31
-2013,Number,Lopare,M,other_ethnicity/nationality,16
-2013,Number,Lopare,F,other_ethnicity/nationality,15
-2013,Number,Ljubinje,Both sexes,other_ethnicity/nationality,13
-2013,Number,Ljubinje,M,other_ethnicity/nationality,7
-2013,Number,Ljubinje,F,other_ethnicity/nationality,6
-2013,Number,Milici,Both sexes,other_ethnicity/nationality,19
-2013,Number,Milici,M,other_ethnicity/nationality,7
-2013,Number,Milici,F,other_ethnicity/nationality,12
-2013,Number,Modrica,Both sexes,other_ethnicity/nationality,412
-2013,Number,Modrica,M,other_ethnicity/nationality,207
-2013,Number,Modrica,F,other_ethnicity/nationality,205
-2013,Number,Mrkonjic Grad,Both sexes,other_ethnicity/nationality,37
-2013,Number,Mrkonjic Grad,M,other_ethnicity/nationality,17
-2013,Number,Mrkonjic Grad,F,other_ethnicity/nationality,20
-2013,Number,Nevesinje,Both sexes,other_ethnicity/nationality,18
-2013,Number,Nevesinje,M,other_ethnicity/nationality,5
-2013,Number,Nevesinje,F,other_ethnicity/nationality,13
-2013,Number,Novi Grad,Both sexes,other_ethnicity/nationality,200
-2013,Number,Novi Grad,M,other_ethnicity/nationality,100
-2013,Number,Novi Grad,F,other_ethnicity/nationality,100
-2013,Number,Novo Gorazde,Both sexes,other_ethnicity/nationality,22
-2013,Number,Novo Gorazde,M,other_ethnicity/nationality,11
-2013,Number,Novo Gorazde,F,other_ethnicity/nationality,11
-2013,Number,Osmaci,Both sexes,other_ethnicity/nationality,5
-2013,Number,Osmaci,M,other_ethnicity/nationality,2
-2013,Number,Osmaci,F,other_ethnicity/nationality,3
-2013,Number,Ostra Luka,Both sexes,other_ethnicity/nationality,8
-2013,Number,Ostra Luka,M,other_ethnicity/nationality,3
-2013,Number,Ostra Luka,F,other_ethnicity/nationality,5
-2013,Number,Pale,Both sexes,other_ethnicity/nationality,70
-2013,Number,Pale,M,other_ethnicity/nationality,31
-2013,Number,Pale,F,other_ethnicity/nationality,39
-2013,Number,Pelagicevo,Both sexes,other_ethnicity/nationality,9
-2013,Number,Pelagicevo,M,other_ethnicity/nationality,4
-2013,Number,Pelagicevo,F,other_ethnicity/nationality,5
-2013,Number,Petrovac,Both sexes,other_ethnicity/nationality,3
-2013,Number,Petrovac,M,other_ethnicity/nationality,1
-2013,Number,Petrovac,F,other_ethnicity/nationality,2
-2013,Number,Petrovo,Both sexes,other_ethnicity/nationality,30
-2013,Number,Petrovo,M,other_ethnicity/nationality,19
-2013,Number,Petrovo,F,other_ethnicity/nationality,11
-2013,Number,City of Prijedor,Both sexes,other_ethnicity/nationality,1495
-2013,Number,City of Prijedor,M,other_ethnicity/nationality,712
-2013,Number,City of Prijedor,F,other_ethnicity/nationality,783
-2013,Number,Prnjavor,Both sexes,other_ethnicity/nationality,1452
-2013,Number,Prnjavor,M,other_ethnicity/nationality,738
-2013,Number,Prnjavor,F,other_ethnicity/nationality,714
-2013,Number,Ribnik,Both sexes,other_ethnicity/nationality,11
-2013,Number,Ribnik,M,other_ethnicity/nationality,3
-2013,Number,Ribnik,F,other_ethnicity/nationality,8
-2013,Number,Rogatica,Both sexes,other_ethnicity/nationality,41
-2013,Number,Rogatica,M,other_ethnicity/nationality,20
-2013,Number,Rogatica,F,other_ethnicity/nationality,21
-2013,Number,Rudo,Both sexes,other_ethnicity/nationality,26
-2013,Number,Rudo,M,other_ethnicity/nationality,14
-2013,Number,Rudo,F,other_ethnicity/nationality,12
-2013,Number,Sokolac,Both sexes,other_ethnicity/nationality,38
-2013,Number,Sokolac,M,other_ethnicity/nationality,19
-2013,Number,Sokolac,F,other_ethnicity/nationality,19
-2013,Number,Srbac,Both sexes,other_ethnicity/nationality,280
-2013,Number,Srbac,M,other_ethnicity/nationality,146
-2013,Number,Srbac,F,other_ethnicity/nationality,134
-2013,Number,Srebrenica,Both sexes,other_ethnicity/nationality,59
-2013,Number,Srebrenica,M,other_ethnicity/nationality,34
-2013,Number,Srebrenica,F,other_ethnicity/nationality,25
-2013,Number,Teslic,Both sexes,other_ethnicity/nationality,454
-2013,Number,Teslic,M,other_ethnicity/nationality,222
-2013,Number,Teslic,F,other_ethnicity/nationality,232
-2013,Number,City of Trebinje,Both sexes,other_ethnicity/nationality,398
-2013,Number,City of Trebinje,M,other_ethnicity/nationality,204
-2013,Number,City of Trebinje,F,other_ethnicity/nationality,194
-2013,Number,Trnovo,Both sexes,other_ethnicity/nationality,10
-2013,Number,Trnovo,M,other_ethnicity/nationality,7
-2013,Number,Trnovo,F,other_ethnicity/nationality,3
-2013,Number,Ugljevik,Both sexes,other_ethnicity/nationality,36
-2013,Number,Ugljevik,M,other_ethnicity/nationality,17
-2013,Number,Ugljevik,F,other_ethnicity/nationality,19
-2013,Number,Foca,Both sexes,other_ethnicity/nationality,160
-2013,Number,Foca,M,other_ethnicity/nationality,90
-2013,Number,Foca,F,other_ethnicity/nationality,70
-2013,Number,Han Pijesak,Both sexes,other_ethnicity/nationality,21
-2013,Number,Han Pijesak,M,other_ethnicity/nationality,14
-2013,Number,Han Pijesak,F,other_ethnicity/nationality,7
-2013,Number,Cajnice,Both sexes,other_ethnicity/nationality,24
-2013,Number,Cajnice,M,other_ethnicity/nationality,13
-2013,Number,Cajnice,F,other_ethnicity/nationality,11
-2013,Number,Celinac,Both sexes,other_ethnicity/nationality,122
-2013,Number,Celinac,M,other_ethnicity/nationality,55
-2013,Number,Celinac,F,other_ethnicity/nationality,67
-2013,Number,Samac,Both sexes,other_ethnicity/nationality,135
-2013,Number,Samac,M,other_ethnicity/nationality,67
-2013,Number,Samac,F,other_ethnicity/nationality,68
-2013,Number,Sekovici,Both sexes,other_ethnicity/nationality,12
-2013,Number,Sekovici,M,other_ethnicity/nationality,7
-2013,Number,Sekovici,F,other_ethnicity/nationality,5
-2013,Number,Sipovo,Both sexes,other_ethnicity/nationality,34
-2013,Number,Sipovo,M,other_ethnicity/nationality,14
-2013,Number,Sipovo,F,other_ethnicity/nationality,20
-2013,Number,Republika Srpska,Both sexes,does_not_declare_ethnicity/nationality,7861
-2013,Number,Republika Srpska,M,does_not_declare_ethnicity/nationality,3202
-2013,Number,Republika Srpska,F,does_not_declare_ethnicity/nationality,4659
-2013,Number,City of Banja Luka,Both sexes,does_not_declare_ethnicity/nationality,2641
-2013,Number,City of Banja Luka,M,does_not_declare_ethnicity/nationality,1044
-2013,Number,City of Banja Luka,F,does_not_declare_ethnicity/nationality,1597
-2013,Number,Berkovici,Both sexes,does_not_declare_ethnicity/nationality,0
-2013,Number,Berkovici,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Berkovici,F,does_not_declare_ethnicity/nationality,0
-2013,Number,City of Bijeljina,Both sexes,does_not_declare_ethnicity/nationality,654
-2013,Number,City of Bijeljina,M,does_not_declare_ethnicity/nationality,272
-2013,Number,City of Bijeljina,F,does_not_declare_ethnicity/nationality,382
-2013,Number,Bileca,Both sexes,does_not_declare_ethnicity/nationality,30
-2013,Number,Bileca,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Bileca,F,does_not_declare_ethnicity/nationality,20
-2013,Number,Bratunac,Both sexes,does_not_declare_ethnicity/nationality,22
-2013,Number,Bratunac,M,does_not_declare_ethnicity/nationality,11
-2013,Number,Bratunac,F,does_not_declare_ethnicity/nationality,11
-2013,Number,Brod,Both sexes,does_not_declare_ethnicity/nationality,142
-2013,Number,Brod,M,does_not_declare_ethnicity/nationality,50
-2013,Number,Brod,F,does_not_declare_ethnicity/nationality,92
-2013,Number,Visegrad,Both sexes,does_not_declare_ethnicity/nationality,19
-2013,Number,Visegrad,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Visegrad,F,does_not_declare_ethnicity/nationality,9
-2013,Number,Vlasenica,Both sexes,does_not_declare_ethnicity/nationality,20
-2013,Number,Vlasenica,M,does_not_declare_ethnicity/nationality,11
-2013,Number,Vlasenica,F,does_not_declare_ethnicity/nationality,9
-2013,Number,Vukosavlje,Both sexes,does_not_declare_ethnicity/nationality,32
-2013,Number,Vukosavlje,M,does_not_declare_ethnicity/nationality,15
-2013,Number,Vukosavlje,F,does_not_declare_ethnicity/nationality,17
-2013,Number,Gacko,Both sexes,does_not_declare_ethnicity/nationality,3
-2013,Number,Gacko,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Gacko,F,does_not_declare_ethnicity/nationality,3
-2013,Number,City of Gradiska,Both sexes,does_not_declare_ethnicity/nationality,411
-2013,Number,City of Gradiska,M,does_not_declare_ethnicity/nationality,174
-2013,Number,City of Gradiska,F,does_not_declare_ethnicity/nationality,237
-2013,Number,City of Derventa,Both sexes,does_not_declare_ethnicity/nationality,242
-2013,Number,City of Derventa,M,does_not_declare_ethnicity/nationality,113
-2013,Number,City of Derventa,F,does_not_declare_ethnicity/nationality,129
-2013,Number,City of Doboj,Both sexes,does_not_declare_ethnicity/nationality,467
-2013,Number,City of Doboj,M,does_not_declare_ethnicity/nationality,198
-2013,Number,City of Doboj,F,does_not_declare_ethnicity/nationality,269
-2013,Number,Donji Zabar,Both sexes,does_not_declare_ethnicity/nationality,5
-2013,Number,Donji Zabar,M,does_not_declare_ethnicity/nationality,2
-2013,Number,Donji Zabar,F,does_not_declare_ethnicity/nationality,3
-2013,Number,City of Zvornik,Both sexes,does_not_declare_ethnicity/nationality,70
-2013,Number,City of Zvornik,M,does_not_declare_ethnicity/nationality,31
-2013,Number,City of Zvornik,F,does_not_declare_ethnicity/nationality,39
-2013,Number,East Ilidza,Both sexes,does_not_declare_ethnicity/nationality,96
-2013,Number,East Ilidza,M,does_not_declare_ethnicity/nationality,38
-2013,Number,East Ilidza,F,does_not_declare_ethnicity/nationality,58
-2013,Number,East Drvar,Both sexes,does_not_declare_ethnicity/nationality,0
-2013,Number,East Drvar,M,does_not_declare_ethnicity/nationality,0
-2013,Number,East Drvar,F,does_not_declare_ethnicity/nationality,0
-2013,Number,East Mostar,Both sexes,does_not_declare_ethnicity/nationality,0
-2013,Number,East Mostar,M,does_not_declare_ethnicity/nationality,0
-2013,Number,East Mostar,F,does_not_declare_ethnicity/nationality,0
-2013,Number,East Stari Grad,Both sexes,does_not_declare_ethnicity/nationality,2
-2013,Number,East Stari Grad,M,does_not_declare_ethnicity/nationality,0
-2013,Number,East Stari Grad,F,does_not_declare_ethnicity/nationality,2
-2013,Number,East Novo Sarajevo,Both sexes,does_not_declare_ethnicity/nationality,61
-2013,Number,East Novo Sarajevo,M,does_not_declare_ethnicity/nationality,26
-2013,Number,East Novo Sarajevo,F,does_not_declare_ethnicity/nationality,35
-2013,Number,Jezero,Both sexes,does_not_declare_ethnicity/nationality,1
-2013,Number,Jezero,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Jezero,F,does_not_declare_ethnicity/nationality,1
-2013,Number,Kalinovik,Both sexes,does_not_declare_ethnicity/nationality,1
-2013,Number,Kalinovik,M,does_not_declare_ethnicity/nationality,1
-2013,Number,Kalinovik,F,does_not_declare_ethnicity/nationality,0
-2013,Number,Knezevo,Both sexes,does_not_declare_ethnicity/nationality,4
-2013,Number,Knezevo,M,does_not_declare_ethnicity/nationality,3
-2013,Number,Knezevo,F,does_not_declare_ethnicity/nationality,1
-2013,Number,Kozarska Dubica,Both sexes,does_not_declare_ethnicity/nationality,162
-2013,Number,Kozarska Dubica,M,does_not_declare_ethnicity/nationality,63
-2013,Number,Kozarska Dubica,F,does_not_declare_ethnicity/nationality,99
-2013,Number,Kostajnica,Both sexes,does_not_declare_ethnicity/nationality,66
-2013,Number,Kostajnica,M,does_not_declare_ethnicity/nationality,28
-2013,Number,Kostajnica,F,does_not_declare_ethnicity/nationality,38
-2013,Number,Kotor Varos,Both sexes,does_not_declare_ethnicity/nationality,115
-2013,Number,Kotor Varos,M,does_not_declare_ethnicity/nationality,42
-2013,Number,Kotor Varos,F,does_not_declare_ethnicity/nationality,73
-2013,Number,Krupa Na Uni,Both sexes,does_not_declare_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,F,does_not_declare_ethnicity/nationality,0
-2013,Number,Kupres,Both sexes,does_not_declare_ethnicity/nationality,1
-2013,Number,Kupres,M,does_not_declare_ethnicity/nationality,1
-2013,Number,Kupres,F,does_not_declare_ethnicity/nationality,0
-2013,Number,Laktasi,Both sexes,does_not_declare_ethnicity/nationality,237
-2013,Number,Laktasi,M,does_not_declare_ethnicity/nationality,103
-2013,Number,Laktasi,F,does_not_declare_ethnicity/nationality,134
-2013,Number,Lopare,Both sexes,does_not_declare_ethnicity/nationality,23
-2013,Number,Lopare,M,does_not_declare_ethnicity/nationality,5
-2013,Number,Lopare,F,does_not_declare_ethnicity/nationality,18
-2013,Number,Ljubinje,Both sexes,does_not_declare_ethnicity/nationality,5
-2013,Number,Ljubinje,M,does_not_declare_ethnicity/nationality,2
-2013,Number,Ljubinje,F,does_not_declare_ethnicity/nationality,3
-2013,Number,Milici,Both sexes,does_not_declare_ethnicity/nationality,7
-2013,Number,Milici,M,does_not_declare_ethnicity/nationality,3
-2013,Number,Milici,F,does_not_declare_ethnicity/nationality,4
-2013,Number,Modrica,Both sexes,does_not_declare_ethnicity/nationality,156
-2013,Number,Modrica,M,does_not_declare_ethnicity/nationality,63
-2013,Number,Modrica,F,does_not_declare_ethnicity/nationality,93
-2013,Number,Mrkonjic Grad,Both sexes,does_not_declare_ethnicity/nationality,35
-2013,Number,Mrkonjic Grad,M,does_not_declare_ethnicity/nationality,19
-2013,Number,Mrkonjic Grad,F,does_not_declare_ethnicity/nationality,16
-2013,Number,Nevesinje,Both sexes,does_not_declare_ethnicity/nationality,18
-2013,Number,Nevesinje,M,does_not_declare_ethnicity/nationality,8
-2013,Number,Nevesinje,F,does_not_declare_ethnicity/nationality,10
-2013,Number,Novi Grad,Both sexes,does_not_declare_ethnicity/nationality,137
-2013,Number,Novi Grad,M,does_not_declare_ethnicity/nationality,56
-2013,Number,Novi Grad,F,does_not_declare_ethnicity/nationality,81
-2013,Number,Novo Gorazde,Both sexes,does_not_declare_ethnicity/nationality,6
-2013,Number,Novo Gorazde,M,does_not_declare_ethnicity/nationality,3
-2013,Number,Novo Gorazde,F,does_not_declare_ethnicity/nationality,3
-2013,Number,Osmaci,Both sexes,does_not_declare_ethnicity/nationality,5
-2013,Number,Osmaci,M,does_not_declare_ethnicity/nationality,3
-2013,Number,Osmaci,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Ostra Luka,Both sexes,does_not_declare_ethnicity/nationality,12
-2013,Number,Ostra Luka,M,does_not_declare_ethnicity/nationality,4
-2013,Number,Ostra Luka,F,does_not_declare_ethnicity/nationality,8
-2013,Number,Pale,Both sexes,does_not_declare_ethnicity/nationality,53
-2013,Number,Pale,M,does_not_declare_ethnicity/nationality,20
-2013,Number,Pale,F,does_not_declare_ethnicity/nationality,33
-2013,Number,Pelagicevo,Both sexes,does_not_declare_ethnicity/nationality,3
-2013,Number,Pelagicevo,M,does_not_declare_ethnicity/nationality,1
-2013,Number,Pelagicevo,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Petrovac,Both sexes,does_not_declare_ethnicity/nationality,0
-2013,Number,Petrovac,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Petrovac,F,does_not_declare_ethnicity/nationality,0
-2013,Number,Petrovo,Both sexes,does_not_declare_ethnicity/nationality,21
-2013,Number,Petrovo,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Petrovo,F,does_not_declare_ethnicity/nationality,11
-2013,Number,City of Prijedor,Both sexes,does_not_declare_ethnicity/nationality,718
-2013,Number,City of Prijedor,M,does_not_declare_ethnicity/nationality,267
-2013,Number,City of Prijedor,F,does_not_declare_ethnicity/nationality,451
-2013,Number,Prnjavor,Both sexes,does_not_declare_ethnicity/nationality,225
-2013,Number,Prnjavor,M,does_not_declare_ethnicity/nationality,96
-2013,Number,Prnjavor,F,does_not_declare_ethnicity/nationality,129
-2013,Number,Ribnik,Both sexes,does_not_declare_ethnicity/nationality,2
-2013,Number,Ribnik,M,does_not_declare_ethnicity/nationality,0
-2013,Number,Ribnik,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Rogatica,Both sexes,does_not_declare_ethnicity/nationality,12
-2013,Number,Rogatica,M,does_not_declare_ethnicity/nationality,7
-2013,Number,Rogatica,F,does_not_declare_ethnicity/nationality,5
-2013,Number,Rudo,Both sexes,does_not_declare_ethnicity/nationality,5
-2013,Number,Rudo,M,does_not_declare_ethnicity/nationality,3
-2013,Number,Rudo,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Sokolac,Both sexes,does_not_declare_ethnicity/nationality,13
-2013,Number,Sokolac,M,does_not_declare_ethnicity/nationality,5
-2013,Number,Sokolac,F,does_not_declare_ethnicity/nationality,8
-2013,Number,Srbac,Both sexes,does_not_declare_ethnicity/nationality,89
-2013,Number,Srbac,M,does_not_declare_ethnicity/nationality,45
-2013,Number,Srbac,F,does_not_declare_ethnicity/nationality,44
-2013,Number,Srebrenica,Both sexes,does_not_declare_ethnicity/nationality,22
-2013,Number,Srebrenica,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Srebrenica,F,does_not_declare_ethnicity/nationality,12
-2013,Number,Teslic,Both sexes,does_not_declare_ethnicity/nationality,339
-2013,Number,Teslic,M,does_not_declare_ethnicity/nationality,136
-2013,Number,Teslic,F,does_not_declare_ethnicity/nationality,203
-2013,Number,City of Trebinje,Both sexes,does_not_declare_ethnicity/nationality,180
-2013,Number,City of Trebinje,M,does_not_declare_ethnicity/nationality,77
-2013,Number,City of Trebinje,F,does_not_declare_ethnicity/nationality,103
-2013,Number,Trnovo,Both sexes,does_not_declare_ethnicity/nationality,9
-2013,Number,Trnovo,M,does_not_declare_ethnicity/nationality,4
-2013,Number,Trnovo,F,does_not_declare_ethnicity/nationality,5
-2013,Number,Ugljevik,Both sexes,does_not_declare_ethnicity/nationality,21
-2013,Number,Ugljevik,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Ugljevik,F,does_not_declare_ethnicity/nationality,11
-2013,Number,Foca,Both sexes,does_not_declare_ethnicity/nationality,30
-2013,Number,Foca,M,does_not_declare_ethnicity/nationality,10
-2013,Number,Foca,F,does_not_declare_ethnicity/nationality,20
-2013,Number,Han Pijesak,Both sexes,does_not_declare_ethnicity/nationality,3
-2013,Number,Han Pijesak,M,does_not_declare_ethnicity/nationality,1
-2013,Number,Han Pijesak,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Cajnice,Both sexes,does_not_declare_ethnicity/nationality,3
-2013,Number,Cajnice,M,does_not_declare_ethnicity/nationality,1
-2013,Number,Cajnice,F,does_not_declare_ethnicity/nationality,2
-2013,Number,Celinac,Both sexes,does_not_declare_ethnicity/nationality,35
-2013,Number,Celinac,M,does_not_declare_ethnicity/nationality,16
-2013,Number,Celinac,F,does_not_declare_ethnicity/nationality,19
-2013,Number,Samac,Both sexes,does_not_declare_ethnicity/nationality,141
-2013,Number,Samac,M,does_not_declare_ethnicity/nationality,57
-2013,Number,Samac,F,does_not_declare_ethnicity/nationality,84
-2013,Number,Sekovici,Both sexes,does_not_declare_ethnicity/nationality,5
-2013,Number,Sekovici,M,does_not_declare_ethnicity/nationality,2
-2013,Number,Sekovici,F,does_not_declare_ethnicity/nationality,3
-2013,Number,Sipovo,Both sexes,does_not_declare_ethnicity/nationality,24
-2013,Number,Sipovo,M,does_not_declare_ethnicity/nationality,12
-2013,Number,Sipovo,F,does_not_declare_ethnicity/nationality,12
-2013,Number,Republika Srpska,Both sexes,unknown_ethnicity/nationality,1997
-2013,Number,Republika Srpska,M,unknown_ethnicity/nationality,916
-2013,Number,Republika Srpska,F,unknown_ethnicity/nationality,1081
-2013,Number,City of Banja Luka,Both sexes,unknown_ethnicity/nationality,328
-2013,Number,City of Banja Luka,M,unknown_ethnicity/nationality,153
-2013,Number,City of Banja Luka,F,unknown_ethnicity/nationality,175
-2013,Number,Berkovici,Both sexes,unknown_ethnicity/nationality,1
-2013,Number,Berkovici,M,unknown_ethnicity/nationality,0
-2013,Number,Berkovici,F,unknown_ethnicity/nationality,1
-2013,Number,City of Bijeljina,Both sexes,unknown_ethnicity/nationality,90
-2013,Number,City of Bijeljina,M,unknown_ethnicity/nationality,37
-2013,Number,City of Bijeljina,F,unknown_ethnicity/nationality,53
-2013,Number,Bileca,Both sexes,unknown_ethnicity/nationality,11
-2013,Number,Bileca,M,unknown_ethnicity/nationality,4
-2013,Number,Bileca,F,unknown_ethnicity/nationality,7
-2013,Number,Bratunac,Both sexes,unknown_ethnicity/nationality,35
-2013,Number,Bratunac,M,unknown_ethnicity/nationality,16
-2013,Number,Bratunac,F,unknown_ethnicity/nationality,19
-2013,Number,Brod,Both sexes,unknown_ethnicity/nationality,29
-2013,Number,Brod,M,unknown_ethnicity/nationality,12
-2013,Number,Brod,F,unknown_ethnicity/nationality,17
-2013,Number,Visegrad,Both sexes,unknown_ethnicity/nationality,177
-2013,Number,Visegrad,M,unknown_ethnicity/nationality,2
-2013,Number,Visegrad,F,unknown_ethnicity/nationality,175
-2013,Number,Vlasenica,Both sexes,unknown_ethnicity/nationality,29
-2013,Number,Vlasenica,M,unknown_ethnicity/nationality,13
-2013,Number,Vlasenica,F,unknown_ethnicity/nationality,16
-2013,Number,Vukosavlje,Both sexes,unknown_ethnicity/nationality,14
-2013,Number,Vukosavlje,M,unknown_ethnicity/nationality,3
-2013,Number,Vukosavlje,F,unknown_ethnicity/nationality,11
-2013,Number,Gacko,Both sexes,unknown_ethnicity/nationality,6
-2013,Number,Gacko,M,unknown_ethnicity/nationality,1
-2013,Number,Gacko,F,unknown_ethnicity/nationality,5
-2013,Number,City of Gradiska,Both sexes,unknown_ethnicity/nationality,42
-2013,Number,City of Gradiska,M,unknown_ethnicity/nationality,19
-2013,Number,City of Gradiska,F,unknown_ethnicity/nationality,23
-2013,Number,City of Derventa,Both sexes,unknown_ethnicity/nationality,54
-2013,Number,City of Derventa,M,unknown_ethnicity/nationality,24
-2013,Number,City of Derventa,F,unknown_ethnicity/nationality,30
-2013,Number,City of Doboj,Both sexes,unknown_ethnicity/nationality,163
-2013,Number,City of Doboj,M,unknown_ethnicity/nationality,61
-2013,Number,City of Doboj,F,unknown_ethnicity/nationality,102
-2013,Number,Donji Zabar,Both sexes,unknown_ethnicity/nationality,2
-2013,Number,Donji Zabar,M,unknown_ethnicity/nationality,1
-2013,Number,Donji Zabar,F,unknown_ethnicity/nationality,1
-2013,Number,City of Zvornik,Both sexes,unknown_ethnicity/nationality,97
-2013,Number,City of Zvornik,M,unknown_ethnicity/nationality,42
-2013,Number,City of Zvornik,F,unknown_ethnicity/nationality,55
-2013,Number,East Ilidza,Both sexes,unknown_ethnicity/nationality,10
-2013,Number,East Ilidza,M,unknown_ethnicity/nationality,5
-2013,Number,East Ilidza,F,unknown_ethnicity/nationality,5
-2013,Number,East Drvar,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,East Drvar,M,unknown_ethnicity/nationality,0
-2013,Number,East Drvar,F,unknown_ethnicity/nationality,0
-2013,Number,East Mostar,Both sexes,unknown_ethnicity/nationality,2
-2013,Number,East Mostar,M,unknown_ethnicity/nationality,1
-2013,Number,East Mostar,F,unknown_ethnicity/nationality,1
-2013,Number,East Stari Grad,Both sexes,unknown_ethnicity/nationality,1
-2013,Number,East Stari Grad,M,unknown_ethnicity/nationality,1
-2013,Number,East Stari Grad,F,unknown_ethnicity/nationality,0
-2013,Number,East Novo Sarajevo,Both sexes,unknown_ethnicity/nationality,3
-2013,Number,East Novo Sarajevo,M,unknown_ethnicity/nationality,0
-2013,Number,East Novo Sarajevo,F,unknown_ethnicity/nationality,3
-2013,Number,Jezero,Both sexes,unknown_ethnicity/nationality,1
-2013,Number,Jezero,M,unknown_ethnicity/nationality,1
-2013,Number,Jezero,F,unknown_ethnicity/nationality,0
-2013,Number,Kalinovik,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Kalinovik,M,unknown_ethnicity/nationality,0
-2013,Number,Kalinovik,F,unknown_ethnicity/nationality,0
-2013,Number,Knezevo,Both sexes,unknown_ethnicity/nationality,4
-2013,Number,Knezevo,M,unknown_ethnicity/nationality,3
-2013,Number,Knezevo,F,unknown_ethnicity/nationality,1
-2013,Number,Kozarska Dubica,Both sexes,unknown_ethnicity/nationality,12
-2013,Number,Kozarska Dubica,M,unknown_ethnicity/nationality,5
-2013,Number,Kozarska Dubica,F,unknown_ethnicity/nationality,7
-2013,Number,Kostajnica,Both sexes,unknown_ethnicity/nationality,2
-2013,Number,Kostajnica,M,unknown_ethnicity/nationality,0
-2013,Number,Kostajnica,F,unknown_ethnicity/nationality,2
-2013,Number,Kotor Varos,Both sexes,unknown_ethnicity/nationality,19
-2013,Number,Kotor Varos,M,unknown_ethnicity/nationality,14
-2013,Number,Kotor Varos,F,unknown_ethnicity/nationality,5
-2013,Number,Krupa Na Uni,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,M,unknown_ethnicity/nationality,0
-2013,Number,Krupa Na Uni,F,unknown_ethnicity/nationality,0
-2013,Number,Kupres,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Kupres,M,unknown_ethnicity/nationality,0
-2013,Number,Kupres,F,unknown_ethnicity/nationality,0
-2013,Number,Laktasi,Both sexes,unknown_ethnicity/nationality,46
-2013,Number,Laktasi,M,unknown_ethnicity/nationality,20
-2013,Number,Laktasi,F,unknown_ethnicity/nationality,26
-2013,Number,Lopare,Both sexes,unknown_ethnicity/nationality,10
-2013,Number,Lopare,M,unknown_ethnicity/nationality,6
-2013,Number,Lopare,F,unknown_ethnicity/nationality,4
-2013,Number,Ljubinje,Both sexes,unknown_ethnicity/nationality,2
-2013,Number,Ljubinje,M,unknown_ethnicity/nationality,1
-2013,Number,Ljubinje,F,unknown_ethnicity/nationality,1
-2013,Number,Milici,Both sexes,unknown_ethnicity/nationality,8
-2013,Number,Milici,M,unknown_ethnicity/nationality,3
-2013,Number,Milici,F,unknown_ethnicity/nationality,5
-2013,Number,Modrica,Both sexes,unknown_ethnicity/nationality,116
-2013,Number,Modrica,M,unknown_ethnicity/nationality,62
-2013,Number,Modrica,F,unknown_ethnicity/nationality,54
-2013,Number,Mrkonjic Grad,Both sexes,unknown_ethnicity/nationality,12
-2013,Number,Mrkonjic Grad,M,unknown_ethnicity/nationality,6
-2013,Number,Mrkonjic Grad,F,unknown_ethnicity/nationality,6
-2013,Number,Nevesinje,Both sexes,unknown_ethnicity/nationality,7
-2013,Number,Nevesinje,M,unknown_ethnicity/nationality,2
-2013,Number,Nevesinje,F,unknown_ethnicity/nationality,5
-2013,Number,Novi Grad,Both sexes,unknown_ethnicity/nationality,24
-2013,Number,Novi Grad,M,unknown_ethnicity/nationality,13
-2013,Number,Novi Grad,F,unknown_ethnicity/nationality,11
-2013,Number,Novo Gorazde,Both sexes,unknown_ethnicity/nationality,7
-2013,Number,Novo Gorazde,M,unknown_ethnicity/nationality,2
-2013,Number,Novo Gorazde,F,unknown_ethnicity/nationality,5
-2013,Number,Osmaci,Both sexes,unknown_ethnicity/nationality,4
-2013,Number,Osmaci,M,unknown_ethnicity/nationality,2
-2013,Number,Osmaci,F,unknown_ethnicity/nationality,2
-2013,Number,Ostra Luka,Both sexes,unknown_ethnicity/nationality,3
-2013,Number,Ostra Luka,M,unknown_ethnicity/nationality,2
-2013,Number,Ostra Luka,F,unknown_ethnicity/nationality,1
-2013,Number,Pale,Both sexes,unknown_ethnicity/nationality,13
-2013,Number,Pale,M,unknown_ethnicity/nationality,9
-2013,Number,Pale,F,unknown_ethnicity/nationality,4
-2013,Number,Pelagicevo,Both sexes,unknown_ethnicity/nationality,5
-2013,Number,Pelagicevo,M,unknown_ethnicity/nationality,1
-2013,Number,Pelagicevo,F,unknown_ethnicity/nationality,4
-2013,Number,Petrovac,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Petrovac,M,unknown_ethnicity/nationality,0
-2013,Number,Petrovac,F,unknown_ethnicity/nationality,0
-2013,Number,Petrovo,Both sexes,unknown_ethnicity/nationality,4
-2013,Number,Petrovo,M,unknown_ethnicity/nationality,2
-2013,Number,Petrovo,F,unknown_ethnicity/nationality,2
-2013,Number,City of Prijedor,Both sexes,unknown_ethnicity/nationality,369
-2013,Number,City of Prijedor,M,unknown_ethnicity/nationality,257
-2013,Number,City of Prijedor,F,unknown_ethnicity/nationality,112
-2013,Number,Prnjavor,Both sexes,unknown_ethnicity/nationality,30
-2013,Number,Prnjavor,M,unknown_ethnicity/nationality,10
-2013,Number,Prnjavor,F,unknown_ethnicity/nationality,20
-2013,Number,Ribnik,Both sexes,unknown_ethnicity/nationality,2
-2013,Number,Ribnik,M,unknown_ethnicity/nationality,2
-2013,Number,Ribnik,F,unknown_ethnicity/nationality,0
-2013,Number,Rogatica,Both sexes,unknown_ethnicity/nationality,5
-2013,Number,Rogatica,M,unknown_ethnicity/nationality,2
-2013,Number,Rogatica,F,unknown_ethnicity/nationality,3
-2013,Number,Rudo,Both sexes,unknown_ethnicity/nationality,3
-2013,Number,Rudo,M,unknown_ethnicity/nationality,0
-2013,Number,Rudo,F,unknown_ethnicity/nationality,3
-2013,Number,Sokolac,Both sexes,unknown_ethnicity/nationality,18
-2013,Number,Sokolac,M,unknown_ethnicity/nationality,5
-2013,Number,Sokolac,F,unknown_ethnicity/nationality,13
-2013,Number,Srbac,Both sexes,unknown_ethnicity/nationality,29
-2013,Number,Srbac,M,unknown_ethnicity/nationality,11
-2013,Number,Srbac,F,unknown_ethnicity/nationality,18
-2013,Number,Srebrenica,Both sexes,unknown_ethnicity/nationality,14
-2013,Number,Srebrenica,M,unknown_ethnicity/nationality,8
-2013,Number,Srebrenica,F,unknown_ethnicity/nationality,6
-2013,Number,Teslic,Both sexes,unknown_ethnicity/nationality,44
-2013,Number,Teslic,M,unknown_ethnicity/nationality,23
-2013,Number,Teslic,F,unknown_ethnicity/nationality,21
-2013,Number,City of Trebinje,Both sexes,unknown_ethnicity/nationality,19
-2013,Number,City of Trebinje,M,unknown_ethnicity/nationality,11
-2013,Number,City of Trebinje,F,unknown_ethnicity/nationality,8
-2013,Number,Trnovo,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Trnovo,M,unknown_ethnicity/nationality,0
-2013,Number,Trnovo,F,unknown_ethnicity/nationality,0
-2013,Number,Ugljevik,Both sexes,unknown_ethnicity/nationality,13
-2013,Number,Ugljevik,M,unknown_ethnicity/nationality,11
-2013,Number,Ugljevik,F,unknown_ethnicity/nationality,2
-2013,Number,Foca,Both sexes,unknown_ethnicity/nationality,12
-2013,Number,Foca,M,unknown_ethnicity/nationality,5
-2013,Number,Foca,F,unknown_ethnicity/nationality,7
-2013,Number,Han Pijesak,Both sexes,unknown_ethnicity/nationality,0
-2013,Number,Han Pijesak,M,unknown_ethnicity/nationality,0
-2013,Number,Han Pijesak,F,unknown_ethnicity/nationality,0
-2013,Number,Cajnice,Both sexes,unknown_ethnicity/nationality,5
-2013,Number,Cajnice,M,unknown_ethnicity/nationality,2
-2013,Number,Cajnice,F,unknown_ethnicity/nationality,3
-2013,Number,Celinac,Both sexes,unknown_ethnicity/nationality,9
-2013,Number,Celinac,M,unknown_ethnicity/nationality,4
-2013,Number,Celinac,F,unknown_ethnicity/nationality,5
-2013,Number,Samac,Both sexes,unknown_ethnicity/nationality,19
-2013,Number,Samac,M,unknown_ethnicity/nationality,10
-2013,Number,Samac,F,unknown_ethnicity/nationality,9
-2013,Number,Sekovici,Both sexes,unknown_ethnicity/nationality,8
-2013,Number,Sekovici,M,unknown_ethnicity/nationality,3
-2013,Number,Sekovici,F,unknown_ethnicity/nationality,5
-2013,Number,Sipovo,Both sexes,unknown_ethnicity/nationality,5
-2013,Number,Sipovo,M,unknown_ethnicity/nationality,3
-2013,Number,Sipovo,F,unknown_ethnicity/nationality,2
+2013,Number,Republika Srpska,Both sexes,Bosniaks,148477
+2013,Number,Republika Srpska,M,Bosniaks,72148
+2013,Number,Republika Srpska,F,Bosniaks,76329
+2013,Number,City of Banja Luka,Both sexes,Bosniaks,6816
+2013,Number,City of Banja Luka,M,Bosniaks,3108
+2013,Number,City of Banja Luka,F,Bosniaks,3708
+2013,Number,Berkovici,Both sexes,Bosniaks,155
+2013,Number,Berkovici,M,Bosniaks,87
+2013,Number,Berkovici,F,Bosniaks,68
+2013,Number,City of Bijeljina,Both sexes,Bosniaks,11680
+2013,Number,City of Bijeljina,M,Bosniaks,5733
+2013,Number,City of Bijeljina,F,Bosniaks,5947
+2013,Number,Bileca,Both sexes,Bosniaks,26
+2013,Number,Bileca,M,Bosniaks,16
+2013,Number,Bileca,F,Bosniaks,10
+2013,Number,Bratunac,Both sexes,Bosniaks,6588
+2013,Number,Bratunac,M,Bosniaks,3218
+2013,Number,Bratunac,F,Bosniaks,3370
+2013,Number,Brod,Both sexes,Bosniaks,1312
+2013,Number,Brod,M,Bosniaks,640
+2013,Number,Brod,F,Bosniaks,672
+2013,Number,Visegrad,Both sexes,Bosniaks,895
+2013,Number,Visegrad,M,Bosniaks,454
+2013,Number,Visegrad,F,Bosniaks,441
+2013,Number,Vlasenica,Both sexes,Bosniaks,3360
+2013,Number,Vlasenica,M,Bosniaks,1646
+2013,Number,Vlasenica,F,Bosniaks,1714
+2013,Number,Vukosavlje,Both sexes,Bosniaks,2025
+2013,Number,Vukosavlje,M,Bosniaks,1034
+2013,Number,Vukosavlje,F,Bosniaks,991
+2013,Number,Gacko,Both sexes,Bosniaks,332
+2013,Number,Gacko,M,Bosniaks,179
+2013,Number,Gacko,F,Bosniaks,153
+2013,Number,City of Gradiska,Both sexes,Bosniaks,6266
+2013,Number,City of Gradiska,M,Bosniaks,3047
+2013,Number,City of Gradiska,F,Bosniaks,3219
+2013,Number,City of Derventa,Both sexes,Bosniaks,1686
+2013,Number,City of Derventa,M,Bosniaks,812
+2013,Number,City of Derventa,F,Bosniaks,874
+2013,Number,City of Doboj,Both sexes,Bosniaks,14417
+2013,Number,City of Doboj,M,Bosniaks,6904
+2013,Number,City of Doboj,F,Bosniaks,7513
+2013,Number,Donji Zabar,Both sexes,Bosniaks,4
+2013,Number,Donji Zabar,M,Bosniaks,0
+2013,Number,Donji Zabar,F,Bosniaks,4
+2013,Number,City of Zvornik,Both sexes,Bosniaks,16775
+2013,Number,City of Zvornik,M,Bosniaks,8206
+2013,Number,City of Zvornik,F,Bosniaks,8569
+2013,Number,East Ilidza,Both sexes,Bosniaks,632
+2013,Number,East Ilidza,M,Bosniaks,293
+2013,Number,East Ilidza,F,Bosniaks,339
+2013,Number,East Drvar,Both sexes,Bosniaks,0
+2013,Number,East Drvar,M,Bosniaks,0
+2013,Number,East Drvar,F,Bosniaks,0
+2013,Number,East Mostar,Both sexes,Bosniaks,78
+2013,Number,East Mostar,M,Bosniaks,45
+2013,Number,East Mostar,F,Bosniaks,33
+2013,Number,East Stari Grad,Both sexes,Bosniaks,41
+2013,Number,East Stari Grad,M,Bosniaks,25
+2013,Number,East Stari Grad,F,Bosniaks,16
+2013,Number,East Novo Sarajevo,Both sexes,Bosniaks,44
+2013,Number,East Novo Sarajevo,M,Bosniaks,14
+2013,Number,East Novo Sarajevo,F,Bosniaks,30
+2013,Number,Jezero,Both sexes,Bosniaks,251
+2013,Number,Jezero,M,Bosniaks,118
+2013,Number,Jezero,F,Bosniaks,133
+2013,Number,Kalinovik,Both sexes,Bosniaks,43
+2013,Number,Kalinovik,M,Bosniaks,19
+2013,Number,Kalinovik,F,Bosniaks,24
+2013,Number,Knezevo,Both sexes,Bosniaks,413
+2013,Number,Knezevo,M,Bosniaks,186
+2013,Number,Knezevo,F,Bosniaks,227
+2013,Number,Kozarska Dubica,Both sexes,Bosniaks,1883
+2013,Number,Kozarska Dubica,M,Bosniaks,906
+2013,Number,Kozarska Dubica,F,Bosniaks,977
+2013,Number,Kostajnica,Both sexes,Bosniaks,1276
+2013,Number,Kostajnica,M,Bosniaks,626
+2013,Number,Kostajnica,F,Bosniaks,650
+2013,Number,Kotor Varos,Both sexes,Bosniaks,4516
+2013,Number,Kotor Varos,M,Bosniaks,2173
+2013,Number,Kotor Varos,F,Bosniaks,2343
+2013,Number,Krupa Na Uni,Both sexes,Bosniaks,3
+2013,Number,Krupa Na Uni,M,Bosniaks,1
+2013,Number,Krupa Na Uni,F,Bosniaks,2
+2013,Number,Kupres,Both sexes,Bosniaks,0
+2013,Number,Kupres,M,Bosniaks,0
+2013,Number,Kupres,F,Bosniaks,0
+2013,Number,Laktasi,Both sexes,Bosniaks,104
+2013,Number,Laktasi,M,Bosniaks,47
+2013,Number,Laktasi,F,Bosniaks,57
+2013,Number,Lopare,Both sexes,Bosniaks,1310
+2013,Number,Lopare,M,Bosniaks,646
+2013,Number,Lopare,F,Bosniaks,664
+2013,Number,Ljubinje,Both sexes,Bosniaks,9
+2013,Number,Ljubinje,M,Bosniaks,5
+2013,Number,Ljubinje,F,Bosniaks,4
+2013,Number,Milici,Both sexes,Bosniaks,3532
+2013,Number,Milici,M,Bosniaks,1746
+2013,Number,Milici,F,Bosniaks,1786
+2013,Number,Modrica,Both sexes,Bosniaks,2880
+2013,Number,Modrica,M,Bosniaks,1364
+2013,Number,Modrica,F,Bosniaks,1516
+2013,Number,Mrkonjic Grad,Both sexes,Bosniaks,354
+2013,Number,Mrkonjic Grad,M,Bosniaks,170
+2013,Number,Mrkonjic Grad,F,Bosniaks,184
+2013,Number,Nevesinje,Both sexes,Bosniaks,508
+2013,Number,Nevesinje,M,Bosniaks,261
+2013,Number,Nevesinje,F,Bosniaks,247
+2013,Number,Novi Grad,Both sexes,Bosniaks,5214
+2013,Number,Novi Grad,M,Bosniaks,2606
+2013,Number,Novi Grad,F,Bosniaks,2608
+2013,Number,Novo Gorazde,Both sexes,Bosniaks,1317
+2013,Number,Novo Gorazde,M,Bosniaks,662
+2013,Number,Novo Gorazde,F,Bosniaks,655
+2013,Number,Osmaci,Both sexes,Bosniaks,2673
+2013,Number,Osmaci,M,Bosniaks,1321
+2013,Number,Osmaci,F,Bosniaks,1352
+2013,Number,Ostra Luka,Both sexes,Bosniaks,23
+2013,Number,Ostra Luka,M,Bosniaks,7
+2013,Number,Ostra Luka,F,Bosniaks,16
+2013,Number,Pale,Both sexes,Bosniaks,165
+2013,Number,Pale,M,Bosniaks,86
+2013,Number,Pale,F,Bosniaks,79
+2013,Number,Pelagicevo,Both sexes,Bosniaks,13
+2013,Number,Pelagicevo,M,Bosniaks,2
+2013,Number,Pelagicevo,F,Bosniaks,11
+2013,Number,Petrovac,Both sexes,Bosniaks,0
+2013,Number,Petrovac,M,Bosniaks,0
+2013,Number,Petrovac,F,Bosniaks,0
+2013,Number,Petrovo,Both sexes,Bosniaks,6
+2013,Number,Petrovo,M,Bosniaks,2
+2013,Number,Petrovo,F,Bosniaks,4
+2013,Number,City of Prijedor,Both sexes,Bosniaks,22303
+2013,Number,City of Prijedor,M,Bosniaks,10669
+2013,Number,City of Prijedor,F,Bosniaks,11634
+2013,Number,Prnjavor,Both sexes,Bosniaks,2749
+2013,Number,Prnjavor,M,Bosniaks,1329
+2013,Number,Prnjavor,F,Bosniaks,1420
+2013,Number,Ribnik,Both sexes,Bosniaks,0
+2013,Number,Ribnik,M,Bosniaks,0
+2013,Number,Ribnik,F,Bosniaks,0
+2013,Number,Rogatica,Both sexes,Bosniaks,1009
+2013,Number,Rogatica,M,Bosniaks,520
+2013,Number,Rogatica,F,Bosniaks,489
+2013,Number,Rudo,Both sexes,Bosniaks,574
+2013,Number,Rudo,M,Bosniaks,300
+2013,Number,Rudo,F,Bosniaks,274
+2013,Number,Sokolac,Both sexes,Bosniaks,629
+2013,Number,Sokolac,M,Bosniaks,329
+2013,Number,Sokolac,F,Bosniaks,300
+2013,Number,Srbac,Both sexes,Bosniaks,394
+2013,Number,Srbac,M,Bosniaks,184
+2013,Number,Srbac,F,Bosniaks,210
+2013,Number,Srebrenica,Both sexes,Bosniaks,6122
+2013,Number,Srebrenica,M,Bosniaks,2913
+2013,Number,Srebrenica,F,Bosniaks,3209
+2013,Number,Teslic,Both sexes,Bosniaks,6887
+2013,Number,Teslic,M,Bosniaks,3387
+2013,Number,Teslic,F,Bosniaks,3500
+2013,Number,City of Trebinje,Both sexes,Bosniaks,863
+2013,Number,City of Trebinje,M,Bosniaks,426
+2013,Number,City of Trebinje,F,Bosniaks,437
+2013,Number,Trnovo,Both sexes,Bosniaks,818
+2013,Number,Trnovo,M,Bosniaks,405
+2013,Number,Trnovo,F,Bosniaks,413
+2013,Number,Ugljevik,Both sexes,Bosniaks,1999
+2013,Number,Ugljevik,M,Bosniaks,974
+2013,Number,Ugljevik,F,Bosniaks,1025
+2013,Number,Foca,Both sexes,Bosniaks,1169
+2013,Number,Foca,M,Bosniaks,626
+2013,Number,Foca,F,Bosniaks,543
+2013,Number,Han Pijesak,Both sexes,Bosniaks,420
+2013,Number,Han Pijesak,M,Bosniaks,204
+2013,Number,Han Pijesak,F,Bosniaks,216
+2013,Number,Cajnice,Both sexes,Bosniaks,835
+2013,Number,Cajnice,M,Bosniaks,439
+2013,Number,Cajnice,F,Bosniaks,396
+2013,Number,Celinac,Both sexes,Bosniaks,395
+2013,Number,Celinac,M,Bosniaks,197
+2013,Number,Celinac,F,Bosniaks,198
+2013,Number,Samac,Both sexes,Bosniaks,1005
+2013,Number,Samac,M,Bosniaks,486
+2013,Number,Samac,F,Bosniaks,519
+2013,Number,Sekovici,Both sexes,Bosniaks,103
+2013,Number,Sekovici,M,Bosniaks,51
+2013,Number,Sekovici,F,Bosniaks,52
+2013,Number,Sipovo,Both sexes,Bosniaks,578
+2013,Number,Sipovo,M,Bosniaks,294
+2013,Number,Sipovo,F,Bosniaks,284
+2013,Number,Republika Srpska,Both sexes,Croats,26509
+2013,Number,Republika Srpska,M,Croats,11005
+2013,Number,Republika Srpska,F,Croats,15504
+2013,Number,City of Banja Luka,Both sexes,Croats,4887
+2013,Number,City of Banja Luka,M,Croats,1761
+2013,Number,City of Banja Luka,F,Croats,3126
+2013,Number,Berkovici,Both sexes,Croats,11
+2013,Number,Berkovici,M,Croats,1
+2013,Number,Berkovici,F,Croats,10
+2013,Number,City of Bijeljina,Both sexes,Croats,498
+2013,Number,City of Bijeljina,M,Croats,140
+2013,Number,City of Bijeljina,F,Croats,358
+2013,Number,Bileca,Both sexes,Croats,21
+2013,Number,Bileca,M,Croats,2
+2013,Number,Bileca,F,Croats,19
+2013,Number,Bratunac,Both sexes,Croats,30
+2013,Number,Bratunac,M,Croats,5
+2013,Number,Bratunac,F,Croats,25
+2013,Number,Brod,Both sexes,Croats,3021
+2013,Number,Brod,M,Croats,1413
+2013,Number,Brod,F,Croats,1608
+2013,Number,Visegrad,Both sexes,Croats,32
+2013,Number,Visegrad,M,Croats,5
+2013,Number,Visegrad,F,Croats,27
+2013,Number,Vlasenica,Both sexes,Croats,29
+2013,Number,Vlasenica,M,Croats,5
+2013,Number,Vlasenica,F,Croats,24
+2013,Number,Vukosavlje,Both sexes,Croats,698
+2013,Number,Vukosavlje,M,Croats,332
+2013,Number,Vukosavlje,F,Croats,366
+2013,Number,Gacko,Both sexes,Croats,13
+2013,Number,Gacko,M,Croats,5
+2013,Number,Gacko,F,Croats,8
+2013,Number,City of Gradiska,Both sexes,Croats,800
+2013,Number,City of Gradiska,M,Croats,276
+2013,Number,City of Gradiska,F,Croats,524
+2013,Number,City of Derventa,Both sexes,Croats,2181
+2013,Number,City of Derventa,M,Croats,1040
+2013,Number,City of Derventa,F,Croats,1141
+2013,Number,City of Doboj,Both sexes,Croats,1550
+2013,Number,City of Doboj,M,Croats,605
+2013,Number,City of Doboj,F,Croats,945
+2013,Number,Donji Zabar,Both sexes,Croats,991
+2013,Number,Donji Zabar,M,Croats,497
+2013,Number,Donji Zabar,F,Croats,494
+2013,Number,City of Zvornik,Both sexes,Croats,103
+2013,Number,City of Zvornik,M,Croats,17
+2013,Number,City of Zvornik,F,Croats,86
+2013,Number,East Ilidza,Both sexes,Croats,148
+2013,Number,East Ilidza,M,Croats,39
+2013,Number,East Ilidza,F,Croats,109
+2013,Number,East Drvar,Both sexes,Croats,1
+2013,Number,East Drvar,M,Croats,0
+2013,Number,East Drvar,F,Croats,1
+2013,Number,East Mostar,Both sexes,Croats,11
+2013,Number,East Mostar,M,Croats,8
+2013,Number,East Mostar,F,Croats,3
+2013,Number,East Stari Grad,Both sexes,Croats,6
+2013,Number,East Stari Grad,M,Croats,2
+2013,Number,East Stari Grad,F,Croats,4
+2013,Number,East Novo Sarajevo,Both sexes,Croats,102
+2013,Number,East Novo Sarajevo,M,Croats,23
+2013,Number,East Novo Sarajevo,F,Croats,79
+2013,Number,Jezero,Both sexes,Croats,6
+2013,Number,Jezero,M,Croats,4
+2013,Number,Jezero,F,Croats,2
+2013,Number,Kalinovik,Both sexes,Croats,8
+2013,Number,Kalinovik,M,Croats,2
+2013,Number,Kalinovik,F,Croats,6
+2013,Number,Knezevo,Both sexes,Croats,24
+2013,Number,Knezevo,M,Croats,5
+2013,Number,Knezevo,F,Croats,19
+2013,Number,Kozarska Dubica,Both sexes,Croats,261
+2013,Number,Kozarska Dubica,M,Croats,79
+2013,Number,Kozarska Dubica,F,Croats,182
+2013,Number,Kostajnica,Both sexes,Croats,82
+2013,Number,Kostajnica,M,Croats,29
+2013,Number,Kostajnica,F,Croats,53
+2013,Number,Kotor Varos,Both sexes,Croats,852
+2013,Number,Kotor Varos,M,Croats,410
+2013,Number,Kotor Varos,F,Croats,442
+2013,Number,Krupa Na Uni,Both sexes,Croats,2
+2013,Number,Krupa Na Uni,M,Croats,0
+2013,Number,Krupa Na Uni,F,Croats,2
+2013,Number,Kupres,Both sexes,Croats,0
+2013,Number,Kupres,M,Croats,0
+2013,Number,Kupres,F,Croats,0
+2013,Number,Laktasi,Both sexes,Croats,500
+2013,Number,Laktasi,M,Croats,175
+2013,Number,Laktasi,F,Croats,325
+2013,Number,Lopare,Both sexes,Croats,48
+2013,Number,Lopare,M,Croats,9
+2013,Number,Lopare,F,Croats,39
+2013,Number,Ljubinje,Both sexes,Croats,10
+2013,Number,Ljubinje,M,Croats,3
+2013,Number,Ljubinje,F,Croats,7
+2013,Number,Milici,Both sexes,Croats,22
+2013,Number,Milici,M,Croats,7
+2013,Number,Milici,F,Croats,15
+2013,Number,Modrica,Both sexes,Croats,1396
+2013,Number,Modrica,M,Croats,662
+2013,Number,Modrica,F,Croats,734
+2013,Number,Mrkonjic Grad,Both sexes,Croats,148
+2013,Number,Mrkonjic Grad,M,Croats,60
+2013,Number,Mrkonjic Grad,F,Croats,88
+2013,Number,Nevesinje,Both sexes,Croats,27
+2013,Number,Nevesinje,M,Croats,9
+2013,Number,Nevesinje,F,Croats,18
+2013,Number,Novi Grad,Both sexes,Croats,174
+2013,Number,Novi Grad,M,Croats,58
+2013,Number,Novi Grad,F,Croats,116
+2013,Number,Novo Gorazde,Both sexes,Croats,2
+2013,Number,Novo Gorazde,M,Croats,1
+2013,Number,Novo Gorazde,F,Croats,1
+2013,Number,Osmaci,Both sexes,Croats,7
+2013,Number,Osmaci,M,Croats,1
+2013,Number,Osmaci,F,Croats,6
+2013,Number,Ostra Luka,Both sexes,Croats,149
+2013,Number,Ostra Luka,M,Croats,74
+2013,Number,Ostra Luka,F,Croats,75
+2013,Number,Pale,Both sexes,Croats,126
+2013,Number,Pale,M,Croats,37
+2013,Number,Pale,F,Croats,89
+2013,Number,Pelagicevo,Both sexes,Croats,1182
+2013,Number,Pelagicevo,M,Croats,580
+2013,Number,Pelagicevo,F,Croats,602
+2013,Number,Petrovac,Both sexes,Croats,0
+2013,Number,Petrovac,M,Croats,0
+2013,Number,Petrovac,F,Croats,0
+2013,Number,Petrovo,Both sexes,Croats,34
+2013,Number,Petrovo,M,Croats,8
+2013,Number,Petrovo,F,Croats,26
+2013,Number,City of Prijedor,Both sexes,Croats,1666
+2013,Number,City of Prijedor,M,Croats,679
+2013,Number,City of Prijedor,F,Croats,987
+2013,Number,Prnjavor,Both sexes,Croats,423
+2013,Number,Prnjavor,M,Croats,150
+2013,Number,Prnjavor,F,Croats,273
+2013,Number,Ribnik,Both sexes,Croats,11
+2013,Number,Ribnik,M,Croats,4
+2013,Number,Ribnik,F,Croats,7
+2013,Number,Rogatica,Both sexes,Croats,18
+2013,Number,Rogatica,M,Croats,2
+2013,Number,Rogatica,F,Croats,16
+2013,Number,Rudo,Both sexes,Croats,7
+2013,Number,Rudo,M,Croats,6
+2013,Number,Rudo,F,Croats,1
+2013,Number,Sokolac,Both sexes,Croats,28
+2013,Number,Sokolac,M,Croats,8
+2013,Number,Sokolac,F,Croats,20
+2013,Number,Srbac,Both sexes,Croats,128
+2013,Number,Srbac,M,Croats,21
+2013,Number,Srbac,F,Croats,107
+2013,Number,Srebrenica,Both sexes,Croats,14
+2013,Number,Srebrenica,M,Croats,6
+2013,Number,Srebrenica,F,Croats,8
+2013,Number,Teslic,Both sexes,Croats,1346
+2013,Number,Teslic,M,Croats,581
+2013,Number,Teslic,F,Croats,765
+2013,Number,City of Trebinje,Both sexes,Croats,295
+2013,Number,City of Trebinje,M,Croats,99
+2013,Number,City of Trebinje,F,Croats,196
+2013,Number,Trnovo,Both sexes,Croats,15
+2013,Number,Trnovo,M,Croats,3
+2013,Number,Trnovo,F,Croats,12
+2013,Number,Ugljevik,Both sexes,Croats,42
+2013,Number,Ugljevik,M,Croats,8
+2013,Number,Ugljevik,F,Croats,34
+2013,Number,Foca,Both sexes,Croats,52
+2013,Number,Foca,M,Croats,16
+2013,Number,Foca,F,Croats,36
+2013,Number,Han Pijesak,Both sexes,Croats,7
+2013,Number,Han Pijesak,M,Croats,1
+2013,Number,Han Pijesak,F,Croats,6
+2013,Number,Cajnice,Both sexes,Croats,6
+2013,Number,Cajnice,M,Croats,1
+2013,Number,Cajnice,F,Croats,5
+2013,Number,Celinac,Both sexes,Croats,48
+2013,Number,Celinac,M,Croats,11
+2013,Number,Celinac,F,Croats,37
+2013,Number,Samac,Both sexes,Croats,2176
+2013,Number,Samac,M,Croats,1011
+2013,Number,Samac,F,Croats,1165
+2013,Number,Sekovici,Both sexes,Croats,8
+2013,Number,Sekovici,M,Croats,2
+2013,Number,Sekovici,F,Croats,6
+2013,Number,Sipovo,Both sexes,Croats,26
+2013,Number,Sipovo,M,Croats,7
+2013,Number,Sipovo,F,Croats,19
+2013,Number,Republika Srpska,Both sexes,Serbs,970857
+2013,Number,Republika Srpska,M,Serbs,477334
+2013,Number,Republika Srpska,F,Serbs,493523
+2013,Number,City of Banja Luka,Both sexes,Serbs,162057
+2013,Number,City of Banja Luka,M,Serbs,78827
+2013,Number,City of Banja Luka,F,Serbs,83230
+2013,Number,Berkovici,Both sexes,Serbs,1873
+2013,Number,Berkovici,M,Serbs,943
+2013,Number,Berkovici,F,Serbs,930
+2013,Number,City of Bijeljina,Both sexes,Serbs,89474
+2013,Number,City of Bijeljina,M,Serbs,43861
+2013,Number,City of Bijeljina,F,Serbs,45613
+2013,Number,Bileca,Both sexes,Serbs,10447
+2013,Number,Bileca,M,Serbs,5276
+2013,Number,Bileca,F,Serbs,5171
+2013,Number,Bratunac,Both sexes,Serbs,11897
+2013,Number,Bratunac,M,Serbs,5915
+2013,Number,Bratunac,F,Serbs,5982
+2013,Number,Brod,Both sexes,Serbs,11065
+2013,Number,Brod,M,Serbs,5486
+2013,Number,Brod,F,Serbs,5579
+2013,Number,Visegrad,Both sexes,Serbs,8942
+2013,Number,Visegrad,M,Serbs,4337
+2013,Number,Visegrad,F,Serbs,4605
+2013,Number,Vlasenica,Both sexes,Serbs,7190
+2013,Number,Vlasenica,M,Serbs,3505
+2013,Number,Vlasenica,F,Serbs,3685
+2013,Number,Vukosavlje,Both sexes,Serbs,1448
+2013,Number,Vukosavlje,M,Serbs,720
+2013,Number,Vukosavlje,F,Serbs,728
+2013,Number,Gacko,Both sexes,Serbs,8316
+2013,Number,Gacko,M,Serbs,4211
+2013,Number,Gacko,F,Serbs,4105
+2013,Number,City of Gradiska,Both sexes,Serbs,40707
+2013,Number,City of Gradiska,M,Serbs,19960
+2013,Number,City of Gradiska,F,Serbs,20747
+2013,Number,City of Derventa,Both sexes,Serbs,21495
+2013,Number,City of Derventa,M,Serbs,10524
+2013,Number,City of Derventa,F,Serbs,10971
+2013,Number,City of Doboj,Both sexes,Serbs,50968
+2013,Number,City of Doboj,M,Serbs,24968
+2013,Number,City of Doboj,F,Serbs,26000
+2013,Number,Donji Zabar,Both sexes,Serbs,2658
+2013,Number,Donji Zabar,M,Serbs,1352
+2013,Number,Donji Zabar,F,Serbs,1306
+2013,Number,City of Zvornik,Both sexes,Serbs,37242
+2013,Number,City of Zvornik,M,Serbs,18452
+2013,Number,City of Zvornik,F,Serbs,18790
+2013,Number,East Ilidza,Both sexes,Serbs,13455
+2013,Number,East Ilidza,M,Serbs,6486
+2013,Number,East Ilidza,F,Serbs,6969
+2013,Number,East Drvar,Both sexes,Serbs,65
+2013,Number,East Drvar,M,Serbs,44
+2013,Number,East Drvar,F,Serbs,21
+2013,Number,East Mostar,Both sexes,Serbs,153
+2013,Number,East Mostar,M,Serbs,84
+2013,Number,East Mostar,F,Serbs,69
+2013,Number,East Stari Grad,Both sexes,Serbs,1059
+2013,Number,East Stari Grad,M,Serbs,519
+2013,Number,East Stari Grad,F,Serbs,540
+2013,Number,East Novo Sarajevo,Both sexes,Serbs,10028
+2013,Number,East Novo Sarajevo,M,Serbs,4801
+2013,Number,East Novo Sarajevo,F,Serbs,5227
+2013,Number,Jezero,Both sexes,Serbs,779
+2013,Number,Jezero,M,Serbs,410
+2013,Number,Jezero,F,Serbs,369
+2013,Number,Kalinovik,Both sexes,Serbs,1895
+2013,Number,Kalinovik,M,Serbs,920
+2013,Number,Kalinovik,F,Serbs,975
+2013,Number,Knezevo,Both sexes,Serbs,8886
+2013,Number,Knezevo,M,Serbs,4414
+2013,Number,Knezevo,F,Serbs,4472
+2013,Number,Kozarska Dubica,Both sexes,Serbs,18144
+2013,Number,Kozarska Dubica,M,Serbs,8939
+2013,Number,Kozarska Dubica,F,Serbs,9205
+2013,Number,Kostajnica,Both sexes,Serbs,4177
+2013,Number,Kostajnica,M,Serbs,2077
+2013,Number,Kostajnica,F,Serbs,2100
+2013,Number,Kotor Varos,Both sexes,Serbs,12730
+2013,Number,Kotor Varos,M,Serbs,6305
+2013,Number,Kotor Varos,F,Serbs,6425
+2013,Number,Krupa Na Uni,Both sexes,Serbs,1555
+2013,Number,Krupa Na Uni,M,Serbs,840
+2013,Number,Krupa Na Uni,F,Serbs,715
+2013,Number,Kupres,Both sexes,Serbs,292
+2013,Number,Kupres,M,Serbs,156
+2013,Number,Kupres,F,Serbs,136
+2013,Number,Laktasi,Both sexes,Serbs,32761
+2013,Number,Laktasi,M,Serbs,16275
+2013,Number,Laktasi,F,Serbs,16486
+2013,Number,Lopare,Both sexes,Serbs,13267
+2013,Number,Lopare,M,Serbs,6695
+2013,Number,Lopare,F,Serbs,6572
+2013,Number,Ljubinje,Both sexes,Serbs,3280
+2013,Number,Ljubinje,M,Serbs,1615
+2013,Number,Ljubinje,F,Serbs,1665
+2013,Number,Milici,Both sexes,Serbs,6857
+2013,Number,Milici,M,Serbs,3486
+2013,Number,Milici,F,Serbs,3371
+2013,Number,Modrica,Both sexes,Serbs,19530
+2013,Number,Modrica,M,Serbs,9611
+2013,Number,Modrica,F,Serbs,9919
+2013,Number,Mrkonjic Grad,Both sexes,Serbs,15340
+2013,Number,Mrkonjic Grad,M,Serbs,7388
+2013,Number,Mrkonjic Grad,F,Serbs,7952
+2013,Number,Nevesinje,Both sexes,Serbs,11964
+2013,Number,Nevesinje,M,Serbs,5951
+2013,Number,Nevesinje,F,Serbs,6013
+2013,Number,Novi Grad,Both sexes,Serbs,19491
+2013,Number,Novi Grad,M,Serbs,9747
+2013,Number,Novi Grad,F,Serbs,9744
+2013,Number,Novo Gorazde,Both sexes,Serbs,1561
+2013,Number,Novo Gorazde,M,Serbs,821
+2013,Number,Novo Gorazde,F,Serbs,740
+2013,Number,Osmaci,Both sexes,Serbs,2852
+2013,Number,Osmaci,M,Serbs,1450
+2013,Number,Osmaci,F,Serbs,1402
+2013,Number,Ostra Luka,Both sexes,Serbs,2510
+2013,Number,Ostra Luka,M,Serbs,1296
+2013,Number,Ostra Luka,F,Serbs,1214
+2013,Number,Pale,Both sexes,Serbs,19932
+2013,Number,Pale,M,Serbs,9561
+2013,Number,Pale,F,Serbs,10371
+2013,Number,Pelagicevo,Both sexes,Serbs,3146
+2013,Number,Pelagicevo,M,Serbs,1563
+2013,Number,Pelagicevo,F,Serbs,1583
+2013,Number,Petrovac,Both sexes,Serbs,351
+2013,Number,Petrovac,M,Serbs,168
+2013,Number,Petrovac,F,Serbs,183
+2013,Number,Petrovo,Both sexes,Serbs,6222
+2013,Number,Petrovo,M,Serbs,3002
+2013,Number,Petrovo,F,Serbs,3220
+2013,Number,City of Prijedor,Both sexes,Serbs,54365
+2013,Number,City of Prijedor,M,Serbs,26834
+2013,Number,City of Prijedor,F,Serbs,27531
+2013,Number,Prnjavor,Both sexes,Serbs,29478
+2013,Number,Prnjavor,M,Serbs,14352
+2013,Number,Prnjavor,F,Serbs,15126
+2013,Number,Ribnik,Both sexes,Serbs,5825
+2013,Number,Ribnik,M,Serbs,2891
+2013,Number,Ribnik,F,Serbs,2934
+2013,Number,Rogatica,Both sexes,Serbs,9217
+2013,Number,Rogatica,M,Serbs,4502
+2013,Number,Rogatica,F,Serbs,4715
+2013,Number,Rudo,Both sexes,Serbs,6963
+2013,Number,Rudo,M,Serbs,3517
+2013,Number,Rudo,F,Serbs,3446
+2013,Number,Sokolac,Both sexes,Serbs,10894
+2013,Number,Sokolac,M,Serbs,5357
+2013,Number,Sokolac,F,Serbs,5537
+2013,Number,Srbac,Both sexes,Serbs,16013
+2013,Number,Srbac,M,Serbs,7888
+2013,Number,Srbac,F,Serbs,8125
+2013,Number,Srebrenica,Both sexes,Serbs,5467
+2013,Number,Srebrenica,M,Serbs,2743
+2013,Number,Srebrenica,F,Serbs,2724
+2013,Number,Teslic,Both sexes,Serbs,28166
+2013,Number,Teslic,M,Serbs,13545
+2013,Number,Teslic,F,Serbs,14621
+2013,Number,City of Trebinje,Both sexes,Serbs,26484
+2013,Number,City of Trebinje,M,Serbs,12943
+2013,Number,City of Trebinje,F,Serbs,13541
+2013,Number,Trnovo,Both sexes,Serbs,1131
+2013,Number,Trnovo,M,Serbs,534
+2013,Number,Trnovo,F,Serbs,597
+2013,Number,Ugljevik,Both sexes,Serbs,13007
+2013,Number,Ugljevik,M,Serbs,6606
+2013,Number,Ugljevik,F,Serbs,6401
+2013,Number,Foca,Both sexes,Serbs,16157
+2013,Number,Foca,M,Serbs,8133
+2013,Number,Foca,F,Serbs,8024
+2013,Number,Han Pijesak,Both sexes,Serbs,2994
+2013,Number,Han Pijesak,M,Serbs,1412
+2013,Number,Han Pijesak,F,Serbs,1582
+2013,Number,Cajnice,Both sexes,Serbs,3806
+2013,Number,Cajnice,M,Serbs,1891
+2013,Number,Cajnice,F,Serbs,1915
+2013,Number,Celinac,Both sexes,Serbs,14508
+2013,Number,Celinac,M,Serbs,7194
+2013,Number,Celinac,F,Serbs,7314
+2013,Number,Samac,Both sexes,Serbs,12832
+2013,Number,Samac,M,Serbs,6277
+2013,Number,Samac,F,Serbs,6555
+2013,Number,Sekovici,Both sexes,Serbs,6187
+2013,Number,Sekovici,M,Serbs,3038
+2013,Number,Sekovici,F,Serbs,3149
+2013,Number,Sipovo,Both sexes,Serbs,9302
+2013,Number,Sipovo,M,Serbs,4716
+2013,Number,Sipovo,F,Serbs,4586
+2013,Number,Republika Srpska,Both sexes,Other ethnicity/nationality,14641
+2013,Number,Republika Srpska,M,Other ethnicity/nationality,7207
+2013,Number,Republika Srpska,F,Other ethnicity/nationality,7434
+2013,Number,City of Banja Luka,Both sexes,Other ethnicity/nationality,3324
+2013,Number,City of Banja Luka,M,Other ethnicity/nationality,1617
+2013,Number,City of Banja Luka,F,Other ethnicity/nationality,1707
+2013,Number,Berkovici,Both sexes,Other ethnicity/nationality,1
+2013,Number,Berkovici,M,Other ethnicity/nationality,1
+2013,Number,Berkovici,F,Other ethnicity/nationality,0
+2013,Number,City of Bijeljina,Both sexes,Other ethnicity/nationality,1478
+2013,Number,City of Bijeljina,M,Other ethnicity/nationality,717
+2013,Number,City of Bijeljina,F,Other ethnicity/nationality,761
+2013,Number,Bileca,Both sexes,Other ethnicity/nationality,72
+2013,Number,Bileca,M,Other ethnicity/nationality,38
+2013,Number,Bileca,F,Other ethnicity/nationality,34
+2013,Number,Bratunac,Both sexes,Other ethnicity/nationality,79
+2013,Number,Bratunac,M,Other ethnicity/nationality,45
+2013,Number,Bratunac,F,Other ethnicity/nationality,34
+2013,Number,Brod,Both sexes,Other ethnicity/nationality,151
+2013,Number,Brod,M,Other ethnicity/nationality,69
+2013,Number,Brod,F,Other ethnicity/nationality,82
+2013,Number,Visegrad,Both sexes,Other ethnicity/nationality,53
+2013,Number,Visegrad,M,Other ethnicity/nationality,26
+2013,Number,Visegrad,F,Other ethnicity/nationality,27
+2013,Number,Vlasenica,Both sexes,Other ethnicity/nationality,29
+2013,Number,Vlasenica,M,Other ethnicity/nationality,13
+2013,Number,Vlasenica,F,Other ethnicity/nationality,16
+2013,Number,Vukosavlje,Both sexes,Other ethnicity/nationality,146
+2013,Number,Vukosavlje,M,Other ethnicity/nationality,81
+2013,Number,Vukosavlje,F,Other ethnicity/nationality,65
+2013,Number,Gacko,Both sexes,Other ethnicity/nationality,40
+2013,Number,Gacko,M,Other ethnicity/nationality,27
+2013,Number,Gacko,F,Other ethnicity/nationality,13
+2013,Number,City of Gradiska,Both sexes,Other ethnicity/nationality,970
+2013,Number,City of Gradiska,M,Other ethnicity/nationality,468
+2013,Number,City of Gradiska,F,Other ethnicity/nationality,502
+2013,Number,City of Derventa,Both sexes,Other ethnicity/nationality,264
+2013,Number,City of Derventa,M,Other ethnicity/nationality,116
+2013,Number,City of Derventa,F,Other ethnicity/nationality,148
+2013,Number,City of Doboj,Both sexes,Other ethnicity/nationality,949
+2013,Number,City of Doboj,M,Other ethnicity/nationality,486
+2013,Number,City of Doboj,F,Other ethnicity/nationality,463
+2013,Number,Donji Zabar,Both sexes,Other ethnicity/nationality,9
+2013,Number,Donji Zabar,M,Other ethnicity/nationality,1
+2013,Number,Donji Zabar,F,Other ethnicity/nationality,8
+2013,Number,City of Zvornik,Both sexes,Other ethnicity/nationality,120
+2013,Number,City of Zvornik,M,Other ethnicity/nationality,55
+2013,Number,City of Zvornik,F,Other ethnicity/nationality,65
+2013,Number,East Ilidza,Both sexes,Other ethnicity/nationality,96
+2013,Number,East Ilidza,M,Other ethnicity/nationality,44
+2013,Number,East Ilidza,F,Other ethnicity/nationality,52
+2013,Number,East Drvar,Both sexes,Other ethnicity/nationality,0
+2013,Number,East Drvar,M,Other ethnicity/nationality,0
+2013,Number,East Drvar,F,Other ethnicity/nationality,0
+2013,Number,East Mostar,Both sexes,Other ethnicity/nationality,0
+2013,Number,East Mostar,M,Other ethnicity/nationality,0
+2013,Number,East Mostar,F,Other ethnicity/nationality,0
+2013,Number,East Stari Grad,Both sexes,Other ethnicity/nationality,7
+2013,Number,East Stari Grad,M,Other ethnicity/nationality,5
+2013,Number,East Stari Grad,F,Other ethnicity/nationality,2
+2013,Number,East Novo Sarajevo,Both sexes,Other ethnicity/nationality,163
+2013,Number,East Novo Sarajevo,M,Other ethnicity/nationality,72
+2013,Number,East Novo Sarajevo,F,Other ethnicity/nationality,91
+2013,Number,Jezero,Both sexes,Other ethnicity/nationality,1
+2013,Number,Jezero,M,Other ethnicity/nationality,1
+2013,Number,Jezero,F,Other ethnicity/nationality,0
+2013,Number,Kalinovik,Both sexes,Other ethnicity/nationality,15
+2013,Number,Kalinovik,M,Other ethnicity/nationality,8
+2013,Number,Kalinovik,F,Other ethnicity/nationality,7
+2013,Number,Knezevo,Both sexes,Other ethnicity/nationality,37
+2013,Number,Knezevo,M,Other ethnicity/nationality,21
+2013,Number,Knezevo,F,Other ethnicity/nationality,16
+2013,Number,Kozarska Dubica,Both sexes,Other ethnicity/nationality,219
+2013,Number,Kozarska Dubica,M,Other ethnicity/nationality,102
+2013,Number,Kozarska Dubica,F,Other ethnicity/nationality,117
+2013,Number,Kostajnica,Both sexes,Other ethnicity/nationality,42
+2013,Number,Kostajnica,M,Other ethnicity/nationality,20
+2013,Number,Kostajnica,F,Other ethnicity/nationality,22
+2013,Number,Kotor Varos,Both sexes,Other ethnicity/nationality,129
+2013,Number,Kotor Varos,M,Other ethnicity/nationality,63
+2013,Number,Kotor Varos,F,Other ethnicity/nationality,66
+2013,Number,Krupa Na Uni,Both sexes,Other ethnicity/nationality,0
+2013,Number,Krupa Na Uni,M,Other ethnicity/nationality,0
+2013,Number,Krupa Na Uni,F,Other ethnicity/nationality,0
+2013,Number,Kupres,Both sexes,Other ethnicity/nationality,0
+2013,Number,Kupres,M,Other ethnicity/nationality,0
+2013,Number,Kupres,F,Other ethnicity/nationality,0
+2013,Number,Laktasi,Both sexes,Other ethnicity/nationality,562
+2013,Number,Laktasi,M,Other ethnicity/nationality,285
+2013,Number,Laktasi,F,Other ethnicity/nationality,277
+2013,Number,Lopare,Both sexes,Other ethnicity/nationality,31
+2013,Number,Lopare,M,Other ethnicity/nationality,16
+2013,Number,Lopare,F,Other ethnicity/nationality,15
+2013,Number,Ljubinje,Both sexes,Other ethnicity/nationality,13
+2013,Number,Ljubinje,M,Other ethnicity/nationality,7
+2013,Number,Ljubinje,F,Other ethnicity/nationality,6
+2013,Number,Milici,Both sexes,Other ethnicity/nationality,19
+2013,Number,Milici,M,Other ethnicity/nationality,7
+2013,Number,Milici,F,Other ethnicity/nationality,12
+2013,Number,Modrica,Both sexes,Other ethnicity/nationality,412
+2013,Number,Modrica,M,Other ethnicity/nationality,207
+2013,Number,Modrica,F,Other ethnicity/nationality,205
+2013,Number,Mrkonjic Grad,Both sexes,Other ethnicity/nationality,37
+2013,Number,Mrkonjic Grad,M,Other ethnicity/nationality,17
+2013,Number,Mrkonjic Grad,F,Other ethnicity/nationality,20
+2013,Number,Nevesinje,Both sexes,Other ethnicity/nationality,18
+2013,Number,Nevesinje,M,Other ethnicity/nationality,5
+2013,Number,Nevesinje,F,Other ethnicity/nationality,13
+2013,Number,Novi Grad,Both sexes,Other ethnicity/nationality,200
+2013,Number,Novi Grad,M,Other ethnicity/nationality,100
+2013,Number,Novi Grad,F,Other ethnicity/nationality,100
+2013,Number,Novo Gorazde,Both sexes,Other ethnicity/nationality,22
+2013,Number,Novo Gorazde,M,Other ethnicity/nationality,11
+2013,Number,Novo Gorazde,F,Other ethnicity/nationality,11
+2013,Number,Osmaci,Both sexes,Other ethnicity/nationality,5
+2013,Number,Osmaci,M,Other ethnicity/nationality,2
+2013,Number,Osmaci,F,Other ethnicity/nationality,3
+2013,Number,Ostra Luka,Both sexes,Other ethnicity/nationality,8
+2013,Number,Ostra Luka,M,Other ethnicity/nationality,3
+2013,Number,Ostra Luka,F,Other ethnicity/nationality,5
+2013,Number,Pale,Both sexes,Other ethnicity/nationality,70
+2013,Number,Pale,M,Other ethnicity/nationality,31
+2013,Number,Pale,F,Other ethnicity/nationality,39
+2013,Number,Pelagicevo,Both sexes,Other ethnicity/nationality,9
+2013,Number,Pelagicevo,M,Other ethnicity/nationality,4
+2013,Number,Pelagicevo,F,Other ethnicity/nationality,5
+2013,Number,Petrovac,Both sexes,Other ethnicity/nationality,3
+2013,Number,Petrovac,M,Other ethnicity/nationality,1
+2013,Number,Petrovac,F,Other ethnicity/nationality,2
+2013,Number,Petrovo,Both sexes,Other ethnicity/nationality,30
+2013,Number,Petrovo,M,Other ethnicity/nationality,19
+2013,Number,Petrovo,F,Other ethnicity/nationality,11
+2013,Number,City of Prijedor,Both sexes,Other ethnicity/nationality,1495
+2013,Number,City of Prijedor,M,Other ethnicity/nationality,712
+2013,Number,City of Prijedor,F,Other ethnicity/nationality,783
+2013,Number,Prnjavor,Both sexes,Other ethnicity/nationality,1452
+2013,Number,Prnjavor,M,Other ethnicity/nationality,738
+2013,Number,Prnjavor,F,Other ethnicity/nationality,714
+2013,Number,Ribnik,Both sexes,Other ethnicity/nationality,11
+2013,Number,Ribnik,M,Other ethnicity/nationality,3
+2013,Number,Ribnik,F,Other ethnicity/nationality,8
+2013,Number,Rogatica,Both sexes,Other ethnicity/nationality,41
+2013,Number,Rogatica,M,Other ethnicity/nationality,20
+2013,Number,Rogatica,F,Other ethnicity/nationality,21
+2013,Number,Rudo,Both sexes,Other ethnicity/nationality,26
+2013,Number,Rudo,M,Other ethnicity/nationality,14
+2013,Number,Rudo,F,Other ethnicity/nationality,12
+2013,Number,Sokolac,Both sexes,Other ethnicity/nationality,38
+2013,Number,Sokolac,M,Other ethnicity/nationality,19
+2013,Number,Sokolac,F,Other ethnicity/nationality,19
+2013,Number,Srbac,Both sexes,Other ethnicity/nationality,280
+2013,Number,Srbac,M,Other ethnicity/nationality,146
+2013,Number,Srbac,F,Other ethnicity/nationality,134
+2013,Number,Srebrenica,Both sexes,Other ethnicity/nationality,59
+2013,Number,Srebrenica,M,Other ethnicity/nationality,34
+2013,Number,Srebrenica,F,Other ethnicity/nationality,25
+2013,Number,Teslic,Both sexes,Other ethnicity/nationality,454
+2013,Number,Teslic,M,Other ethnicity/nationality,222
+2013,Number,Teslic,F,Other ethnicity/nationality,232
+2013,Number,City of Trebinje,Both sexes,Other ethnicity/nationality,398
+2013,Number,City of Trebinje,M,Other ethnicity/nationality,204
+2013,Number,City of Trebinje,F,Other ethnicity/nationality,194
+2013,Number,Trnovo,Both sexes,Other ethnicity/nationality,10
+2013,Number,Trnovo,M,Other ethnicity/nationality,7
+2013,Number,Trnovo,F,Other ethnicity/nationality,3
+2013,Number,Ugljevik,Both sexes,Other ethnicity/nationality,36
+2013,Number,Ugljevik,M,Other ethnicity/nationality,17
+2013,Number,Ugljevik,F,Other ethnicity/nationality,19
+2013,Number,Foca,Both sexes,Other ethnicity/nationality,160
+2013,Number,Foca,M,Other ethnicity/nationality,90
+2013,Number,Foca,F,Other ethnicity/nationality,70
+2013,Number,Han Pijesak,Both sexes,Other ethnicity/nationality,21
+2013,Number,Han Pijesak,M,Other ethnicity/nationality,14
+2013,Number,Han Pijesak,F,Other ethnicity/nationality,7
+2013,Number,Cajnice,Both sexes,Other ethnicity/nationality,24
+2013,Number,Cajnice,M,Other ethnicity/nationality,13
+2013,Number,Cajnice,F,Other ethnicity/nationality,11
+2013,Number,Celinac,Both sexes,Other ethnicity/nationality,122
+2013,Number,Celinac,M,Other ethnicity/nationality,55
+2013,Number,Celinac,F,Other ethnicity/nationality,67
+2013,Number,Samac,Both sexes,Other ethnicity/nationality,135
+2013,Number,Samac,M,Other ethnicity/nationality,67
+2013,Number,Samac,F,Other ethnicity/nationality,68
+2013,Number,Sekovici,Both sexes,Other ethnicity/nationality,12
+2013,Number,Sekovici,M,Other ethnicity/nationality,7
+2013,Number,Sekovici,F,Other ethnicity/nationality,5
+2013,Number,Sipovo,Both sexes,Other ethnicity/nationality,34
+2013,Number,Sipovo,M,Other ethnicity/nationality,14
+2013,Number,Sipovo,F,Other ethnicity/nationality,20
+2013,Number,Republika Srpska,Both sexes,Does not declare ethnicity/nationality,7861
+2013,Number,Republika Srpska,M,Does not declare ethnicity/nationality,3202
+2013,Number,Republika Srpska,F,Does not declare ethnicity/nationality,4659
+2013,Number,City of Banja Luka,Both sexes,Does not declare ethnicity/nationality,2641
+2013,Number,City of Banja Luka,M,Does not declare ethnicity/nationality,1044
+2013,Number,City of Banja Luka,F,Does not declare ethnicity/nationality,1597
+2013,Number,Berkovici,Both sexes,Does not declare ethnicity/nationality,0
+2013,Number,Berkovici,M,Does not declare ethnicity/nationality,0
+2013,Number,Berkovici,F,Does not declare ethnicity/nationality,0
+2013,Number,City of Bijeljina,Both sexes,Does not declare ethnicity/nationality,654
+2013,Number,City of Bijeljina,M,Does not declare ethnicity/nationality,272
+2013,Number,City of Bijeljina,F,Does not declare ethnicity/nationality,382
+2013,Number,Bileca,Both sexes,Does not declare ethnicity/nationality,30
+2013,Number,Bileca,M,Does not declare ethnicity/nationality,10
+2013,Number,Bileca,F,Does not declare ethnicity/nationality,20
+2013,Number,Bratunac,Both sexes,Does not declare ethnicity/nationality,22
+2013,Number,Bratunac,M,Does not declare ethnicity/nationality,11
+2013,Number,Bratunac,F,Does not declare ethnicity/nationality,11
+2013,Number,Brod,Both sexes,Does not declare ethnicity/nationality,142
+2013,Number,Brod,M,Does not declare ethnicity/nationality,50
+2013,Number,Brod,F,Does not declare ethnicity/nationality,92
+2013,Number,Visegrad,Both sexes,Does not declare ethnicity/nationality,19
+2013,Number,Visegrad,M,Does not declare ethnicity/nationality,10
+2013,Number,Visegrad,F,Does not declare ethnicity/nationality,9
+2013,Number,Vlasenica,Both sexes,Does not declare ethnicity/nationality,20
+2013,Number,Vlasenica,M,Does not declare ethnicity/nationality,11
+2013,Number,Vlasenica,F,Does not declare ethnicity/nationality,9
+2013,Number,Vukosavlje,Both sexes,Does not declare ethnicity/nationality,32
+2013,Number,Vukosavlje,M,Does not declare ethnicity/nationality,15
+2013,Number,Vukosavlje,F,Does not declare ethnicity/nationality,17
+2013,Number,Gacko,Both sexes,Does not declare ethnicity/nationality,3
+2013,Number,Gacko,M,Does not declare ethnicity/nationality,0
+2013,Number,Gacko,F,Does not declare ethnicity/nationality,3
+2013,Number,City of Gradiska,Both sexes,Does not declare ethnicity/nationality,411
+2013,Number,City of Gradiska,M,Does not declare ethnicity/nationality,174
+2013,Number,City of Gradiska,F,Does not declare ethnicity/nationality,237
+2013,Number,City of Derventa,Both sexes,Does not declare ethnicity/nationality,242
+2013,Number,City of Derventa,M,Does not declare ethnicity/nationality,113
+2013,Number,City of Derventa,F,Does not declare ethnicity/nationality,129
+2013,Number,City of Doboj,Both sexes,Does not declare ethnicity/nationality,467
+2013,Number,City of Doboj,M,Does not declare ethnicity/nationality,198
+2013,Number,City of Doboj,F,Does not declare ethnicity/nationality,269
+2013,Number,Donji Zabar,Both sexes,Does not declare ethnicity/nationality,5
+2013,Number,Donji Zabar,M,Does not declare ethnicity/nationality,2
+2013,Number,Donji Zabar,F,Does not declare ethnicity/nationality,3
+2013,Number,City of Zvornik,Both sexes,Does not declare ethnicity/nationality,70
+2013,Number,City of Zvornik,M,Does not declare ethnicity/nationality,31
+2013,Number,City of Zvornik,F,Does not declare ethnicity/nationality,39
+2013,Number,East Ilidza,Both sexes,Does not declare ethnicity/nationality,96
+2013,Number,East Ilidza,M,Does not declare ethnicity/nationality,38
+2013,Number,East Ilidza,F,Does not declare ethnicity/nationality,58
+2013,Number,East Drvar,Both sexes,Does not declare ethnicity/nationality,0
+2013,Number,East Drvar,M,Does not declare ethnicity/nationality,0
+2013,Number,East Drvar,F,Does not declare ethnicity/nationality,0
+2013,Number,East Mostar,Both sexes,Does not declare ethnicity/nationality,0
+2013,Number,East Mostar,M,Does not declare ethnicity/nationality,0
+2013,Number,East Mostar,F,Does not declare ethnicity/nationality,0
+2013,Number,East Stari Grad,Both sexes,Does not declare ethnicity/nationality,2
+2013,Number,East Stari Grad,M,Does not declare ethnicity/nationality,0
+2013,Number,East Stari Grad,F,Does not declare ethnicity/nationality,2
+2013,Number,East Novo Sarajevo,Both sexes,Does not declare ethnicity/nationality,61
+2013,Number,East Novo Sarajevo,M,Does not declare ethnicity/nationality,26
+2013,Number,East Novo Sarajevo,F,Does not declare ethnicity/nationality,35
+2013,Number,Jezero,Both sexes,Does not declare ethnicity/nationality,1
+2013,Number,Jezero,M,Does not declare ethnicity/nationality,0
+2013,Number,Jezero,F,Does not declare ethnicity/nationality,1
+2013,Number,Kalinovik,Both sexes,Does not declare ethnicity/nationality,1
+2013,Number,Kalinovik,M,Does not declare ethnicity/nationality,1
+2013,Number,Kalinovik,F,Does not declare ethnicity/nationality,0
+2013,Number,Knezevo,Both sexes,Does not declare ethnicity/nationality,4
+2013,Number,Knezevo,M,Does not declare ethnicity/nationality,3
+2013,Number,Knezevo,F,Does not declare ethnicity/nationality,1
+2013,Number,Kozarska Dubica,Both sexes,Does not declare ethnicity/nationality,162
+2013,Number,Kozarska Dubica,M,Does not declare ethnicity/nationality,63
+2013,Number,Kozarska Dubica,F,Does not declare ethnicity/nationality,99
+2013,Number,Kostajnica,Both sexes,Does not declare ethnicity/nationality,66
+2013,Number,Kostajnica,M,Does not declare ethnicity/nationality,28
+2013,Number,Kostajnica,F,Does not declare ethnicity/nationality,38
+2013,Number,Kotor Varos,Both sexes,Does not declare ethnicity/nationality,115
+2013,Number,Kotor Varos,M,Does not declare ethnicity/nationality,42
+2013,Number,Kotor Varos,F,Does not declare ethnicity/nationality,73
+2013,Number,Krupa Na Uni,Both sexes,Does not declare ethnicity/nationality,0
+2013,Number,Krupa Na Uni,M,Does not declare ethnicity/nationality,0
+2013,Number,Krupa Na Uni,F,Does not declare ethnicity/nationality,0
+2013,Number,Kupres,Both sexes,Does not declare ethnicity/nationality,1
+2013,Number,Kupres,M,Does not declare ethnicity/nationality,1
+2013,Number,Kupres,F,Does not declare ethnicity/nationality,0
+2013,Number,Laktasi,Both sexes,Does not declare ethnicity/nationality,237
+2013,Number,Laktasi,M,Does not declare ethnicity/nationality,103
+2013,Number,Laktasi,F,Does not declare ethnicity/nationality,134
+2013,Number,Lopare,Both sexes,Does not declare ethnicity/nationality,23
+2013,Number,Lopare,M,Does not declare ethnicity/nationality,5
+2013,Number,Lopare,F,Does not declare ethnicity/nationality,18
+2013,Number,Ljubinje,Both sexes,Does not declare ethnicity/nationality,5
+2013,Number,Ljubinje,M,Does not declare ethnicity/nationality,2
+2013,Number,Ljubinje,F,Does not declare ethnicity/nationality,3
+2013,Number,Milici,Both sexes,Does not declare ethnicity/nationality,7
+2013,Number,Milici,M,Does not declare ethnicity/nationality,3
+2013,Number,Milici,F,Does not declare ethnicity/nationality,4
+2013,Number,Modrica,Both sexes,Does not declare ethnicity/nationality,156
+2013,Number,Modrica,M,Does not declare ethnicity/nationality,63
+2013,Number,Modrica,F,Does not declare ethnicity/nationality,93
+2013,Number,Mrkonjic Grad,Both sexes,Does not declare ethnicity/nationality,35
+2013,Number,Mrkonjic Grad,M,Does not declare ethnicity/nationality,19
+2013,Number,Mrkonjic Grad,F,Does not declare ethnicity/nationality,16
+2013,Number,Nevesinje,Both sexes,Does not declare ethnicity/nationality,18
+2013,Number,Nevesinje,M,Does not declare ethnicity/nationality,8
+2013,Number,Nevesinje,F,Does not declare ethnicity/nationality,10
+2013,Number,Novi Grad,Both sexes,Does not declare ethnicity/nationality,137
+2013,Number,Novi Grad,M,Does not declare ethnicity/nationality,56
+2013,Number,Novi Grad,F,Does not declare ethnicity/nationality,81
+2013,Number,Novo Gorazde,Both sexes,Does not declare ethnicity/nationality,6
+2013,Number,Novo Gorazde,M,Does not declare ethnicity/nationality,3
+2013,Number,Novo Gorazde,F,Does not declare ethnicity/nationality,3
+2013,Number,Osmaci,Both sexes,Does not declare ethnicity/nationality,5
+2013,Number,Osmaci,M,Does not declare ethnicity/nationality,3
+2013,Number,Osmaci,F,Does not declare ethnicity/nationality,2
+2013,Number,Ostra Luka,Both sexes,Does not declare ethnicity/nationality,12
+2013,Number,Ostra Luka,M,Does not declare ethnicity/nationality,4
+2013,Number,Ostra Luka,F,Does not declare ethnicity/nationality,8
+2013,Number,Pale,Both sexes,Does not declare ethnicity/nationality,53
+2013,Number,Pale,M,Does not declare ethnicity/nationality,20
+2013,Number,Pale,F,Does not declare ethnicity/nationality,33
+2013,Number,Pelagicevo,Both sexes,Does not declare ethnicity/nationality,3
+2013,Number,Pelagicevo,M,Does not declare ethnicity/nationality,1
+2013,Number,Pelagicevo,F,Does not declare ethnicity/nationality,2
+2013,Number,Petrovac,Both sexes,Does not declare ethnicity/nationality,0
+2013,Number,Petrovac,M,Does not declare ethnicity/nationality,0
+2013,Number,Petrovac,F,Does not declare ethnicity/nationality,0
+2013,Number,Petrovo,Both sexes,Does not declare ethnicity/nationality,21
+2013,Number,Petrovo,M,Does not declare ethnicity/nationality,10
+2013,Number,Petrovo,F,Does not declare ethnicity/nationality,11
+2013,Number,City of Prijedor,Both sexes,Does not declare ethnicity/nationality,718
+2013,Number,City of Prijedor,M,Does not declare ethnicity/nationality,267
+2013,Number,City of Prijedor,F,Does not declare ethnicity/nationality,451
+2013,Number,Prnjavor,Both sexes,Does not declare ethnicity/nationality,225
+2013,Number,Prnjavor,M,Does not declare ethnicity/nationality,96
+2013,Number,Prnjavor,F,Does not declare ethnicity/nationality,129
+2013,Number,Ribnik,Both sexes,Does not declare ethnicity/nationality,2
+2013,Number,Ribnik,M,Does not declare ethnicity/nationality,0
+2013,Number,Ribnik,F,Does not declare ethnicity/nationality,2
+2013,Number,Rogatica,Both sexes,Does not declare ethnicity/nationality,12
+2013,Number,Rogatica,M,Does not declare ethnicity/nationality,7
+2013,Number,Rogatica,F,Does not declare ethnicity/nationality,5
+2013,Number,Rudo,Both sexes,Does not declare ethnicity/nationality,5
+2013,Number,Rudo,M,Does not declare ethnicity/nationality,3
+2013,Number,Rudo,F,Does not declare ethnicity/nationality,2
+2013,Number,Sokolac,Both sexes,Does not declare ethnicity/nationality,13
+2013,Number,Sokolac,M,Does not declare ethnicity/nationality,5
+2013,Number,Sokolac,F,Does not declare ethnicity/nationality,8
+2013,Number,Srbac,Both sexes,Does not declare ethnicity/nationality,89
+2013,Number,Srbac,M,Does not declare ethnicity/nationality,45
+2013,Number,Srbac,F,Does not declare ethnicity/nationality,44
+2013,Number,Srebrenica,Both sexes,Does not declare ethnicity/nationality,22
+2013,Number,Srebrenica,M,Does not declare ethnicity/nationality,10
+2013,Number,Srebrenica,F,Does not declare ethnicity/nationality,12
+2013,Number,Teslic,Both sexes,Does not declare ethnicity/nationality,339
+2013,Number,Teslic,M,Does not declare ethnicity/nationality,136
+2013,Number,Teslic,F,Does not declare ethnicity/nationality,203
+2013,Number,City of Trebinje,Both sexes,Does not declare ethnicity/nationality,180
+2013,Number,City of Trebinje,M,Does not declare ethnicity/nationality,77
+2013,Number,City of Trebinje,F,Does not declare ethnicity/nationality,103
+2013,Number,Trnovo,Both sexes,Does not declare ethnicity/nationality,9
+2013,Number,Trnovo,M,Does not declare ethnicity/nationality,4
+2013,Number,Trnovo,F,Does not declare ethnicity/nationality,5
+2013,Number,Ugljevik,Both sexes,Does not declare ethnicity/nationality,21
+2013,Number,Ugljevik,M,Does not declare ethnicity/nationality,10
+2013,Number,Ugljevik,F,Does not declare ethnicity/nationality,11
+2013,Number,Foca,Both sexes,Does not declare ethnicity/nationality,30
+2013,Number,Foca,M,Does not declare ethnicity/nationality,10
+2013,Number,Foca,F,Does not declare ethnicity/nationality,20
+2013,Number,Han Pijesak,Both sexes,Does not declare ethnicity/nationality,3
+2013,Number,Han Pijesak,M,Does not declare ethnicity/nationality,1
+2013,Number,Han Pijesak,F,Does not declare ethnicity/nationality,2
+2013,Number,Cajnice,Both sexes,Does not declare ethnicity/nationality,3
+2013,Number,Cajnice,M,Does not declare ethnicity/nationality,1
+2013,Number,Cajnice,F,Does not declare ethnicity/nationality,2
+2013,Number,Celinac,Both sexes,Does not declare ethnicity/nationality,35
+2013,Number,Celinac,M,Does not declare ethnicity/nationality,16
+2013,Number,Celinac,F,Does not declare ethnicity/nationality,19
+2013,Number,Samac,Both sexes,Does not declare ethnicity/nationality,141
+2013,Number,Samac,M,Does not declare ethnicity/nationality,57
+2013,Number,Samac,F,Does not declare ethnicity/nationality,84
+2013,Number,Sekovici,Both sexes,Does not declare ethnicity/nationality,5
+2013,Number,Sekovici,M,Does not declare ethnicity/nationality,2
+2013,Number,Sekovici,F,Does not declare ethnicity/nationality,3
+2013,Number,Sipovo,Both sexes,Does not declare ethnicity/nationality,24
+2013,Number,Sipovo,M,Does not declare ethnicity/nationality,12
+2013,Number,Sipovo,F,Does not declare ethnicity/nationality,12
+2013,Number,Republika Srpska,Both sexes,Unknown ethnicity/nationality,1997
+2013,Number,Republika Srpska,M,Unknown ethnicity/nationality,916
+2013,Number,Republika Srpska,F,Unknown ethnicity/nationality,1081
+2013,Number,City of Banja Luka,Both sexes,Unknown ethnicity/nationality,328
+2013,Number,City of Banja Luka,M,Unknown ethnicity/nationality,153
+2013,Number,City of Banja Luka,F,Unknown ethnicity/nationality,175
+2013,Number,Berkovici,Both sexes,Unknown ethnicity/nationality,1
+2013,Number,Berkovici,M,Unknown ethnicity/nationality,0
+2013,Number,Berkovici,F,Unknown ethnicity/nationality,1
+2013,Number,City of Bijeljina,Both sexes,Unknown ethnicity/nationality,90
+2013,Number,City of Bijeljina,M,Unknown ethnicity/nationality,37
+2013,Number,City of Bijeljina,F,Unknown ethnicity/nationality,53
+2013,Number,Bileca,Both sexes,Unknown ethnicity/nationality,11
+2013,Number,Bileca,M,Unknown ethnicity/nationality,4
+2013,Number,Bileca,F,Unknown ethnicity/nationality,7
+2013,Number,Bratunac,Both sexes,Unknown ethnicity/nationality,35
+2013,Number,Bratunac,M,Unknown ethnicity/nationality,16
+2013,Number,Bratunac,F,Unknown ethnicity/nationality,19
+2013,Number,Brod,Both sexes,Unknown ethnicity/nationality,29
+2013,Number,Brod,M,Unknown ethnicity/nationality,12
+2013,Number,Brod,F,Unknown ethnicity/nationality,17
+2013,Number,Visegrad,Both sexes,Unknown ethnicity/nationality,177
+2013,Number,Visegrad,M,Unknown ethnicity/nationality,2
+2013,Number,Visegrad,F,Unknown ethnicity/nationality,175
+2013,Number,Vlasenica,Both sexes,Unknown ethnicity/nationality,29
+2013,Number,Vlasenica,M,Unknown ethnicity/nationality,13
+2013,Number,Vlasenica,F,Unknown ethnicity/nationality,16
+2013,Number,Vukosavlje,Both sexes,Unknown ethnicity/nationality,14
+2013,Number,Vukosavlje,M,Unknown ethnicity/nationality,3
+2013,Number,Vukosavlje,F,Unknown ethnicity/nationality,11
+2013,Number,Gacko,Both sexes,Unknown ethnicity/nationality,6
+2013,Number,Gacko,M,Unknown ethnicity/nationality,1
+2013,Number,Gacko,F,Unknown ethnicity/nationality,5
+2013,Number,City of Gradiska,Both sexes,Unknown ethnicity/nationality,42
+2013,Number,City of Gradiska,M,Unknown ethnicity/nationality,19
+2013,Number,City of Gradiska,F,Unknown ethnicity/nationality,23
+2013,Number,City of Derventa,Both sexes,Unknown ethnicity/nationality,54
+2013,Number,City of Derventa,M,Unknown ethnicity/nationality,24
+2013,Number,City of Derventa,F,Unknown ethnicity/nationality,30
+2013,Number,City of Doboj,Both sexes,Unknown ethnicity/nationality,163
+2013,Number,City of Doboj,M,Unknown ethnicity/nationality,61
+2013,Number,City of Doboj,F,Unknown ethnicity/nationality,102
+2013,Number,Donji Zabar,Both sexes,Unknown ethnicity/nationality,2
+2013,Number,Donji Zabar,M,Unknown ethnicity/nationality,1
+2013,Number,Donji Zabar,F,Unknown ethnicity/nationality,1
+2013,Number,City of Zvornik,Both sexes,Unknown ethnicity/nationality,97
+2013,Number,City of Zvornik,M,Unknown ethnicity/nationality,42
+2013,Number,City of Zvornik,F,Unknown ethnicity/nationality,55
+2013,Number,East Ilidza,Both sexes,Unknown ethnicity/nationality,10
+2013,Number,East Ilidza,M,Unknown ethnicity/nationality,5
+2013,Number,East Ilidza,F,Unknown ethnicity/nationality,5
+2013,Number,East Drvar,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,East Drvar,M,Unknown ethnicity/nationality,0
+2013,Number,East Drvar,F,Unknown ethnicity/nationality,0
+2013,Number,East Mostar,Both sexes,Unknown ethnicity/nationality,2
+2013,Number,East Mostar,M,Unknown ethnicity/nationality,1
+2013,Number,East Mostar,F,Unknown ethnicity/nationality,1
+2013,Number,East Stari Grad,Both sexes,Unknown ethnicity/nationality,1
+2013,Number,East Stari Grad,M,Unknown ethnicity/nationality,1
+2013,Number,East Stari Grad,F,Unknown ethnicity/nationality,0
+2013,Number,East Novo Sarajevo,Both sexes,Unknown ethnicity/nationality,3
+2013,Number,East Novo Sarajevo,M,Unknown ethnicity/nationality,0
+2013,Number,East Novo Sarajevo,F,Unknown ethnicity/nationality,3
+2013,Number,Jezero,Both sexes,Unknown ethnicity/nationality,1
+2013,Number,Jezero,M,Unknown ethnicity/nationality,1
+2013,Number,Jezero,F,Unknown ethnicity/nationality,0
+2013,Number,Kalinovik,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Kalinovik,M,Unknown ethnicity/nationality,0
+2013,Number,Kalinovik,F,Unknown ethnicity/nationality,0
+2013,Number,Knezevo,Both sexes,Unknown ethnicity/nationality,4
+2013,Number,Knezevo,M,Unknown ethnicity/nationality,3
+2013,Number,Knezevo,F,Unknown ethnicity/nationality,1
+2013,Number,Kozarska Dubica,Both sexes,Unknown ethnicity/nationality,12
+2013,Number,Kozarska Dubica,M,Unknown ethnicity/nationality,5
+2013,Number,Kozarska Dubica,F,Unknown ethnicity/nationality,7
+2013,Number,Kostajnica,Both sexes,Unknown ethnicity/nationality,2
+2013,Number,Kostajnica,M,Unknown ethnicity/nationality,0
+2013,Number,Kostajnica,F,Unknown ethnicity/nationality,2
+2013,Number,Kotor Varos,Both sexes,Unknown ethnicity/nationality,19
+2013,Number,Kotor Varos,M,Unknown ethnicity/nationality,14
+2013,Number,Kotor Varos,F,Unknown ethnicity/nationality,5
+2013,Number,Krupa Na Uni,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Krupa Na Uni,M,Unknown ethnicity/nationality,0
+2013,Number,Krupa Na Uni,F,Unknown ethnicity/nationality,0
+2013,Number,Kupres,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Kupres,M,Unknown ethnicity/nationality,0
+2013,Number,Kupres,F,Unknown ethnicity/nationality,0
+2013,Number,Laktasi,Both sexes,Unknown ethnicity/nationality,46
+2013,Number,Laktasi,M,Unknown ethnicity/nationality,20
+2013,Number,Laktasi,F,Unknown ethnicity/nationality,26
+2013,Number,Lopare,Both sexes,Unknown ethnicity/nationality,10
+2013,Number,Lopare,M,Unknown ethnicity/nationality,6
+2013,Number,Lopare,F,Unknown ethnicity/nationality,4
+2013,Number,Ljubinje,Both sexes,Unknown ethnicity/nationality,2
+2013,Number,Ljubinje,M,Unknown ethnicity/nationality,1
+2013,Number,Ljubinje,F,Unknown ethnicity/nationality,1
+2013,Number,Milici,Both sexes,Unknown ethnicity/nationality,8
+2013,Number,Milici,M,Unknown ethnicity/nationality,3
+2013,Number,Milici,F,Unknown ethnicity/nationality,5
+2013,Number,Modrica,Both sexes,Unknown ethnicity/nationality,116
+2013,Number,Modrica,M,Unknown ethnicity/nationality,62
+2013,Number,Modrica,F,Unknown ethnicity/nationality,54
+2013,Number,Mrkonjic Grad,Both sexes,Unknown ethnicity/nationality,12
+2013,Number,Mrkonjic Grad,M,Unknown ethnicity/nationality,6
+2013,Number,Mrkonjic Grad,F,Unknown ethnicity/nationality,6
+2013,Number,Nevesinje,Both sexes,Unknown ethnicity/nationality,7
+2013,Number,Nevesinje,M,Unknown ethnicity/nationality,2
+2013,Number,Nevesinje,F,Unknown ethnicity/nationality,5
+2013,Number,Novi Grad,Both sexes,Unknown ethnicity/nationality,24
+2013,Number,Novi Grad,M,Unknown ethnicity/nationality,13
+2013,Number,Novi Grad,F,Unknown ethnicity/nationality,11
+2013,Number,Novo Gorazde,Both sexes,Unknown ethnicity/nationality,7
+2013,Number,Novo Gorazde,M,Unknown ethnicity/nationality,2
+2013,Number,Novo Gorazde,F,Unknown ethnicity/nationality,5
+2013,Number,Osmaci,Both sexes,Unknown ethnicity/nationality,4
+2013,Number,Osmaci,M,Unknown ethnicity/nationality,2
+2013,Number,Osmaci,F,Unknown ethnicity/nationality,2
+2013,Number,Ostra Luka,Both sexes,Unknown ethnicity/nationality,3
+2013,Number,Ostra Luka,M,Unknown ethnicity/nationality,2
+2013,Number,Ostra Luka,F,Unknown ethnicity/nationality,1
+2013,Number,Pale,Both sexes,Unknown ethnicity/nationality,13
+2013,Number,Pale,M,Unknown ethnicity/nationality,9
+2013,Number,Pale,F,Unknown ethnicity/nationality,4
+2013,Number,Pelagicevo,Both sexes,Unknown ethnicity/nationality,5
+2013,Number,Pelagicevo,M,Unknown ethnicity/nationality,1
+2013,Number,Pelagicevo,F,Unknown ethnicity/nationality,4
+2013,Number,Petrovac,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Petrovac,M,Unknown ethnicity/nationality,0
+2013,Number,Petrovac,F,Unknown ethnicity/nationality,0
+2013,Number,Petrovo,Both sexes,Unknown ethnicity/nationality,4
+2013,Number,Petrovo,M,Unknown ethnicity/nationality,2
+2013,Number,Petrovo,F,Unknown ethnicity/nationality,2
+2013,Number,City of Prijedor,Both sexes,Unknown ethnicity/nationality,369
+2013,Number,City of Prijedor,M,Unknown ethnicity/nationality,257
+2013,Number,City of Prijedor,F,Unknown ethnicity/nationality,112
+2013,Number,Prnjavor,Both sexes,Unknown ethnicity/nationality,30
+2013,Number,Prnjavor,M,Unknown ethnicity/nationality,10
+2013,Number,Prnjavor,F,Unknown ethnicity/nationality,20
+2013,Number,Ribnik,Both sexes,Unknown ethnicity/nationality,2
+2013,Number,Ribnik,M,Unknown ethnicity/nationality,2
+2013,Number,Ribnik,F,Unknown ethnicity/nationality,0
+2013,Number,Rogatica,Both sexes,Unknown ethnicity/nationality,5
+2013,Number,Rogatica,M,Unknown ethnicity/nationality,2
+2013,Number,Rogatica,F,Unknown ethnicity/nationality,3
+2013,Number,Rudo,Both sexes,Unknown ethnicity/nationality,3
+2013,Number,Rudo,M,Unknown ethnicity/nationality,0
+2013,Number,Rudo,F,Unknown ethnicity/nationality,3
+2013,Number,Sokolac,Both sexes,Unknown ethnicity/nationality,18
+2013,Number,Sokolac,M,Unknown ethnicity/nationality,5
+2013,Number,Sokolac,F,Unknown ethnicity/nationality,13
+2013,Number,Srbac,Both sexes,Unknown ethnicity/nationality,29
+2013,Number,Srbac,M,Unknown ethnicity/nationality,11
+2013,Number,Srbac,F,Unknown ethnicity/nationality,18
+2013,Number,Srebrenica,Both sexes,Unknown ethnicity/nationality,14
+2013,Number,Srebrenica,M,Unknown ethnicity/nationality,8
+2013,Number,Srebrenica,F,Unknown ethnicity/nationality,6
+2013,Number,Teslic,Both sexes,Unknown ethnicity/nationality,44
+2013,Number,Teslic,M,Unknown ethnicity/nationality,23
+2013,Number,Teslic,F,Unknown ethnicity/nationality,21
+2013,Number,City of Trebinje,Both sexes,Unknown ethnicity/nationality,19
+2013,Number,City of Trebinje,M,Unknown ethnicity/nationality,11
+2013,Number,City of Trebinje,F,Unknown ethnicity/nationality,8
+2013,Number,Trnovo,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Trnovo,M,Unknown ethnicity/nationality,0
+2013,Number,Trnovo,F,Unknown ethnicity/nationality,0
+2013,Number,Ugljevik,Both sexes,Unknown ethnicity/nationality,13
+2013,Number,Ugljevik,M,Unknown ethnicity/nationality,11
+2013,Number,Ugljevik,F,Unknown ethnicity/nationality,2
+2013,Number,Foca,Both sexes,Unknown ethnicity/nationality,12
+2013,Number,Foca,M,Unknown ethnicity/nationality,5
+2013,Number,Foca,F,Unknown ethnicity/nationality,7
+2013,Number,Han Pijesak,Both sexes,Unknown ethnicity/nationality,0
+2013,Number,Han Pijesak,M,Unknown ethnicity/nationality,0
+2013,Number,Han Pijesak,F,Unknown ethnicity/nationality,0
+2013,Number,Cajnice,Both sexes,Unknown ethnicity/nationality,5
+2013,Number,Cajnice,M,Unknown ethnicity/nationality,2
+2013,Number,Cajnice,F,Unknown ethnicity/nationality,3
+2013,Number,Celinac,Both sexes,Unknown ethnicity/nationality,9
+2013,Number,Celinac,M,Unknown ethnicity/nationality,4
+2013,Number,Celinac,F,Unknown ethnicity/nationality,5
+2013,Number,Samac,Both sexes,Unknown ethnicity/nationality,19
+2013,Number,Samac,M,Unknown ethnicity/nationality,10
+2013,Number,Samac,F,Unknown ethnicity/nationality,9
+2013,Number,Sekovici,Both sexes,Unknown ethnicity/nationality,8
+2013,Number,Sekovici,M,Unknown ethnicity/nationality,3
+2013,Number,Sekovici,F,Unknown ethnicity/nationality,5
+2013,Number,Sipovo,Both sexes,Unknown ethnicity/nationality,5
+2013,Number,Sipovo,M,Unknown ethnicity/nationality,3
+2013,Number,Sipovo,F,Unknown ethnicity/nationality,2

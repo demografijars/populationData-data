@@ -90,15 +90,15 @@
               "enum": [
                 "",
                 "Total",
-                "bosniaks",
-                "croats",
-                "does_not_declare_ethnicity/nationality",
-                "other_ethnicity/nationality",
-                "serbs",
-                "unknown_ethnicity/nationality"
+                "Bosniaks",
+                "Croats",
+                "Does not declare ethnicity/nationality",
+                "Other ethnicity/nationality",
+                "Serbs",
+                "Unknown ethnicity/nationality"
               ]
             },
-            "title": "Nationality"
+            "title": "Ethnicity/nationality"
           },
           {
             "name": "SEX",
