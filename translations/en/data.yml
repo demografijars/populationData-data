@@ -210,21 +210,11 @@ Atheist: Atheist
 Others: Others
 Undeclared: Undaclared
 Mother_tongue: Mother tongue
-Bosnian: Bosnian
-Serbian: Serbian
-Croatian: Croatian
-Serbo_Croatian: Serbo-Croatian
-Romani: Romani
-Albanian: Albanian
-Bosnian_Croatian_Serbian: Bosnian_Croatian_Serbian
-Turkish: Turkish
-Croato_Serbian: Croato_Serbian
-Bosniak: Bosniak
-Ukranian: Ukranian
-Bosnian_Serbian_Croatian: Bosnian_Serbian_Croatian
-Bosnian_Croatian: Bosnian_Croatian
-Bosnian_Herzegovinian: Bosnian_Herzegovinian
-German: German
+bosnian: Bosnian
+serbian: Serbian
+croatian: Croatian
+other_language: Other language
+unknown_language: Unknown language
 AGRICULTURAL_ACTIVITY: Agricultural activity
 Performing_agricultural_activity: Performing agricultural activity
 Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Performing agricultural activity and selling agricultural products in the market
