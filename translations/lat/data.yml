@@ -134,14 +134,11 @@ non-family/multi-person_households: Višečlano domaćinstvo / bez porodice
 TYPE_OF_FAMILY/HOUSEHOLD: Vrsta porodice / domaćinstva
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Broj domaćinstava
 average_number_of_hh_members: Prosječan broj članova domaćinstva
-single_household: "1 član"
-2_members: "2 člana"
-3_members: "3 člana"
-4_members: "4 člana"
-5_members: "5 članova"
-6_members: "6 članova"
-7_members: "7 članova"
-8+_members: "8 i više članova"
+1_member: 1 član
+2_members: 2 člana
+3_members: 3 člana
+4_members: 4 člana
+5+_members: 5 i više članova
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Veličina domaćinstva 
 DIVORCES: Razvod braka
 divorce_rate_(per_1,000_marriages): Stopa razvoda brakova (na 1.000 brakova)
