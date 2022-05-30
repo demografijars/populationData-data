@@ -204,21 +204,11 @@ other_religion: Druge religije
 unknown_religion: Nepoznata religija
 does_not_declare: Neopredijeljen
 Mother_tongue: Maternji jezik
-Bosnian: Bosanski
-Serbian: Srpski
-Croatian: Hrvatski
-Serbo_Croatian: Srpsko-hrvatski
-Romani: Romski
-Albanian: Albanski
-Bosnian_Croatian_Serbian: Bosanski-hrvatski-srpski
-Turkish: Turski
-Croato_Serbian: Hrvatsko-srpski
-Bosniak: Bošnjački
-Ukranian: Ukrajinski
-Bosnian_Serbian_Croatian: Bosanski-srpski-hrvatski
-Bosnian_Croatian: Bosanski-hrvatski
-Bosnian_Herzegovinian: Bosansko-hercegovački
-German: Njemački
+bosnian: Bosanski
+serbian: Srpski
+croatian: Hrvatski
+other_language: Drugi jezici
+unknown_language: Nepoznat jezik
 AGRICULTURAL_ACTIVITY: Poljoprivredna djelatnost
 Performing_agricultural_activity: Obavljanje poljoprivredne djelatnosti
 Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu
