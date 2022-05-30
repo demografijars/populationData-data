@@ -112,16 +112,16 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "bosniaks",
-                "croats",
-                "serbs",
-                "other_ethnicity/nationality",
-                "does_not_declare_ethnicity/nationality",
-                "unknown_ethnicity/nationality",
+                "Bošnjak",
+                "Hrvat",
+                "Srbin",
+                "Druga etnička/nacionalna pripadnost",
+                "Ne izjašnjava se",
+                "Nepoznata etnička/nacionalna pripadnost",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Etnička/nacionalna pripadnost"
           },
           {
             "name": "Value",
