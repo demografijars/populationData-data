@@ -332,3 +332,12 @@ serbs: Serb
 other_ethnicity/nationality: Other ethnicity/nationality
 does_not_declare_ethnicity/nationality: Does not declare ethnicity/nationality
 unknown_ethnicity/nationality: Unknown ethnicity/nationality
+Religion: Religion
+orthodox: Orthodox
+catholic: Catholic
+muslim: Muslim
+agnostic: Agnostic
+atheist: Atheist
+other_religion: Other religion
+unknown_religion: Unknown religion
+does_not_declare: Does not declare
