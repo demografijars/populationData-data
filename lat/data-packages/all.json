@@ -2839,11 +2839,11 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "bosnian",
-                "croatian",
-                "serbian",
-                "other_language",
-                "unknown_language",
+                "Bosanski",
+                "Hrvatski",
+                "Srpski",
+                "Drugi jezici",
+                "Nepoznat jezik",
                 ""
               ]
             },
