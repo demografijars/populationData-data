@@ -196,25 +196,14 @@ did_not_give_birth: Нису рађале
 Ethnicity_national_affiliation: Етничка/национална припадност
 Bosnian_and_Herzegovinian: Босанско-херцеговачка
 Religion: Религија
-Islam: Исламска
-Orthodox: Православна
-Catholic: Католичка
-Muslim: Муслиман
-Roman_Catholic: Римокатоличка
-Serbian: Србин
-jehovah_s_witnesses: Јеховини свједоци
-Greek_Catholic: Гркокатоличка
-Protestant: Протестантска
-Romani: Ромска
-Christian: Хришћанска
-Bosniak: Бошњак
-Croat: Хрват
-Adventist: Адвентистичка
-Bosnian: Босанац
-Agnostic: Агностик
-Atheist: Атеист
-Others: Друго
-Undeclared: Неопредијељен
+orthodox: Православац
+catholic: Католик
+muslim: Муслиман
+agnostic: Агностик
+atheist: Атеиста
+other_religion: Друге религије
+unknown_religion: Непозната религија
+does_not_declare: Неопредијељен
 Mother_tongue: Матерњи језик
 Bosnian: Босански
 Serbian: Српски
