@@ -195,25 +195,14 @@ four_children: 4 djece
 Ethnicity_national_affiliation: Etnička/nacionalna pripadnost
 Bosnian_and_Herzegovinian: Bosansko-hercegovačka
 Religion: Religija
-Islam: Islamska
-Orthodox: Pravoslavna
-Catholic: Katolička
-Muslim: Musliman
-Roman_Catholic: Rimokatolička
-Serbian: Srbin
-jehovah_s_witnesses: Jehovini svjedoci
-Greek_Catholic: Grkokatolička
-Protestant: Protestantska
-Romani: Romska
-Christian: Hrišćanska
-Bosniak: Bošnjak
-Croat: Hrvat
-Adventist: Adventistička
-Bosnian: Bosanac
-Agnostic: Agnostik
-Atheist: Ateist
-Others: Drugo
-Undeclared: Neopredijeljen
+orthodox: Pravoslavac
+catholic: Katolik
+muslim: Musliman
+agnostic: Agnostik
+atheist: Ateista
+other_religion: Druga religija
+unknown_religion: Nepoznata religija
+does_not_declare: Neopredijeljen
 Mother_tongue: Maternji jezik
 Bosnian: Bosanski
 Serbian: Srpski
