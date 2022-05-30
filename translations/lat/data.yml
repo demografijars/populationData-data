@@ -430,3 +430,10 @@ public: Javna
 agricultural_households_number: Broj poljoprivrednih domaćinstava
 agricultural_households: Broj domaćinstava koja obavljaju poljoprivrednu aktivnost
 agricultural_selling: Broj domaćinstava koja obavljaju poljoprivrednu aktivnost i prodaju poljoprivredne proizvode na tržištu
+Nationality: Etnička/nacionalna pripadnost
+bosniaks: Bošnjak
+croats: Hrvat
+serbs: Srbin
+other_ethnicity/nationality: Druga etnička/nacionalna pripadnost
+does_not_declare_ethnicity/nationality: Ne izjašnjava se
+unknown_ethnicity/nationality: Nepoznata etnička/nacionalna pripadnost
