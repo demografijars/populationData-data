@@ -290,13 +290,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Agriculture, forestry, fisheries and veterinary medicine",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
                 "Arts and humanities",
                 "Business, administration and law",
                 "Education",
                 "Engineering, manufacturing and construction",
                 "Health and social protection",
-                "information_and_communication_technologie",
+                "Information and communication technologies",
                 "Natural sciences, mathematics and statistics",
                 "Services",
                 "Social sciences, journalism and information",
