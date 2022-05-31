@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Administrative area,Sex,Educational attainment,Value
+Year,UNIT_MEASURE,Administrative area,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Both sexes,No education,58651
 2013,Number,Republika Srpska,M,No education,9370
 2013,Number,Republika Srpska,F,No education,49281
@@ -188,195 +188,195 @@ Year,UNIT_MEASURE,Administrative area,Sex,Educational attainment,Value
 2013,Number,Sipovo,Both sexes,No education,732
 2013,Number,Sipovo,M,No education,120
 2013,Number,Sipovo,F,No education,612
-2013,Number,Republika Srpska,Both sexes,Incomplete primary school,97022
-2013,Number,Republika Srpska,M,Incomplete primary school,33465
-2013,Number,Republika Srpska,F,Incomplete primary school,63557
-2013,Number,City of Banja Luka,Both sexes,Incomplete primary school,6483
-2013,Number,City of Banja Luka,M,Incomplete primary school,2117
-2013,Number,City of Banja Luka,F,Incomplete primary school,4366
-2013,Number,Berkovici,Both sexes,Incomplete primary school,229
-2013,Number,Berkovici,M,Incomplete primary school,74
-2013,Number,Berkovici,F,Incomplete primary school,155
-2013,Number,City of Bijeljina,Both sexes,Incomplete primary school,10740
-2013,Number,City of Bijeljina,M,Incomplete primary school,3999
-2013,Number,City of Bijeljina,F,Incomplete primary school,6741
-2013,Number,Bileca,Both sexes,Incomplete primary school,747
-2013,Number,Bileca,M,Incomplete primary school,187
-2013,Number,Bileca,F,Incomplete primary school,560
-2013,Number,Bratunac,Both sexes,Incomplete primary school,1364
-2013,Number,Bratunac,M,Incomplete primary school,395
-2013,Number,Bratunac,F,Incomplete primary school,969
-2013,Number,Brod,Both sexes,Incomplete primary school,1241
-2013,Number,Brod,M,Incomplete primary school,328
-2013,Number,Brod,F,Incomplete primary school,913
-2013,Number,Visegrad,Both sexes,Incomplete primary school,783
-2013,Number,Visegrad,M,Incomplete primary school,203
-2013,Number,Visegrad,F,Incomplete primary school,580
-2013,Number,Vlasenica,Both sexes,Incomplete primary school,758
-2013,Number,Vlasenica,M,Incomplete primary school,243
-2013,Number,Vlasenica,F,Incomplete primary school,515
-2013,Number,Vukosavlje,Both sexes,Incomplete primary school,719
-2013,Number,Vukosavlje,M,Incomplete primary school,300
-2013,Number,Vukosavlje,F,Incomplete primary school,419
-2013,Number,Gacko,Both sexes,Incomplete primary school,496
-2013,Number,Gacko,M,Incomplete primary school,135
-2013,Number,Gacko,F,Incomplete primary school,361
-2013,Number,City of Gradiska,Both sexes,Incomplete primary school,4821
-2013,Number,City of Gradiska,M,Incomplete primary school,1832
-2013,Number,City of Gradiska,F,Incomplete primary school,2989
-2013,Number,City of Derventa,Both sexes,Incomplete primary school,2759
-2013,Number,City of Derventa,M,Incomplete primary school,1030
-2013,Number,City of Derventa,F,Incomplete primary school,1729
-2013,Number,City of Doboj,Both sexes,Incomplete primary school,6019
-2013,Number,City of Doboj,M,Incomplete primary school,1823
-2013,Number,City of Doboj,F,Incomplete primary school,4196
-2013,Number,Donji Zabar,Both sexes,Incomplete primary school,707
-2013,Number,Donji Zabar,M,Incomplete primary school,304
-2013,Number,Donji Zabar,F,Incomplete primary school,403
-2013,Number,City of Zvornik,Both sexes,Incomplete primary school,4702
-2013,Number,City of Zvornik,M,Incomplete primary school,1472
-2013,Number,City of Zvornik,F,Incomplete primary school,3230
-2013,Number,East Ilidza,Both sexes,Incomplete primary school,550
-2013,Number,East Ilidza,M,Incomplete primary school,65
-2013,Number,East Ilidza,F,Incomplete primary school,485
-2013,Number,East Drvar,Both sexes,Incomplete primary school,6
-2013,Number,East Drvar,M,Incomplete primary school,4
-2013,Number,East Drvar,F,Incomplete primary school,2
-2013,Number,East Mostar,Both sexes,Incomplete primary school,41
-2013,Number,East Mostar,M,Incomplete primary school,21
-2013,Number,East Mostar,F,Incomplete primary school,20
-2013,Number,East Stari Grad,Both sexes,Incomplete primary school,133
-2013,Number,East Stari Grad,M,Incomplete primary school,29
-2013,Number,East Stari Grad,F,Incomplete primary school,104
-2013,Number,East Novo Sarajevo,Both sexes,Incomplete primary school,454
-2013,Number,East Novo Sarajevo,M,Incomplete primary school,89
-2013,Number,East Novo Sarajevo,F,Incomplete primary school,365
-2013,Number,Jezero,Both sexes,Incomplete primary school,105
-2013,Number,Jezero,M,Incomplete primary school,39
-2013,Number,Jezero,F,Incomplete primary school,66
-2013,Number,Kalinovik,Both sexes,Incomplete primary school,175
-2013,Number,Kalinovik,M,Incomplete primary school,48
-2013,Number,Kalinovik,F,Incomplete primary school,127
-2013,Number,Knezevo,Both sexes,Incomplete primary school,752
-2013,Number,Knezevo,M,Incomplete primary school,318
-2013,Number,Knezevo,F,Incomplete primary school,434
-2013,Number,Kozarska Dubica,Both sexes,Incomplete primary school,1894
-2013,Number,Kozarska Dubica,M,Incomplete primary school,683
-2013,Number,Kozarska Dubica,F,Incomplete primary school,1211
-2013,Number,Kostajnica,Both sexes,Incomplete primary school,387
-2013,Number,Kostajnica,M,Incomplete primary school,132
-2013,Number,Kostajnica,F,Incomplete primary school,255
-2013,Number,Kotor Varos,Both sexes,Incomplete primary school,1183
-2013,Number,Kotor Varos,M,Incomplete primary school,391
-2013,Number,Kotor Varos,F,Incomplete primary school,792
-2013,Number,Krupa Na Uni,Both sexes,Incomplete primary school,316
-2013,Number,Krupa Na Uni,M,Incomplete primary school,165
-2013,Number,Krupa Na Uni,F,Incomplete primary school,151
-2013,Number,Kupres,Both sexes,Incomplete primary school,19
-2013,Number,Kupres,M,Incomplete primary school,9
-2013,Number,Kupres,F,Incomplete primary school,10
-2013,Number,Laktasi,Both sexes,Incomplete primary school,2504
-2013,Number,Laktasi,M,Incomplete primary school,946
-2013,Number,Laktasi,F,Incomplete primary school,1558
-2013,Number,Lopare,Both sexes,Incomplete primary school,2118
-2013,Number,Lopare,M,Incomplete primary school,943
-2013,Number,Lopare,F,Incomplete primary school,1175
-2013,Number,Ljubinje,Both sexes,Incomplete primary school,275
-2013,Number,Ljubinje,M,Incomplete primary school,64
-2013,Number,Ljubinje,F,Incomplete primary school,211
-2013,Number,Milici,Both sexes,Incomplete primary school,729
-2013,Number,Milici,M,Incomplete primary school,217
-2013,Number,Milici,F,Incomplete primary school,512
-2013,Number,Modrica,Both sexes,Incomplete primary school,2912
-2013,Number,Modrica,M,Incomplete primary school,1049
-2013,Number,Modrica,F,Incomplete primary school,1863
-2013,Number,Mrkonjic Grad,Both sexes,Incomplete primary school,1769
-2013,Number,Mrkonjic Grad,M,Incomplete primary school,777
-2013,Number,Mrkonjic Grad,F,Incomplete primary school,992
-2013,Number,Nevesinje,Both sexes,Incomplete primary school,1048
-2013,Number,Nevesinje,M,Incomplete primary school,265
-2013,Number,Nevesinje,F,Incomplete primary school,783
-2013,Number,Novi Grad,Both sexes,Incomplete primary school,2172
-2013,Number,Novi Grad,M,Incomplete primary school,757
-2013,Number,Novi Grad,F,Incomplete primary school,1415
-2013,Number,Novo Gorazde,Both sexes,Incomplete primary school,162
-2013,Number,Novo Gorazde,M,Incomplete primary school,52
-2013,Number,Novo Gorazde,F,Incomplete primary school,110
-2013,Number,Osmaci,Both sexes,Incomplete primary school,552
-2013,Number,Osmaci,M,Incomplete primary school,172
-2013,Number,Osmaci,F,Incomplete primary school,380
-2013,Number,Ostra Luka,Both sexes,Incomplete primary school,352
-2013,Number,Ostra Luka,M,Incomplete primary school,154
-2013,Number,Ostra Luka,F,Incomplete primary school,198
-2013,Number,Pale,Both sexes,Incomplete primary school,986
-2013,Number,Pale,M,Incomplete primary school,214
-2013,Number,Pale,F,Incomplete primary school,772
-2013,Number,Pelagicevo,Both sexes,Incomplete primary school,1081
-2013,Number,Pelagicevo,M,Incomplete primary school,459
-2013,Number,Pelagicevo,F,Incomplete primary school,622
-2013,Number,Petrovac,Both sexes,Incomplete primary school,28
-2013,Number,Petrovac,M,Incomplete primary school,4
-2013,Number,Petrovac,F,Incomplete primary school,24
-2013,Number,Petrovo,Both sexes,Incomplete primary school,733
-2013,Number,Petrovo,M,Incomplete primary school,180
-2013,Number,Petrovo,F,Incomplete primary school,553
-2013,Number,City of Prijedor,Both sexes,Incomplete primary school,6219
-2013,Number,City of Prijedor,M,Incomplete primary school,1948
-2013,Number,City of Prijedor,F,Incomplete primary school,4271
-2013,Number,Prnjavor,Both sexes,Incomplete primary school,4458
-2013,Number,Prnjavor,M,Incomplete primary school,1948
-2013,Number,Prnjavor,F,Incomplete primary school,2510
-2013,Number,Ribnik,Both sexes,Incomplete primary school,641
-2013,Number,Ribnik,M,Incomplete primary school,249
-2013,Number,Ribnik,F,Incomplete primary school,392
-2013,Number,Rogatica,Both sexes,Incomplete primary school,799
-2013,Number,Rogatica,M,Incomplete primary school,239
-2013,Number,Rogatica,F,Incomplete primary school,560
-2013,Number,Rudo,Both sexes,Incomplete primary school,719
-2013,Number,Rudo,M,Incomplete primary school,197
-2013,Number,Rudo,F,Incomplete primary school,522
-2013,Number,Sokolac,Both sexes,Incomplete primary school,747
-2013,Number,Sokolac,M,Incomplete primary school,207
-2013,Number,Sokolac,F,Incomplete primary school,540
-2013,Number,Srbac,Both sexes,Incomplete primary school,2023
-2013,Number,Srbac,M,Incomplete primary school,857
-2013,Number,Srbac,F,Incomplete primary school,1166
-2013,Number,Srebrenica,Both sexes,Incomplete primary school,1086
-2013,Number,Srebrenica,M,Incomplete primary school,308
-2013,Number,Srebrenica,F,Incomplete primary school,778
-2013,Number,Teslic,Both sexes,Incomplete primary school,4433
-2013,Number,Teslic,M,Incomplete primary school,1551
-2013,Number,Teslic,F,Incomplete primary school,2882
-2013,Number,City of Trebinje,Both sexes,Incomplete primary school,1156
-2013,Number,City of Trebinje,M,Incomplete primary school,210
-2013,Number,City of Trebinje,F,Incomplete primary school,946
-2013,Number,Trnovo,Both sexes,Incomplete primary school,151
-2013,Number,Trnovo,M,Incomplete primary school,36
-2013,Number,Trnovo,F,Incomplete primary school,115
-2013,Number,Ugljevik,Both sexes,Incomplete primary school,1829
-2013,Number,Ugljevik,M,Incomplete primary school,734
-2013,Number,Ugljevik,F,Incomplete primary school,1095
-2013,Number,Foca,Both sexes,Incomplete primary school,1301
-2013,Number,Foca,M,Incomplete primary school,346
-2013,Number,Foca,F,Incomplete primary school,955
-2013,Number,Han Pijesak,Both sexes,Incomplete primary school,258
-2013,Number,Han Pijesak,M,Incomplete primary school,61
-2013,Number,Han Pijesak,F,Incomplete primary school,197
-2013,Number,Cajnice,Both sexes,Incomplete primary school,474
-2013,Number,Cajnice,M,Incomplete primary school,149
-2013,Number,Cajnice,F,Incomplete primary school,325
-2013,Number,Celinac,Both sexes,Incomplete primary school,1317
-2013,Number,Celinac,M,Incomplete primary school,474
-2013,Number,Celinac,F,Incomplete primary school,843
-2013,Number,Samac,Both sexes,Incomplete primary school,2046
-2013,Number,Samac,M,Incomplete primary school,731
-2013,Number,Samac,F,Incomplete primary school,1315
-2013,Number,Sekovici,Both sexes,Incomplete primary school,453
-2013,Number,Sekovici,M,Incomplete primary school,181
-2013,Number,Sekovici,F,Incomplete primary school,272
-2013,Number,Sipovo,Both sexes,Incomplete primary school,908
-2013,Number,Sipovo,M,Incomplete primary school,351
-2013,Number,Sipovo,F,Incomplete primary school,557
+2013,Number,Republika Srpska,Both sexes,Incomplete primary education,97022
+2013,Number,Republika Srpska,M,Incomplete primary education,33465
+2013,Number,Republika Srpska,F,Incomplete primary education,63557
+2013,Number,City of Banja Luka,Both sexes,Incomplete primary education,6483
+2013,Number,City of Banja Luka,M,Incomplete primary education,2117
+2013,Number,City of Banja Luka,F,Incomplete primary education,4366
+2013,Number,Berkovici,Both sexes,Incomplete primary education,229
+2013,Number,Berkovici,M,Incomplete primary education,74
+2013,Number,Berkovici,F,Incomplete primary education,155
+2013,Number,City of Bijeljina,Both sexes,Incomplete primary education,10740
+2013,Number,City of Bijeljina,M,Incomplete primary education,3999
+2013,Number,City of Bijeljina,F,Incomplete primary education,6741
+2013,Number,Bileca,Both sexes,Incomplete primary education,747
+2013,Number,Bileca,M,Incomplete primary education,187
+2013,Number,Bileca,F,Incomplete primary education,560
+2013,Number,Bratunac,Both sexes,Incomplete primary education,1364
+2013,Number,Bratunac,M,Incomplete primary education,395
+2013,Number,Bratunac,F,Incomplete primary education,969
+2013,Number,Brod,Both sexes,Incomplete primary education,1241
+2013,Number,Brod,M,Incomplete primary education,328
+2013,Number,Brod,F,Incomplete primary education,913
+2013,Number,Visegrad,Both sexes,Incomplete primary education,783
+2013,Number,Visegrad,M,Incomplete primary education,203
+2013,Number,Visegrad,F,Incomplete primary education,580
+2013,Number,Vlasenica,Both sexes,Incomplete primary education,758
+2013,Number,Vlasenica,M,Incomplete primary education,243
+2013,Number,Vlasenica,F,Incomplete primary education,515
+2013,Number,Vukosavlje,Both sexes,Incomplete primary education,719
+2013,Number,Vukosavlje,M,Incomplete primary education,300
+2013,Number,Vukosavlje,F,Incomplete primary education,419
+2013,Number,Gacko,Both sexes,Incomplete primary education,496
+2013,Number,Gacko,M,Incomplete primary education,135
+2013,Number,Gacko,F,Incomplete primary education,361
+2013,Number,City of Gradiska,Both sexes,Incomplete primary education,4821
+2013,Number,City of Gradiska,M,Incomplete primary education,1832
+2013,Number,City of Gradiska,F,Incomplete primary education,2989
+2013,Number,City of Derventa,Both sexes,Incomplete primary education,2759
+2013,Number,City of Derventa,M,Incomplete primary education,1030
+2013,Number,City of Derventa,F,Incomplete primary education,1729
+2013,Number,City of Doboj,Both sexes,Incomplete primary education,6019
+2013,Number,City of Doboj,M,Incomplete primary education,1823
+2013,Number,City of Doboj,F,Incomplete primary education,4196
+2013,Number,Donji Zabar,Both sexes,Incomplete primary education,707
+2013,Number,Donji Zabar,M,Incomplete primary education,304
+2013,Number,Donji Zabar,F,Incomplete primary education,403
+2013,Number,City of Zvornik,Both sexes,Incomplete primary education,4702
+2013,Number,City of Zvornik,M,Incomplete primary education,1472
+2013,Number,City of Zvornik,F,Incomplete primary education,3230
+2013,Number,East Ilidza,Both sexes,Incomplete primary education,550
+2013,Number,East Ilidza,M,Incomplete primary education,65
+2013,Number,East Ilidza,F,Incomplete primary education,485
+2013,Number,East Drvar,Both sexes,Incomplete primary education,6
+2013,Number,East Drvar,M,Incomplete primary education,4
+2013,Number,East Drvar,F,Incomplete primary education,2
+2013,Number,East Mostar,Both sexes,Incomplete primary education,41
+2013,Number,East Mostar,M,Incomplete primary education,21
+2013,Number,East Mostar,F,Incomplete primary education,20
+2013,Number,East Stari Grad,Both sexes,Incomplete primary education,133
+2013,Number,East Stari Grad,M,Incomplete primary education,29
+2013,Number,East Stari Grad,F,Incomplete primary education,104
+2013,Number,East Novo Sarajevo,Both sexes,Incomplete primary education,454
+2013,Number,East Novo Sarajevo,M,Incomplete primary education,89
+2013,Number,East Novo Sarajevo,F,Incomplete primary education,365
+2013,Number,Jezero,Both sexes,Incomplete primary education,105
+2013,Number,Jezero,M,Incomplete primary education,39
+2013,Number,Jezero,F,Incomplete primary education,66
+2013,Number,Kalinovik,Both sexes,Incomplete primary education,175
+2013,Number,Kalinovik,M,Incomplete primary education,48
+2013,Number,Kalinovik,F,Incomplete primary education,127
+2013,Number,Knezevo,Both sexes,Incomplete primary education,752
+2013,Number,Knezevo,M,Incomplete primary education,318
+2013,Number,Knezevo,F,Incomplete primary education,434
+2013,Number,Kozarska Dubica,Both sexes,Incomplete primary education,1894
+2013,Number,Kozarska Dubica,M,Incomplete primary education,683
+2013,Number,Kozarska Dubica,F,Incomplete primary education,1211
+2013,Number,Kostajnica,Both sexes,Incomplete primary education,387
+2013,Number,Kostajnica,M,Incomplete primary education,132
+2013,Number,Kostajnica,F,Incomplete primary education,255
+2013,Number,Kotor Varos,Both sexes,Incomplete primary education,1183
+2013,Number,Kotor Varos,M,Incomplete primary education,391
+2013,Number,Kotor Varos,F,Incomplete primary education,792
+2013,Number,Krupa Na Uni,Both sexes,Incomplete primary education,316
+2013,Number,Krupa Na Uni,M,Incomplete primary education,165
+2013,Number,Krupa Na Uni,F,Incomplete primary education,151
+2013,Number,Kupres,Both sexes,Incomplete primary education,19
+2013,Number,Kupres,M,Incomplete primary education,9
+2013,Number,Kupres,F,Incomplete primary education,10
+2013,Number,Laktasi,Both sexes,Incomplete primary education,2504
+2013,Number,Laktasi,M,Incomplete primary education,946
+2013,Number,Laktasi,F,Incomplete primary education,1558
+2013,Number,Lopare,Both sexes,Incomplete primary education,2118
+2013,Number,Lopare,M,Incomplete primary education,943
+2013,Number,Lopare,F,Incomplete primary education,1175
+2013,Number,Ljubinje,Both sexes,Incomplete primary education,275
+2013,Number,Ljubinje,M,Incomplete primary education,64
+2013,Number,Ljubinje,F,Incomplete primary education,211
+2013,Number,Milici,Both sexes,Incomplete primary education,729
+2013,Number,Milici,M,Incomplete primary education,217
+2013,Number,Milici,F,Incomplete primary education,512
+2013,Number,Modrica,Both sexes,Incomplete primary education,2912
+2013,Number,Modrica,M,Incomplete primary education,1049
+2013,Number,Modrica,F,Incomplete primary education,1863
+2013,Number,Mrkonjic Grad,Both sexes,Incomplete primary education,1769
+2013,Number,Mrkonjic Grad,M,Incomplete primary education,777
+2013,Number,Mrkonjic Grad,F,Incomplete primary education,992
+2013,Number,Nevesinje,Both sexes,Incomplete primary education,1048
+2013,Number,Nevesinje,M,Incomplete primary education,265
+2013,Number,Nevesinje,F,Incomplete primary education,783
+2013,Number,Novi Grad,Both sexes,Incomplete primary education,2172
+2013,Number,Novi Grad,M,Incomplete primary education,757
+2013,Number,Novi Grad,F,Incomplete primary education,1415
+2013,Number,Novo Gorazde,Both sexes,Incomplete primary education,162
+2013,Number,Novo Gorazde,M,Incomplete primary education,52
+2013,Number,Novo Gorazde,F,Incomplete primary education,110
+2013,Number,Osmaci,Both sexes,Incomplete primary education,552
+2013,Number,Osmaci,M,Incomplete primary education,172
+2013,Number,Osmaci,F,Incomplete primary education,380
+2013,Number,Ostra Luka,Both sexes,Incomplete primary education,352
+2013,Number,Ostra Luka,M,Incomplete primary education,154
+2013,Number,Ostra Luka,F,Incomplete primary education,198
+2013,Number,Pale,Both sexes,Incomplete primary education,986
+2013,Number,Pale,M,Incomplete primary education,214
+2013,Number,Pale,F,Incomplete primary education,772
+2013,Number,Pelagicevo,Both sexes,Incomplete primary education,1081
+2013,Number,Pelagicevo,M,Incomplete primary education,459
+2013,Number,Pelagicevo,F,Incomplete primary education,622
+2013,Number,Petrovac,Both sexes,Incomplete primary education,28
+2013,Number,Petrovac,M,Incomplete primary education,4
+2013,Number,Petrovac,F,Incomplete primary education,24
+2013,Number,Petrovo,Both sexes,Incomplete primary education,733
+2013,Number,Petrovo,M,Incomplete primary education,180
+2013,Number,Petrovo,F,Incomplete primary education,553
+2013,Number,City of Prijedor,Both sexes,Incomplete primary education,6219
+2013,Number,City of Prijedor,M,Incomplete primary education,1948
+2013,Number,City of Prijedor,F,Incomplete primary education,4271
+2013,Number,Prnjavor,Both sexes,Incomplete primary education,4458
+2013,Number,Prnjavor,M,Incomplete primary education,1948
+2013,Number,Prnjavor,F,Incomplete primary education,2510
+2013,Number,Ribnik,Both sexes,Incomplete primary education,641
+2013,Number,Ribnik,M,Incomplete primary education,249
+2013,Number,Ribnik,F,Incomplete primary education,392
+2013,Number,Rogatica,Both sexes,Incomplete primary education,799
+2013,Number,Rogatica,M,Incomplete primary education,239
+2013,Number,Rogatica,F,Incomplete primary education,560
+2013,Number,Rudo,Both sexes,Incomplete primary education,719
+2013,Number,Rudo,M,Incomplete primary education,197
+2013,Number,Rudo,F,Incomplete primary education,522
+2013,Number,Sokolac,Both sexes,Incomplete primary education,747
+2013,Number,Sokolac,M,Incomplete primary education,207
+2013,Number,Sokolac,F,Incomplete primary education,540
+2013,Number,Srbac,Both sexes,Incomplete primary education,2023
+2013,Number,Srbac,M,Incomplete primary education,857
+2013,Number,Srbac,F,Incomplete primary education,1166
+2013,Number,Srebrenica,Both sexes,Incomplete primary education,1086
+2013,Number,Srebrenica,M,Incomplete primary education,308
+2013,Number,Srebrenica,F,Incomplete primary education,778
+2013,Number,Teslic,Both sexes,Incomplete primary education,4433
+2013,Number,Teslic,M,Incomplete primary education,1551
+2013,Number,Teslic,F,Incomplete primary education,2882
+2013,Number,City of Trebinje,Both sexes,Incomplete primary education,1156
+2013,Number,City of Trebinje,M,Incomplete primary education,210
+2013,Number,City of Trebinje,F,Incomplete primary education,946
+2013,Number,Trnovo,Both sexes,Incomplete primary education,151
+2013,Number,Trnovo,M,Incomplete primary education,36
+2013,Number,Trnovo,F,Incomplete primary education,115
+2013,Number,Ugljevik,Both sexes,Incomplete primary education,1829
+2013,Number,Ugljevik,M,Incomplete primary education,734
+2013,Number,Ugljevik,F,Incomplete primary education,1095
+2013,Number,Foca,Both sexes,Incomplete primary education,1301
+2013,Number,Foca,M,Incomplete primary education,346
+2013,Number,Foca,F,Incomplete primary education,955
+2013,Number,Han Pijesak,Both sexes,Incomplete primary education,258
+2013,Number,Han Pijesak,M,Incomplete primary education,61
+2013,Number,Han Pijesak,F,Incomplete primary education,197
+2013,Number,Cajnice,Both sexes,Incomplete primary education,474
+2013,Number,Cajnice,M,Incomplete primary education,149
+2013,Number,Cajnice,F,Incomplete primary education,325
+2013,Number,Celinac,Both sexes,Incomplete primary education,1317
+2013,Number,Celinac,M,Incomplete primary education,474
+2013,Number,Celinac,F,Incomplete primary education,843
+2013,Number,Samac,Both sexes,Incomplete primary education,2046
+2013,Number,Samac,M,Incomplete primary education,731
+2013,Number,Samac,F,Incomplete primary education,1315
+2013,Number,Sekovici,Both sexes,Incomplete primary education,453
+2013,Number,Sekovici,M,Incomplete primary education,181
+2013,Number,Sekovici,F,Incomplete primary education,272
+2013,Number,Sipovo,Both sexes,Incomplete primary education,908
+2013,Number,Sipovo,M,Incomplete primary education,351
+2013,Number,Sipovo,F,Incomplete primary education,557
 2013,Number,Republika Srpska,Both sexes,Primary school,212834
 2013,Number,Republika Srpska,M,Primary school,95682
 2013,Number,Republika Srpska,F,Primary school,117152
@@ -944,381 +944,381 @@ Year,UNIT_MEASURE,Administrative area,Sex,Educational attainment,Value
 2013,Number,Sipovo,Both sexes,Secondary specialization,22
 2013,Number,Sipovo,M,Secondary specialization,20
 2013,Number,Sipovo,F,Secondary specialization,2
-2013,Number,Republika Srpska,Both sexes,Higher school,33960
-2013,Number,Republika Srpska,M,Higher school,19142
-2013,Number,Republika Srpska,F,Higher school,14818
-2013,Number,City of Banja Luka,Both sexes,Higher school,7972
-2013,Number,City of Banja Luka,M,Higher school,4272
-2013,Number,City of Banja Luka,F,Higher school,3700
-2013,Number,Berkovici,Both sexes,Higher school,47
-2013,Number,Berkovici,M,Higher school,34
-2013,Number,Berkovici,F,Higher school,13
-2013,Number,City of Bijeljina,Both sexes,Higher school,3354
-2013,Number,City of Bijeljina,M,Higher school,1805
-2013,Number,City of Bijeljina,F,Higher school,1549
-2013,Number,Bileca,Both sexes,Higher school,434
-2013,Number,Bileca,M,Higher school,249
-2013,Number,Bileca,F,Higher school,185
-2013,Number,Bratunac,Both sexes,Higher school,399
-2013,Number,Bratunac,M,Higher school,230
-2013,Number,Bratunac,F,Higher school,169
-2013,Number,Brod,Both sexes,Higher school,374
-2013,Number,Brod,M,Higher school,215
-2013,Number,Brod,F,Higher school,159
-2013,Number,Visegrad,Both sexes,Higher school,375
-2013,Number,Visegrad,M,Higher school,196
-2013,Number,Visegrad,F,Higher school,179
-2013,Number,Vlasenica,Both sexes,Higher school,200
-2013,Number,Vlasenica,M,Higher school,123
-2013,Number,Vlasenica,F,Higher school,77
-2013,Number,Vukosavlje,Both sexes,Higher school,39
-2013,Number,Vukosavlje,M,Higher school,25
-2013,Number,Vukosavlje,F,Higher school,14
-2013,Number,Gacko,Both sexes,Higher school,335
-2013,Number,Gacko,M,Higher school,191
-2013,Number,Gacko,F,Higher school,144
-2013,Number,City of Gradiska,Both sexes,Higher school,1222
-2013,Number,City of Gradiska,M,Higher school,658
-2013,Number,City of Gradiska,F,Higher school,564
-2013,Number,City of Derventa,Both sexes,Higher school,542
-2013,Number,City of Derventa,M,Higher school,331
-2013,Number,City of Derventa,F,Higher school,211
-2013,Number,City of Doboj,Both sexes,Higher school,1827
-2013,Number,City of Doboj,M,Higher school,1078
-2013,Number,City of Doboj,F,Higher school,749
-2013,Number,Donji Zabar,Both sexes,Higher school,37
-2013,Number,Donji Zabar,M,Higher school,23
-2013,Number,Donji Zabar,F,Higher school,14
-2013,Number,City of Zvornik,Both sexes,Higher school,1283
-2013,Number,City of Zvornik,M,Higher school,716
-2013,Number,City of Zvornik,F,Higher school,567
-2013,Number,East Ilidza,Both sexes,Higher school,513
-2013,Number,East Ilidza,M,Higher school,315
-2013,Number,East Ilidza,F,Higher school,198
-2013,Number,East Drvar,Both sexes,Higher school,5
-2013,Number,East Drvar,M,Higher school,5
-2013,Number,East Drvar,F,Higher school,0
-2013,Number,East Mostar,Both sexes,Higher school,2
-2013,Number,East Mostar,M,Higher school,2
-2013,Number,East Mostar,F,Higher school,0
-2013,Number,East Stari Grad,Both sexes,Higher school,27
-2013,Number,East Stari Grad,M,Higher school,14
-2013,Number,East Stari Grad,F,Higher school,13
-2013,Number,East Novo Sarajevo,Both sexes,Higher school,375
-2013,Number,East Novo Sarajevo,M,Higher school,225
-2013,Number,East Novo Sarajevo,F,Higher school,150
-2013,Number,Jezero,Both sexes,Higher school,16
-2013,Number,Jezero,M,Higher school,10
-2013,Number,Jezero,F,Higher school,6
-2013,Number,Kalinovik,Both sexes,Higher school,58
-2013,Number,Kalinovik,M,Higher school,41
-2013,Number,Kalinovik,F,Higher school,17
-2013,Number,Knezevo,Both sexes,Higher school,125
-2013,Number,Knezevo,M,Higher school,93
-2013,Number,Knezevo,F,Higher school,32
-2013,Number,Kozarska Dubica,Both sexes,Higher school,644
-2013,Number,Kozarska Dubica,M,Higher school,345
-2013,Number,Kozarska Dubica,F,Higher school,299
-2013,Number,Kostajnica,Both sexes,Higher school,206
-2013,Number,Kostajnica,M,Higher school,94
-2013,Number,Kostajnica,F,Higher school,112
-2013,Number,Kotor Varos,Both sexes,Higher school,225
-2013,Number,Kotor Varos,M,Higher school,144
-2013,Number,Kotor Varos,F,Higher school,81
-2013,Number,Krupa Na Uni,Both sexes,Higher school,11
-2013,Number,Krupa Na Uni,M,Higher school,6
-2013,Number,Krupa Na Uni,F,Higher school,5
-2013,Number,Kupres,Both sexes,Higher school,2
-2013,Number,Kupres,M,Higher school,2
-2013,Number,Kupres,F,Higher school,0
-2013,Number,Laktasi,Both sexes,Higher school,822
-2013,Number,Laktasi,M,Higher school,462
-2013,Number,Laktasi,F,Higher school,360
-2013,Number,Lopare,Both sexes,Higher school,217
-2013,Number,Lopare,M,Higher school,133
-2013,Number,Lopare,F,Higher school,84
-2013,Number,Ljubinje,Both sexes,Higher school,126
-2013,Number,Ljubinje,M,Higher school,69
-2013,Number,Ljubinje,F,Higher school,57
-2013,Number,Milici,Both sexes,Higher school,213
-2013,Number,Milici,M,Higher school,113
-2013,Number,Milici,F,Higher school,100
-2013,Number,Modrica,Both sexes,Higher school,483
-2013,Number,Modrica,M,Higher school,303
-2013,Number,Modrica,F,Higher school,180
-2013,Number,Mrkonjic Grad,Both sexes,Higher school,350
-2013,Number,Mrkonjic Grad,M,Higher school,204
-2013,Number,Mrkonjic Grad,F,Higher school,146
-2013,Number,Nevesinje,Both sexes,Higher school,384
-2013,Number,Nevesinje,M,Higher school,236
-2013,Number,Nevesinje,F,Higher school,148
-2013,Number,Novi Grad,Both sexes,Higher school,714
-2013,Number,Novi Grad,M,Higher school,366
-2013,Number,Novi Grad,F,Higher school,348
-2013,Number,Novo Gorazde,Both sexes,Higher school,48
-2013,Number,Novo Gorazde,M,Higher school,39
-2013,Number,Novo Gorazde,F,Higher school,9
-2013,Number,Osmaci,Both sexes,Higher school,65
-2013,Number,Osmaci,M,Higher school,48
-2013,Number,Osmaci,F,Higher school,17
-2013,Number,Ostra Luka,Both sexes,Higher school,36
-2013,Number,Ostra Luka,M,Higher school,16
-2013,Number,Ostra Luka,F,Higher school,20
-2013,Number,Pale,Both sexes,Higher school,645
-2013,Number,Pale,M,Higher school,389
-2013,Number,Pale,F,Higher school,256
-2013,Number,Pelagicevo,Both sexes,Higher school,81
-2013,Number,Pelagicevo,M,Higher school,44
-2013,Number,Pelagicevo,F,Higher school,37
-2013,Number,Petrovac,Both sexes,Higher school,11
-2013,Number,Petrovac,M,Higher school,6
-2013,Number,Petrovac,F,Higher school,5
-2013,Number,Petrovo,Both sexes,Higher school,166
-2013,Number,Petrovo,M,Higher school,109
-2013,Number,Petrovo,F,Higher school,57
-2013,Number,City of Prijedor,Both sexes,Higher school,2448
-2013,Number,City of Prijedor,M,Higher school,1252
-2013,Number,City of Prijedor,F,Higher school,1196
-2013,Number,Prnjavor,Both sexes,Higher school,670
-2013,Number,Prnjavor,M,Higher school,388
-2013,Number,Prnjavor,F,Higher school,282
-2013,Number,Ribnik,Both sexes,Higher school,99
-2013,Number,Ribnik,M,Higher school,68
-2013,Number,Ribnik,F,Higher school,31
-2013,Number,Rogatica,Both sexes,Higher school,315
-2013,Number,Rogatica,M,Higher school,209
-2013,Number,Rogatica,F,Higher school,106
-2013,Number,Rudo,Both sexes,Higher school,277
-2013,Number,Rudo,M,Higher school,175
-2013,Number,Rudo,F,Higher school,102
-2013,Number,Sokolac,Both sexes,Higher school,393
-2013,Number,Sokolac,M,Higher school,237
-2013,Number,Sokolac,F,Higher school,156
-2013,Number,Srbac,Both sexes,Higher school,342
-2013,Number,Srbac,M,Higher school,232
-2013,Number,Srbac,F,Higher school,110
-2013,Number,Srebrenica,Both sexes,Higher school,290
-2013,Number,Srebrenica,M,Higher school,171
-2013,Number,Srebrenica,F,Higher school,119
-2013,Number,Teslic,Both sexes,Higher school,577
-2013,Number,Teslic,M,Higher school,335
-2013,Number,Teslic,F,Higher school,242
-2013,Number,City of Trebinje,Both sexes,Higher school,1442
-2013,Number,City of Trebinje,M,Higher school,806
-2013,Number,City of Trebinje,F,Higher school,636
-2013,Number,Trnovo,Both sexes,Higher school,52
-2013,Number,Trnovo,M,Higher school,37
-2013,Number,Trnovo,F,Higher school,15
-2013,Number,Ugljevik,Both sexes,Higher school,252
-2013,Number,Ugljevik,M,Higher school,156
-2013,Number,Ugljevik,F,Higher school,96
-2013,Number,Foca,Both sexes,Higher school,510
-2013,Number,Foca,M,Higher school,334
-2013,Number,Foca,F,Higher school,176
-2013,Number,Han Pijesak,Both sexes,Higher school,110
-2013,Number,Han Pijesak,M,Higher school,67
-2013,Number,Han Pijesak,F,Higher school,43
-2013,Number,Cajnice,Both sexes,Higher school,75
-2013,Number,Cajnice,M,Higher school,48
-2013,Number,Cajnice,F,Higher school,27
-2013,Number,Celinac,Both sexes,Higher school,293
-2013,Number,Celinac,M,Higher school,186
-2013,Number,Celinac,F,Higher school,107
-2013,Number,Samac,Both sexes,Higher school,478
-2013,Number,Samac,M,Higher school,265
-2013,Number,Samac,F,Higher school,213
-2013,Number,Sekovici,Both sexes,Higher school,136
-2013,Number,Sekovici,M,Higher school,76
-2013,Number,Sekovici,F,Higher school,60
-2013,Number,Sipovo,Both sexes,Higher school,191
-2013,Number,Sipovo,M,Higher school,121
-2013,Number,Sipovo,F,Higher school,70
-2013,Number,Republika Srpska,Both sexes,University,87036
-2013,Number,Republika Srpska,M,University,42562
-2013,Number,Republika Srpska,F,University,44474
-2013,Number,City of Banja Luka,Both sexes,University,25924
-2013,Number,City of Banja Luka,M,University,12201
-2013,Number,City of Banja Luka,F,University,13723
-2013,Number,Berkovici,Both sexes,University,92
-2013,Number,Berkovici,M,University,51
-2013,Number,Berkovici,F,University,41
-2013,Number,City of Bijeljina,Both sexes,University,8088
-2013,Number,City of Bijeljina,M,University,3846
-2013,Number,City of Bijeljina,F,University,4242
-2013,Number,Bileca,Both sexes,University,791
-2013,Number,Bileca,M,University,443
-2013,Number,Bileca,F,University,348
-2013,Number,Bratunac,Both sexes,University,1014
-2013,Number,Bratunac,M,University,515
-2013,Number,Bratunac,F,University,499
-2013,Number,Brod,Both sexes,University,801
-2013,Number,Brod,M,University,389
-2013,Number,Brod,F,University,412
-2013,Number,Visegrad,Both sexes,University,818
-2013,Number,Visegrad,M,University,410
-2013,Number,Visegrad,F,University,408
-2013,Number,Vlasenica,Both sexes,University,641
-2013,Number,Vlasenica,M,University,316
-2013,Number,Vlasenica,F,University,325
-2013,Number,Vukosavlje,Both sexes,University,97
-2013,Number,Vukosavlje,M,University,55
-2013,Number,Vukosavlje,F,University,42
-2013,Number,Gacko,Both sexes,University,812
-2013,Number,Gacko,M,University,413
-2013,Number,Gacko,F,University,399
-2013,Number,City of Gradiska,Both sexes,University,2538
-2013,Number,City of Gradiska,M,University,1270
-2013,Number,City of Gradiska,F,University,1268
-2013,Number,City of Derventa,Both sexes,University,1242
-2013,Number,City of Derventa,M,University,598
-2013,Number,City of Derventa,F,University,644
-2013,Number,City of Doboj,Both sexes,University,4634
-2013,Number,City of Doboj,M,University,2420
-2013,Number,City of Doboj,F,University,2214
-2013,Number,Donji Zabar,Both sexes,University,100
-2013,Number,Donji Zabar,M,University,59
-2013,Number,Donji Zabar,F,University,41
-2013,Number,City of Zvornik,Both sexes,University,2964
-2013,Number,City of Zvornik,M,University,1529
-2013,Number,City of Zvornik,F,University,1435
-2013,Number,East Ilidza,Both sexes,University,1844
-2013,Number,East Ilidza,M,University,802
-2013,Number,East Ilidza,F,University,1042
-2013,Number,East Drvar,Both sexes,University,10
-2013,Number,East Drvar,M,University,8
-2013,Number,East Drvar,F,University,2
-2013,Number,East Mostar,Both sexes,University,14
-2013,Number,East Mostar,M,University,7
-2013,Number,East Mostar,F,University,7
-2013,Number,East Stari Grad,Both sexes,University,53
-2013,Number,East Stari Grad,M,University,21
-2013,Number,East Stari Grad,F,University,32
-2013,Number,East Novo Sarajevo,Both sexes,University,1563
-2013,Number,East Novo Sarajevo,M,University,745
-2013,Number,East Novo Sarajevo,F,University,818
-2013,Number,Jezero,Both sexes,University,30
-2013,Number,Jezero,M,University,19
-2013,Number,Jezero,F,University,11
-2013,Number,Kalinovik,Both sexes,University,147
-2013,Number,Kalinovik,M,University,85
-2013,Number,Kalinovik,F,University,62
-2013,Number,Knezevo,Both sexes,University,334
-2013,Number,Knezevo,M,University,188
-2013,Number,Knezevo,F,University,146
-2013,Number,Kozarska Dubica,Both sexes,University,999
-2013,Number,Kozarska Dubica,M,University,501
-2013,Number,Kozarska Dubica,F,University,498
-2013,Number,Kostajnica,Both sexes,University,281
-2013,Number,Kostajnica,M,University,134
-2013,Number,Kostajnica,F,University,147
-2013,Number,Kotor Varos,Both sexes,University,767
-2013,Number,Kotor Varos,M,University,408
-2013,Number,Kotor Varos,F,University,359
-2013,Number,Krupa Na Uni,Both sexes,University,13
-2013,Number,Krupa Na Uni,M,University,7
-2013,Number,Krupa Na Uni,F,University,6
-2013,Number,Kupres,Both sexes,University,4
-2013,Number,Kupres,M,University,3
-2013,Number,Kupres,F,University,1
-2013,Number,Laktasi,Both sexes,University,1729
-2013,Number,Laktasi,M,University,829
-2013,Number,Laktasi,F,University,900
-2013,Number,Lopare,Both sexes,University,560
-2013,Number,Lopare,M,University,264
-2013,Number,Lopare,F,University,296
-2013,Number,Ljubinje,Both sexes,University,255
-2013,Number,Ljubinje,M,University,145
-2013,Number,Ljubinje,F,University,110
-2013,Number,Milici,Both sexes,University,573
-2013,Number,Milici,M,University,295
-2013,Number,Milici,F,University,278
-2013,Number,Modrica,Both sexes,University,1186
-2013,Number,Modrica,M,University,605
-2013,Number,Modrica,F,University,581
-2013,Number,Mrkonjic Grad,Both sexes,University,832
-2013,Number,Mrkonjic Grad,M,University,410
-2013,Number,Mrkonjic Grad,F,University,422
-2013,Number,Nevesinje,Both sexes,University,856
-2013,Number,Nevesinje,M,University,459
-2013,Number,Nevesinje,F,University,397
-2013,Number,Novi Grad,Both sexes,University,1243
-2013,Number,Novi Grad,M,University,602
-2013,Number,Novi Grad,F,University,641
-2013,Number,Novo Gorazde,Both sexes,University,145
-2013,Number,Novo Gorazde,M,University,71
-2013,Number,Novo Gorazde,F,University,74
-2013,Number,Osmaci,Both sexes,University,235
-2013,Number,Osmaci,M,University,148
-2013,Number,Osmaci,F,University,87
-2013,Number,Ostra Luka,Both sexes,University,55
-2013,Number,Ostra Luka,M,University,24
-2013,Number,Ostra Luka,F,University,31
-2013,Number,Pale,Both sexes,University,2538
-2013,Number,Pale,M,University,1148
-2013,Number,Pale,F,University,1390
-2013,Number,Pelagicevo,Both sexes,University,94
-2013,Number,Pelagicevo,M,University,53
-2013,Number,Pelagicevo,F,University,41
-2013,Number,Petrovac,Both sexes,University,26
-2013,Number,Petrovac,M,University,13
-2013,Number,Petrovac,F,University,13
-2013,Number,Petrovo,Both sexes,University,259
-2013,Number,Petrovo,M,University,134
-2013,Number,Petrovo,F,University,125
-2013,Number,City of Prijedor,Both sexes,University,4646
-2013,Number,City of Prijedor,M,University,2220
-2013,Number,City of Prijedor,F,University,2426
-2013,Number,Prnjavor,Both sexes,University,1336
-2013,Number,Prnjavor,M,University,627
-2013,Number,Prnjavor,F,University,709
-2013,Number,Ribnik,Both sexes,University,195
-2013,Number,Ribnik,M,University,108
-2013,Number,Ribnik,F,University,87
-2013,Number,Rogatica,Both sexes,University,702
-2013,Number,Rogatica,M,University,354
-2013,Number,Rogatica,F,University,348
-2013,Number,Rudo,Both sexes,University,454
-2013,Number,Rudo,M,University,232
-2013,Number,Rudo,F,University,222
-2013,Number,Sokolac,Both sexes,University,1113
-2013,Number,Sokolac,M,University,529
-2013,Number,Sokolac,F,University,584
-2013,Number,Srbac,Both sexes,University,798
-2013,Number,Srbac,M,University,410
-2013,Number,Srbac,F,University,388
-2013,Number,Srebrenica,Both sexes,University,741
-2013,Number,Srebrenica,M,University,395
-2013,Number,Srebrenica,F,University,346
-2013,Number,Teslic,Both sexes,University,1351
-2013,Number,Teslic,M,University,689
-2013,Number,Teslic,F,University,662
-2013,Number,City of Trebinje,Both sexes,University,3262
-2013,Number,City of Trebinje,M,University,1642
-2013,Number,City of Trebinje,F,University,1620
-2013,Number,Trnovo,Both sexes,University,139
-2013,Number,Trnovo,M,University,66
-2013,Number,Trnovo,F,University,73
-2013,Number,Ugljevik,Both sexes,University,903
-2013,Number,Ugljevik,M,University,443
-2013,Number,Ugljevik,F,University,460
-2013,Number,Foca,Both sexes,University,1422
-2013,Number,Foca,M,University,757
-2013,Number,Foca,F,University,665
-2013,Number,Han Pijesak,Both sexes,University,274
-2013,Number,Han Pijesak,M,University,138
-2013,Number,Han Pijesak,F,University,136
-2013,Number,Cajnice,Both sexes,University,280
-2013,Number,Cajnice,M,University,152
-2013,Number,Cajnice,F,University,128
-2013,Number,Celinac,Both sexes,University,618
-2013,Number,Celinac,M,University,290
-2013,Number,Celinac,F,University,328
-2013,Number,Samac,Both sexes,University,911
-2013,Number,Samac,M,University,494
-2013,Number,Samac,F,University,417
-2013,Number,Sekovici,Both sexes,University,267
-2013,Number,Sekovici,M,University,144
-2013,Number,Sekovici,F,University,123
-2013,Number,Sipovo,Both sexes,University,423
-2013,Number,Sipovo,M,University,229
-2013,Number,Sipovo,F,University,194
+2013,Number,Republika Srpska,Both sexes,Higher school and first degree of faculty,33960
+2013,Number,Republika Srpska,M,Higher school and first degree of faculty,19142
+2013,Number,Republika Srpska,F,Higher school and first degree of faculty,14818
+2013,Number,City of Banja Luka,Both sexes,Higher school and first degree of faculty,7972
+2013,Number,City of Banja Luka,M,Higher school and first degree of faculty,4272
+2013,Number,City of Banja Luka,F,Higher school and first degree of faculty,3700
+2013,Number,Berkovici,Both sexes,Higher school and first degree of faculty,47
+2013,Number,Berkovici,M,Higher school and first degree of faculty,34
+2013,Number,Berkovici,F,Higher school and first degree of faculty,13
+2013,Number,City of Bijeljina,Both sexes,Higher school and first degree of faculty,3354
+2013,Number,City of Bijeljina,M,Higher school and first degree of faculty,1805
+2013,Number,City of Bijeljina,F,Higher school and first degree of faculty,1549
+2013,Number,Bileca,Both sexes,Higher school and first degree of faculty,434
+2013,Number,Bileca,M,Higher school and first degree of faculty,249
+2013,Number,Bileca,F,Higher school and first degree of faculty,185
+2013,Number,Bratunac,Both sexes,Higher school and first degree of faculty,399
+2013,Number,Bratunac,M,Higher school and first degree of faculty,230
+2013,Number,Bratunac,F,Higher school and first degree of faculty,169
+2013,Number,Brod,Both sexes,Higher school and first degree of faculty,374
+2013,Number,Brod,M,Higher school and first degree of faculty,215
+2013,Number,Brod,F,Higher school and first degree of faculty,159
+2013,Number,Visegrad,Both sexes,Higher school and first degree of faculty,375
+2013,Number,Visegrad,M,Higher school and first degree of faculty,196
+2013,Number,Visegrad,F,Higher school and first degree of faculty,179
+2013,Number,Vlasenica,Both sexes,Higher school and first degree of faculty,200
+2013,Number,Vlasenica,M,Higher school and first degree of faculty,123
+2013,Number,Vlasenica,F,Higher school and first degree of faculty,77
+2013,Number,Vukosavlje,Both sexes,Higher school and first degree of faculty,39
+2013,Number,Vukosavlje,M,Higher school and first degree of faculty,25
+2013,Number,Vukosavlje,F,Higher school and first degree of faculty,14
+2013,Number,Gacko,Both sexes,Higher school and first degree of faculty,335
+2013,Number,Gacko,M,Higher school and first degree of faculty,191
+2013,Number,Gacko,F,Higher school and first degree of faculty,144
+2013,Number,City of Gradiska,Both sexes,Higher school and first degree of faculty,1222
+2013,Number,City of Gradiska,M,Higher school and first degree of faculty,658
+2013,Number,City of Gradiska,F,Higher school and first degree of faculty,564
+2013,Number,City of Derventa,Both sexes,Higher school and first degree of faculty,542
+2013,Number,City of Derventa,M,Higher school and first degree of faculty,331
+2013,Number,City of Derventa,F,Higher school and first degree of faculty,211
+2013,Number,City of Doboj,Both sexes,Higher school and first degree of faculty,1827
+2013,Number,City of Doboj,M,Higher school and first degree of faculty,1078
+2013,Number,City of Doboj,F,Higher school and first degree of faculty,749
+2013,Number,Donji Zabar,Both sexes,Higher school and first degree of faculty,37
+2013,Number,Donji Zabar,M,Higher school and first degree of faculty,23
+2013,Number,Donji Zabar,F,Higher school and first degree of faculty,14
+2013,Number,City of Zvornik,Both sexes,Higher school and first degree of faculty,1283
+2013,Number,City of Zvornik,M,Higher school and first degree of faculty,716
+2013,Number,City of Zvornik,F,Higher school and first degree of faculty,567
+2013,Number,East Ilidza,Both sexes,Higher school and first degree of faculty,513
+2013,Number,East Ilidza,M,Higher school and first degree of faculty,315
+2013,Number,East Ilidza,F,Higher school and first degree of faculty,198
+2013,Number,East Drvar,Both sexes,Higher school and first degree of faculty,5
+2013,Number,East Drvar,M,Higher school and first degree of faculty,5
+2013,Number,East Drvar,F,Higher school and first degree of faculty,0
+2013,Number,East Mostar,Both sexes,Higher school and first degree of faculty,2
+2013,Number,East Mostar,M,Higher school and first degree of faculty,2
+2013,Number,East Mostar,F,Higher school and first degree of faculty,0
+2013,Number,East Stari Grad,Both sexes,Higher school and first degree of faculty,27
+2013,Number,East Stari Grad,M,Higher school and first degree of faculty,14
+2013,Number,East Stari Grad,F,Higher school and first degree of faculty,13
+2013,Number,East Novo Sarajevo,Both sexes,Higher school and first degree of faculty,375
+2013,Number,East Novo Sarajevo,M,Higher school and first degree of faculty,225
+2013,Number,East Novo Sarajevo,F,Higher school and first degree of faculty,150
+2013,Number,Jezero,Both sexes,Higher school and first degree of faculty,16
+2013,Number,Jezero,M,Higher school and first degree of faculty,10
+2013,Number,Jezero,F,Higher school and first degree of faculty,6
+2013,Number,Kalinovik,Both sexes,Higher school and first degree of faculty,58
+2013,Number,Kalinovik,M,Higher school and first degree of faculty,41
+2013,Number,Kalinovik,F,Higher school and first degree of faculty,17
+2013,Number,Knezevo,Both sexes,Higher school and first degree of faculty,125
+2013,Number,Knezevo,M,Higher school and first degree of faculty,93
+2013,Number,Knezevo,F,Higher school and first degree of faculty,32
+2013,Number,Kozarska Dubica,Both sexes,Higher school and first degree of faculty,644
+2013,Number,Kozarska Dubica,M,Higher school and first degree of faculty,345
+2013,Number,Kozarska Dubica,F,Higher school and first degree of faculty,299
+2013,Number,Kostajnica,Both sexes,Higher school and first degree of faculty,206
+2013,Number,Kostajnica,M,Higher school and first degree of faculty,94
+2013,Number,Kostajnica,F,Higher school and first degree of faculty,112
+2013,Number,Kotor Varos,Both sexes,Higher school and first degree of faculty,225
+2013,Number,Kotor Varos,M,Higher school and first degree of faculty,144
+2013,Number,Kotor Varos,F,Higher school and first degree of faculty,81
+2013,Number,Krupa Na Uni,Both sexes,Higher school and first degree of faculty,11
+2013,Number,Krupa Na Uni,M,Higher school and first degree of faculty,6
+2013,Number,Krupa Na Uni,F,Higher school and first degree of faculty,5
+2013,Number,Kupres,Both sexes,Higher school and first degree of faculty,2
+2013,Number,Kupres,M,Higher school and first degree of faculty,2
+2013,Number,Kupres,F,Higher school and first degree of faculty,0
+2013,Number,Laktasi,Both sexes,Higher school and first degree of faculty,822
+2013,Number,Laktasi,M,Higher school and first degree of faculty,462
+2013,Number,Laktasi,F,Higher school and first degree of faculty,360
+2013,Number,Lopare,Both sexes,Higher school and first degree of faculty,217
+2013,Number,Lopare,M,Higher school and first degree of faculty,133
+2013,Number,Lopare,F,Higher school and first degree of faculty,84
+2013,Number,Ljubinje,Both sexes,Higher school and first degree of faculty,126
+2013,Number,Ljubinje,M,Higher school and first degree of faculty,69
+2013,Number,Ljubinje,F,Higher school and first degree of faculty,57
+2013,Number,Milici,Both sexes,Higher school and first degree of faculty,213
+2013,Number,Milici,M,Higher school and first degree of faculty,113
+2013,Number,Milici,F,Higher school and first degree of faculty,100
+2013,Number,Modrica,Both sexes,Higher school and first degree of faculty,483
+2013,Number,Modrica,M,Higher school and first degree of faculty,303
+2013,Number,Modrica,F,Higher school and first degree of faculty,180
+2013,Number,Mrkonjic Grad,Both sexes,Higher school and first degree of faculty,350
+2013,Number,Mrkonjic Grad,M,Higher school and first degree of faculty,204
+2013,Number,Mrkonjic Grad,F,Higher school and first degree of faculty,146
+2013,Number,Nevesinje,Both sexes,Higher school and first degree of faculty,384
+2013,Number,Nevesinje,M,Higher school and first degree of faculty,236
+2013,Number,Nevesinje,F,Higher school and first degree of faculty,148
+2013,Number,Novi Grad,Both sexes,Higher school and first degree of faculty,714
+2013,Number,Novi Grad,M,Higher school and first degree of faculty,366
+2013,Number,Novi Grad,F,Higher school and first degree of faculty,348
+2013,Number,Novo Gorazde,Both sexes,Higher school and first degree of faculty,48
+2013,Number,Novo Gorazde,M,Higher school and first degree of faculty,39
+2013,Number,Novo Gorazde,F,Higher school and first degree of faculty,9
+2013,Number,Osmaci,Both sexes,Higher school and first degree of faculty,65
+2013,Number,Osmaci,M,Higher school and first degree of faculty,48
+2013,Number,Osmaci,F,Higher school and first degree of faculty,17
+2013,Number,Ostra Luka,Both sexes,Higher school and first degree of faculty,36
+2013,Number,Ostra Luka,M,Higher school and first degree of faculty,16
+2013,Number,Ostra Luka,F,Higher school and first degree of faculty,20
+2013,Number,Pale,Both sexes,Higher school and first degree of faculty,645
+2013,Number,Pale,M,Higher school and first degree of faculty,389
+2013,Number,Pale,F,Higher school and first degree of faculty,256
+2013,Number,Pelagicevo,Both sexes,Higher school and first degree of faculty,81
+2013,Number,Pelagicevo,M,Higher school and first degree of faculty,44
+2013,Number,Pelagicevo,F,Higher school and first degree of faculty,37
+2013,Number,Petrovac,Both sexes,Higher school and first degree of faculty,11
+2013,Number,Petrovac,M,Higher school and first degree of faculty,6
+2013,Number,Petrovac,F,Higher school and first degree of faculty,5
+2013,Number,Petrovo,Both sexes,Higher school and first degree of faculty,166
+2013,Number,Petrovo,M,Higher school and first degree of faculty,109
+2013,Number,Petrovo,F,Higher school and first degree of faculty,57
+2013,Number,City of Prijedor,Both sexes,Higher school and first degree of faculty,2448
+2013,Number,City of Prijedor,M,Higher school and first degree of faculty,1252
+2013,Number,City of Prijedor,F,Higher school and first degree of faculty,1196
+2013,Number,Prnjavor,Both sexes,Higher school and first degree of faculty,670
+2013,Number,Prnjavor,M,Higher school and first degree of faculty,388
+2013,Number,Prnjavor,F,Higher school and first degree of faculty,282
+2013,Number,Ribnik,Both sexes,Higher school and first degree of faculty,99
+2013,Number,Ribnik,M,Higher school and first degree of faculty,68
+2013,Number,Ribnik,F,Higher school and first degree of faculty,31
+2013,Number,Rogatica,Both sexes,Higher school and first degree of faculty,315
+2013,Number,Rogatica,M,Higher school and first degree of faculty,209
+2013,Number,Rogatica,F,Higher school and first degree of faculty,106
+2013,Number,Rudo,Both sexes,Higher school and first degree of faculty,277
+2013,Number,Rudo,M,Higher school and first degree of faculty,175
+2013,Number,Rudo,F,Higher school and first degree of faculty,102
+2013,Number,Sokolac,Both sexes,Higher school and first degree of faculty,393
+2013,Number,Sokolac,M,Higher school and first degree of faculty,237
+2013,Number,Sokolac,F,Higher school and first degree of faculty,156
+2013,Number,Srbac,Both sexes,Higher school and first degree of faculty,342
+2013,Number,Srbac,M,Higher school and first degree of faculty,232
+2013,Number,Srbac,F,Higher school and first degree of faculty,110
+2013,Number,Srebrenica,Both sexes,Higher school and first degree of faculty,290
+2013,Number,Srebrenica,M,Higher school and first degree of faculty,171
+2013,Number,Srebrenica,F,Higher school and first degree of faculty,119
+2013,Number,Teslic,Both sexes,Higher school and first degree of faculty,577
+2013,Number,Teslic,M,Higher school and first degree of faculty,335
+2013,Number,Teslic,F,Higher school and first degree of faculty,242
+2013,Number,City of Trebinje,Both sexes,Higher school and first degree of faculty,1442
+2013,Number,City of Trebinje,M,Higher school and first degree of faculty,806
+2013,Number,City of Trebinje,F,Higher school and first degree of faculty,636
+2013,Number,Trnovo,Both sexes,Higher school and first degree of faculty,52
+2013,Number,Trnovo,M,Higher school and first degree of faculty,37
+2013,Number,Trnovo,F,Higher school and first degree of faculty,15
+2013,Number,Ugljevik,Both sexes,Higher school and first degree of faculty,252
+2013,Number,Ugljevik,M,Higher school and first degree of faculty,156
+2013,Number,Ugljevik,F,Higher school and first degree of faculty,96
+2013,Number,Foca,Both sexes,Higher school and first degree of faculty,510
+2013,Number,Foca,M,Higher school and first degree of faculty,334
+2013,Number,Foca,F,Higher school and first degree of faculty,176
+2013,Number,Han Pijesak,Both sexes,Higher school and first degree of faculty,110
+2013,Number,Han Pijesak,M,Higher school and first degree of faculty,67
+2013,Number,Han Pijesak,F,Higher school and first degree of faculty,43
+2013,Number,Cajnice,Both sexes,Higher school and first degree of faculty,75
+2013,Number,Cajnice,M,Higher school and first degree of faculty,48
+2013,Number,Cajnice,F,Higher school and first degree of faculty,27
+2013,Number,Celinac,Both sexes,Higher school and first degree of faculty,293
+2013,Number,Celinac,M,Higher school and first degree of faculty,186
+2013,Number,Celinac,F,Higher school and first degree of faculty,107
+2013,Number,Samac,Both sexes,Higher school and first degree of faculty,478
+2013,Number,Samac,M,Higher school and first degree of faculty,265
+2013,Number,Samac,F,Higher school and first degree of faculty,213
+2013,Number,Sekovici,Both sexes,Higher school and first degree of faculty,136
+2013,Number,Sekovici,M,Higher school and first degree of faculty,76
+2013,Number,Sekovici,F,Higher school and first degree of faculty,60
+2013,Number,Sipovo,Both sexes,Higher school and first degree of faculty,191
+2013,Number,Sipovo,M,Higher school and first degree of faculty,121
+2013,Number,Sipovo,F,Higher school and first degree of faculty,70
+2013,Number,Republika Srpska,Both sexes,Faculty / academy / university,87036
+2013,Number,Republika Srpska,M,Faculty / academy / university,42562
+2013,Number,Republika Srpska,F,Faculty / academy / university,44474
+2013,Number,City of Banja Luka,Both sexes,Faculty / academy / university,25924
+2013,Number,City of Banja Luka,M,Faculty / academy / university,12201
+2013,Number,City of Banja Luka,F,Faculty / academy / university,13723
+2013,Number,Berkovici,Both sexes,Faculty / academy / university,92
+2013,Number,Berkovici,M,Faculty / academy / university,51
+2013,Number,Berkovici,F,Faculty / academy / university,41
+2013,Number,City of Bijeljina,Both sexes,Faculty / academy / university,8088
+2013,Number,City of Bijeljina,M,Faculty / academy / university,3846
+2013,Number,City of Bijeljina,F,Faculty / academy / university,4242
+2013,Number,Bileca,Both sexes,Faculty / academy / university,791
+2013,Number,Bileca,M,Faculty / academy / university,443
+2013,Number,Bileca,F,Faculty / academy / university,348
+2013,Number,Bratunac,Both sexes,Faculty / academy / university,1014
+2013,Number,Bratunac,M,Faculty / academy / university,515
+2013,Number,Bratunac,F,Faculty / academy / university,499
+2013,Number,Brod,Both sexes,Faculty / academy / university,801
+2013,Number,Brod,M,Faculty / academy / university,389
+2013,Number,Brod,F,Faculty / academy / university,412
+2013,Number,Visegrad,Both sexes,Faculty / academy / university,818
+2013,Number,Visegrad,M,Faculty / academy / university,410
+2013,Number,Visegrad,F,Faculty / academy / university,408
+2013,Number,Vlasenica,Both sexes,Faculty / academy / university,641
+2013,Number,Vlasenica,M,Faculty / academy / university,316
+2013,Number,Vlasenica,F,Faculty / academy / university,325
+2013,Number,Vukosavlje,Both sexes,Faculty / academy / university,97
+2013,Number,Vukosavlje,M,Faculty / academy / university,55
+2013,Number,Vukosavlje,F,Faculty / academy / university,42
+2013,Number,Gacko,Both sexes,Faculty / academy / university,812
+2013,Number,Gacko,M,Faculty / academy / university,413
+2013,Number,Gacko,F,Faculty / academy / university,399
+2013,Number,City of Gradiska,Both sexes,Faculty / academy / university,2538
+2013,Number,City of Gradiska,M,Faculty / academy / university,1270
+2013,Number,City of Gradiska,F,Faculty / academy / university,1268
+2013,Number,City of Derventa,Both sexes,Faculty / academy / university,1242
+2013,Number,City of Derventa,M,Faculty / academy / university,598
+2013,Number,City of Derventa,F,Faculty / academy / university,644
+2013,Number,City of Doboj,Both sexes,Faculty / academy / university,4634
+2013,Number,City of Doboj,M,Faculty / academy / university,2420
+2013,Number,City of Doboj,F,Faculty / academy / university,2214
+2013,Number,Donji Zabar,Both sexes,Faculty / academy / university,100
+2013,Number,Donji Zabar,M,Faculty / academy / university,59
+2013,Number,Donji Zabar,F,Faculty / academy / university,41
+2013,Number,City of Zvornik,Both sexes,Faculty / academy / university,2964
+2013,Number,City of Zvornik,M,Faculty / academy / university,1529
+2013,Number,City of Zvornik,F,Faculty / academy / university,1435
+2013,Number,East Ilidza,Both sexes,Faculty / academy / university,1844
+2013,Number,East Ilidza,M,Faculty / academy / university,802
+2013,Number,East Ilidza,F,Faculty / academy / university,1042
+2013,Number,East Drvar,Both sexes,Faculty / academy / university,10
+2013,Number,East Drvar,M,Faculty / academy / university,8
+2013,Number,East Drvar,F,Faculty / academy / university,2
+2013,Number,East Mostar,Both sexes,Faculty / academy / university,14
+2013,Number,East Mostar,M,Faculty / academy / university,7
+2013,Number,East Mostar,F,Faculty / academy / university,7
+2013,Number,East Stari Grad,Both sexes,Faculty / academy / university,53
+2013,Number,East Stari Grad,M,Faculty / academy / university,21
+2013,Number,East Stari Grad,F,Faculty / academy / university,32
+2013,Number,East Novo Sarajevo,Both sexes,Faculty / academy / university,1563
+2013,Number,East Novo Sarajevo,M,Faculty / academy / university,745
+2013,Number,East Novo Sarajevo,F,Faculty / academy / university,818
+2013,Number,Jezero,Both sexes,Faculty / academy / university,30
+2013,Number,Jezero,M,Faculty / academy / university,19
+2013,Number,Jezero,F,Faculty / academy / university,11
+2013,Number,Kalinovik,Both sexes,Faculty / academy / university,147
+2013,Number,Kalinovik,M,Faculty / academy / university,85
+2013,Number,Kalinovik,F,Faculty / academy / university,62
+2013,Number,Knezevo,Both sexes,Faculty / academy / university,334
+2013,Number,Knezevo,M,Faculty / academy / university,188
+2013,Number,Knezevo,F,Faculty / academy / university,146
+2013,Number,Kozarska Dubica,Both sexes,Faculty / academy / university,999
+2013,Number,Kozarska Dubica,M,Faculty / academy / university,501
+2013,Number,Kozarska Dubica,F,Faculty / academy / university,498
+2013,Number,Kostajnica,Both sexes,Faculty / academy / university,281
+2013,Number,Kostajnica,M,Faculty / academy / university,134
+2013,Number,Kostajnica,F,Faculty / academy / university,147
+2013,Number,Kotor Varos,Both sexes,Faculty / academy / university,767
+2013,Number,Kotor Varos,M,Faculty / academy / university,408
+2013,Number,Kotor Varos,F,Faculty / academy / university,359
+2013,Number,Krupa Na Uni,Both sexes,Faculty / academy / university,13
+2013,Number,Krupa Na Uni,M,Faculty / academy / university,7
+2013,Number,Krupa Na Uni,F,Faculty / academy / university,6
+2013,Number,Kupres,Both sexes,Faculty / academy / university,4
+2013,Number,Kupres,M,Faculty / academy / university,3
+2013,Number,Kupres,F,Faculty / academy / university,1
+2013,Number,Laktasi,Both sexes,Faculty / academy / university,1729
+2013,Number,Laktasi,M,Faculty / academy / university,829
+2013,Number,Laktasi,F,Faculty / academy / university,900
+2013,Number,Lopare,Both sexes,Faculty / academy / university,560
+2013,Number,Lopare,M,Faculty / academy / university,264
+2013,Number,Lopare,F,Faculty / academy / university,296
+2013,Number,Ljubinje,Both sexes,Faculty / academy / university,255
+2013,Number,Ljubinje,M,Faculty / academy / university,145
+2013,Number,Ljubinje,F,Faculty / academy / university,110
+2013,Number,Milici,Both sexes,Faculty / academy / university,573
+2013,Number,Milici,M,Faculty / academy / university,295
+2013,Number,Milici,F,Faculty / academy / university,278
+2013,Number,Modrica,Both sexes,Faculty / academy / university,1186
+2013,Number,Modrica,M,Faculty / academy / university,605
+2013,Number,Modrica,F,Faculty / academy / university,581
+2013,Number,Mrkonjic Grad,Both sexes,Faculty / academy / university,832
+2013,Number,Mrkonjic Grad,M,Faculty / academy / university,410
+2013,Number,Mrkonjic Grad,F,Faculty / academy / university,422
+2013,Number,Nevesinje,Both sexes,Faculty / academy / university,856
+2013,Number,Nevesinje,M,Faculty / academy / university,459
+2013,Number,Nevesinje,F,Faculty / academy / university,397
+2013,Number,Novi Grad,Both sexes,Faculty / academy / university,1243
+2013,Number,Novi Grad,M,Faculty / academy / university,602
+2013,Number,Novi Grad,F,Faculty / academy / university,641
+2013,Number,Novo Gorazde,Both sexes,Faculty / academy / university,145
+2013,Number,Novo Gorazde,M,Faculty / academy / university,71
+2013,Number,Novo Gorazde,F,Faculty / academy / university,74
+2013,Number,Osmaci,Both sexes,Faculty / academy / university,235
+2013,Number,Osmaci,M,Faculty / academy / university,148
+2013,Number,Osmaci,F,Faculty / academy / university,87
+2013,Number,Ostra Luka,Both sexes,Faculty / academy / university,55
+2013,Number,Ostra Luka,M,Faculty / academy / university,24
+2013,Number,Ostra Luka,F,Faculty / academy / university,31
+2013,Number,Pale,Both sexes,Faculty / academy / university,2538
+2013,Number,Pale,M,Faculty / academy / university,1148
+2013,Number,Pale,F,Faculty / academy / university,1390
+2013,Number,Pelagicevo,Both sexes,Faculty / academy / university,94
+2013,Number,Pelagicevo,M,Faculty / academy / university,53
+2013,Number,Pelagicevo,F,Faculty / academy / university,41
+2013,Number,Petrovac,Both sexes,Faculty / academy / university,26
+2013,Number,Petrovac,M,Faculty / academy / university,13
+2013,Number,Petrovac,F,Faculty / academy / university,13
+2013,Number,Petrovo,Both sexes,Faculty / academy / university,259
+2013,Number,Petrovo,M,Faculty / academy / university,134
+2013,Number,Petrovo,F,Faculty / academy / university,125
+2013,Number,City of Prijedor,Both sexes,Faculty / academy / university,4646
+2013,Number,City of Prijedor,M,Faculty / academy / university,2220
+2013,Number,City of Prijedor,F,Faculty / academy / university,2426
+2013,Number,Prnjavor,Both sexes,Faculty / academy / university,1336
+2013,Number,Prnjavor,M,Faculty / academy / university,627
+2013,Number,Prnjavor,F,Faculty / academy / university,709
+2013,Number,Ribnik,Both sexes,Faculty / academy / university,195
+2013,Number,Ribnik,M,Faculty / academy / university,108
+2013,Number,Ribnik,F,Faculty / academy / university,87
+2013,Number,Rogatica,Both sexes,Faculty / academy / university,702
+2013,Number,Rogatica,M,Faculty / academy / university,354
+2013,Number,Rogatica,F,Faculty / academy / university,348
+2013,Number,Rudo,Both sexes,Faculty / academy / university,454
+2013,Number,Rudo,M,Faculty / academy / university,232
+2013,Number,Rudo,F,Faculty / academy / university,222
+2013,Number,Sokolac,Both sexes,Faculty / academy / university,1113
+2013,Number,Sokolac,M,Faculty / academy / university,529
+2013,Number,Sokolac,F,Faculty / academy / university,584
+2013,Number,Srbac,Both sexes,Faculty / academy / university,798
+2013,Number,Srbac,M,Faculty / academy / university,410
+2013,Number,Srbac,F,Faculty / academy / university,388
+2013,Number,Srebrenica,Both sexes,Faculty / academy / university,741
+2013,Number,Srebrenica,M,Faculty / academy / university,395
+2013,Number,Srebrenica,F,Faculty / academy / university,346
+2013,Number,Teslic,Both sexes,Faculty / academy / university,1351
+2013,Number,Teslic,M,Faculty / academy / university,689
+2013,Number,Teslic,F,Faculty / academy / university,662
+2013,Number,City of Trebinje,Both sexes,Faculty / academy / university,3262
+2013,Number,City of Trebinje,M,Faculty / academy / university,1642
+2013,Number,City of Trebinje,F,Faculty / academy / university,1620
+2013,Number,Trnovo,Both sexes,Faculty / academy / university,139
+2013,Number,Trnovo,M,Faculty / academy / university,66
+2013,Number,Trnovo,F,Faculty / academy / university,73
+2013,Number,Ugljevik,Both sexes,Faculty / academy / university,903
+2013,Number,Ugljevik,M,Faculty / academy / university,443
+2013,Number,Ugljevik,F,Faculty / academy / university,460
+2013,Number,Foca,Both sexes,Faculty / academy / university,1422
+2013,Number,Foca,M,Faculty / academy / university,757
+2013,Number,Foca,F,Faculty / academy / university,665
+2013,Number,Han Pijesak,Both sexes,Faculty / academy / university,274
+2013,Number,Han Pijesak,M,Faculty / academy / university,138
+2013,Number,Han Pijesak,F,Faculty / academy / university,136
+2013,Number,Cajnice,Both sexes,Faculty / academy / university,280
+2013,Number,Cajnice,M,Faculty / academy / university,152
+2013,Number,Cajnice,F,Faculty / academy / university,128
+2013,Number,Celinac,Both sexes,Faculty / academy / university,618
+2013,Number,Celinac,M,Faculty / academy / university,290
+2013,Number,Celinac,F,Faculty / academy / university,328
+2013,Number,Samac,Both sexes,Faculty / academy / university,911
+2013,Number,Samac,M,Faculty / academy / university,494
+2013,Number,Samac,F,Faculty / academy / university,417
+2013,Number,Sekovici,Both sexes,Faculty / academy / university,267
+2013,Number,Sekovici,M,Faculty / academy / university,144
+2013,Number,Sekovici,F,Faculty / academy / university,123
+2013,Number,Sipovo,Both sexes,Faculty / academy / university,423
+2013,Number,Sipovo,M,Faculty / academy / university,229
+2013,Number,Sipovo,F,Faculty / academy / university,194

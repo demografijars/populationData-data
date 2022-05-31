@@ -3760,15 +3760,15 @@
               "enum": [
                 "",
                 "Primary school",
-                "Higher school",
-                "Incomplete primary school",
+                "Higher school and first degree of faculty",
+                "Incomplete primary education",
                 "No education",
                 "Secondary school",
                 "Secondary specialization",
-                "University"
+                "Faculty / academy / university"
               ]
             },
-            "title": "Educational attainment"
+            "title": "Highest educational attainment"
           },
           {
             "name": "SEX",
