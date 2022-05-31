@@ -90,16 +90,16 @@
               "enum": [
                 "",
                 "Total",
-                "communication",
-                "dressing",
-                "eyesight",
-                "hearing",
-                "memory",
-                "multiple_disabilities",
-                "walking"
+                "Communication",
+                "Dressing",
+                "Eyesight",
+                "Hearing",
+                "Memory",
+                "Multiple disabilities",
+                "Walking"
               ]
             },
-            "title": "Disabilities"
+            "title": "Type of disability"
           },
           {
             "name": "SEX",
