@@ -4709,17 +4709,17 @@
             "constraints": {
               "enum": [
                 "Укупно",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "multiple_disabilities",
+                "Вид",
+                "Слух",
+                "Ход или пењање уз степенице",
+                "Памћење или концентрација",
+                "Одијевање и одржавање личне хигијене",
+                "Комуникација",
+                "Вишеструке потешкоће",
                 ""
               ]
             },
-            "title": "Disabilities"
+            "title": "Врста потешкоће"
           },
           {
             "name": "Value",
