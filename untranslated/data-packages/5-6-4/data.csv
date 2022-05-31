@@ -4,7 +4,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2017,NUMBER,"engineering,_production_and_construction",_T,6
 2017,NUMBER,information_and_communication_technologies,_T,4
 2017,NUMBER,health_and_social_protection,_T,1
-2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",_T,2
+2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",_T,2
 2017,NUMBER,"social_sciences,_journalism_and_information",_T,14
 2017,NUMBER,"business,_administration_and_law",_T,16
 2017,NUMBER,education,_T,0
@@ -15,7 +15,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2017,NUMBER,"engineering,_production_and_construction",M,3
 2017,NUMBER,information_and_communication_technologies,M,3
 2017,NUMBER,health_and_social_protection,M,1
-2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,2
+2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,2
 2017,NUMBER,"social_sciences,_journalism_and_information",M,10
 2017,NUMBER,"business,_administration_and_law",M,13
 2017,NUMBER,education,M,0
@@ -26,7 +26,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2017,NUMBER,"engineering,_production_and_construction",F,3
 2017,NUMBER,information_and_communication_technologies,F,1
 2017,NUMBER,health_and_social_protection,F,0
-2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,0
+2017,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",F,0
 2017,NUMBER,"social_sciences,_journalism_and_information",F,4
 2017,NUMBER,"business,_administration_and_law",F,3
 2017,NUMBER,education,F,0
@@ -37,7 +37,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2018,NUMBER,"engineering,_production_and_construction",_T,3
 2018,NUMBER,information_and_communication_technologies,_T,3
 2018,NUMBER,health_and_social_protection,_T,0
-2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",_T,4
+2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",_T,4
 2018,NUMBER,"social_sciences,_journalism_and_information",_T,14
 2018,NUMBER,"business,_administration_and_law",_T,12
 2018,NUMBER,education,_T,1
@@ -48,7 +48,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2018,NUMBER,"engineering,_production_and_construction",M,1
 2018,NUMBER,information_and_communication_technologies,M,3
 2018,NUMBER,health_and_social_protection,M,0
-2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,1
 2018,NUMBER,"social_sciences,_journalism_and_information",M,9
 2018,NUMBER,"business,_administration_and_law",M,10
 2018,NUMBER,education,M,1
@@ -59,7 +59,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2018,NUMBER,"engineering,_production_and_construction",F,2
 2018,NUMBER,information_and_communication_technologies,F,0
 2018,NUMBER,health_and_social_protection,F,0
-2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,3
+2018,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",F,3
 2018,NUMBER,"social_sciences,_journalism_and_information",F,5
 2018,NUMBER,"business,_administration_and_law",F,2
 2018,NUMBER,education,F,0
@@ -70,7 +70,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2019,NUMBER,"engineering,_production_and_construction",_T,1
 2019,NUMBER,information_and_communication_technologies,_T,25
 2019,NUMBER,health_and_social_protection,_T,2
-2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",_T,3
+2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",_T,3
 2019,NUMBER,"social_sciences,_journalism_and_information",_T,1
 2019,NUMBER,"business,_administration_and_law",_T,3
 2019,NUMBER,education,_T,3
@@ -81,7 +81,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2019,NUMBER,"engineering,_production_and_construction",M,0
 2019,NUMBER,information_and_communication_technologies,M,19
 2019,NUMBER,health_and_social_protection,M,2
-2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
+2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,0
 2019,NUMBER,"social_sciences,_journalism_and_information",M,0
 2019,NUMBER,"business,_administration_and_law",M,2
 2019,NUMBER,education,M,1
@@ -92,7 +92,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2019,NUMBER,"engineering,_production_and_construction",F,1
 2019,NUMBER,information_and_communication_technologies,F,6
 2019,NUMBER,health_and_social_protection,F,0
-2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,3
+2019,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",F,3
 2019,NUMBER,"social_sciences,_journalism_and_information",F,1
 2019,NUMBER,"business,_administration_and_law",F,1
 2019,NUMBER,education,F,2
@@ -103,7 +103,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2020,NUMBER,"engineering,_production_and_construction",_T,3
 2020,NUMBER,information_and_communication_technologies,_T,30
 2020,NUMBER,health_and_social_protection,_T,5
-2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",_T,2
+2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",_T,2
 2020,NUMBER,"social_sciences,_journalism_and_information",_T,5
 2020,NUMBER,"business,_administration_and_law",_T,8
 2020,NUMBER,education,_T,2
@@ -114,7 +114,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2020,NUMBER,"engineering,_production_and_construction",M,0
 2020,NUMBER,information_and_communication_technologies,M,21
 2020,NUMBER,health_and_social_protection,M,4
-2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",M,1
 2020,NUMBER,"social_sciences,_journalism_and_information",M,3
 2020,NUMBER,"business,_administration_and_law",M,3
 2020,NUMBER,education,M,0
@@ -125,7 +125,7 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2020,NUMBER,"engineering,_production_and_construction",F,3
 2020,NUMBER,information_and_communication_technologies,F,9
 2020,NUMBER,health_and_social_protection,F,1
-2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,1
+2020,NUMBER,"agriculture,_forestry,_fisheries_and_veterinary_medicine",F,1
 2020,NUMBER,"social_sciences,_journalism_and_information",F,2
 2020,NUMBER,"business,_administration_and_law",F,5
 2020,NUMBER,education,F,2
