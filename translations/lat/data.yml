@@ -315,8 +315,6 @@ adult_users: Punoljetni korisnici
 number_of_users: Broj korisnika
 number_of_children: Broj djece
 social_protection_institutions_by_type_of_institution: Ustanove socijalne zaštite po vrsti ustanove
-institutions_for_children_and_youth: Ustanove za djecu i omladinu
-adult_facilities: Ustanove za odrasle
 users_of_social_protection_institutions_by_gender: Korisnici ustanova socijalne zaštite po polu
 male: Muški
 female: Ženski
@@ -347,7 +345,6 @@ number_of_students_at_the_beginning_of_the_school_year_by_gender: Broj učenika 
 number_of_students_who_completed_primary_school_by_gender: Broj učenika koji su završili osnovnu školu po polu
 number_of_primary_school_teachers_by_gender: Broj nastavnika u osnovnim školama po polu 
 number_of_preschool_institutions_by_ownership: Broj predškolskih ustanova po svojini
-type_of_institution: Vrsta ustanova
 number_of_children_in_preschool_institutions_by_sex: Broj djece u predškolskim ustanovama po polu
 number_of_children_in_public_preschools: Broj djece u javnim predškolskim ustanovama
 number_of_children_in_private_preschools: Broj djece u privatnim predškolskim ustanovama
