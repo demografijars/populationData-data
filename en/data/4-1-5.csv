@@ -1,11 +1,11 @@
 Year,UNIT_MEASURE,Type of users,Value
-2016,Number,number_of_users,23202
-2017,Number,number_of_users,20279
-2018,Number,number_of_users,21839
-2019,Number,number_of_users,15388
-2020,Number,number_of_users,13381
-2016,Number,number_of_children,33125
-2017,Number,number_of_children,28767
-2018,Number,number_of_children,27222
-2019,Number,number_of_children,21862
-2020,Number,number_of_children,19210
+2016,Number,Adult users,23202
+2017,Number,Adult users,20279
+2018,Number,Adult users,21839
+2019,Number,Adult users,15388
+2020,Number,Adult users,13381
+2016,Number,Underage users,33125
+2017,Number,Underage users,28767
+2018,Number,Underage users,27222
+2019,Number,Underage users,21862
+2020,Number,Underage users,19210
