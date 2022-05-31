@@ -210,9 +210,9 @@ unknown_language: Непознат језик
 agricultural_households_number: Пољопривредна дјелатност
 agricultural_households: Обављање пољопривредне дјелатности
 agricultural_selling: Обављање пољопривредне дјелатности и продаја пољопривредних производа на тржишту
-LITERACY: Писменост
-Literate: Писмен
-Illiterate: Неписмен
+Literacy: Писменост
+illiterate: Неписмен
+unknown_literacy: Непозната писменост
 Highest_education_atainment: Највиши достигнути степен образовања
 No_education: Необразован
 Incomplete_primary_education: Незавршено основно образовање
