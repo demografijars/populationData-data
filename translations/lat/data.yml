@@ -49,12 +49,14 @@ unemployed_as_of_labour: "Nezaposleni kao % radne snage"
 inactive_as_of_working: "Neaktivni kao % radno sposobnog stanovništva"
 ACTIVITY_RATES: Stope aktivnosti
 total_15: Ukupno 15 godina i više
-no_education: Bez obrazovanja
-incomplete_primary_education: Nepotpuno osnovno obrazovanje
-primary_school: Osnovna škola
-secondary_school: Srednja škola
-higher_school_and_first_grade_of_faculty: Više obrazovanje i prvi stepen fakulteta
-advanced_schools_faculty_academy_university: Visoko obrazovanje / fakultet / akademija / univerzitet
+Education: Završena škola
+no_education: Bez ikakvog obrazovanja
+incomplete_elementary: Nepotpuno osnovno obrazovanje
+elementary_education: Osnovna škola
+secondary_education: Srednja škola
+secondary_specialization: Specijalizacija poslije srednje škole
+first_degree: Viša škola i prvi stepen fakulteta
+university_degree: Visoka škola / fakultet / akademija / univerzitet
 unknown: Nepoznato
 total_illiterate: Ukupno nepismeni
 of_total_for_age_group: "% od ukupnog broja za starosnu grupu"
