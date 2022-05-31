@@ -329,3 +329,10 @@ SP_beneficiaries: Social protection beneficiaries
 TYPE_OF_USERS: Type of users
 number_of_users: Families, users of child allowance
 number_of_children: Children, users of child allowance
+type_of_school: Type of school
+gymnasium: Gymnasiums
+technical_high_schools: Technical high schools
+vocational_high_schools: Vocational high schools
+art_schools: Art schools
+religious_schools: Religious schools
+high_schools_for_students_with_disabilities: High schools for students with disabilities
