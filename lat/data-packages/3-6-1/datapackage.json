@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all_methods",
-                "traditional_methods",
-                "modern_methods",
+                "Ukupna stopa prevalence kontracepcije",
+                "Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda)",
+                "Stopa prevalence kontracepcije (upotrebom savremenih metoda)",
                 ""
               ]
             },
