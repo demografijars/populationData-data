@@ -89,8 +89,8 @@
             "constraints": {
               "enum": [
                 "",
-                "illiterate",
-                "unknown_literacy"
+                "Illiterate",
+                "Unknown literacy"
               ]
             },
             "title": "Literacy"
