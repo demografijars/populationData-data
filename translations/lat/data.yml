@@ -114,9 +114,10 @@ number_of_population_per_general_practitioner: Broj stanovnika na jednog doktora
 number_of_midwives: Broj babica
 male_population: Muško stanovništvo
 female_population: Žensko stanovništvo
-contraceptive_prevalence_rate_(total): Ukupna stopa prevalence kontracepcije
-contraceptive_prevalence_rate_(traditional_methods): Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda)
-contraceptive_prevalence_rate_(modern_methods): Stopa prevalence kontracepcije (upotrebom savremenih metoda)
+PREVALENCE: Upotreba kontracepcije
+all_methods: Ukupna stopa prevalence kontracepcije
+traditional_methods: Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda)
+modern_methods: Stopa prevalence kontracepcije (upotrebom savremenih metoda)
 unmet_need_for_family_planning: Neostvarena potreba za planiranjem porodice
 satisfied_demand_for_family_planning: Zadovoljena potražnja za planiranjem porodice
 skilled_attendant_at_delivery: Porođaj u prisustvu stručnog lica 
