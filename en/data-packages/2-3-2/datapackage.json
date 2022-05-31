@@ -104,11 +104,11 @@
             "constraints": {
               "enum": [
                 "",
-                "agricultural_households",
-                "agricultural_selling"
+                "Performing agricultural activity",
+                "Performing agricultural activity and selling agricultural products in the market"
               ]
             },
-            "title": "agricultural_households_number"
+            "title": "Agricultural activity"
           }
         ]
       }
