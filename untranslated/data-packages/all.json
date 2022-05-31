@@ -4763,7 +4763,7 @@
             "type": "string"
           },
           {
-            "name": "type_of_education",
+            "name": "Degree",
             "type": "string",
             "constraints": {
               "enum": [

@@ -5149,6 +5149,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Degree",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Masters",
+                "Masters of science",
+                "Specialists"
+              ]
+            },
+            "title": "Degree"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -5175,19 +5188,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "type_of_education",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Masters",
-                "Masters of science",
-                "Specialists"
-              ]
-            },
-            "title": "Type of education"
           }
         ]
       },

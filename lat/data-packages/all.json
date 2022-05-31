@@ -5159,7 +5159,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "type_of_education",
+            "name": "Degree",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5169,7 +5169,7 @@
                 ""
               ]
             },
-            "title": "Vrsta obrazovanja"
+            "title": "Degree"
           },
           {
             "name": "SEX",
