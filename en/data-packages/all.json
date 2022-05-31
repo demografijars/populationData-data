@@ -5529,7 +5529,7 @@
       "schema": {
         "fields": [
           {
-            "name": "MICS_NUMBER",
+            "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5539,7 +5539,7 @@
                 "Contraceptive prevalence rate (traditional methods)"
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Contraception use"
           },
           {
             "name": "UNIT_MEASURE",

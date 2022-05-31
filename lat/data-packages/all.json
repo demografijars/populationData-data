@@ -5539,7 +5539,7 @@
             "title": "Mjerna jedinica"
           },
           {
-            "name": "MICS_NUMBER",
+            "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5549,7 +5549,7 @@
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Upotreba kontracepcije"
           },
           {
             "name": "Value",

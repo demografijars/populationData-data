@@ -19,7 +19,7 @@
             "type": "string"
           },
           {
-            "name": "MICS_NUMBER",
+            "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [

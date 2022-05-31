@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "MICS_NUMBER",
+            "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "MICS_NUMBER"
+            "title": "Употреба контрацепције"
           },
           {
             "name": "Value",
