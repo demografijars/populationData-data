@@ -4,7 +4,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2017,Number,"Engineering, manufacturing and construction",Both sexes,6
 2017,Number,information_and_communication_technologie,Both sexes,4
 2017,Number,Health and social protection,Both sexes,1
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,2
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,2
 2017,Number,"Social sciences, journalism and information",Both sexes,14
 2017,Number,"Business, administration and law",Both sexes,16
 2017,Number,Education,Both sexes,0
@@ -15,7 +15,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2017,Number,"Engineering, manufacturing and construction",M,3
 2017,Number,information_and_communication_technologie,M,3
 2017,Number,Health and social protection,M,1
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,2
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,2
 2017,Number,"Social sciences, journalism and information",M,10
 2017,Number,"Business, administration and law",M,13
 2017,Number,Education,M,0
@@ -26,7 +26,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2017,Number,"Engineering, manufacturing and construction",F,3
 2017,Number,information_and_communication_technologie,F,1
 2017,Number,Health and social protection,F,0
-2017,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,0
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,0
 2017,Number,"Social sciences, journalism and information",F,4
 2017,Number,"Business, administration and law",F,3
 2017,Number,Education,F,0
@@ -37,7 +37,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",Both sexes,3
 2018,Number,information_and_communication_technologie,Both sexes,3
 2018,Number,Health and social protection,Both sexes,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,4
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,4
 2018,Number,"Social sciences, journalism and information",Both sexes,14
 2018,Number,"Business, administration and law",Both sexes,12
 2018,Number,Education,Both sexes,1
@@ -48,7 +48,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",M,1
 2018,Number,information_and_communication_technologie,M,3
 2018,Number,Health and social protection,M,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,1
 2018,Number,"Social sciences, journalism and information",M,9
 2018,Number,"Business, administration and law",M,10
 2018,Number,Education,M,1
@@ -59,7 +59,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,"Engineering, manufacturing and construction",F,2
 2018,Number,information_and_communication_technologie,F,0
 2018,Number,Health and social protection,F,0
-2018,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,3
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,3
 2018,Number,"Social sciences, journalism and information",F,5
 2018,Number,"Business, administration and law",F,2
 2018,Number,Education,F,0
@@ -70,7 +70,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",Both sexes,1
 2019,Number,information_and_communication_technologie,Both sexes,25
 2019,Number,Health and social protection,Both sexes,2
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,3
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,3
 2019,Number,"Social sciences, journalism and information",Both sexes,1
 2019,Number,"Business, administration and law",Both sexes,3
 2019,Number,Education,Both sexes,3
@@ -81,7 +81,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",M,0
 2019,Number,information_and_communication_technologie,M,19
 2019,Number,Health and social protection,M,2
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,0
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,0
 2019,Number,"Social sciences, journalism and information",M,0
 2019,Number,"Business, administration and law",M,2
 2019,Number,Education,M,1
@@ -92,7 +92,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,"Engineering, manufacturing and construction",F,1
 2019,Number,information_and_communication_technologie,F,6
 2019,Number,Health and social protection,F,0
-2019,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,3
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,3
 2019,Number,"Social sciences, journalism and information",F,1
 2019,Number,"Business, administration and law",F,1
 2019,Number,Education,F,2
@@ -103,7 +103,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",Both sexes,3
 2020,Number,information_and_communication_technologie,Both sexes,30
 2020,Number,Health and social protection,Both sexes,5
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",Both sexes,2
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,2
 2020,Number,"Social sciences, journalism and information",Both sexes,5
 2020,Number,"Business, administration and law",Both sexes,8
 2020,Number,Education,Both sexes,2
@@ -114,7 +114,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",M,0
 2020,Number,information_and_communication_technologie,M,21
 2020,Number,Health and social protection,M,4
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",M,1
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",M,1
 2020,Number,"Social sciences, journalism and information",M,3
 2020,Number,"Business, administration and law",M,3
 2020,Number,Education,M,0
@@ -125,7 +125,7 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,"Engineering, manufacturing and construction",F,3
 2020,Number,information_and_communication_technologie,F,9
 2020,Number,Health and social protection,F,1
-2020,Number,"agriculture,_forestry,_fisheries_and_veterinary_medicine: ",F,1
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",F,1
 2020,Number,"Social sciences, journalism and information",F,2
 2020,Number,"Business, administration and law",F,5
 2020,Number,Education,F,2
