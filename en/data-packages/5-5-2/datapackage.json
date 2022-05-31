@@ -65,9 +65,9 @@
             "constraints": {
               "enum": [
                 "",
-                "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies"
+                "Master of science studies",
+                "Master studies",
+                "Specialist studies"
               ]
             },
             "title": "type_of_education"
