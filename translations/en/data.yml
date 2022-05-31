@@ -187,21 +187,9 @@ LIVE_BORN_CHILDREN: Live-born children
 10_and_more: 10 and more
 Ethnicity_national_affiliation: Ethnicity/national affiliation
 Religion: Religion
-Islam: Islam
 Orthodox: Orthodox
 Catholic: Catholic
 Muslim: Muslim
-Roman_Catholic: Roman Catholic
-Serbian: Serbian
-jehovah_s_witnesses: Jehovah's Witnesses
-Greek_Catholic: Greek Catholic
-Protestant: Protestant
-Romani: Romani
-Christian: Christian
-Bosniak: Bosniak
-Croat: Croat
-Adventist: Adventist
-Bosnian: Bosnian
 Agnostic: Agnostic
 Atheist: Atheist
 Others: Others
@@ -215,9 +203,9 @@ unknown_language: Unknown language
 agricultural_households_number: Agricultural activity
 agricultural_households: Performing agricultural activity
 agricultural_selling: Performing agricultural activity and selling agricultural products in the market
-LITERACY: Literacy
-Literate: Literate
-Illiterate: Illiterate
+Literacy: Literacy
+illiterate: Illiterate
+unknown_literacy: Unknown literacy
 Highest_education_atainment: Highest education attainment 
 No_education: No education
 Incomplete_primary_education: Incomplete primary education
