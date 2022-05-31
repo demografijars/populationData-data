@@ -89,12 +89,12 @@
             "constraints": {
               "enum": [
                 "",
-                "elementary_education",
-                "first_degree",
-                "incomplete_elementary",
+                "Primary school",
+                "Higher school",
+                "Incomplete primary school",
                 "No education",
-                "secondary_education",
-                "secondary_specialization",
+                "Secondary school",
+                "Secondary specialization",
                 "university_degree"
               ]
             },
