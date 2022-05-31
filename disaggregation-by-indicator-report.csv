@@ -83,7 +83,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-5,"UNIT_MEASURE, TYPE_OF_USERS",2
 #4-2-1,"UNIT_MEASURE, TYPE_OF_USERS",2
 #5-1-1,"UNIT_MEASURE, type_of_institution",2
-#5-1-2,"UNIT_MEASURE, SEX, INSTITUTION",3
+#5-1-2,"UNIT_MEASURE, SEX, type_of_institution",3
 #5-1-3,"UNIT_MEASURE, SEX",2
 #5-1-4,"UNIT_MEASURE, SEX",2
 #5-2-1,"UNIT_MEASURE, SEX",2

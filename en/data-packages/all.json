@@ -2217,19 +2217,6 @@
       "schema": {
         "fields": [
           {
-            "name": "INSTITUTION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Total",
-                "Private",
-                "Public"
-              ]
-            },
-            "title": "INSTITUTION"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -2256,6 +2243,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "type_of_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Total",
+                "Private",
+                "Public"
+              ]
+            },
+            "title": "Type of institutions"
           }
         ]
       },
