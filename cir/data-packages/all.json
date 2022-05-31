@@ -3781,17 +3781,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Без образовања",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
+                "Без икаквог образовања",
+                "Непотпуно основно образовање",
+                "Основна школа",
+                "Средња школа",
+                "Специјализација послије средње школе",
+                "Виша школа и први степен факултета",
+                "Висока школа / факултет / академија / универзитет",
                 ""
               ]
             },
-            "title": "Education"
+            "title": "Највиши достигнути степен образовања"
           },
           {
             "name": "Value",
