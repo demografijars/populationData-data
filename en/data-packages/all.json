@@ -5534,9 +5534,9 @@
             "constraints": {
               "enum": [
                 "",
-                "all_methods",
-                "modern_methods",
-                "traditional_methods"
+                "Contraceptive prevalence rate (total)",
+                "Contraceptive prevalence rate (modern methods)",
+                "Contraceptive prevalence rate (traditional methods)"
               ]
             },
             "title": "MICS_NUMBER"
