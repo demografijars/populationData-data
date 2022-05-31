@@ -46,9 +46,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master_of_science_studies",
-                "Upisani na master studije",
-                "Upisani na specijalističke studije",
+                "Magistarske studije",
+                "Master studije",
+                "Specijalističke studije",
                 ""
               ]
             },
