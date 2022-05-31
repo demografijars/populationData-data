@@ -206,9 +206,9 @@ serbian: Srpski
 croatian: Hrvatski
 other_language: Drugi jezici
 unknown_language: Nepoznat jezik
-AGRICULTURAL_ACTIVITY: Poljoprivredna djelatnost
-Performing_agricultural_activity: Obavljanje poljoprivredne djelatnosti
-Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu
+agricultural_households_number: Poljoprivredna djelatnost
+agricultural_households: Obavljanje poljoprivredne djelatnosti
+agricultural_selling: Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu
 LITERACY: Pismenost
 Literate: Pismen
 Illiterate: Nepismen
