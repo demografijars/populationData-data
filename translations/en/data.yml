@@ -350,3 +350,4 @@ services: Services
 enrolled_in_master_of_science_studies: Master of science studies
 enrolled_in_master_studies: Master studies
 enrolled_in_specialist_studies: Specialist studies
+type_of_education: Type of education
