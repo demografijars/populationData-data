@@ -117,20 +117,20 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Agriculture, forestry, fisheries and veterinary medicine",
                 "arts_and_humanities",
-                "business,_administration_and_law",
-                "education",
+                "Business, administration and law",
+                "Education",
                 "engineering,_production_and_construction",
-                "health_and_social_protection",
+                "Health and social protection",
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "social_sciences,_journalism_and_information",
+                "Services",
+                "Social sciences, journalism and information",
                 "Total"
               ]
             },
-            "title": "scientific_field"
+            "title": "Scientific field"
           }
         ]
       },
@@ -292,14 +292,14 @@
                 "",
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
                 "arts_and_humanities",
-                "business,_administration_and_law",
-                "education",
+                "Business, administration and law",
+                "Education",
                 "engineering,_production_and_construction",
-                "health_and_social_protection",
-                "information_and_communication_technologie",
+                "Health and social protection",
+                "Information and communication technologies",
                 "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "social_sciences,_journalism_and_information",
+                "Services",
+                "Social sciences, journalism and information",
                 "Total"
               ]
             },
@@ -440,20 +440,20 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Agriculture, forestry, fisheries and veterinary medicine",
                 "arts_and_humanities",
-                "business,_administration_and_law",
-                "education",
+                "Business, administration and law",
+                "Education",
                 "engineering,_production_and_construction",
-                "health_and_social_protection",
+                "Health and social protection",
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "social_sciences,_journalism_and_information",
+                "Services",
+                "Social sciences, journalism and information",
                 "Total"
               ]
             },
-            "title": "scientific_field"
+            "title": "Scientific field"
           }
         ]
       },
@@ -1413,20 +1413,20 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Agriculture, forestry, fisheries and veterinary medicine",
                 "arts_and_humanities",
-                "business,_administration_and_law",
-                "education",
+                "Business, administration and law",
+                "Education",
                 "engineering,_production_and_construction",
-                "health_and_social_protection",
+                "Health and social protection",
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "social_sciences,_journalism_and_information",
+                "Services",
+                "Social sciences, journalism and information",
                 "Total"
               ]
             },
-            "title": "scientific_field"
+            "title": "Scientific field"
           },
           {
             "name": "type_of_education",
@@ -4070,19 +4070,19 @@
             "constraints": {
               "enum": [
                 "",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "Agriculture, forestry, fisheries and veterinary medicine",
                 "arts_and_humanities",
-                "business,_administration_and_law",
-                "education",
+                "Business, administration and law",
+                "Education",
                 "engineering,_production_and_construction",
-                "health_and_social_protection",
+                "Health and social protection",
                 "information_and_communication_technologies",
                 "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "social_sciences,_journalism_and_information"
+                "Services",
+                "Social sciences, journalism and information"
               ]
             },
-            "title": "scientific_field"
+            "title": "Scientific field"
           }
         ]
       },
