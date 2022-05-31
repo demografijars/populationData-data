@@ -31,8 +31,8 @@
             "constraints": {
               "enum": [
                 "",
-                "adult_facilities",
-                "institutions_for_children_and_youth"
+                "Social welfare institutions for adults",
+                "Social welfare institutions for children and youth"
               ]
             },
             "title": "Type of institution"

@@ -4,13 +4,13 @@ Year,UNIT_MEASURE,TYPE_OF_USERS,Value
 2018,Number,Total,52
 2019,Number,Total,56
 2020,Number,Total,61
-2016,Number,institutions_for_children_and_youth,4
-2017,Number,institutions_for_children_and_youth,4
-2018,Number,institutions_for_children_and_youth,4
-2019,Number,institutions_for_children_and_youth,4
-2020,Number,institutions_for_children_and_youth,4
-2016,Number,adult_facilities,32
-2017,Number,adult_facilities,34
-2018,Number,adult_facilities,48
-2019,Number,adult_facilities,52
-2020,Number,adult_facilities,57
+2016,Number,Social welfare institutions for children and youth,4
+2017,Number,Social welfare institutions for children and youth,4
+2018,Number,Social welfare institutions for children and youth,4
+2019,Number,Social welfare institutions for children and youth,4
+2020,Number,Social welfare institutions for children and youth,4
+2016,Number,Social welfare institutions for adults,32
+2017,Number,Social welfare institutions for adults,34
+2018,Number,Social welfare institutions for adults,48
+2019,Number,Social welfare institutions for adults,52
+2020,Number,Social welfare institutions for adults,57
