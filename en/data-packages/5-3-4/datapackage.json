@@ -32,14 +32,14 @@
               "enum": [
                 "",
                 "Art schools",
-                "Gymnasium",
-                "high_schools_for_students_with_disabilities",
-                "religious_schools",
-                "technical_high_schools",
-                "vocational_high_schools"
+                "Gymnasiums",
+                "High schools for students with disabilities",
+                "Religious schools",
+                "Technical high schools",
+                "Vocational high schools"
               ]
             },
-            "title": "type_of_school"
+            "title": "Type of school"
           }
         ]
       }

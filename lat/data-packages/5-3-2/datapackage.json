@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gimnazija",
+                "Gimnazije",
                 "Srednje tehničke škole",
                 "Srednje stručne škole",
                 "Umjetničke škole",
