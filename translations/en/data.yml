@@ -47,14 +47,14 @@ unemployed_as_of_labour: "Unemployed as % of labour force"
 inactive_as_of_working: "Inactive as % of working age population"
 ACTIVITY_RATES: Activity rates
 total_15: Total 15+
-Education: Educational attainment
+Education: Highest educational attainment
 no_education: No education
-incomplete_elementary: Incomplete primary school
+incomplete_elementary: Incomplete primary education
 elementary_education: Primary school
 secondary_education: Secondary school
 secondary_specialization: Secondary specialization
-first_degree: Higher school
-university_degree: University
+first_degree: Higher school and first degree of faculty
+university_degree: Faculty / academy / university
 unknown: Unknown
 total_illiterate: Total illiterate
 of_total_for_age_group: '% of total for age group'
