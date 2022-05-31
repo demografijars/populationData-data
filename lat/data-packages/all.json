@@ -4378,8 +4378,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Punoljetni korisnici",
-                "Maloljetni korisnici",
+                "Broj korisnika",
+                "Broj djece",
                 ""
               ]
             },

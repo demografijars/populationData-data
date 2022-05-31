@@ -4043,8 +4043,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "adult_users",
-                "underage_users",
+                "number_of_users",
+                "number_of_children",
                 ""
               ]
             }
