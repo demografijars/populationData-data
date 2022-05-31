@@ -112,9 +112,10 @@ number_of_population_per_general_practitioner: Number of population per general 
 number_of_midwives: Number of midwives
 male_population: Male population
 female_population: Female population
-contraceptive_prevalence_rate_(total): Contraceptive prevalence rate (total)
-contraceptive_prevalence_rate_(traditional_methods): Contraceptive prevalence rate (traditional methods)
-contraceptive_prevalence_rate_(modern_methods): Contraceptive prevalence rate (modern methods)
+PREVALENCE: Contraception use
+all_methods: Contraceptive prevalence rate (total)
+traditional_methods: Contraceptive prevalence rate (traditional methods)
+modern_methods: Contraceptive prevalence rate (modern methods)
 unmet_need_for_family_planning: Unmet need for family planning
 satisfied_demand_for_family_planning: Satisfied demand for family planning
 skilled_attendant_at_delivery: Skilled attendant at delivery
