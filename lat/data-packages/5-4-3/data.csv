@@ -1,5 +1,5 @@
 Year,UNIT_MEASURE,Naučna oblast,Value
-2017,Broj,education,542
+2017,Broj,Obrazovanje,542
 2017,Broj,Umjetnost i humanističke nauke,429
 2017,Broj,"Društvene nauke, novinarstvo i informisanje",725
 2017,Broj,"Poslovanje, administracija i pravo",1677
@@ -8,8 +8,8 @@ Year,UNIT_MEASURE,Naučna oblast,Value
 2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",367
 2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
 2017,Broj,Zdravstvo i socijalna zaštita,547
-2017,Broj,services,118
-2018,Broj,education,459
+2017,Broj,Usluge,118
+2018,Broj,Obrazovanje,459
 2018,Broj,Umjetnost i humanističke nauke,403
 2018,Broj,"Društvene nauke, novinarstvo i informisanje",524
 2018,Broj,"Poslovanje, administracija i pravo",1320
@@ -18,8 +18,8 @@ Year,UNIT_MEASURE,Naučna oblast,Value
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",464
 2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",205
 2018,Broj,Zdravstvo i socijalna zaštita,629
-2018,Broj,services,101
-2019,Broj,education,406
+2018,Broj,Usluge,101
+2019,Broj,Obrazovanje,406
 2019,Broj,Umjetnost i humanističke nauke,385
 2019,Broj,"Društvene nauke, novinarstvo i informisanje",482
 2019,Broj,"Poslovanje, administracija i pravo",1110
@@ -28,8 +28,8 @@ Year,UNIT_MEASURE,Naučna oblast,Value
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",461
 2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",238
 2019,Broj,Zdravstvo i socijalna zaštita,534
-2019,Broj,services,129
-2020,Broj,education,336
+2019,Broj,Usluge,129
+2020,Broj,Obrazovanje,336
 2020,Broj,Umjetnost i humanističke nauke,433
 2020,Broj,"Društvene nauke, novinarstvo i informisanje",588
 2020,Broj,"Poslovanje, administracija i pravo",991
@@ -38,4 +38,4 @@ Year,UNIT_MEASURE,Naučna oblast,Value
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",438
 2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",229
 2020,Broj,Zdravstvo i socijalna zaštita,590
-2020,Broj,services,159
+2020,Broj,Usluge,159

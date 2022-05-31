@@ -25,7 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo",
@@ -34,7 +34,7 @@
                 "Inženjerstvo, proizvodnja i građevinarstvo",
                 "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna zaštita",
-                "services",
+                "Usluge",
                 ""
               ]
             },

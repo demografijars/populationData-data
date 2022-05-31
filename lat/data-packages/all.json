@@ -103,11 +103,11 @@
                 "Umjetnost i humanističke nauke",
                 "Informacione i komunikacione tehnologije",
                 "Inženjerstvo, proizvodnja i građevinarstvo",
-                "education",
+                "Obrazovanje",
                 "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Poslovanje, administracija i pravo",
                 "Prirodne nauke, matematika i statistika",
-                "services",
+                "Usluge",
                 "Zdravstvo i socijalna zaštita",
                 ""
               ]
@@ -279,9 +279,9 @@
                 "agriculture,_forestry,_fisheries_and_veterinary_medicine: ",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
-                "services",
+                "Usluge",
                 ""
               ]
             },
@@ -429,9 +429,9 @@
                 "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
-                "services",
+                "Usluge",
                 ""
               ]
             },
@@ -1402,9 +1402,9 @@
                 "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo",
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
-                "services",
+                "Usluge",
                 ""
               ]
             },
@@ -4064,7 +4064,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
+                "Obrazovanje",
                 "Umjetnost i humanističke nauke",
                 "Društvene nauke, novinarstvo i informisanje",
                 "Poslovanje, administracija i pravo",
@@ -4073,7 +4073,7 @@
                 "Inženjerstvo, proizvodnja i građevinarstvo",
                 "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
                 "Zdravstvo i socijalna zaštita",
-                "services",
+                "Usluge",
                 ""
               ]
             },
