@@ -4,13 +4,13 @@ Year,UNIT_MEASURE,TYPE_OF_USERS,Value
 2018,Number,Total,179164
 2019,Number,Total,171280
 2020,Number,Total,167786
-2016,Number,underage_users,53648
-2017,Number,underage_users,49035
-2018,Number,underage_users,48462
-2019,Number,underage_users,47135
-2020,Number,underage_users,41066
-2016,Number,adult_users,137956
-2017,Number,adult_users,135795
-2018,Number,adult_users,130702
-2019,Number,adult_users,124145
-2020,Number,adult_users,126720
+2016,Number,Underage users,53648
+2017,Number,Underage users,49035
+2018,Number,Underage users,48462
+2019,Number,Underage users,47135
+2020,Number,Underage users,41066
+2016,Number,Adult users,137956
+2017,Number,Adult users,135795
+2018,Number,Adult users,130702
+2019,Number,Adult users,124145
+2020,Number,Adult users,126720

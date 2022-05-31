@@ -18,9 +18,9 @@
             "constraints": {
               "enum": [
                 "",
-                "adult_users",
+                "Adult users",
                 "Total",
-                "underage_users"
+                "Underage users"
               ]
             },
             "title": "TYPE_OF_USERS"
@@ -6058,9 +6058,9 @@
             "constraints": {
               "enum": [
                 "",
-                "adult_users",
+                "Adult users",
                 "Total",
-                "underage_users"
+                "Underage users"
               ]
             },
             "title": "TYPE_OF_USERS"
