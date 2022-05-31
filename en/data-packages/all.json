@@ -5182,9 +5182,9 @@
             "constraints": {
               "enum": [
                 "",
-                "masters",
-                "masters_of_science",
-                "specialists"
+                "Masters",
+                "Masters of science",
+                "Specialists"
               ]
             },
             "title": "Type of education"
