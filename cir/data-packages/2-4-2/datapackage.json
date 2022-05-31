@@ -107,7 +107,7 @@
             "title": "Пол"
           },
           {
-            "name": "Education",
+            "name": "Educational_attainment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -121,7 +121,7 @@
                 ""
               ]
             },
-            "title": "Education"
+            "title": "Највиши достигнути степен образовања"
           },
           {
             "name": "Value",

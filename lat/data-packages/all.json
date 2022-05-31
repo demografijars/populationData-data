@@ -3777,7 +3777,7 @@
             "title": "Pol"
           },
           {
-            "name": "Education",
+            "name": "Educational_attainment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3791,7 +3791,7 @@
                 ""
               ]
             },
-            "title": "Education"
+            "title": "Najviši dostugnuti stepen obrazovanja"
           },
           {
             "name": "Value",

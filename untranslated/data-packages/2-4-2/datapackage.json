@@ -103,7 +103,7 @@
             }
           },
           {
-            "name": "Education",
+            "name": "Educational_attainment",
             "type": "string",
             "constraints": {
               "enum": [

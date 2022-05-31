@@ -84,7 +84,7 @@
             "title": "Administrative area"
           },
           {
-            "name": "Education",
+            "name": "Educational_attainment",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 "Faculty / academy / university"
               ]
             },
-            "title": "Education"
+            "title": "Highest educational attainment"
           },
           {
             "name": "SEX",

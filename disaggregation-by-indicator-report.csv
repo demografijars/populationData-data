@@ -45,7 +45,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-3-1,"UNIT_MEASURE, ADMIN_AREA, NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",3
 #2-3-2,"UNIT_MEASURE, ADMIN_AREA, agricultural_households_number",3
 #2-4-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Literacy",4
-#2-4-2,"UNIT_MEASURE, SEX, ADMIN_AREA, Education",4
+#2-4-2,"UNIT_MEASURE, SEX, ADMIN_AREA, Educational_attainment",4
 #2-5-1,"UNIT_MEASURE, SEX, ADMIN_AREA, Disabilities",4
 #3-1-1,"UNIT_MEASURE, SEX, CAUSE_OF_DEATH",3
 #3-1-2,"UNIT_MEASURE, CAUSE_OF_DEATH",2
