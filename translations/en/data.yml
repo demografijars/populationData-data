@@ -212,9 +212,9 @@ serbian: Serbian
 croatian: Croatian
 other_language: Other language
 unknown_language: Unknown language
-AGRICULTURAL_ACTIVITY: Agricultural activity
-Performing_agricultural_activity: Performing agricultural activity
-Performing_agricultural_activity_and_selling_agricultural_products_in_the_market: Performing agricultural activity and selling agricultural products in the market
+agricultural_households_number: Agricultural activity
+agricultural_households: Performing agricultural activity
+agricultural_selling: Performing agricultural activity and selling agricultural products in the market
 LITERACY: Literacy
 Literate: Literate
 Illiterate: Illiterate
