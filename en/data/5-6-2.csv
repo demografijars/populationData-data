@@ -8,7 +8,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2017,Number,"Social sciences, journalism and information",Both sexes,50
 2017,Number,"Business, administration and law",Both sexes,10
 2017,Number,Education,Both sexes,0
-2017,Number,arts_and_humanities,Both sexes,10
+2017,Number,Arts and humanities,Both sexes,10
 2017,Number,Services,Both sexes,0
 2017,Number,Total,M,70
 2017,Number,"natural_sciences,_mathematics_and_statistics",M,6
@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2017,Number,"Social sciences, journalism and information",M,29
 2017,Number,"Business, administration and law",M,4
 2017,Number,Education,M,0
-2017,Number,arts_and_humanities,M,9
+2017,Number,Arts and humanities,M,9
 2017,Number,Services,M,0
 2017,Number,Total,F,60
 2017,Number,"natural_sciences,_mathematics_and_statistics",F,4
@@ -30,7 +30,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2017,Number,"Social sciences, journalism and information",F,21
 2017,Number,"Business, administration and law",F,6
 2017,Number,Education,F,0
-2017,Number,arts_and_humanities,F,1
+2017,Number,Arts and humanities,F,1
 2017,Number,Services,F,0
 2018,Number,Total,Both sexes,119
 2018,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,8
@@ -41,7 +41,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2018,Number,"Social sciences, journalism and information",Both sexes,16
 2018,Number,"Business, administration and law",Both sexes,10
 2018,Number,Education,Both sexes,3
-2018,Number,arts_and_humanities,Both sexes,22
+2018,Number,Arts and humanities,Both sexes,22
 2018,Number,Services,Both sexes,0
 2018,Number,Total,M,56
 2018,Number,"natural_sciences,_mathematics_and_statistics",M,3
@@ -52,7 +52,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2018,Number,"Social sciences, journalism and information",M,8
 2018,Number,"Business, administration and law",M,4
 2018,Number,Education,M,3
-2018,Number,arts_and_humanities,M,10
+2018,Number,Arts and humanities,M,10
 2018,Number,Services,M,0
 2018,Number,Total,F,63
 2018,Number,"natural_sciences,_mathematics_and_statistics",F,5
@@ -63,7 +63,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2018,Number,"Social sciences, journalism and information",F,8
 2018,Number,"Business, administration and law",F,6
 2018,Number,Education,F,0
-2018,Number,arts_and_humanities,F,12
+2018,Number,Arts and humanities,F,12
 2018,Number,Services,F,0
 2019,Number,Total,Both sexes,165
 2019,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,10
@@ -74,7 +74,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2019,Number,"Social sciences, journalism and information",Both sexes,58
 2019,Number,"Business, administration and law",Both sexes,5
 2019,Number,Education,Both sexes,8
-2019,Number,arts_and_humanities,Both sexes,10
+2019,Number,Arts and humanities,Both sexes,10
 2019,Number,Services,Both sexes,0
 2019,Number,Total,M,71
 2019,Number,"natural_sciences,_mathematics_and_statistics",M,6
@@ -85,7 +85,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2019,Number,"Social sciences, journalism and information",M,28
 2019,Number,"Business, administration and law",M,2
 2019,Number,Education,M,5
-2019,Number,arts_and_humanities,M,5
+2019,Number,Arts and humanities,M,5
 2019,Number,Services,M,0
 2019,Number,Total,F,94
 2019,Number,"natural_sciences,_mathematics_and_statistics",F,4
@@ -96,7 +96,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2019,Number,"Social sciences, journalism and information",F,30
 2019,Number,"Business, administration and law",F,3
 2019,Number,Education,F,3
-2019,Number,arts_and_humanities,F,5
+2019,Number,Arts and humanities,F,5
 2019,Number,Services,F,0
 2020,Number,Total,Both sexes,184
 2020,Number,"natural_sciences,_mathematics_and_statistics",Both sexes,12
@@ -107,7 +107,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2020,Number,"Social sciences, journalism and information",Both sexes,22
 2020,Number,"Business, administration and law",Both sexes,1
 2020,Number,Education,Both sexes,8
-2020,Number,arts_and_humanities,Both sexes,24
+2020,Number,Arts and humanities,Both sexes,24
 2020,Number,Services,Both sexes,0
 2020,Number,Total,M,79
 2020,Number,"natural_sciences,_mathematics_and_statistics",M,8
@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2020,Number,"Social sciences, journalism and information",M,12
 2020,Number,"Business, administration and law",M,0
 2020,Number,Education,M,8
-2020,Number,arts_and_humanities,M,3
+2020,Number,Arts and humanities,M,3
 2020,Number,Services,M,0
 2020,Number,Total,F,105
 2020,Number,"natural_sciences,_mathematics_and_statistics",F,4
@@ -129,5 +129,5 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2020,Number,"Social sciences, journalism and information",F,10
 2020,Number,"Business, administration and law",F,1
 2020,Number,Education,F,0
-2020,Number,arts_and_humanities,F,21
+2020,Number,Arts and humanities,F,21
 2020,Number,Services,F,0

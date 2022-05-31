@@ -8,7 +8,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,473
 2017,Number,"Business, administration and law",Master of science studies,Both sexes,356
 2017,Number,Education,Master of science studies,Both sexes,236
-2017,Number,arts_and_humanities,Master of science studies,Both sexes,319
+2017,Number,Arts and humanities,Master of science studies,Both sexes,319
 2017,Number,Services,Master of science studies,Both sexes,2
 2017,Number,Total,Master of science studies,M,917
 2017,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,M,26
@@ -19,7 +19,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master of science studies,M,176
 2017,Number,"Business, administration and law",Master of science studies,M,124
 2017,Number,Education,Master of science studies,M,39
-2017,Number,arts_and_humanities,Master of science studies,M,142
+2017,Number,Arts and humanities,Master of science studies,M,142
 2017,Number,Services,Master of science studies,M,0
 2017,Number,Total,Master of science studies,F,1223
 2017,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,F,41
@@ -30,7 +30,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master of science studies,F,297
 2017,Number,"Business, administration and law",Master of science studies,F,232
 2017,Number,Education,Master of science studies,F,197
-2017,Number,arts_and_humanities,Master of science studies,F,177
+2017,Number,Arts and humanities,Master of science studies,F,177
 2017,Number,Services,Master of science studies,F,2
 2017,Number,Total,Master studies,Both sexes,31
 2017,Number,"natural_sciences,_mathematics_and_statistics",Master studies,Both sexes,1
@@ -41,7 +41,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master studies,Both sexes,0
 2017,Number,"Business, administration and law",Master studies,Both sexes,2
 2017,Number,Education,Master studies,Both sexes,1
-2017,Number,arts_and_humanities,Master studies,Both sexes,5
+2017,Number,Arts and humanities,Master studies,Both sexes,5
 2017,Number,Services,Master studies,Both sexes,0
 2017,Number,Total,Master studies,M,21
 2017,Number,"natural_sciences,_mathematics_and_statistics",Master studies,M,0
@@ -52,7 +52,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master studies,M,0
 2017,Number,"Business, administration and law",Master studies,M,2
 2017,Number,Education,Master studies,M,0
-2017,Number,arts_and_humanities,Master studies,M,5
+2017,Number,Arts and humanities,Master studies,M,5
 2017,Number,Services,Master studies,M,0
 2017,Number,Total,Master studies,F,10
 2017,Number,"natural_sciences,_mathematics_and_statistics",Master studies,F,1
@@ -63,7 +63,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Master studies,F,0
 2017,Number,"Business, administration and law",Master studies,F,0
 2017,Number,Education,Master studies,F,1
-2017,Number,arts_and_humanities,Master studies,F,0
+2017,Number,Arts and humanities,Master studies,F,0
 2017,Number,Services,Master studies,F,0
 2017,Number,Total,Specialist studies,Both sexes,73
 2017,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,Both sexes,0
@@ -74,7 +74,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,1
 2017,Number,"Business, administration and law",Specialist studies,Both sexes,1
 2017,Number,Education,Specialist studies,Both sexes,0
-2017,Number,arts_and_humanities,Specialist studies,Both sexes,0
+2017,Number,Arts and humanities,Specialist studies,Both sexes,0
 2017,Number,Services,Specialist studies,Both sexes,0
 2017,Number,Total,Specialist studies,M,34
 2017,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,M,0
@@ -85,7 +85,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Specialist studies,M,1
 2017,Number,"Business, administration and law",Specialist studies,M,0
 2017,Number,Education,Specialist studies,M,0
-2017,Number,arts_and_humanities,Specialist studies,M,0
+2017,Number,Arts and humanities,Specialist studies,M,0
 2017,Number,Services,Specialist studies,M,0
 2017,Number,Total,Specialist studies,F,39
 2017,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,F,0
@@ -96,7 +96,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2017,Number,"Social sciences, journalism and information",Specialist studies,F,0
 2017,Number,"Business, administration and law",Specialist studies,F,1
 2017,Number,Education,Specialist studies,F,0
-2017,Number,arts_and_humanities,Specialist studies,F,0
+2017,Number,Arts and humanities,Specialist studies,F,0
 2017,Number,Services,Specialist studies,F,0
 2018,Number,Total,Master of science studies,Both sexes,14
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,Both sexes,0
@@ -107,7 +107,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,1
 2018,Number,"Business, administration and law",Master of science studies,Both sexes,0
 2018,Number,Education,Master of science studies,Both sexes,9
-2018,Number,arts_and_humanities,Master of science studies,Both sexes,3
+2018,Number,Arts and humanities,Master of science studies,Both sexes,3
 2018,Number,Services,Master of science studies,Both sexes,0
 2018,Number,Total,Master of science studies,M,6
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,M,0
@@ -118,7 +118,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master of science studies,M,1
 2018,Number,"Business, administration and law",Master of science studies,M,0
 2018,Number,Education,Master of science studies,M,2
-2018,Number,arts_and_humanities,Master of science studies,M,3
+2018,Number,Arts and humanities,Master of science studies,M,3
 2018,Number,Services,Master of science studies,M,0
 2018,Number,Total,Master of science studies,F,8
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,F,0
@@ -129,7 +129,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master of science studies,F,0
 2018,Number,"Business, administration and law",Master of science studies,F,0
 2018,Number,Education,Master of science studies,F,7
-2018,Number,arts_and_humanities,Master of science studies,F,0
+2018,Number,Arts and humanities,Master of science studies,F,0
 2018,Number,Services,Master of science studies,F,0
 2018,Number,Total,Master studies,Both sexes,2144
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master studies,Both sexes,76
@@ -140,7 +140,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master studies,Both sexes,503
 2018,Number,"Business, administration and law",Master studies,Both sexes,240
 2018,Number,Education,Master studies,Both sexes,314
-2018,Number,arts_and_humanities,Master studies,Both sexes,291
+2018,Number,Arts and humanities,Master studies,Both sexes,291
 2018,Number,Services,Master studies,Both sexes,7
 2018,Number,Total,Master studies,M,937
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master studies,M,28
@@ -151,7 +151,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master studies,M,163
 2018,Number,"Business, administration and law",Master studies,M,85
 2018,Number,Education,Master studies,M,103
-2018,Number,arts_and_humanities,Master studies,M,133
+2018,Number,Arts and humanities,Master studies,M,133
 2018,Number,Services,Master studies,M,3
 2018,Number,Total,Master studies,F,1207
 2018,Number,"natural_sciences,_mathematics_and_statistics",Master studies,F,48
@@ -162,7 +162,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Master studies,F,340
 2018,Number,"Business, administration and law",Master studies,F,155
 2018,Number,Education,Master studies,F,211
-2018,Number,arts_and_humanities,Master studies,F,158
+2018,Number,Arts and humanities,Master studies,F,158
 2018,Number,Services,Master studies,F,4
 2018,Number,Total,Specialist studies,Both sexes,160
 2018,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,Both sexes,0
@@ -173,7 +173,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,1
 2018,Number,"Business, administration and law",Specialist studies,Both sexes,0
 2018,Number,Education,Specialist studies,Both sexes,2
-2018,Number,arts_and_humanities,Specialist studies,Both sexes,1
+2018,Number,Arts and humanities,Specialist studies,Both sexes,1
 2018,Number,Services,Specialist studies,Both sexes,0
 2018,Number,Total,Specialist studies,M,66
 2018,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,M,0
@@ -184,7 +184,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Specialist studies,M,1
 2018,Number,"Business, administration and law",Specialist studies,M,0
 2018,Number,Education,Specialist studies,M,0
-2018,Number,arts_and_humanities,Specialist studies,M,1
+2018,Number,Arts and humanities,Specialist studies,M,1
 2018,Number,Services,Specialist studies,M,0
 2018,Number,Total,Specialist studies,F,94
 2018,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,F,0
@@ -195,7 +195,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2018,Number,"Social sciences, journalism and information",Specialist studies,F,0
 2018,Number,"Business, administration and law",Specialist studies,F,0
 2018,Number,Education,Specialist studies,F,2
-2018,Number,arts_and_humanities,Specialist studies,F,0
+2018,Number,Arts and humanities,Specialist studies,F,0
 2018,Number,Services,Specialist studies,F,0
 2019,Number,Total,Master of science studies,Both sexes,16
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,Both sexes,0
@@ -206,7 +206,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,0
 2019,Number,"Business, administration and law",Master of science studies,Both sexes,0
 2019,Number,Education,Master of science studies,Both sexes,2
-2019,Number,arts_and_humanities,Master of science studies,Both sexes,1
+2019,Number,Arts and humanities,Master of science studies,Both sexes,1
 2019,Number,Services,Master of science studies,Both sexes,0
 2019,Number,Total,Master of science studies,M,12
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,M,0
@@ -217,7 +217,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master of science studies,M,0
 2019,Number,"Business, administration and law",Master of science studies,M,0
 2019,Number,Education,Master of science studies,M,1
-2019,Number,arts_and_humanities,Master of science studies,M,1
+2019,Number,Arts and humanities,Master of science studies,M,1
 2019,Number,Services,Master of science studies,M,0
 2019,Number,Total,Master of science studies,F,4
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,F,0
@@ -228,7 +228,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master of science studies,F,0
 2019,Number,"Business, administration and law",Master of science studies,F,0
 2019,Number,Education,Master of science studies,F,1
-2019,Number,arts_and_humanities,Master of science studies,F,0
+2019,Number,Arts and humanities,Master of science studies,F,0
 2019,Number,Services,Master of science studies,F,0
 2019,Number,Total,Master studies,Both sexes,2109
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master studies,Both sexes,79
@@ -239,7 +239,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master studies,Both sexes,492
 2019,Number,"Business, administration and law",Master studies,Both sexes,236
 2019,Number,Education,Master studies,Both sexes,298
-2019,Number,arts_and_humanities,Master studies,Both sexes,291
+2019,Number,Arts and humanities,Master studies,Both sexes,291
 2019,Number,Services,Master studies,Both sexes,6
 2019,Number,Total,Master studies,M,930
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master studies,M,22
@@ -250,7 +250,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master studies,M,160
 2019,Number,"Business, administration and law",Master studies,M,89
 2019,Number,Education,Master studies,M,104
-2019,Number,arts_and_humanities,Master studies,M,142
+2019,Number,Arts and humanities,Master studies,M,142
 2019,Number,Services,Master studies,M,3
 2019,Number,Total,Master studies,F,1179
 2019,Number,"natural_sciences,_mathematics_and_statistics",Master studies,F,57
@@ -261,7 +261,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Master studies,F,332
 2019,Number,"Business, administration and law",Master studies,F,147
 2019,Number,Education,Master studies,F,194
-2019,Number,arts_and_humanities,Master studies,F,149
+2019,Number,Arts and humanities,Master studies,F,149
 2019,Number,Services,Master studies,F,3
 2019,Number,Total,Specialist studies,Both sexes,170
 2019,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,Both sexes,0
@@ -272,7 +272,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,0
 2019,Number,"Business, administration and law",Specialist studies,Both sexes,0
 2019,Number,Education,Specialist studies,Both sexes,0
-2019,Number,arts_and_humanities,Specialist studies,Both sexes,0
+2019,Number,Arts and humanities,Specialist studies,Both sexes,0
 2019,Number,Services,Specialist studies,Both sexes,0
 2019,Number,Total,Specialist studies,M,72
 2019,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,M,0
@@ -283,7 +283,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Specialist studies,M,0
 2019,Number,"Business, administration and law",Specialist studies,M,0
 2019,Number,Education,Specialist studies,M,0
-2019,Number,arts_and_humanities,Specialist studies,M,0
+2019,Number,Arts and humanities,Specialist studies,M,0
 2019,Number,Services,Specialist studies,M,0
 2019,Number,Total,Specialist studies,F,98
 2019,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,F,0
@@ -294,7 +294,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2019,Number,"Social sciences, journalism and information",Specialist studies,F,0
 2019,Number,"Business, administration and law",Specialist studies,F,0
 2019,Number,Education,Specialist studies,F,0
-2019,Number,arts_and_humanities,Specialist studies,F,0
+2019,Number,Arts and humanities,Specialist studies,F,0
 2019,Number,Services,Specialist studies,F,0
 2020,Number,Total,Master of science studies,Both sexes,4
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,Both sexes,0
@@ -305,7 +305,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,0
 2020,Number,"Business, administration and law",Master of science studies,Both sexes,2
 2020,Number,Education,Master of science studies,Both sexes,2
-2020,Number,arts_and_humanities,Master of science studies,Both sexes,0
+2020,Number,Arts and humanities,Master of science studies,Both sexes,0
 2020,Number,Services,Master of science studies,Both sexes,0
 2020,Number,Total,Master of science studies,M,3
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,M,0
@@ -316,7 +316,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master of science studies,M,0
 2020,Number,"Business, administration and law",Master of science studies,M,1
 2020,Number,Education,Master of science studies,M,2
-2020,Number,arts_and_humanities,Master of science studies,M,0
+2020,Number,Arts and humanities,Master of science studies,M,0
 2020,Number,Services,Master of science studies,M,0
 2020,Number,Total,Master of science studies,F,1
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master of science studies,F,0
@@ -327,7 +327,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master of science studies,F,0
 2020,Number,"Business, administration and law",Master of science studies,F,1
 2020,Number,Education,Master of science studies,F,0
-2020,Number,arts_and_humanities,Master of science studies,F,0
+2020,Number,Arts and humanities,Master of science studies,F,0
 2020,Number,Services,Master of science studies,F,0
 2020,Number,Total,Master studies,Both sexes,2430
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master studies,Both sexes,93
@@ -338,7 +338,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master studies,Both sexes,619
 2020,Number,"Business, administration and law",Master studies,Both sexes,216
 2020,Number,Education,Master studies,Both sexes,381
-2020,Number,arts_and_humanities,Master studies,Both sexes,328
+2020,Number,Arts and humanities,Master studies,Both sexes,328
 2020,Number,Services,Master studies,Both sexes,9
 2020,Number,Total,Master studies,M,1036
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master studies,M,26
@@ -349,7 +349,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master studies,M,194
 2020,Number,"Business, administration and law",Master studies,M,79
 2020,Number,Education,Master studies,M,129
-2020,Number,arts_and_humanities,Master studies,M,142
+2020,Number,Arts and humanities,Master studies,M,142
 2020,Number,Services,Master studies,M,3
 2020,Number,Total,Master studies,F,1394
 2020,Number,"natural_sciences,_mathematics_and_statistics",Master studies,F,67
@@ -360,7 +360,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Master studies,F,425
 2020,Number,"Business, administration and law",Master studies,F,137
 2020,Number,Education,Master studies,F,252
-2020,Number,arts_and_humanities,Master studies,F,186
+2020,Number,Arts and humanities,Master studies,F,186
 2020,Number,Services,Master studies,F,6
 2020,Number,Total,Specialist studies,Both sexes,170
 2020,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,Both sexes,0
@@ -371,7 +371,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,0
 2020,Number,"Business, administration and law",Specialist studies,Both sexes,0
 2020,Number,Education,Specialist studies,Both sexes,0
-2020,Number,arts_and_humanities,Specialist studies,Both sexes,0
+2020,Number,Arts and humanities,Specialist studies,Both sexes,0
 2020,Number,Services,Specialist studies,Both sexes,0
 2020,Number,Total,Specialist studies,M,39
 2020,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,M,0
@@ -382,7 +382,7 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Specialist studies,M,0
 2020,Number,"Business, administration and law",Specialist studies,M,0
 2020,Number,Education,Specialist studies,M,0
-2020,Number,arts_and_humanities,Specialist studies,M,0
+2020,Number,Arts and humanities,Specialist studies,M,0
 2020,Number,Services,Specialist studies,M,0
 2020,Number,Total,Specialist studies,F,131
 2020,Number,"natural_sciences,_mathematics_and_statistics",Specialist studies,F,0
@@ -393,5 +393,5 @@ Year,UNIT_MEASURE,Scientific field,type_of_education,Sex,Value
 2020,Number,"Social sciences, journalism and information",Specialist studies,F,0
 2020,Number,"Business, administration and law",Specialist studies,F,0
 2020,Number,Education,Specialist studies,F,0
-2020,Number,arts_and_humanities,Specialist studies,F,0
+2020,Number,Arts and humanities,Specialist studies,F,0
 2020,Number,Services,Specialist studies,F,0
