@@ -111,12 +111,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "illiterate",
-                "unknown_literacy",
+                "Неписмен",
+                "Непозната писменост",
                 ""
               ]
             },
-            "title": "Literacy"
+            "title": "Писменост"
           },
           {
             "name": "Value",
