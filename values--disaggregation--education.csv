@@ -1,8 +1,8 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-elementary_education,Primary school,elementary_education,elementary_education,189,1
-first_degree,Higher school,first_degree,first_degree,189,1
-incomplete_elementary,Incomplete primary school,incomplete_elementary,incomplete_elementary,189,1
+elementary_education,Primary school,Osnovna škola,elementary_education,189,1
+first_degree,Higher school,Viša škola i prvi stepen fakulteta,first_degree,189,1
+incomplete_elementary,Incomplete primary school,Nepotpuno osnovno obrazovanje,incomplete_elementary,189,1
 no_education,No education,Bez obrazovanja,Без образовања,189,1
-secondary_education,Secondary school,secondary_education,secondary_education,189,1
-secondary_specialization,Secondary specialization,secondary_specialization,secondary_specialization,189,1
-university_degree,University,university_degree,university_degree,189,1
+secondary_education,Secondary school,Srednja škola,secondary_education,189,1
+secondary_specialization,Secondary specialization,Specijalizacija poslije srednje škole,secondary_specialization,189,1
+university_degree,University,Visoka škola / fakultet / akademija / univerzitet,university_degree,189,1
