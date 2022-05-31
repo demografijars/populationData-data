@@ -48,11 +48,12 @@ inactive_as_of_working: "Inactive as % of working age population"
 ACTIVITY_RATES: Activity rates
 total_15: Total 15+
 no_education: No education
-incomplete_primary_education: Incomplete primary education
-primary_school: Primary school
-secondary_school: Secondary school
-higher_school_and_first_grade_of_faculty: Higher school and first grade of faculty
-advanced_schools_faculty_academy_university: Advanced schools / faculty / academy / university
+incomplete_elementary: Incomplete primary school
+elementary_education: Primary school
+secondary_education: Secondary school
+secondary_specialization: Secondary specialization
+first_degree: Higher school
+university_education: University
 unknown: Unknown
 total_illiterate: Total illiterate
 of_total_for_age_group: '% of total for age group'
