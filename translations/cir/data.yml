@@ -213,14 +213,14 @@ agricultural_selling: Обављање пољопривредне дјелатн
 Literacy: Писменост
 illiterate: Неписмен
 unknown_literacy: Непозната писменост
-Highest_education_atainment: Највиши достигнути степен образовања
-No_education: Необразован
-Incomplete_primary_education: Незавршено основно образовање
-Primary_school: Основна школа
-High_school: Средња школа
-Post-secondary_school_specialization: Специјализација након завршене средње школе
-High_school_and_first_grade_of_faculty: Виша школа и први степен факултета
-Advanced_schools_faculty_academy_university: Висока школа / факултет / академија / универзитет
+Education: Највиши достигнути степен образовања
+no_education: Без икаквог образовања
+incomplete_elementary: Непотпуно основно образовање
+elementary_education: Основна школа
+secondary_education: Средња школа
+secondary_specialization: Специјализација послије средње школе
+first_degree: Виша школа и први степен факултета
+university_degree: Висока школа / факултет / академија / универзитет
 private: Приватна
 public: Јавна
 gymnasium: Гимназија
