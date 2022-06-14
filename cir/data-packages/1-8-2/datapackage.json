@@ -21,7 +21,7 @@
             "title": "Мјерна јединица"
           },
           {
-            "name": "AGE",
+            "name": "Age_group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Старосна доб"
+            "title": "Старосна група"
           },
           {
             "name": "SEX",

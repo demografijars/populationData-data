@@ -2121,7 +2121,7 @@
             "type": "string"
           },
           {
-            "name": "AGE",
+            "name": "Age_group",
             "type": "string",
             "constraints": {
               "enum": [
