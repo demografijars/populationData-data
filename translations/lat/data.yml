@@ -10,14 +10,15 @@ Municipality: Opština
 Bothsex: Oba pola
 Male: M
 Female: Ž
-AGE: Starosna dob
+AGE: Starost
 KG: Kilogrami
 NUMBER: Broj
 UNIT_MEASURE: Mjerna jedinica
 USD: USD
 _%: "% od ukupno"
 Type: Vrsta
-Age: Starosna dob
+Age: Starost
+Age_groups: Starosna grupa
 all: Svi
 BIRTHS: Vitalna statistika
 LIVE_BIRTH: Živorođeni
