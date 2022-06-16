@@ -1,22 +1,22 @@
 1-1-1-title: Vitalna statistika prema polu (živorođeni, umrli i prirodni priraštaj)
-1-1-2-title: Stopa prirodnog rasta
+1-1-2-title: Stopa prirodnog priraštaja
 1-2-1-title: Stopa nataliteta
-1-2-2-title: Ukupna stopa fertiliteta
+1-2-2-title: Stopa ukupnog fertiliteta
 1-2-3-title: Stopa fertiliteta prema starosnim grupama
-1-2-4-title: Omjer muške i ženske dojenčadi
+1-2-4-title: Odnos polova pri rođenju
 1-2-5-title: Broj porođaja adolescentkinja prema starosnim grupama
 1-3-1-title: Stopa mortaliteta
-1-3-2-title: Umrla dojenčad prema polu
-1-3-3-title: Stopa smrtnosti dojenčadi
+1-3-2-title: Umrla odojčad prema polu
+1-3-3-title: Stopa smrtnosti odojčadi
 1-3-4-title: Umrli prema uzroku smrti i polu
 1-3-5-title: Mrtvorođeni prema polu
 1-3-6-title: Stopa mrtvorođenih
 1-4-1-title: Prosječna starost majke prilikom rođenja prvog djeteta
 1-4-2-title: Prosječna starost stanovništva prema polu
 1-4-3-title: Prosječna starost u trenutku smrti prema polu
-1-4-4-title: Prosječna starost prilikom sklapanja prvog braka prema polu
-1-4-5-title: Prosječna starost prilikom razvoda braka prema polu
-1-5-1-title: Očekivano trajanje života pri rođenju prema polu
+1-4-4-title: Prosječna starost supružnika pri zaključenju prvog braka
+1-4-5-title: Prosječna starost muža i žene pri razvodu braka
+1-5-1-title: Očekivano trajanje života živorođene djece prema polu
 1-6-1-title: Zaključeni brakovi
 1-6-2-title: Stopa nupcijaliteta
 1-6-3-title: Razvedeni brakovi
@@ -31,23 +31,22 @@
 1-7-8-title: Projektovana populaciona piramida
 1-8-1-title: Procjene stanovništva prema dobi i polu
 1-8-2-title: Procjene stanovništva prema starosnim grupama i polu
-1-8-3-title: Procjene stanovništva prema gradu/opštini, starosnim grupama i polu
+1-8-3-title: Procjene stanovništva prema starosnim grupama i polu, gradovi/opštine
 2-1-1-title: Stanovništvo prema starosti i polu
 2-1-2-title: Stanovništvo prema starosnim grupama i polu
-2-1-3-title: Stanovništvo prema gradu/opštini, starosnim grupama i polu
-2-1-4-title: Populaciona piramida
-2-1-5-title: Ženska populacija u dobi od 15 i više godina prema broju živorođene djece
+2-1-3-title: Stanovništvo prema starosnim grupama i polu, gradovi/opštine
+2-1-5-title: Žensko stanovništvo staro 15 i više godina prema ukupnom broju živorođene djece, gradovi/opštine
 2-1-6-title: Koeficijenti zavisnosti prema polu
-2-2-1-title: Stanovništvo prema gradu/opštini, etničkoj/nacionalnoj pripadnosti i polu
-2-2-2-title: Stanovništvo prema gradu/opštini, vjeroispovijesti i polu
-2-2-3-title: Stanovništvo prema gradu/opštini, maternjem jeziku i polu
-2-3-1-title: Domaćinstva prema gradu/opštini i broju članova
-2-3-2-title: Domaćinstva prema gradu/opštini i poljoprivrednoj aktivnosti
-2-4-1-title: Stanovništvo staro 10 i više godina prema gradu/opštini, pismenosti i polu
-2-4-2-title: Stanovništvo staro 15 i više godina prema gradu/opštini, najvišoj završenoj školi i polu
-2-5-1-title: Stanovništvo sa poteškoćama prema polu
-3-1-1-title: Umrla dojenčad prema polu
-3-1-2-title: Stopa smrtnosti dojenčadi
+2-2-1-title: Stanovništvo prema etničkoj/nacionalnoj pripadnosti i polu, gradovi/opštine
+2-2-2-title: Stanovništvo prema vjeroispovijesti i polu, gradovi/opštine
+2-2-3-title: Stanovništvo prema maternjem jeziku i polu, gradovi/opštine
+2-3-1-title: Domaćinstva prema broju članova, gradovi/opštine
+2-3-2-title: Domaćinstva koja obavljaju poljoprivrednu aktivnosti, gradovi/opštine
+2-4-1-title: Stanovništvo staro 10 i više godina prema pismenosti i polu, gradovi/opštine
+2-4-2-title: Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i polu, gradovi/opštine
+2-5-1-title: Lica sa poteškoćama prema polu
+3-1-1-title: Umrla odojčad prema polu
+3-1-2-title: Stopa smrtnosti odojčadi
 3-1-3-title: Umrli prema uzroku smrti i polu
 3-1-4-title: Mrtvorođeni prema polu
 3-1-5-title: Stopa mrtvorođenih
@@ -107,8 +106,8 @@
 5-6-4-title: Doktori nauka prema oblasti obrazovanja
 5-7-1-title: Stanovništvo od 25-64 godine upisano u neformalno obrazovanje odraslih, prema starosti i polu
 5-7-2-title: Stanovništvo od 15-24 godine koje nije zaposleno, ne obrazuje se niti se usavršava (NEET), prema polu
-5-7-3-title: Stanovništvo staro 10 i više godina prema gradu/opštini, pismenosti i polu
-5-7-4-title: Stanovništvo staro 15 i više godina prema gradu/opštini, najvišoj završenoj školi i polu
+5-7-3-title: Stanovništvo staro 10 i više godina prema pismenosti i polu, gradovi/opštine
+5-7-4-title: Stanovništvo staro 15 i više godina prema najvišoj završenoj školi i polu, gradovi/opštine
 6-1-1-title: Bruto društveni proizvod (BDP) – ukupni (u milionima)
 6-1-2-title: Bruto društveni proizvod (BDP) prema glavi stanovnika
 6-1-3-title: Stopa realnog rasta bruto društvenog proizvoda (BDP)
