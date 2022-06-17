@@ -81,7 +81,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "UNIT_MEASURE",
@@ -104,8 +104,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Performing agricultural activity",
-                "Performing agricultural activity and selling agricultural products in the market"
+                "Engaged in agricultural activities",
+                "Engaged in agricultural activities that sell their products in the market"
               ]
             },
             "title": "Agricultural activity"

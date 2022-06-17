@@ -81,7 +81,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Nationality",
@@ -90,12 +90,12 @@
               "enum": [
                 "",
                 "Total",
-                "Bosniak",
-                "Croat",
-                "Does not declare ethnicity/nationality",
-                "Other ethnicity/nationality",
-                "Serb",
-                "Unknown ethnicity/nationality"
+                "Bosniaks",
+                "Croats",
+                "Did not declare",
+                "Other",
+                "Serbs",
+                "Unknown"
               ]
             },
             "title": "Ethnicity/nationality"

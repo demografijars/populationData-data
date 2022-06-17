@@ -81,7 +81,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Mother_tongue",
@@ -92,9 +92,9 @@
                 "Total",
                 "Bosnian",
                 "Croatian",
-                "Other language",
+                "Other",
                 "Serbian",
-                "Unknown language"
+                "Unknown"
               ]
             },
             "title": "Mother tongue"

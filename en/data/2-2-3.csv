@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Administrative area,Sex,Mother tongue,Value
+Year,UNIT_MEASURE,City/minicipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Total,1170342
 2013,Number,Republika Srpska,M,Total,571812
 2013,Number,Republika Srpska,F,Total,598530
@@ -755,381 +755,381 @@ Year,UNIT_MEASURE,Administrative area,Sex,Mother tongue,Value
 2013,Number,Sipovo,Total,Serbian,9332
 2013,Number,Sipovo,M,Serbian,4725
 2013,Number,Sipovo,F,Serbian,4607
-2013,Number,Republika Srpska,Total,Other language,17824
-2013,Number,Republika Srpska,M,Other language,8017
-2013,Number,Republika Srpska,F,Other language,9807
-2013,Number,City of Banja Luka,Total,Other language,5207
-2013,Number,City of Banja Luka,M,Other language,2214
-2013,Number,City of Banja Luka,F,Other language,2993
-2013,Number,Berkovici,Total,Other language,5
-2013,Number,Berkovici,M,Other language,2
-2013,Number,Berkovici,F,Other language,3
-2013,Number,City of Bijeljina,Total,Other language,1418
-2013,Number,City of Bijeljina,M,Other language,673
-2013,Number,City of Bijeljina,F,Other language,745
-2013,Number,Bileca,Total,Other language,32
-2013,Number,Bileca,M,Other language,18
-2013,Number,Bileca,F,Other language,14
-2013,Number,Bratunac,Total,Other language,69
-2013,Number,Bratunac,M,Other language,33
-2013,Number,Bratunac,F,Other language,36
-2013,Number,Brod,Total,Other language,283
-2013,Number,Brod,M,Other language,111
-2013,Number,Brod,F,Other language,172
-2013,Number,Visegrad,Total,Other language,66
-2013,Number,Visegrad,M,Other language,32
-2013,Number,Visegrad,F,Other language,34
-2013,Number,Vlasenica,Total,Other language,89
-2013,Number,Vlasenica,M,Other language,36
-2013,Number,Vlasenica,F,Other language,53
-2013,Number,Vukosavlje,Total,Other language,116
-2013,Number,Vukosavlje,M,Other language,68
-2013,Number,Vukosavlje,F,Other language,48
-2013,Number,Gacko,Total,Other language,9
-2013,Number,Gacko,M,Other language,5
-2013,Number,Gacko,F,Other language,4
-2013,Number,City of Gradiska,Total,Other language,1025
-2013,Number,City of Gradiska,M,Other language,481
-2013,Number,City of Gradiska,F,Other language,544
-2013,Number,City of Derventa,Total,Other language,447
-2013,Number,City of Derventa,M,Other language,196
-2013,Number,City of Derventa,F,Other language,251
-2013,Number,City of Doboj,Total,Other language,1380
-2013,Number,City of Doboj,M,Other language,644
-2013,Number,City of Doboj,F,Other language,736
-2013,Number,Donji Zabar,Total,Other language,15
-2013,Number,Donji Zabar,M,Other language,4
-2013,Number,Donji Zabar,F,Other language,11
-2013,Number,City of Zvornik,Total,Other language,116
-2013,Number,City of Zvornik,M,Other language,48
-2013,Number,City of Zvornik,F,Other language,68
-2013,Number,East Ilidza,Total,Other language,125
-2013,Number,East Ilidza,M,Other language,50
-2013,Number,East Ilidza,F,Other language,75
-2013,Number,East Drvar,Total,Other language,0
-2013,Number,East Drvar,M,Other language,0
-2013,Number,East Drvar,F,Other language,0
-2013,Number,East Mostar,Total,Other language,0
-2013,Number,East Mostar,M,Other language,0
-2013,Number,East Mostar,F,Other language,0
-2013,Number,East Stari Grad,Total,Other language,6
-2013,Number,East Stari Grad,M,Other language,2
-2013,Number,East Stari Grad,F,Other language,4
-2013,Number,East Novo Sarajevo,Total,Other language,199
-2013,Number,East Novo Sarajevo,M,Other language,86
-2013,Number,East Novo Sarajevo,F,Other language,113
-2013,Number,Jezero,Total,Other language,1
-2013,Number,Jezero,M,Other language,1
-2013,Number,Jezero,F,Other language,0
-2013,Number,Kalinovik,Total,Other language,11
-2013,Number,Kalinovik,M,Other language,8
-2013,Number,Kalinovik,F,Other language,3
-2013,Number,Knezevo,Total,Other language,30
-2013,Number,Knezevo,M,Other language,8
-2013,Number,Knezevo,F,Other language,22
-2013,Number,Kozarska Dubica,Total,Other language,209
-2013,Number,Kozarska Dubica,M,Other language,89
-2013,Number,Kozarska Dubica,F,Other language,120
-2013,Number,Kostajnica,Total,Other language,112
-2013,Number,Kostajnica,M,Other language,51
-2013,Number,Kostajnica,F,Other language,61
-2013,Number,Kotor Varos,Total,Other language,181
-2013,Number,Kotor Varos,M,Other language,75
-2013,Number,Kotor Varos,F,Other language,106
-2013,Number,Krupa Na Uni,Total,Other language,0
-2013,Number,Krupa Na Uni,M,Other language,0
-2013,Number,Krupa Na Uni,F,Other language,0
-2013,Number,Kupres,Total,Other language,3
-2013,Number,Kupres,M,Other language,2
-2013,Number,Kupres,F,Other language,1
-2013,Number,Laktasi,Total,Other language,578
-2013,Number,Laktasi,M,Other language,286
-2013,Number,Laktasi,F,Other language,292
-2013,Number,Lopare,Total,Other language,28
-2013,Number,Lopare,M,Other language,9
-2013,Number,Lopare,F,Other language,19
-2013,Number,Ljubinje,Total,Other language,3
-2013,Number,Ljubinje,M,Other language,1
-2013,Number,Ljubinje,F,Other language,2
-2013,Number,Milici,Total,Other language,9
-2013,Number,Milici,M,Other language,1
-2013,Number,Milici,F,Other language,8
-2013,Number,Modrica,Total,Other language,470
-2013,Number,Modrica,M,Other language,208
-2013,Number,Modrica,F,Other language,262
-2013,Number,Mrkonjic Grad,Total,Other language,97
-2013,Number,Mrkonjic Grad,M,Other language,52
-2013,Number,Mrkonjic Grad,F,Other language,45
-2013,Number,Nevesinje,Total,Other language,17
-2013,Number,Nevesinje,M,Other language,4
-2013,Number,Nevesinje,F,Other language,13
-2013,Number,Novi Grad,Total,Other language,263
-2013,Number,Novi Grad,M,Other language,108
-2013,Number,Novi Grad,F,Other language,155
-2013,Number,Novo Gorazde,Total,Other language,4
-2013,Number,Novo Gorazde,M,Other language,3
-2013,Number,Novo Gorazde,F,Other language,1
-2013,Number,Osmaci,Total,Other language,8
-2013,Number,Osmaci,M,Other language,1
-2013,Number,Osmaci,F,Other language,7
-2013,Number,Ostra Luka,Total,Other language,32
-2013,Number,Ostra Luka,M,Other language,16
-2013,Number,Ostra Luka,F,Other language,16
-2013,Number,Pale,Total,Other language,108
-2013,Number,Pale,M,Other language,42
-2013,Number,Pale,F,Other language,66
-2013,Number,Pelagicevo,Total,Other language,30
-2013,Number,Pelagicevo,M,Other language,12
-2013,Number,Pelagicevo,F,Other language,18
-2013,Number,Petrovac,Total,Other language,1
-2013,Number,Petrovac,M,Other language,0
-2013,Number,Petrovac,F,Other language,1
-2013,Number,Petrovo,Total,Other language,41
-2013,Number,Petrovo,M,Other language,15
-2013,Number,Petrovo,F,Other language,26
-2013,Number,City of Prijedor,Total,Other language,1883
-2013,Number,City of Prijedor,M,Other language,879
-2013,Number,City of Prijedor,F,Other language,1004
-2013,Number,Prnjavor,Total,Other language,1131
-2013,Number,Prnjavor,M,Other language,565
-2013,Number,Prnjavor,F,Other language,566
-2013,Number,Ribnik,Total,Other language,13
-2013,Number,Ribnik,M,Other language,5
-2013,Number,Ribnik,F,Other language,8
-2013,Number,Rogatica,Total,Other language,35
-2013,Number,Rogatica,M,Other language,17
-2013,Number,Rogatica,F,Other language,18
-2013,Number,Rudo,Total,Other language,8
-2013,Number,Rudo,M,Other language,3
-2013,Number,Rudo,F,Other language,5
-2013,Number,Sokolac,Total,Other language,35
-2013,Number,Sokolac,M,Other language,9
-2013,Number,Sokolac,F,Other language,26
-2013,Number,Srbac,Total,Other language,180
-2013,Number,Srbac,M,Other language,91
-2013,Number,Srbac,F,Other language,89
-2013,Number,Srebrenica,Total,Other language,49
-2013,Number,Srebrenica,M,Other language,32
-2013,Number,Srebrenica,F,Other language,17
-2013,Number,Teslic,Total,Other language,864
-2013,Number,Teslic,M,Other language,390
-2013,Number,Teslic,F,Other language,474
-2013,Number,City of Trebinje,Total,Other language,269
-2013,Number,City of Trebinje,M,Other language,101
-2013,Number,City of Trebinje,F,Other language,168
-2013,Number,Trnovo,Total,Other language,8
-2013,Number,Trnovo,M,Other language,5
-2013,Number,Trnovo,F,Other language,3
-2013,Number,Ugljevik,Total,Other language,36
-2013,Number,Ugljevik,M,Other language,15
-2013,Number,Ugljevik,F,Other language,21
-2013,Number,Foca,Total,Other language,63
-2013,Number,Foca,M,Other language,35
-2013,Number,Foca,F,Other language,28
-2013,Number,Han Pijesak,Total,Other language,7
-2013,Number,Han Pijesak,M,Other language,6
-2013,Number,Han Pijesak,F,Other language,1
-2013,Number,Cajnice,Total,Other language,12
-2013,Number,Cajnice,M,Other language,6
-2013,Number,Cajnice,F,Other language,6
-2013,Number,Celinac,Total,Other language,74
-2013,Number,Celinac,M,Other language,26
-2013,Number,Celinac,F,Other language,48
-2013,Number,Samac,Total,Other language,277
-2013,Number,Samac,M,Other language,116
-2013,Number,Samac,F,Other language,161
-2013,Number,Sekovici,Total,Other language,11
-2013,Number,Sekovici,M,Other language,4
-2013,Number,Sekovici,F,Other language,7
-2013,Number,Sipovo,Total,Other language,26
-2013,Number,Sipovo,M,Other language,17
-2013,Number,Sipovo,F,Other language,9
-2013,Number,Republika Srpska,Total,Unknown language,2502
-2013,Number,Republika Srpska,M,Unknown language,1156
-2013,Number,Republika Srpska,F,Unknown language,1346
-2013,Number,City of Banja Luka,Total,Unknown language,411
-2013,Number,City of Banja Luka,M,Unknown language,189
-2013,Number,City of Banja Luka,F,Unknown language,222
-2013,Number,Berkovici,Total,Unknown language,2
-2013,Number,Berkovici,M,Unknown language,0
-2013,Number,Berkovici,F,Unknown language,2
-2013,Number,City of Bijeljina,Total,Unknown language,124
-2013,Number,City of Bijeljina,M,Unknown language,51
-2013,Number,City of Bijeljina,F,Unknown language,73
-2013,Number,Bileca,Total,Unknown language,14
-2013,Number,Bileca,M,Unknown language,7
-2013,Number,Bileca,F,Unknown language,7
-2013,Number,Bratunac,Total,Unknown language,46
-2013,Number,Bratunac,M,Unknown language,21
-2013,Number,Bratunac,F,Unknown language,25
-2013,Number,Brod,Total,Unknown language,44
-2013,Number,Brod,M,Unknown language,20
-2013,Number,Brod,F,Unknown language,24
-2013,Number,Visegrad,Total,Unknown language,178
-2013,Number,Visegrad,M,Unknown language,2
-2013,Number,Visegrad,F,Unknown language,176
-2013,Number,Vlasenica,Total,Unknown language,29
-2013,Number,Vlasenica,M,Unknown language,14
-2013,Number,Vlasenica,F,Unknown language,15
-2013,Number,Vukosavlje,Total,Unknown language,15
-2013,Number,Vukosavlje,M,Unknown language,2
-2013,Number,Vukosavlje,F,Unknown language,13
-2013,Number,Gacko,Total,Unknown language,10
-2013,Number,Gacko,M,Unknown language,2
-2013,Number,Gacko,F,Unknown language,8
-2013,Number,City of Gradiska,Total,Unknown language,85
-2013,Number,City of Gradiska,M,Unknown language,39
-2013,Number,City of Gradiska,F,Unknown language,46
-2013,Number,City of Derventa,Total,Unknown language,74
-2013,Number,City of Derventa,M,Unknown language,33
-2013,Number,City of Derventa,F,Unknown language,41
-2013,Number,City of Doboj,Total,Unknown language,178
-2013,Number,City of Doboj,M,Unknown language,70
-2013,Number,City of Doboj,F,Unknown language,108
-2013,Number,Donji Zabar,Total,Unknown language,6
-2013,Number,Donji Zabar,M,Unknown language,4
-2013,Number,Donji Zabar,F,Unknown language,2
-2013,Number,City of Zvornik,Total,Unknown language,119
-2013,Number,City of Zvornik,M,Unknown language,52
-2013,Number,City of Zvornik,F,Unknown language,67
-2013,Number,East Ilidza,Total,Unknown language,13
-2013,Number,East Ilidza,M,Unknown language,7
-2013,Number,East Ilidza,F,Unknown language,6
-2013,Number,East Drvar,Total,Unknown language,0
-2013,Number,East Drvar,M,Unknown language,0
-2013,Number,East Drvar,F,Unknown language,0
-2013,Number,East Mostar,Total,Unknown language,3
-2013,Number,East Mostar,M,Unknown language,1
-2013,Number,East Mostar,F,Unknown language,2
-2013,Number,East Stari Grad,Total,Unknown language,2
-2013,Number,East Stari Grad,M,Unknown language,2
-2013,Number,East Stari Grad,F,Unknown language,0
-2013,Number,East Novo Sarajevo,Total,Unknown language,9
-2013,Number,East Novo Sarajevo,M,Unknown language,2
-2013,Number,East Novo Sarajevo,F,Unknown language,7
-2013,Number,Jezero,Total,Unknown language,1
-2013,Number,Jezero,M,Unknown language,1
-2013,Number,Jezero,F,Unknown language,0
-2013,Number,Kalinovik,Total,Unknown language,4
-2013,Number,Kalinovik,M,Unknown language,2
-2013,Number,Kalinovik,F,Unknown language,2
-2013,Number,Knezevo,Total,Unknown language,8
-2013,Number,Knezevo,M,Unknown language,4
-2013,Number,Knezevo,F,Unknown language,4
-2013,Number,Kozarska Dubica,Total,Unknown language,23
-2013,Number,Kozarska Dubica,M,Unknown language,10
-2013,Number,Kozarska Dubica,F,Unknown language,13
-2013,Number,Kostajnica,Total,Unknown language,3
-2013,Number,Kostajnica,M,Unknown language,1
-2013,Number,Kostajnica,F,Unknown language,2
-2013,Number,Kotor Varos,Total,Unknown language,23
-2013,Number,Kotor Varos,M,Unknown language,15
-2013,Number,Kotor Varos,F,Unknown language,8
-2013,Number,Krupa Na Uni,Total,Unknown language,0
-2013,Number,Krupa Na Uni,M,Unknown language,0
-2013,Number,Krupa Na Uni,F,Unknown language,0
-2013,Number,Kupres,Total,Unknown language,0
-2013,Number,Kupres,M,Unknown language,0
-2013,Number,Kupres,F,Unknown language,0
-2013,Number,Laktasi,Total,Unknown language,82
-2013,Number,Laktasi,M,Unknown language,36
-2013,Number,Laktasi,F,Unknown language,46
-2013,Number,Lopare,Total,Unknown language,24
-2013,Number,Lopare,M,Unknown language,12
-2013,Number,Lopare,F,Unknown language,12
-2013,Number,Ljubinje,Total,Unknown language,4
-2013,Number,Ljubinje,M,Unknown language,2
-2013,Number,Ljubinje,F,Unknown language,2
-2013,Number,Milici,Total,Unknown language,11
-2013,Number,Milici,M,Unknown language,4
-2013,Number,Milici,F,Unknown language,7
-2013,Number,Modrica,Total,Unknown language,133
-2013,Number,Modrica,M,Unknown language,71
-2013,Number,Modrica,F,Unknown language,62
-2013,Number,Mrkonjic Grad,Total,Unknown language,16
-2013,Number,Mrkonjic Grad,M,Unknown language,7
-2013,Number,Mrkonjic Grad,F,Unknown language,9
-2013,Number,Nevesinje,Total,Unknown language,17
-2013,Number,Nevesinje,M,Unknown language,5
-2013,Number,Nevesinje,F,Unknown language,12
-2013,Number,Novi Grad,Total,Unknown language,36
-2013,Number,Novi Grad,M,Unknown language,20
-2013,Number,Novi Grad,F,Unknown language,16
-2013,Number,Novo Gorazde,Total,Unknown language,8
-2013,Number,Novo Gorazde,M,Unknown language,3
-2013,Number,Novo Gorazde,F,Unknown language,5
-2013,Number,Osmaci,Total,Unknown language,5
-2013,Number,Osmaci,M,Unknown language,2
-2013,Number,Osmaci,F,Unknown language,3
-2013,Number,Ostra Luka,Total,Unknown language,2
-2013,Number,Ostra Luka,M,Unknown language,2
-2013,Number,Ostra Luka,F,Unknown language,0
-2013,Number,Pale,Total,Unknown language,11
-2013,Number,Pale,M,Unknown language,8
-2013,Number,Pale,F,Unknown language,3
-2013,Number,Pelagicevo,Total,Unknown language,5
-2013,Number,Pelagicevo,M,Unknown language,1
-2013,Number,Pelagicevo,F,Unknown language,4
-2013,Number,Petrovac,Total,Unknown language,0
-2013,Number,Petrovac,M,Unknown language,0
-2013,Number,Petrovac,F,Unknown language,0
-2013,Number,Petrovo,Total,Unknown language,5
-2013,Number,Petrovo,M,Unknown language,2
-2013,Number,Petrovo,F,Unknown language,3
-2013,Number,City of Prijedor,Total,Unknown language,394
-2013,Number,City of Prijedor,M,Unknown language,269
-2013,Number,City of Prijedor,F,Unknown language,125
-2013,Number,Prnjavor,Total,Unknown language,50
-2013,Number,Prnjavor,M,Unknown language,20
-2013,Number,Prnjavor,F,Unknown language,30
-2013,Number,Ribnik,Total,Unknown language,3
-2013,Number,Ribnik,M,Unknown language,3
-2013,Number,Ribnik,F,Unknown language,0
-2013,Number,Rogatica,Total,Unknown language,5
-2013,Number,Rogatica,M,Unknown language,2
-2013,Number,Rogatica,F,Unknown language,3
-2013,Number,Rudo,Total,Unknown language,5
-2013,Number,Rudo,M,Unknown language,2
-2013,Number,Rudo,F,Unknown language,3
-2013,Number,Sokolac,Total,Unknown language,21
-2013,Number,Sokolac,M,Unknown language,7
-2013,Number,Sokolac,F,Unknown language,14
-2013,Number,Srbac,Total,Unknown language,41
-2013,Number,Srbac,M,Unknown language,21
-2013,Number,Srbac,F,Unknown language,20
-2013,Number,Srebrenica,Total,Unknown language,29
-2013,Number,Srebrenica,M,Unknown language,14
-2013,Number,Srebrenica,F,Unknown language,15
-2013,Number,Teslic,Total,Unknown language,58
-2013,Number,Teslic,M,Unknown language,27
-2013,Number,Teslic,F,Unknown language,31
-2013,Number,City of Trebinje,Total,Unknown language,21
-2013,Number,City of Trebinje,M,Unknown language,13
-2013,Number,City of Trebinje,F,Unknown language,8
-2013,Number,Trnovo,Total,Unknown language,1
-2013,Number,Trnovo,M,Unknown language,0
-2013,Number,Trnovo,F,Unknown language,1
-2013,Number,Ugljevik,Total,Unknown language,16
-2013,Number,Ugljevik,M,Unknown language,13
-2013,Number,Ugljevik,F,Unknown language,3
-2013,Number,Foca,Total,Unknown language,17
-2013,Number,Foca,M,Unknown language,9
-2013,Number,Foca,F,Unknown language,8
-2013,Number,Han Pijesak,Total,Unknown language,0
-2013,Number,Han Pijesak,M,Unknown language,0
-2013,Number,Han Pijesak,F,Unknown language,0
-2013,Number,Cajnice,Total,Unknown language,5
-2013,Number,Cajnice,M,Unknown language,2
-2013,Number,Cajnice,F,Unknown language,3
-2013,Number,Celinac,Total,Unknown language,15
-2013,Number,Celinac,M,Unknown language,7
-2013,Number,Celinac,F,Unknown language,8
-2013,Number,Samac,Total,Unknown language,21
-2013,Number,Samac,M,Unknown language,12
-2013,Number,Samac,F,Unknown language,9
-2013,Number,Sekovici,Total,Unknown language,9
-2013,Number,Sekovici,M,Unknown language,3
-2013,Number,Sekovici,F,Unknown language,6
-2013,Number,Sipovo,Total,Unknown language,8
-2013,Number,Sipovo,M,Unknown language,6
-2013,Number,Sipovo,F,Unknown language,2
+2013,Number,Republika Srpska,Total,Other,17824
+2013,Number,Republika Srpska,M,Other,8017
+2013,Number,Republika Srpska,F,Other,9807
+2013,Number,City of Banja Luka,Total,Other,5207
+2013,Number,City of Banja Luka,M,Other,2214
+2013,Number,City of Banja Luka,F,Other,2993
+2013,Number,Berkovici,Total,Other,5
+2013,Number,Berkovici,M,Other,2
+2013,Number,Berkovici,F,Other,3
+2013,Number,City of Bijeljina,Total,Other,1418
+2013,Number,City of Bijeljina,M,Other,673
+2013,Number,City of Bijeljina,F,Other,745
+2013,Number,Bileca,Total,Other,32
+2013,Number,Bileca,M,Other,18
+2013,Number,Bileca,F,Other,14
+2013,Number,Bratunac,Total,Other,69
+2013,Number,Bratunac,M,Other,33
+2013,Number,Bratunac,F,Other,36
+2013,Number,Brod,Total,Other,283
+2013,Number,Brod,M,Other,111
+2013,Number,Brod,F,Other,172
+2013,Number,Visegrad,Total,Other,66
+2013,Number,Visegrad,M,Other,32
+2013,Number,Visegrad,F,Other,34
+2013,Number,Vlasenica,Total,Other,89
+2013,Number,Vlasenica,M,Other,36
+2013,Number,Vlasenica,F,Other,53
+2013,Number,Vukosavlje,Total,Other,116
+2013,Number,Vukosavlje,M,Other,68
+2013,Number,Vukosavlje,F,Other,48
+2013,Number,Gacko,Total,Other,9
+2013,Number,Gacko,M,Other,5
+2013,Number,Gacko,F,Other,4
+2013,Number,City of Gradiska,Total,Other,1025
+2013,Number,City of Gradiska,M,Other,481
+2013,Number,City of Gradiska,F,Other,544
+2013,Number,City of Derventa,Total,Other,447
+2013,Number,City of Derventa,M,Other,196
+2013,Number,City of Derventa,F,Other,251
+2013,Number,City of Doboj,Total,Other,1380
+2013,Number,City of Doboj,M,Other,644
+2013,Number,City of Doboj,F,Other,736
+2013,Number,Donji Zabar,Total,Other,15
+2013,Number,Donji Zabar,M,Other,4
+2013,Number,Donji Zabar,F,Other,11
+2013,Number,City of Zvornik,Total,Other,116
+2013,Number,City of Zvornik,M,Other,48
+2013,Number,City of Zvornik,F,Other,68
+2013,Number,East Ilidza,Total,Other,125
+2013,Number,East Ilidza,M,Other,50
+2013,Number,East Ilidza,F,Other,75
+2013,Number,East Drvar,Total,Other,0
+2013,Number,East Drvar,M,Other,0
+2013,Number,East Drvar,F,Other,0
+2013,Number,East Mostar,Total,Other,0
+2013,Number,East Mostar,M,Other,0
+2013,Number,East Mostar,F,Other,0
+2013,Number,East Stari Grad,Total,Other,6
+2013,Number,East Stari Grad,M,Other,2
+2013,Number,East Stari Grad,F,Other,4
+2013,Number,East Novo Sarajevo,Total,Other,199
+2013,Number,East Novo Sarajevo,M,Other,86
+2013,Number,East Novo Sarajevo,F,Other,113
+2013,Number,Jezero,Total,Other,1
+2013,Number,Jezero,M,Other,1
+2013,Number,Jezero,F,Other,0
+2013,Number,Kalinovik,Total,Other,11
+2013,Number,Kalinovik,M,Other,8
+2013,Number,Kalinovik,F,Other,3
+2013,Number,Knezevo,Total,Other,30
+2013,Number,Knezevo,M,Other,8
+2013,Number,Knezevo,F,Other,22
+2013,Number,Kozarska Dubica,Total,Other,209
+2013,Number,Kozarska Dubica,M,Other,89
+2013,Number,Kozarska Dubica,F,Other,120
+2013,Number,Kostajnica,Total,Other,112
+2013,Number,Kostajnica,M,Other,51
+2013,Number,Kostajnica,F,Other,61
+2013,Number,Kotor Varos,Total,Other,181
+2013,Number,Kotor Varos,M,Other,75
+2013,Number,Kotor Varos,F,Other,106
+2013,Number,Krupa Na Uni,Total,Other,0
+2013,Number,Krupa Na Uni,M,Other,0
+2013,Number,Krupa Na Uni,F,Other,0
+2013,Number,Kupres,Total,Other,3
+2013,Number,Kupres,M,Other,2
+2013,Number,Kupres,F,Other,1
+2013,Number,Laktasi,Total,Other,578
+2013,Number,Laktasi,M,Other,286
+2013,Number,Laktasi,F,Other,292
+2013,Number,Lopare,Total,Other,28
+2013,Number,Lopare,M,Other,9
+2013,Number,Lopare,F,Other,19
+2013,Number,Ljubinje,Total,Other,3
+2013,Number,Ljubinje,M,Other,1
+2013,Number,Ljubinje,F,Other,2
+2013,Number,Milici,Total,Other,9
+2013,Number,Milici,M,Other,1
+2013,Number,Milici,F,Other,8
+2013,Number,Modrica,Total,Other,470
+2013,Number,Modrica,M,Other,208
+2013,Number,Modrica,F,Other,262
+2013,Number,Mrkonjic Grad,Total,Other,97
+2013,Number,Mrkonjic Grad,M,Other,52
+2013,Number,Mrkonjic Grad,F,Other,45
+2013,Number,Nevesinje,Total,Other,17
+2013,Number,Nevesinje,M,Other,4
+2013,Number,Nevesinje,F,Other,13
+2013,Number,Novi Grad,Total,Other,263
+2013,Number,Novi Grad,M,Other,108
+2013,Number,Novi Grad,F,Other,155
+2013,Number,Novo Gorazde,Total,Other,4
+2013,Number,Novo Gorazde,M,Other,3
+2013,Number,Novo Gorazde,F,Other,1
+2013,Number,Osmaci,Total,Other,8
+2013,Number,Osmaci,M,Other,1
+2013,Number,Osmaci,F,Other,7
+2013,Number,Ostra Luka,Total,Other,32
+2013,Number,Ostra Luka,M,Other,16
+2013,Number,Ostra Luka,F,Other,16
+2013,Number,Pale,Total,Other,108
+2013,Number,Pale,M,Other,42
+2013,Number,Pale,F,Other,66
+2013,Number,Pelagicevo,Total,Other,30
+2013,Number,Pelagicevo,M,Other,12
+2013,Number,Pelagicevo,F,Other,18
+2013,Number,Petrovac,Total,Other,1
+2013,Number,Petrovac,M,Other,0
+2013,Number,Petrovac,F,Other,1
+2013,Number,Petrovo,Total,Other,41
+2013,Number,Petrovo,M,Other,15
+2013,Number,Petrovo,F,Other,26
+2013,Number,City of Prijedor,Total,Other,1883
+2013,Number,City of Prijedor,M,Other,879
+2013,Number,City of Prijedor,F,Other,1004
+2013,Number,Prnjavor,Total,Other,1131
+2013,Number,Prnjavor,M,Other,565
+2013,Number,Prnjavor,F,Other,566
+2013,Number,Ribnik,Total,Other,13
+2013,Number,Ribnik,M,Other,5
+2013,Number,Ribnik,F,Other,8
+2013,Number,Rogatica,Total,Other,35
+2013,Number,Rogatica,M,Other,17
+2013,Number,Rogatica,F,Other,18
+2013,Number,Rudo,Total,Other,8
+2013,Number,Rudo,M,Other,3
+2013,Number,Rudo,F,Other,5
+2013,Number,Sokolac,Total,Other,35
+2013,Number,Sokolac,M,Other,9
+2013,Number,Sokolac,F,Other,26
+2013,Number,Srbac,Total,Other,180
+2013,Number,Srbac,M,Other,91
+2013,Number,Srbac,F,Other,89
+2013,Number,Srebrenica,Total,Other,49
+2013,Number,Srebrenica,M,Other,32
+2013,Number,Srebrenica,F,Other,17
+2013,Number,Teslic,Total,Other,864
+2013,Number,Teslic,M,Other,390
+2013,Number,Teslic,F,Other,474
+2013,Number,City of Trebinje,Total,Other,269
+2013,Number,City of Trebinje,M,Other,101
+2013,Number,City of Trebinje,F,Other,168
+2013,Number,Trnovo,Total,Other,8
+2013,Number,Trnovo,M,Other,5
+2013,Number,Trnovo,F,Other,3
+2013,Number,Ugljevik,Total,Other,36
+2013,Number,Ugljevik,M,Other,15
+2013,Number,Ugljevik,F,Other,21
+2013,Number,Foca,Total,Other,63
+2013,Number,Foca,M,Other,35
+2013,Number,Foca,F,Other,28
+2013,Number,Han Pijesak,Total,Other,7
+2013,Number,Han Pijesak,M,Other,6
+2013,Number,Han Pijesak,F,Other,1
+2013,Number,Cajnice,Total,Other,12
+2013,Number,Cajnice,M,Other,6
+2013,Number,Cajnice,F,Other,6
+2013,Number,Celinac,Total,Other,74
+2013,Number,Celinac,M,Other,26
+2013,Number,Celinac,F,Other,48
+2013,Number,Samac,Total,Other,277
+2013,Number,Samac,M,Other,116
+2013,Number,Samac,F,Other,161
+2013,Number,Sekovici,Total,Other,11
+2013,Number,Sekovici,M,Other,4
+2013,Number,Sekovici,F,Other,7
+2013,Number,Sipovo,Total,Other,26
+2013,Number,Sipovo,M,Other,17
+2013,Number,Sipovo,F,Other,9
+2013,Number,Republika Srpska,Total,Unknown,2502
+2013,Number,Republika Srpska,M,Unknown,1156
+2013,Number,Republika Srpska,F,Unknown,1346
+2013,Number,City of Banja Luka,Total,Unknown,411
+2013,Number,City of Banja Luka,M,Unknown,189
+2013,Number,City of Banja Luka,F,Unknown,222
+2013,Number,Berkovici,Total,Unknown,2
+2013,Number,Berkovici,M,Unknown,0
+2013,Number,Berkovici,F,Unknown,2
+2013,Number,City of Bijeljina,Total,Unknown,124
+2013,Number,City of Bijeljina,M,Unknown,51
+2013,Number,City of Bijeljina,F,Unknown,73
+2013,Number,Bileca,Total,Unknown,14
+2013,Number,Bileca,M,Unknown,7
+2013,Number,Bileca,F,Unknown,7
+2013,Number,Bratunac,Total,Unknown,46
+2013,Number,Bratunac,M,Unknown,21
+2013,Number,Bratunac,F,Unknown,25
+2013,Number,Brod,Total,Unknown,44
+2013,Number,Brod,M,Unknown,20
+2013,Number,Brod,F,Unknown,24
+2013,Number,Visegrad,Total,Unknown,178
+2013,Number,Visegrad,M,Unknown,2
+2013,Number,Visegrad,F,Unknown,176
+2013,Number,Vlasenica,Total,Unknown,29
+2013,Number,Vlasenica,M,Unknown,14
+2013,Number,Vlasenica,F,Unknown,15
+2013,Number,Vukosavlje,Total,Unknown,15
+2013,Number,Vukosavlje,M,Unknown,2
+2013,Number,Vukosavlje,F,Unknown,13
+2013,Number,Gacko,Total,Unknown,10
+2013,Number,Gacko,M,Unknown,2
+2013,Number,Gacko,F,Unknown,8
+2013,Number,City of Gradiska,Total,Unknown,85
+2013,Number,City of Gradiska,M,Unknown,39
+2013,Number,City of Gradiska,F,Unknown,46
+2013,Number,City of Derventa,Total,Unknown,74
+2013,Number,City of Derventa,M,Unknown,33
+2013,Number,City of Derventa,F,Unknown,41
+2013,Number,City of Doboj,Total,Unknown,178
+2013,Number,City of Doboj,M,Unknown,70
+2013,Number,City of Doboj,F,Unknown,108
+2013,Number,Donji Zabar,Total,Unknown,6
+2013,Number,Donji Zabar,M,Unknown,4
+2013,Number,Donji Zabar,F,Unknown,2
+2013,Number,City of Zvornik,Total,Unknown,119
+2013,Number,City of Zvornik,M,Unknown,52
+2013,Number,City of Zvornik,F,Unknown,67
+2013,Number,East Ilidza,Total,Unknown,13
+2013,Number,East Ilidza,M,Unknown,7
+2013,Number,East Ilidza,F,Unknown,6
+2013,Number,East Drvar,Total,Unknown,0
+2013,Number,East Drvar,M,Unknown,0
+2013,Number,East Drvar,F,Unknown,0
+2013,Number,East Mostar,Total,Unknown,3
+2013,Number,East Mostar,M,Unknown,1
+2013,Number,East Mostar,F,Unknown,2
+2013,Number,East Stari Grad,Total,Unknown,2
+2013,Number,East Stari Grad,M,Unknown,2
+2013,Number,East Stari Grad,F,Unknown,0
+2013,Number,East Novo Sarajevo,Total,Unknown,9
+2013,Number,East Novo Sarajevo,M,Unknown,2
+2013,Number,East Novo Sarajevo,F,Unknown,7
+2013,Number,Jezero,Total,Unknown,1
+2013,Number,Jezero,M,Unknown,1
+2013,Number,Jezero,F,Unknown,0
+2013,Number,Kalinovik,Total,Unknown,4
+2013,Number,Kalinovik,M,Unknown,2
+2013,Number,Kalinovik,F,Unknown,2
+2013,Number,Knezevo,Total,Unknown,8
+2013,Number,Knezevo,M,Unknown,4
+2013,Number,Knezevo,F,Unknown,4
+2013,Number,Kozarska Dubica,Total,Unknown,23
+2013,Number,Kozarska Dubica,M,Unknown,10
+2013,Number,Kozarska Dubica,F,Unknown,13
+2013,Number,Kostajnica,Total,Unknown,3
+2013,Number,Kostajnica,M,Unknown,1
+2013,Number,Kostajnica,F,Unknown,2
+2013,Number,Kotor Varos,Total,Unknown,23
+2013,Number,Kotor Varos,M,Unknown,15
+2013,Number,Kotor Varos,F,Unknown,8
+2013,Number,Krupa Na Uni,Total,Unknown,0
+2013,Number,Krupa Na Uni,M,Unknown,0
+2013,Number,Krupa Na Uni,F,Unknown,0
+2013,Number,Kupres,Total,Unknown,0
+2013,Number,Kupres,M,Unknown,0
+2013,Number,Kupres,F,Unknown,0
+2013,Number,Laktasi,Total,Unknown,82
+2013,Number,Laktasi,M,Unknown,36
+2013,Number,Laktasi,F,Unknown,46
+2013,Number,Lopare,Total,Unknown,24
+2013,Number,Lopare,M,Unknown,12
+2013,Number,Lopare,F,Unknown,12
+2013,Number,Ljubinje,Total,Unknown,4
+2013,Number,Ljubinje,M,Unknown,2
+2013,Number,Ljubinje,F,Unknown,2
+2013,Number,Milici,Total,Unknown,11
+2013,Number,Milici,M,Unknown,4
+2013,Number,Milici,F,Unknown,7
+2013,Number,Modrica,Total,Unknown,133
+2013,Number,Modrica,M,Unknown,71
+2013,Number,Modrica,F,Unknown,62
+2013,Number,Mrkonjic Grad,Total,Unknown,16
+2013,Number,Mrkonjic Grad,M,Unknown,7
+2013,Number,Mrkonjic Grad,F,Unknown,9
+2013,Number,Nevesinje,Total,Unknown,17
+2013,Number,Nevesinje,M,Unknown,5
+2013,Number,Nevesinje,F,Unknown,12
+2013,Number,Novi Grad,Total,Unknown,36
+2013,Number,Novi Grad,M,Unknown,20
+2013,Number,Novi Grad,F,Unknown,16
+2013,Number,Novo Gorazde,Total,Unknown,8
+2013,Number,Novo Gorazde,M,Unknown,3
+2013,Number,Novo Gorazde,F,Unknown,5
+2013,Number,Osmaci,Total,Unknown,5
+2013,Number,Osmaci,M,Unknown,2
+2013,Number,Osmaci,F,Unknown,3
+2013,Number,Ostra Luka,Total,Unknown,2
+2013,Number,Ostra Luka,M,Unknown,2
+2013,Number,Ostra Luka,F,Unknown,0
+2013,Number,Pale,Total,Unknown,11
+2013,Number,Pale,M,Unknown,8
+2013,Number,Pale,F,Unknown,3
+2013,Number,Pelagicevo,Total,Unknown,5
+2013,Number,Pelagicevo,M,Unknown,1
+2013,Number,Pelagicevo,F,Unknown,4
+2013,Number,Petrovac,Total,Unknown,0
+2013,Number,Petrovac,M,Unknown,0
+2013,Number,Petrovac,F,Unknown,0
+2013,Number,Petrovo,Total,Unknown,5
+2013,Number,Petrovo,M,Unknown,2
+2013,Number,Petrovo,F,Unknown,3
+2013,Number,City of Prijedor,Total,Unknown,394
+2013,Number,City of Prijedor,M,Unknown,269
+2013,Number,City of Prijedor,F,Unknown,125
+2013,Number,Prnjavor,Total,Unknown,50
+2013,Number,Prnjavor,M,Unknown,20
+2013,Number,Prnjavor,F,Unknown,30
+2013,Number,Ribnik,Total,Unknown,3
+2013,Number,Ribnik,M,Unknown,3
+2013,Number,Ribnik,F,Unknown,0
+2013,Number,Rogatica,Total,Unknown,5
+2013,Number,Rogatica,M,Unknown,2
+2013,Number,Rogatica,F,Unknown,3
+2013,Number,Rudo,Total,Unknown,5
+2013,Number,Rudo,M,Unknown,2
+2013,Number,Rudo,F,Unknown,3
+2013,Number,Sokolac,Total,Unknown,21
+2013,Number,Sokolac,M,Unknown,7
+2013,Number,Sokolac,F,Unknown,14
+2013,Number,Srbac,Total,Unknown,41
+2013,Number,Srbac,M,Unknown,21
+2013,Number,Srbac,F,Unknown,20
+2013,Number,Srebrenica,Total,Unknown,29
+2013,Number,Srebrenica,M,Unknown,14
+2013,Number,Srebrenica,F,Unknown,15
+2013,Number,Teslic,Total,Unknown,58
+2013,Number,Teslic,M,Unknown,27
+2013,Number,Teslic,F,Unknown,31
+2013,Number,City of Trebinje,Total,Unknown,21
+2013,Number,City of Trebinje,M,Unknown,13
+2013,Number,City of Trebinje,F,Unknown,8
+2013,Number,Trnovo,Total,Unknown,1
+2013,Number,Trnovo,M,Unknown,0
+2013,Number,Trnovo,F,Unknown,1
+2013,Number,Ugljevik,Total,Unknown,16
+2013,Number,Ugljevik,M,Unknown,13
+2013,Number,Ugljevik,F,Unknown,3
+2013,Number,Foca,Total,Unknown,17
+2013,Number,Foca,M,Unknown,9
+2013,Number,Foca,F,Unknown,8
+2013,Number,Han Pijesak,Total,Unknown,0
+2013,Number,Han Pijesak,M,Unknown,0
+2013,Number,Han Pijesak,F,Unknown,0
+2013,Number,Cajnice,Total,Unknown,5
+2013,Number,Cajnice,M,Unknown,2
+2013,Number,Cajnice,F,Unknown,3
+2013,Number,Celinac,Total,Unknown,15
+2013,Number,Celinac,M,Unknown,7
+2013,Number,Celinac,F,Unknown,8
+2013,Number,Samac,Total,Unknown,21
+2013,Number,Samac,M,Unknown,12
+2013,Number,Samac,F,Unknown,9
+2013,Number,Sekovici,Total,Unknown,9
+2013,Number,Sekovici,M,Unknown,3
+2013,Number,Sekovici,F,Unknown,6
+2013,Number,Sipovo,Total,Unknown,8
+2013,Number,Sipovo,M,Unknown,6
+2013,Number,Sipovo,F,Unknown,2

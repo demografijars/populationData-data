@@ -81,7 +81,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Religion",
@@ -93,11 +93,11 @@
                 "Agnostic",
                 "Atheist",
                 "Catholic",
-                "Does not declare",
-                "Muslim",
+                "did not declare",
+                "Islam",
                 "Orthodox",
-                "Other religions",
-                "Unknown religion"
+                "Other",
+                "Unknown"
               ]
             },
             "title": "Religion"

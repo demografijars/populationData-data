@@ -683,7 +683,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "NO_OF_CHILDREN",
@@ -1737,7 +1737,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Disabilities",
@@ -1747,11 +1747,11 @@
                 "",
                 "Total",
                 "Communication",
-                "Dressing and maintaining personal hygiene",
-                "Eyesight",
-                "Hearing",
-                "Memory or concentration",
-                "Multiple disabilities",
+                "Dressing and personal hygiene",
+                "Seeing, even with the use of seeing aids",
+                "Hearing, even with the use of hearing aids",
+                "Remembering or concentrating",
+                "With multiple disabilities",
                 "Walking or climbing the stairs"
               ]
             },
@@ -1870,7 +1870,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Religion",
@@ -1882,11 +1882,11 @@
                 "Agnostic",
                 "Atheist",
                 "Catholic",
-                "Does not declare",
-                "Muslim",
+                "did not declare",
+                "Islam",
                 "Orthodox",
-                "Other religions",
-                "Unknown religion"
+                "Other",
+                "Unknown"
               ]
             },
             "title": "Religion"
@@ -2181,7 +2181,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Nationality",
@@ -2190,12 +2190,12 @@
               "enum": [
                 "",
                 "Total",
-                "Bosniak",
-                "Croat",
-                "Does not declare ethnicity/nationality",
-                "Other ethnicity/nationality",
-                "Serb",
-                "Unknown ethnicity/nationality"
+                "Bosniaks",
+                "Croats",
+                "Did not declare",
+                "Other",
+                "Serbs",
+                "Unknown"
               ]
             },
             "title": "Ethnicity/nationality"
@@ -3524,7 +3524,7 @@
                 "",
                 "Deaths",
                 "Live births",
-                "Natural change"
+                "Natural increase"
               ]
             },
             "title": "Vital statistics"
@@ -4229,7 +4229,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Educational_attainment",
@@ -4676,7 +4676,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Literacy",
@@ -4944,7 +4944,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
@@ -5161,7 +5161,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "Mother_tongue",
@@ -5172,9 +5172,9 @@
                 "Total",
                 "Bosnian",
                 "Croatian",
-                "Other language",
+                "Other",
                 "Serbian",
-                "Unknown language"
+                "Unknown"
               ]
             },
             "title": "Mother tongue"
@@ -5852,7 +5852,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "UNIT_MEASURE",
@@ -5875,8 +5875,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Performing agricultural activity",
-                "Performing agricultural activity and selling agricultural products in the market"
+                "Engaged in agricultural activities",
+                "Engaged in agricultural activities that sell their products in the market"
               ]
             },
             "title": "Agricultural activity"
@@ -6092,7 +6092,7 @@
                 "Vukosavlje"
               ]
             },
-            "title": "Administrative area"
+            "title": "City/minicipality"
           },
           {
             "name": "AGE",
