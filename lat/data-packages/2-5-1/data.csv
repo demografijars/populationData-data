@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Administrativna oblast,Pol,Vrsta poteškoće,Value
+Year,UNIT_MEASURE,Grad/opština,Pol,Vrsta poteškoće,Value
 2013,Broj,Republika Srpska,Ukupno,Ukupno,102262
 2013,Broj,Republika Srpska,M,Ukupno,46720
 2013,Broj,Republika Srpska,Ž,Ukupno,55542
@@ -188,384 +188,384 @@ Year,UNIT_MEASURE,Administrativna oblast,Pol,Vrsta poteškoće,Value
 2013,Broj,Šipovo,Ukupno,Ukupno,843
 2013,Broj,Šipovo,M,Ukupno,391
 2013,Broj,Šipovo,Ž,Ukupno,452
-2013,Broj,Republika Srpska,Ukupno,Vid,43020
-2013,Broj,Republika Srpska,M,Vid,18052
-2013,Broj,Republika Srpska,Ž,Vid,24968
-2013,Broj,Grad Banja Luka,Ukupno,Vid,5370
-2013,Broj,Grad Banja Luka,M,Vid,2232
-2013,Broj,Grad Banja Luka,Ž,Vid,3138
-2013,Broj,Berkovići,Ukupno,Vid,73
-2013,Broj,Berkovići,M,Vid,33
-2013,Broj,Berkovići,Ž,Vid,40
-2013,Broj,Grad Bijeljina,Ukupno,Vid,3450
-2013,Broj,Grad Bijeljina,M,Vid,1424
-2013,Broj,Grad Bijeljina,Ž,Vid,2026
-2013,Broj,Bileća,Ukupno,Vid,375
-2013,Broj,Bileća,M,Vid,159
-2013,Broj,Bileća,Ž,Vid,216
-2013,Broj,Bratunac,Ukupno,Vid,791
-2013,Broj,Bratunac,M,Vid,328
-2013,Broj,Bratunac,Ž,Vid,463
-2013,Broj,Brod,Ukupno,Vid,596
-2013,Broj,Brod,M,Vid,252
-2013,Broj,Brod,Ž,Vid,344
-2013,Broj,Višegrad,Ukupno,Vid,409
-2013,Broj,Višegrad,M,Vid,162
-2013,Broj,Višegrad,Ž,Vid,247
-2013,Broj,Vlasenica,Ukupno,Vid,372
-2013,Broj,Vlasenica,M,Vid,171
-2013,Broj,Vlasenica,Ž,Vid,201
-2013,Broj,Vukosavlje,Ukupno,Vid,157
-2013,Broj,Vukosavlje,M,Vid,74
-2013,Broj,Vukosavlje,Ž,Vid,83
-2013,Broj,Gacko,Ukupno,Vid,245
-2013,Broj,Gacko,M,Vid,107
-2013,Broj,Gacko,Ž,Vid,138
-2013,Broj,Grad Gradiška,Ukupno,Vid,1881
-2013,Broj,Grad Gradiška,M,Vid,754
-2013,Broj,Grad Gradiška,Ž,Vid,1127
-2013,Broj,Grad Derventa,Ukupno,Vid,1172
-2013,Broj,Grad Derventa,M,Vid,476
-2013,Broj,Grad Derventa,Ž,Vid,696
-2013,Broj,Grad Doboj,Ukupno,Vid,3265
-2013,Broj,Grad Doboj,M,Vid,1332
-2013,Broj,Grad Doboj,Ž,Vid,1933
-2013,Broj,Donji Žabar,Ukupno,Vid,122
-2013,Broj,Donji Žabar,M,Vid,50
-2013,Broj,Donji Žabar,Ž,Vid,72
-2013,Broj,Grad Zvornik,Ukupno,Vid,1920
-2013,Broj,Grad Zvornik,M,Vid,842
-2013,Broj,Grad Zvornik,Ž,Vid,1078
-2013,Broj,Istočna Ilidža,Ukupno,Vid,423
-2013,Broj,Istočna Ilidža,M,Vid,183
-2013,Broj,Istočna Ilidža,Ž,Vid,240
-2013,Broj,Istočni Drvar,Ukupno,Vid,5
-2013,Broj,Istočni Drvar,M,Vid,2
-2013,Broj,Istočni Drvar,Ž,Vid,3
-2013,Broj,Istočni Mostar,Ukupno,Vid,9
-2013,Broj,Istočni Mostar,M,Vid,3
-2013,Broj,Istočni Mostar,Ž,Vid,6
-2013,Broj,Istočni Stari Grad,Ukupno,Vid,49
-2013,Broj,Istočni Stari Grad,M,Vid,22
-2013,Broj,Istočni Stari Grad,Ž,Vid,27
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Vid,255
-2013,Broj,Istočno Novo Sarajevo,M,Vid,90
-2013,Broj,Istočno Novo Sarajevo,Ž,Vid,165
-2013,Broj,Jezero,Ukupno,Vid,44
-2013,Broj,Jezero,M,Vid,18
-2013,Broj,Jezero,Ž,Vid,26
-2013,Broj,Kalinovik,Ukupno,Vid,87
-2013,Broj,Kalinovik,M,Vid,35
-2013,Broj,Kalinovik,Ž,Vid,52
-2013,Broj,Kneževo,Ukupno,Vid,355
-2013,Broj,Kneževo,M,Vid,159
-2013,Broj,Kneževo,Ž,Vid,196
-2013,Broj,Kozarska Dubica,Ukupno,Vid,788
-2013,Broj,Kozarska Dubica,M,Vid,329
-2013,Broj,Kozarska Dubica,Ž,Vid,459
-2013,Broj,Kostajnica,Ukupno,Vid,226
-2013,Broj,Kostajnica,M,Vid,104
-2013,Broj,Kostajnica,Ž,Vid,122
-2013,Broj,Kotor Varoš,Ukupno,Vid,894
-2013,Broj,Kotor Varoš,M,Vid,374
-2013,Broj,Kotor Varoš,Ž,Vid,520
-2013,Broj,Krupa Na Uni,Ukupno,Vid,98
-2013,Broj,Krupa Na Uni,M,Vid,47
-2013,Broj,Krupa Na Uni,Ž,Vid,51
-2013,Broj,Kupres,Ukupno,Vid,12
-2013,Broj,Kupres,M,Vid,8
-2013,Broj,Kupres,Ž,Vid,4
-2013,Broj,Laktaši,Ukupno,Vid,1042
-2013,Broj,Laktaši,M,Vid,460
-2013,Broj,Laktaši,Ž,Vid,582
-2013,Broj,Lopare,Ukupno,Vid,691
-2013,Broj,Lopare,M,Vid,297
-2013,Broj,Lopare,Ž,Vid,394
-2013,Broj,Ljubinje,Ukupno,Vid,82
-2013,Broj,Ljubinje,M,Vid,36
-2013,Broj,Ljubinje,Ž,Vid,46
-2013,Broj,Milići,Ukupno,Vid,390
-2013,Broj,Milići,M,Vid,165
-2013,Broj,Milići,Ž,Vid,225
-2013,Broj,Modriča,Ukupno,Vid,990
-2013,Broj,Modriča,M,Vid,443
-2013,Broj,Modriča,Ž,Vid,547
-2013,Broj,Mrkonjić Grad,Ukupno,Vid,524
-2013,Broj,Mrkonjić Grad,M,Vid,227
-2013,Broj,Mrkonjić Grad,Ž,Vid,297
-2013,Broj,Nevesinje,Ukupno,Vid,401
-2013,Broj,Nevesinje,M,Vid,187
-2013,Broj,Nevesinje,Ž,Vid,214
-2013,Broj,Novi Grad,Ukupno,Vid,1236
-2013,Broj,Novi Grad,M,Vid,483
-2013,Broj,Novi Grad,Ž,Vid,753
-2013,Broj,Novo Goražde,Ukupno,Vid,86
-2013,Broj,Novo Goražde,M,Vid,35
-2013,Broj,Novo Goražde,Ž,Vid,51
-2013,Broj,Osmaci,Ukupno,Vid,243
-2013,Broj,Osmaci,M,Vid,102
-2013,Broj,Osmaci,Ž,Vid,141
-2013,Broj,Oštra Luka,Ukupno,Vid,176
-2013,Broj,Oštra Luka,M,Vid,88
-2013,Broj,Oštra Luka,Ž,Vid,88
-2013,Broj,Pale,Ukupno,Vid,492
-2013,Broj,Pale,M,Vid,213
-2013,Broj,Pale,Ž,Vid,279
-2013,Broj,Pelagićevo,Ukupno,Vid,310
-2013,Broj,Pelagićevo,M,Vid,132
-2013,Broj,Pelagićevo,Ž,Vid,178
-2013,Broj,Petrovac,Ukupno,Vid,6
-2013,Broj,Petrovac,M,Vid,2
-2013,Broj,Petrovac,Ž,Vid,4
-2013,Broj,Petrovo,Ukupno,Vid,433
-2013,Broj,Petrovo,M,Vid,178
-2013,Broj,Petrovo,Ž,Vid,255
-2013,Broj,Grad Prijedor,Ukupno,Vid,2857
-2013,Broj,Grad Prijedor,M,Vid,1209
-2013,Broj,Grad Prijedor,Ž,Vid,1648
-2013,Broj,Prnjavor,Ukupno,Vid,1364
-2013,Broj,Prnjavor,M,Vid,564
-2013,Broj,Prnjavor,Ž,Vid,800
-2013,Broj,Ribnik,Ukupno,Vid,293
-2013,Broj,Ribnik,M,Vid,137
-2013,Broj,Ribnik,Ž,Vid,156
-2013,Broj,Rogatica,Ukupno,Vid,418
-2013,Broj,Rogatica,M,Vid,174
-2013,Broj,Rogatica,Ž,Vid,244
-2013,Broj,Rudo,Ukupno,Vid,231
-2013,Broj,Rudo,M,Vid,98
-2013,Broj,Rudo,Ž,Vid,133
-2013,Broj,Sokolac,Ukupno,Vid,368
-2013,Broj,Sokolac,M,Vid,161
-2013,Broj,Sokolac,Ž,Vid,207
-2013,Broj,Srbac,Ukupno,Vid,684
-2013,Broj,Srbac,M,Vid,291
-2013,Broj,Srbac,Ž,Vid,393
-2013,Broj,Srebrenica,Ukupno,Vid,487
-2013,Broj,Srebrenica,M,Vid,176
-2013,Broj,Srebrenica,Ž,Vid,311
-2013,Broj,Teslić,Ukupno,Vid,1451
-2013,Broj,Teslić,M,Vid,633
-2013,Broj,Teslić,Ž,Vid,818
-2013,Broj,Grad Trebinje,Ukupno,Vid,736
-2013,Broj,Grad Trebinje,M,Vid,297
-2013,Broj,Grad Trebinje,Ž,Vid,439
-2013,Broj,Trnovo,Ukupno,Vid,62
-2013,Broj,Trnovo,M,Vid,25
-2013,Broj,Trnovo,Ž,Vid,37
-2013,Broj,Ugljevik,Ukupno,Vid,488
-2013,Broj,Ugljevik,M,Vid,202
-2013,Broj,Ugljevik,Ž,Vid,286
-2013,Broj,Foča,Ukupno,Vid,605
-2013,Broj,Foča,M,Vid,263
-2013,Broj,Foča,Ž,Vid,342
-2013,Broj,Han Pijesak,Ukupno,Vid,102
-2013,Broj,Han Pijesak,M,Vid,36
-2013,Broj,Han Pijesak,Ž,Vid,66
-2013,Broj,Čajniče,Ukupno,Vid,219
-2013,Broj,Čajniče,M,Vid,93
-2013,Broj,Čajniče,Ž,Vid,126
-2013,Broj,Čelinac,Ukupno,Vid,752
-2013,Broj,Čelinac,M,Vid,313
-2013,Broj,Čelinac,Ž,Vid,439
-2013,Broj,Šamac,Ukupno,Vid,679
-2013,Broj,Šamac,M,Vid,277
-2013,Broj,Šamac,Ž,Vid,402
-2013,Broj,Šekovići,Ukupno,Vid,307
-2013,Broj,Šekovići,M,Vid,130
-2013,Broj,Šekovići,Ž,Vid,177
-2013,Broj,Šipovo,Ukupno,Vid,372
-2013,Broj,Šipovo,M,Vid,155
-2013,Broj,Šipovo,Ž,Vid,217
-2013,Broj,Republika Srpska,Ukupno,Sluh,26055
-2013,Broj,Republika Srpska,M,Sluh,12971
-2013,Broj,Republika Srpska,Ž,Sluh,13084
-2013,Broj,Grad Banja Luka,Ukupno,Sluh,3262
-2013,Broj,Grad Banja Luka,M,Sluh,1678
-2013,Broj,Grad Banja Luka,Ž,Sluh,1584
-2013,Broj,Berkovići,Ukupno,Sluh,48
-2013,Broj,Berkovići,M,Sluh,28
-2013,Broj,Berkovići,Ž,Sluh,20
-2013,Broj,Grad Bijeljina,Ukupno,Sluh,2026
-2013,Broj,Grad Bijeljina,M,Sluh,1028
-2013,Broj,Grad Bijeljina,Ž,Sluh,998
-2013,Broj,Bileća,Ukupno,Sluh,240
-2013,Broj,Bileća,M,Sluh,122
-2013,Broj,Bileća,Ž,Sluh,118
-2013,Broj,Bratunac,Ukupno,Sluh,420
-2013,Broj,Bratunac,M,Sluh,196
-2013,Broj,Bratunac,Ž,Sluh,224
-2013,Broj,Brod,Ukupno,Sluh,322
-2013,Broj,Brod,M,Sluh,168
-2013,Broj,Brod,Ž,Sluh,154
-2013,Broj,Višegrad,Ukupno,Sluh,276
-2013,Broj,Višegrad,M,Sluh,128
-2013,Broj,Višegrad,Ž,Sluh,148
-2013,Broj,Vlasenica,Ukupno,Sluh,236
-2013,Broj,Vlasenica,M,Sluh,117
-2013,Broj,Vlasenica,Ž,Sluh,119
-2013,Broj,Vukosavlje,Ukupno,Sluh,107
-2013,Broj,Vukosavlje,M,Sluh,49
-2013,Broj,Vukosavlje,Ž,Sluh,58
-2013,Broj,Gacko,Ukupno,Sluh,172
-2013,Broj,Gacko,M,Sluh,80
-2013,Broj,Gacko,Ž,Sluh,92
-2013,Broj,Grad Gradiška,Ukupno,Sluh,1110
-2013,Broj,Grad Gradiška,M,Sluh,525
-2013,Broj,Grad Gradiška,Ž,Sluh,585
-2013,Broj,Grad Derventa,Ukupno,Sluh,655
-2013,Broj,Grad Derventa,M,Sluh,320
-2013,Broj,Grad Derventa,Ž,Sluh,335
-2013,Broj,Grad Doboj,Ukupno,Sluh,1902
-2013,Broj,Grad Doboj,M,Sluh,925
-2013,Broj,Grad Doboj,Ž,Sluh,977
-2013,Broj,Donji Žabar,Ukupno,Sluh,81
-2013,Broj,Donji Žabar,M,Sluh,50
-2013,Broj,Donji Žabar,Ž,Sluh,31
-2013,Broj,Grad Zvornik,Ukupno,Sluh,1157
-2013,Broj,Grad Zvornik,M,Sluh,580
-2013,Broj,Grad Zvornik,Ž,Sluh,577
-2013,Broj,Istočna Ilidža,Ukupno,Sluh,267
-2013,Broj,Istočna Ilidža,M,Sluh,123
-2013,Broj,Istočna Ilidža,Ž,Sluh,144
-2013,Broj,Istočni Drvar,Ukupno,Sluh,4
-2013,Broj,Istočni Drvar,M,Sluh,1
-2013,Broj,Istočni Drvar,Ž,Sluh,3
-2013,Broj,Istočni Mostar,Ukupno,Sluh,7
-2013,Broj,Istočni Mostar,M,Sluh,1
-2013,Broj,Istočni Mostar,Ž,Sluh,6
-2013,Broj,Istočni Stari Grad,Ukupno,Sluh,29
-2013,Broj,Istočni Stari Grad,M,Sluh,15
-2013,Broj,Istočni Stari Grad,Ž,Sluh,14
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Sluh,153
-2013,Broj,Istočno Novo Sarajevo,M,Sluh,76
-2013,Broj,Istočno Novo Sarajevo,Ž,Sluh,77
-2013,Broj,Jezero,Ukupno,Sluh,34
-2013,Broj,Jezero,M,Sluh,18
-2013,Broj,Jezero,Ž,Sluh,16
-2013,Broj,Kalinovik,Ukupno,Sluh,56
-2013,Broj,Kalinovik,M,Sluh,25
-2013,Broj,Kalinovik,Ž,Sluh,31
-2013,Broj,Kneževo,Ukupno,Sluh,251
-2013,Broj,Kneževo,M,Sluh,127
-2013,Broj,Kneževo,Ž,Sluh,124
-2013,Broj,Kozarska Dubica,Ukupno,Sluh,490
-2013,Broj,Kozarska Dubica,M,Sluh,237
-2013,Broj,Kozarska Dubica,Ž,Sluh,253
-2013,Broj,Kostajnica,Ukupno,Sluh,123
-2013,Broj,Kostajnica,M,Sluh,65
-2013,Broj,Kostajnica,Ž,Sluh,58
-2013,Broj,Kotor Varoš,Ukupno,Sluh,485
-2013,Broj,Kotor Varoš,M,Sluh,244
-2013,Broj,Kotor Varoš,Ž,Sluh,241
-2013,Broj,Krupa Na Uni,Ukupno,Sluh,59
-2013,Broj,Krupa Na Uni,M,Sluh,36
-2013,Broj,Krupa Na Uni,Ž,Sluh,23
-2013,Broj,Kupres,Ukupno,Sluh,14
-2013,Broj,Kupres,M,Sluh,10
-2013,Broj,Kupres,Ž,Sluh,4
-2013,Broj,Laktaši,Ukupno,Sluh,610
-2013,Broj,Laktaši,M,Sluh,322
-2013,Broj,Laktaši,Ž,Sluh,288
-2013,Broj,Lopare,Ukupno,Sluh,400
-2013,Broj,Lopare,M,Sluh,187
-2013,Broj,Lopare,Ž,Sluh,213
-2013,Broj,Ljubinje,Ukupno,Sluh,68
-2013,Broj,Ljubinje,M,Sluh,33
-2013,Broj,Ljubinje,Ž,Sluh,35
-2013,Broj,Milići,Ukupno,Sluh,209
-2013,Broj,Milići,M,Sluh,98
-2013,Broj,Milići,Ž,Sluh,111
-2013,Broj,Modriča,Ukupno,Sluh,623
-2013,Broj,Modriča,M,Sluh,318
-2013,Broj,Modriča,Ž,Sluh,305
-2013,Broj,Mrkonjić Grad,Ukupno,Sluh,388
-2013,Broj,Mrkonjić Grad,M,Sluh,188
-2013,Broj,Mrkonjić Grad,Ž,Sluh,200
-2013,Broj,Nevesinje,Ukupno,Sluh,254
-2013,Broj,Nevesinje,M,Sluh,119
-2013,Broj,Nevesinje,Ž,Sluh,135
-2013,Broj,Novi Grad,Ukupno,Sluh,706
-2013,Broj,Novi Grad,M,Sluh,334
-2013,Broj,Novi Grad,Ž,Sluh,372
-2013,Broj,Novo Goražde,Ukupno,Sluh,57
-2013,Broj,Novo Goražde,M,Sluh,31
-2013,Broj,Novo Goražde,Ž,Sluh,26
-2013,Broj,Osmaci,Ukupno,Sluh,144
-2013,Broj,Osmaci,M,Sluh,71
-2013,Broj,Osmaci,Ž,Sluh,73
-2013,Broj,Oštra Luka,Ukupno,Sluh,97
-2013,Broj,Oštra Luka,M,Sluh,65
-2013,Broj,Oštra Luka,Ž,Sluh,32
-2013,Broj,Pale,Ukupno,Sluh,318
-2013,Broj,Pale,M,Sluh,164
-2013,Broj,Pale,Ž,Sluh,154
-2013,Broj,Pelagićevo,Ukupno,Sluh,167
-2013,Broj,Pelagićevo,M,Sluh,74
-2013,Broj,Pelagićevo,Ž,Sluh,93
-2013,Broj,Petrovac,Ukupno,Sluh,4
-2013,Broj,Petrovac,M,Sluh,1
-2013,Broj,Petrovac,Ž,Sluh,3
-2013,Broj,Petrovo,Ukupno,Sluh,257
-2013,Broj,Petrovo,M,Sluh,134
-2013,Broj,Petrovo,Ž,Sluh,123
-2013,Broj,Grad Prijedor,Ukupno,Sluh,1805
-2013,Broj,Grad Prijedor,M,Sluh,944
-2013,Broj,Grad Prijedor,Ž,Sluh,861
-2013,Broj,Prnjavor,Ukupno,Sluh,812
-2013,Broj,Prnjavor,M,Sluh,383
-2013,Broj,Prnjavor,Ž,Sluh,429
-2013,Broj,Ribnik,Ukupno,Sluh,199
-2013,Broj,Ribnik,M,Sluh,97
-2013,Broj,Ribnik,Ž,Sluh,102
-2013,Broj,Rogatica,Ukupno,Sluh,307
-2013,Broj,Rogatica,M,Sluh,150
-2013,Broj,Rogatica,Ž,Sluh,157
-2013,Broj,Rudo,Ukupno,Sluh,169
-2013,Broj,Rudo,M,Sluh,83
-2013,Broj,Rudo,Ž,Sluh,86
-2013,Broj,Sokolac,Ukupno,Sluh,257
-2013,Broj,Sokolac,M,Sluh,121
-2013,Broj,Sokolac,Ž,Sluh,136
-2013,Broj,Srbac,Ukupno,Sluh,423
-2013,Broj,Srbac,M,Sluh,212
-2013,Broj,Srbac,Ž,Sluh,211
-2013,Broj,Srebrenica,Ukupno,Sluh,229
-2013,Broj,Srebrenica,M,Sluh,109
-2013,Broj,Srebrenica,Ž,Sluh,120
-2013,Broj,Teslić,Ukupno,Sluh,881
-2013,Broj,Teslić,M,Sluh,435
-2013,Broj,Teslić,Ž,Sluh,446
-2013,Broj,Grad Trebinje,Ukupno,Sluh,461
-2013,Broj,Grad Trebinje,M,Sluh,227
-2013,Broj,Grad Trebinje,Ž,Sluh,234
-2013,Broj,Trnovo,Ukupno,Sluh,46
-2013,Broj,Trnovo,M,Sluh,22
-2013,Broj,Trnovo,Ž,Sluh,24
-2013,Broj,Ugljevik,Ukupno,Sluh,257
-2013,Broj,Ugljevik,M,Sluh,117
-2013,Broj,Ugljevik,Ž,Sluh,140
-2013,Broj,Foča,Ukupno,Sluh,430
-2013,Broj,Foča,M,Sluh,216
-2013,Broj,Foča,Ž,Sluh,214
-2013,Broj,Han Pijesak,Ukupno,Sluh,68
-2013,Broj,Han Pijesak,M,Sluh,28
-2013,Broj,Han Pijesak,Ž,Sluh,40
-2013,Broj,Čajniče,Ukupno,Sluh,135
-2013,Broj,Čajniče,M,Sluh,66
-2013,Broj,Čajniče,Ž,Sluh,69
-2013,Broj,Čelinac,Ukupno,Sluh,457
-2013,Broj,Čelinac,M,Sluh,233
-2013,Broj,Čelinac,Ž,Sluh,224
-2013,Broj,Šamac,Ukupno,Sluh,419
-2013,Broj,Šamac,M,Sluh,217
-2013,Broj,Šamac,Ž,Sluh,202
-2013,Broj,Šekovići,Ukupno,Sluh,193
-2013,Broj,Šekovići,M,Sluh,96
-2013,Broj,Šekovići,Ž,Sluh,97
-2013,Broj,Šipovo,Ukupno,Sluh,219
-2013,Broj,Šipovo,M,Sluh,104
-2013,Broj,Šipovo,Ž,Sluh,115
+2013,Broj,Republika Srpska,Ukupno,"Vid, iako nosi naočare",43020
+2013,Broj,Republika Srpska,M,"Vid, iako nosi naočare",18052
+2013,Broj,Republika Srpska,Ž,"Vid, iako nosi naočare",24968
+2013,Broj,Grad Banja Luka,Ukupno,"Vid, iako nosi naočare",5370
+2013,Broj,Grad Banja Luka,M,"Vid, iako nosi naočare",2232
+2013,Broj,Grad Banja Luka,Ž,"Vid, iako nosi naočare",3138
+2013,Broj,Berkovići,Ukupno,"Vid, iako nosi naočare",73
+2013,Broj,Berkovići,M,"Vid, iako nosi naočare",33
+2013,Broj,Berkovići,Ž,"Vid, iako nosi naočare",40
+2013,Broj,Grad Bijeljina,Ukupno,"Vid, iako nosi naočare",3450
+2013,Broj,Grad Bijeljina,M,"Vid, iako nosi naočare",1424
+2013,Broj,Grad Bijeljina,Ž,"Vid, iako nosi naočare",2026
+2013,Broj,Bileća,Ukupno,"Vid, iako nosi naočare",375
+2013,Broj,Bileća,M,"Vid, iako nosi naočare",159
+2013,Broj,Bileća,Ž,"Vid, iako nosi naočare",216
+2013,Broj,Bratunac,Ukupno,"Vid, iako nosi naočare",791
+2013,Broj,Bratunac,M,"Vid, iako nosi naočare",328
+2013,Broj,Bratunac,Ž,"Vid, iako nosi naočare",463
+2013,Broj,Brod,Ukupno,"Vid, iako nosi naočare",596
+2013,Broj,Brod,M,"Vid, iako nosi naočare",252
+2013,Broj,Brod,Ž,"Vid, iako nosi naočare",344
+2013,Broj,Višegrad,Ukupno,"Vid, iako nosi naočare",409
+2013,Broj,Višegrad,M,"Vid, iako nosi naočare",162
+2013,Broj,Višegrad,Ž,"Vid, iako nosi naočare",247
+2013,Broj,Vlasenica,Ukupno,"Vid, iako nosi naočare",372
+2013,Broj,Vlasenica,M,"Vid, iako nosi naočare",171
+2013,Broj,Vlasenica,Ž,"Vid, iako nosi naočare",201
+2013,Broj,Vukosavlje,Ukupno,"Vid, iako nosi naočare",157
+2013,Broj,Vukosavlje,M,"Vid, iako nosi naočare",74
+2013,Broj,Vukosavlje,Ž,"Vid, iako nosi naočare",83
+2013,Broj,Gacko,Ukupno,"Vid, iako nosi naočare",245
+2013,Broj,Gacko,M,"Vid, iako nosi naočare",107
+2013,Broj,Gacko,Ž,"Vid, iako nosi naočare",138
+2013,Broj,Grad Gradiška,Ukupno,"Vid, iako nosi naočare",1881
+2013,Broj,Grad Gradiška,M,"Vid, iako nosi naočare",754
+2013,Broj,Grad Gradiška,Ž,"Vid, iako nosi naočare",1127
+2013,Broj,Grad Derventa,Ukupno,"Vid, iako nosi naočare",1172
+2013,Broj,Grad Derventa,M,"Vid, iako nosi naočare",476
+2013,Broj,Grad Derventa,Ž,"Vid, iako nosi naočare",696
+2013,Broj,Grad Doboj,Ukupno,"Vid, iako nosi naočare",3265
+2013,Broj,Grad Doboj,M,"Vid, iako nosi naočare",1332
+2013,Broj,Grad Doboj,Ž,"Vid, iako nosi naočare",1933
+2013,Broj,Donji Žabar,Ukupno,"Vid, iako nosi naočare",122
+2013,Broj,Donji Žabar,M,"Vid, iako nosi naočare",50
+2013,Broj,Donji Žabar,Ž,"Vid, iako nosi naočare",72
+2013,Broj,Grad Zvornik,Ukupno,"Vid, iako nosi naočare",1920
+2013,Broj,Grad Zvornik,M,"Vid, iako nosi naočare",842
+2013,Broj,Grad Zvornik,Ž,"Vid, iako nosi naočare",1078
+2013,Broj,Istočna Ilidža,Ukupno,"Vid, iako nosi naočare",423
+2013,Broj,Istočna Ilidža,M,"Vid, iako nosi naočare",183
+2013,Broj,Istočna Ilidža,Ž,"Vid, iako nosi naočare",240
+2013,Broj,Istočni Drvar,Ukupno,"Vid, iako nosi naočare",5
+2013,Broj,Istočni Drvar,M,"Vid, iako nosi naočare",2
+2013,Broj,Istočni Drvar,Ž,"Vid, iako nosi naočare",3
+2013,Broj,Istočni Mostar,Ukupno,"Vid, iako nosi naočare",9
+2013,Broj,Istočni Mostar,M,"Vid, iako nosi naočare",3
+2013,Broj,Istočni Mostar,Ž,"Vid, iako nosi naočare",6
+2013,Broj,Istočni Stari Grad,Ukupno,"Vid, iako nosi naočare",49
+2013,Broj,Istočni Stari Grad,M,"Vid, iako nosi naočare",22
+2013,Broj,Istočni Stari Grad,Ž,"Vid, iako nosi naočare",27
+2013,Broj,Istočno Novo Sarajevo,Ukupno,"Vid, iako nosi naočare",255
+2013,Broj,Istočno Novo Sarajevo,M,"Vid, iako nosi naočare",90
+2013,Broj,Istočno Novo Sarajevo,Ž,"Vid, iako nosi naočare",165
+2013,Broj,Jezero,Ukupno,"Vid, iako nosi naočare",44
+2013,Broj,Jezero,M,"Vid, iako nosi naočare",18
+2013,Broj,Jezero,Ž,"Vid, iako nosi naočare",26
+2013,Broj,Kalinovik,Ukupno,"Vid, iako nosi naočare",87
+2013,Broj,Kalinovik,M,"Vid, iako nosi naočare",35
+2013,Broj,Kalinovik,Ž,"Vid, iako nosi naočare",52
+2013,Broj,Kneževo,Ukupno,"Vid, iako nosi naočare",355
+2013,Broj,Kneževo,M,"Vid, iako nosi naočare",159
+2013,Broj,Kneževo,Ž,"Vid, iako nosi naočare",196
+2013,Broj,Kozarska Dubica,Ukupno,"Vid, iako nosi naočare",788
+2013,Broj,Kozarska Dubica,M,"Vid, iako nosi naočare",329
+2013,Broj,Kozarska Dubica,Ž,"Vid, iako nosi naočare",459
+2013,Broj,Kostajnica,Ukupno,"Vid, iako nosi naočare",226
+2013,Broj,Kostajnica,M,"Vid, iako nosi naočare",104
+2013,Broj,Kostajnica,Ž,"Vid, iako nosi naočare",122
+2013,Broj,Kotor Varoš,Ukupno,"Vid, iako nosi naočare",894
+2013,Broj,Kotor Varoš,M,"Vid, iako nosi naočare",374
+2013,Broj,Kotor Varoš,Ž,"Vid, iako nosi naočare",520
+2013,Broj,Krupa Na Uni,Ukupno,"Vid, iako nosi naočare",98
+2013,Broj,Krupa Na Uni,M,"Vid, iako nosi naočare",47
+2013,Broj,Krupa Na Uni,Ž,"Vid, iako nosi naočare",51
+2013,Broj,Kupres,Ukupno,"Vid, iako nosi naočare",12
+2013,Broj,Kupres,M,"Vid, iako nosi naočare",8
+2013,Broj,Kupres,Ž,"Vid, iako nosi naočare",4
+2013,Broj,Laktaši,Ukupno,"Vid, iako nosi naočare",1042
+2013,Broj,Laktaši,M,"Vid, iako nosi naočare",460
+2013,Broj,Laktaši,Ž,"Vid, iako nosi naočare",582
+2013,Broj,Lopare,Ukupno,"Vid, iako nosi naočare",691
+2013,Broj,Lopare,M,"Vid, iako nosi naočare",297
+2013,Broj,Lopare,Ž,"Vid, iako nosi naočare",394
+2013,Broj,Ljubinje,Ukupno,"Vid, iako nosi naočare",82
+2013,Broj,Ljubinje,M,"Vid, iako nosi naočare",36
+2013,Broj,Ljubinje,Ž,"Vid, iako nosi naočare",46
+2013,Broj,Milići,Ukupno,"Vid, iako nosi naočare",390
+2013,Broj,Milići,M,"Vid, iako nosi naočare",165
+2013,Broj,Milići,Ž,"Vid, iako nosi naočare",225
+2013,Broj,Modriča,Ukupno,"Vid, iako nosi naočare",990
+2013,Broj,Modriča,M,"Vid, iako nosi naočare",443
+2013,Broj,Modriča,Ž,"Vid, iako nosi naočare",547
+2013,Broj,Mrkonjić Grad,Ukupno,"Vid, iako nosi naočare",524
+2013,Broj,Mrkonjić Grad,M,"Vid, iako nosi naočare",227
+2013,Broj,Mrkonjić Grad,Ž,"Vid, iako nosi naočare",297
+2013,Broj,Nevesinje,Ukupno,"Vid, iako nosi naočare",401
+2013,Broj,Nevesinje,M,"Vid, iako nosi naočare",187
+2013,Broj,Nevesinje,Ž,"Vid, iako nosi naočare",214
+2013,Broj,Novi Grad,Ukupno,"Vid, iako nosi naočare",1236
+2013,Broj,Novi Grad,M,"Vid, iako nosi naočare",483
+2013,Broj,Novi Grad,Ž,"Vid, iako nosi naočare",753
+2013,Broj,Novo Goražde,Ukupno,"Vid, iako nosi naočare",86
+2013,Broj,Novo Goražde,M,"Vid, iako nosi naočare",35
+2013,Broj,Novo Goražde,Ž,"Vid, iako nosi naočare",51
+2013,Broj,Osmaci,Ukupno,"Vid, iako nosi naočare",243
+2013,Broj,Osmaci,M,"Vid, iako nosi naočare",102
+2013,Broj,Osmaci,Ž,"Vid, iako nosi naočare",141
+2013,Broj,Oštra Luka,Ukupno,"Vid, iako nosi naočare",176
+2013,Broj,Oštra Luka,M,"Vid, iako nosi naočare",88
+2013,Broj,Oštra Luka,Ž,"Vid, iako nosi naočare",88
+2013,Broj,Pale,Ukupno,"Vid, iako nosi naočare",492
+2013,Broj,Pale,M,"Vid, iako nosi naočare",213
+2013,Broj,Pale,Ž,"Vid, iako nosi naočare",279
+2013,Broj,Pelagićevo,Ukupno,"Vid, iako nosi naočare",310
+2013,Broj,Pelagićevo,M,"Vid, iako nosi naočare",132
+2013,Broj,Pelagićevo,Ž,"Vid, iako nosi naočare",178
+2013,Broj,Petrovac,Ukupno,"Vid, iako nosi naočare",6
+2013,Broj,Petrovac,M,"Vid, iako nosi naočare",2
+2013,Broj,Petrovac,Ž,"Vid, iako nosi naočare",4
+2013,Broj,Petrovo,Ukupno,"Vid, iako nosi naočare",433
+2013,Broj,Petrovo,M,"Vid, iako nosi naočare",178
+2013,Broj,Petrovo,Ž,"Vid, iako nosi naočare",255
+2013,Broj,Grad Prijedor,Ukupno,"Vid, iako nosi naočare",2857
+2013,Broj,Grad Prijedor,M,"Vid, iako nosi naočare",1209
+2013,Broj,Grad Prijedor,Ž,"Vid, iako nosi naočare",1648
+2013,Broj,Prnjavor,Ukupno,"Vid, iako nosi naočare",1364
+2013,Broj,Prnjavor,M,"Vid, iako nosi naočare",564
+2013,Broj,Prnjavor,Ž,"Vid, iako nosi naočare",800
+2013,Broj,Ribnik,Ukupno,"Vid, iako nosi naočare",293
+2013,Broj,Ribnik,M,"Vid, iako nosi naočare",137
+2013,Broj,Ribnik,Ž,"Vid, iako nosi naočare",156
+2013,Broj,Rogatica,Ukupno,"Vid, iako nosi naočare",418
+2013,Broj,Rogatica,M,"Vid, iako nosi naočare",174
+2013,Broj,Rogatica,Ž,"Vid, iako nosi naočare",244
+2013,Broj,Rudo,Ukupno,"Vid, iako nosi naočare",231
+2013,Broj,Rudo,M,"Vid, iako nosi naočare",98
+2013,Broj,Rudo,Ž,"Vid, iako nosi naočare",133
+2013,Broj,Sokolac,Ukupno,"Vid, iako nosi naočare",368
+2013,Broj,Sokolac,M,"Vid, iako nosi naočare",161
+2013,Broj,Sokolac,Ž,"Vid, iako nosi naočare",207
+2013,Broj,Srbac,Ukupno,"Vid, iako nosi naočare",684
+2013,Broj,Srbac,M,"Vid, iako nosi naočare",291
+2013,Broj,Srbac,Ž,"Vid, iako nosi naočare",393
+2013,Broj,Srebrenica,Ukupno,"Vid, iako nosi naočare",487
+2013,Broj,Srebrenica,M,"Vid, iako nosi naočare",176
+2013,Broj,Srebrenica,Ž,"Vid, iako nosi naočare",311
+2013,Broj,Teslić,Ukupno,"Vid, iako nosi naočare",1451
+2013,Broj,Teslić,M,"Vid, iako nosi naočare",633
+2013,Broj,Teslić,Ž,"Vid, iako nosi naočare",818
+2013,Broj,Grad Trebinje,Ukupno,"Vid, iako nosi naočare",736
+2013,Broj,Grad Trebinje,M,"Vid, iako nosi naočare",297
+2013,Broj,Grad Trebinje,Ž,"Vid, iako nosi naočare",439
+2013,Broj,Trnovo,Ukupno,"Vid, iako nosi naočare",62
+2013,Broj,Trnovo,M,"Vid, iako nosi naočare",25
+2013,Broj,Trnovo,Ž,"Vid, iako nosi naočare",37
+2013,Broj,Ugljevik,Ukupno,"Vid, iako nosi naočare",488
+2013,Broj,Ugljevik,M,"Vid, iako nosi naočare",202
+2013,Broj,Ugljevik,Ž,"Vid, iako nosi naočare",286
+2013,Broj,Foča,Ukupno,"Vid, iako nosi naočare",605
+2013,Broj,Foča,M,"Vid, iako nosi naočare",263
+2013,Broj,Foča,Ž,"Vid, iako nosi naočare",342
+2013,Broj,Han Pijesak,Ukupno,"Vid, iako nosi naočare",102
+2013,Broj,Han Pijesak,M,"Vid, iako nosi naočare",36
+2013,Broj,Han Pijesak,Ž,"Vid, iako nosi naočare",66
+2013,Broj,Čajniče,Ukupno,"Vid, iako nosi naočare",219
+2013,Broj,Čajniče,M,"Vid, iako nosi naočare",93
+2013,Broj,Čajniče,Ž,"Vid, iako nosi naočare",126
+2013,Broj,Čelinac,Ukupno,"Vid, iako nosi naočare",752
+2013,Broj,Čelinac,M,"Vid, iako nosi naočare",313
+2013,Broj,Čelinac,Ž,"Vid, iako nosi naočare",439
+2013,Broj,Šamac,Ukupno,"Vid, iako nosi naočare",679
+2013,Broj,Šamac,M,"Vid, iako nosi naočare",277
+2013,Broj,Šamac,Ž,"Vid, iako nosi naočare",402
+2013,Broj,Šekovići,Ukupno,"Vid, iako nosi naočare",307
+2013,Broj,Šekovići,M,"Vid, iako nosi naočare",130
+2013,Broj,Šekovići,Ž,"Vid, iako nosi naočare",177
+2013,Broj,Šipovo,Ukupno,"Vid, iako nosi naočare",372
+2013,Broj,Šipovo,M,"Vid, iako nosi naočare",155
+2013,Broj,Šipovo,Ž,"Vid, iako nosi naočare",217
+2013,Broj,Republika Srpska,Ukupno,"Sluh, iako koristi slušni aparat",26055
+2013,Broj,Republika Srpska,M,"Sluh, iako koristi slušni aparat",12971
+2013,Broj,Republika Srpska,Ž,"Sluh, iako koristi slušni aparat",13084
+2013,Broj,Grad Banja Luka,Ukupno,"Sluh, iako koristi slušni aparat",3262
+2013,Broj,Grad Banja Luka,M,"Sluh, iako koristi slušni aparat",1678
+2013,Broj,Grad Banja Luka,Ž,"Sluh, iako koristi slušni aparat",1584
+2013,Broj,Berkovići,Ukupno,"Sluh, iako koristi slušni aparat",48
+2013,Broj,Berkovići,M,"Sluh, iako koristi slušni aparat",28
+2013,Broj,Berkovići,Ž,"Sluh, iako koristi slušni aparat",20
+2013,Broj,Grad Bijeljina,Ukupno,"Sluh, iako koristi slušni aparat",2026
+2013,Broj,Grad Bijeljina,M,"Sluh, iako koristi slušni aparat",1028
+2013,Broj,Grad Bijeljina,Ž,"Sluh, iako koristi slušni aparat",998
+2013,Broj,Bileća,Ukupno,"Sluh, iako koristi slušni aparat",240
+2013,Broj,Bileća,M,"Sluh, iako koristi slušni aparat",122
+2013,Broj,Bileća,Ž,"Sluh, iako koristi slušni aparat",118
+2013,Broj,Bratunac,Ukupno,"Sluh, iako koristi slušni aparat",420
+2013,Broj,Bratunac,M,"Sluh, iako koristi slušni aparat",196
+2013,Broj,Bratunac,Ž,"Sluh, iako koristi slušni aparat",224
+2013,Broj,Brod,Ukupno,"Sluh, iako koristi slušni aparat",322
+2013,Broj,Brod,M,"Sluh, iako koristi slušni aparat",168
+2013,Broj,Brod,Ž,"Sluh, iako koristi slušni aparat",154
+2013,Broj,Višegrad,Ukupno,"Sluh, iako koristi slušni aparat",276
+2013,Broj,Višegrad,M,"Sluh, iako koristi slušni aparat",128
+2013,Broj,Višegrad,Ž,"Sluh, iako koristi slušni aparat",148
+2013,Broj,Vlasenica,Ukupno,"Sluh, iako koristi slušni aparat",236
+2013,Broj,Vlasenica,M,"Sluh, iako koristi slušni aparat",117
+2013,Broj,Vlasenica,Ž,"Sluh, iako koristi slušni aparat",119
+2013,Broj,Vukosavlje,Ukupno,"Sluh, iako koristi slušni aparat",107
+2013,Broj,Vukosavlje,M,"Sluh, iako koristi slušni aparat",49
+2013,Broj,Vukosavlje,Ž,"Sluh, iako koristi slušni aparat",58
+2013,Broj,Gacko,Ukupno,"Sluh, iako koristi slušni aparat",172
+2013,Broj,Gacko,M,"Sluh, iako koristi slušni aparat",80
+2013,Broj,Gacko,Ž,"Sluh, iako koristi slušni aparat",92
+2013,Broj,Grad Gradiška,Ukupno,"Sluh, iako koristi slušni aparat",1110
+2013,Broj,Grad Gradiška,M,"Sluh, iako koristi slušni aparat",525
+2013,Broj,Grad Gradiška,Ž,"Sluh, iako koristi slušni aparat",585
+2013,Broj,Grad Derventa,Ukupno,"Sluh, iako koristi slušni aparat",655
+2013,Broj,Grad Derventa,M,"Sluh, iako koristi slušni aparat",320
+2013,Broj,Grad Derventa,Ž,"Sluh, iako koristi slušni aparat",335
+2013,Broj,Grad Doboj,Ukupno,"Sluh, iako koristi slušni aparat",1902
+2013,Broj,Grad Doboj,M,"Sluh, iako koristi slušni aparat",925
+2013,Broj,Grad Doboj,Ž,"Sluh, iako koristi slušni aparat",977
+2013,Broj,Donji Žabar,Ukupno,"Sluh, iako koristi slušni aparat",81
+2013,Broj,Donji Žabar,M,"Sluh, iako koristi slušni aparat",50
+2013,Broj,Donji Žabar,Ž,"Sluh, iako koristi slušni aparat",31
+2013,Broj,Grad Zvornik,Ukupno,"Sluh, iako koristi slušni aparat",1157
+2013,Broj,Grad Zvornik,M,"Sluh, iako koristi slušni aparat",580
+2013,Broj,Grad Zvornik,Ž,"Sluh, iako koristi slušni aparat",577
+2013,Broj,Istočna Ilidža,Ukupno,"Sluh, iako koristi slušni aparat",267
+2013,Broj,Istočna Ilidža,M,"Sluh, iako koristi slušni aparat",123
+2013,Broj,Istočna Ilidža,Ž,"Sluh, iako koristi slušni aparat",144
+2013,Broj,Istočni Drvar,Ukupno,"Sluh, iako koristi slušni aparat",4
+2013,Broj,Istočni Drvar,M,"Sluh, iako koristi slušni aparat",1
+2013,Broj,Istočni Drvar,Ž,"Sluh, iako koristi slušni aparat",3
+2013,Broj,Istočni Mostar,Ukupno,"Sluh, iako koristi slušni aparat",7
+2013,Broj,Istočni Mostar,M,"Sluh, iako koristi slušni aparat",1
+2013,Broj,Istočni Mostar,Ž,"Sluh, iako koristi slušni aparat",6
+2013,Broj,Istočni Stari Grad,Ukupno,"Sluh, iako koristi slušni aparat",29
+2013,Broj,Istočni Stari Grad,M,"Sluh, iako koristi slušni aparat",15
+2013,Broj,Istočni Stari Grad,Ž,"Sluh, iako koristi slušni aparat",14
+2013,Broj,Istočno Novo Sarajevo,Ukupno,"Sluh, iako koristi slušni aparat",153
+2013,Broj,Istočno Novo Sarajevo,M,"Sluh, iako koristi slušni aparat",76
+2013,Broj,Istočno Novo Sarajevo,Ž,"Sluh, iako koristi slušni aparat",77
+2013,Broj,Jezero,Ukupno,"Sluh, iako koristi slušni aparat",34
+2013,Broj,Jezero,M,"Sluh, iako koristi slušni aparat",18
+2013,Broj,Jezero,Ž,"Sluh, iako koristi slušni aparat",16
+2013,Broj,Kalinovik,Ukupno,"Sluh, iako koristi slušni aparat",56
+2013,Broj,Kalinovik,M,"Sluh, iako koristi slušni aparat",25
+2013,Broj,Kalinovik,Ž,"Sluh, iako koristi slušni aparat",31
+2013,Broj,Kneževo,Ukupno,"Sluh, iako koristi slušni aparat",251
+2013,Broj,Kneževo,M,"Sluh, iako koristi slušni aparat",127
+2013,Broj,Kneževo,Ž,"Sluh, iako koristi slušni aparat",124
+2013,Broj,Kozarska Dubica,Ukupno,"Sluh, iako koristi slušni aparat",490
+2013,Broj,Kozarska Dubica,M,"Sluh, iako koristi slušni aparat",237
+2013,Broj,Kozarska Dubica,Ž,"Sluh, iako koristi slušni aparat",253
+2013,Broj,Kostajnica,Ukupno,"Sluh, iako koristi slušni aparat",123
+2013,Broj,Kostajnica,M,"Sluh, iako koristi slušni aparat",65
+2013,Broj,Kostajnica,Ž,"Sluh, iako koristi slušni aparat",58
+2013,Broj,Kotor Varoš,Ukupno,"Sluh, iako koristi slušni aparat",485
+2013,Broj,Kotor Varoš,M,"Sluh, iako koristi slušni aparat",244
+2013,Broj,Kotor Varoš,Ž,"Sluh, iako koristi slušni aparat",241
+2013,Broj,Krupa Na Uni,Ukupno,"Sluh, iako koristi slušni aparat",59
+2013,Broj,Krupa Na Uni,M,"Sluh, iako koristi slušni aparat",36
+2013,Broj,Krupa Na Uni,Ž,"Sluh, iako koristi slušni aparat",23
+2013,Broj,Kupres,Ukupno,"Sluh, iako koristi slušni aparat",14
+2013,Broj,Kupres,M,"Sluh, iako koristi slušni aparat",10
+2013,Broj,Kupres,Ž,"Sluh, iako koristi slušni aparat",4
+2013,Broj,Laktaši,Ukupno,"Sluh, iako koristi slušni aparat",610
+2013,Broj,Laktaši,M,"Sluh, iako koristi slušni aparat",322
+2013,Broj,Laktaši,Ž,"Sluh, iako koristi slušni aparat",288
+2013,Broj,Lopare,Ukupno,"Sluh, iako koristi slušni aparat",400
+2013,Broj,Lopare,M,"Sluh, iako koristi slušni aparat",187
+2013,Broj,Lopare,Ž,"Sluh, iako koristi slušni aparat",213
+2013,Broj,Ljubinje,Ukupno,"Sluh, iako koristi slušni aparat",68
+2013,Broj,Ljubinje,M,"Sluh, iako koristi slušni aparat",33
+2013,Broj,Ljubinje,Ž,"Sluh, iako koristi slušni aparat",35
+2013,Broj,Milići,Ukupno,"Sluh, iako koristi slušni aparat",209
+2013,Broj,Milići,M,"Sluh, iako koristi slušni aparat",98
+2013,Broj,Milići,Ž,"Sluh, iako koristi slušni aparat",111
+2013,Broj,Modriča,Ukupno,"Sluh, iako koristi slušni aparat",623
+2013,Broj,Modriča,M,"Sluh, iako koristi slušni aparat",318
+2013,Broj,Modriča,Ž,"Sluh, iako koristi slušni aparat",305
+2013,Broj,Mrkonjić Grad,Ukupno,"Sluh, iako koristi slušni aparat",388
+2013,Broj,Mrkonjić Grad,M,"Sluh, iako koristi slušni aparat",188
+2013,Broj,Mrkonjić Grad,Ž,"Sluh, iako koristi slušni aparat",200
+2013,Broj,Nevesinje,Ukupno,"Sluh, iako koristi slušni aparat",254
+2013,Broj,Nevesinje,M,"Sluh, iako koristi slušni aparat",119
+2013,Broj,Nevesinje,Ž,"Sluh, iako koristi slušni aparat",135
+2013,Broj,Novi Grad,Ukupno,"Sluh, iako koristi slušni aparat",706
+2013,Broj,Novi Grad,M,"Sluh, iako koristi slušni aparat",334
+2013,Broj,Novi Grad,Ž,"Sluh, iako koristi slušni aparat",372
+2013,Broj,Novo Goražde,Ukupno,"Sluh, iako koristi slušni aparat",57
+2013,Broj,Novo Goražde,M,"Sluh, iako koristi slušni aparat",31
+2013,Broj,Novo Goražde,Ž,"Sluh, iako koristi slušni aparat",26
+2013,Broj,Osmaci,Ukupno,"Sluh, iako koristi slušni aparat",144
+2013,Broj,Osmaci,M,"Sluh, iako koristi slušni aparat",71
+2013,Broj,Osmaci,Ž,"Sluh, iako koristi slušni aparat",73
+2013,Broj,Oštra Luka,Ukupno,"Sluh, iako koristi slušni aparat",97
+2013,Broj,Oštra Luka,M,"Sluh, iako koristi slušni aparat",65
+2013,Broj,Oštra Luka,Ž,"Sluh, iako koristi slušni aparat",32
+2013,Broj,Pale,Ukupno,"Sluh, iako koristi slušni aparat",318
+2013,Broj,Pale,M,"Sluh, iako koristi slušni aparat",164
+2013,Broj,Pale,Ž,"Sluh, iako koristi slušni aparat",154
+2013,Broj,Pelagićevo,Ukupno,"Sluh, iako koristi slušni aparat",167
+2013,Broj,Pelagićevo,M,"Sluh, iako koristi slušni aparat",74
+2013,Broj,Pelagićevo,Ž,"Sluh, iako koristi slušni aparat",93
+2013,Broj,Petrovac,Ukupno,"Sluh, iako koristi slušni aparat",4
+2013,Broj,Petrovac,M,"Sluh, iako koristi slušni aparat",1
+2013,Broj,Petrovac,Ž,"Sluh, iako koristi slušni aparat",3
+2013,Broj,Petrovo,Ukupno,"Sluh, iako koristi slušni aparat",257
+2013,Broj,Petrovo,M,"Sluh, iako koristi slušni aparat",134
+2013,Broj,Petrovo,Ž,"Sluh, iako koristi slušni aparat",123
+2013,Broj,Grad Prijedor,Ukupno,"Sluh, iako koristi slušni aparat",1805
+2013,Broj,Grad Prijedor,M,"Sluh, iako koristi slušni aparat",944
+2013,Broj,Grad Prijedor,Ž,"Sluh, iako koristi slušni aparat",861
+2013,Broj,Prnjavor,Ukupno,"Sluh, iako koristi slušni aparat",812
+2013,Broj,Prnjavor,M,"Sluh, iako koristi slušni aparat",383
+2013,Broj,Prnjavor,Ž,"Sluh, iako koristi slušni aparat",429
+2013,Broj,Ribnik,Ukupno,"Sluh, iako koristi slušni aparat",199
+2013,Broj,Ribnik,M,"Sluh, iako koristi slušni aparat",97
+2013,Broj,Ribnik,Ž,"Sluh, iako koristi slušni aparat",102
+2013,Broj,Rogatica,Ukupno,"Sluh, iako koristi slušni aparat",307
+2013,Broj,Rogatica,M,"Sluh, iako koristi slušni aparat",150
+2013,Broj,Rogatica,Ž,"Sluh, iako koristi slušni aparat",157
+2013,Broj,Rudo,Ukupno,"Sluh, iako koristi slušni aparat",169
+2013,Broj,Rudo,M,"Sluh, iako koristi slušni aparat",83
+2013,Broj,Rudo,Ž,"Sluh, iako koristi slušni aparat",86
+2013,Broj,Sokolac,Ukupno,"Sluh, iako koristi slušni aparat",257
+2013,Broj,Sokolac,M,"Sluh, iako koristi slušni aparat",121
+2013,Broj,Sokolac,Ž,"Sluh, iako koristi slušni aparat",136
+2013,Broj,Srbac,Ukupno,"Sluh, iako koristi slušni aparat",423
+2013,Broj,Srbac,M,"Sluh, iako koristi slušni aparat",212
+2013,Broj,Srbac,Ž,"Sluh, iako koristi slušni aparat",211
+2013,Broj,Srebrenica,Ukupno,"Sluh, iako koristi slušni aparat",229
+2013,Broj,Srebrenica,M,"Sluh, iako koristi slušni aparat",109
+2013,Broj,Srebrenica,Ž,"Sluh, iako koristi slušni aparat",120
+2013,Broj,Teslić,Ukupno,"Sluh, iako koristi slušni aparat",881
+2013,Broj,Teslić,M,"Sluh, iako koristi slušni aparat",435
+2013,Broj,Teslić,Ž,"Sluh, iako koristi slušni aparat",446
+2013,Broj,Grad Trebinje,Ukupno,"Sluh, iako koristi slušni aparat",461
+2013,Broj,Grad Trebinje,M,"Sluh, iako koristi slušni aparat",227
+2013,Broj,Grad Trebinje,Ž,"Sluh, iako koristi slušni aparat",234
+2013,Broj,Trnovo,Ukupno,"Sluh, iako koristi slušni aparat",46
+2013,Broj,Trnovo,M,"Sluh, iako koristi slušni aparat",22
+2013,Broj,Trnovo,Ž,"Sluh, iako koristi slušni aparat",24
+2013,Broj,Ugljevik,Ukupno,"Sluh, iako koristi slušni aparat",257
+2013,Broj,Ugljevik,M,"Sluh, iako koristi slušni aparat",117
+2013,Broj,Ugljevik,Ž,"Sluh, iako koristi slušni aparat",140
+2013,Broj,Foča,Ukupno,"Sluh, iako koristi slušni aparat",430
+2013,Broj,Foča,M,"Sluh, iako koristi slušni aparat",216
+2013,Broj,Foča,Ž,"Sluh, iako koristi slušni aparat",214
+2013,Broj,Han Pijesak,Ukupno,"Sluh, iako koristi slušni aparat",68
+2013,Broj,Han Pijesak,M,"Sluh, iako koristi slušni aparat",28
+2013,Broj,Han Pijesak,Ž,"Sluh, iako koristi slušni aparat",40
+2013,Broj,Čajniče,Ukupno,"Sluh, iako koristi slušni aparat",135
+2013,Broj,Čajniče,M,"Sluh, iako koristi slušni aparat",66
+2013,Broj,Čajniče,Ž,"Sluh, iako koristi slušni aparat",69
+2013,Broj,Čelinac,Ukupno,"Sluh, iako koristi slušni aparat",457
+2013,Broj,Čelinac,M,"Sluh, iako koristi slušni aparat",233
+2013,Broj,Čelinac,Ž,"Sluh, iako koristi slušni aparat",224
+2013,Broj,Šamac,Ukupno,"Sluh, iako koristi slušni aparat",419
+2013,Broj,Šamac,M,"Sluh, iako koristi slušni aparat",217
+2013,Broj,Šamac,Ž,"Sluh, iako koristi slušni aparat",202
+2013,Broj,Šekovići,Ukupno,"Sluh, iako koristi slušni aparat",193
+2013,Broj,Šekovići,M,"Sluh, iako koristi slušni aparat",96
+2013,Broj,Šekovići,Ž,"Sluh, iako koristi slušni aparat",97
+2013,Broj,Šipovo,Ukupno,"Sluh, iako koristi slušni aparat",219
+2013,Broj,Šipovo,M,"Sluh, iako koristi slušni aparat",104
+2013,Broj,Šipovo,Ž,"Sluh, iako koristi slušni aparat",115
 2013,Broj,Republika Srpska,Ukupno,Hod ili penjanje uz stepenice,63381
 2013,Broj,Republika Srpska,M,Hod ili penjanje uz stepenice,26903
 2013,Broj,Republika Srpska,Ž,Hod ili penjanje uz stepenice,36478
@@ -1322,192 +1322,192 @@ Year,UNIT_MEASURE,Administrativna oblast,Pol,Vrsta poteškoće,Value
 2013,Broj,Šipovo,Ukupno,Komunikacija,92
 2013,Broj,Šipovo,M,Komunikacija,42
 2013,Broj,Šipovo,Ž,Komunikacija,50
-2013,Broj,Republika Srpska,Ukupno,Višestruke poteškoće,38298
-2013,Broj,Republika Srpska,M,Višestruke poteškoće,16292
-2013,Broj,Republika Srpska,Ž,Višestruke poteškoće,22006
-2013,Broj,Grad Banja Luka,Ukupno,Višestruke poteškoće,4944
-2013,Broj,Grad Banja Luka,M,Višestruke poteškoće,2158
-2013,Broj,Grad Banja Luka,Ž,Višestruke poteškoće,2786
-2013,Broj,Berkovići,Ukupno,Višestruke poteškoće,73
-2013,Broj,Berkovići,M,Višestruke poteškoće,32
-2013,Broj,Berkovići,Ž,Višestruke poteškoće,41
-2013,Broj,Grad Bijeljina,Ukupno,Višestruke poteškoće,3094
-2013,Broj,Grad Bijeljina,M,Višestruke poteškoće,1359
-2013,Broj,Grad Bijeljina,Ž,Višestruke poteškoće,1735
-2013,Broj,Bileća,Ukupno,Višestruke poteškoće,350
-2013,Broj,Bileća,M,Višestruke poteškoće,151
-2013,Broj,Bileća,Ž,Višestruke poteškoće,199
-2013,Broj,Bratunac,Ukupno,Višestruke poteškoće,566
-2013,Broj,Bratunac,M,Višestruke poteškoće,243
-2013,Broj,Bratunac,Ž,Višestruke poteškoće,323
-2013,Broj,Brod,Ukupno,Višestruke poteškoće,485
-2013,Broj,Brod,M,Višestruke poteškoće,194
-2013,Broj,Brod,Ž,Višestruke poteškoće,291
-2013,Broj,Višegrad,Ukupno,Višestruke poteškoće,477
-2013,Broj,Višegrad,M,Višestruke poteškoće,145
-2013,Broj,Višegrad,Ž,Višestruke poteškoće,332
-2013,Broj,Vlasenica,Ukupno,Višestruke poteškoće,305
-2013,Broj,Vlasenica,M,Višestruke poteškoće,130
-2013,Broj,Vlasenica,Ž,Višestruke poteškoće,175
-2013,Broj,Vukosavlje,Ukupno,Višestruke poteškoće,158
-2013,Broj,Vukosavlje,M,Višestruke poteškoće,77
-2013,Broj,Vukosavlje,Ž,Višestruke poteškoće,81
-2013,Broj,Gacko,Ukupno,Višestruke poteškoće,219
-2013,Broj,Gacko,M,Višestruke poteškoće,84
-2013,Broj,Gacko,Ž,Višestruke poteškoće,135
-2013,Broj,Grad Gradiška,Ukupno,Višestruke poteškoće,1641
-2013,Broj,Grad Gradiška,M,Višestruke poteškoće,637
-2013,Broj,Grad Gradiška,Ž,Višestruke poteškoće,1004
-2013,Broj,Grad Derventa,Ukupno,Višestruke poteškoće,938
-2013,Broj,Grad Derventa,M,Višestruke poteškoće,385
-2013,Broj,Grad Derventa,Ž,Višestruke poteškoće,553
-2013,Broj,Grad Doboj,Ukupno,Višestruke poteškoće,3008
-2013,Broj,Grad Doboj,M,Višestruke poteškoće,1227
-2013,Broj,Grad Doboj,Ž,Višestruke poteškoće,1781
-2013,Broj,Donji Žabar,Ukupno,Višestruke poteškoće,89
-2013,Broj,Donji Žabar,M,Višestruke poteškoće,42
-2013,Broj,Donji Žabar,Ž,Višestruke poteškoće,47
-2013,Broj,Grad Zvornik,Ukupno,Višestruke poteškoće,1546
-2013,Broj,Grad Zvornik,M,Višestruke poteškoće,670
-2013,Broj,Grad Zvornik,Ž,Višestruke poteškoće,876
-2013,Broj,Istočna Ilidža,Ukupno,Višestruke poteškoće,394
-2013,Broj,Istočna Ilidža,M,Višestruke poteškoće,171
-2013,Broj,Istočna Ilidža,Ž,Višestruke poteškoće,223
-2013,Broj,Istočni Drvar,Ukupno,Višestruke poteškoće,4
-2013,Broj,Istočni Drvar,M,Višestruke poteškoće,1
-2013,Broj,Istočni Drvar,Ž,Višestruke poteškoće,3
-2013,Broj,Istočni Mostar,Ukupno,Višestruke poteškoće,7
-2013,Broj,Istočni Mostar,M,Višestruke poteškoće,2
-2013,Broj,Istočni Mostar,Ž,Višestruke poteškoće,5
-2013,Broj,Istočni Stari Grad,Ukupno,Višestruke poteškoće,32
-2013,Broj,Istočni Stari Grad,M,Višestruke poteškoće,16
-2013,Broj,Istočni Stari Grad,Ž,Višestruke poteškoće,16
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Višestruke poteškoće,206
-2013,Broj,Istočno Novo Sarajevo,M,Višestruke poteškoće,87
-2013,Broj,Istočno Novo Sarajevo,Ž,Višestruke poteškoće,119
-2013,Broj,Jezero,Ukupno,Višestruke poteškoće,40
-2013,Broj,Jezero,M,Višestruke poteškoće,17
-2013,Broj,Jezero,Ž,Višestruke poteškoće,23
-2013,Broj,Kalinovik,Ukupno,Višestruke poteškoće,80
-2013,Broj,Kalinovik,M,Višestruke poteškoće,30
-2013,Broj,Kalinovik,Ž,Višestruke poteškoće,50
-2013,Broj,Kneževo,Ukupno,Višestruke poteškoće,399
-2013,Broj,Kneževo,M,Višestruke poteškoće,178
-2013,Broj,Kneževo,Ž,Višestruke poteškoće,221
-2013,Broj,Kozarska Dubica,Ukupno,Višestruke poteškoće,741
-2013,Broj,Kozarska Dubica,M,Višestruke poteškoće,302
-2013,Broj,Kozarska Dubica,Ž,Višestruke poteškoće,439
-2013,Broj,Kostajnica,Ukupno,Višestruke poteškoće,209
-2013,Broj,Kostajnica,M,Višestruke poteškoće,93
-2013,Broj,Kostajnica,Ž,Višestruke poteškoće,116
-2013,Broj,Kotor Varoš,Ukupno,Višestruke poteškoće,702
-2013,Broj,Kotor Varoš,M,Višestruke poteškoće,310
-2013,Broj,Kotor Varoš,Ž,Višestruke poteškoće,392
-2013,Broj,Krupa Na Uni,Ukupno,Višestruke poteškoće,88
-2013,Broj,Krupa Na Uni,M,Višestruke poteškoće,40
-2013,Broj,Krupa Na Uni,Ž,Višestruke poteškoće,48
-2013,Broj,Kupres,Ukupno,Višestruke poteškoće,21
-2013,Broj,Kupres,M,Višestruke poteškoće,13
-2013,Broj,Kupres,Ž,Višestruke poteškoće,8
-2013,Broj,Laktaši,Ukupno,Višestruke poteškoće,887
-2013,Broj,Laktaši,M,Višestruke poteškoće,413
-2013,Broj,Laktaši,Ž,Višestruke poteškoće,474
-2013,Broj,Lopare,Ukupno,Višestruke poteškoće,583
-2013,Broj,Lopare,M,Višestruke poteškoće,254
-2013,Broj,Lopare,Ž,Višestruke poteškoće,329
-2013,Broj,Ljubinje,Ukupno,Višestruke poteškoće,81
-2013,Broj,Ljubinje,M,Višestruke poteškoće,34
-2013,Broj,Ljubinje,Ž,Višestruke poteškoće,47
-2013,Broj,Milići,Ukupno,Višestruke poteškoće,314
-2013,Broj,Milići,M,Višestruke poteškoće,130
-2013,Broj,Milići,Ž,Višestruke poteškoće,184
-2013,Broj,Modriča,Ukupno,Višestruke poteškoće,927
-2013,Broj,Modriča,M,Višestruke poteškoće,399
-2013,Broj,Modriča,Ž,Višestruke poteškoće,528
-2013,Broj,Mrkonjić Grad,Ukupno,Višestruke poteškoće,475
-2013,Broj,Mrkonjić Grad,M,Višestruke poteškoće,210
-2013,Broj,Mrkonjić Grad,Ž,Višestruke poteškoće,265
-2013,Broj,Nevesinje,Ukupno,Višestruke poteškoće,327
-2013,Broj,Nevesinje,M,Višestruke poteškoće,130
-2013,Broj,Nevesinje,Ž,Višestruke poteškoće,197
-2013,Broj,Novi Grad,Ukupno,Višestruke poteškoće,1049
-2013,Broj,Novi Grad,M,Višestruke poteškoće,446
-2013,Broj,Novi Grad,Ž,Višestruke poteškoće,603
-2013,Broj,Novo Goražde,Ukupno,Višestruke poteškoće,75
-2013,Broj,Novo Goražde,M,Višestruke poteškoće,28
-2013,Broj,Novo Goražde,Ž,Višestruke poteškoće,47
-2013,Broj,Osmaci,Ukupno,Višestruke poteškoće,189
-2013,Broj,Osmaci,M,Višestruke poteškoće,79
-2013,Broj,Osmaci,Ž,Višestruke poteškoće,110
-2013,Broj,Oštra Luka,Ukupno,Višestruke poteškoće,132
-2013,Broj,Oštra Luka,M,Višestruke poteškoće,63
-2013,Broj,Oštra Luka,Ž,Višestruke poteškoće,69
-2013,Broj,Pale,Ukupno,Višestruke poteškoće,446
-2013,Broj,Pale,M,Višestruke poteškoće,209
-2013,Broj,Pale,Ž,Višestruke poteškoće,237
-2013,Broj,Pelagićevo,Ukupno,Višestruke poteškoće,268
-2013,Broj,Pelagićevo,M,Višestruke poteškoće,102
-2013,Broj,Pelagićevo,Ž,Višestruke poteškoće,166
-2013,Broj,Petrovac,Ukupno,Višestruke poteškoće,7
-2013,Broj,Petrovac,M,Višestruke poteškoće,4
-2013,Broj,Petrovac,Ž,Višestruke poteškoće,3
-2013,Broj,Petrovo,Ukupno,Višestruke poteškoće,378
-2013,Broj,Petrovo,M,Višestruke poteškoće,156
-2013,Broj,Petrovo,Ž,Višestruke poteškoće,222
-2013,Broj,Grad Prijedor,Ukupno,Višestruke poteškoće,2789
-2013,Broj,Grad Prijedor,M,Višestruke poteškoće,1276
-2013,Broj,Grad Prijedor,Ž,Višestruke poteškoće,1513
-2013,Broj,Prnjavor,Ukupno,Višestruke poteškoće,1199
-2013,Broj,Prnjavor,M,Višestruke poteškoće,465
-2013,Broj,Prnjavor,Ž,Višestruke poteškoće,734
-2013,Broj,Ribnik,Ukupno,Višestruke poteškoće,272
-2013,Broj,Ribnik,M,Višestruke poteškoće,128
-2013,Broj,Ribnik,Ž,Višestruke poteškoće,144
-2013,Broj,Rogatica,Ukupno,Višestruke poteškoće,407
-2013,Broj,Rogatica,M,Višestruke poteškoće,164
-2013,Broj,Rogatica,Ž,Višestruke poteškoće,243
-2013,Broj,Rudo,Ukupno,Višestruke poteškoće,252
-2013,Broj,Rudo,M,Višestruke poteškoće,104
-2013,Broj,Rudo,Ž,Višestruke poteškoće,148
-2013,Broj,Sokolac,Ukupno,Višestruke poteškoće,347
-2013,Broj,Sokolac,M,Višestruke poteškoće,143
-2013,Broj,Sokolac,Ž,Višestruke poteškoće,204
-2013,Broj,Srbac,Ukupno,Višestruke poteškoće,576
-2013,Broj,Srbac,M,Višestruke poteškoće,257
-2013,Broj,Srbac,Ž,Višestruke poteškoće,319
-2013,Broj,Srebrenica,Ukupno,Višestruke poteškoće,381
-2013,Broj,Srebrenica,M,Višestruke poteškoće,144
-2013,Broj,Srebrenica,Ž,Višestruke poteškoće,237
-2013,Broj,Teslić,Ukupno,Višestruke poteškoće,1374
-2013,Broj,Teslić,M,Višestruke poteškoće,585
-2013,Broj,Teslić,Ž,Višestruke poteškoće,789
-2013,Broj,Grad Trebinje,Ukupno,Višestruke poteškoće,689
-2013,Broj,Grad Trebinje,M,Višestruke poteškoće,280
-2013,Broj,Grad Trebinje,Ž,Višestruke poteškoće,409
-2013,Broj,Trnovo,Ukupno,Višestruke poteškoće,69
-2013,Broj,Trnovo,M,Višestruke poteškoće,31
-2013,Broj,Trnovo,Ž,Višestruke poteškoće,38
-2013,Broj,Ugljevik,Ukupno,Višestruke poteškoće,402
-2013,Broj,Ugljevik,M,Višestruke poteškoće,165
-2013,Broj,Ugljevik,Ž,Višestruke poteškoće,237
-2013,Broj,Foča,Ukupno,Višestruke poteškoće,581
-2013,Broj,Foča,M,Višestruke poteškoće,262
-2013,Broj,Foča,Ž,Višestruke poteškoće,319
-2013,Broj,Han Pijesak,Ukupno,Višestruke poteškoće,95
-2013,Broj,Han Pijesak,M,Višestruke poteškoće,30
-2013,Broj,Han Pijesak,Ž,Višestruke poteškoće,65
-2013,Broj,Čajniče,Ukupno,Višestruke poteškoće,176
-2013,Broj,Čajniče,M,Višestruke poteškoće,77
-2013,Broj,Čajniče,Ž,Višestruke poteškoće,99
-2013,Broj,Čelinac,Ukupno,Višestruke poteškoće,624
-2013,Broj,Čelinac,M,Višestruke poteškoće,269
-2013,Broj,Čelinac,Ž,Višestruke poteškoće,355
-2013,Broj,Šamac,Ukupno,Višestruke poteškoće,567
-2013,Broj,Šamac,M,Višestruke poteškoće,228
-2013,Broj,Šamac,Ž,Višestruke poteškoće,339
-2013,Broj,Šekovići,Ukupno,Višestruke poteškoće,222
-2013,Broj,Šekovići,M,Višestruke poteškoće,101
-2013,Broj,Šekovići,Ž,Višestruke poteškoće,121
-2013,Broj,Šipovo,Ukupno,Višestruke poteškoće,322
-2013,Broj,Šipovo,M,Višestruke poteškoće,132
-2013,Broj,Šipovo,Ž,Višestruke poteškoće,190
+2013,Broj,Republika Srpska,Ukupno,Sa više poteškoća,38298
+2013,Broj,Republika Srpska,M,Sa više poteškoća,16292
+2013,Broj,Republika Srpska,Ž,Sa više poteškoća,22006
+2013,Broj,Grad Banja Luka,Ukupno,Sa više poteškoća,4944
+2013,Broj,Grad Banja Luka,M,Sa više poteškoća,2158
+2013,Broj,Grad Banja Luka,Ž,Sa više poteškoća,2786
+2013,Broj,Berkovići,Ukupno,Sa više poteškoća,73
+2013,Broj,Berkovići,M,Sa više poteškoća,32
+2013,Broj,Berkovići,Ž,Sa više poteškoća,41
+2013,Broj,Grad Bijeljina,Ukupno,Sa više poteškoća,3094
+2013,Broj,Grad Bijeljina,M,Sa više poteškoća,1359
+2013,Broj,Grad Bijeljina,Ž,Sa više poteškoća,1735
+2013,Broj,Bileća,Ukupno,Sa više poteškoća,350
+2013,Broj,Bileća,M,Sa više poteškoća,151
+2013,Broj,Bileća,Ž,Sa više poteškoća,199
+2013,Broj,Bratunac,Ukupno,Sa više poteškoća,566
+2013,Broj,Bratunac,M,Sa više poteškoća,243
+2013,Broj,Bratunac,Ž,Sa više poteškoća,323
+2013,Broj,Brod,Ukupno,Sa više poteškoća,485
+2013,Broj,Brod,M,Sa više poteškoća,194
+2013,Broj,Brod,Ž,Sa više poteškoća,291
+2013,Broj,Višegrad,Ukupno,Sa više poteškoća,477
+2013,Broj,Višegrad,M,Sa više poteškoća,145
+2013,Broj,Višegrad,Ž,Sa više poteškoća,332
+2013,Broj,Vlasenica,Ukupno,Sa više poteškoća,305
+2013,Broj,Vlasenica,M,Sa više poteškoća,130
+2013,Broj,Vlasenica,Ž,Sa više poteškoća,175
+2013,Broj,Vukosavlje,Ukupno,Sa više poteškoća,158
+2013,Broj,Vukosavlje,M,Sa više poteškoća,77
+2013,Broj,Vukosavlje,Ž,Sa više poteškoća,81
+2013,Broj,Gacko,Ukupno,Sa više poteškoća,219
+2013,Broj,Gacko,M,Sa više poteškoća,84
+2013,Broj,Gacko,Ž,Sa više poteškoća,135
+2013,Broj,Grad Gradiška,Ukupno,Sa više poteškoća,1641
+2013,Broj,Grad Gradiška,M,Sa više poteškoća,637
+2013,Broj,Grad Gradiška,Ž,Sa više poteškoća,1004
+2013,Broj,Grad Derventa,Ukupno,Sa više poteškoća,938
+2013,Broj,Grad Derventa,M,Sa više poteškoća,385
+2013,Broj,Grad Derventa,Ž,Sa više poteškoća,553
+2013,Broj,Grad Doboj,Ukupno,Sa više poteškoća,3008
+2013,Broj,Grad Doboj,M,Sa više poteškoća,1227
+2013,Broj,Grad Doboj,Ž,Sa više poteškoća,1781
+2013,Broj,Donji Žabar,Ukupno,Sa više poteškoća,89
+2013,Broj,Donji Žabar,M,Sa više poteškoća,42
+2013,Broj,Donji Žabar,Ž,Sa više poteškoća,47
+2013,Broj,Grad Zvornik,Ukupno,Sa više poteškoća,1546
+2013,Broj,Grad Zvornik,M,Sa više poteškoća,670
+2013,Broj,Grad Zvornik,Ž,Sa više poteškoća,876
+2013,Broj,Istočna Ilidža,Ukupno,Sa više poteškoća,394
+2013,Broj,Istočna Ilidža,M,Sa više poteškoća,171
+2013,Broj,Istočna Ilidža,Ž,Sa više poteškoća,223
+2013,Broj,Istočni Drvar,Ukupno,Sa više poteškoća,4
+2013,Broj,Istočni Drvar,M,Sa više poteškoća,1
+2013,Broj,Istočni Drvar,Ž,Sa više poteškoća,3
+2013,Broj,Istočni Mostar,Ukupno,Sa više poteškoća,7
+2013,Broj,Istočni Mostar,M,Sa više poteškoća,2
+2013,Broj,Istočni Mostar,Ž,Sa više poteškoća,5
+2013,Broj,Istočni Stari Grad,Ukupno,Sa više poteškoća,32
+2013,Broj,Istočni Stari Grad,M,Sa više poteškoća,16
+2013,Broj,Istočni Stari Grad,Ž,Sa više poteškoća,16
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Sa više poteškoća,206
+2013,Broj,Istočno Novo Sarajevo,M,Sa više poteškoća,87
+2013,Broj,Istočno Novo Sarajevo,Ž,Sa više poteškoća,119
+2013,Broj,Jezero,Ukupno,Sa više poteškoća,40
+2013,Broj,Jezero,M,Sa više poteškoća,17
+2013,Broj,Jezero,Ž,Sa više poteškoća,23
+2013,Broj,Kalinovik,Ukupno,Sa više poteškoća,80
+2013,Broj,Kalinovik,M,Sa više poteškoća,30
+2013,Broj,Kalinovik,Ž,Sa više poteškoća,50
+2013,Broj,Kneževo,Ukupno,Sa više poteškoća,399
+2013,Broj,Kneževo,M,Sa više poteškoća,178
+2013,Broj,Kneževo,Ž,Sa više poteškoća,221
+2013,Broj,Kozarska Dubica,Ukupno,Sa više poteškoća,741
+2013,Broj,Kozarska Dubica,M,Sa više poteškoća,302
+2013,Broj,Kozarska Dubica,Ž,Sa više poteškoća,439
+2013,Broj,Kostajnica,Ukupno,Sa više poteškoća,209
+2013,Broj,Kostajnica,M,Sa više poteškoća,93
+2013,Broj,Kostajnica,Ž,Sa više poteškoća,116
+2013,Broj,Kotor Varoš,Ukupno,Sa više poteškoća,702
+2013,Broj,Kotor Varoš,M,Sa više poteškoća,310
+2013,Broj,Kotor Varoš,Ž,Sa više poteškoća,392
+2013,Broj,Krupa Na Uni,Ukupno,Sa više poteškoća,88
+2013,Broj,Krupa Na Uni,M,Sa više poteškoća,40
+2013,Broj,Krupa Na Uni,Ž,Sa više poteškoća,48
+2013,Broj,Kupres,Ukupno,Sa više poteškoća,21
+2013,Broj,Kupres,M,Sa više poteškoća,13
+2013,Broj,Kupres,Ž,Sa više poteškoća,8
+2013,Broj,Laktaši,Ukupno,Sa više poteškoća,887
+2013,Broj,Laktaši,M,Sa više poteškoća,413
+2013,Broj,Laktaši,Ž,Sa više poteškoća,474
+2013,Broj,Lopare,Ukupno,Sa više poteškoća,583
+2013,Broj,Lopare,M,Sa više poteškoća,254
+2013,Broj,Lopare,Ž,Sa više poteškoća,329
+2013,Broj,Ljubinje,Ukupno,Sa više poteškoća,81
+2013,Broj,Ljubinje,M,Sa više poteškoća,34
+2013,Broj,Ljubinje,Ž,Sa više poteškoća,47
+2013,Broj,Milići,Ukupno,Sa više poteškoća,314
+2013,Broj,Milići,M,Sa više poteškoća,130
+2013,Broj,Milići,Ž,Sa više poteškoća,184
+2013,Broj,Modriča,Ukupno,Sa više poteškoća,927
+2013,Broj,Modriča,M,Sa više poteškoća,399
+2013,Broj,Modriča,Ž,Sa više poteškoća,528
+2013,Broj,Mrkonjić Grad,Ukupno,Sa više poteškoća,475
+2013,Broj,Mrkonjić Grad,M,Sa više poteškoća,210
+2013,Broj,Mrkonjić Grad,Ž,Sa više poteškoća,265
+2013,Broj,Nevesinje,Ukupno,Sa više poteškoća,327
+2013,Broj,Nevesinje,M,Sa više poteškoća,130
+2013,Broj,Nevesinje,Ž,Sa više poteškoća,197
+2013,Broj,Novi Grad,Ukupno,Sa više poteškoća,1049
+2013,Broj,Novi Grad,M,Sa više poteškoća,446
+2013,Broj,Novi Grad,Ž,Sa više poteškoća,603
+2013,Broj,Novo Goražde,Ukupno,Sa više poteškoća,75
+2013,Broj,Novo Goražde,M,Sa više poteškoća,28
+2013,Broj,Novo Goražde,Ž,Sa više poteškoća,47
+2013,Broj,Osmaci,Ukupno,Sa više poteškoća,189
+2013,Broj,Osmaci,M,Sa više poteškoća,79
+2013,Broj,Osmaci,Ž,Sa više poteškoća,110
+2013,Broj,Oštra Luka,Ukupno,Sa više poteškoća,132
+2013,Broj,Oštra Luka,M,Sa više poteškoća,63
+2013,Broj,Oštra Luka,Ž,Sa više poteškoća,69
+2013,Broj,Pale,Ukupno,Sa više poteškoća,446
+2013,Broj,Pale,M,Sa više poteškoća,209
+2013,Broj,Pale,Ž,Sa više poteškoća,237
+2013,Broj,Pelagićevo,Ukupno,Sa više poteškoća,268
+2013,Broj,Pelagićevo,M,Sa više poteškoća,102
+2013,Broj,Pelagićevo,Ž,Sa više poteškoća,166
+2013,Broj,Petrovac,Ukupno,Sa više poteškoća,7
+2013,Broj,Petrovac,M,Sa više poteškoća,4
+2013,Broj,Petrovac,Ž,Sa više poteškoća,3
+2013,Broj,Petrovo,Ukupno,Sa više poteškoća,378
+2013,Broj,Petrovo,M,Sa više poteškoća,156
+2013,Broj,Petrovo,Ž,Sa više poteškoća,222
+2013,Broj,Grad Prijedor,Ukupno,Sa više poteškoća,2789
+2013,Broj,Grad Prijedor,M,Sa više poteškoća,1276
+2013,Broj,Grad Prijedor,Ž,Sa više poteškoća,1513
+2013,Broj,Prnjavor,Ukupno,Sa više poteškoća,1199
+2013,Broj,Prnjavor,M,Sa više poteškoća,465
+2013,Broj,Prnjavor,Ž,Sa više poteškoća,734
+2013,Broj,Ribnik,Ukupno,Sa više poteškoća,272
+2013,Broj,Ribnik,M,Sa više poteškoća,128
+2013,Broj,Ribnik,Ž,Sa više poteškoća,144
+2013,Broj,Rogatica,Ukupno,Sa više poteškoća,407
+2013,Broj,Rogatica,M,Sa više poteškoća,164
+2013,Broj,Rogatica,Ž,Sa više poteškoća,243
+2013,Broj,Rudo,Ukupno,Sa više poteškoća,252
+2013,Broj,Rudo,M,Sa više poteškoća,104
+2013,Broj,Rudo,Ž,Sa više poteškoća,148
+2013,Broj,Sokolac,Ukupno,Sa više poteškoća,347
+2013,Broj,Sokolac,M,Sa više poteškoća,143
+2013,Broj,Sokolac,Ž,Sa više poteškoća,204
+2013,Broj,Srbac,Ukupno,Sa više poteškoća,576
+2013,Broj,Srbac,M,Sa više poteškoća,257
+2013,Broj,Srbac,Ž,Sa više poteškoća,319
+2013,Broj,Srebrenica,Ukupno,Sa više poteškoća,381
+2013,Broj,Srebrenica,M,Sa više poteškoća,144
+2013,Broj,Srebrenica,Ž,Sa više poteškoća,237
+2013,Broj,Teslić,Ukupno,Sa više poteškoća,1374
+2013,Broj,Teslić,M,Sa više poteškoća,585
+2013,Broj,Teslić,Ž,Sa više poteškoća,789
+2013,Broj,Grad Trebinje,Ukupno,Sa više poteškoća,689
+2013,Broj,Grad Trebinje,M,Sa više poteškoća,280
+2013,Broj,Grad Trebinje,Ž,Sa više poteškoća,409
+2013,Broj,Trnovo,Ukupno,Sa više poteškoća,69
+2013,Broj,Trnovo,M,Sa više poteškoća,31
+2013,Broj,Trnovo,Ž,Sa više poteškoća,38
+2013,Broj,Ugljevik,Ukupno,Sa više poteškoća,402
+2013,Broj,Ugljevik,M,Sa više poteškoća,165
+2013,Broj,Ugljevik,Ž,Sa više poteškoća,237
+2013,Broj,Foča,Ukupno,Sa više poteškoća,581
+2013,Broj,Foča,M,Sa više poteškoća,262
+2013,Broj,Foča,Ž,Sa više poteškoća,319
+2013,Broj,Han Pijesak,Ukupno,Sa više poteškoća,95
+2013,Broj,Han Pijesak,M,Sa više poteškoća,30
+2013,Broj,Han Pijesak,Ž,Sa više poteškoća,65
+2013,Broj,Čajniče,Ukupno,Sa više poteškoća,176
+2013,Broj,Čajniče,M,Sa više poteškoća,77
+2013,Broj,Čajniče,Ž,Sa više poteškoća,99
+2013,Broj,Čelinac,Ukupno,Sa više poteškoća,624
+2013,Broj,Čelinac,M,Sa više poteškoća,269
+2013,Broj,Čelinac,Ž,Sa više poteškoća,355
+2013,Broj,Šamac,Ukupno,Sa više poteškoća,567
+2013,Broj,Šamac,M,Sa više poteškoća,228
+2013,Broj,Šamac,Ž,Sa više poteškoća,339
+2013,Broj,Šekovići,Ukupno,Sa više poteškoća,222
+2013,Broj,Šekovići,M,Sa više poteškoća,101
+2013,Broj,Šekovići,Ž,Sa više poteškoća,121
+2013,Broj,Šipovo,Ukupno,Sa više poteškoća,322
+2013,Broj,Šipovo,M,Sa više poteškoća,132
+2013,Broj,Šipovo,Ž,Sa više poteškoća,190

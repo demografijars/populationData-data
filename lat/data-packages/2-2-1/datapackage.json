@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -112,12 +112,12 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Bošnjak",
-                "Hrvat",
-                "Srbin",
-                "Druga etnička/nacionalna pripadnost",
+                "Bošnjaci",
+                "Hrvati",
+                "Srbi",
+                "Ostali",
                 "Ne izjašnjava se",
-                "Nepoznata etnička/nacionalna pripadnost",
+                "Nepoznato",
                 ""
               ]
             },

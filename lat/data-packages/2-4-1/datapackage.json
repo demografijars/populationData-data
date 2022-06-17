@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -111,8 +111,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nepismen",
-                "Nepoznata pismenost",
+                "Nepismeno",
+                "Nepoznato",
                 ""
               ]
             },

@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -112,13 +112,13 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Vid",
-                "Sluh",
+                "Vid, iako nosi naočare",
+                "Sluh, iako koristi slušni aparat",
                 "Hod ili penjanje uz stepenice",
                 "Pamćenje ili koncentracija",
                 "Odijevanje i održavanje lične higijene",
                 "Komunikacija",
-                "Višestruke poteškoće",
+                "Sa više poteškoća",
                 ""
               ]
             },

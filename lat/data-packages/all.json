@@ -693,7 +693,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "NO_OF_CHILDREN",
@@ -1747,7 +1747,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -1768,13 +1768,13 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Vid",
-                "Sluh",
+                "Vid, iako nosi naočare",
+                "Sluh, iako koristi slušni aparat",
                 "Hod ili penjanje uz stepenice",
                 "Pamćenje ili koncentracija",
                 "Odijevanje i održavanje lične higijene",
                 "Komunikacija",
-                "Višestruke poteškoće",
+                "Sa više poteškoća",
                 ""
               ]
             },
@@ -1880,7 +1880,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -1901,18 +1901,18 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Musliman",
-                "Katolik",
-                "Pravoslavac",
+                "Islamska",
+                "Katolička",
+                "Pravoslavna",
                 "Agnostik",
-                "Ateista",
-                "Druge religije",
-                "Neopredijeljen",
-                "Nepoznata religija",
+                "Ateist",
+                "Ostali",
+                "Ne izjašnjava se",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Religija"
+            "title": "Vjeroispovjest"
           },
           {
             "name": "Value",
@@ -2191,7 +2191,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -2212,12 +2212,12 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Bošnjak",
-                "Hrvat",
-                "Srbin",
-                "Druga etnička/nacionalna pripadnost",
+                "Bošnjaci",
+                "Hrvati",
+                "Srbi",
+                "Ostali",
                 "Ne izjašnjava se",
-                "Nepoznata etnička/nacionalna pripadnost",
+                "Nepoznato",
                 ""
               ]
             },
@@ -3546,7 +3546,7 @@
               "enum": [
                 "Živorođeni",
                 "Umrli",
-                "Prirodno kretanje",
+                "Prirodni priraštaj",
                 ""
               ]
             },
@@ -4239,7 +4239,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -4269,7 +4269,7 @@
                 ""
               ]
             },
-            "title": "Najviši dostugnuti stepen obrazovanja"
+            "title": "Najviša završena škola"
           },
           {
             "name": "Value",
@@ -4686,7 +4686,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -4706,8 +4706,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nepismen",
-                "Nepoznata pismenost",
+                "Nepismeno",
+                "Nepoznato",
                 ""
               ]
             },
@@ -4954,7 +4954,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
@@ -4970,7 +4970,7 @@
                 ""
               ]
             },
-            "title": "Veličina domaćinstva"
+            "title": "Broj članova"
           },
           {
             "name": "Value",
@@ -5171,7 +5171,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -5195,8 +5195,8 @@
                 "Bosanski",
                 "Hrvatski",
                 "Srpski",
-                "Drugi jezici",
-                "Nepoznat jezik",
+                "Ostali",
+                "Nepoznato",
                 ""
               ]
             },
@@ -5862,19 +5862,19 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obavljanje poljoprivredne djelatnosti",
-                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu",
+                "Obavljanje poljoprivredne aktivnosti",
+                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
                 ""
               ]
             },
-            "title": "Poljoprivredna djelatnost"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
@@ -6102,7 +6102,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",

@@ -1,4 +1,4 @@
-Year,UNIT_MEASURE,Administrativna oblast,Pol,Etnička/nacionalna pripadnost,Value
+Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Republika Srpska,Ukupno,Ukupno,1170342
 2013,Broj,Republika Srpska,M,Ukupno,571812
 2013,Broj,Republika Srpska,Ž,Ukupno,598530
@@ -188,762 +188,762 @@ Year,UNIT_MEASURE,Administrativna oblast,Pol,Etnička/nacionalna pripadnost,Valu
 2013,Broj,Šipovo,Ukupno,Ukupno,9969
 2013,Broj,Šipovo,M,Ukupno,5046
 2013,Broj,Šipovo,Ž,Ukupno,4923
-2013,Broj,Republika Srpska,Ukupno,Bošnjak,148477
-2013,Broj,Republika Srpska,M,Bošnjak,72148
-2013,Broj,Republika Srpska,Ž,Bošnjak,76329
-2013,Broj,Grad Banja Luka,Ukupno,Bošnjak,6816
-2013,Broj,Grad Banja Luka,M,Bošnjak,3108
-2013,Broj,Grad Banja Luka,Ž,Bošnjak,3708
-2013,Broj,Berkovići,Ukupno,Bošnjak,155
-2013,Broj,Berkovići,M,Bošnjak,87
-2013,Broj,Berkovići,Ž,Bošnjak,68
-2013,Broj,Grad Bijeljina,Ukupno,Bošnjak,11680
-2013,Broj,Grad Bijeljina,M,Bošnjak,5733
-2013,Broj,Grad Bijeljina,Ž,Bošnjak,5947
-2013,Broj,Bileća,Ukupno,Bošnjak,26
-2013,Broj,Bileća,M,Bošnjak,16
-2013,Broj,Bileća,Ž,Bošnjak,10
-2013,Broj,Bratunac,Ukupno,Bošnjak,6588
-2013,Broj,Bratunac,M,Bošnjak,3218
-2013,Broj,Bratunac,Ž,Bošnjak,3370
-2013,Broj,Brod,Ukupno,Bošnjak,1312
-2013,Broj,Brod,M,Bošnjak,640
-2013,Broj,Brod,Ž,Bošnjak,672
-2013,Broj,Višegrad,Ukupno,Bošnjak,895
-2013,Broj,Višegrad,M,Bošnjak,454
-2013,Broj,Višegrad,Ž,Bošnjak,441
-2013,Broj,Vlasenica,Ukupno,Bošnjak,3360
-2013,Broj,Vlasenica,M,Bošnjak,1646
-2013,Broj,Vlasenica,Ž,Bošnjak,1714
-2013,Broj,Vukosavlje,Ukupno,Bošnjak,2025
-2013,Broj,Vukosavlje,M,Bošnjak,1034
-2013,Broj,Vukosavlje,Ž,Bošnjak,991
-2013,Broj,Gacko,Ukupno,Bošnjak,332
-2013,Broj,Gacko,M,Bošnjak,179
-2013,Broj,Gacko,Ž,Bošnjak,153
-2013,Broj,Grad Gradiška,Ukupno,Bošnjak,6266
-2013,Broj,Grad Gradiška,M,Bošnjak,3047
-2013,Broj,Grad Gradiška,Ž,Bošnjak,3219
-2013,Broj,Grad Derventa,Ukupno,Bošnjak,1686
-2013,Broj,Grad Derventa,M,Bošnjak,812
-2013,Broj,Grad Derventa,Ž,Bošnjak,874
-2013,Broj,Grad Doboj,Ukupno,Bošnjak,14417
-2013,Broj,Grad Doboj,M,Bošnjak,6904
-2013,Broj,Grad Doboj,Ž,Bošnjak,7513
-2013,Broj,Donji Žabar,Ukupno,Bošnjak,4
-2013,Broj,Donji Žabar,M,Bošnjak,0
-2013,Broj,Donji Žabar,Ž,Bošnjak,4
-2013,Broj,Grad Zvornik,Ukupno,Bošnjak,16775
-2013,Broj,Grad Zvornik,M,Bošnjak,8206
-2013,Broj,Grad Zvornik,Ž,Bošnjak,8569
-2013,Broj,Istočna Ilidža,Ukupno,Bošnjak,632
-2013,Broj,Istočna Ilidža,M,Bošnjak,293
-2013,Broj,Istočna Ilidža,Ž,Bošnjak,339
-2013,Broj,Istočni Drvar,Ukupno,Bošnjak,0
-2013,Broj,Istočni Drvar,M,Bošnjak,0
-2013,Broj,Istočni Drvar,Ž,Bošnjak,0
-2013,Broj,Istočni Mostar,Ukupno,Bošnjak,78
-2013,Broj,Istočni Mostar,M,Bošnjak,45
-2013,Broj,Istočni Mostar,Ž,Bošnjak,33
-2013,Broj,Istočni Stari Grad,Ukupno,Bošnjak,41
-2013,Broj,Istočni Stari Grad,M,Bošnjak,25
-2013,Broj,Istočni Stari Grad,Ž,Bošnjak,16
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Bošnjak,44
-2013,Broj,Istočno Novo Sarajevo,M,Bošnjak,14
-2013,Broj,Istočno Novo Sarajevo,Ž,Bošnjak,30
-2013,Broj,Jezero,Ukupno,Bošnjak,251
-2013,Broj,Jezero,M,Bošnjak,118
-2013,Broj,Jezero,Ž,Bošnjak,133
-2013,Broj,Kalinovik,Ukupno,Bošnjak,43
-2013,Broj,Kalinovik,M,Bošnjak,19
-2013,Broj,Kalinovik,Ž,Bošnjak,24
-2013,Broj,Kneževo,Ukupno,Bošnjak,413
-2013,Broj,Kneževo,M,Bošnjak,186
-2013,Broj,Kneževo,Ž,Bošnjak,227
-2013,Broj,Kozarska Dubica,Ukupno,Bošnjak,1883
-2013,Broj,Kozarska Dubica,M,Bošnjak,906
-2013,Broj,Kozarska Dubica,Ž,Bošnjak,977
-2013,Broj,Kostajnica,Ukupno,Bošnjak,1276
-2013,Broj,Kostajnica,M,Bošnjak,626
-2013,Broj,Kostajnica,Ž,Bošnjak,650
-2013,Broj,Kotor Varoš,Ukupno,Bošnjak,4516
-2013,Broj,Kotor Varoš,M,Bošnjak,2173
-2013,Broj,Kotor Varoš,Ž,Bošnjak,2343
-2013,Broj,Krupa Na Uni,Ukupno,Bošnjak,3
-2013,Broj,Krupa Na Uni,M,Bošnjak,1
-2013,Broj,Krupa Na Uni,Ž,Bošnjak,2
-2013,Broj,Kupres,Ukupno,Bošnjak,0
-2013,Broj,Kupres,M,Bošnjak,0
-2013,Broj,Kupres,Ž,Bošnjak,0
-2013,Broj,Laktaši,Ukupno,Bošnjak,104
-2013,Broj,Laktaši,M,Bošnjak,47
-2013,Broj,Laktaši,Ž,Bošnjak,57
-2013,Broj,Lopare,Ukupno,Bošnjak,1310
-2013,Broj,Lopare,M,Bošnjak,646
-2013,Broj,Lopare,Ž,Bošnjak,664
-2013,Broj,Ljubinje,Ukupno,Bošnjak,9
-2013,Broj,Ljubinje,M,Bošnjak,5
-2013,Broj,Ljubinje,Ž,Bošnjak,4
-2013,Broj,Milići,Ukupno,Bošnjak,3532
-2013,Broj,Milići,M,Bošnjak,1746
-2013,Broj,Milići,Ž,Bošnjak,1786
-2013,Broj,Modriča,Ukupno,Bošnjak,2880
-2013,Broj,Modriča,M,Bošnjak,1364
-2013,Broj,Modriča,Ž,Bošnjak,1516
-2013,Broj,Mrkonjić Grad,Ukupno,Bošnjak,354
-2013,Broj,Mrkonjić Grad,M,Bošnjak,170
-2013,Broj,Mrkonjić Grad,Ž,Bošnjak,184
-2013,Broj,Nevesinje,Ukupno,Bošnjak,508
-2013,Broj,Nevesinje,M,Bošnjak,261
-2013,Broj,Nevesinje,Ž,Bošnjak,247
-2013,Broj,Novi Grad,Ukupno,Bošnjak,5214
-2013,Broj,Novi Grad,M,Bošnjak,2606
-2013,Broj,Novi Grad,Ž,Bošnjak,2608
-2013,Broj,Novo Goražde,Ukupno,Bošnjak,1317
-2013,Broj,Novo Goražde,M,Bošnjak,662
-2013,Broj,Novo Goražde,Ž,Bošnjak,655
-2013,Broj,Osmaci,Ukupno,Bošnjak,2673
-2013,Broj,Osmaci,M,Bošnjak,1321
-2013,Broj,Osmaci,Ž,Bošnjak,1352
-2013,Broj,Oštra Luka,Ukupno,Bošnjak,23
-2013,Broj,Oštra Luka,M,Bošnjak,7
-2013,Broj,Oštra Luka,Ž,Bošnjak,16
-2013,Broj,Pale,Ukupno,Bošnjak,165
-2013,Broj,Pale,M,Bošnjak,86
-2013,Broj,Pale,Ž,Bošnjak,79
-2013,Broj,Pelagićevo,Ukupno,Bošnjak,13
-2013,Broj,Pelagićevo,M,Bošnjak,2
-2013,Broj,Pelagićevo,Ž,Bošnjak,11
-2013,Broj,Petrovac,Ukupno,Bošnjak,0
-2013,Broj,Petrovac,M,Bošnjak,0
-2013,Broj,Petrovac,Ž,Bošnjak,0
-2013,Broj,Petrovo,Ukupno,Bošnjak,6
-2013,Broj,Petrovo,M,Bošnjak,2
-2013,Broj,Petrovo,Ž,Bošnjak,4
-2013,Broj,Grad Prijedor,Ukupno,Bošnjak,22303
-2013,Broj,Grad Prijedor,M,Bošnjak,10669
-2013,Broj,Grad Prijedor,Ž,Bošnjak,11634
-2013,Broj,Prnjavor,Ukupno,Bošnjak,2749
-2013,Broj,Prnjavor,M,Bošnjak,1329
-2013,Broj,Prnjavor,Ž,Bošnjak,1420
-2013,Broj,Ribnik,Ukupno,Bošnjak,0
-2013,Broj,Ribnik,M,Bošnjak,0
-2013,Broj,Ribnik,Ž,Bošnjak,0
-2013,Broj,Rogatica,Ukupno,Bošnjak,1009
-2013,Broj,Rogatica,M,Bošnjak,520
-2013,Broj,Rogatica,Ž,Bošnjak,489
-2013,Broj,Rudo,Ukupno,Bošnjak,574
-2013,Broj,Rudo,M,Bošnjak,300
-2013,Broj,Rudo,Ž,Bošnjak,274
-2013,Broj,Sokolac,Ukupno,Bošnjak,629
-2013,Broj,Sokolac,M,Bošnjak,329
-2013,Broj,Sokolac,Ž,Bošnjak,300
-2013,Broj,Srbac,Ukupno,Bošnjak,394
-2013,Broj,Srbac,M,Bošnjak,184
-2013,Broj,Srbac,Ž,Bošnjak,210
-2013,Broj,Srebrenica,Ukupno,Bošnjak,6122
-2013,Broj,Srebrenica,M,Bošnjak,2913
-2013,Broj,Srebrenica,Ž,Bošnjak,3209
-2013,Broj,Teslić,Ukupno,Bošnjak,6887
-2013,Broj,Teslić,M,Bošnjak,3387
-2013,Broj,Teslić,Ž,Bošnjak,3500
-2013,Broj,Grad Trebinje,Ukupno,Bošnjak,863
-2013,Broj,Grad Trebinje,M,Bošnjak,426
-2013,Broj,Grad Trebinje,Ž,Bošnjak,437
-2013,Broj,Trnovo,Ukupno,Bošnjak,818
-2013,Broj,Trnovo,M,Bošnjak,405
-2013,Broj,Trnovo,Ž,Bošnjak,413
-2013,Broj,Ugljevik,Ukupno,Bošnjak,1999
-2013,Broj,Ugljevik,M,Bošnjak,974
-2013,Broj,Ugljevik,Ž,Bošnjak,1025
-2013,Broj,Foča,Ukupno,Bošnjak,1169
-2013,Broj,Foča,M,Bošnjak,626
-2013,Broj,Foča,Ž,Bošnjak,543
-2013,Broj,Han Pijesak,Ukupno,Bošnjak,420
-2013,Broj,Han Pijesak,M,Bošnjak,204
-2013,Broj,Han Pijesak,Ž,Bošnjak,216
-2013,Broj,Čajniče,Ukupno,Bošnjak,835
-2013,Broj,Čajniče,M,Bošnjak,439
-2013,Broj,Čajniče,Ž,Bošnjak,396
-2013,Broj,Čelinac,Ukupno,Bošnjak,395
-2013,Broj,Čelinac,M,Bošnjak,197
-2013,Broj,Čelinac,Ž,Bošnjak,198
-2013,Broj,Šamac,Ukupno,Bošnjak,1005
-2013,Broj,Šamac,M,Bošnjak,486
-2013,Broj,Šamac,Ž,Bošnjak,519
-2013,Broj,Šekovići,Ukupno,Bošnjak,103
-2013,Broj,Šekovići,M,Bošnjak,51
-2013,Broj,Šekovići,Ž,Bošnjak,52
-2013,Broj,Šipovo,Ukupno,Bošnjak,578
-2013,Broj,Šipovo,M,Bošnjak,294
-2013,Broj,Šipovo,Ž,Bošnjak,284
-2013,Broj,Republika Srpska,Ukupno,Hrvat,26509
-2013,Broj,Republika Srpska,M,Hrvat,11005
-2013,Broj,Republika Srpska,Ž,Hrvat,15504
-2013,Broj,Grad Banja Luka,Ukupno,Hrvat,4887
-2013,Broj,Grad Banja Luka,M,Hrvat,1761
-2013,Broj,Grad Banja Luka,Ž,Hrvat,3126
-2013,Broj,Berkovići,Ukupno,Hrvat,11
-2013,Broj,Berkovići,M,Hrvat,1
-2013,Broj,Berkovići,Ž,Hrvat,10
-2013,Broj,Grad Bijeljina,Ukupno,Hrvat,498
-2013,Broj,Grad Bijeljina,M,Hrvat,140
-2013,Broj,Grad Bijeljina,Ž,Hrvat,358
-2013,Broj,Bileća,Ukupno,Hrvat,21
-2013,Broj,Bileća,M,Hrvat,2
-2013,Broj,Bileća,Ž,Hrvat,19
-2013,Broj,Bratunac,Ukupno,Hrvat,30
-2013,Broj,Bratunac,M,Hrvat,5
-2013,Broj,Bratunac,Ž,Hrvat,25
-2013,Broj,Brod,Ukupno,Hrvat,3021
-2013,Broj,Brod,M,Hrvat,1413
-2013,Broj,Brod,Ž,Hrvat,1608
-2013,Broj,Višegrad,Ukupno,Hrvat,32
-2013,Broj,Višegrad,M,Hrvat,5
-2013,Broj,Višegrad,Ž,Hrvat,27
-2013,Broj,Vlasenica,Ukupno,Hrvat,29
-2013,Broj,Vlasenica,M,Hrvat,5
-2013,Broj,Vlasenica,Ž,Hrvat,24
-2013,Broj,Vukosavlje,Ukupno,Hrvat,698
-2013,Broj,Vukosavlje,M,Hrvat,332
-2013,Broj,Vukosavlje,Ž,Hrvat,366
-2013,Broj,Gacko,Ukupno,Hrvat,13
-2013,Broj,Gacko,M,Hrvat,5
-2013,Broj,Gacko,Ž,Hrvat,8
-2013,Broj,Grad Gradiška,Ukupno,Hrvat,800
-2013,Broj,Grad Gradiška,M,Hrvat,276
-2013,Broj,Grad Gradiška,Ž,Hrvat,524
-2013,Broj,Grad Derventa,Ukupno,Hrvat,2181
-2013,Broj,Grad Derventa,M,Hrvat,1040
-2013,Broj,Grad Derventa,Ž,Hrvat,1141
-2013,Broj,Grad Doboj,Ukupno,Hrvat,1550
-2013,Broj,Grad Doboj,M,Hrvat,605
-2013,Broj,Grad Doboj,Ž,Hrvat,945
-2013,Broj,Donji Žabar,Ukupno,Hrvat,991
-2013,Broj,Donji Žabar,M,Hrvat,497
-2013,Broj,Donji Žabar,Ž,Hrvat,494
-2013,Broj,Grad Zvornik,Ukupno,Hrvat,103
-2013,Broj,Grad Zvornik,M,Hrvat,17
-2013,Broj,Grad Zvornik,Ž,Hrvat,86
-2013,Broj,Istočna Ilidža,Ukupno,Hrvat,148
-2013,Broj,Istočna Ilidža,M,Hrvat,39
-2013,Broj,Istočna Ilidža,Ž,Hrvat,109
-2013,Broj,Istočni Drvar,Ukupno,Hrvat,1
-2013,Broj,Istočni Drvar,M,Hrvat,0
-2013,Broj,Istočni Drvar,Ž,Hrvat,1
-2013,Broj,Istočni Mostar,Ukupno,Hrvat,11
-2013,Broj,Istočni Mostar,M,Hrvat,8
-2013,Broj,Istočni Mostar,Ž,Hrvat,3
-2013,Broj,Istočni Stari Grad,Ukupno,Hrvat,6
-2013,Broj,Istočni Stari Grad,M,Hrvat,2
-2013,Broj,Istočni Stari Grad,Ž,Hrvat,4
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Hrvat,102
-2013,Broj,Istočno Novo Sarajevo,M,Hrvat,23
-2013,Broj,Istočno Novo Sarajevo,Ž,Hrvat,79
-2013,Broj,Jezero,Ukupno,Hrvat,6
-2013,Broj,Jezero,M,Hrvat,4
-2013,Broj,Jezero,Ž,Hrvat,2
-2013,Broj,Kalinovik,Ukupno,Hrvat,8
-2013,Broj,Kalinovik,M,Hrvat,2
-2013,Broj,Kalinovik,Ž,Hrvat,6
-2013,Broj,Kneževo,Ukupno,Hrvat,24
-2013,Broj,Kneževo,M,Hrvat,5
-2013,Broj,Kneževo,Ž,Hrvat,19
-2013,Broj,Kozarska Dubica,Ukupno,Hrvat,261
-2013,Broj,Kozarska Dubica,M,Hrvat,79
-2013,Broj,Kozarska Dubica,Ž,Hrvat,182
-2013,Broj,Kostajnica,Ukupno,Hrvat,82
-2013,Broj,Kostajnica,M,Hrvat,29
-2013,Broj,Kostajnica,Ž,Hrvat,53
-2013,Broj,Kotor Varoš,Ukupno,Hrvat,852
-2013,Broj,Kotor Varoš,M,Hrvat,410
-2013,Broj,Kotor Varoš,Ž,Hrvat,442
-2013,Broj,Krupa Na Uni,Ukupno,Hrvat,2
-2013,Broj,Krupa Na Uni,M,Hrvat,0
-2013,Broj,Krupa Na Uni,Ž,Hrvat,2
-2013,Broj,Kupres,Ukupno,Hrvat,0
-2013,Broj,Kupres,M,Hrvat,0
-2013,Broj,Kupres,Ž,Hrvat,0
-2013,Broj,Laktaši,Ukupno,Hrvat,500
-2013,Broj,Laktaši,M,Hrvat,175
-2013,Broj,Laktaši,Ž,Hrvat,325
-2013,Broj,Lopare,Ukupno,Hrvat,48
-2013,Broj,Lopare,M,Hrvat,9
-2013,Broj,Lopare,Ž,Hrvat,39
-2013,Broj,Ljubinje,Ukupno,Hrvat,10
-2013,Broj,Ljubinje,M,Hrvat,3
-2013,Broj,Ljubinje,Ž,Hrvat,7
-2013,Broj,Milići,Ukupno,Hrvat,22
-2013,Broj,Milići,M,Hrvat,7
-2013,Broj,Milići,Ž,Hrvat,15
-2013,Broj,Modriča,Ukupno,Hrvat,1396
-2013,Broj,Modriča,M,Hrvat,662
-2013,Broj,Modriča,Ž,Hrvat,734
-2013,Broj,Mrkonjić Grad,Ukupno,Hrvat,148
-2013,Broj,Mrkonjić Grad,M,Hrvat,60
-2013,Broj,Mrkonjić Grad,Ž,Hrvat,88
-2013,Broj,Nevesinje,Ukupno,Hrvat,27
-2013,Broj,Nevesinje,M,Hrvat,9
-2013,Broj,Nevesinje,Ž,Hrvat,18
-2013,Broj,Novi Grad,Ukupno,Hrvat,174
-2013,Broj,Novi Grad,M,Hrvat,58
-2013,Broj,Novi Grad,Ž,Hrvat,116
-2013,Broj,Novo Goražde,Ukupno,Hrvat,2
-2013,Broj,Novo Goražde,M,Hrvat,1
-2013,Broj,Novo Goražde,Ž,Hrvat,1
-2013,Broj,Osmaci,Ukupno,Hrvat,7
-2013,Broj,Osmaci,M,Hrvat,1
-2013,Broj,Osmaci,Ž,Hrvat,6
-2013,Broj,Oštra Luka,Ukupno,Hrvat,149
-2013,Broj,Oštra Luka,M,Hrvat,74
-2013,Broj,Oštra Luka,Ž,Hrvat,75
-2013,Broj,Pale,Ukupno,Hrvat,126
-2013,Broj,Pale,M,Hrvat,37
-2013,Broj,Pale,Ž,Hrvat,89
-2013,Broj,Pelagićevo,Ukupno,Hrvat,1182
-2013,Broj,Pelagićevo,M,Hrvat,580
-2013,Broj,Pelagićevo,Ž,Hrvat,602
-2013,Broj,Petrovac,Ukupno,Hrvat,0
-2013,Broj,Petrovac,M,Hrvat,0
-2013,Broj,Petrovac,Ž,Hrvat,0
-2013,Broj,Petrovo,Ukupno,Hrvat,34
-2013,Broj,Petrovo,M,Hrvat,8
-2013,Broj,Petrovo,Ž,Hrvat,26
-2013,Broj,Grad Prijedor,Ukupno,Hrvat,1666
-2013,Broj,Grad Prijedor,M,Hrvat,679
-2013,Broj,Grad Prijedor,Ž,Hrvat,987
-2013,Broj,Prnjavor,Ukupno,Hrvat,423
-2013,Broj,Prnjavor,M,Hrvat,150
-2013,Broj,Prnjavor,Ž,Hrvat,273
-2013,Broj,Ribnik,Ukupno,Hrvat,11
-2013,Broj,Ribnik,M,Hrvat,4
-2013,Broj,Ribnik,Ž,Hrvat,7
-2013,Broj,Rogatica,Ukupno,Hrvat,18
-2013,Broj,Rogatica,M,Hrvat,2
-2013,Broj,Rogatica,Ž,Hrvat,16
-2013,Broj,Rudo,Ukupno,Hrvat,7
-2013,Broj,Rudo,M,Hrvat,6
-2013,Broj,Rudo,Ž,Hrvat,1
-2013,Broj,Sokolac,Ukupno,Hrvat,28
-2013,Broj,Sokolac,M,Hrvat,8
-2013,Broj,Sokolac,Ž,Hrvat,20
-2013,Broj,Srbac,Ukupno,Hrvat,128
-2013,Broj,Srbac,M,Hrvat,21
-2013,Broj,Srbac,Ž,Hrvat,107
-2013,Broj,Srebrenica,Ukupno,Hrvat,14
-2013,Broj,Srebrenica,M,Hrvat,6
-2013,Broj,Srebrenica,Ž,Hrvat,8
-2013,Broj,Teslić,Ukupno,Hrvat,1346
-2013,Broj,Teslić,M,Hrvat,581
-2013,Broj,Teslić,Ž,Hrvat,765
-2013,Broj,Grad Trebinje,Ukupno,Hrvat,295
-2013,Broj,Grad Trebinje,M,Hrvat,99
-2013,Broj,Grad Trebinje,Ž,Hrvat,196
-2013,Broj,Trnovo,Ukupno,Hrvat,15
-2013,Broj,Trnovo,M,Hrvat,3
-2013,Broj,Trnovo,Ž,Hrvat,12
-2013,Broj,Ugljevik,Ukupno,Hrvat,42
-2013,Broj,Ugljevik,M,Hrvat,8
-2013,Broj,Ugljevik,Ž,Hrvat,34
-2013,Broj,Foča,Ukupno,Hrvat,52
-2013,Broj,Foča,M,Hrvat,16
-2013,Broj,Foča,Ž,Hrvat,36
-2013,Broj,Han Pijesak,Ukupno,Hrvat,7
-2013,Broj,Han Pijesak,M,Hrvat,1
-2013,Broj,Han Pijesak,Ž,Hrvat,6
-2013,Broj,Čajniče,Ukupno,Hrvat,6
-2013,Broj,Čajniče,M,Hrvat,1
-2013,Broj,Čajniče,Ž,Hrvat,5
-2013,Broj,Čelinac,Ukupno,Hrvat,48
-2013,Broj,Čelinac,M,Hrvat,11
-2013,Broj,Čelinac,Ž,Hrvat,37
-2013,Broj,Šamac,Ukupno,Hrvat,2176
-2013,Broj,Šamac,M,Hrvat,1011
-2013,Broj,Šamac,Ž,Hrvat,1165
-2013,Broj,Šekovići,Ukupno,Hrvat,8
-2013,Broj,Šekovići,M,Hrvat,2
-2013,Broj,Šekovići,Ž,Hrvat,6
-2013,Broj,Šipovo,Ukupno,Hrvat,26
-2013,Broj,Šipovo,M,Hrvat,7
-2013,Broj,Šipovo,Ž,Hrvat,19
-2013,Broj,Republika Srpska,Ukupno,Srbin,970857
-2013,Broj,Republika Srpska,M,Srbin,477334
-2013,Broj,Republika Srpska,Ž,Srbin,493523
-2013,Broj,Grad Banja Luka,Ukupno,Srbin,162057
-2013,Broj,Grad Banja Luka,M,Srbin,78827
-2013,Broj,Grad Banja Luka,Ž,Srbin,83230
-2013,Broj,Berkovići,Ukupno,Srbin,1873
-2013,Broj,Berkovići,M,Srbin,943
-2013,Broj,Berkovići,Ž,Srbin,930
-2013,Broj,Grad Bijeljina,Ukupno,Srbin,89474
-2013,Broj,Grad Bijeljina,M,Srbin,43861
-2013,Broj,Grad Bijeljina,Ž,Srbin,45613
-2013,Broj,Bileća,Ukupno,Srbin,10447
-2013,Broj,Bileća,M,Srbin,5276
-2013,Broj,Bileća,Ž,Srbin,5171
-2013,Broj,Bratunac,Ukupno,Srbin,11897
-2013,Broj,Bratunac,M,Srbin,5915
-2013,Broj,Bratunac,Ž,Srbin,5982
-2013,Broj,Brod,Ukupno,Srbin,11065
-2013,Broj,Brod,M,Srbin,5486
-2013,Broj,Brod,Ž,Srbin,5579
-2013,Broj,Višegrad,Ukupno,Srbin,8942
-2013,Broj,Višegrad,M,Srbin,4337
-2013,Broj,Višegrad,Ž,Srbin,4605
-2013,Broj,Vlasenica,Ukupno,Srbin,7190
-2013,Broj,Vlasenica,M,Srbin,3505
-2013,Broj,Vlasenica,Ž,Srbin,3685
-2013,Broj,Vukosavlje,Ukupno,Srbin,1448
-2013,Broj,Vukosavlje,M,Srbin,720
-2013,Broj,Vukosavlje,Ž,Srbin,728
-2013,Broj,Gacko,Ukupno,Srbin,8316
-2013,Broj,Gacko,M,Srbin,4211
-2013,Broj,Gacko,Ž,Srbin,4105
-2013,Broj,Grad Gradiška,Ukupno,Srbin,40707
-2013,Broj,Grad Gradiška,M,Srbin,19960
-2013,Broj,Grad Gradiška,Ž,Srbin,20747
-2013,Broj,Grad Derventa,Ukupno,Srbin,21495
-2013,Broj,Grad Derventa,M,Srbin,10524
-2013,Broj,Grad Derventa,Ž,Srbin,10971
-2013,Broj,Grad Doboj,Ukupno,Srbin,50968
-2013,Broj,Grad Doboj,M,Srbin,24968
-2013,Broj,Grad Doboj,Ž,Srbin,26000
-2013,Broj,Donji Žabar,Ukupno,Srbin,2658
-2013,Broj,Donji Žabar,M,Srbin,1352
-2013,Broj,Donji Žabar,Ž,Srbin,1306
-2013,Broj,Grad Zvornik,Ukupno,Srbin,37242
-2013,Broj,Grad Zvornik,M,Srbin,18452
-2013,Broj,Grad Zvornik,Ž,Srbin,18790
-2013,Broj,Istočna Ilidža,Ukupno,Srbin,13455
-2013,Broj,Istočna Ilidža,M,Srbin,6486
-2013,Broj,Istočna Ilidža,Ž,Srbin,6969
-2013,Broj,Istočni Drvar,Ukupno,Srbin,65
-2013,Broj,Istočni Drvar,M,Srbin,44
-2013,Broj,Istočni Drvar,Ž,Srbin,21
-2013,Broj,Istočni Mostar,Ukupno,Srbin,153
-2013,Broj,Istočni Mostar,M,Srbin,84
-2013,Broj,Istočni Mostar,Ž,Srbin,69
-2013,Broj,Istočni Stari Grad,Ukupno,Srbin,1059
-2013,Broj,Istočni Stari Grad,M,Srbin,519
-2013,Broj,Istočni Stari Grad,Ž,Srbin,540
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Srbin,10028
-2013,Broj,Istočno Novo Sarajevo,M,Srbin,4801
-2013,Broj,Istočno Novo Sarajevo,Ž,Srbin,5227
-2013,Broj,Jezero,Ukupno,Srbin,779
-2013,Broj,Jezero,M,Srbin,410
-2013,Broj,Jezero,Ž,Srbin,369
-2013,Broj,Kalinovik,Ukupno,Srbin,1895
-2013,Broj,Kalinovik,M,Srbin,920
-2013,Broj,Kalinovik,Ž,Srbin,975
-2013,Broj,Kneževo,Ukupno,Srbin,8886
-2013,Broj,Kneževo,M,Srbin,4414
-2013,Broj,Kneževo,Ž,Srbin,4472
-2013,Broj,Kozarska Dubica,Ukupno,Srbin,18144
-2013,Broj,Kozarska Dubica,M,Srbin,8939
-2013,Broj,Kozarska Dubica,Ž,Srbin,9205
-2013,Broj,Kostajnica,Ukupno,Srbin,4177
-2013,Broj,Kostajnica,M,Srbin,2077
-2013,Broj,Kostajnica,Ž,Srbin,2100
-2013,Broj,Kotor Varoš,Ukupno,Srbin,12730
-2013,Broj,Kotor Varoš,M,Srbin,6305
-2013,Broj,Kotor Varoš,Ž,Srbin,6425
-2013,Broj,Krupa Na Uni,Ukupno,Srbin,1555
-2013,Broj,Krupa Na Uni,M,Srbin,840
-2013,Broj,Krupa Na Uni,Ž,Srbin,715
-2013,Broj,Kupres,Ukupno,Srbin,292
-2013,Broj,Kupres,M,Srbin,156
-2013,Broj,Kupres,Ž,Srbin,136
-2013,Broj,Laktaši,Ukupno,Srbin,32761
-2013,Broj,Laktaši,M,Srbin,16275
-2013,Broj,Laktaši,Ž,Srbin,16486
-2013,Broj,Lopare,Ukupno,Srbin,13267
-2013,Broj,Lopare,M,Srbin,6695
-2013,Broj,Lopare,Ž,Srbin,6572
-2013,Broj,Ljubinje,Ukupno,Srbin,3280
-2013,Broj,Ljubinje,M,Srbin,1615
-2013,Broj,Ljubinje,Ž,Srbin,1665
-2013,Broj,Milići,Ukupno,Srbin,6857
-2013,Broj,Milići,M,Srbin,3486
-2013,Broj,Milići,Ž,Srbin,3371
-2013,Broj,Modriča,Ukupno,Srbin,19530
-2013,Broj,Modriča,M,Srbin,9611
-2013,Broj,Modriča,Ž,Srbin,9919
-2013,Broj,Mrkonjić Grad,Ukupno,Srbin,15340
-2013,Broj,Mrkonjić Grad,M,Srbin,7388
-2013,Broj,Mrkonjić Grad,Ž,Srbin,7952
-2013,Broj,Nevesinje,Ukupno,Srbin,11964
-2013,Broj,Nevesinje,M,Srbin,5951
-2013,Broj,Nevesinje,Ž,Srbin,6013
-2013,Broj,Novi Grad,Ukupno,Srbin,19491
-2013,Broj,Novi Grad,M,Srbin,9747
-2013,Broj,Novi Grad,Ž,Srbin,9744
-2013,Broj,Novo Goražde,Ukupno,Srbin,1561
-2013,Broj,Novo Goražde,M,Srbin,821
-2013,Broj,Novo Goražde,Ž,Srbin,740
-2013,Broj,Osmaci,Ukupno,Srbin,2852
-2013,Broj,Osmaci,M,Srbin,1450
-2013,Broj,Osmaci,Ž,Srbin,1402
-2013,Broj,Oštra Luka,Ukupno,Srbin,2510
-2013,Broj,Oštra Luka,M,Srbin,1296
-2013,Broj,Oštra Luka,Ž,Srbin,1214
-2013,Broj,Pale,Ukupno,Srbin,19932
-2013,Broj,Pale,M,Srbin,9561
-2013,Broj,Pale,Ž,Srbin,10371
-2013,Broj,Pelagićevo,Ukupno,Srbin,3146
-2013,Broj,Pelagićevo,M,Srbin,1563
-2013,Broj,Pelagićevo,Ž,Srbin,1583
-2013,Broj,Petrovac,Ukupno,Srbin,351
-2013,Broj,Petrovac,M,Srbin,168
-2013,Broj,Petrovac,Ž,Srbin,183
-2013,Broj,Petrovo,Ukupno,Srbin,6222
-2013,Broj,Petrovo,M,Srbin,3002
-2013,Broj,Petrovo,Ž,Srbin,3220
-2013,Broj,Grad Prijedor,Ukupno,Srbin,54365
-2013,Broj,Grad Prijedor,M,Srbin,26834
-2013,Broj,Grad Prijedor,Ž,Srbin,27531
-2013,Broj,Prnjavor,Ukupno,Srbin,29478
-2013,Broj,Prnjavor,M,Srbin,14352
-2013,Broj,Prnjavor,Ž,Srbin,15126
-2013,Broj,Ribnik,Ukupno,Srbin,5825
-2013,Broj,Ribnik,M,Srbin,2891
-2013,Broj,Ribnik,Ž,Srbin,2934
-2013,Broj,Rogatica,Ukupno,Srbin,9217
-2013,Broj,Rogatica,M,Srbin,4502
-2013,Broj,Rogatica,Ž,Srbin,4715
-2013,Broj,Rudo,Ukupno,Srbin,6963
-2013,Broj,Rudo,M,Srbin,3517
-2013,Broj,Rudo,Ž,Srbin,3446
-2013,Broj,Sokolac,Ukupno,Srbin,10894
-2013,Broj,Sokolac,M,Srbin,5357
-2013,Broj,Sokolac,Ž,Srbin,5537
-2013,Broj,Srbac,Ukupno,Srbin,16013
-2013,Broj,Srbac,M,Srbin,7888
-2013,Broj,Srbac,Ž,Srbin,8125
-2013,Broj,Srebrenica,Ukupno,Srbin,5467
-2013,Broj,Srebrenica,M,Srbin,2743
-2013,Broj,Srebrenica,Ž,Srbin,2724
-2013,Broj,Teslić,Ukupno,Srbin,28166
-2013,Broj,Teslić,M,Srbin,13545
-2013,Broj,Teslić,Ž,Srbin,14621
-2013,Broj,Grad Trebinje,Ukupno,Srbin,26484
-2013,Broj,Grad Trebinje,M,Srbin,12943
-2013,Broj,Grad Trebinje,Ž,Srbin,13541
-2013,Broj,Trnovo,Ukupno,Srbin,1131
-2013,Broj,Trnovo,M,Srbin,534
-2013,Broj,Trnovo,Ž,Srbin,597
-2013,Broj,Ugljevik,Ukupno,Srbin,13007
-2013,Broj,Ugljevik,M,Srbin,6606
-2013,Broj,Ugljevik,Ž,Srbin,6401
-2013,Broj,Foča,Ukupno,Srbin,16157
-2013,Broj,Foča,M,Srbin,8133
-2013,Broj,Foča,Ž,Srbin,8024
-2013,Broj,Han Pijesak,Ukupno,Srbin,2994
-2013,Broj,Han Pijesak,M,Srbin,1412
-2013,Broj,Han Pijesak,Ž,Srbin,1582
-2013,Broj,Čajniče,Ukupno,Srbin,3806
-2013,Broj,Čajniče,M,Srbin,1891
-2013,Broj,Čajniče,Ž,Srbin,1915
-2013,Broj,Čelinac,Ukupno,Srbin,14508
-2013,Broj,Čelinac,M,Srbin,7194
-2013,Broj,Čelinac,Ž,Srbin,7314
-2013,Broj,Šamac,Ukupno,Srbin,12832
-2013,Broj,Šamac,M,Srbin,6277
-2013,Broj,Šamac,Ž,Srbin,6555
-2013,Broj,Šekovići,Ukupno,Srbin,6187
-2013,Broj,Šekovići,M,Srbin,3038
-2013,Broj,Šekovići,Ž,Srbin,3149
-2013,Broj,Šipovo,Ukupno,Srbin,9302
-2013,Broj,Šipovo,M,Srbin,4716
-2013,Broj,Šipovo,Ž,Srbin,4586
-2013,Broj,Republika Srpska,Ukupno,Druga etnička/nacionalna pripadnost,14641
-2013,Broj,Republika Srpska,M,Druga etnička/nacionalna pripadnost,7207
-2013,Broj,Republika Srpska,Ž,Druga etnička/nacionalna pripadnost,7434
-2013,Broj,Grad Banja Luka,Ukupno,Druga etnička/nacionalna pripadnost,3324
-2013,Broj,Grad Banja Luka,M,Druga etnička/nacionalna pripadnost,1617
-2013,Broj,Grad Banja Luka,Ž,Druga etnička/nacionalna pripadnost,1707
-2013,Broj,Berkovići,Ukupno,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Berkovići,M,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Berkovići,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Grad Bijeljina,Ukupno,Druga etnička/nacionalna pripadnost,1478
-2013,Broj,Grad Bijeljina,M,Druga etnička/nacionalna pripadnost,717
-2013,Broj,Grad Bijeljina,Ž,Druga etnička/nacionalna pripadnost,761
-2013,Broj,Bileća,Ukupno,Druga etnička/nacionalna pripadnost,72
-2013,Broj,Bileća,M,Druga etnička/nacionalna pripadnost,38
-2013,Broj,Bileća,Ž,Druga etnička/nacionalna pripadnost,34
-2013,Broj,Bratunac,Ukupno,Druga etnička/nacionalna pripadnost,79
-2013,Broj,Bratunac,M,Druga etnička/nacionalna pripadnost,45
-2013,Broj,Bratunac,Ž,Druga etnička/nacionalna pripadnost,34
-2013,Broj,Brod,Ukupno,Druga etnička/nacionalna pripadnost,151
-2013,Broj,Brod,M,Druga etnička/nacionalna pripadnost,69
-2013,Broj,Brod,Ž,Druga etnička/nacionalna pripadnost,82
-2013,Broj,Višegrad,Ukupno,Druga etnička/nacionalna pripadnost,53
-2013,Broj,Višegrad,M,Druga etnička/nacionalna pripadnost,26
-2013,Broj,Višegrad,Ž,Druga etnička/nacionalna pripadnost,27
-2013,Broj,Vlasenica,Ukupno,Druga etnička/nacionalna pripadnost,29
-2013,Broj,Vlasenica,M,Druga etnička/nacionalna pripadnost,13
-2013,Broj,Vlasenica,Ž,Druga etnička/nacionalna pripadnost,16
-2013,Broj,Vukosavlje,Ukupno,Druga etnička/nacionalna pripadnost,146
-2013,Broj,Vukosavlje,M,Druga etnička/nacionalna pripadnost,81
-2013,Broj,Vukosavlje,Ž,Druga etnička/nacionalna pripadnost,65
-2013,Broj,Gacko,Ukupno,Druga etnička/nacionalna pripadnost,40
-2013,Broj,Gacko,M,Druga etnička/nacionalna pripadnost,27
-2013,Broj,Gacko,Ž,Druga etnička/nacionalna pripadnost,13
-2013,Broj,Grad Gradiška,Ukupno,Druga etnička/nacionalna pripadnost,970
-2013,Broj,Grad Gradiška,M,Druga etnička/nacionalna pripadnost,468
-2013,Broj,Grad Gradiška,Ž,Druga etnička/nacionalna pripadnost,502
-2013,Broj,Grad Derventa,Ukupno,Druga etnička/nacionalna pripadnost,264
-2013,Broj,Grad Derventa,M,Druga etnička/nacionalna pripadnost,116
-2013,Broj,Grad Derventa,Ž,Druga etnička/nacionalna pripadnost,148
-2013,Broj,Grad Doboj,Ukupno,Druga etnička/nacionalna pripadnost,949
-2013,Broj,Grad Doboj,M,Druga etnička/nacionalna pripadnost,486
-2013,Broj,Grad Doboj,Ž,Druga etnička/nacionalna pripadnost,463
-2013,Broj,Donji Žabar,Ukupno,Druga etnička/nacionalna pripadnost,9
-2013,Broj,Donji Žabar,M,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Donji Žabar,Ž,Druga etnička/nacionalna pripadnost,8
-2013,Broj,Grad Zvornik,Ukupno,Druga etnička/nacionalna pripadnost,120
-2013,Broj,Grad Zvornik,M,Druga etnička/nacionalna pripadnost,55
-2013,Broj,Grad Zvornik,Ž,Druga etnička/nacionalna pripadnost,65
-2013,Broj,Istočna Ilidža,Ukupno,Druga etnička/nacionalna pripadnost,96
-2013,Broj,Istočna Ilidža,M,Druga etnička/nacionalna pripadnost,44
-2013,Broj,Istočna Ilidža,Ž,Druga etnička/nacionalna pripadnost,52
-2013,Broj,Istočni Drvar,Ukupno,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Drvar,M,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Drvar,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Mostar,Ukupno,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Mostar,M,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Mostar,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Stari Grad,Ukupno,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Istočni Stari Grad,M,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Istočni Stari Grad,Ž,Druga etnička/nacionalna pripadnost,2
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Druga etnička/nacionalna pripadnost,163
-2013,Broj,Istočno Novo Sarajevo,M,Druga etnička/nacionalna pripadnost,72
-2013,Broj,Istočno Novo Sarajevo,Ž,Druga etnička/nacionalna pripadnost,91
-2013,Broj,Jezero,Ukupno,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Jezero,M,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Jezero,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Kalinovik,Ukupno,Druga etnička/nacionalna pripadnost,15
-2013,Broj,Kalinovik,M,Druga etnička/nacionalna pripadnost,8
-2013,Broj,Kalinovik,Ž,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Kneževo,Ukupno,Druga etnička/nacionalna pripadnost,37
-2013,Broj,Kneževo,M,Druga etnička/nacionalna pripadnost,21
-2013,Broj,Kneževo,Ž,Druga etnička/nacionalna pripadnost,16
-2013,Broj,Kozarska Dubica,Ukupno,Druga etnička/nacionalna pripadnost,219
-2013,Broj,Kozarska Dubica,M,Druga etnička/nacionalna pripadnost,102
-2013,Broj,Kozarska Dubica,Ž,Druga etnička/nacionalna pripadnost,117
-2013,Broj,Kostajnica,Ukupno,Druga etnička/nacionalna pripadnost,42
-2013,Broj,Kostajnica,M,Druga etnička/nacionalna pripadnost,20
-2013,Broj,Kostajnica,Ž,Druga etnička/nacionalna pripadnost,22
-2013,Broj,Kotor Varoš,Ukupno,Druga etnička/nacionalna pripadnost,129
-2013,Broj,Kotor Varoš,M,Druga etnička/nacionalna pripadnost,63
-2013,Broj,Kotor Varoš,Ž,Druga etnička/nacionalna pripadnost,66
-2013,Broj,Krupa Na Uni,Ukupno,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Krupa Na Uni,M,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Krupa Na Uni,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,Ukupno,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,M,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,Ž,Druga etnička/nacionalna pripadnost,0
-2013,Broj,Laktaši,Ukupno,Druga etnička/nacionalna pripadnost,562
-2013,Broj,Laktaši,M,Druga etnička/nacionalna pripadnost,285
-2013,Broj,Laktaši,Ž,Druga etnička/nacionalna pripadnost,277
-2013,Broj,Lopare,Ukupno,Druga etnička/nacionalna pripadnost,31
-2013,Broj,Lopare,M,Druga etnička/nacionalna pripadnost,16
-2013,Broj,Lopare,Ž,Druga etnička/nacionalna pripadnost,15
-2013,Broj,Ljubinje,Ukupno,Druga etnička/nacionalna pripadnost,13
-2013,Broj,Ljubinje,M,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Ljubinje,Ž,Druga etnička/nacionalna pripadnost,6
-2013,Broj,Milići,Ukupno,Druga etnička/nacionalna pripadnost,19
-2013,Broj,Milići,M,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Milići,Ž,Druga etnička/nacionalna pripadnost,12
-2013,Broj,Modriča,Ukupno,Druga etnička/nacionalna pripadnost,412
-2013,Broj,Modriča,M,Druga etnička/nacionalna pripadnost,207
-2013,Broj,Modriča,Ž,Druga etnička/nacionalna pripadnost,205
-2013,Broj,Mrkonjić Grad,Ukupno,Druga etnička/nacionalna pripadnost,37
-2013,Broj,Mrkonjić Grad,M,Druga etnička/nacionalna pripadnost,17
-2013,Broj,Mrkonjić Grad,Ž,Druga etnička/nacionalna pripadnost,20
-2013,Broj,Nevesinje,Ukupno,Druga etnička/nacionalna pripadnost,18
-2013,Broj,Nevesinje,M,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Nevesinje,Ž,Druga etnička/nacionalna pripadnost,13
-2013,Broj,Novi Grad,Ukupno,Druga etnička/nacionalna pripadnost,200
-2013,Broj,Novi Grad,M,Druga etnička/nacionalna pripadnost,100
-2013,Broj,Novi Grad,Ž,Druga etnička/nacionalna pripadnost,100
-2013,Broj,Novo Goražde,Ukupno,Druga etnička/nacionalna pripadnost,22
-2013,Broj,Novo Goražde,M,Druga etnička/nacionalna pripadnost,11
-2013,Broj,Novo Goražde,Ž,Druga etnička/nacionalna pripadnost,11
-2013,Broj,Osmaci,Ukupno,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Osmaci,M,Druga etnička/nacionalna pripadnost,2
-2013,Broj,Osmaci,Ž,Druga etnička/nacionalna pripadnost,3
-2013,Broj,Oštra Luka,Ukupno,Druga etnička/nacionalna pripadnost,8
-2013,Broj,Oštra Luka,M,Druga etnička/nacionalna pripadnost,3
-2013,Broj,Oštra Luka,Ž,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Pale,Ukupno,Druga etnička/nacionalna pripadnost,70
-2013,Broj,Pale,M,Druga etnička/nacionalna pripadnost,31
-2013,Broj,Pale,Ž,Druga etnička/nacionalna pripadnost,39
-2013,Broj,Pelagićevo,Ukupno,Druga etnička/nacionalna pripadnost,9
-2013,Broj,Pelagićevo,M,Druga etnička/nacionalna pripadnost,4
-2013,Broj,Pelagićevo,Ž,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Petrovac,Ukupno,Druga etnička/nacionalna pripadnost,3
-2013,Broj,Petrovac,M,Druga etnička/nacionalna pripadnost,1
-2013,Broj,Petrovac,Ž,Druga etnička/nacionalna pripadnost,2
-2013,Broj,Petrovo,Ukupno,Druga etnička/nacionalna pripadnost,30
-2013,Broj,Petrovo,M,Druga etnička/nacionalna pripadnost,19
-2013,Broj,Petrovo,Ž,Druga etnička/nacionalna pripadnost,11
-2013,Broj,Grad Prijedor,Ukupno,Druga etnička/nacionalna pripadnost,1495
-2013,Broj,Grad Prijedor,M,Druga etnička/nacionalna pripadnost,712
-2013,Broj,Grad Prijedor,Ž,Druga etnička/nacionalna pripadnost,783
-2013,Broj,Prnjavor,Ukupno,Druga etnička/nacionalna pripadnost,1452
-2013,Broj,Prnjavor,M,Druga etnička/nacionalna pripadnost,738
-2013,Broj,Prnjavor,Ž,Druga etnička/nacionalna pripadnost,714
-2013,Broj,Ribnik,Ukupno,Druga etnička/nacionalna pripadnost,11
-2013,Broj,Ribnik,M,Druga etnička/nacionalna pripadnost,3
-2013,Broj,Ribnik,Ž,Druga etnička/nacionalna pripadnost,8
-2013,Broj,Rogatica,Ukupno,Druga etnička/nacionalna pripadnost,41
-2013,Broj,Rogatica,M,Druga etnička/nacionalna pripadnost,20
-2013,Broj,Rogatica,Ž,Druga etnička/nacionalna pripadnost,21
-2013,Broj,Rudo,Ukupno,Druga etnička/nacionalna pripadnost,26
-2013,Broj,Rudo,M,Druga etnička/nacionalna pripadnost,14
-2013,Broj,Rudo,Ž,Druga etnička/nacionalna pripadnost,12
-2013,Broj,Sokolac,Ukupno,Druga etnička/nacionalna pripadnost,38
-2013,Broj,Sokolac,M,Druga etnička/nacionalna pripadnost,19
-2013,Broj,Sokolac,Ž,Druga etnička/nacionalna pripadnost,19
-2013,Broj,Srbac,Ukupno,Druga etnička/nacionalna pripadnost,280
-2013,Broj,Srbac,M,Druga etnička/nacionalna pripadnost,146
-2013,Broj,Srbac,Ž,Druga etnička/nacionalna pripadnost,134
-2013,Broj,Srebrenica,Ukupno,Druga etnička/nacionalna pripadnost,59
-2013,Broj,Srebrenica,M,Druga etnička/nacionalna pripadnost,34
-2013,Broj,Srebrenica,Ž,Druga etnička/nacionalna pripadnost,25
-2013,Broj,Teslić,Ukupno,Druga etnička/nacionalna pripadnost,454
-2013,Broj,Teslić,M,Druga etnička/nacionalna pripadnost,222
-2013,Broj,Teslić,Ž,Druga etnička/nacionalna pripadnost,232
-2013,Broj,Grad Trebinje,Ukupno,Druga etnička/nacionalna pripadnost,398
-2013,Broj,Grad Trebinje,M,Druga etnička/nacionalna pripadnost,204
-2013,Broj,Grad Trebinje,Ž,Druga etnička/nacionalna pripadnost,194
-2013,Broj,Trnovo,Ukupno,Druga etnička/nacionalna pripadnost,10
-2013,Broj,Trnovo,M,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Trnovo,Ž,Druga etnička/nacionalna pripadnost,3
-2013,Broj,Ugljevik,Ukupno,Druga etnička/nacionalna pripadnost,36
-2013,Broj,Ugljevik,M,Druga etnička/nacionalna pripadnost,17
-2013,Broj,Ugljevik,Ž,Druga etnička/nacionalna pripadnost,19
-2013,Broj,Foča,Ukupno,Druga etnička/nacionalna pripadnost,160
-2013,Broj,Foča,M,Druga etnička/nacionalna pripadnost,90
-2013,Broj,Foča,Ž,Druga etnička/nacionalna pripadnost,70
-2013,Broj,Han Pijesak,Ukupno,Druga etnička/nacionalna pripadnost,21
-2013,Broj,Han Pijesak,M,Druga etnička/nacionalna pripadnost,14
-2013,Broj,Han Pijesak,Ž,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Čajniče,Ukupno,Druga etnička/nacionalna pripadnost,24
-2013,Broj,Čajniče,M,Druga etnička/nacionalna pripadnost,13
-2013,Broj,Čajniče,Ž,Druga etnička/nacionalna pripadnost,11
-2013,Broj,Čelinac,Ukupno,Druga etnička/nacionalna pripadnost,122
-2013,Broj,Čelinac,M,Druga etnička/nacionalna pripadnost,55
-2013,Broj,Čelinac,Ž,Druga etnička/nacionalna pripadnost,67
-2013,Broj,Šamac,Ukupno,Druga etnička/nacionalna pripadnost,135
-2013,Broj,Šamac,M,Druga etnička/nacionalna pripadnost,67
-2013,Broj,Šamac,Ž,Druga etnička/nacionalna pripadnost,68
-2013,Broj,Šekovići,Ukupno,Druga etnička/nacionalna pripadnost,12
-2013,Broj,Šekovići,M,Druga etnička/nacionalna pripadnost,7
-2013,Broj,Šekovići,Ž,Druga etnička/nacionalna pripadnost,5
-2013,Broj,Šipovo,Ukupno,Druga etnička/nacionalna pripadnost,34
-2013,Broj,Šipovo,M,Druga etnička/nacionalna pripadnost,14
-2013,Broj,Šipovo,Ž,Druga etnička/nacionalna pripadnost,20
+2013,Broj,Republika Srpska,Ukupno,Bošnjaci,148477
+2013,Broj,Republika Srpska,M,Bošnjaci,72148
+2013,Broj,Republika Srpska,Ž,Bošnjaci,76329
+2013,Broj,Grad Banja Luka,Ukupno,Bošnjaci,6816
+2013,Broj,Grad Banja Luka,M,Bošnjaci,3108
+2013,Broj,Grad Banja Luka,Ž,Bošnjaci,3708
+2013,Broj,Berkovići,Ukupno,Bošnjaci,155
+2013,Broj,Berkovići,M,Bošnjaci,87
+2013,Broj,Berkovići,Ž,Bošnjaci,68
+2013,Broj,Grad Bijeljina,Ukupno,Bošnjaci,11680
+2013,Broj,Grad Bijeljina,M,Bošnjaci,5733
+2013,Broj,Grad Bijeljina,Ž,Bošnjaci,5947
+2013,Broj,Bileća,Ukupno,Bošnjaci,26
+2013,Broj,Bileća,M,Bošnjaci,16
+2013,Broj,Bileća,Ž,Bošnjaci,10
+2013,Broj,Bratunac,Ukupno,Bošnjaci,6588
+2013,Broj,Bratunac,M,Bošnjaci,3218
+2013,Broj,Bratunac,Ž,Bošnjaci,3370
+2013,Broj,Brod,Ukupno,Bošnjaci,1312
+2013,Broj,Brod,M,Bošnjaci,640
+2013,Broj,Brod,Ž,Bošnjaci,672
+2013,Broj,Višegrad,Ukupno,Bošnjaci,895
+2013,Broj,Višegrad,M,Bošnjaci,454
+2013,Broj,Višegrad,Ž,Bošnjaci,441
+2013,Broj,Vlasenica,Ukupno,Bošnjaci,3360
+2013,Broj,Vlasenica,M,Bošnjaci,1646
+2013,Broj,Vlasenica,Ž,Bošnjaci,1714
+2013,Broj,Vukosavlje,Ukupno,Bošnjaci,2025
+2013,Broj,Vukosavlje,M,Bošnjaci,1034
+2013,Broj,Vukosavlje,Ž,Bošnjaci,991
+2013,Broj,Gacko,Ukupno,Bošnjaci,332
+2013,Broj,Gacko,M,Bošnjaci,179
+2013,Broj,Gacko,Ž,Bošnjaci,153
+2013,Broj,Grad Gradiška,Ukupno,Bošnjaci,6266
+2013,Broj,Grad Gradiška,M,Bošnjaci,3047
+2013,Broj,Grad Gradiška,Ž,Bošnjaci,3219
+2013,Broj,Grad Derventa,Ukupno,Bošnjaci,1686
+2013,Broj,Grad Derventa,M,Bošnjaci,812
+2013,Broj,Grad Derventa,Ž,Bošnjaci,874
+2013,Broj,Grad Doboj,Ukupno,Bošnjaci,14417
+2013,Broj,Grad Doboj,M,Bošnjaci,6904
+2013,Broj,Grad Doboj,Ž,Bošnjaci,7513
+2013,Broj,Donji Žabar,Ukupno,Bošnjaci,4
+2013,Broj,Donji Žabar,M,Bošnjaci,0
+2013,Broj,Donji Žabar,Ž,Bošnjaci,4
+2013,Broj,Grad Zvornik,Ukupno,Bošnjaci,16775
+2013,Broj,Grad Zvornik,M,Bošnjaci,8206
+2013,Broj,Grad Zvornik,Ž,Bošnjaci,8569
+2013,Broj,Istočna Ilidža,Ukupno,Bošnjaci,632
+2013,Broj,Istočna Ilidža,M,Bošnjaci,293
+2013,Broj,Istočna Ilidža,Ž,Bošnjaci,339
+2013,Broj,Istočni Drvar,Ukupno,Bošnjaci,0
+2013,Broj,Istočni Drvar,M,Bošnjaci,0
+2013,Broj,Istočni Drvar,Ž,Bošnjaci,0
+2013,Broj,Istočni Mostar,Ukupno,Bošnjaci,78
+2013,Broj,Istočni Mostar,M,Bošnjaci,45
+2013,Broj,Istočni Mostar,Ž,Bošnjaci,33
+2013,Broj,Istočni Stari Grad,Ukupno,Bošnjaci,41
+2013,Broj,Istočni Stari Grad,M,Bošnjaci,25
+2013,Broj,Istočni Stari Grad,Ž,Bošnjaci,16
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Bošnjaci,44
+2013,Broj,Istočno Novo Sarajevo,M,Bošnjaci,14
+2013,Broj,Istočno Novo Sarajevo,Ž,Bošnjaci,30
+2013,Broj,Jezero,Ukupno,Bošnjaci,251
+2013,Broj,Jezero,M,Bošnjaci,118
+2013,Broj,Jezero,Ž,Bošnjaci,133
+2013,Broj,Kalinovik,Ukupno,Bošnjaci,43
+2013,Broj,Kalinovik,M,Bošnjaci,19
+2013,Broj,Kalinovik,Ž,Bošnjaci,24
+2013,Broj,Kneževo,Ukupno,Bošnjaci,413
+2013,Broj,Kneževo,M,Bošnjaci,186
+2013,Broj,Kneževo,Ž,Bošnjaci,227
+2013,Broj,Kozarska Dubica,Ukupno,Bošnjaci,1883
+2013,Broj,Kozarska Dubica,M,Bošnjaci,906
+2013,Broj,Kozarska Dubica,Ž,Bošnjaci,977
+2013,Broj,Kostajnica,Ukupno,Bošnjaci,1276
+2013,Broj,Kostajnica,M,Bošnjaci,626
+2013,Broj,Kostajnica,Ž,Bošnjaci,650
+2013,Broj,Kotor Varoš,Ukupno,Bošnjaci,4516
+2013,Broj,Kotor Varoš,M,Bošnjaci,2173
+2013,Broj,Kotor Varoš,Ž,Bošnjaci,2343
+2013,Broj,Krupa Na Uni,Ukupno,Bošnjaci,3
+2013,Broj,Krupa Na Uni,M,Bošnjaci,1
+2013,Broj,Krupa Na Uni,Ž,Bošnjaci,2
+2013,Broj,Kupres,Ukupno,Bošnjaci,0
+2013,Broj,Kupres,M,Bošnjaci,0
+2013,Broj,Kupres,Ž,Bošnjaci,0
+2013,Broj,Laktaši,Ukupno,Bošnjaci,104
+2013,Broj,Laktaši,M,Bošnjaci,47
+2013,Broj,Laktaši,Ž,Bošnjaci,57
+2013,Broj,Lopare,Ukupno,Bošnjaci,1310
+2013,Broj,Lopare,M,Bošnjaci,646
+2013,Broj,Lopare,Ž,Bošnjaci,664
+2013,Broj,Ljubinje,Ukupno,Bošnjaci,9
+2013,Broj,Ljubinje,M,Bošnjaci,5
+2013,Broj,Ljubinje,Ž,Bošnjaci,4
+2013,Broj,Milići,Ukupno,Bošnjaci,3532
+2013,Broj,Milići,M,Bošnjaci,1746
+2013,Broj,Milići,Ž,Bošnjaci,1786
+2013,Broj,Modriča,Ukupno,Bošnjaci,2880
+2013,Broj,Modriča,M,Bošnjaci,1364
+2013,Broj,Modriča,Ž,Bošnjaci,1516
+2013,Broj,Mrkonjić Grad,Ukupno,Bošnjaci,354
+2013,Broj,Mrkonjić Grad,M,Bošnjaci,170
+2013,Broj,Mrkonjić Grad,Ž,Bošnjaci,184
+2013,Broj,Nevesinje,Ukupno,Bošnjaci,508
+2013,Broj,Nevesinje,M,Bošnjaci,261
+2013,Broj,Nevesinje,Ž,Bošnjaci,247
+2013,Broj,Novi Grad,Ukupno,Bošnjaci,5214
+2013,Broj,Novi Grad,M,Bošnjaci,2606
+2013,Broj,Novi Grad,Ž,Bošnjaci,2608
+2013,Broj,Novo Goražde,Ukupno,Bošnjaci,1317
+2013,Broj,Novo Goražde,M,Bošnjaci,662
+2013,Broj,Novo Goražde,Ž,Bošnjaci,655
+2013,Broj,Osmaci,Ukupno,Bošnjaci,2673
+2013,Broj,Osmaci,M,Bošnjaci,1321
+2013,Broj,Osmaci,Ž,Bošnjaci,1352
+2013,Broj,Oštra Luka,Ukupno,Bošnjaci,23
+2013,Broj,Oštra Luka,M,Bošnjaci,7
+2013,Broj,Oštra Luka,Ž,Bošnjaci,16
+2013,Broj,Pale,Ukupno,Bošnjaci,165
+2013,Broj,Pale,M,Bošnjaci,86
+2013,Broj,Pale,Ž,Bošnjaci,79
+2013,Broj,Pelagićevo,Ukupno,Bošnjaci,13
+2013,Broj,Pelagićevo,M,Bošnjaci,2
+2013,Broj,Pelagićevo,Ž,Bošnjaci,11
+2013,Broj,Petrovac,Ukupno,Bošnjaci,0
+2013,Broj,Petrovac,M,Bošnjaci,0
+2013,Broj,Petrovac,Ž,Bošnjaci,0
+2013,Broj,Petrovo,Ukupno,Bošnjaci,6
+2013,Broj,Petrovo,M,Bošnjaci,2
+2013,Broj,Petrovo,Ž,Bošnjaci,4
+2013,Broj,Grad Prijedor,Ukupno,Bošnjaci,22303
+2013,Broj,Grad Prijedor,M,Bošnjaci,10669
+2013,Broj,Grad Prijedor,Ž,Bošnjaci,11634
+2013,Broj,Prnjavor,Ukupno,Bošnjaci,2749
+2013,Broj,Prnjavor,M,Bošnjaci,1329
+2013,Broj,Prnjavor,Ž,Bošnjaci,1420
+2013,Broj,Ribnik,Ukupno,Bošnjaci,0
+2013,Broj,Ribnik,M,Bošnjaci,0
+2013,Broj,Ribnik,Ž,Bošnjaci,0
+2013,Broj,Rogatica,Ukupno,Bošnjaci,1009
+2013,Broj,Rogatica,M,Bošnjaci,520
+2013,Broj,Rogatica,Ž,Bošnjaci,489
+2013,Broj,Rudo,Ukupno,Bošnjaci,574
+2013,Broj,Rudo,M,Bošnjaci,300
+2013,Broj,Rudo,Ž,Bošnjaci,274
+2013,Broj,Sokolac,Ukupno,Bošnjaci,629
+2013,Broj,Sokolac,M,Bošnjaci,329
+2013,Broj,Sokolac,Ž,Bošnjaci,300
+2013,Broj,Srbac,Ukupno,Bošnjaci,394
+2013,Broj,Srbac,M,Bošnjaci,184
+2013,Broj,Srbac,Ž,Bošnjaci,210
+2013,Broj,Srebrenica,Ukupno,Bošnjaci,6122
+2013,Broj,Srebrenica,M,Bošnjaci,2913
+2013,Broj,Srebrenica,Ž,Bošnjaci,3209
+2013,Broj,Teslić,Ukupno,Bošnjaci,6887
+2013,Broj,Teslić,M,Bošnjaci,3387
+2013,Broj,Teslić,Ž,Bošnjaci,3500
+2013,Broj,Grad Trebinje,Ukupno,Bošnjaci,863
+2013,Broj,Grad Trebinje,M,Bošnjaci,426
+2013,Broj,Grad Trebinje,Ž,Bošnjaci,437
+2013,Broj,Trnovo,Ukupno,Bošnjaci,818
+2013,Broj,Trnovo,M,Bošnjaci,405
+2013,Broj,Trnovo,Ž,Bošnjaci,413
+2013,Broj,Ugljevik,Ukupno,Bošnjaci,1999
+2013,Broj,Ugljevik,M,Bošnjaci,974
+2013,Broj,Ugljevik,Ž,Bošnjaci,1025
+2013,Broj,Foča,Ukupno,Bošnjaci,1169
+2013,Broj,Foča,M,Bošnjaci,626
+2013,Broj,Foča,Ž,Bošnjaci,543
+2013,Broj,Han Pijesak,Ukupno,Bošnjaci,420
+2013,Broj,Han Pijesak,M,Bošnjaci,204
+2013,Broj,Han Pijesak,Ž,Bošnjaci,216
+2013,Broj,Čajniče,Ukupno,Bošnjaci,835
+2013,Broj,Čajniče,M,Bošnjaci,439
+2013,Broj,Čajniče,Ž,Bošnjaci,396
+2013,Broj,Čelinac,Ukupno,Bošnjaci,395
+2013,Broj,Čelinac,M,Bošnjaci,197
+2013,Broj,Čelinac,Ž,Bošnjaci,198
+2013,Broj,Šamac,Ukupno,Bošnjaci,1005
+2013,Broj,Šamac,M,Bošnjaci,486
+2013,Broj,Šamac,Ž,Bošnjaci,519
+2013,Broj,Šekovići,Ukupno,Bošnjaci,103
+2013,Broj,Šekovići,M,Bošnjaci,51
+2013,Broj,Šekovići,Ž,Bošnjaci,52
+2013,Broj,Šipovo,Ukupno,Bošnjaci,578
+2013,Broj,Šipovo,M,Bošnjaci,294
+2013,Broj,Šipovo,Ž,Bošnjaci,284
+2013,Broj,Republika Srpska,Ukupno,Hrvati,26509
+2013,Broj,Republika Srpska,M,Hrvati,11005
+2013,Broj,Republika Srpska,Ž,Hrvati,15504
+2013,Broj,Grad Banja Luka,Ukupno,Hrvati,4887
+2013,Broj,Grad Banja Luka,M,Hrvati,1761
+2013,Broj,Grad Banja Luka,Ž,Hrvati,3126
+2013,Broj,Berkovići,Ukupno,Hrvati,11
+2013,Broj,Berkovići,M,Hrvati,1
+2013,Broj,Berkovići,Ž,Hrvati,10
+2013,Broj,Grad Bijeljina,Ukupno,Hrvati,498
+2013,Broj,Grad Bijeljina,M,Hrvati,140
+2013,Broj,Grad Bijeljina,Ž,Hrvati,358
+2013,Broj,Bileća,Ukupno,Hrvati,21
+2013,Broj,Bileća,M,Hrvati,2
+2013,Broj,Bileća,Ž,Hrvati,19
+2013,Broj,Bratunac,Ukupno,Hrvati,30
+2013,Broj,Bratunac,M,Hrvati,5
+2013,Broj,Bratunac,Ž,Hrvati,25
+2013,Broj,Brod,Ukupno,Hrvati,3021
+2013,Broj,Brod,M,Hrvati,1413
+2013,Broj,Brod,Ž,Hrvati,1608
+2013,Broj,Višegrad,Ukupno,Hrvati,32
+2013,Broj,Višegrad,M,Hrvati,5
+2013,Broj,Višegrad,Ž,Hrvati,27
+2013,Broj,Vlasenica,Ukupno,Hrvati,29
+2013,Broj,Vlasenica,M,Hrvati,5
+2013,Broj,Vlasenica,Ž,Hrvati,24
+2013,Broj,Vukosavlje,Ukupno,Hrvati,698
+2013,Broj,Vukosavlje,M,Hrvati,332
+2013,Broj,Vukosavlje,Ž,Hrvati,366
+2013,Broj,Gacko,Ukupno,Hrvati,13
+2013,Broj,Gacko,M,Hrvati,5
+2013,Broj,Gacko,Ž,Hrvati,8
+2013,Broj,Grad Gradiška,Ukupno,Hrvati,800
+2013,Broj,Grad Gradiška,M,Hrvati,276
+2013,Broj,Grad Gradiška,Ž,Hrvati,524
+2013,Broj,Grad Derventa,Ukupno,Hrvati,2181
+2013,Broj,Grad Derventa,M,Hrvati,1040
+2013,Broj,Grad Derventa,Ž,Hrvati,1141
+2013,Broj,Grad Doboj,Ukupno,Hrvati,1550
+2013,Broj,Grad Doboj,M,Hrvati,605
+2013,Broj,Grad Doboj,Ž,Hrvati,945
+2013,Broj,Donji Žabar,Ukupno,Hrvati,991
+2013,Broj,Donji Žabar,M,Hrvati,497
+2013,Broj,Donji Žabar,Ž,Hrvati,494
+2013,Broj,Grad Zvornik,Ukupno,Hrvati,103
+2013,Broj,Grad Zvornik,M,Hrvati,17
+2013,Broj,Grad Zvornik,Ž,Hrvati,86
+2013,Broj,Istočna Ilidža,Ukupno,Hrvati,148
+2013,Broj,Istočna Ilidža,M,Hrvati,39
+2013,Broj,Istočna Ilidža,Ž,Hrvati,109
+2013,Broj,Istočni Drvar,Ukupno,Hrvati,1
+2013,Broj,Istočni Drvar,M,Hrvati,0
+2013,Broj,Istočni Drvar,Ž,Hrvati,1
+2013,Broj,Istočni Mostar,Ukupno,Hrvati,11
+2013,Broj,Istočni Mostar,M,Hrvati,8
+2013,Broj,Istočni Mostar,Ž,Hrvati,3
+2013,Broj,Istočni Stari Grad,Ukupno,Hrvati,6
+2013,Broj,Istočni Stari Grad,M,Hrvati,2
+2013,Broj,Istočni Stari Grad,Ž,Hrvati,4
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Hrvati,102
+2013,Broj,Istočno Novo Sarajevo,M,Hrvati,23
+2013,Broj,Istočno Novo Sarajevo,Ž,Hrvati,79
+2013,Broj,Jezero,Ukupno,Hrvati,6
+2013,Broj,Jezero,M,Hrvati,4
+2013,Broj,Jezero,Ž,Hrvati,2
+2013,Broj,Kalinovik,Ukupno,Hrvati,8
+2013,Broj,Kalinovik,M,Hrvati,2
+2013,Broj,Kalinovik,Ž,Hrvati,6
+2013,Broj,Kneževo,Ukupno,Hrvati,24
+2013,Broj,Kneževo,M,Hrvati,5
+2013,Broj,Kneževo,Ž,Hrvati,19
+2013,Broj,Kozarska Dubica,Ukupno,Hrvati,261
+2013,Broj,Kozarska Dubica,M,Hrvati,79
+2013,Broj,Kozarska Dubica,Ž,Hrvati,182
+2013,Broj,Kostajnica,Ukupno,Hrvati,82
+2013,Broj,Kostajnica,M,Hrvati,29
+2013,Broj,Kostajnica,Ž,Hrvati,53
+2013,Broj,Kotor Varoš,Ukupno,Hrvati,852
+2013,Broj,Kotor Varoš,M,Hrvati,410
+2013,Broj,Kotor Varoš,Ž,Hrvati,442
+2013,Broj,Krupa Na Uni,Ukupno,Hrvati,2
+2013,Broj,Krupa Na Uni,M,Hrvati,0
+2013,Broj,Krupa Na Uni,Ž,Hrvati,2
+2013,Broj,Kupres,Ukupno,Hrvati,0
+2013,Broj,Kupres,M,Hrvati,0
+2013,Broj,Kupres,Ž,Hrvati,0
+2013,Broj,Laktaši,Ukupno,Hrvati,500
+2013,Broj,Laktaši,M,Hrvati,175
+2013,Broj,Laktaši,Ž,Hrvati,325
+2013,Broj,Lopare,Ukupno,Hrvati,48
+2013,Broj,Lopare,M,Hrvati,9
+2013,Broj,Lopare,Ž,Hrvati,39
+2013,Broj,Ljubinje,Ukupno,Hrvati,10
+2013,Broj,Ljubinje,M,Hrvati,3
+2013,Broj,Ljubinje,Ž,Hrvati,7
+2013,Broj,Milići,Ukupno,Hrvati,22
+2013,Broj,Milići,M,Hrvati,7
+2013,Broj,Milići,Ž,Hrvati,15
+2013,Broj,Modriča,Ukupno,Hrvati,1396
+2013,Broj,Modriča,M,Hrvati,662
+2013,Broj,Modriča,Ž,Hrvati,734
+2013,Broj,Mrkonjić Grad,Ukupno,Hrvati,148
+2013,Broj,Mrkonjić Grad,M,Hrvati,60
+2013,Broj,Mrkonjić Grad,Ž,Hrvati,88
+2013,Broj,Nevesinje,Ukupno,Hrvati,27
+2013,Broj,Nevesinje,M,Hrvati,9
+2013,Broj,Nevesinje,Ž,Hrvati,18
+2013,Broj,Novi Grad,Ukupno,Hrvati,174
+2013,Broj,Novi Grad,M,Hrvati,58
+2013,Broj,Novi Grad,Ž,Hrvati,116
+2013,Broj,Novo Goražde,Ukupno,Hrvati,2
+2013,Broj,Novo Goražde,M,Hrvati,1
+2013,Broj,Novo Goražde,Ž,Hrvati,1
+2013,Broj,Osmaci,Ukupno,Hrvati,7
+2013,Broj,Osmaci,M,Hrvati,1
+2013,Broj,Osmaci,Ž,Hrvati,6
+2013,Broj,Oštra Luka,Ukupno,Hrvati,149
+2013,Broj,Oštra Luka,M,Hrvati,74
+2013,Broj,Oštra Luka,Ž,Hrvati,75
+2013,Broj,Pale,Ukupno,Hrvati,126
+2013,Broj,Pale,M,Hrvati,37
+2013,Broj,Pale,Ž,Hrvati,89
+2013,Broj,Pelagićevo,Ukupno,Hrvati,1182
+2013,Broj,Pelagićevo,M,Hrvati,580
+2013,Broj,Pelagićevo,Ž,Hrvati,602
+2013,Broj,Petrovac,Ukupno,Hrvati,0
+2013,Broj,Petrovac,M,Hrvati,0
+2013,Broj,Petrovac,Ž,Hrvati,0
+2013,Broj,Petrovo,Ukupno,Hrvati,34
+2013,Broj,Petrovo,M,Hrvati,8
+2013,Broj,Petrovo,Ž,Hrvati,26
+2013,Broj,Grad Prijedor,Ukupno,Hrvati,1666
+2013,Broj,Grad Prijedor,M,Hrvati,679
+2013,Broj,Grad Prijedor,Ž,Hrvati,987
+2013,Broj,Prnjavor,Ukupno,Hrvati,423
+2013,Broj,Prnjavor,M,Hrvati,150
+2013,Broj,Prnjavor,Ž,Hrvati,273
+2013,Broj,Ribnik,Ukupno,Hrvati,11
+2013,Broj,Ribnik,M,Hrvati,4
+2013,Broj,Ribnik,Ž,Hrvati,7
+2013,Broj,Rogatica,Ukupno,Hrvati,18
+2013,Broj,Rogatica,M,Hrvati,2
+2013,Broj,Rogatica,Ž,Hrvati,16
+2013,Broj,Rudo,Ukupno,Hrvati,7
+2013,Broj,Rudo,M,Hrvati,6
+2013,Broj,Rudo,Ž,Hrvati,1
+2013,Broj,Sokolac,Ukupno,Hrvati,28
+2013,Broj,Sokolac,M,Hrvati,8
+2013,Broj,Sokolac,Ž,Hrvati,20
+2013,Broj,Srbac,Ukupno,Hrvati,128
+2013,Broj,Srbac,M,Hrvati,21
+2013,Broj,Srbac,Ž,Hrvati,107
+2013,Broj,Srebrenica,Ukupno,Hrvati,14
+2013,Broj,Srebrenica,M,Hrvati,6
+2013,Broj,Srebrenica,Ž,Hrvati,8
+2013,Broj,Teslić,Ukupno,Hrvati,1346
+2013,Broj,Teslić,M,Hrvati,581
+2013,Broj,Teslić,Ž,Hrvati,765
+2013,Broj,Grad Trebinje,Ukupno,Hrvati,295
+2013,Broj,Grad Trebinje,M,Hrvati,99
+2013,Broj,Grad Trebinje,Ž,Hrvati,196
+2013,Broj,Trnovo,Ukupno,Hrvati,15
+2013,Broj,Trnovo,M,Hrvati,3
+2013,Broj,Trnovo,Ž,Hrvati,12
+2013,Broj,Ugljevik,Ukupno,Hrvati,42
+2013,Broj,Ugljevik,M,Hrvati,8
+2013,Broj,Ugljevik,Ž,Hrvati,34
+2013,Broj,Foča,Ukupno,Hrvati,52
+2013,Broj,Foča,M,Hrvati,16
+2013,Broj,Foča,Ž,Hrvati,36
+2013,Broj,Han Pijesak,Ukupno,Hrvati,7
+2013,Broj,Han Pijesak,M,Hrvati,1
+2013,Broj,Han Pijesak,Ž,Hrvati,6
+2013,Broj,Čajniče,Ukupno,Hrvati,6
+2013,Broj,Čajniče,M,Hrvati,1
+2013,Broj,Čajniče,Ž,Hrvati,5
+2013,Broj,Čelinac,Ukupno,Hrvati,48
+2013,Broj,Čelinac,M,Hrvati,11
+2013,Broj,Čelinac,Ž,Hrvati,37
+2013,Broj,Šamac,Ukupno,Hrvati,2176
+2013,Broj,Šamac,M,Hrvati,1011
+2013,Broj,Šamac,Ž,Hrvati,1165
+2013,Broj,Šekovići,Ukupno,Hrvati,8
+2013,Broj,Šekovići,M,Hrvati,2
+2013,Broj,Šekovići,Ž,Hrvati,6
+2013,Broj,Šipovo,Ukupno,Hrvati,26
+2013,Broj,Šipovo,M,Hrvati,7
+2013,Broj,Šipovo,Ž,Hrvati,19
+2013,Broj,Republika Srpska,Ukupno,Srbi,970857
+2013,Broj,Republika Srpska,M,Srbi,477334
+2013,Broj,Republika Srpska,Ž,Srbi,493523
+2013,Broj,Grad Banja Luka,Ukupno,Srbi,162057
+2013,Broj,Grad Banja Luka,M,Srbi,78827
+2013,Broj,Grad Banja Luka,Ž,Srbi,83230
+2013,Broj,Berkovići,Ukupno,Srbi,1873
+2013,Broj,Berkovići,M,Srbi,943
+2013,Broj,Berkovići,Ž,Srbi,930
+2013,Broj,Grad Bijeljina,Ukupno,Srbi,89474
+2013,Broj,Grad Bijeljina,M,Srbi,43861
+2013,Broj,Grad Bijeljina,Ž,Srbi,45613
+2013,Broj,Bileća,Ukupno,Srbi,10447
+2013,Broj,Bileća,M,Srbi,5276
+2013,Broj,Bileća,Ž,Srbi,5171
+2013,Broj,Bratunac,Ukupno,Srbi,11897
+2013,Broj,Bratunac,M,Srbi,5915
+2013,Broj,Bratunac,Ž,Srbi,5982
+2013,Broj,Brod,Ukupno,Srbi,11065
+2013,Broj,Brod,M,Srbi,5486
+2013,Broj,Brod,Ž,Srbi,5579
+2013,Broj,Višegrad,Ukupno,Srbi,8942
+2013,Broj,Višegrad,M,Srbi,4337
+2013,Broj,Višegrad,Ž,Srbi,4605
+2013,Broj,Vlasenica,Ukupno,Srbi,7190
+2013,Broj,Vlasenica,M,Srbi,3505
+2013,Broj,Vlasenica,Ž,Srbi,3685
+2013,Broj,Vukosavlje,Ukupno,Srbi,1448
+2013,Broj,Vukosavlje,M,Srbi,720
+2013,Broj,Vukosavlje,Ž,Srbi,728
+2013,Broj,Gacko,Ukupno,Srbi,8316
+2013,Broj,Gacko,M,Srbi,4211
+2013,Broj,Gacko,Ž,Srbi,4105
+2013,Broj,Grad Gradiška,Ukupno,Srbi,40707
+2013,Broj,Grad Gradiška,M,Srbi,19960
+2013,Broj,Grad Gradiška,Ž,Srbi,20747
+2013,Broj,Grad Derventa,Ukupno,Srbi,21495
+2013,Broj,Grad Derventa,M,Srbi,10524
+2013,Broj,Grad Derventa,Ž,Srbi,10971
+2013,Broj,Grad Doboj,Ukupno,Srbi,50968
+2013,Broj,Grad Doboj,M,Srbi,24968
+2013,Broj,Grad Doboj,Ž,Srbi,26000
+2013,Broj,Donji Žabar,Ukupno,Srbi,2658
+2013,Broj,Donji Žabar,M,Srbi,1352
+2013,Broj,Donji Žabar,Ž,Srbi,1306
+2013,Broj,Grad Zvornik,Ukupno,Srbi,37242
+2013,Broj,Grad Zvornik,M,Srbi,18452
+2013,Broj,Grad Zvornik,Ž,Srbi,18790
+2013,Broj,Istočna Ilidža,Ukupno,Srbi,13455
+2013,Broj,Istočna Ilidža,M,Srbi,6486
+2013,Broj,Istočna Ilidža,Ž,Srbi,6969
+2013,Broj,Istočni Drvar,Ukupno,Srbi,65
+2013,Broj,Istočni Drvar,M,Srbi,44
+2013,Broj,Istočni Drvar,Ž,Srbi,21
+2013,Broj,Istočni Mostar,Ukupno,Srbi,153
+2013,Broj,Istočni Mostar,M,Srbi,84
+2013,Broj,Istočni Mostar,Ž,Srbi,69
+2013,Broj,Istočni Stari Grad,Ukupno,Srbi,1059
+2013,Broj,Istočni Stari Grad,M,Srbi,519
+2013,Broj,Istočni Stari Grad,Ž,Srbi,540
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Srbi,10028
+2013,Broj,Istočno Novo Sarajevo,M,Srbi,4801
+2013,Broj,Istočno Novo Sarajevo,Ž,Srbi,5227
+2013,Broj,Jezero,Ukupno,Srbi,779
+2013,Broj,Jezero,M,Srbi,410
+2013,Broj,Jezero,Ž,Srbi,369
+2013,Broj,Kalinovik,Ukupno,Srbi,1895
+2013,Broj,Kalinovik,M,Srbi,920
+2013,Broj,Kalinovik,Ž,Srbi,975
+2013,Broj,Kneževo,Ukupno,Srbi,8886
+2013,Broj,Kneževo,M,Srbi,4414
+2013,Broj,Kneževo,Ž,Srbi,4472
+2013,Broj,Kozarska Dubica,Ukupno,Srbi,18144
+2013,Broj,Kozarska Dubica,M,Srbi,8939
+2013,Broj,Kozarska Dubica,Ž,Srbi,9205
+2013,Broj,Kostajnica,Ukupno,Srbi,4177
+2013,Broj,Kostajnica,M,Srbi,2077
+2013,Broj,Kostajnica,Ž,Srbi,2100
+2013,Broj,Kotor Varoš,Ukupno,Srbi,12730
+2013,Broj,Kotor Varoš,M,Srbi,6305
+2013,Broj,Kotor Varoš,Ž,Srbi,6425
+2013,Broj,Krupa Na Uni,Ukupno,Srbi,1555
+2013,Broj,Krupa Na Uni,M,Srbi,840
+2013,Broj,Krupa Na Uni,Ž,Srbi,715
+2013,Broj,Kupres,Ukupno,Srbi,292
+2013,Broj,Kupres,M,Srbi,156
+2013,Broj,Kupres,Ž,Srbi,136
+2013,Broj,Laktaši,Ukupno,Srbi,32761
+2013,Broj,Laktaši,M,Srbi,16275
+2013,Broj,Laktaši,Ž,Srbi,16486
+2013,Broj,Lopare,Ukupno,Srbi,13267
+2013,Broj,Lopare,M,Srbi,6695
+2013,Broj,Lopare,Ž,Srbi,6572
+2013,Broj,Ljubinje,Ukupno,Srbi,3280
+2013,Broj,Ljubinje,M,Srbi,1615
+2013,Broj,Ljubinje,Ž,Srbi,1665
+2013,Broj,Milići,Ukupno,Srbi,6857
+2013,Broj,Milići,M,Srbi,3486
+2013,Broj,Milići,Ž,Srbi,3371
+2013,Broj,Modriča,Ukupno,Srbi,19530
+2013,Broj,Modriča,M,Srbi,9611
+2013,Broj,Modriča,Ž,Srbi,9919
+2013,Broj,Mrkonjić Grad,Ukupno,Srbi,15340
+2013,Broj,Mrkonjić Grad,M,Srbi,7388
+2013,Broj,Mrkonjić Grad,Ž,Srbi,7952
+2013,Broj,Nevesinje,Ukupno,Srbi,11964
+2013,Broj,Nevesinje,M,Srbi,5951
+2013,Broj,Nevesinje,Ž,Srbi,6013
+2013,Broj,Novi Grad,Ukupno,Srbi,19491
+2013,Broj,Novi Grad,M,Srbi,9747
+2013,Broj,Novi Grad,Ž,Srbi,9744
+2013,Broj,Novo Goražde,Ukupno,Srbi,1561
+2013,Broj,Novo Goražde,M,Srbi,821
+2013,Broj,Novo Goražde,Ž,Srbi,740
+2013,Broj,Osmaci,Ukupno,Srbi,2852
+2013,Broj,Osmaci,M,Srbi,1450
+2013,Broj,Osmaci,Ž,Srbi,1402
+2013,Broj,Oštra Luka,Ukupno,Srbi,2510
+2013,Broj,Oštra Luka,M,Srbi,1296
+2013,Broj,Oštra Luka,Ž,Srbi,1214
+2013,Broj,Pale,Ukupno,Srbi,19932
+2013,Broj,Pale,M,Srbi,9561
+2013,Broj,Pale,Ž,Srbi,10371
+2013,Broj,Pelagićevo,Ukupno,Srbi,3146
+2013,Broj,Pelagićevo,M,Srbi,1563
+2013,Broj,Pelagićevo,Ž,Srbi,1583
+2013,Broj,Petrovac,Ukupno,Srbi,351
+2013,Broj,Petrovac,M,Srbi,168
+2013,Broj,Petrovac,Ž,Srbi,183
+2013,Broj,Petrovo,Ukupno,Srbi,6222
+2013,Broj,Petrovo,M,Srbi,3002
+2013,Broj,Petrovo,Ž,Srbi,3220
+2013,Broj,Grad Prijedor,Ukupno,Srbi,54365
+2013,Broj,Grad Prijedor,M,Srbi,26834
+2013,Broj,Grad Prijedor,Ž,Srbi,27531
+2013,Broj,Prnjavor,Ukupno,Srbi,29478
+2013,Broj,Prnjavor,M,Srbi,14352
+2013,Broj,Prnjavor,Ž,Srbi,15126
+2013,Broj,Ribnik,Ukupno,Srbi,5825
+2013,Broj,Ribnik,M,Srbi,2891
+2013,Broj,Ribnik,Ž,Srbi,2934
+2013,Broj,Rogatica,Ukupno,Srbi,9217
+2013,Broj,Rogatica,M,Srbi,4502
+2013,Broj,Rogatica,Ž,Srbi,4715
+2013,Broj,Rudo,Ukupno,Srbi,6963
+2013,Broj,Rudo,M,Srbi,3517
+2013,Broj,Rudo,Ž,Srbi,3446
+2013,Broj,Sokolac,Ukupno,Srbi,10894
+2013,Broj,Sokolac,M,Srbi,5357
+2013,Broj,Sokolac,Ž,Srbi,5537
+2013,Broj,Srbac,Ukupno,Srbi,16013
+2013,Broj,Srbac,M,Srbi,7888
+2013,Broj,Srbac,Ž,Srbi,8125
+2013,Broj,Srebrenica,Ukupno,Srbi,5467
+2013,Broj,Srebrenica,M,Srbi,2743
+2013,Broj,Srebrenica,Ž,Srbi,2724
+2013,Broj,Teslić,Ukupno,Srbi,28166
+2013,Broj,Teslić,M,Srbi,13545
+2013,Broj,Teslić,Ž,Srbi,14621
+2013,Broj,Grad Trebinje,Ukupno,Srbi,26484
+2013,Broj,Grad Trebinje,M,Srbi,12943
+2013,Broj,Grad Trebinje,Ž,Srbi,13541
+2013,Broj,Trnovo,Ukupno,Srbi,1131
+2013,Broj,Trnovo,M,Srbi,534
+2013,Broj,Trnovo,Ž,Srbi,597
+2013,Broj,Ugljevik,Ukupno,Srbi,13007
+2013,Broj,Ugljevik,M,Srbi,6606
+2013,Broj,Ugljevik,Ž,Srbi,6401
+2013,Broj,Foča,Ukupno,Srbi,16157
+2013,Broj,Foča,M,Srbi,8133
+2013,Broj,Foča,Ž,Srbi,8024
+2013,Broj,Han Pijesak,Ukupno,Srbi,2994
+2013,Broj,Han Pijesak,M,Srbi,1412
+2013,Broj,Han Pijesak,Ž,Srbi,1582
+2013,Broj,Čajniče,Ukupno,Srbi,3806
+2013,Broj,Čajniče,M,Srbi,1891
+2013,Broj,Čajniče,Ž,Srbi,1915
+2013,Broj,Čelinac,Ukupno,Srbi,14508
+2013,Broj,Čelinac,M,Srbi,7194
+2013,Broj,Čelinac,Ž,Srbi,7314
+2013,Broj,Šamac,Ukupno,Srbi,12832
+2013,Broj,Šamac,M,Srbi,6277
+2013,Broj,Šamac,Ž,Srbi,6555
+2013,Broj,Šekovići,Ukupno,Srbi,6187
+2013,Broj,Šekovići,M,Srbi,3038
+2013,Broj,Šekovići,Ž,Srbi,3149
+2013,Broj,Šipovo,Ukupno,Srbi,9302
+2013,Broj,Šipovo,M,Srbi,4716
+2013,Broj,Šipovo,Ž,Srbi,4586
+2013,Broj,Republika Srpska,Ukupno,Ostali,14641
+2013,Broj,Republika Srpska,M,Ostali,7207
+2013,Broj,Republika Srpska,Ž,Ostali,7434
+2013,Broj,Grad Banja Luka,Ukupno,Ostali,3324
+2013,Broj,Grad Banja Luka,M,Ostali,1617
+2013,Broj,Grad Banja Luka,Ž,Ostali,1707
+2013,Broj,Berkovići,Ukupno,Ostali,1
+2013,Broj,Berkovići,M,Ostali,1
+2013,Broj,Berkovići,Ž,Ostali,0
+2013,Broj,Grad Bijeljina,Ukupno,Ostali,1478
+2013,Broj,Grad Bijeljina,M,Ostali,717
+2013,Broj,Grad Bijeljina,Ž,Ostali,761
+2013,Broj,Bileća,Ukupno,Ostali,72
+2013,Broj,Bileća,M,Ostali,38
+2013,Broj,Bileća,Ž,Ostali,34
+2013,Broj,Bratunac,Ukupno,Ostali,79
+2013,Broj,Bratunac,M,Ostali,45
+2013,Broj,Bratunac,Ž,Ostali,34
+2013,Broj,Brod,Ukupno,Ostali,151
+2013,Broj,Brod,M,Ostali,69
+2013,Broj,Brod,Ž,Ostali,82
+2013,Broj,Višegrad,Ukupno,Ostali,53
+2013,Broj,Višegrad,M,Ostali,26
+2013,Broj,Višegrad,Ž,Ostali,27
+2013,Broj,Vlasenica,Ukupno,Ostali,29
+2013,Broj,Vlasenica,M,Ostali,13
+2013,Broj,Vlasenica,Ž,Ostali,16
+2013,Broj,Vukosavlje,Ukupno,Ostali,146
+2013,Broj,Vukosavlje,M,Ostali,81
+2013,Broj,Vukosavlje,Ž,Ostali,65
+2013,Broj,Gacko,Ukupno,Ostali,40
+2013,Broj,Gacko,M,Ostali,27
+2013,Broj,Gacko,Ž,Ostali,13
+2013,Broj,Grad Gradiška,Ukupno,Ostali,970
+2013,Broj,Grad Gradiška,M,Ostali,468
+2013,Broj,Grad Gradiška,Ž,Ostali,502
+2013,Broj,Grad Derventa,Ukupno,Ostali,264
+2013,Broj,Grad Derventa,M,Ostali,116
+2013,Broj,Grad Derventa,Ž,Ostali,148
+2013,Broj,Grad Doboj,Ukupno,Ostali,949
+2013,Broj,Grad Doboj,M,Ostali,486
+2013,Broj,Grad Doboj,Ž,Ostali,463
+2013,Broj,Donji Žabar,Ukupno,Ostali,9
+2013,Broj,Donji Žabar,M,Ostali,1
+2013,Broj,Donji Žabar,Ž,Ostali,8
+2013,Broj,Grad Zvornik,Ukupno,Ostali,120
+2013,Broj,Grad Zvornik,M,Ostali,55
+2013,Broj,Grad Zvornik,Ž,Ostali,65
+2013,Broj,Istočna Ilidža,Ukupno,Ostali,96
+2013,Broj,Istočna Ilidža,M,Ostali,44
+2013,Broj,Istočna Ilidža,Ž,Ostali,52
+2013,Broj,Istočni Drvar,Ukupno,Ostali,0
+2013,Broj,Istočni Drvar,M,Ostali,0
+2013,Broj,Istočni Drvar,Ž,Ostali,0
+2013,Broj,Istočni Mostar,Ukupno,Ostali,0
+2013,Broj,Istočni Mostar,M,Ostali,0
+2013,Broj,Istočni Mostar,Ž,Ostali,0
+2013,Broj,Istočni Stari Grad,Ukupno,Ostali,7
+2013,Broj,Istočni Stari Grad,M,Ostali,5
+2013,Broj,Istočni Stari Grad,Ž,Ostali,2
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Ostali,163
+2013,Broj,Istočno Novo Sarajevo,M,Ostali,72
+2013,Broj,Istočno Novo Sarajevo,Ž,Ostali,91
+2013,Broj,Jezero,Ukupno,Ostali,1
+2013,Broj,Jezero,M,Ostali,1
+2013,Broj,Jezero,Ž,Ostali,0
+2013,Broj,Kalinovik,Ukupno,Ostali,15
+2013,Broj,Kalinovik,M,Ostali,8
+2013,Broj,Kalinovik,Ž,Ostali,7
+2013,Broj,Kneževo,Ukupno,Ostali,37
+2013,Broj,Kneževo,M,Ostali,21
+2013,Broj,Kneževo,Ž,Ostali,16
+2013,Broj,Kozarska Dubica,Ukupno,Ostali,219
+2013,Broj,Kozarska Dubica,M,Ostali,102
+2013,Broj,Kozarska Dubica,Ž,Ostali,117
+2013,Broj,Kostajnica,Ukupno,Ostali,42
+2013,Broj,Kostajnica,M,Ostali,20
+2013,Broj,Kostajnica,Ž,Ostali,22
+2013,Broj,Kotor Varoš,Ukupno,Ostali,129
+2013,Broj,Kotor Varoš,M,Ostali,63
+2013,Broj,Kotor Varoš,Ž,Ostali,66
+2013,Broj,Krupa Na Uni,Ukupno,Ostali,0
+2013,Broj,Krupa Na Uni,M,Ostali,0
+2013,Broj,Krupa Na Uni,Ž,Ostali,0
+2013,Broj,Kupres,Ukupno,Ostali,0
+2013,Broj,Kupres,M,Ostali,0
+2013,Broj,Kupres,Ž,Ostali,0
+2013,Broj,Laktaši,Ukupno,Ostali,562
+2013,Broj,Laktaši,M,Ostali,285
+2013,Broj,Laktaši,Ž,Ostali,277
+2013,Broj,Lopare,Ukupno,Ostali,31
+2013,Broj,Lopare,M,Ostali,16
+2013,Broj,Lopare,Ž,Ostali,15
+2013,Broj,Ljubinje,Ukupno,Ostali,13
+2013,Broj,Ljubinje,M,Ostali,7
+2013,Broj,Ljubinje,Ž,Ostali,6
+2013,Broj,Milići,Ukupno,Ostali,19
+2013,Broj,Milići,M,Ostali,7
+2013,Broj,Milići,Ž,Ostali,12
+2013,Broj,Modriča,Ukupno,Ostali,412
+2013,Broj,Modriča,M,Ostali,207
+2013,Broj,Modriča,Ž,Ostali,205
+2013,Broj,Mrkonjić Grad,Ukupno,Ostali,37
+2013,Broj,Mrkonjić Grad,M,Ostali,17
+2013,Broj,Mrkonjić Grad,Ž,Ostali,20
+2013,Broj,Nevesinje,Ukupno,Ostali,18
+2013,Broj,Nevesinje,M,Ostali,5
+2013,Broj,Nevesinje,Ž,Ostali,13
+2013,Broj,Novi Grad,Ukupno,Ostali,200
+2013,Broj,Novi Grad,M,Ostali,100
+2013,Broj,Novi Grad,Ž,Ostali,100
+2013,Broj,Novo Goražde,Ukupno,Ostali,22
+2013,Broj,Novo Goražde,M,Ostali,11
+2013,Broj,Novo Goražde,Ž,Ostali,11
+2013,Broj,Osmaci,Ukupno,Ostali,5
+2013,Broj,Osmaci,M,Ostali,2
+2013,Broj,Osmaci,Ž,Ostali,3
+2013,Broj,Oštra Luka,Ukupno,Ostali,8
+2013,Broj,Oštra Luka,M,Ostali,3
+2013,Broj,Oštra Luka,Ž,Ostali,5
+2013,Broj,Pale,Ukupno,Ostali,70
+2013,Broj,Pale,M,Ostali,31
+2013,Broj,Pale,Ž,Ostali,39
+2013,Broj,Pelagićevo,Ukupno,Ostali,9
+2013,Broj,Pelagićevo,M,Ostali,4
+2013,Broj,Pelagićevo,Ž,Ostali,5
+2013,Broj,Petrovac,Ukupno,Ostali,3
+2013,Broj,Petrovac,M,Ostali,1
+2013,Broj,Petrovac,Ž,Ostali,2
+2013,Broj,Petrovo,Ukupno,Ostali,30
+2013,Broj,Petrovo,M,Ostali,19
+2013,Broj,Petrovo,Ž,Ostali,11
+2013,Broj,Grad Prijedor,Ukupno,Ostali,1495
+2013,Broj,Grad Prijedor,M,Ostali,712
+2013,Broj,Grad Prijedor,Ž,Ostali,783
+2013,Broj,Prnjavor,Ukupno,Ostali,1452
+2013,Broj,Prnjavor,M,Ostali,738
+2013,Broj,Prnjavor,Ž,Ostali,714
+2013,Broj,Ribnik,Ukupno,Ostali,11
+2013,Broj,Ribnik,M,Ostali,3
+2013,Broj,Ribnik,Ž,Ostali,8
+2013,Broj,Rogatica,Ukupno,Ostali,41
+2013,Broj,Rogatica,M,Ostali,20
+2013,Broj,Rogatica,Ž,Ostali,21
+2013,Broj,Rudo,Ukupno,Ostali,26
+2013,Broj,Rudo,M,Ostali,14
+2013,Broj,Rudo,Ž,Ostali,12
+2013,Broj,Sokolac,Ukupno,Ostali,38
+2013,Broj,Sokolac,M,Ostali,19
+2013,Broj,Sokolac,Ž,Ostali,19
+2013,Broj,Srbac,Ukupno,Ostali,280
+2013,Broj,Srbac,M,Ostali,146
+2013,Broj,Srbac,Ž,Ostali,134
+2013,Broj,Srebrenica,Ukupno,Ostali,59
+2013,Broj,Srebrenica,M,Ostali,34
+2013,Broj,Srebrenica,Ž,Ostali,25
+2013,Broj,Teslić,Ukupno,Ostali,454
+2013,Broj,Teslić,M,Ostali,222
+2013,Broj,Teslić,Ž,Ostali,232
+2013,Broj,Grad Trebinje,Ukupno,Ostali,398
+2013,Broj,Grad Trebinje,M,Ostali,204
+2013,Broj,Grad Trebinje,Ž,Ostali,194
+2013,Broj,Trnovo,Ukupno,Ostali,10
+2013,Broj,Trnovo,M,Ostali,7
+2013,Broj,Trnovo,Ž,Ostali,3
+2013,Broj,Ugljevik,Ukupno,Ostali,36
+2013,Broj,Ugljevik,M,Ostali,17
+2013,Broj,Ugljevik,Ž,Ostali,19
+2013,Broj,Foča,Ukupno,Ostali,160
+2013,Broj,Foča,M,Ostali,90
+2013,Broj,Foča,Ž,Ostali,70
+2013,Broj,Han Pijesak,Ukupno,Ostali,21
+2013,Broj,Han Pijesak,M,Ostali,14
+2013,Broj,Han Pijesak,Ž,Ostali,7
+2013,Broj,Čajniče,Ukupno,Ostali,24
+2013,Broj,Čajniče,M,Ostali,13
+2013,Broj,Čajniče,Ž,Ostali,11
+2013,Broj,Čelinac,Ukupno,Ostali,122
+2013,Broj,Čelinac,M,Ostali,55
+2013,Broj,Čelinac,Ž,Ostali,67
+2013,Broj,Šamac,Ukupno,Ostali,135
+2013,Broj,Šamac,M,Ostali,67
+2013,Broj,Šamac,Ž,Ostali,68
+2013,Broj,Šekovići,Ukupno,Ostali,12
+2013,Broj,Šekovići,M,Ostali,7
+2013,Broj,Šekovići,Ž,Ostali,5
+2013,Broj,Šipovo,Ukupno,Ostali,34
+2013,Broj,Šipovo,M,Ostali,14
+2013,Broj,Šipovo,Ž,Ostali,20
 2013,Broj,Republika Srpska,Ukupno,Ne izjašnjava se,7861
 2013,Broj,Republika Srpska,M,Ne izjašnjava se,3202
 2013,Broj,Republika Srpska,Ž,Ne izjašnjava se,4659
@@ -1133,192 +1133,192 @@ Year,UNIT_MEASURE,Administrativna oblast,Pol,Etnička/nacionalna pripadnost,Valu
 2013,Broj,Šipovo,Ukupno,Ne izjašnjava se,24
 2013,Broj,Šipovo,M,Ne izjašnjava se,12
 2013,Broj,Šipovo,Ž,Ne izjašnjava se,12
-2013,Broj,Republika Srpska,Ukupno,Nepoznata etnička/nacionalna pripadnost,1997
-2013,Broj,Republika Srpska,M,Nepoznata etnička/nacionalna pripadnost,916
-2013,Broj,Republika Srpska,Ž,Nepoznata etnička/nacionalna pripadnost,1081
-2013,Broj,Grad Banja Luka,Ukupno,Nepoznata etnička/nacionalna pripadnost,328
-2013,Broj,Grad Banja Luka,M,Nepoznata etnička/nacionalna pripadnost,153
-2013,Broj,Grad Banja Luka,Ž,Nepoznata etnička/nacionalna pripadnost,175
-2013,Broj,Berkovići,Ukupno,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Berkovići,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Berkovići,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Grad Bijeljina,Ukupno,Nepoznata etnička/nacionalna pripadnost,90
-2013,Broj,Grad Bijeljina,M,Nepoznata etnička/nacionalna pripadnost,37
-2013,Broj,Grad Bijeljina,Ž,Nepoznata etnička/nacionalna pripadnost,53
-2013,Broj,Bileća,Ukupno,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Bileća,M,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Bileća,Ž,Nepoznata etnička/nacionalna pripadnost,7
-2013,Broj,Bratunac,Ukupno,Nepoznata etnička/nacionalna pripadnost,35
-2013,Broj,Bratunac,M,Nepoznata etnička/nacionalna pripadnost,16
-2013,Broj,Bratunac,Ž,Nepoznata etnička/nacionalna pripadnost,19
-2013,Broj,Brod,Ukupno,Nepoznata etnička/nacionalna pripadnost,29
-2013,Broj,Brod,M,Nepoznata etnička/nacionalna pripadnost,12
-2013,Broj,Brod,Ž,Nepoznata etnička/nacionalna pripadnost,17
-2013,Broj,Višegrad,Ukupno,Nepoznata etnička/nacionalna pripadnost,177
-2013,Broj,Višegrad,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Višegrad,Ž,Nepoznata etnička/nacionalna pripadnost,175
-2013,Broj,Vlasenica,Ukupno,Nepoznata etnička/nacionalna pripadnost,29
-2013,Broj,Vlasenica,M,Nepoznata etnička/nacionalna pripadnost,13
-2013,Broj,Vlasenica,Ž,Nepoznata etnička/nacionalna pripadnost,16
-2013,Broj,Vukosavlje,Ukupno,Nepoznata etnička/nacionalna pripadnost,14
-2013,Broj,Vukosavlje,M,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Vukosavlje,Ž,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Gacko,Ukupno,Nepoznata etnička/nacionalna pripadnost,6
-2013,Broj,Gacko,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Gacko,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Grad Gradiška,Ukupno,Nepoznata etnička/nacionalna pripadnost,42
-2013,Broj,Grad Gradiška,M,Nepoznata etnička/nacionalna pripadnost,19
-2013,Broj,Grad Gradiška,Ž,Nepoznata etnička/nacionalna pripadnost,23
-2013,Broj,Grad Derventa,Ukupno,Nepoznata etnička/nacionalna pripadnost,54
-2013,Broj,Grad Derventa,M,Nepoznata etnička/nacionalna pripadnost,24
-2013,Broj,Grad Derventa,Ž,Nepoznata etnička/nacionalna pripadnost,30
-2013,Broj,Grad Doboj,Ukupno,Nepoznata etnička/nacionalna pripadnost,163
-2013,Broj,Grad Doboj,M,Nepoznata etnička/nacionalna pripadnost,61
-2013,Broj,Grad Doboj,Ž,Nepoznata etnička/nacionalna pripadnost,102
-2013,Broj,Donji Žabar,Ukupno,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Donji Žabar,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Donji Žabar,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Grad Zvornik,Ukupno,Nepoznata etnička/nacionalna pripadnost,97
-2013,Broj,Grad Zvornik,M,Nepoznata etnička/nacionalna pripadnost,42
-2013,Broj,Grad Zvornik,Ž,Nepoznata etnička/nacionalna pripadnost,55
-2013,Broj,Istočna Ilidža,Ukupno,Nepoznata etnička/nacionalna pripadnost,10
-2013,Broj,Istočna Ilidža,M,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Istočna Ilidža,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Istočni Drvar,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Drvar,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Drvar,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Istočni Mostar,Ukupno,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Istočni Mostar,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Istočni Mostar,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Istočni Stari Grad,Ukupno,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Istočni Stari Grad,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Istočni Stari Grad,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Istočno Novo Sarajevo,Ukupno,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Istočno Novo Sarajevo,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Istočno Novo Sarajevo,Ž,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Jezero,Ukupno,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Jezero,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Jezero,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kalinovik,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kalinovik,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kalinovik,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kneževo,Ukupno,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Kneževo,M,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Kneževo,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Kozarska Dubica,Ukupno,Nepoznata etnička/nacionalna pripadnost,12
-2013,Broj,Kozarska Dubica,M,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Kozarska Dubica,Ž,Nepoznata etnička/nacionalna pripadnost,7
-2013,Broj,Kostajnica,Ukupno,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Kostajnica,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kostajnica,Ž,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Kotor Varoš,Ukupno,Nepoznata etnička/nacionalna pripadnost,19
-2013,Broj,Kotor Varoš,M,Nepoznata etnička/nacionalna pripadnost,14
-2013,Broj,Kotor Varoš,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Krupa Na Uni,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Krupa Na Uni,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Krupa Na Uni,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Kupres,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Laktaši,Ukupno,Nepoznata etnička/nacionalna pripadnost,46
-2013,Broj,Laktaši,M,Nepoznata etnička/nacionalna pripadnost,20
-2013,Broj,Laktaši,Ž,Nepoznata etnička/nacionalna pripadnost,26
-2013,Broj,Lopare,Ukupno,Nepoznata etnička/nacionalna pripadnost,10
-2013,Broj,Lopare,M,Nepoznata etnička/nacionalna pripadnost,6
-2013,Broj,Lopare,Ž,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Ljubinje,Ukupno,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Ljubinje,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Ljubinje,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Milići,Ukupno,Nepoznata etnička/nacionalna pripadnost,8
-2013,Broj,Milići,M,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Milići,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Modriča,Ukupno,Nepoznata etnička/nacionalna pripadnost,116
-2013,Broj,Modriča,M,Nepoznata etnička/nacionalna pripadnost,62
-2013,Broj,Modriča,Ž,Nepoznata etnička/nacionalna pripadnost,54
-2013,Broj,Mrkonjić Grad,Ukupno,Nepoznata etnička/nacionalna pripadnost,12
-2013,Broj,Mrkonjić Grad,M,Nepoznata etnička/nacionalna pripadnost,6
-2013,Broj,Mrkonjić Grad,Ž,Nepoznata etnička/nacionalna pripadnost,6
-2013,Broj,Nevesinje,Ukupno,Nepoznata etnička/nacionalna pripadnost,7
-2013,Broj,Nevesinje,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Nevesinje,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Novi Grad,Ukupno,Nepoznata etnička/nacionalna pripadnost,24
-2013,Broj,Novi Grad,M,Nepoznata etnička/nacionalna pripadnost,13
-2013,Broj,Novi Grad,Ž,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Novo Goražde,Ukupno,Nepoznata etnička/nacionalna pripadnost,7
-2013,Broj,Novo Goražde,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Novo Goražde,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Osmaci,Ukupno,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Osmaci,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Osmaci,Ž,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Oštra Luka,Ukupno,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Oštra Luka,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Oštra Luka,Ž,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Pale,Ukupno,Nepoznata etnička/nacionalna pripadnost,13
-2013,Broj,Pale,M,Nepoznata etnička/nacionalna pripadnost,9
-2013,Broj,Pale,Ž,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Pelagićevo,Ukupno,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Pelagićevo,M,Nepoznata etnička/nacionalna pripadnost,1
-2013,Broj,Pelagićevo,Ž,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Petrovac,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Petrovac,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Petrovac,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Petrovo,Ukupno,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Petrovo,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Petrovo,Ž,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Grad Prijedor,Ukupno,Nepoznata etnička/nacionalna pripadnost,369
-2013,Broj,Grad Prijedor,M,Nepoznata etnička/nacionalna pripadnost,257
-2013,Broj,Grad Prijedor,Ž,Nepoznata etnička/nacionalna pripadnost,112
-2013,Broj,Prnjavor,Ukupno,Nepoznata etnička/nacionalna pripadnost,30
-2013,Broj,Prnjavor,M,Nepoznata etnička/nacionalna pripadnost,10
-2013,Broj,Prnjavor,Ž,Nepoznata etnička/nacionalna pripadnost,20
-2013,Broj,Ribnik,Ukupno,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Ribnik,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Ribnik,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Rogatica,Ukupno,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Rogatica,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Rogatica,Ž,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Rudo,Ukupno,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Rudo,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Rudo,Ž,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Sokolac,Ukupno,Nepoznata etnička/nacionalna pripadnost,18
-2013,Broj,Sokolac,M,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Sokolac,Ž,Nepoznata etnička/nacionalna pripadnost,13
-2013,Broj,Srbac,Ukupno,Nepoznata etnička/nacionalna pripadnost,29
-2013,Broj,Srbac,M,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Srbac,Ž,Nepoznata etnička/nacionalna pripadnost,18
-2013,Broj,Srebrenica,Ukupno,Nepoznata etnička/nacionalna pripadnost,14
-2013,Broj,Srebrenica,M,Nepoznata etnička/nacionalna pripadnost,8
-2013,Broj,Srebrenica,Ž,Nepoznata etnička/nacionalna pripadnost,6
-2013,Broj,Teslić,Ukupno,Nepoznata etnička/nacionalna pripadnost,44
-2013,Broj,Teslić,M,Nepoznata etnička/nacionalna pripadnost,23
-2013,Broj,Teslić,Ž,Nepoznata etnička/nacionalna pripadnost,21
-2013,Broj,Grad Trebinje,Ukupno,Nepoznata etnička/nacionalna pripadnost,19
-2013,Broj,Grad Trebinje,M,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Grad Trebinje,Ž,Nepoznata etnička/nacionalna pripadnost,8
-2013,Broj,Trnovo,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Trnovo,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Trnovo,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Ugljevik,Ukupno,Nepoznata etnička/nacionalna pripadnost,13
-2013,Broj,Ugljevik,M,Nepoznata etnička/nacionalna pripadnost,11
-2013,Broj,Ugljevik,Ž,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Foča,Ukupno,Nepoznata etnička/nacionalna pripadnost,12
-2013,Broj,Foča,M,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Foča,Ž,Nepoznata etnička/nacionalna pripadnost,7
-2013,Broj,Han Pijesak,Ukupno,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Han Pijesak,M,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Han Pijesak,Ž,Nepoznata etnička/nacionalna pripadnost,0
-2013,Broj,Čajniče,Ukupno,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Čajniče,M,Nepoznata etnička/nacionalna pripadnost,2
-2013,Broj,Čajniče,Ž,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Čelinac,Ukupno,Nepoznata etnička/nacionalna pripadnost,9
-2013,Broj,Čelinac,M,Nepoznata etnička/nacionalna pripadnost,4
-2013,Broj,Čelinac,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Šamac,Ukupno,Nepoznata etnička/nacionalna pripadnost,19
-2013,Broj,Šamac,M,Nepoznata etnička/nacionalna pripadnost,10
-2013,Broj,Šamac,Ž,Nepoznata etnička/nacionalna pripadnost,9
-2013,Broj,Šekovići,Ukupno,Nepoznata etnička/nacionalna pripadnost,8
-2013,Broj,Šekovići,M,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Šekovići,Ž,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Šipovo,Ukupno,Nepoznata etnička/nacionalna pripadnost,5
-2013,Broj,Šipovo,M,Nepoznata etnička/nacionalna pripadnost,3
-2013,Broj,Šipovo,Ž,Nepoznata etnička/nacionalna pripadnost,2
+2013,Broj,Republika Srpska,Ukupno,Nepoznato,1997
+2013,Broj,Republika Srpska,M,Nepoznato,916
+2013,Broj,Republika Srpska,Ž,Nepoznato,1081
+2013,Broj,Grad Banja Luka,Ukupno,Nepoznato,328
+2013,Broj,Grad Banja Luka,M,Nepoznato,153
+2013,Broj,Grad Banja Luka,Ž,Nepoznato,175
+2013,Broj,Berkovići,Ukupno,Nepoznato,1
+2013,Broj,Berkovići,M,Nepoznato,0
+2013,Broj,Berkovići,Ž,Nepoznato,1
+2013,Broj,Grad Bijeljina,Ukupno,Nepoznato,90
+2013,Broj,Grad Bijeljina,M,Nepoznato,37
+2013,Broj,Grad Bijeljina,Ž,Nepoznato,53
+2013,Broj,Bileća,Ukupno,Nepoznato,11
+2013,Broj,Bileća,M,Nepoznato,4
+2013,Broj,Bileća,Ž,Nepoznato,7
+2013,Broj,Bratunac,Ukupno,Nepoznato,35
+2013,Broj,Bratunac,M,Nepoznato,16
+2013,Broj,Bratunac,Ž,Nepoznato,19
+2013,Broj,Brod,Ukupno,Nepoznato,29
+2013,Broj,Brod,M,Nepoznato,12
+2013,Broj,Brod,Ž,Nepoznato,17
+2013,Broj,Višegrad,Ukupno,Nepoznato,177
+2013,Broj,Višegrad,M,Nepoznato,2
+2013,Broj,Višegrad,Ž,Nepoznato,175
+2013,Broj,Vlasenica,Ukupno,Nepoznato,29
+2013,Broj,Vlasenica,M,Nepoznato,13
+2013,Broj,Vlasenica,Ž,Nepoznato,16
+2013,Broj,Vukosavlje,Ukupno,Nepoznato,14
+2013,Broj,Vukosavlje,M,Nepoznato,3
+2013,Broj,Vukosavlje,Ž,Nepoznato,11
+2013,Broj,Gacko,Ukupno,Nepoznato,6
+2013,Broj,Gacko,M,Nepoznato,1
+2013,Broj,Gacko,Ž,Nepoznato,5
+2013,Broj,Grad Gradiška,Ukupno,Nepoznato,42
+2013,Broj,Grad Gradiška,M,Nepoznato,19
+2013,Broj,Grad Gradiška,Ž,Nepoznato,23
+2013,Broj,Grad Derventa,Ukupno,Nepoznato,54
+2013,Broj,Grad Derventa,M,Nepoznato,24
+2013,Broj,Grad Derventa,Ž,Nepoznato,30
+2013,Broj,Grad Doboj,Ukupno,Nepoznato,163
+2013,Broj,Grad Doboj,M,Nepoznato,61
+2013,Broj,Grad Doboj,Ž,Nepoznato,102
+2013,Broj,Donji Žabar,Ukupno,Nepoznato,2
+2013,Broj,Donji Žabar,M,Nepoznato,1
+2013,Broj,Donji Žabar,Ž,Nepoznato,1
+2013,Broj,Grad Zvornik,Ukupno,Nepoznato,97
+2013,Broj,Grad Zvornik,M,Nepoznato,42
+2013,Broj,Grad Zvornik,Ž,Nepoznato,55
+2013,Broj,Istočna Ilidža,Ukupno,Nepoznato,10
+2013,Broj,Istočna Ilidža,M,Nepoznato,5
+2013,Broj,Istočna Ilidža,Ž,Nepoznato,5
+2013,Broj,Istočni Drvar,Ukupno,Nepoznato,0
+2013,Broj,Istočni Drvar,M,Nepoznato,0
+2013,Broj,Istočni Drvar,Ž,Nepoznato,0
+2013,Broj,Istočni Mostar,Ukupno,Nepoznato,2
+2013,Broj,Istočni Mostar,M,Nepoznato,1
+2013,Broj,Istočni Mostar,Ž,Nepoznato,1
+2013,Broj,Istočni Stari Grad,Ukupno,Nepoznato,1
+2013,Broj,Istočni Stari Grad,M,Nepoznato,1
+2013,Broj,Istočni Stari Grad,Ž,Nepoznato,0
+2013,Broj,Istočno Novo Sarajevo,Ukupno,Nepoznato,3
+2013,Broj,Istočno Novo Sarajevo,M,Nepoznato,0
+2013,Broj,Istočno Novo Sarajevo,Ž,Nepoznato,3
+2013,Broj,Jezero,Ukupno,Nepoznato,1
+2013,Broj,Jezero,M,Nepoznato,1
+2013,Broj,Jezero,Ž,Nepoznato,0
+2013,Broj,Kalinovik,Ukupno,Nepoznato,0
+2013,Broj,Kalinovik,M,Nepoznato,0
+2013,Broj,Kalinovik,Ž,Nepoznato,0
+2013,Broj,Kneževo,Ukupno,Nepoznato,4
+2013,Broj,Kneževo,M,Nepoznato,3
+2013,Broj,Kneževo,Ž,Nepoznato,1
+2013,Broj,Kozarska Dubica,Ukupno,Nepoznato,12
+2013,Broj,Kozarska Dubica,M,Nepoznato,5
+2013,Broj,Kozarska Dubica,Ž,Nepoznato,7
+2013,Broj,Kostajnica,Ukupno,Nepoznato,2
+2013,Broj,Kostajnica,M,Nepoznato,0
+2013,Broj,Kostajnica,Ž,Nepoznato,2
+2013,Broj,Kotor Varoš,Ukupno,Nepoznato,19
+2013,Broj,Kotor Varoš,M,Nepoznato,14
+2013,Broj,Kotor Varoš,Ž,Nepoznato,5
+2013,Broj,Krupa Na Uni,Ukupno,Nepoznato,0
+2013,Broj,Krupa Na Uni,M,Nepoznato,0
+2013,Broj,Krupa Na Uni,Ž,Nepoznato,0
+2013,Broj,Kupres,Ukupno,Nepoznato,0
+2013,Broj,Kupres,M,Nepoznato,0
+2013,Broj,Kupres,Ž,Nepoznato,0
+2013,Broj,Laktaši,Ukupno,Nepoznato,46
+2013,Broj,Laktaši,M,Nepoznato,20
+2013,Broj,Laktaši,Ž,Nepoznato,26
+2013,Broj,Lopare,Ukupno,Nepoznato,10
+2013,Broj,Lopare,M,Nepoznato,6
+2013,Broj,Lopare,Ž,Nepoznato,4
+2013,Broj,Ljubinje,Ukupno,Nepoznato,2
+2013,Broj,Ljubinje,M,Nepoznato,1
+2013,Broj,Ljubinje,Ž,Nepoznato,1
+2013,Broj,Milići,Ukupno,Nepoznato,8
+2013,Broj,Milići,M,Nepoznato,3
+2013,Broj,Milići,Ž,Nepoznato,5
+2013,Broj,Modriča,Ukupno,Nepoznato,116
+2013,Broj,Modriča,M,Nepoznato,62
+2013,Broj,Modriča,Ž,Nepoznato,54
+2013,Broj,Mrkonjić Grad,Ukupno,Nepoznato,12
+2013,Broj,Mrkonjić Grad,M,Nepoznato,6
+2013,Broj,Mrkonjić Grad,Ž,Nepoznato,6
+2013,Broj,Nevesinje,Ukupno,Nepoznato,7
+2013,Broj,Nevesinje,M,Nepoznato,2
+2013,Broj,Nevesinje,Ž,Nepoznato,5
+2013,Broj,Novi Grad,Ukupno,Nepoznato,24
+2013,Broj,Novi Grad,M,Nepoznato,13
+2013,Broj,Novi Grad,Ž,Nepoznato,11
+2013,Broj,Novo Goražde,Ukupno,Nepoznato,7
+2013,Broj,Novo Goražde,M,Nepoznato,2
+2013,Broj,Novo Goražde,Ž,Nepoznato,5
+2013,Broj,Osmaci,Ukupno,Nepoznato,4
+2013,Broj,Osmaci,M,Nepoznato,2
+2013,Broj,Osmaci,Ž,Nepoznato,2
+2013,Broj,Oštra Luka,Ukupno,Nepoznato,3
+2013,Broj,Oštra Luka,M,Nepoznato,2
+2013,Broj,Oštra Luka,Ž,Nepoznato,1
+2013,Broj,Pale,Ukupno,Nepoznato,13
+2013,Broj,Pale,M,Nepoznato,9
+2013,Broj,Pale,Ž,Nepoznato,4
+2013,Broj,Pelagićevo,Ukupno,Nepoznato,5
+2013,Broj,Pelagićevo,M,Nepoznato,1
+2013,Broj,Pelagićevo,Ž,Nepoznato,4
+2013,Broj,Petrovac,Ukupno,Nepoznato,0
+2013,Broj,Petrovac,M,Nepoznato,0
+2013,Broj,Petrovac,Ž,Nepoznato,0
+2013,Broj,Petrovo,Ukupno,Nepoznato,4
+2013,Broj,Petrovo,M,Nepoznato,2
+2013,Broj,Petrovo,Ž,Nepoznato,2
+2013,Broj,Grad Prijedor,Ukupno,Nepoznato,369
+2013,Broj,Grad Prijedor,M,Nepoznato,257
+2013,Broj,Grad Prijedor,Ž,Nepoznato,112
+2013,Broj,Prnjavor,Ukupno,Nepoznato,30
+2013,Broj,Prnjavor,M,Nepoznato,10
+2013,Broj,Prnjavor,Ž,Nepoznato,20
+2013,Broj,Ribnik,Ukupno,Nepoznato,2
+2013,Broj,Ribnik,M,Nepoznato,2
+2013,Broj,Ribnik,Ž,Nepoznato,0
+2013,Broj,Rogatica,Ukupno,Nepoznato,5
+2013,Broj,Rogatica,M,Nepoznato,2
+2013,Broj,Rogatica,Ž,Nepoznato,3
+2013,Broj,Rudo,Ukupno,Nepoznato,3
+2013,Broj,Rudo,M,Nepoznato,0
+2013,Broj,Rudo,Ž,Nepoznato,3
+2013,Broj,Sokolac,Ukupno,Nepoznato,18
+2013,Broj,Sokolac,M,Nepoznato,5
+2013,Broj,Sokolac,Ž,Nepoznato,13
+2013,Broj,Srbac,Ukupno,Nepoznato,29
+2013,Broj,Srbac,M,Nepoznato,11
+2013,Broj,Srbac,Ž,Nepoznato,18
+2013,Broj,Srebrenica,Ukupno,Nepoznato,14
+2013,Broj,Srebrenica,M,Nepoznato,8
+2013,Broj,Srebrenica,Ž,Nepoznato,6
+2013,Broj,Teslić,Ukupno,Nepoznato,44
+2013,Broj,Teslić,M,Nepoznato,23
+2013,Broj,Teslić,Ž,Nepoznato,21
+2013,Broj,Grad Trebinje,Ukupno,Nepoznato,19
+2013,Broj,Grad Trebinje,M,Nepoznato,11
+2013,Broj,Grad Trebinje,Ž,Nepoznato,8
+2013,Broj,Trnovo,Ukupno,Nepoznato,0
+2013,Broj,Trnovo,M,Nepoznato,0
+2013,Broj,Trnovo,Ž,Nepoznato,0
+2013,Broj,Ugljevik,Ukupno,Nepoznato,13
+2013,Broj,Ugljevik,M,Nepoznato,11
+2013,Broj,Ugljevik,Ž,Nepoznato,2
+2013,Broj,Foča,Ukupno,Nepoznato,12
+2013,Broj,Foča,M,Nepoznato,5
+2013,Broj,Foča,Ž,Nepoznato,7
+2013,Broj,Han Pijesak,Ukupno,Nepoznato,0
+2013,Broj,Han Pijesak,M,Nepoznato,0
+2013,Broj,Han Pijesak,Ž,Nepoznato,0
+2013,Broj,Čajniče,Ukupno,Nepoznato,5
+2013,Broj,Čajniče,M,Nepoznato,2
+2013,Broj,Čajniče,Ž,Nepoznato,3
+2013,Broj,Čelinac,Ukupno,Nepoznato,9
+2013,Broj,Čelinac,M,Nepoznato,4
+2013,Broj,Čelinac,Ž,Nepoznato,5
+2013,Broj,Šamac,Ukupno,Nepoznato,19
+2013,Broj,Šamac,M,Nepoznato,10
+2013,Broj,Šamac,Ž,Nepoznato,9
+2013,Broj,Šekovići,Ukupno,Nepoznato,8
+2013,Broj,Šekovići,M,Nepoznato,3
+2013,Broj,Šekovići,Ž,Nepoznato,5
+2013,Broj,Šipovo,Ukupno,Nepoznato,5
+2013,Broj,Šipovo,M,Nepoznato,3
+2013,Broj,Šipovo,Ž,Nepoznato,2

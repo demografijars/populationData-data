@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -112,18 +112,18 @@
             "constraints": {
               "enum": [
                 "Ukupno",
-                "Musliman",
-                "Katolik",
-                "Pravoslavac",
+                "Islamska",
+                "Katolička",
+                "Pravoslavna",
                 "Agnostik",
-                "Ateista",
-                "Druge religije",
-                "Neopredijeljen",
-                "Nepoznata religija",
+                "Ateist",
+                "Ostali",
+                "Ne izjašnjava se",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Religija"
+            "title": "Vjeroispovjest"
           },
           {
             "name": "Value",

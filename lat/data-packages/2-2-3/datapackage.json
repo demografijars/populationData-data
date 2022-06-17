@@ -91,7 +91,7 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
@@ -115,8 +115,8 @@
                 "Bosanski",
                 "Hrvatski",
                 "Srpski",
-                "Drugi jezici",
-                "Nepoznat jezik",
+                "Ostali",
+                "Nepoznato",
                 ""
               ]
             },

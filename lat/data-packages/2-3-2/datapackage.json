@@ -91,19 +91,19 @@
                 ""
               ]
             },
-            "title": "Administrativna oblast"
+            "title": "Grad/opština"
           },
           {
             "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obavljanje poljoprivredne djelatnosti",
-                "Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu",
+                "Obavljanje poljoprivredne aktivnosti",
+                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
                 ""
               ]
             },
-            "title": "Poljoprivredna djelatnost"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
