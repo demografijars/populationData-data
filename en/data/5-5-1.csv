@@ -1,9 +1,9 @@
 Year,UNIT_MEASURE,Type of education,Sex,Value
-2016,Number,Master of science studies,Both sexes,59
-2017,Number,Master of science studies,Both sexes,31
-2018,Number,Master of science studies,Both sexes,14
-2019,Number,Master of science studies,Both sexes,16
-2020,Number,Master of science studies,Both sexes,4
+2016,Number,Master of science studies,Total,59
+2017,Number,Master of science studies,Total,31
+2018,Number,Master of science studies,Total,14
+2019,Number,Master of science studies,Total,16
+2020,Number,Master of science studies,Total,4
 2016,Number,Master of science studies,M,37
 2017,Number,Master of science studies,M,21
 2018,Number,Master of science studies,M,6
@@ -14,11 +14,11 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Master of science studies,F,8
 2019,Number,Master of science studies,F,4
 2020,Number,Master of science studies,F,1
-2016,Number,Master studies,Both sexes,2456
-2017,Number,Master studies,Both sexes,2140
-2018,Number,Master studies,Both sexes,2144
-2019,Number,Master studies,Both sexes,2109
-2020,Number,Master studies,Both sexes,2430
+2016,Number,Master studies,Total,2456
+2017,Number,Master studies,Total,2140
+2018,Number,Master studies,Total,2144
+2019,Number,Master studies,Total,2109
+2020,Number,Master studies,Total,2430
 2016,Number,Master studies,M,1048
 2017,Number,Master studies,M,917
 2018,Number,Master studies,M,937
@@ -29,11 +29,11 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Master studies,F,1207
 2019,Number,Master studies,F,1179
 2020,Number,Master studies,F,1394
-2016,Number,Specialist studies,Both sexes,71
-2017,Number,Specialist studies,Both sexes,73
-2018,Number,Specialist studies,Both sexes,160
-2019,Number,Specialist studies,Both sexes,170
-2020,Number,Specialist studies,Both sexes,170
+2016,Number,Specialist studies,Total,71
+2017,Number,Specialist studies,Total,73
+2018,Number,Specialist studies,Total,160
+2019,Number,Specialist studies,Total,170
+2020,Number,Specialist studies,Total,170
 2016,Number,Specialist studies,M,28
 2017,Number,Specialist studies,M,34
 2018,Number,Specialist studies,M,66

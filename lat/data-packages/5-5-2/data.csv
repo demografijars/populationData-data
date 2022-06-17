@@ -1,15 +1,15 @@
 Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
-2017,Broj,Ukupno,Magistarske studije,Oba pola,2140
-2017,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Oba pola,67
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Oba pola,347
-2017,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Oba pola,99
-2017,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Oba pola,35
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Oba pola,206
-2017,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Oba pola,473
-2017,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Oba pola,356
-2017,Broj,Obrazovanje,Magistarske studije,Oba pola,236
-2017,Broj,Umjetnost i humanističke nauke,Magistarske studije,Oba pola,319
-2017,Broj,Usluge,Magistarske studije,Oba pola,2
+2017,Broj,Ukupno,Magistarske studije,Ukupno,2140
+2017,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Ukupno,67
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Ukupno,347
+2017,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Ukupno,99
+2017,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Ukupno,35
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Ukupno,206
+2017,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Ukupno,473
+2017,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Ukupno,356
+2017,Broj,Obrazovanje,Magistarske studije,Ukupno,236
+2017,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ukupno,319
+2017,Broj,Usluge,Magistarske studije,Ukupno,2
 2017,Broj,Ukupno,Magistarske studije,M,917
 2017,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,M,26
 2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,M,208
@@ -32,17 +32,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2017,Broj,Obrazovanje,Magistarske studije,Ž,197
 2017,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ž,177
 2017,Broj,Usluge,Magistarske studije,Ž,2
-2017,Broj,Ukupno,Master studije,Oba pola,31
-2017,Broj,"Prirodne nauke, matematika i statistika",Master studije,Oba pola,1
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Oba pola,0
-2017,Broj,Informacione i komunikacione tehnologije,Master studije,Oba pola,22
-2017,Broj,Zdravstvo i socijalna zaštita,Master studije,Oba pola,0
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Oba pola,0
-2017,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Oba pola,0
-2017,Broj,"Poslovanje, administracija i pravo",Master studije,Oba pola,2
-2017,Broj,Obrazovanje,Master studije,Oba pola,1
-2017,Broj,Umjetnost i humanističke nauke,Master studije,Oba pola,5
-2017,Broj,Usluge,Master studije,Oba pola,0
+2017,Broj,Ukupno,Master studije,Ukupno,31
+2017,Broj,"Prirodne nauke, matematika i statistika",Master studije,Ukupno,1
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Ukupno,0
+2017,Broj,Informacione i komunikacione tehnologije,Master studije,Ukupno,22
+2017,Broj,Zdravstvo i socijalna zaštita,Master studije,Ukupno,0
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Ukupno,0
+2017,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Ukupno,0
+2017,Broj,"Poslovanje, administracija i pravo",Master studije,Ukupno,2
+2017,Broj,Obrazovanje,Master studije,Ukupno,1
+2017,Broj,Umjetnost i humanističke nauke,Master studije,Ukupno,5
+2017,Broj,Usluge,Master studije,Ukupno,0
 2017,Broj,Ukupno,Master studije,M,21
 2017,Broj,"Prirodne nauke, matematika i statistika",Master studije,M,0
 2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,M,0
@@ -65,17 +65,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2017,Broj,Obrazovanje,Master studije,Ž,1
 2017,Broj,Umjetnost i humanističke nauke,Master studije,Ž,0
 2017,Broj,Usluge,Master studije,Ž,0
-2017,Broj,Ukupno,Specijalističke studije,Oba pola,73
-2017,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Oba pola,0
-2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Oba pola,0
-2017,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Oba pola,0
-2017,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Oba pola,71
-2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Oba pola,0
-2017,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Oba pola,1
-2017,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Oba pola,1
-2017,Broj,Obrazovanje,Specijalističke studije,Oba pola,0
-2017,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Oba pola,0
-2017,Broj,Usluge,Specijalističke studije,Oba pola,0
+2017,Broj,Ukupno,Specijalističke studije,Ukupno,73
+2017,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Ukupno,0
+2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Ukupno,0
+2017,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Ukupno,0
+2017,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Ukupno,71
+2017,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Ukupno,0
+2017,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Ukupno,1
+2017,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Ukupno,1
+2017,Broj,Obrazovanje,Specijalističke studije,Ukupno,0
+2017,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ukupno,0
+2017,Broj,Usluge,Specijalističke studije,Ukupno,0
 2017,Broj,Ukupno,Specijalističke studije,M,34
 2017,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,M,0
 2017,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,M,0
@@ -98,17 +98,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2017,Broj,Obrazovanje,Specijalističke studije,Ž,0
 2017,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ž,0
 2017,Broj,Usluge,Specijalističke studije,Ž,0
-2018,Broj,Ukupno,Magistarske studije,Oba pola,14
-2018,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Oba pola,0
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Oba pola,0
-2018,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Oba pola,0
-2018,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Oba pola,0
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Oba pola,1
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Oba pola,1
-2018,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Oba pola,0
-2018,Broj,Obrazovanje,Magistarske studije,Oba pola,9
-2018,Broj,Umjetnost i humanističke nauke,Magistarske studije,Oba pola,3
-2018,Broj,Usluge,Magistarske studije,Oba pola,0
+2018,Broj,Ukupno,Magistarske studije,Ukupno,14
+2018,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Ukupno,0
+2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Ukupno,0
+2018,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Ukupno,0
+2018,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Ukupno,0
+2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Ukupno,1
+2018,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Ukupno,1
+2018,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Ukupno,0
+2018,Broj,Obrazovanje,Magistarske studije,Ukupno,9
+2018,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ukupno,3
+2018,Broj,Usluge,Magistarske studije,Ukupno,0
 2018,Broj,Ukupno,Magistarske studije,M,6
 2018,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,M,0
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,M,0
@@ -131,17 +131,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2018,Broj,Obrazovanje,Magistarske studije,Ž,7
 2018,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ž,0
 2018,Broj,Usluge,Magistarske studije,Ž,0
-2018,Broj,Ukupno,Master studije,Oba pola,2144
-2018,Broj,"Prirodne nauke, matematika i statistika",Master studije,Oba pola,76
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Oba pola,362
-2018,Broj,Informacione i komunikacione tehnologije,Master studije,Oba pola,120
-2018,Broj,Zdravstvo i socijalna zaštita,Master studije,Oba pola,42
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Oba pola,189
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Oba pola,503
-2018,Broj,"Poslovanje, administracija i pravo",Master studije,Oba pola,240
-2018,Broj,Obrazovanje,Master studije,Oba pola,314
-2018,Broj,Umjetnost i humanističke nauke,Master studije,Oba pola,291
-2018,Broj,Usluge,Master studije,Oba pola,7
+2018,Broj,Ukupno,Master studije,Ukupno,2144
+2018,Broj,"Prirodne nauke, matematika i statistika",Master studije,Ukupno,76
+2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Ukupno,362
+2018,Broj,Informacione i komunikacione tehnologije,Master studije,Ukupno,120
+2018,Broj,Zdravstvo i socijalna zaštita,Master studije,Ukupno,42
+2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Ukupno,189
+2018,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Ukupno,503
+2018,Broj,"Poslovanje, administracija i pravo",Master studije,Ukupno,240
+2018,Broj,Obrazovanje,Master studije,Ukupno,314
+2018,Broj,Umjetnost i humanističke nauke,Master studije,Ukupno,291
+2018,Broj,Usluge,Master studije,Ukupno,7
 2018,Broj,Ukupno,Master studije,M,937
 2018,Broj,"Prirodne nauke, matematika i statistika",Master studije,M,28
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,M,229
@@ -164,17 +164,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2018,Broj,Obrazovanje,Master studije,Ž,211
 2018,Broj,Umjetnost i humanističke nauke,Master studije,Ž,158
 2018,Broj,Usluge,Master studije,Ž,4
-2018,Broj,Ukupno,Specijalističke studije,Oba pola,160
-2018,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Oba pola,0
-2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Oba pola,0
-2018,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Oba pola,0
-2018,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Oba pola,156
-2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Oba pola,0
-2018,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Oba pola,1
-2018,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Oba pola,0
-2018,Broj,Obrazovanje,Specijalističke studije,Oba pola,2
-2018,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Oba pola,1
-2018,Broj,Usluge,Specijalističke studije,Oba pola,0
+2018,Broj,Ukupno,Specijalističke studije,Ukupno,160
+2018,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Ukupno,0
+2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Ukupno,0
+2018,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Ukupno,0
+2018,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Ukupno,156
+2018,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Ukupno,0
+2018,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Ukupno,1
+2018,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Ukupno,0
+2018,Broj,Obrazovanje,Specijalističke studije,Ukupno,2
+2018,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ukupno,1
+2018,Broj,Usluge,Specijalističke studije,Ukupno,0
 2018,Broj,Ukupno,Specijalističke studije,M,66
 2018,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,M,0
 2018,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,M,0
@@ -197,17 +197,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2018,Broj,Obrazovanje,Specijalističke studije,Ž,2
 2018,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ž,0
 2018,Broj,Usluge,Specijalističke studije,Ž,0
-2019,Broj,Ukupno,Magistarske studije,Oba pola,16
-2019,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Oba pola,0
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Oba pola,13
-2019,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Oba pola,0
-2019,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Oba pola,0
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Oba pola,0
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Oba pola,0
-2019,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Oba pola,0
-2019,Broj,Obrazovanje,Magistarske studije,Oba pola,2
-2019,Broj,Umjetnost i humanističke nauke,Magistarske studije,Oba pola,1
-2019,Broj,Usluge,Magistarske studije,Oba pola,0
+2019,Broj,Ukupno,Magistarske studije,Ukupno,16
+2019,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Ukupno,0
+2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Ukupno,13
+2019,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Ukupno,0
+2019,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Ukupno,0
+2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Ukupno,0
+2019,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Ukupno,0
+2019,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Ukupno,0
+2019,Broj,Obrazovanje,Magistarske studije,Ukupno,2
+2019,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ukupno,1
+2019,Broj,Usluge,Magistarske studije,Ukupno,0
 2019,Broj,Ukupno,Magistarske studije,M,12
 2019,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,M,0
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,M,10
@@ -230,17 +230,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2019,Broj,Obrazovanje,Magistarske studije,Ž,1
 2019,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ž,0
 2019,Broj,Usluge,Magistarske studije,Ž,0
-2019,Broj,Ukupno,Master studije,Oba pola,2109
-2019,Broj,"Prirodne nauke, matematika i statistika",Master studije,Oba pola,79
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Oba pola,394
-2019,Broj,Informacione i komunikacione tehnologije,Master studije,Oba pola,80
-2019,Broj,Zdravstvo i socijalna zaštita,Master studije,Oba pola,45
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Oba pola,188
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Oba pola,492
-2019,Broj,"Poslovanje, administracija i pravo",Master studije,Oba pola,236
-2019,Broj,Obrazovanje,Master studije,Oba pola,298
-2019,Broj,Umjetnost i humanističke nauke,Master studije,Oba pola,291
-2019,Broj,Usluge,Master studije,Oba pola,6
+2019,Broj,Ukupno,Master studije,Ukupno,2109
+2019,Broj,"Prirodne nauke, matematika i statistika",Master studije,Ukupno,79
+2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Ukupno,394
+2019,Broj,Informacione i komunikacione tehnologije,Master studije,Ukupno,80
+2019,Broj,Zdravstvo i socijalna zaštita,Master studije,Ukupno,45
+2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Ukupno,188
+2019,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Ukupno,492
+2019,Broj,"Poslovanje, administracija i pravo",Master studije,Ukupno,236
+2019,Broj,Obrazovanje,Master studije,Ukupno,298
+2019,Broj,Umjetnost i humanističke nauke,Master studije,Ukupno,291
+2019,Broj,Usluge,Master studije,Ukupno,6
 2019,Broj,Ukupno,Master studije,M,930
 2019,Broj,"Prirodne nauke, matematika i statistika",Master studije,M,22
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,M,243
@@ -263,17 +263,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2019,Broj,Obrazovanje,Master studije,Ž,194
 2019,Broj,Umjetnost i humanističke nauke,Master studije,Ž,149
 2019,Broj,Usluge,Master studije,Ž,3
-2019,Broj,Ukupno,Specijalističke studije,Oba pola,170
-2019,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Oba pola,0
-2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Oba pola,0
-2019,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Oba pola,0
-2019,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Oba pola,170
-2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Oba pola,0
-2019,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Oba pola,0
-2019,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Oba pola,0
-2019,Broj,Obrazovanje,Specijalističke studije,Oba pola,0
-2019,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Oba pola,0
-2019,Broj,Usluge,Specijalističke studije,Oba pola,0
+2019,Broj,Ukupno,Specijalističke studije,Ukupno,170
+2019,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Ukupno,0
+2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Ukupno,0
+2019,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Ukupno,0
+2019,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Ukupno,170
+2019,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Ukupno,0
+2019,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Ukupno,0
+2019,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Ukupno,0
+2019,Broj,Obrazovanje,Specijalističke studije,Ukupno,0
+2019,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ukupno,0
+2019,Broj,Usluge,Specijalističke studije,Ukupno,0
 2019,Broj,Ukupno,Specijalističke studije,M,72
 2019,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,M,0
 2019,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,M,0
@@ -296,17 +296,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2019,Broj,Obrazovanje,Specijalističke studije,Ž,0
 2019,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ž,0
 2019,Broj,Usluge,Specijalističke studije,Ž,0
-2020,Broj,Ukupno,Magistarske studije,Oba pola,4
-2020,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Oba pola,0
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Oba pola,0
-2020,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Oba pola,0
-2020,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Oba pola,0
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Oba pola,0
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Oba pola,0
-2020,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Oba pola,2
-2020,Broj,Obrazovanje,Magistarske studije,Oba pola,2
-2020,Broj,Umjetnost i humanističke nauke,Magistarske studije,Oba pola,0
-2020,Broj,Usluge,Magistarske studije,Oba pola,0
+2020,Broj,Ukupno,Magistarske studije,Ukupno,4
+2020,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,Ukupno,0
+2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,Ukupno,0
+2020,Broj,Informacione i komunikacione tehnologije,Magistarske studije,Ukupno,0
+2020,Broj,Zdravstvo i socijalna zaštita,Magistarske studije,Ukupno,0
+2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Magistarske studije,Ukupno,0
+2020,Broj,"Društvene nauke, novinarstvo i informisanje",Magistarske studije,Ukupno,0
+2020,Broj,"Poslovanje, administracija i pravo",Magistarske studije,Ukupno,2
+2020,Broj,Obrazovanje,Magistarske studije,Ukupno,2
+2020,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ukupno,0
+2020,Broj,Usluge,Magistarske studije,Ukupno,0
 2020,Broj,Ukupno,Magistarske studije,M,3
 2020,Broj,"Prirodne nauke, matematika i statistika",Magistarske studije,M,0
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Magistarske studije,M,0
@@ -329,17 +329,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2020,Broj,Obrazovanje,Magistarske studije,Ž,0
 2020,Broj,Umjetnost i humanističke nauke,Magistarske studije,Ž,0
 2020,Broj,Usluge,Magistarske studije,Ž,0
-2020,Broj,Ukupno,Master studije,Oba pola,2430
-2020,Broj,"Prirodne nauke, matematika i statistika",Master studije,Oba pola,93
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Oba pola,399
-2020,Broj,Informacione i komunikacione tehnologije,Master studije,Oba pola,117
-2020,Broj,Zdravstvo i socijalna zaštita,Master studije,Oba pola,52
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Oba pola,216
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Oba pola,619
-2020,Broj,"Poslovanje, administracija i pravo",Master studije,Oba pola,216
-2020,Broj,Obrazovanje,Master studije,Oba pola,381
-2020,Broj,Umjetnost i humanističke nauke,Master studije,Oba pola,328
-2020,Broj,Usluge,Master studije,Oba pola,9
+2020,Broj,Ukupno,Master studije,Ukupno,2430
+2020,Broj,"Prirodne nauke, matematika i statistika",Master studije,Ukupno,93
+2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,Ukupno,399
+2020,Broj,Informacione i komunikacione tehnologije,Master studije,Ukupno,117
+2020,Broj,Zdravstvo i socijalna zaštita,Master studije,Ukupno,52
+2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Master studije,Ukupno,216
+2020,Broj,"Društvene nauke, novinarstvo i informisanje",Master studije,Ukupno,619
+2020,Broj,"Poslovanje, administracija i pravo",Master studije,Ukupno,216
+2020,Broj,Obrazovanje,Master studije,Ukupno,381
+2020,Broj,Umjetnost i humanističke nauke,Master studije,Ukupno,328
+2020,Broj,Usluge,Master studije,Ukupno,9
 2020,Broj,Ukupno,Master studije,M,1036
 2020,Broj,"Prirodne nauke, matematika i statistika",Master studije,M,26
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Master studije,M,252
@@ -362,17 +362,17 @@ Year,UNIT_MEASURE,Naučna oblast,Vrsta obrazovanja,Pol,Value
 2020,Broj,Obrazovanje,Master studije,Ž,252
 2020,Broj,Umjetnost i humanističke nauke,Master studije,Ž,186
 2020,Broj,Usluge,Master studije,Ž,6
-2020,Broj,Ukupno,Specijalističke studije,Oba pola,170
-2020,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Oba pola,0
-2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Oba pola,0
-2020,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Oba pola,0
-2020,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Oba pola,170
-2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Oba pola,0
-2020,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Oba pola,0
-2020,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Oba pola,0
-2020,Broj,Obrazovanje,Specijalističke studije,Oba pola,0
-2020,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Oba pola,0
-2020,Broj,Usluge,Specijalističke studije,Oba pola,0
+2020,Broj,Ukupno,Specijalističke studije,Ukupno,170
+2020,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,Ukupno,0
+2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,Ukupno,0
+2020,Broj,Informacione i komunikacione tehnologije,Specijalističke studije,Ukupno,0
+2020,Broj,Zdravstvo i socijalna zaštita,Specijalističke studije,Ukupno,170
+2020,Broj,"Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",Specijalističke studije,Ukupno,0
+2020,Broj,"Društvene nauke, novinarstvo i informisanje",Specijalističke studije,Ukupno,0
+2020,Broj,"Poslovanje, administracija i pravo",Specijalističke studije,Ukupno,0
+2020,Broj,Obrazovanje,Specijalističke studije,Ukupno,0
+2020,Broj,Umjetnost i humanističke nauke,Specijalističke studije,Ukupno,0
+2020,Broj,Usluge,Specijalističke studije,Ukupno,0
 2020,Broj,Ukupno,Specijalističke studije,M,39
 2020,Broj,"Prirodne nauke, matematika i statistika",Specijalističke studije,M,0
 2020,Broj,"Inženjerstvo, proizvodnja i građevinarstvo",Specijalističke studije,M,0

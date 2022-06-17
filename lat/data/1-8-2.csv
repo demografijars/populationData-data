@@ -1,24 +1,24 @@
 Year,UNIT_MEASURE,Age_group,Pol,Value
-2013,Broj,Ukupno,Oba pola,1171179
-2013,Broj,0-4,Oba pola,53563
-2013,Broj,5-9,Oba pola,54042
-2013,Broj,10-14,Oba pola,58024
-2013,Broj,15-19,Oba pola,69969
-2013,Broj,20-24,Oba pola,66641
-2013,Broj,25-29,Oba pola,77070
-2013,Broj,30-34,Oba pola,80560
-2013,Broj,35-39,Oba pola,80521
-2013,Broj,40-44,Oba pola,75966
-2013,Broj,45-49,Oba pola,83519
-2013,Broj,50-54,Oba pola,92008
-2013,Broj,55-59,Oba pola,94412
-2013,Broj,60-64,Oba pola,85773
-2013,Broj,65-69,Oba pola,59309
-2013,Broj,70-74,Oba pola,56085
-2013,Broj,75-79,Oba pola,47377
-2013,Broj,80-84,Oba pola,25370
-2013,Broj,85-89,Oba pola,8869
-2013,Broj,90 +,Oba pola,2101
+2013,Broj,Ukupno,Ukupno,1171179
+2013,Broj,0-4,Ukupno,53563
+2013,Broj,5-9,Ukupno,54042
+2013,Broj,10-14,Ukupno,58024
+2013,Broj,15-19,Ukupno,69969
+2013,Broj,20-24,Ukupno,66641
+2013,Broj,25-29,Ukupno,77070
+2013,Broj,30-34,Ukupno,80560
+2013,Broj,35-39,Ukupno,80521
+2013,Broj,40-44,Ukupno,75966
+2013,Broj,45-49,Ukupno,83519
+2013,Broj,50-54,Ukupno,92008
+2013,Broj,55-59,Ukupno,94412
+2013,Broj,60-64,Ukupno,85773
+2013,Broj,65-69,Ukupno,59309
+2013,Broj,70-74,Ukupno,56085
+2013,Broj,75-79,Ukupno,47377
+2013,Broj,80-84,Ukupno,25370
+2013,Broj,85-89,Ukupno,8869
+2013,Broj,90 +,Ukupno,2101
 2013,Broj,Ukupno,M,572298
 2013,Broj,0-4,M,27499
 2013,Broj,5-9,M,27681
@@ -59,26 +59,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2013,Broj,80-84,Ž,15797
 2013,Broj,85-89,Ž,5892
 2013,Broj,90 +,Ž,1484
-2014,Broj,Ukupno,Oba pola,1167082
-2014,Broj,0-4,Oba pola,51846
-2014,Broj,5-9,Oba pola,54417
-2014,Broj,10-14,Oba pola,56601
-2014,Broj,15-19,Oba pola,69432
-2014,Broj,20-24,Oba pola,65038
-2014,Broj,25-29,Oba pola,75296
-2014,Broj,30-34,Oba pola,80722
-2014,Broj,35-39,Oba pola,80852
-2014,Broj,40-44,Oba pola,76216
-2014,Broj,45-49,Oba pola,81515
-2014,Broj,50-54,Oba pola,89781
-2014,Broj,55-59,Oba pola,93123
-2014,Broj,60-64,Oba pola,88482
-2014,Broj,65-69,Oba pola,64182
-2014,Broj,70-74,Oba pola,52482
-2014,Broj,75-79,Oba pola,48465
-2014,Broj,80-84,Oba pola,26497
-2014,Broj,85-89,Oba pola,9835
-2014,Broj,90 +,Oba pola,2300
+2014,Broj,Ukupno,Ukupno,1167082
+2014,Broj,0-4,Ukupno,51846
+2014,Broj,5-9,Ukupno,54417
+2014,Broj,10-14,Ukupno,56601
+2014,Broj,15-19,Ukupno,69432
+2014,Broj,20-24,Ukupno,65038
+2014,Broj,25-29,Ukupno,75296
+2014,Broj,30-34,Ukupno,80722
+2014,Broj,35-39,Ukupno,80852
+2014,Broj,40-44,Ukupno,76216
+2014,Broj,45-49,Ukupno,81515
+2014,Broj,50-54,Ukupno,89781
+2014,Broj,55-59,Ukupno,93123
+2014,Broj,60-64,Ukupno,88482
+2014,Broj,65-69,Ukupno,64182
+2014,Broj,70-74,Ukupno,52482
+2014,Broj,75-79,Ukupno,48465
+2014,Broj,80-84,Ukupno,26497
+2014,Broj,85-89,Ukupno,9835
+2014,Broj,90 +,Ukupno,2300
 2014,Broj,Ukupno,M,570176
 2014,Broj,0-4,M,26590
 2014,Broj,5-9,M,27911
@@ -119,26 +119,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2014,Broj,80-84,Ž,16603
 2014,Broj,85-89,Ž,6405
 2014,Broj,90 +,Ž,1626
-2015,Broj,Ukupno,Oba pola,1162164
-2015,Broj,0-4,Oba pola,50067
-2015,Broj,5-9,Oba pola,54755
-2015,Broj,10-14,Oba pola,55647
-2015,Broj,15-19,Oba pola,66727
-2015,Broj,20-24,Oba pola,65603
-2015,Broj,25-29,Oba pola,73297
-2015,Broj,30-34,Oba pola,80365
-2015,Broj,35-39,Oba pola,81003
-2015,Broj,40-44,Oba pola,77328
-2015,Broj,45-49,Oba pola,78838
-2015,Broj,50-54,Oba pola,87925
-2015,Broj,55-59,Oba pola,91658
-2015,Broj,60-64,Oba pola,90125
-2015,Broj,65-69,Oba pola,70039
-2015,Broj,70-74,Oba pola,48676
-2015,Broj,75-79,Oba pola,49216
-2015,Broj,80-84,Oba pola,27692
-2015,Broj,85-89,Oba pola,10696
-2015,Broj,90 +,Oba pola,2507
+2015,Broj,Ukupno,Ukupno,1162164
+2015,Broj,0-4,Ukupno,50067
+2015,Broj,5-9,Ukupno,54755
+2015,Broj,10-14,Ukupno,55647
+2015,Broj,15-19,Ukupno,66727
+2015,Broj,20-24,Ukupno,65603
+2015,Broj,25-29,Ukupno,73297
+2015,Broj,30-34,Ukupno,80365
+2015,Broj,35-39,Ukupno,81003
+2015,Broj,40-44,Ukupno,77328
+2015,Broj,45-49,Ukupno,78838
+2015,Broj,50-54,Ukupno,87925
+2015,Broj,55-59,Ukupno,91658
+2015,Broj,60-64,Ukupno,90125
+2015,Broj,65-69,Ukupno,70039
+2015,Broj,70-74,Ukupno,48676
+2015,Broj,75-79,Ukupno,49216
+2015,Broj,80-84,Ukupno,27692
+2015,Broj,85-89,Ukupno,10696
+2015,Broj,90 +,Ukupno,2507
 2015,Broj,Ukupno,M,567711
 2015,Broj,0-4,M,25709
 2015,Broj,5-9,M,28072
@@ -179,26 +179,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2015,Broj,80-84,Ž,17407
 2015,Broj,85-89,Ž,6905
 2015,Broj,90 +,Ž,1758
-2016,Broj,Ukupno,Oba pola,1157516
-2016,Broj,0-4,Oba pola,48734
-2016,Broj,5-9,Oba pola,54692
-2016,Broj,10-14,Oba pola,54647
-2016,Broj,15-19,Oba pola,63924
-2016,Broj,20-24,Oba pola,66283
-2016,Broj,25-29,Oba pola,71750
-2016,Broj,30-34,Oba pola,79504
-2016,Broj,35-39,Oba pola,80647
-2016,Broj,40-44,Oba pola,78874
-2016,Broj,45-49,Oba pola,76424
-2016,Broj,50-54,Oba pola,86398
-2016,Broj,55-59,Oba pola,90613
-2016,Broj,60-64,Oba pola,91762
-2016,Broj,65-69,Oba pola,73686
-2016,Broj,70-74,Oba pola,47137
-2016,Broj,75-79,Oba pola,49174
-2016,Broj,80-84,Oba pola,29104
-2016,Broj,85-89,Oba pola,11443
-2016,Broj,90 +,Oba pola,2720
+2016,Broj,Ukupno,Ukupno,1157516
+2016,Broj,0-4,Ukupno,48734
+2016,Broj,5-9,Ukupno,54692
+2016,Broj,10-14,Ukupno,54647
+2016,Broj,15-19,Ukupno,63924
+2016,Broj,20-24,Ukupno,66283
+2016,Broj,25-29,Ukupno,71750
+2016,Broj,30-34,Ukupno,79504
+2016,Broj,35-39,Ukupno,80647
+2016,Broj,40-44,Ukupno,78874
+2016,Broj,45-49,Ukupno,76424
+2016,Broj,50-54,Ukupno,86398
+2016,Broj,55-59,Ukupno,90613
+2016,Broj,60-64,Ukupno,91762
+2016,Broj,65-69,Ukupno,73686
+2016,Broj,70-74,Ukupno,47137
+2016,Broj,75-79,Ukupno,49174
+2016,Broj,80-84,Ukupno,29104
+2016,Broj,85-89,Ukupno,11443
+2016,Broj,90 +,Ukupno,2720
 2016,Broj,Ukupno,M,565368
 2016,Broj,0-4,M,25099
 2016,Broj,5-9,M,28032
@@ -239,26 +239,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2016,Broj,80-84,Ž,18285
 2016,Broj,85-89,Ž,7366
 2016,Broj,90 +,Ž,1898
-2017,Broj,Ukupno,Oba pola,1153017
-2017,Broj,0-4,Oba pola,47669
-2017,Broj,5-9,Oba pola,54425
-2017,Broj,10-14,Oba pola,54011
-2017,Broj,15-19,Oba pola,60988
-2017,Broj,20-24,Oba pola,67578
-2017,Broj,25-29,Oba pola,69711
-2017,Broj,30-34,Oba pola,78413
-2017,Broj,35-39,Oba pola,80313
-2017,Broj,40-44,Oba pola,79628
-2017,Broj,45-49,Oba pola,75563
-2017,Broj,50-54,Oba pola,84512
-2017,Broj,55-59,Oba pola,90210
-2017,Broj,60-64,Oba pola,91623
-2017,Broj,65-69,Oba pola,76077
-2017,Broj,70-74,Oba pola,49170
-2017,Broj,75-79,Oba pola,47544
-2017,Broj,80-84,Oba pola,30644
-2017,Broj,85-89,Oba pola,12003
-2017,Broj,90 +,Oba pola,2935
+2017,Broj,Ukupno,Ukupno,1153017
+2017,Broj,0-4,Ukupno,47669
+2017,Broj,5-9,Ukupno,54425
+2017,Broj,10-14,Ukupno,54011
+2017,Broj,15-19,Ukupno,60988
+2017,Broj,20-24,Ukupno,67578
+2017,Broj,25-29,Ukupno,69711
+2017,Broj,30-34,Ukupno,78413
+2017,Broj,35-39,Ukupno,80313
+2017,Broj,40-44,Ukupno,79628
+2017,Broj,45-49,Ukupno,75563
+2017,Broj,50-54,Ukupno,84512
+2017,Broj,55-59,Ukupno,90210
+2017,Broj,60-64,Ukupno,91623
+2017,Broj,65-69,Ukupno,76077
+2017,Broj,70-74,Ukupno,49170
+2017,Broj,75-79,Ukupno,47544
+2017,Broj,80-84,Ukupno,30644
+2017,Broj,85-89,Ukupno,12003
+2017,Broj,90 +,Ukupno,2935
 2017,Broj,Ukupno,M,563187
 2017,Broj,0-4,M,24658
 2017,Broj,5-9,M,27909
@@ -299,26 +299,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2017,Broj,80-84,Ž,19165
 2017,Broj,85-89,Ž,7700
 2017,Broj,90 +,Ž,2020
-2018,Broj,Ukupno,Oba pola,1147902
-2018,Broj,0-4,Oba pola,46783
-2018,Broj,5-9,Oba pola,53561
-2018,Broj,10-14,Oba pola,53979
-2018,Broj,15-19,Oba pola,58248
-2018,Broj,20-24,Oba pola,69375
-2018,Broj,25-29,Oba pola,66608
-2018,Broj,30-34,Oba pola,77062
-2018,Broj,35-39,Oba pola,80370
-2018,Broj,40-44,Oba pola,80022
-2018,Broj,45-49,Oba pola,75372
-2018,Broj,50-54,Oba pola,82290
-2018,Broj,55-59,Oba pola,89379
-2018,Broj,60-64,Oba pola,90342
-2018,Broj,65-69,Oba pola,79067
-2018,Broj,70-74,Oba pola,52446
-2018,Broj,75-79,Oba pola,45216
-2018,Broj,80-84,Oba pola,31930
-2018,Broj,85-89,Oba pola,12742
-2018,Broj,90 +,Oba pola,3110
+2018,Broj,Ukupno,Ukupno,1147902
+2018,Broj,0-4,Ukupno,46783
+2018,Broj,5-9,Ukupno,53561
+2018,Broj,10-14,Ukupno,53979
+2018,Broj,15-19,Ukupno,58248
+2018,Broj,20-24,Ukupno,69375
+2018,Broj,25-29,Ukupno,66608
+2018,Broj,30-34,Ukupno,77062
+2018,Broj,35-39,Ukupno,80370
+2018,Broj,40-44,Ukupno,80022
+2018,Broj,45-49,Ukupno,75372
+2018,Broj,50-54,Ukupno,82290
+2018,Broj,55-59,Ukupno,89379
+2018,Broj,60-64,Ukupno,90342
+2018,Broj,65-69,Ukupno,79067
+2018,Broj,70-74,Ukupno,52446
+2018,Broj,75-79,Ukupno,45216
+2018,Broj,80-84,Ukupno,31930
+2018,Broj,85-89,Ukupno,12742
+2018,Broj,90 +,Ukupno,3110
 2018,Broj,Ukupno,M,560795
 2018,Broj,0-4,M,24321
 2018,Broj,5-9,M,27463
@@ -359,26 +359,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2018,Broj,80-84,Ž,19855
 2018,Broj,85-89,Ž,8178
 2018,Broj,90 +,Ž,2108
-2019,Broj,Ukupno,Oba pola,1142495
-2019,Broj,0-4,Oba pola,46989
-2019,Broj,5-9,Oba pola,51849
-2019,Broj,10-14,Oba pola,54340
-2019,Broj,15-19,Oba pola,56767
-2019,Broj,20-24,Oba pola,68958
-2019,Broj,25-29,Oba pola,65048
-2019,Broj,30-34,Oba pola,75240
-2019,Broj,35-39,Oba pola,80574
-2019,Broj,40-44,Oba pola,80242
-2019,Broj,45-49,Oba pola,75535
-2019,Broj,50-54,Oba pola,80297
-2019,Broj,55-59,Oba pola,87300
-2019,Broj,60-64,Oba pola,88926
-2019,Broj,65-69,Oba pola,81485
-2019,Broj,70-74,Oba pola,56623
-2019,Broj,75-79,Oba pola,42470
-2019,Broj,80-84,Oba pola,32745
-2019,Broj,85-89,Oba pola,13503
-2019,Broj,90 +,Oba pola,3604
+2019,Broj,Ukupno,Ukupno,1142495
+2019,Broj,0-4,Ukupno,46989
+2019,Broj,5-9,Ukupno,51849
+2019,Broj,10-14,Ukupno,54340
+2019,Broj,15-19,Ukupno,56767
+2019,Broj,20-24,Ukupno,68958
+2019,Broj,25-29,Ukupno,65048
+2019,Broj,30-34,Ukupno,75240
+2019,Broj,35-39,Ukupno,80574
+2019,Broj,40-44,Ukupno,80242
+2019,Broj,45-49,Ukupno,75535
+2019,Broj,50-54,Ukupno,80297
+2019,Broj,55-59,Ukupno,87300
+2019,Broj,60-64,Ukupno,88926
+2019,Broj,65-69,Ukupno,81485
+2019,Broj,70-74,Ukupno,56623
+2019,Broj,75-79,Ukupno,42470
+2019,Broj,80-84,Ukupno,32745
+2019,Broj,85-89,Ukupno,13503
+2019,Broj,90 +,Ukupno,3604
 2019,Broj,Ukupno,M,558093
 2019,Broj,0-4,M,24499
 2019,Broj,5-9,M,26577
@@ -419,26 +419,26 @@ Year,UNIT_MEASURE,Age_group,Pol,Value
 2019,Broj,80-84,Ž,20251
 2019,Broj,85-89,Ž,8721
 2019,Broj,90 +,Ž,2375
-2020,Broj,Ukupno,Oba pola,1136274
-2020,Broj,0-4,Oba pola,46766
-2020,Broj,5-9,Oba pola,50140
-2020,Broj,10-14,Oba pola,54624
-2020,Broj,15-19,Oba pola,55722
-2020,Broj,20-24,Oba pola,66540
-2020,Broj,25-29,Oba pola,65512
-2020,Broj,30-34,Oba pola,73246
-2020,Broj,35-39,Oba pola,80317
-2020,Broj,40-44,Oba pola,80441
-2020,Broj,45-49,Oba pola,76443
-2020,Broj,50-54,Oba pola,77704
-2020,Broj,55-59,Oba pola,85566
-2020,Broj,60-64,Oba pola,87281
-2020,Broj,65-69,Oba pola,83151
-2020,Broj,70-74,Oba pola,61635
-2020,Broj,75-79,Oba pola,39518
-2020,Broj,80-84,Oba pola,33481
-2020,Broj,85-89,Oba pola,14165
-2020,Broj,90 +,Oba pola,4022
+2020,Broj,Ukupno,Ukupno,1136274
+2020,Broj,0-4,Ukupno,46766
+2020,Broj,5-9,Ukupno,50140
+2020,Broj,10-14,Ukupno,54624
+2020,Broj,15-19,Ukupno,55722
+2020,Broj,20-24,Ukupno,66540
+2020,Broj,25-29,Ukupno,65512
+2020,Broj,30-34,Ukupno,73246
+2020,Broj,35-39,Ukupno,80317
+2020,Broj,40-44,Ukupno,80441
+2020,Broj,45-49,Ukupno,76443
+2020,Broj,50-54,Ukupno,77704
+2020,Broj,55-59,Ukupno,85566
+2020,Broj,60-64,Ukupno,87281
+2020,Broj,65-69,Ukupno,83151
+2020,Broj,70-74,Ukupno,61635
+2020,Broj,75-79,Ukupno,39518
+2020,Broj,80-84,Ukupno,33481
+2020,Broj,85-89,Ukupno,14165
+2020,Broj,90 +,Ukupno,4022
 2020,Broj,Ukupno,M,557422
 2020,Broj,0-4,M,24479
 2020,Broj,5-9,M,25854

@@ -1,15 +1,15 @@
 Year,UNIT_MEASURE,Scientific field,Sex,Value
-2017,Number,Total,Both sexes,534
-2017,Number,"Social sciences, journalism and information",Both sexes,100
-2017,Number,Arts and humanities,Both sexes,100
-2017,Number,Information and communication technologies,Both sexes,17
-2017,Number,"Engineering, manufacturing and construction",Both sexes,32
-2017,Number,Education,Both sexes,51
-2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,20
-2017,Number,"Business, administration and law",Both sexes,80
-2017,Number,"Natural sciences, mathematics and statistics",Both sexes,15
-2017,Number,Services,Both sexes,1
-2017,Number,Health and social protection,Both sexes,118
+2017,Number,Total,Total,534
+2017,Number,"Social sciences, journalism and information",Total,100
+2017,Number,Arts and humanities,Total,100
+2017,Number,Information and communication technologies,Total,17
+2017,Number,"Engineering, manufacturing and construction",Total,32
+2017,Number,Education,Total,51
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,20
+2017,Number,"Business, administration and law",Total,80
+2017,Number,"Natural sciences, mathematics and statistics",Total,15
+2017,Number,Services,Total,1
+2017,Number,Health and social protection,Total,118
 2017,Number,Total,M,252
 2017,Number,"Social sciences, journalism and information",M,45
 2017,Number,Arts and humanities,M,49
@@ -32,17 +32,17 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2017,Number,"Natural sciences, mathematics and statistics",F,9
 2017,Number,Services,F,0
 2017,Number,Health and social protection,F,70
-2018,Number,Total,Both sexes,530
-2018,Number,"Social sciences, journalism and information",Both sexes,101
-2018,Number,Arts and humanities,Both sexes,76
-2018,Number,Information and communication technologies,Both sexes,22
-2018,Number,"Engineering, manufacturing and construction",Both sexes,33
-2018,Number,Education,Both sexes,55
-2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,27
-2018,Number,"Business, administration and law",Both sexes,67
-2018,Number,"Natural sciences, mathematics and statistics",Both sexes,23
-2018,Number,Services,Both sexes,3
-2018,Number,Health and social protection,Both sexes,123
+2018,Number,Total,Total,530
+2018,Number,"Social sciences, journalism and information",Total,101
+2018,Number,Arts and humanities,Total,76
+2018,Number,Information and communication technologies,Total,22
+2018,Number,"Engineering, manufacturing and construction",Total,33
+2018,Number,Education,Total,55
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,27
+2018,Number,"Business, administration and law",Total,67
+2018,Number,"Natural sciences, mathematics and statistics",Total,23
+2018,Number,Services,Total,3
+2018,Number,Health and social protection,Total,123
 2018,Number,Total,M,322
 2018,Number,"Social sciences, journalism and information",M,64
 2018,Number,Arts and humanities,M,46
@@ -65,17 +65,17 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2018,Number,"Natural sciences, mathematics and statistics",F,5
 2018,Number,Services,F,0
 2018,Number,Health and social protection,F,38
-2019,Number,Total,Both sexes,466
-2019,Number,"Social sciences, journalism and information",Both sexes,148
-2019,Number,Arts and humanities,Both sexes,59
-2019,Number,Information and communication technologies,Both sexes,10
-2019,Number,"Engineering, manufacturing and construction",Both sexes,30
-2019,Number,Education,Both sexes,48
-2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,11
-2019,Number,"Business, administration and law",Both sexes,35
-2019,Number,"Natural sciences, mathematics and statistics",Both sexes,24
-2019,Number,Services,Both sexes,1
-2019,Number,Health and social protection,Both sexes,100
+2019,Number,Total,Total,466
+2019,Number,"Social sciences, journalism and information",Total,148
+2019,Number,Arts and humanities,Total,59
+2019,Number,Information and communication technologies,Total,10
+2019,Number,"Engineering, manufacturing and construction",Total,30
+2019,Number,Education,Total,48
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,11
+2019,Number,"Business, administration and law",Total,35
+2019,Number,"Natural sciences, mathematics and statistics",Total,24
+2019,Number,Services,Total,1
+2019,Number,Health and social protection,Total,100
 2019,Number,Total,M,188
 2019,Number,"Social sciences, journalism and information",M,65
 2019,Number,Arts and humanities,M,21
@@ -98,17 +98,17 @@ Year,UNIT_MEASURE,Scientific field,Sex,Value
 2019,Number,"Natural sciences, mathematics and statistics",F,15
 2019,Number,Services,F,0
 2019,Number,Health and social protection,F,64
-2020,Number,Total,Both sexes,384
-2020,Number,"Social sciences, journalism and information",Both sexes,86
-2020,Number,Arts and humanities,Both sexes,65
-2020,Number,Information and communication technologies,Both sexes,11
-2020,Number,"Engineering, manufacturing and construction",Both sexes,30
-2020,Number,Education,Both sexes,29
-2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,20
-2020,Number,"Business, administration and law",Both sexes,28
-2020,Number,"Natural sciences, mathematics and statistics",Both sexes,20
-2020,Number,Services,Both sexes,0
-2020,Number,Health and social protection,Both sexes,95
+2020,Number,Total,Total,384
+2020,Number,"Social sciences, journalism and information",Total,86
+2020,Number,Arts and humanities,Total,65
+2020,Number,Information and communication technologies,Total,11
+2020,Number,"Engineering, manufacturing and construction",Total,30
+2020,Number,Education,Total,29
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,20
+2020,Number,"Business, administration and law",Total,28
+2020,Number,"Natural sciences, mathematics and statistics",Total,20
+2020,Number,Services,Total,0
+2020,Number,Health and social protection,Total,95
 2020,Number,Total,M,156
 2020,Number,"Social sciences, journalism and information",M,41
 2020,Number,Arts and humanities,M,20

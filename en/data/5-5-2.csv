@@ -1,15 +1,15 @@
 Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
-2017,Number,Total,Master of science studies,Both sexes,2140
-2017,Number,"Natural sciences, mathematics and statistics",Master of science studies,Both sexes,67
-2017,Number,"Engineering, manufacturing and construction",Master of science studies,Both sexes,347
-2017,Number,Information and communication technologies,Master of science studies,Both sexes,99
-2017,Number,Health and social protection,Master of science studies,Both sexes,35
-2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Both sexes,206
-2017,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,473
-2017,Number,"Business, administration and law",Master of science studies,Both sexes,356
-2017,Number,Education,Master of science studies,Both sexes,236
-2017,Number,Arts and humanities,Master of science studies,Both sexes,319
-2017,Number,Services,Master of science studies,Both sexes,2
+2017,Number,Total,Master of science studies,Total,2140
+2017,Number,"Natural sciences, mathematics and statistics",Master of science studies,Total,67
+2017,Number,"Engineering, manufacturing and construction",Master of science studies,Total,347
+2017,Number,Information and communication technologies,Master of science studies,Total,99
+2017,Number,Health and social protection,Master of science studies,Total,35
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Total,206
+2017,Number,"Social sciences, journalism and information",Master of science studies,Total,473
+2017,Number,"Business, administration and law",Master of science studies,Total,356
+2017,Number,Education,Master of science studies,Total,236
+2017,Number,Arts and humanities,Master of science studies,Total,319
+2017,Number,Services,Master of science studies,Total,2
 2017,Number,Total,Master of science studies,M,917
 2017,Number,"Natural sciences, mathematics and statistics",Master of science studies,M,26
 2017,Number,"Engineering, manufacturing and construction",Master of science studies,M,208
@@ -32,17 +32,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2017,Number,Education,Master of science studies,F,197
 2017,Number,Arts and humanities,Master of science studies,F,177
 2017,Number,Services,Master of science studies,F,2
-2017,Number,Total,Master studies,Both sexes,31
-2017,Number,"Natural sciences, mathematics and statistics",Master studies,Both sexes,1
-2017,Number,"Engineering, manufacturing and construction",Master studies,Both sexes,0
-2017,Number,Information and communication technologies,Master studies,Both sexes,22
-2017,Number,Health and social protection,Master studies,Both sexes,0
-2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Both sexes,0
-2017,Number,"Social sciences, journalism and information",Master studies,Both sexes,0
-2017,Number,"Business, administration and law",Master studies,Both sexes,2
-2017,Number,Education,Master studies,Both sexes,1
-2017,Number,Arts and humanities,Master studies,Both sexes,5
-2017,Number,Services,Master studies,Both sexes,0
+2017,Number,Total,Master studies,Total,31
+2017,Number,"Natural sciences, mathematics and statistics",Master studies,Total,1
+2017,Number,"Engineering, manufacturing and construction",Master studies,Total,0
+2017,Number,Information and communication technologies,Master studies,Total,22
+2017,Number,Health and social protection,Master studies,Total,0
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,0
+2017,Number,"Social sciences, journalism and information",Master studies,Total,0
+2017,Number,"Business, administration and law",Master studies,Total,2
+2017,Number,Education,Master studies,Total,1
+2017,Number,Arts and humanities,Master studies,Total,5
+2017,Number,Services,Master studies,Total,0
 2017,Number,Total,Master studies,M,21
 2017,Number,"Natural sciences, mathematics and statistics",Master studies,M,0
 2017,Number,"Engineering, manufacturing and construction",Master studies,M,0
@@ -65,17 +65,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2017,Number,Education,Master studies,F,1
 2017,Number,Arts and humanities,Master studies,F,0
 2017,Number,Services,Master studies,F,0
-2017,Number,Total,Specialist studies,Both sexes,73
-2017,Number,"Natural sciences, mathematics and statistics",Specialist studies,Both sexes,0
-2017,Number,"Engineering, manufacturing and construction",Specialist studies,Both sexes,0
-2017,Number,Information and communication technologies,Specialist studies,Both sexes,0
-2017,Number,Health and social protection,Specialist studies,Both sexes,71
-2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Both sexes,0
-2017,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,1
-2017,Number,"Business, administration and law",Specialist studies,Both sexes,1
-2017,Number,Education,Specialist studies,Both sexes,0
-2017,Number,Arts and humanities,Specialist studies,Both sexes,0
-2017,Number,Services,Specialist studies,Both sexes,0
+2017,Number,Total,Specialist studies,Total,73
+2017,Number,"Natural sciences, mathematics and statistics",Specialist studies,Total,0
+2017,Number,"Engineering, manufacturing and construction",Specialist studies,Total,0
+2017,Number,Information and communication technologies,Specialist studies,Total,0
+2017,Number,Health and social protection,Specialist studies,Total,71
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Total,0
+2017,Number,"Social sciences, journalism and information",Specialist studies,Total,1
+2017,Number,"Business, administration and law",Specialist studies,Total,1
+2017,Number,Education,Specialist studies,Total,0
+2017,Number,Arts and humanities,Specialist studies,Total,0
+2017,Number,Services,Specialist studies,Total,0
 2017,Number,Total,Specialist studies,M,34
 2017,Number,"Natural sciences, mathematics and statistics",Specialist studies,M,0
 2017,Number,"Engineering, manufacturing and construction",Specialist studies,M,0
@@ -98,17 +98,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2017,Number,Education,Specialist studies,F,0
 2017,Number,Arts and humanities,Specialist studies,F,0
 2017,Number,Services,Specialist studies,F,0
-2018,Number,Total,Master of science studies,Both sexes,14
-2018,Number,"Natural sciences, mathematics and statistics",Master of science studies,Both sexes,0
-2018,Number,"Engineering, manufacturing and construction",Master of science studies,Both sexes,0
-2018,Number,Information and communication technologies,Master of science studies,Both sexes,0
-2018,Number,Health and social protection,Master of science studies,Both sexes,0
-2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Both sexes,1
-2018,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,1
-2018,Number,"Business, administration and law",Master of science studies,Both sexes,0
-2018,Number,Education,Master of science studies,Both sexes,9
-2018,Number,Arts and humanities,Master of science studies,Both sexes,3
-2018,Number,Services,Master of science studies,Both sexes,0
+2018,Number,Total,Master of science studies,Total,14
+2018,Number,"Natural sciences, mathematics and statistics",Master of science studies,Total,0
+2018,Number,"Engineering, manufacturing and construction",Master of science studies,Total,0
+2018,Number,Information and communication technologies,Master of science studies,Total,0
+2018,Number,Health and social protection,Master of science studies,Total,0
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Total,1
+2018,Number,"Social sciences, journalism and information",Master of science studies,Total,1
+2018,Number,"Business, administration and law",Master of science studies,Total,0
+2018,Number,Education,Master of science studies,Total,9
+2018,Number,Arts and humanities,Master of science studies,Total,3
+2018,Number,Services,Master of science studies,Total,0
 2018,Number,Total,Master of science studies,M,6
 2018,Number,"Natural sciences, mathematics and statistics",Master of science studies,M,0
 2018,Number,"Engineering, manufacturing and construction",Master of science studies,M,0
@@ -131,17 +131,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2018,Number,Education,Master of science studies,F,7
 2018,Number,Arts and humanities,Master of science studies,F,0
 2018,Number,Services,Master of science studies,F,0
-2018,Number,Total,Master studies,Both sexes,2144
-2018,Number,"Natural sciences, mathematics and statistics",Master studies,Both sexes,76
-2018,Number,"Engineering, manufacturing and construction",Master studies,Both sexes,362
-2018,Number,Information and communication technologies,Master studies,Both sexes,120
-2018,Number,Health and social protection,Master studies,Both sexes,42
-2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Both sexes,189
-2018,Number,"Social sciences, journalism and information",Master studies,Both sexes,503
-2018,Number,"Business, administration and law",Master studies,Both sexes,240
-2018,Number,Education,Master studies,Both sexes,314
-2018,Number,Arts and humanities,Master studies,Both sexes,291
-2018,Number,Services,Master studies,Both sexes,7
+2018,Number,Total,Master studies,Total,2144
+2018,Number,"Natural sciences, mathematics and statistics",Master studies,Total,76
+2018,Number,"Engineering, manufacturing and construction",Master studies,Total,362
+2018,Number,Information and communication technologies,Master studies,Total,120
+2018,Number,Health and social protection,Master studies,Total,42
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,189
+2018,Number,"Social sciences, journalism and information",Master studies,Total,503
+2018,Number,"Business, administration and law",Master studies,Total,240
+2018,Number,Education,Master studies,Total,314
+2018,Number,Arts and humanities,Master studies,Total,291
+2018,Number,Services,Master studies,Total,7
 2018,Number,Total,Master studies,M,937
 2018,Number,"Natural sciences, mathematics and statistics",Master studies,M,28
 2018,Number,"Engineering, manufacturing and construction",Master studies,M,229
@@ -164,17 +164,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2018,Number,Education,Master studies,F,211
 2018,Number,Arts and humanities,Master studies,F,158
 2018,Number,Services,Master studies,F,4
-2018,Number,Total,Specialist studies,Both sexes,160
-2018,Number,"Natural sciences, mathematics and statistics",Specialist studies,Both sexes,0
-2018,Number,"Engineering, manufacturing and construction",Specialist studies,Both sexes,0
-2018,Number,Information and communication technologies,Specialist studies,Both sexes,0
-2018,Number,Health and social protection,Specialist studies,Both sexes,156
-2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Both sexes,0
-2018,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,1
-2018,Number,"Business, administration and law",Specialist studies,Both sexes,0
-2018,Number,Education,Specialist studies,Both sexes,2
-2018,Number,Arts and humanities,Specialist studies,Both sexes,1
-2018,Number,Services,Specialist studies,Both sexes,0
+2018,Number,Total,Specialist studies,Total,160
+2018,Number,"Natural sciences, mathematics and statistics",Specialist studies,Total,0
+2018,Number,"Engineering, manufacturing and construction",Specialist studies,Total,0
+2018,Number,Information and communication technologies,Specialist studies,Total,0
+2018,Number,Health and social protection,Specialist studies,Total,156
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Total,0
+2018,Number,"Social sciences, journalism and information",Specialist studies,Total,1
+2018,Number,"Business, administration and law",Specialist studies,Total,0
+2018,Number,Education,Specialist studies,Total,2
+2018,Number,Arts and humanities,Specialist studies,Total,1
+2018,Number,Services,Specialist studies,Total,0
 2018,Number,Total,Specialist studies,M,66
 2018,Number,"Natural sciences, mathematics and statistics",Specialist studies,M,0
 2018,Number,"Engineering, manufacturing and construction",Specialist studies,M,0
@@ -197,17 +197,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2018,Number,Education,Specialist studies,F,2
 2018,Number,Arts and humanities,Specialist studies,F,0
 2018,Number,Services,Specialist studies,F,0
-2019,Number,Total,Master of science studies,Both sexes,16
-2019,Number,"Natural sciences, mathematics and statistics",Master of science studies,Both sexes,0
-2019,Number,"Engineering, manufacturing and construction",Master of science studies,Both sexes,13
-2019,Number,Information and communication technologies,Master of science studies,Both sexes,0
-2019,Number,Health and social protection,Master of science studies,Both sexes,0
-2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Both sexes,0
-2019,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,0
-2019,Number,"Business, administration and law",Master of science studies,Both sexes,0
-2019,Number,Education,Master of science studies,Both sexes,2
-2019,Number,Arts and humanities,Master of science studies,Both sexes,1
-2019,Number,Services,Master of science studies,Both sexes,0
+2019,Number,Total,Master of science studies,Total,16
+2019,Number,"Natural sciences, mathematics and statistics",Master of science studies,Total,0
+2019,Number,"Engineering, manufacturing and construction",Master of science studies,Total,13
+2019,Number,Information and communication technologies,Master of science studies,Total,0
+2019,Number,Health and social protection,Master of science studies,Total,0
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Total,0
+2019,Number,"Social sciences, journalism and information",Master of science studies,Total,0
+2019,Number,"Business, administration and law",Master of science studies,Total,0
+2019,Number,Education,Master of science studies,Total,2
+2019,Number,Arts and humanities,Master of science studies,Total,1
+2019,Number,Services,Master of science studies,Total,0
 2019,Number,Total,Master of science studies,M,12
 2019,Number,"Natural sciences, mathematics and statistics",Master of science studies,M,0
 2019,Number,"Engineering, manufacturing and construction",Master of science studies,M,10
@@ -230,17 +230,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2019,Number,Education,Master of science studies,F,1
 2019,Number,Arts and humanities,Master of science studies,F,0
 2019,Number,Services,Master of science studies,F,0
-2019,Number,Total,Master studies,Both sexes,2109
-2019,Number,"Natural sciences, mathematics and statistics",Master studies,Both sexes,79
-2019,Number,"Engineering, manufacturing and construction",Master studies,Both sexes,394
-2019,Number,Information and communication technologies,Master studies,Both sexes,80
-2019,Number,Health and social protection,Master studies,Both sexes,45
-2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Both sexes,188
-2019,Number,"Social sciences, journalism and information",Master studies,Both sexes,492
-2019,Number,"Business, administration and law",Master studies,Both sexes,236
-2019,Number,Education,Master studies,Both sexes,298
-2019,Number,Arts and humanities,Master studies,Both sexes,291
-2019,Number,Services,Master studies,Both sexes,6
+2019,Number,Total,Master studies,Total,2109
+2019,Number,"Natural sciences, mathematics and statistics",Master studies,Total,79
+2019,Number,"Engineering, manufacturing and construction",Master studies,Total,394
+2019,Number,Information and communication technologies,Master studies,Total,80
+2019,Number,Health and social protection,Master studies,Total,45
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,188
+2019,Number,"Social sciences, journalism and information",Master studies,Total,492
+2019,Number,"Business, administration and law",Master studies,Total,236
+2019,Number,Education,Master studies,Total,298
+2019,Number,Arts and humanities,Master studies,Total,291
+2019,Number,Services,Master studies,Total,6
 2019,Number,Total,Master studies,M,930
 2019,Number,"Natural sciences, mathematics and statistics",Master studies,M,22
 2019,Number,"Engineering, manufacturing and construction",Master studies,M,243
@@ -263,17 +263,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2019,Number,Education,Master studies,F,194
 2019,Number,Arts and humanities,Master studies,F,149
 2019,Number,Services,Master studies,F,3
-2019,Number,Total,Specialist studies,Both sexes,170
-2019,Number,"Natural sciences, mathematics and statistics",Specialist studies,Both sexes,0
-2019,Number,"Engineering, manufacturing and construction",Specialist studies,Both sexes,0
-2019,Number,Information and communication technologies,Specialist studies,Both sexes,0
-2019,Number,Health and social protection,Specialist studies,Both sexes,170
-2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Both sexes,0
-2019,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,0
-2019,Number,"Business, administration and law",Specialist studies,Both sexes,0
-2019,Number,Education,Specialist studies,Both sexes,0
-2019,Number,Arts and humanities,Specialist studies,Both sexes,0
-2019,Number,Services,Specialist studies,Both sexes,0
+2019,Number,Total,Specialist studies,Total,170
+2019,Number,"Natural sciences, mathematics and statistics",Specialist studies,Total,0
+2019,Number,"Engineering, manufacturing and construction",Specialist studies,Total,0
+2019,Number,Information and communication technologies,Specialist studies,Total,0
+2019,Number,Health and social protection,Specialist studies,Total,170
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Total,0
+2019,Number,"Social sciences, journalism and information",Specialist studies,Total,0
+2019,Number,"Business, administration and law",Specialist studies,Total,0
+2019,Number,Education,Specialist studies,Total,0
+2019,Number,Arts and humanities,Specialist studies,Total,0
+2019,Number,Services,Specialist studies,Total,0
 2019,Number,Total,Specialist studies,M,72
 2019,Number,"Natural sciences, mathematics and statistics",Specialist studies,M,0
 2019,Number,"Engineering, manufacturing and construction",Specialist studies,M,0
@@ -296,17 +296,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2019,Number,Education,Specialist studies,F,0
 2019,Number,Arts and humanities,Specialist studies,F,0
 2019,Number,Services,Specialist studies,F,0
-2020,Number,Total,Master of science studies,Both sexes,4
-2020,Number,"Natural sciences, mathematics and statistics",Master of science studies,Both sexes,0
-2020,Number,"Engineering, manufacturing and construction",Master of science studies,Both sexes,0
-2020,Number,Information and communication technologies,Master of science studies,Both sexes,0
-2020,Number,Health and social protection,Master of science studies,Both sexes,0
-2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Both sexes,0
-2020,Number,"Social sciences, journalism and information",Master of science studies,Both sexes,0
-2020,Number,"Business, administration and law",Master of science studies,Both sexes,2
-2020,Number,Education,Master of science studies,Both sexes,2
-2020,Number,Arts and humanities,Master of science studies,Both sexes,0
-2020,Number,Services,Master of science studies,Both sexes,0
+2020,Number,Total,Master of science studies,Total,4
+2020,Number,"Natural sciences, mathematics and statistics",Master of science studies,Total,0
+2020,Number,"Engineering, manufacturing and construction",Master of science studies,Total,0
+2020,Number,Information and communication technologies,Master of science studies,Total,0
+2020,Number,Health and social protection,Master of science studies,Total,0
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master of science studies,Total,0
+2020,Number,"Social sciences, journalism and information",Master of science studies,Total,0
+2020,Number,"Business, administration and law",Master of science studies,Total,2
+2020,Number,Education,Master of science studies,Total,2
+2020,Number,Arts and humanities,Master of science studies,Total,0
+2020,Number,Services,Master of science studies,Total,0
 2020,Number,Total,Master of science studies,M,3
 2020,Number,"Natural sciences, mathematics and statistics",Master of science studies,M,0
 2020,Number,"Engineering, manufacturing and construction",Master of science studies,M,0
@@ -329,17 +329,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2020,Number,Education,Master of science studies,F,0
 2020,Number,Arts and humanities,Master of science studies,F,0
 2020,Number,Services,Master of science studies,F,0
-2020,Number,Total,Master studies,Both sexes,2430
-2020,Number,"Natural sciences, mathematics and statistics",Master studies,Both sexes,93
-2020,Number,"Engineering, manufacturing and construction",Master studies,Both sexes,399
-2020,Number,Information and communication technologies,Master studies,Both sexes,117
-2020,Number,Health and social protection,Master studies,Both sexes,52
-2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Both sexes,216
-2020,Number,"Social sciences, journalism and information",Master studies,Both sexes,619
-2020,Number,"Business, administration and law",Master studies,Both sexes,216
-2020,Number,Education,Master studies,Both sexes,381
-2020,Number,Arts and humanities,Master studies,Both sexes,328
-2020,Number,Services,Master studies,Both sexes,9
+2020,Number,Total,Master studies,Total,2430
+2020,Number,"Natural sciences, mathematics and statistics",Master studies,Total,93
+2020,Number,"Engineering, manufacturing and construction",Master studies,Total,399
+2020,Number,Information and communication technologies,Master studies,Total,117
+2020,Number,Health and social protection,Master studies,Total,52
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,216
+2020,Number,"Social sciences, journalism and information",Master studies,Total,619
+2020,Number,"Business, administration and law",Master studies,Total,216
+2020,Number,Education,Master studies,Total,381
+2020,Number,Arts and humanities,Master studies,Total,328
+2020,Number,Services,Master studies,Total,9
 2020,Number,Total,Master studies,M,1036
 2020,Number,"Natural sciences, mathematics and statistics",Master studies,M,26
 2020,Number,"Engineering, manufacturing and construction",Master studies,M,252
@@ -362,17 +362,17 @@ Year,UNIT_MEASURE,Scientific field,Type of education,Sex,Value
 2020,Number,Education,Master studies,F,252
 2020,Number,Arts and humanities,Master studies,F,186
 2020,Number,Services,Master studies,F,6
-2020,Number,Total,Specialist studies,Both sexes,170
-2020,Number,"Natural sciences, mathematics and statistics",Specialist studies,Both sexes,0
-2020,Number,"Engineering, manufacturing and construction",Specialist studies,Both sexes,0
-2020,Number,Information and communication technologies,Specialist studies,Both sexes,0
-2020,Number,Health and social protection,Specialist studies,Both sexes,170
-2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Both sexes,0
-2020,Number,"Social sciences, journalism and information",Specialist studies,Both sexes,0
-2020,Number,"Business, administration and law",Specialist studies,Both sexes,0
-2020,Number,Education,Specialist studies,Both sexes,0
-2020,Number,Arts and humanities,Specialist studies,Both sexes,0
-2020,Number,Services,Specialist studies,Both sexes,0
+2020,Number,Total,Specialist studies,Total,170
+2020,Number,"Natural sciences, mathematics and statistics",Specialist studies,Total,0
+2020,Number,"Engineering, manufacturing and construction",Specialist studies,Total,0
+2020,Number,Information and communication technologies,Specialist studies,Total,0
+2020,Number,Health and social protection,Specialist studies,Total,170
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Specialist studies,Total,0
+2020,Number,"Social sciences, journalism and information",Specialist studies,Total,0
+2020,Number,"Business, administration and law",Specialist studies,Total,0
+2020,Number,Education,Specialist studies,Total,0
+2020,Number,Arts and humanities,Specialist studies,Total,0
+2020,Number,Services,Specialist studies,Total,0
 2020,Number,Total,Specialist studies,M,39
 2020,Number,"Natural sciences, mathematics and statistics",Specialist studies,M,0
 2020,Number,"Engineering, manufacturing and construction",Specialist studies,M,0

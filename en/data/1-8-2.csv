@@ -1,24 +1,24 @@
 Year,UNIT_MEASURE,Age_group,Sex,Value
-2013,Number,Total,Both sexes,1171179
-2013,Number,0-4,Both sexes,53563
-2013,Number,5-9,Both sexes,54042
-2013,Number,10-14,Both sexes,58024
-2013,Number,15-19,Both sexes,69969
-2013,Number,20-24,Both sexes,66641
-2013,Number,25-29,Both sexes,77070
-2013,Number,30-34,Both sexes,80560
-2013,Number,35-39,Both sexes,80521
-2013,Number,40-44,Both sexes,75966
-2013,Number,45-49,Both sexes,83519
-2013,Number,50-54,Both sexes,92008
-2013,Number,55-59,Both sexes,94412
-2013,Number,60-64,Both sexes,85773
-2013,Number,65-69,Both sexes,59309
-2013,Number,70-74,Both sexes,56085
-2013,Number,75-79,Both sexes,47377
-2013,Number,80-84,Both sexes,25370
-2013,Number,85-89,Both sexes,8869
-2013,Number,90 +,Both sexes,2101
+2013,Number,Total,Total,1171179
+2013,Number,0-4,Total,53563
+2013,Number,5-9,Total,54042
+2013,Number,10-14,Total,58024
+2013,Number,15-19,Total,69969
+2013,Number,20-24,Total,66641
+2013,Number,25-29,Total,77070
+2013,Number,30-34,Total,80560
+2013,Number,35-39,Total,80521
+2013,Number,40-44,Total,75966
+2013,Number,45-49,Total,83519
+2013,Number,50-54,Total,92008
+2013,Number,55-59,Total,94412
+2013,Number,60-64,Total,85773
+2013,Number,65-69,Total,59309
+2013,Number,70-74,Total,56085
+2013,Number,75-79,Total,47377
+2013,Number,80-84,Total,25370
+2013,Number,85-89,Total,8869
+2013,Number,90 +,Total,2101
 2013,Number,Total,M,572298
 2013,Number,0-4,M,27499
 2013,Number,5-9,M,27681
@@ -59,26 +59,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2013,Number,80-84,F,15797
 2013,Number,85-89,F,5892
 2013,Number,90 +,F,1484
-2014,Number,Total,Both sexes,1167082
-2014,Number,0-4,Both sexes,51846
-2014,Number,5-9,Both sexes,54417
-2014,Number,10-14,Both sexes,56601
-2014,Number,15-19,Both sexes,69432
-2014,Number,20-24,Both sexes,65038
-2014,Number,25-29,Both sexes,75296
-2014,Number,30-34,Both sexes,80722
-2014,Number,35-39,Both sexes,80852
-2014,Number,40-44,Both sexes,76216
-2014,Number,45-49,Both sexes,81515
-2014,Number,50-54,Both sexes,89781
-2014,Number,55-59,Both sexes,93123
-2014,Number,60-64,Both sexes,88482
-2014,Number,65-69,Both sexes,64182
-2014,Number,70-74,Both sexes,52482
-2014,Number,75-79,Both sexes,48465
-2014,Number,80-84,Both sexes,26497
-2014,Number,85-89,Both sexes,9835
-2014,Number,90 +,Both sexes,2300
+2014,Number,Total,Total,1167082
+2014,Number,0-4,Total,51846
+2014,Number,5-9,Total,54417
+2014,Number,10-14,Total,56601
+2014,Number,15-19,Total,69432
+2014,Number,20-24,Total,65038
+2014,Number,25-29,Total,75296
+2014,Number,30-34,Total,80722
+2014,Number,35-39,Total,80852
+2014,Number,40-44,Total,76216
+2014,Number,45-49,Total,81515
+2014,Number,50-54,Total,89781
+2014,Number,55-59,Total,93123
+2014,Number,60-64,Total,88482
+2014,Number,65-69,Total,64182
+2014,Number,70-74,Total,52482
+2014,Number,75-79,Total,48465
+2014,Number,80-84,Total,26497
+2014,Number,85-89,Total,9835
+2014,Number,90 +,Total,2300
 2014,Number,Total,M,570176
 2014,Number,0-4,M,26590
 2014,Number,5-9,M,27911
@@ -119,26 +119,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2014,Number,80-84,F,16603
 2014,Number,85-89,F,6405
 2014,Number,90 +,F,1626
-2015,Number,Total,Both sexes,1162164
-2015,Number,0-4,Both sexes,50067
-2015,Number,5-9,Both sexes,54755
-2015,Number,10-14,Both sexes,55647
-2015,Number,15-19,Both sexes,66727
-2015,Number,20-24,Both sexes,65603
-2015,Number,25-29,Both sexes,73297
-2015,Number,30-34,Both sexes,80365
-2015,Number,35-39,Both sexes,81003
-2015,Number,40-44,Both sexes,77328
-2015,Number,45-49,Both sexes,78838
-2015,Number,50-54,Both sexes,87925
-2015,Number,55-59,Both sexes,91658
-2015,Number,60-64,Both sexes,90125
-2015,Number,65-69,Both sexes,70039
-2015,Number,70-74,Both sexes,48676
-2015,Number,75-79,Both sexes,49216
-2015,Number,80-84,Both sexes,27692
-2015,Number,85-89,Both sexes,10696
-2015,Number,90 +,Both sexes,2507
+2015,Number,Total,Total,1162164
+2015,Number,0-4,Total,50067
+2015,Number,5-9,Total,54755
+2015,Number,10-14,Total,55647
+2015,Number,15-19,Total,66727
+2015,Number,20-24,Total,65603
+2015,Number,25-29,Total,73297
+2015,Number,30-34,Total,80365
+2015,Number,35-39,Total,81003
+2015,Number,40-44,Total,77328
+2015,Number,45-49,Total,78838
+2015,Number,50-54,Total,87925
+2015,Number,55-59,Total,91658
+2015,Number,60-64,Total,90125
+2015,Number,65-69,Total,70039
+2015,Number,70-74,Total,48676
+2015,Number,75-79,Total,49216
+2015,Number,80-84,Total,27692
+2015,Number,85-89,Total,10696
+2015,Number,90 +,Total,2507
 2015,Number,Total,M,567711
 2015,Number,0-4,M,25709
 2015,Number,5-9,M,28072
@@ -179,26 +179,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2015,Number,80-84,F,17407
 2015,Number,85-89,F,6905
 2015,Number,90 +,F,1758
-2016,Number,Total,Both sexes,1157516
-2016,Number,0-4,Both sexes,48734
-2016,Number,5-9,Both sexes,54692
-2016,Number,10-14,Both sexes,54647
-2016,Number,15-19,Both sexes,63924
-2016,Number,20-24,Both sexes,66283
-2016,Number,25-29,Both sexes,71750
-2016,Number,30-34,Both sexes,79504
-2016,Number,35-39,Both sexes,80647
-2016,Number,40-44,Both sexes,78874
-2016,Number,45-49,Both sexes,76424
-2016,Number,50-54,Both sexes,86398
-2016,Number,55-59,Both sexes,90613
-2016,Number,60-64,Both sexes,91762
-2016,Number,65-69,Both sexes,73686
-2016,Number,70-74,Both sexes,47137
-2016,Number,75-79,Both sexes,49174
-2016,Number,80-84,Both sexes,29104
-2016,Number,85-89,Both sexes,11443
-2016,Number,90 +,Both sexes,2720
+2016,Number,Total,Total,1157516
+2016,Number,0-4,Total,48734
+2016,Number,5-9,Total,54692
+2016,Number,10-14,Total,54647
+2016,Number,15-19,Total,63924
+2016,Number,20-24,Total,66283
+2016,Number,25-29,Total,71750
+2016,Number,30-34,Total,79504
+2016,Number,35-39,Total,80647
+2016,Number,40-44,Total,78874
+2016,Number,45-49,Total,76424
+2016,Number,50-54,Total,86398
+2016,Number,55-59,Total,90613
+2016,Number,60-64,Total,91762
+2016,Number,65-69,Total,73686
+2016,Number,70-74,Total,47137
+2016,Number,75-79,Total,49174
+2016,Number,80-84,Total,29104
+2016,Number,85-89,Total,11443
+2016,Number,90 +,Total,2720
 2016,Number,Total,M,565368
 2016,Number,0-4,M,25099
 2016,Number,5-9,M,28032
@@ -239,26 +239,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2016,Number,80-84,F,18285
 2016,Number,85-89,F,7366
 2016,Number,90 +,F,1898
-2017,Number,Total,Both sexes,1153017
-2017,Number,0-4,Both sexes,47669
-2017,Number,5-9,Both sexes,54425
-2017,Number,10-14,Both sexes,54011
-2017,Number,15-19,Both sexes,60988
-2017,Number,20-24,Both sexes,67578
-2017,Number,25-29,Both sexes,69711
-2017,Number,30-34,Both sexes,78413
-2017,Number,35-39,Both sexes,80313
-2017,Number,40-44,Both sexes,79628
-2017,Number,45-49,Both sexes,75563
-2017,Number,50-54,Both sexes,84512
-2017,Number,55-59,Both sexes,90210
-2017,Number,60-64,Both sexes,91623
-2017,Number,65-69,Both sexes,76077
-2017,Number,70-74,Both sexes,49170
-2017,Number,75-79,Both sexes,47544
-2017,Number,80-84,Both sexes,30644
-2017,Number,85-89,Both sexes,12003
-2017,Number,90 +,Both sexes,2935
+2017,Number,Total,Total,1153017
+2017,Number,0-4,Total,47669
+2017,Number,5-9,Total,54425
+2017,Number,10-14,Total,54011
+2017,Number,15-19,Total,60988
+2017,Number,20-24,Total,67578
+2017,Number,25-29,Total,69711
+2017,Number,30-34,Total,78413
+2017,Number,35-39,Total,80313
+2017,Number,40-44,Total,79628
+2017,Number,45-49,Total,75563
+2017,Number,50-54,Total,84512
+2017,Number,55-59,Total,90210
+2017,Number,60-64,Total,91623
+2017,Number,65-69,Total,76077
+2017,Number,70-74,Total,49170
+2017,Number,75-79,Total,47544
+2017,Number,80-84,Total,30644
+2017,Number,85-89,Total,12003
+2017,Number,90 +,Total,2935
 2017,Number,Total,M,563187
 2017,Number,0-4,M,24658
 2017,Number,5-9,M,27909
@@ -299,26 +299,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2017,Number,80-84,F,19165
 2017,Number,85-89,F,7700
 2017,Number,90 +,F,2020
-2018,Number,Total,Both sexes,1147902
-2018,Number,0-4,Both sexes,46783
-2018,Number,5-9,Both sexes,53561
-2018,Number,10-14,Both sexes,53979
-2018,Number,15-19,Both sexes,58248
-2018,Number,20-24,Both sexes,69375
-2018,Number,25-29,Both sexes,66608
-2018,Number,30-34,Both sexes,77062
-2018,Number,35-39,Both sexes,80370
-2018,Number,40-44,Both sexes,80022
-2018,Number,45-49,Both sexes,75372
-2018,Number,50-54,Both sexes,82290
-2018,Number,55-59,Both sexes,89379
-2018,Number,60-64,Both sexes,90342
-2018,Number,65-69,Both sexes,79067
-2018,Number,70-74,Both sexes,52446
-2018,Number,75-79,Both sexes,45216
-2018,Number,80-84,Both sexes,31930
-2018,Number,85-89,Both sexes,12742
-2018,Number,90 +,Both sexes,3110
+2018,Number,Total,Total,1147902
+2018,Number,0-4,Total,46783
+2018,Number,5-9,Total,53561
+2018,Number,10-14,Total,53979
+2018,Number,15-19,Total,58248
+2018,Number,20-24,Total,69375
+2018,Number,25-29,Total,66608
+2018,Number,30-34,Total,77062
+2018,Number,35-39,Total,80370
+2018,Number,40-44,Total,80022
+2018,Number,45-49,Total,75372
+2018,Number,50-54,Total,82290
+2018,Number,55-59,Total,89379
+2018,Number,60-64,Total,90342
+2018,Number,65-69,Total,79067
+2018,Number,70-74,Total,52446
+2018,Number,75-79,Total,45216
+2018,Number,80-84,Total,31930
+2018,Number,85-89,Total,12742
+2018,Number,90 +,Total,3110
 2018,Number,Total,M,560795
 2018,Number,0-4,M,24321
 2018,Number,5-9,M,27463
@@ -359,26 +359,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2018,Number,80-84,F,19855
 2018,Number,85-89,F,8178
 2018,Number,90 +,F,2108
-2019,Number,Total,Both sexes,1142495
-2019,Number,0-4,Both sexes,46989
-2019,Number,5-9,Both sexes,51849
-2019,Number,10-14,Both sexes,54340
-2019,Number,15-19,Both sexes,56767
-2019,Number,20-24,Both sexes,68958
-2019,Number,25-29,Both sexes,65048
-2019,Number,30-34,Both sexes,75240
-2019,Number,35-39,Both sexes,80574
-2019,Number,40-44,Both sexes,80242
-2019,Number,45-49,Both sexes,75535
-2019,Number,50-54,Both sexes,80297
-2019,Number,55-59,Both sexes,87300
-2019,Number,60-64,Both sexes,88926
-2019,Number,65-69,Both sexes,81485
-2019,Number,70-74,Both sexes,56623
-2019,Number,75-79,Both sexes,42470
-2019,Number,80-84,Both sexes,32745
-2019,Number,85-89,Both sexes,13503
-2019,Number,90 +,Both sexes,3604
+2019,Number,Total,Total,1142495
+2019,Number,0-4,Total,46989
+2019,Number,5-9,Total,51849
+2019,Number,10-14,Total,54340
+2019,Number,15-19,Total,56767
+2019,Number,20-24,Total,68958
+2019,Number,25-29,Total,65048
+2019,Number,30-34,Total,75240
+2019,Number,35-39,Total,80574
+2019,Number,40-44,Total,80242
+2019,Number,45-49,Total,75535
+2019,Number,50-54,Total,80297
+2019,Number,55-59,Total,87300
+2019,Number,60-64,Total,88926
+2019,Number,65-69,Total,81485
+2019,Number,70-74,Total,56623
+2019,Number,75-79,Total,42470
+2019,Number,80-84,Total,32745
+2019,Number,85-89,Total,13503
+2019,Number,90 +,Total,3604
 2019,Number,Total,M,558093
 2019,Number,0-4,M,24499
 2019,Number,5-9,M,26577
@@ -419,26 +419,26 @@ Year,UNIT_MEASURE,Age_group,Sex,Value
 2019,Number,80-84,F,20251
 2019,Number,85-89,F,8721
 2019,Number,90 +,F,2375
-2020,Number,Total,Both sexes,1136274
-2020,Number,0-4,Both sexes,46766
-2020,Number,5-9,Both sexes,50140
-2020,Number,10-14,Both sexes,54624
-2020,Number,15-19,Both sexes,55722
-2020,Number,20-24,Both sexes,66540
-2020,Number,25-29,Both sexes,65512
-2020,Number,30-34,Both sexes,73246
-2020,Number,35-39,Both sexes,80317
-2020,Number,40-44,Both sexes,80441
-2020,Number,45-49,Both sexes,76443
-2020,Number,50-54,Both sexes,77704
-2020,Number,55-59,Both sexes,85566
-2020,Number,60-64,Both sexes,87281
-2020,Number,65-69,Both sexes,83151
-2020,Number,70-74,Both sexes,61635
-2020,Number,75-79,Both sexes,39518
-2020,Number,80-84,Both sexes,33481
-2020,Number,85-89,Both sexes,14165
-2020,Number,90 +,Both sexes,4022
+2020,Number,Total,Total,1136274
+2020,Number,0-4,Total,46766
+2020,Number,5-9,Total,50140
+2020,Number,10-14,Total,54624
+2020,Number,15-19,Total,55722
+2020,Number,20-24,Total,66540
+2020,Number,25-29,Total,65512
+2020,Number,30-34,Total,73246
+2020,Number,35-39,Total,80317
+2020,Number,40-44,Total,80441
+2020,Number,45-49,Total,76443
+2020,Number,50-54,Total,77704
+2020,Number,55-59,Total,85566
+2020,Number,60-64,Total,87281
+2020,Number,65-69,Total,83151
+2020,Number,70-74,Total,61635
+2020,Number,75-79,Total,39518
+2020,Number,80-84,Total,33481
+2020,Number,85-89,Total,14165
+2020,Number,90 +,Total,4022
 2020,Number,Total,M,557422
 2020,Number,0-4,M,24479
 2020,Number,5-9,M,25854

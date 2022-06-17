@@ -1,15 +1,15 @@
 Year,UNIT_MEASURE,Type of education,Sex,Value
-2017,Number,Total,Both sexes,54
-2017,Number,"Natural sciences, mathematics and statistics",Both sexes,4
-2017,Number,"Engineering, manufacturing and construction",Both sexes,6
-2017,Number,Information and communication technologies,Both sexes,4
-2017,Number,Health and social protection,Both sexes,1
-2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,2
-2017,Number,"Social sciences, journalism and information",Both sexes,14
-2017,Number,"Business, administration and law",Both sexes,16
-2017,Number,Education,Both sexes,0
-2017,Number,Arts and humanities,Both sexes,7
-2017,Number,Services,Both sexes,0
+2017,Number,Total,Total,54
+2017,Number,"Natural sciences, mathematics and statistics",Total,4
+2017,Number,"Engineering, manufacturing and construction",Total,6
+2017,Number,Information and communication technologies,Total,4
+2017,Number,Health and social protection,Total,1
+2017,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,2
+2017,Number,"Social sciences, journalism and information",Total,14
+2017,Number,"Business, administration and law",Total,16
+2017,Number,Education,Total,0
+2017,Number,Arts and humanities,Total,7
+2017,Number,Services,Total,0
 2017,Number,Total,M,37
 2017,Number,"Natural sciences, mathematics and statistics",M,2
 2017,Number,"Engineering, manufacturing and construction",M,3
@@ -32,17 +32,17 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2017,Number,Education,F,0
 2017,Number,Arts and humanities,F,4
 2017,Number,Services,F,0
-2018,Number,Total,Both sexes,43
-2018,Number,"Natural sciences, mathematics and statistics",Both sexes,1
-2018,Number,"Engineering, manufacturing and construction",Both sexes,3
-2018,Number,Information and communication technologies,Both sexes,3
-2018,Number,Health and social protection,Both sexes,0
-2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,4
-2018,Number,"Social sciences, journalism and information",Both sexes,14
-2018,Number,"Business, administration and law",Both sexes,12
-2018,Number,Education,Both sexes,1
-2018,Number,Arts and humanities,Both sexes,5
-2018,Number,Services,Both sexes,0
+2018,Number,Total,Total,43
+2018,Number,"Natural sciences, mathematics and statistics",Total,1
+2018,Number,"Engineering, manufacturing and construction",Total,3
+2018,Number,Information and communication technologies,Total,3
+2018,Number,Health and social protection,Total,0
+2018,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,4
+2018,Number,"Social sciences, journalism and information",Total,14
+2018,Number,"Business, administration and law",Total,12
+2018,Number,Education,Total,1
+2018,Number,Arts and humanities,Total,5
+2018,Number,Services,Total,0
 2018,Number,Total,M,28
 2018,Number,"Natural sciences, mathematics and statistics",M,1
 2018,Number,"Engineering, manufacturing and construction",M,1
@@ -65,17 +65,17 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2018,Number,Education,F,0
 2018,Number,Arts and humanities,F,3
 2018,Number,Services,F,0
-2019,Number,Total,Both sexes,42
-2019,Number,"Natural sciences, mathematics and statistics",Both sexes,2
-2019,Number,"Engineering, manufacturing and construction",Both sexes,1
-2019,Number,Information and communication technologies,Both sexes,25
-2019,Number,Health and social protection,Both sexes,2
-2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,3
-2019,Number,"Social sciences, journalism and information",Both sexes,1
-2019,Number,"Business, administration and law",Both sexes,3
-2019,Number,Education,Both sexes,3
-2019,Number,Arts and humanities,Both sexes,2
-2019,Number,Services,Both sexes,0
+2019,Number,Total,Total,42
+2019,Number,"Natural sciences, mathematics and statistics",Total,2
+2019,Number,"Engineering, manufacturing and construction",Total,1
+2019,Number,Information and communication technologies,Total,25
+2019,Number,Health and social protection,Total,2
+2019,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,3
+2019,Number,"Social sciences, journalism and information",Total,1
+2019,Number,"Business, administration and law",Total,3
+2019,Number,Education,Total,3
+2019,Number,Arts and humanities,Total,2
+2019,Number,Services,Total,0
 2019,Number,Total,M,26
 2019,Number,"Natural sciences, mathematics and statistics",M,2
 2019,Number,"Engineering, manufacturing and construction",M,0
@@ -98,17 +98,17 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2019,Number,Education,F,2
 2019,Number,Arts and humanities,F,2
 2019,Number,Services,F,0
-2020,Number,Total,Both sexes,64
-2020,Number,"Natural sciences, mathematics and statistics",Both sexes,0
-2020,Number,"Engineering, manufacturing and construction",Both sexes,3
-2020,Number,Information and communication technologies,Both sexes,30
-2020,Number,Health and social protection,Both sexes,5
-2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Both sexes,2
-2020,Number,"Social sciences, journalism and information",Both sexes,5
-2020,Number,"Business, administration and law",Both sexes,8
-2020,Number,Education,Both sexes,2
-2020,Number,Arts and humanities,Both sexes,9
-2020,Number,Services,Both sexes,0
+2020,Number,Total,Total,64
+2020,Number,"Natural sciences, mathematics and statistics",Total,0
+2020,Number,"Engineering, manufacturing and construction",Total,3
+2020,Number,Information and communication technologies,Total,30
+2020,Number,Health and social protection,Total,5
+2020,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,2
+2020,Number,"Social sciences, journalism and information",Total,5
+2020,Number,"Business, administration and law",Total,8
+2020,Number,Education,Total,2
+2020,Number,Arts and humanities,Total,9
+2020,Number,Services,Total,0
 2020,Number,Total,M,34
 2020,Number,"Natural sciences, mathematics and statistics",M,0
 2020,Number,"Engineering, manufacturing and construction",M,0
