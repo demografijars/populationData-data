@@ -15,8 +15,8 @@ Nationality,Ethnicity/nationality,Etnička/nacionalna pripadnost,Етничка/
 NO_OF_CHILDREN,Number of children,Broj djece,Број дјеце,1,7
 NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE,Household size,Veličina domaćinstva,Величина домаћинства,1,6
 PREVALENCE,Contraception use,Upotreba kontracepcije,Употреба контрацепције,1,3
-PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,2,26
-PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,2,2
+PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,1,25
+PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,1,2
 Religion,Religion,Religija,Религија,1,9
 scientific_field,Scientific field,Naučna oblast,Научна област,4,11
 SEX,Sex,Pol,Пол,55,3
@@ -25,4 +25,4 @@ type_of_education,Type of education,Vrsta obrazovanja,Врста образов�
 type_of_institution,Type of institutions,Vrsta ustanove,Врста установе,3,6
 type_of_school,Type of school,Vrsta škole,Врста школе,2,6
 TYPE_OF_USERS,Type of users,Vrsta korisnika,Врста корисника,4,7
-UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,116,25
+UNIT_MEASURE,Unit measure,Mjerna jedinica,Мјерна јединица,115,24
