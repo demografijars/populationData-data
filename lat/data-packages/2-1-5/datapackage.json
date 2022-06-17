@@ -12,107 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Republika Srpska",
-                "Grad Banja Luka",
-                "Berkovići",
-                "Grad Bijeljina",
-                "Bileća",
-                "Bratunac",
-                "Brod",
-                "Višegrad",
-                "Vlasenica",
-                "Vukosavlje",
-                "Gacko",
-                "Grad Gradiška",
-                "Grad Derventa",
-                "Grad Doboj",
-                "Donji Žabar",
-                "Grad Zvornik",
-                "Istočna Ilidža",
-                "Istočni Drvar",
-                "Istočni Mostar",
-                "Istočni Stari Grad",
-                "Istočno Novo Sarajevo",
-                "Jezero",
-                "Kalinovik",
-                "Kneževo",
-                "Kozarska Dubica",
-                "Kostajnica",
-                "Kotor Varoš",
-                "Krupa Na Uni",
-                "Kupres",
-                "Laktaši",
-                "Lopare",
-                "Ljubinje",
-                "Milići",
-                "Modriča",
-                "Mrkonjić Grad",
-                "Nevesinje",
-                "Novi Grad",
-                "Novo Goražde",
-                "Osmaci",
-                "Oštra Luka",
-                "Pale",
-                "Pelagićevo",
-                "Petrovac",
-                "Petrovo",
-                "Grad Prijedor",
-                "Prnjavor",
-                "Ribnik",
-                "Rogatica",
-                "Rudo",
-                "Sokolac",
-                "Srbac",
-                "Srebrenica",
-                "Teslić",
-                "Grad Trebinje",
-                "Trnovo",
-                "Ugljevik",
-                "Foča",
-                "Han Pijesak",
-                "Čajniče",
-                "Čelinac",
-                "Šamac",
-                "Šekovići",
-                "Šipovo",
-                ""
-              ]
-            },
-            "title": "Grad/opština"
-          },
-          {
-            "name": "NO_OF_CHILDREN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "Nisu rađale",
-                "1 dijete",
-                "2 djece",
-                "3 djece",
-                "4 djece",
-                "5 i više djece",
-                ""
-              ]
-            },
-            "title": "Broj djece"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]

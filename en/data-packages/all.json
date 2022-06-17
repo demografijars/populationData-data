@@ -603,125 +603,6 @@
       "title": "Violence against women after the age of 15 (all types)"
     },
     {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "ADMIN_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Berkovici",
-                "Bileca",
-                "Bratunac",
-                "Brod",
-                "Cajnice",
-                "Celinac",
-                "Donji Zabar",
-                "Foca",
-                "Gacko",
-                "City of Banja Luka",
-                "City of Bijeljina",
-                "City of Derventa",
-                "City of Doboj",
-                "City of Gradiska",
-                "City of Prijedor",
-                "City of Trebinje",
-                "City of Zvornik",
-                "Han Pijesak",
-                "East Ilidza",
-                "East Drvar",
-                "East Mostar",
-                "East Stari Grad",
-                "East Novo Sarajevo",
-                "Jezero",
-                "Kalinovik",
-                "Knezevo",
-                "Kostajnica",
-                "Kotor Varos",
-                "Kozarska Dubica",
-                "Krupa Na Uni",
-                "Kupres",
-                "Laktasi",
-                "Ljubinje",
-                "Lopare",
-                "Milici",
-                "Modrica",
-                "Mrkonjic Grad",
-                "Nevesinje",
-                "Novi Grad",
-                "Novo Gorazde",
-                "Osmaci",
-                "Ostra Luka",
-                "Pale",
-                "Pelagicevo",
-                "Petrovac",
-                "Petrovo",
-                "Prnjavor",
-                "Republika Srpska",
-                "Ribnik",
-                "Rogatica",
-                "Rudo",
-                "Samac",
-                "Sekovici",
-                "Sipovo",
-                "Sokolac",
-                "Srbac",
-                "Srebrenica",
-                "Teslic",
-                "Trnovo",
-                "Ugljevik",
-                "Visegrad",
-                "Vlasenica",
-                "Vukosavlje"
-              ]
-            },
-            "title": "City/minicipality"
-          },
-          {
-            "name": "NO_OF_CHILDREN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "5+ children",
-                "Total",
-                "Did not give birth",
-                "4 children",
-                "1 child",
-                "3 children",
-                "2 children"
-              ]
-            },
-            "title": "Number of children"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Dependency ratios by sex"
-    },
-    {
       "path": "5-1-4/data.csv",
       "name": "5-1-4",
       "profile": "tabular-data-resource",
@@ -6157,6 +6038,125 @@
       "title": "Population estimates by age groups and sex, city/municipality"
     },
     {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
+              ]
+            },
+            "title": "City/minicipality"
+          },
+          {
+            "name": "NO_OF_CHILDREN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+ children",
+                "Total",
+                "Did not give birth",
+                "4 children",
+                "1 child",
+                "3 children",
+                "2 children"
+              ]
+            },
+            "title": "Number of children"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Female population aged 15 years and over by total number of liveborn children, city/municipality"
+    },
+    {
       "path": "1-2-3/data.csv",
       "name": "1-2-3",
       "profile": "tabular-data-resource",
@@ -6181,8 +6181,8 @@
       "title": "Sex ratio at birth"
     },
     {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -6202,7 +6202,7 @@
           }
         ]
       },
-      "title": "Female population aged 15 years and over by total number of liveborn children, city/municipality"
+      "title": "Dependency ratios by sex"
     }
   ]
 }

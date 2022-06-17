@@ -12,11 +12,103 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "republika_srpska",
+                "grad_banja_luka",
+                "berkovici",
+                "grad_bijeljina",
+                "bileca",
+                "bratunac",
+                "brod",
+                "visegrad",
+                "vlasenica",
+                "vukosavlje",
+                "gacko",
+                "grad_gradiska",
+                "grad_derventa",
+                "grad_doboj",
+                "donji_zabar",
+                "grad_zvornik",
+                "istocna_ilidza",
+                "istocni_drvar",
+                "istocni_mostar",
+                "istocni_stari_grad",
+                "istocno_novo_sarajevo",
+                "jezero",
+                "kalinovik",
+                "knezevo",
+                "kozarska_dubica",
+                "kostajnica",
+                "kotor_varos",
+                "krupa_na_uni",
+                "kupres",
+                "laktasi",
+                "lopare",
+                "ljubinje",
+                "milici",
+                "modrica",
+                "mrkonjic_grad",
+                "nevesinje",
+                "novi_grad",
+                "novo_gorazde",
+                "osmaci",
+                "ostra_luka",
+                "pale",
+                "pelagicevo",
+                "petrovac",
+                "petrovo",
+                "grad_prijedor",
+                "prnjavor",
+                "ribnik",
+                "rogatica",
+                "rudo",
+                "sokolac",
+                "srbac",
+                "srebrenica",
+                "teslic",
+                "grad_trebinje",
+                "trnovo",
+                "ugljevik",
+                "foca",
+                "han_pijesak",
+                "cajnice",
+                "celinac",
+                "samac",
+                "sekovici",
+                "sipovo",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NO_OF_CHILDREN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "did_not_give_birth",
+                "one_child",
+                "two_children",
+                "three_children",
+                "four_children",
+                "5+_children",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

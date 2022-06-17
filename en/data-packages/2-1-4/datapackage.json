@@ -11,13 +11,108 @@
       "schema": {
         "fields": [
           {
+            "name": "ADMIN_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Berkovici",
+                "Bileca",
+                "Bratunac",
+                "Brod",
+                "Cajnice",
+                "Celinac",
+                "Donji Zabar",
+                "Foca",
+                "Gacko",
+                "City of Banja Luka",
+                "City of Bijeljina",
+                "City of Derventa",
+                "City of Doboj",
+                "City of Gradiska",
+                "City of Prijedor",
+                "City of Trebinje",
+                "City of Zvornik",
+                "Han Pijesak",
+                "East Ilidza",
+                "East Drvar",
+                "East Mostar",
+                "East Stari Grad",
+                "East Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Knezevo",
+                "Kostajnica",
+                "Kotor Varos",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktasi",
+                "Ljubinje",
+                "Lopare",
+                "Milici",
+                "Modrica",
+                "Mrkonjic Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Gorazde",
+                "Osmaci",
+                "Ostra Luka",
+                "Pale",
+                "Pelagicevo",
+                "Petrovac",
+                "Petrovo",
+                "Prnjavor",
+                "Republika Srpska",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Samac",
+                "Sekovici",
+                "Sipovo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslic",
+                "Trnovo",
+                "Ugljevik",
+                "Visegrad",
+                "Vlasenica",
+                "Vukosavlje"
+              ]
+            },
+            "title": "City/minicipality"
+          },
+          {
+            "name": "NO_OF_CHILDREN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "5+ children",
+                "Total",
+                "Did not give birth",
+                "4 children",
+                "1 child",
+                "3 children",
+                "2 children"
+              ]
+            },
+            "title": "Number of children"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
