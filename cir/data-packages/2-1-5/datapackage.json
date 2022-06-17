@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
+                ""
+              ]
+            },
+            "title": "Врста коефицијента зависности"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Укупно",
+                "M",
+                "Ж",
+                ""
+              ]
+            },
+            "title": "Пол"
           },
           {
             "name": "Value",

@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
+                ""
+              ]
+            },
+            "title": "Vrsta koeficijenta zavisnosti"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Pol"
           },
           {
             "name": "Value",

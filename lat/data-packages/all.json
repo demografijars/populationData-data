@@ -378,61 +378,6 @@
       "title": "Doktori nauka prema oblasti obrazovanja"
     },
     {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Godina"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Mjerna jedinica"
-          },
-          {
-            "name": "TYPE_OF_DEPENDENCY_RATIO",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "(0-14+60+)/(15-59)",
-                "(0-19+65+)/(20-64)",
-                "(0-14+50+)/(15-49)",
-                ""
-              ]
-            },
-            "title": "Vrsta koeficijenta zavisnosti"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukupno",
-                "M",
-                "Ž",
-                ""
-              ]
-            },
-            "title": "Pol"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "2-1-6"
-    },
-    {
       "path": "3-1-4/data.csv",
       "name": "3-1-4",
       "profile": "tabular-data-resource",
@@ -601,6 +546,61 @@
         ]
       },
       "title": "Nasilje nad ženama nakon napunjenih 15 godina života (sve vrste)"
+    },
+    {
+      "path": "2-1-5/data.csv",
+      "name": "2-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Godina"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Mjerna jedinica"
+          },
+          {
+            "name": "TYPE_OF_DEPENDENCY_RATIO",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(0-14+60+)/(15-59)",
+                "(0-19+65+)/(20-64)",
+                "(0-14+50+)/(15-49)",
+                ""
+              ]
+            },
+            "title": "Vrsta koeficijenta zavisnosti"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukupno",
+                "M",
+                "Ž",
+                ""
+              ]
+            },
+            "title": "Pol"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Koeficijenti zavisnosti prema polu"
     },
     {
       "path": "5-1-4/data.csv",
@@ -6179,30 +6179,6 @@
         ]
       },
       "title": "Odnos polova pri rođenju"
-    },
-    {
-      "path": "2-1-5/data.csv",
-      "name": "2-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Godina"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Vrijednost"
-          }
-        ]
-      },
-      "title": "Koeficijenti zavisnosti prema polu"
     }
   ]
 }
