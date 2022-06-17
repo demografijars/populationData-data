@@ -2,12 +2,12 @@ Year: Godina
 Sex: Pol
 Month: Mjesec
 Value: Vrijednost
-ADMIN_AREA: Administrativna oblast
+ADMIN_AREA: Grad/opština
 FBIH: Federacija BiH
 RS: Republika Srpska
 BD: Brčko distrikt BiH
 Municipality: Opština
-Bothsex: Oba pola
+Bothsex: Ukupno
 Male: M
 Female: Ž
 AGE: Starost
@@ -23,7 +23,7 @@ all: Svi
 BIRTHS: Vitalna statistika
 LIVE_BIRTH: Živorođeni
 DEATHS: Umrli
-NATURAL_CHANGE: Prirodno kretanje
+NATURAL_CHANGE: Prirodni priraštaj
 _ALL: Svi
 FERTILITY_RATE: Stopa fertiliteta
 total_fertility_rate: Stopa ukupnog fertiliteta
@@ -50,7 +50,7 @@ unemployed_as_of_labour: "Nezaposleni kao % radne snage"
 inactive_as_of_working: "Neaktivni kao % radno sposobnog stanovništva"
 ACTIVITY_RATES: Stope aktivnosti
 total_15: Ukupno 15 godina i više
-Educational_attainment: Najviši dostugnuti stepen obrazovanja
+Educational_attainment: Najviša završena škola
 no_education: Bez ikakvog obrazovanja
 incomplete_elementary: Nepotpuno osnovno obrazovanje
 elementary_education: Osnovna škola
@@ -123,9 +123,9 @@ unmet_need_for_family_planning: Neostvarena potreba za planiranjem porodice
 satisfied_demand_for_family_planning: Zadovoljena potražnja za planiranjem porodice
 skilled_attendant_at_delivery: Porođaj u prisustvu stručnog lica 
 institutional_deliveries: Porođaj u zdravstvenoj ustanovi
-persons_with_disabilities: Lica s invaliditetom
+persons_with_disabilities: Lica sa poteškoćama
 GRAND_total: Sveukupno
-persons_without_disabilities: Lica bez invaliditeta
+persons_without_disabilities: Lica sa poteškoćama
 status_unknown: Status nepoznat
 married_couple_without_children: Bračni par bez djece 
 consensual_couple_without_children: Par koji živi u vanbračnoj zajednici, bez djece
@@ -143,7 +143,7 @@ average_number_of_hh_members: Prosječan broj članova domaćinstva
 3_members: 3 člana
 4_members: 4 člana
 5+_members: 5 i više članova
-NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Veličina domaćinstva 
+NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE: Broj članova
 DIVORCES: Razvod braka
 divorce_rate_(per_1,000_marriages): Stopa razvoda brakova (na 1.000 brakova)
 number_of_divorces: Broj razvoda brakova
@@ -156,8 +156,8 @@ informal_union: Vanbračna zajednica
 married: U braku
 divorced: Razveden/a
 widowed: Udovac/udovica
-INFANT_MORTALITY: Smrtnost dojenčadi (do navršene prve godine života)
-number_of_infant_deaths: Broj smrtnih slučajeva dojenčadi 
+INFANT_MORTALITY: Smrtnost odojčadi (do navršene prve godine života)
+number_of_infant_deaths: Broj smrtnih slučajeva odojčadi 
 AGE_OF_MOTHER: Starost majke
 AGE_GROUP_OF_WOMEN: Starosna grupa žena
 BIRTH: Rađanje
@@ -172,7 +172,7 @@ natural_increase: Prirodni priraštaj
 mean_age: Prosječna starost
 number_birth_rate: Stopa nataliteta na 1.000 stanovnika
 crude_death_rate_1000: Stopa smrtnosti na 1.000 stanovnika
-infant_(up_to_12_months_of_age)_mortality_rate: Stopa smrtnosti dojenčadi (do navršene prve godine života)
+infant_(up_to_12_months_of_age)_mortality_rate: Stopa smrtnosti odojčadi (do navršene prve godine života)
 VITAL_STATISTICS: Vitalna statistika
 UNIT_MEASUREMENT: Mjerna jedinica
 children_pre_woman: Broj djece po ženi od 15-49 starosti
@@ -195,30 +195,30 @@ four_children: 4 djece
 10_and_more: 10 i više
 Ethnicity_national_affiliation: Etnička/nacionalna pripadnost
 Bosnian_and_Herzegovinian: Bosansko-hercegovačka
-Religion: Religija
-orthodox: Pravoslavac
-catholic: Katolik
-muslim: Musliman
+Religion: Vjeroispovjest
+orthodox: Pravoslavna
+catholic: Katolička
+muslim: Islamska
 agnostic: Agnostik
-atheist: Ateista
-other_religion: Druge religije
-unknown_religion: Nepoznata religija
-does_not_declare: Neopredijeljen
+atheist: Ateist
+other_religion: Ostali
+unknown_religion: Nepoznato
+does_not_declare: Ne izjašnjava se
 Mother_tongue: Maternji jezik
 bosnian: Bosanski
 serbian: Srpski
 croatian: Hrvatski
-other_language: Drugi jezici
-unknown_language: Nepoznat jezik
-agricultural_households_number: Poljoprivredna djelatnost
-agricultural_households: Obavljanje poljoprivredne djelatnosti
-agricultural_selling: Obavljanje poljoprivredne djelatnosti i prodaja poljoprivrednih proizvoda na tržištu
+other_language: Ostali
+unknown_language: Nepoznato
+agricultural_households_number: Poljoprivredna aktivnost
+agricultural_households: Obavljanje poljoprivredne aktivnosti
+agricultural_selling: Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu
 Literacy: Pismenost
-illiterate: Nepismen
-unknown_literacy: Nepoznata pismenost
-Highest_education_atainment: Najviši dostignuti stepen obrazovanja
-No_education: Neobrazovan
-Incomplete_primary_education: Nezavršeno osnovno obrazovanje
+illiterate: Nepismeno
+unknown_literacy: Nepoznato
+Highest_education_atainment: Najviša završena škola
+No_education: Bez škole
+Incomplete_primary_education: Nepotpuno osnovno obrazovanje
 Primary_school: Osnovna škola
 High_school: Srednja škola
 Post-secondary_school_specialization: Specijalizacija nakon završene srednje škole
@@ -394,18 +394,18 @@ doctors_of_science: Doktori nauka
 private: Privatna
 public: Javna
 Nationality: Etnička/nacionalna pripadnost
-bosniaks: Bošnjak
-croats: Hrvat
-serbs: Srbin
-other_ethnicity/nationality: Druga etnička/nacionalna pripadnost
+bosniaks: Bošnjaci
+croats: Hrvati
+serbs: Srbi
+other_ethnicity/nationality: Ostali
 does_not_declare_ethnicity/nationality: Ne izjašnjava se
-unknown_ethnicity/nationality: Nepoznata etnička/nacionalna pripadnost
+unknown_ethnicity/nationality: Nepoznato
 Disabilities: Vrsta poteškoće
 communication: Komunikacija
 dressing: Odijevanje i održavanje lične higijene
-eyesight: Vid
-hearing: Sluh
+eyesight: Vid, iako nosi naočare
+hearing: Sluh, iako koristi slušni aparat
 memory: Pamćenje ili koncentracija
-multiple_disabilities: Višestruke poteškoće
+multiple_disabilities: Sa više poteškoća
 walking: Hod ili penjanje uz stepenice
 Degree: Stepen obrazovanja
