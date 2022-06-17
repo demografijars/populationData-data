@@ -719,7 +719,7 @@
           }
         ]
       },
-      "title": "Žensko stanovništvo staro 15 i više godina prema ukupnom broju živorođene djece, gradovi/opštine"
+      "title": "2-1-5"
     },
     {
       "path": "5-1-4/data.csv",
@@ -6155,6 +6155,30 @@
         ]
       },
       "title": "Procjene stanovništva prema starosnim grupama i polu, gradovi/opštine"
+    },
+    {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Žensko stanovništvo staro 15 i više godina prema ukupnom broju živorođene djece, gradovi/opštine"
     }
   ]
 }
