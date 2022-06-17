@@ -170,7 +170,7 @@
           }
         ]
       },
-      "title": "Broj porođaja adolescentkinja prema starosnim grupama"
+      "title": "1-2-5"
     },
     {
       "path": "5-5-3/data.csv",
@@ -2583,7 +2583,7 @@
           }
         ]
       },
-      "title": "Odnos polova pri rođenju"
+      "title": "Broj porođaja adolescentkinja prema starosnim grupama"
     },
     {
       "path": "1-7-1/data.csv",
@@ -6155,6 +6155,30 @@
         ]
       },
       "title": "Procjene stanovništva prema starosnim grupama i polu, gradovi/opštine"
+    },
+    {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Godina"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Vrijednost"
+          }
+        ]
+      },
+      "title": "Odnos polova pri rođenju"
     },
     {
       "path": "2-1-4/data.csv",
