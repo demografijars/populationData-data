@@ -26,6 +26,8 @@
             "constraints": {
               "enum": [
                 "Ukupno",
+                "M",
+                "Ž",
                 ""
               ]
             },
