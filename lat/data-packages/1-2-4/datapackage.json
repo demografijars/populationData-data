@@ -16,13 +16,25 @@
             "title": "Godina"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<15",
+                "15 - 19",
+                ""
+              ]
+            },
+            "title": "Starost"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Vrijednost"
           }
         ]

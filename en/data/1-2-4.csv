@@ -1,25 +1,45 @@
-Year,UNIT_MEASURE,Value
-1996,Number of boys to 100 girls,108.0
-1997,Number of boys to 100 girls,109.0
-1998,Number of boys to 100 girls,109.9
-1999,Number of boys to 100 girls,104.1
-2000,Number of boys to 100 girls,106.5
-2001,Number of boys to 100 girls,106.1
-2002,Number of boys to 100 girls,106.6
-2003,Number of boys to 100 girls,107.1
-2004,Number of boys to 100 girls,107.9
-2005,Number of boys to 100 girls,105.6
-2006,Number of boys to 100 girls,103.4
-2007,Number of boys to 100 girls,106.0
-2008,Number of boys to 100 girls,106.6
-2009,Number of boys to 100 girls,111.0
-2010,Number of boys to 100 girls,104.5
-2011,Number of boys to 100 girls,110.0
-2012,Number of boys to 100 girls,104.1
-2013,Number of boys to 100 girls,106.6
-2014,Number of boys to 100 girls,108.0
-2015,Number of boys to 100 girls,107.2
-2016,Number of boys to 100 girls,109.1
-2017,Number of boys to 100 girls,109.7
-2018,Number of boys to 100 girls,109.5
-2019,Number of boys to 100 girls,112.4
+Year,Age,UNIT_MEASURE,Value
+1998,<15,Number,0
+1998,15 - 19,Number,796
+1999,<15,Number,1
+1999,15 - 19,Number,907
+2000,<15,Number,1
+2000,15 - 19,Number,722
+2001,<15,Number,2
+2001,15 - 19,Number,938
+2002,<15,Number,4
+2002,15 - 19,Number,787
+2003,<15,Number,0
+2003,15 - 19,Number,688
+2004,<15,Number,4
+2004,15 - 19,Number,697
+2005,<15,Number,3
+2005,15 - 19,Number,659
+2006,<15,Number,3
+2006,15 - 19,Number,586
+2007,<15,Number,3
+2007,15 - 19,Number,557
+2008,<15,Number,4
+2008,15 - 19,Number,536
+2009,<15,Number,3
+2009,15 - 19,Number,499
+2010,<15,Number,0
+2010,15 - 19,Number,436
+2011,<15,Number,0
+2011,15 - 19,Number,407
+2012,<15,Number,1
+2012,15 - 19,Number,452
+2013,<15,Number,0
+2013,15 - 19,Number,376
+2014,<15,Number,0
+2014,15 - 19,Number,362
+2015,<15,Number,1
+2015,15 - 19,Number,311
+2016,<15,Number,1
+2016,15 - 19,Number,337
+2017,<15,Number,0
+2017,15 - 19,Number,280
+2018,<15,Number,1
+2018,15 - 19,Number,219
+2019,<15,Number,1
+2019,15 - 19,Number,223

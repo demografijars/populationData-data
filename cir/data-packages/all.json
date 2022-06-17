@@ -132,47 +132,6 @@
       "title": "Стопа специјалиста породичне медицине запослених у установама за пружање здравствене заштите на 100.000 становника"
     },
     {
-      "path": "1-2-5/data.csv",
-      "name": "1-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Година"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<15",
-                "15 - 19",
-                ""
-              ]
-            },
-            "title": "Старост"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Мјерна јединица"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "1-2-5"
-    },
-    {
       "path": "5-5-3/data.csv",
       "name": "5-5-3",
       "profile": "tabular-data-resource",
@@ -1053,6 +1012,35 @@
         ]
       },
       "title": "Задовољена потражња за планирањем породице"
+    },
+    {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Година"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Мјерна јединица"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Вриједност"
+          }
+        ]
+      },
+      "title": "Однос полова при рођењу"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2453,13 +2441,25 @@
             "title": "Година"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<15",
+                "15 - 19",
+                ""
+              ]
+            },
+            "title": "Старост"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Мјерна јединица"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Вриједност"
           }
         ]
@@ -6155,30 +6155,6 @@
         ]
       },
       "title": "Женско становништво старости 15 и више година према укупном броју живорођене дјеце, градови/општине"
-    },
-    {
-      "path": "1-2-3/data.csv",
-      "name": "1-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Година"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Вриједност"
-          }
-        ]
-      },
-      "title": "Однос полова при рођењу"
     }
   ]
 }
