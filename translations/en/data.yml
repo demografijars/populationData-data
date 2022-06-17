@@ -2,7 +2,7 @@
 Sex: Sex
 Month: Month
 Value: Value
-ADMIN_AREA: Administrative area
+ADMIN_AREA: City/minicipality
 FBIH: Federation of BiH
 RS: Republika Srpska
 BD: Brčko District of BiH
@@ -20,7 +20,7 @@ all: All
 BIRTHS: Vital statistics
 LIVE_BIRTH: Live births
 DEATHS: Deaths
-NATURAL_CHANGE: Natural change
+NATURAL_CHANGE: Natural increase
 _ALL: All
 FERTILITY_RATE: Fertility rate
 total_fertility_rate: Total fertility rate
@@ -189,35 +189,35 @@ census_pyramid: Census
 projection_pyramid: Year of projection
 LIVE_BORN_CHILDREN: Live-born children
 10_and_more: 10 and more
-Ethnicity_national_affiliation: Ethnicity/national affiliation
+Ethnicity_national_affiliation: Ethnic/national affiliation
 Religion: Religion
 Orthodox: Orthodox
 Catholic: Catholic
-Muslim: Muslim
+Muslim: Islam
 Agnostic: Agnostic
 Atheist: Atheist
-Others: Others
-Undeclared: Undaclared
+Others: Other
+Undeclared: Did not declare
 Mother_tongue: Mother tongue
 bosnian: Bosnian
 serbian: Serbian
 croatian: Croatian
-other_language: Other language
-unknown_language: Unknown language
+other_language: Other 
+unknown_language: Unknown
 agricultural_households_number: Agricultural activity
-agricultural_households: Performing agricultural activity
-agricultural_selling: Performing agricultural activity and selling agricultural products in the market
+agricultural_households: Engaged in agricultural activities
+agricultural_selling: Engaged in agricultural activities that sell their products in the market
 Literacy: Literacy
 illiterate: Illiterate
 unknown_literacy: Unknown literacy
 Highest_education_atainment: Highest education attainment 
-No_education: No education
+No_education: Without educational attainment
 Incomplete_primary_education: Incomplete primary education
 Primary_school: Primary school
 Secondary_school: Secondary school
 Post-secondary_school_specialization: Post-secondary school specialization
-Higher_school_and_first_grade_of_faculty: Higher school and first grade of faculty
-Advanced_schools_faculty_academy_university: Advanced schools/faculty/academy/university
+Higher_school_and_first_grade_of_faculty: High school and first grade of faculty
+Advanced_schools_faculty_academy_university: Higher school/ faculty/academy/ university
 private: Private
 public: Public
 gymnasium: Gymnasium
@@ -303,28 +303,28 @@ visegrad: "Visegrad"
 vlasenica: "Vlasenica"
 vukosavlje: "Vukosavlje"
 Nationality: Ethnicity/nationality
-bosniaks: Bosniak
-croats: Croat
-serbs: Serb
-other_ethnicity/nationality: Other ethnicity/nationality
-does_not_declare_ethnicity/nationality: Does not declare ethnicity/nationality
-unknown_ethnicity/nationality: Unknown ethnicity/nationality
+bosniaks: Bosniaks
+croats: Croats
+serbs: Serbs
+other_ethnicity/nationality: Other 
+does_not_declare_ethnicity/nationality: Did not declare
+unknown_ethnicity/nationality: Unknown 
 Religion: Religion
 orthodox: Orthodox
 catholic: Catholic
-muslim: Muslim
+muslim: Islam
 agnostic: Agnostic
 atheist: Atheist
-other_religion: Other religions
-unknown_religion: Unknown religion
-does_not_declare: Does not declare
+other_religion: Other 
+unknown_religion: Unknown 
+does_not_declare: did not declare
 Disabilities: Type of disability
 communication: Communication
-dressing: Dressing and maintaining personal hygiene
-eyesight: Eyesight
-hearing: Hearing
-memory: Memory or concentration
-multiple_disabilities: Multiple disabilities
+dressing: Dressing and personal hygiene
+eyesight: Seeing, even with the use of seeing aids
+hearing: Hearing, even with the use of hearing aids
+memory: Remembering or concentrating
+multiple_disabilities: With multiple disabilities
 walking: Walking or climbing the stairs
 SP_beneficiaries: Social protection beneficiaries
 TYPE_OF_USERS: Type of users
