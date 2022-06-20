@@ -213,7 +213,7 @@
           }
         ]
       },
-      "title": "Stopa realnog rasta bruto društvenog proizvoda (BDP)"
+      "title": "Bruto domaći proizvod (BDP), stope realnog rasta"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3793,7 +3793,7 @@
           }
         ]
       },
-      "title": "Bruto društveni proizvod (BDP) prema glavi stanovnika"
+      "title": "Bruto domaći proizvod (BDP), po stanovniku"
     },
     {
       "path": "7-2-2/data.csv",
@@ -4361,7 +4361,7 @@
           }
         ]
       },
-      "title": "Bruto društveni proizvod (BDP) – ukupni (u milionima)"
+      "title": "Bruto domaći proizvod (BDP) – ukupno (u milionima)"
     },
     {
       "path": "3-2-4/data.csv",
