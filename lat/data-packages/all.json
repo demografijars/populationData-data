@@ -3156,7 +3156,7 @@
           }
         ]
       },
-      "title": "Korisnici socijalne zaštite prema vrsti korisnika"
+      "title": "Korisnici socijalne zaštite po vrsti korisnika"
     },
     {
       "path": "3-5-5/data.csv",
@@ -5437,7 +5437,7 @@
           }
         ]
       },
-      "title": "Korisnici socijalne zaštite prema polu"
+      "title": "Korisnici ustanova socijalne zaštite po polu"
     },
     {
       "path": "1-7-2/data.csv",
