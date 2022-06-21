@@ -17,6 +17,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,total,14763
 2019,NUMBER,_T,total,15081
 2020,NUMBER,_T,total,16582
+2021,NUMBER,_T,total,19002
 2003,NUMBER,_T,infectious_and_parasitic,89
 2004,NUMBER,_T,infectious_and_parasitic,124
 2005,NUMBER,_T,infectious_and_parasitic,128
@@ -35,6 +36,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,infectious_and_parasitic,184
 2019,NUMBER,_T,infectious_and_parasitic,200
 2020,NUMBER,_T,infectious_and_parasitic,162
+2021,NUMBER,_T,infectious_and_parasitic,140
 2003,NUMBER,_T,neoplasms,2411
 2004,NUMBER,_T,neoplasms,2330
 2005,NUMBER,_T,neoplasms,2653
@@ -53,6 +55,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,neoplasms,2938
 2019,NUMBER,_T,neoplasms,2891
 2020,NUMBER,_T,neoplasms,2719
+2021,NUMBER,_T,neoplasms,2623
 2003,NUMBER,_T,diseases_of_the_blood,8
 2004,NUMBER,_T,diseases_of_the_blood,13
 2005,NUMBER,_T,diseases_of_the_blood,15
@@ -71,6 +74,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_blood,36
 2019,NUMBER,_T,diseases_of_the_blood,24
 2020,NUMBER,_T,diseases_of_the_blood,27
+2021,NUMBER,_T,diseases_of_the_blood,22
 2003,NUMBER,_T,endocrine_metabolic_and_nutritional,180
 2004,NUMBER,_T,endocrine_metabolic_and_nutritional,160
 2005,NUMBER,_T,endocrine_metabolic_and_nutritional,727
@@ -89,6 +93,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,endocrine_metabolic_and_nutritional,844
 2019,NUMBER,_T,endocrine_metabolic_and_nutritional,604
 2020,NUMBER,_T,endocrine_metabolic_and_nutritional,825
+2021,NUMBER,_T,endocrine_metabolic_and_nutritional,921
 2003,NUMBER,_T,mental_and_behavioural_disorders,33
 2004,NUMBER,_T,mental_and_behavioural_disorders,58
 2005,NUMBER,_T,mental_and_behavioural_disorders,80
@@ -107,6 +112,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,mental_and_behavioural_disorders,85
 2019,NUMBER,_T,mental_and_behavioural_disorders,72
 2020,NUMBER,_T,mental_and_behavioural_disorders,72
+2021,NUMBER,_T,mental_and_behavioural_disorders,107
 2003,NUMBER,_T,diseases_of_the_nervous,65
 2004,NUMBER,_T,diseases_of_the_nervous,91
 2005,NUMBER,_T,diseases_of_the_nervous,170
@@ -125,6 +131,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_nervous,169
 2019,NUMBER,_T,diseases_of_the_nervous,165
 2020,NUMBER,_T,diseases_of_the_nervous,188
+2021,NUMBER,_T,diseases_of_the_nervous,173
 2003,NUMBER,_T,diseases_of_the_eye,0
 2004,NUMBER,_T,diseases_of_the_eye,0
 2005,NUMBER,_T,diseases_of_the_eye,0
@@ -143,6 +150,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_eye,0
 2019,NUMBER,_T,diseases_of_the_eye,0
 2020,NUMBER,_T,diseases_of_the_eye,0
+2021,NUMBER,_T,diseases_of_the_eye,0
 2003,NUMBER,_T,diseases_of_the_ear,0
 2004,NUMBER,_T,diseases_of_the_ear,0
 2005,NUMBER,_T,diseases_of_the_ear,1
@@ -161,6 +169,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_ear,0
 2019,NUMBER,_T,diseases_of_the_ear,0
 2020,NUMBER,_T,diseases_of_the_ear,0
+2021,NUMBER,_T,diseases_of_the_ear,0
 2003,NUMBER,_T,diseases_of_the_circulatory,7071
 2004,NUMBER,_T,diseases_of_the_circulatory,7340
 2005,NUMBER,_T,diseases_of_the_circulatory,7002
@@ -179,6 +188,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_circulatory,6989
 2019,NUMBER,_T,diseases_of_the_circulatory,7473
 2020,NUMBER,_T,diseases_of_the_circulatory,7602
+2021,NUMBER,_T,diseases_of_the_circulatory,7217
 2003,NUMBER,_T,diseases_of_the_respiratory,304
 2004,NUMBER,_T,diseases_of_the_respiratory,345
 2005,NUMBER,_T,diseases_of_the_respiratory,504
@@ -197,6 +207,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_respiratory,626
 2019,NUMBER,_T,diseases_of_the_respiratory,596
 2020,NUMBER,_T,diseases_of_the_respiratory,631
+2021,NUMBER,_T,diseases_of_the_respiratory,640
 2003,NUMBER,_T,diseases_of_the_digestive,352
 2004,NUMBER,_T,diseases_of_the_digestive,347
 2005,NUMBER,_T,diseases_of_the_digestive,343
@@ -215,6 +226,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_digestive,481
 2019,NUMBER,_T,diseases_of_the_digestive,419
 2020,NUMBER,_T,diseases_of_the_digestive,438
+2021,NUMBER,_T,diseases_of_the_digestive,400
 2003,NUMBER,_T,diseases_of_the_skin,0
 2004,NUMBER,_T,diseases_of_the_skin,3
 2005,NUMBER,_T,diseases_of_the_skin,0
@@ -233,6 +245,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_skin,22
 2019,NUMBER,_T,diseases_of_the_skin,23
 2020,NUMBER,_T,diseases_of_the_skin,30
+2021,NUMBER,_T,diseases_of_the_skin,33
 2003,NUMBER,_T,diseases_of_the_musculoskeletal,6
 2004,NUMBER,_T,diseases_of_the_musculoskeletal,3
 2005,NUMBER,_T,diseases_of_the_musculoskeletal,12
@@ -251,6 +264,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_musculoskeletal,21
 2019,NUMBER,_T,diseases_of_the_musculoskeletal,13
 2020,NUMBER,_T,diseases_of_the_musculoskeletal,28
+2021,NUMBER,_T,diseases_of_the_musculoskeletal,8
 2003,NUMBER,_T,diseases_of_the_genitourinary,222
 2004,NUMBER,_T,diseases_of_the_genitourinary,205
 2005,NUMBER,_T,diseases_of_the_genitourinary,257
@@ -269,6 +283,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,diseases_of_the_genitourinary,220
 2019,NUMBER,_T,diseases_of_the_genitourinary,195
 2020,NUMBER,_T,diseases_of_the_genitourinary,221
+2021,NUMBER,_T,diseases_of_the_genitourinary,197
 2003,NUMBER,_T,pregnancy_childbirth_and_the,1
 2004,NUMBER,_T,pregnancy_childbirth_and_the,0
 2005,NUMBER,_T,pregnancy_childbirth_and_the,2
@@ -287,6 +302,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,pregnancy_childbirth_and_the,1
 2019,NUMBER,_T,pregnancy_childbirth_and_the,0
 2020,NUMBER,_T,pregnancy_childbirth_and_the,3
+2021,NUMBER,_T,pregnancy_childbirth_and_the,0
 2003,NUMBER,_T,certain_conditions_originating,44
 2004,NUMBER,_T,certain_conditions_originating,38
 2005,NUMBER,_T,certain_conditions_originating,27
@@ -305,6 +321,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,certain_conditions_originating,10
 2019,NUMBER,_T,certain_conditions_originating,11
 2020,NUMBER,_T,certain_conditions_originating,34
+2021,NUMBER,_T,certain_conditions_originating,9
 2003,NUMBER,_T,congenital_malformations_deformations,10
 2004,NUMBER,_T,congenital_malformations_deformations,11
 2005,NUMBER,_T,congenital_malformations_deformations,14
@@ -323,6 +340,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,congenital_malformations_deformations,5
 2019,NUMBER,_T,congenital_malformations_deformations,4
 2020,NUMBER,_T,congenital_malformations_deformations,6
+2021,NUMBER,_T,congenital_malformations_deformations,5
 2003,NUMBER,_T,symptoms_signs_and_abnormal,1612
 2004,NUMBER,_T,symptoms_signs_and_abnormal,1462
 2005,NUMBER,_T,symptoms_signs_and_abnormal,1249
@@ -341,6 +359,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,symptoms_signs_and_abnormal,1650
 2019,NUMBER,_T,symptoms_signs_and_abnormal,1961
 2020,NUMBER,_T,symptoms_signs_and_abnormal,1599
+2021,NUMBER,_T,symptoms_signs_and_abnormal,2213
 2003,NUMBER,_T,injuries_poisoning_and_consequences,580
 2004,NUMBER,_T,injuries_poisoning_and_consequences,552
 2005,NUMBER,_T,injuries_poisoning_and_consequences,618
@@ -359,6 +378,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,injuries_poisoning_and_consequences,482
 2019,NUMBER,_T,injuries_poisoning_and_consequences,430
 2020,NUMBER,_T,injuries_poisoning_and_consequences,405
+2021,NUMBER,_T,injuries_poisoning_and_consequences,448
 2003,NUMBER,_T,special_purpose_codes,0
 2004,NUMBER,_T,special_purpose_codes,0
 2005,NUMBER,_T,special_purpose_codes,0
@@ -377,6 +397,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,_T,special_purpose_codes,0
 2019,NUMBER,_T,special_purpose_codes,0
 2020,NUMBER,_T,special_purpose_codes,1592
+2021,NUMBER,_T,special_purpose_codes,3846
 2003,NUMBER,M,total,6804
 2004,NUMBER,M,total,6735
 2005,NUMBER,M,total,7239
@@ -395,6 +416,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,total,7449
 2019,NUMBER,M,total,7753
 2020,NUMBER,M,total,8613
+2021,NUMBER,M,total,9943
 2003,NUMBER,M,infectious_and_parasitic,59
 2004,NUMBER,M,infectious_and_parasitic,75
 2005,NUMBER,M,infectious_and_parasitic,78
@@ -413,6 +435,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,infectious_and_parasitic,109
 2019,NUMBER,M,infectious_and_parasitic,119
 2020,NUMBER,M,infectious_and_parasitic,87
+2021,NUMBER,M,infectious_and_parasitic,86
 2003,NUMBER,M,neoplasms,1461
 2004,NUMBER,M,neoplasms,1402
 2005,NUMBER,M,neoplasms,1581
@@ -431,6 +454,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,neoplasms,1729
 2019,NUMBER,M,neoplasms,1705
 2020,NUMBER,M,neoplasms,1622
+2021,NUMBER,M,neoplasms,1558
 2003,NUMBER,M,diseases_of_the_blood,6
 2004,NUMBER,M,diseases_of_the_blood,2
 2005,NUMBER,M,diseases_of_the_blood,5
@@ -449,6 +473,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_blood,18
 2019,NUMBER,M,diseases_of_the_blood,8
 2020,NUMBER,M,diseases_of_the_blood,12
+2021,NUMBER,M,diseases_of_the_blood,7
 2003,NUMBER,M,endocrine_metabolic_and_nutritional,71
 2004,NUMBER,M,endocrine_metabolic_and_nutritional,68
 2005,NUMBER,M,endocrine_metabolic_and_nutritional,286
@@ -467,6 +492,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,endocrine_metabolic_and_nutritional,386
 2019,NUMBER,M,endocrine_metabolic_and_nutritional,261
 2020,NUMBER,M,endocrine_metabolic_and_nutritional,340
+2021,NUMBER,M,endocrine_metabolic_and_nutritional,387
 2003,NUMBER,M,mental_and_behavioural_disorders,24
 2004,NUMBER,M,mental_and_behavioural_disorders,46
 2005,NUMBER,M,mental_and_behavioural_disorders,64
@@ -485,6 +511,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,mental_and_behavioural_disorders,55
 2019,NUMBER,M,mental_and_behavioural_disorders,50
 2020,NUMBER,M,mental_and_behavioural_disorders,43
+2021,NUMBER,M,mental_and_behavioural_disorders,63
 2003,NUMBER,M,diseases_of_the_nervous,39
 2004,NUMBER,M,diseases_of_the_nervous,53
 2005,NUMBER,M,diseases_of_the_nervous,86
@@ -503,6 +530,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_nervous,82
 2019,NUMBER,M,diseases_of_the_nervous,84
 2020,NUMBER,M,diseases_of_the_nervous,91
+2021,NUMBER,M,diseases_of_the_nervous,100
 2003,NUMBER,M,diseases_of_the_eye,0
 2004,NUMBER,M,diseases_of_the_eye,0
 2005,NUMBER,M,diseases_of_the_eye,0
@@ -521,6 +549,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_eye,0
 2019,NUMBER,M,diseases_of_the_eye,0
 2020,NUMBER,M,diseases_of_the_eye,0
+2021,NUMBER,M,diseases_of_the_eye,0
 2003,NUMBER,M,diseases_of_the_ear,0
 2004,NUMBER,M,diseases_of_the_ear,0
 2005,NUMBER,M,diseases_of_the_ear,1
@@ -539,6 +568,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_ear,0
 2019,NUMBER,M,diseases_of_the_ear,0
 2020,NUMBER,M,diseases_of_the_ear,0
+2021,NUMBER,M,diseases_of_the_ear,0
 2003,NUMBER,M,diseases_of_the_circulatory,3323
 2004,NUMBER,M,diseases_of_the_circulatory,3383
 2005,NUMBER,M,diseases_of_the_circulatory,3325
@@ -557,6 +587,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_circulatory,3084
 2019,NUMBER,M,diseases_of_the_circulatory,3440
 2020,NUMBER,M,diseases_of_the_circulatory,3452
+2021,NUMBER,M,diseases_of_the_circulatory,3261
 2003,NUMBER,M,diseases_of_the_respiratory,184
 2004,NUMBER,M,diseases_of_the_respiratory,211
 2005,NUMBER,M,diseases_of_the_respiratory,284
@@ -575,6 +606,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_respiratory,344
 2019,NUMBER,M,diseases_of_the_respiratory,338
 2020,NUMBER,M,diseases_of_the_respiratory,377
+2021,NUMBER,M,diseases_of_the_respiratory,369
 2003,NUMBER,M,diseases_of_the_digestive,216
 2004,NUMBER,M,diseases_of_the_digestive,206
 2005,NUMBER,M,diseases_of_the_digestive,219
@@ -593,6 +625,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_digestive,290
 2019,NUMBER,M,diseases_of_the_digestive,239
 2020,NUMBER,M,diseases_of_the_digestive,269
+2021,NUMBER,M,diseases_of_the_digestive,244
 2003,NUMBER,M,diseases_of_the_skin,0
 2004,NUMBER,M,diseases_of_the_skin,0
 2005,NUMBER,M,diseases_of_the_skin,0
@@ -611,6 +644,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_skin,12
 2019,NUMBER,M,diseases_of_the_skin,7
 2020,NUMBER,M,diseases_of_the_skin,13
+2021,NUMBER,M,diseases_of_the_skin,12
 2003,NUMBER,M,diseases_of_the_musculoskeletal,3
 2004,NUMBER,M,diseases_of_the_musculoskeletal,1
 2005,NUMBER,M,diseases_of_the_musculoskeletal,5
@@ -629,6 +663,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_musculoskeletal,4
 2019,NUMBER,M,diseases_of_the_musculoskeletal,4
 2020,NUMBER,M,diseases_of_the_musculoskeletal,7
+2021,NUMBER,M,diseases_of_the_musculoskeletal,5
 2003,NUMBER,M,diseases_of_the_genitourinary,123
 2004,NUMBER,M,diseases_of_the_genitourinary,113
 2005,NUMBER,M,diseases_of_the_genitourinary,160
@@ -647,6 +682,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,diseases_of_the_genitourinary,117
 2019,NUMBER,M,diseases_of_the_genitourinary,104
 2020,NUMBER,M,diseases_of_the_genitourinary,113
+2021,NUMBER,M,diseases_of_the_genitourinary,107
 2003,NUMBER,M,certain_conditions_originating,23
 2004,NUMBER,M,certain_conditions_originating,28
 2005,NUMBER,M,certain_conditions_originating,17
@@ -665,6 +701,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,certain_conditions_originating,3
 2019,NUMBER,M,certain_conditions_originating,6
 2020,NUMBER,M,certain_conditions_originating,16
+2021,NUMBER,M,certain_conditions_originating,5
 2003,NUMBER,M,congenital_malformations_deformations,7
 2004,NUMBER,M,congenital_malformations_deformations,10
 2005,NUMBER,M,congenital_malformations_deformations,6
@@ -683,6 +720,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,congenital_malformations_deformations,2
 2019,NUMBER,M,congenital_malformations_deformations,0
 2020,NUMBER,M,congenital_malformations_deformations,3
+2021,NUMBER,M,congenital_malformations_deformations,5
 2003,NUMBER,M,symptoms_signs_and_abnormal,821
 2004,NUMBER,M,symptoms_signs_and_abnormal,726
 2005,NUMBER,M,symptoms_signs_and_abnormal,659
@@ -701,6 +739,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,symptoms_signs_and_abnormal,844
 2019,NUMBER,M,symptoms_signs_and_abnormal,1048
 2020,NUMBER,M,symptoms_signs_and_abnormal,834
+2021,NUMBER,M,symptoms_signs_and_abnormal,1187
 2003,NUMBER,M,injuries_poisoning_and_consequences,444
 2004,NUMBER,M,injuries_poisoning_and_consequences,411
 2005,NUMBER,M,injuries_poisoning_and_consequences,463
@@ -719,6 +758,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,injuries_poisoning_and_consequences,370
 2019,NUMBER,M,injuries_poisoning_and_consequences,340
 2020,NUMBER,M,injuries_poisoning_and_consequences,304
+2021,NUMBER,M,injuries_poisoning_and_consequences,334
 2003,NUMBER,M,special_purpose_codes,0
 2004,NUMBER,M,special_purpose_codes,0
 2005,NUMBER,M,special_purpose_codes,0
@@ -737,6 +777,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,M,special_purpose_codes,0
 2019,NUMBER,M,special_purpose_codes,0
 2020,NUMBER,M,special_purpose_codes,1030
+2021,NUMBER,M,special_purpose_codes,2213
 2003,NUMBER,F,total,6184
 2004,NUMBER,F,total,6347
 2005,NUMBER,F,total,6563
@@ -755,6 +796,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,total,7314
 2019,NUMBER,F,total,7328
 2020,NUMBER,F,total,7969
+2021,NUMBER,F,total,9059
 2003,NUMBER,F,infectious_and_parasitic,30
 2004,NUMBER,F,infectious_and_parasitic,49
 2005,NUMBER,F,infectious_and_parasitic,50
@@ -773,6 +815,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,infectious_and_parasitic,75
 2019,NUMBER,F,infectious_and_parasitic,81
 2020,NUMBER,F,infectious_and_parasitic,75
+2021,NUMBER,F,infectious_and_parasitic,54
 2003,NUMBER,F,neoplasms,950
 2004,NUMBER,F,neoplasms,928
 2005,NUMBER,F,neoplasms,1072
@@ -791,6 +834,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,neoplasms,1209
 2019,NUMBER,F,neoplasms,1186
 2020,NUMBER,F,neoplasms,1097
+2021,NUMBER,F,neoplasms,1065
 2003,NUMBER,F,diseases_of_the_blood,2
 2004,NUMBER,F,diseases_of_the_blood,11
 2005,NUMBER,F,diseases_of_the_blood,10
@@ -809,6 +853,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_blood,18
 2019,NUMBER,F,diseases_of_the_blood,16
 2020,NUMBER,F,diseases_of_the_blood,15
+2021,NUMBER,F,diseases_of_the_blood,15
 2003,NUMBER,F,endocrine_metabolic_and_nutritional,109
 2004,NUMBER,F,endocrine_metabolic_and_nutritional,92
 2005,NUMBER,F,endocrine_metabolic_and_nutritional,441
@@ -827,6 +872,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,endocrine_metabolic_and_nutritional,458
 2019,NUMBER,F,endocrine_metabolic_and_nutritional,343
 2020,NUMBER,F,endocrine_metabolic_and_nutritional,485
+2021,NUMBER,F,endocrine_metabolic_and_nutritional,534
 2003,NUMBER,F,mental_and_behavioural_disorders,9
 2004,NUMBER,F,mental_and_behavioural_disorders,12
 2005,NUMBER,F,mental_and_behavioural_disorders,16
@@ -845,6 +891,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,mental_and_behavioural_disorders,30
 2019,NUMBER,F,mental_and_behavioural_disorders,22
 2020,NUMBER,F,mental_and_behavioural_disorders,29
+2021,NUMBER,F,mental_and_behavioural_disorders,44
 2003,NUMBER,F,diseases_of_the_nervous,26
 2004,NUMBER,F,diseases_of_the_nervous,38
 2005,NUMBER,F,diseases_of_the_nervous,84
@@ -863,6 +910,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_nervous,87
 2019,NUMBER,F,diseases_of_the_nervous,81
 2020,NUMBER,F,diseases_of_the_nervous,97
+2021,NUMBER,F,diseases_of_the_nervous,73
 2003,NUMBER,F,diseases_of_the_eye,0
 2004,NUMBER,F,diseases_of_the_eye,0
 2005,NUMBER,F,diseases_of_the_eye,0
@@ -881,6 +929,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_eye,0
 2019,NUMBER,F,diseases_of_the_eye,0
 2020,NUMBER,F,diseases_of_the_eye,0
+2021,NUMBER,F,diseases_of_the_eye,0
 2003,NUMBER,F,diseases_of_the_ear,0
 2004,NUMBER,F,diseases_of_the_ear,0
 2005,NUMBER,F,diseases_of_the_ear,0
@@ -899,6 +948,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_ear,0
 2019,NUMBER,F,diseases_of_the_ear,0
 2020,NUMBER,F,diseases_of_the_ear,0
+2021,NUMBER,F,diseases_of_the_ear,0
 2003,NUMBER,F,diseases_of_the_circulatory,3748
 2004,NUMBER,F,diseases_of_the_circulatory,3957
 2005,NUMBER,F,diseases_of_the_circulatory,3677
@@ -917,6 +967,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_circulatory,3905
 2019,NUMBER,F,diseases_of_the_circulatory,4033
 2020,NUMBER,F,diseases_of_the_circulatory,4150
+2021,NUMBER,F,diseases_of_the_circulatory,3956
 2003,NUMBER,F,diseases_of_the_respiratory,120
 2004,NUMBER,F,diseases_of_the_respiratory,134
 2005,NUMBER,F,diseases_of_the_respiratory,220
@@ -935,6 +986,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_respiratory,282
 2019,NUMBER,F,diseases_of_the_respiratory,258
 2020,NUMBER,F,diseases_of_the_respiratory,254
+2021,NUMBER,F,diseases_of_the_respiratory,271
 2003,NUMBER,F,diseases_of_the_digestive,136
 2004,NUMBER,F,diseases_of_the_digestive,141
 2005,NUMBER,F,diseases_of_the_digestive,124
@@ -953,6 +1005,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_digestive,191
 2019,NUMBER,F,diseases_of_the_digestive,180
 2020,NUMBER,F,diseases_of_the_digestive,169
+2021,NUMBER,F,diseases_of_the_digestive,156
 2003,NUMBER,F,diseases_of_the_skin,0
 2004,NUMBER,F,diseases_of_the_skin,3
 2005,NUMBER,F,diseases_of_the_skin,0
@@ -971,6 +1024,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_skin,10
 2019,NUMBER,F,diseases_of_the_skin,16
 2020,NUMBER,F,diseases_of_the_skin,17
+2021,NUMBER,F,diseases_of_the_skin,21
 2003,NUMBER,F,diseases_of_the_musculoskeletal,3
 2004,NUMBER,F,diseases_of_the_musculoskeletal,2
 2005,NUMBER,F,diseases_of_the_musculoskeletal,7
@@ -989,6 +1043,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_musculoskeletal,17
 2019,NUMBER,F,diseases_of_the_musculoskeletal,9
 2020,NUMBER,F,diseases_of_the_musculoskeletal,21
+2021,NUMBER,F,diseases_of_the_musculoskeletal,3
 2003,NUMBER,F,diseases_of_the_genitourinary,99
 2004,NUMBER,F,diseases_of_the_genitourinary,92
 2005,NUMBER,F,diseases_of_the_genitourinary,97
@@ -1007,6 +1062,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,diseases_of_the_genitourinary,103
 2019,NUMBER,F,diseases_of_the_genitourinary,91
 2020,NUMBER,F,diseases_of_the_genitourinary,108
+2021,NUMBER,F,diseases_of_the_genitourinary,90
 2003,NUMBER,F,pregnancy_childbirth_and_the,1
 2004,NUMBER,F,pregnancy_childbirth_and_the,0
 2005,NUMBER,F,pregnancy_childbirth_and_the,2
@@ -1025,6 +1081,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,pregnancy_childbirth_and_the,1
 2019,NUMBER,F,pregnancy_childbirth_and_the,0
 2020,NUMBER,F,pregnancy_childbirth_and_the,3
+2021,NUMBER,F,pregnancy_childbirth_and_the,0
 2003,NUMBER,F,certain_conditions_originating,21
 2004,NUMBER,F,certain_conditions_originating,10
 2005,NUMBER,F,certain_conditions_originating,10
@@ -1043,6 +1100,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,certain_conditions_originating,7
 2019,NUMBER,F,certain_conditions_originating,5
 2020,NUMBER,F,certain_conditions_originating,18
+2021,NUMBER,F,certain_conditions_originating,4
 2003,NUMBER,F,congenital_malformations_deformations,3
 2004,NUMBER,F,congenital_malformations_deformations,1
 2005,NUMBER,F,congenital_malformations_deformations,8
@@ -1061,6 +1119,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,congenital_malformations_deformations,3
 2019,NUMBER,F,congenital_malformations_deformations,4
 2020,NUMBER,F,congenital_malformations_deformations,3
+2021,NUMBER,F,congenital_malformations_deformations,0
 2003,NUMBER,F,symptoms_signs_and_abnormal,791
 2004,NUMBER,F,symptoms_signs_and_abnormal,736
 2005,NUMBER,F,symptoms_signs_and_abnormal,590
@@ -1079,6 +1138,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,symptoms_signs_and_abnormal,806
 2019,NUMBER,F,symptoms_signs_and_abnormal,913
 2020,NUMBER,F,symptoms_signs_and_abnormal,765
+2021,NUMBER,F,symptoms_signs_and_abnormal,1026
 2003,NUMBER,F,injuries_poisoning_and_consequences,136
 2004,NUMBER,F,injuries_poisoning_and_consequences,141
 2005,NUMBER,F,injuries_poisoning_and_consequences,155
@@ -1097,6 +1157,7 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,injuries_poisoning_and_consequences,112
 2019,NUMBER,F,injuries_poisoning_and_consequences,90
 2020,NUMBER,F,injuries_poisoning_and_consequences,101
+2021,NUMBER,F,injuries_poisoning_and_consequences,114
 2003,NUMBER,F,special_purpose_codes,0
 2004,NUMBER,F,special_purpose_codes,0
 2005,NUMBER,F,special_purpose_codes,0
@@ -1115,3 +1176,4 @@ Year,UNIT_MEASURE,SEX,CAUSE_OF_DEATH,Value
 2018,NUMBER,F,special_purpose_codes,0
 2019,NUMBER,F,special_purpose_codes,0
 2020,NUMBER,F,special_purpose_codes,562
+2021,NUMBER,F,special_purpose_codes,1633

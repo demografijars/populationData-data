@@ -17,6 +17,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,Total,14763
 2019,Number,Total,Total,15081
 2020,Number,Total,Total,16582
+2021,Number,Total,Total,19002
 2003,Number,Total,(A00-B99) Infectious and parasitic diseases,89
 2004,Number,Total,(A00-B99) Infectious and parasitic diseases,124
 2005,Number,Total,(A00-B99) Infectious and parasitic diseases,128
@@ -35,6 +36,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(A00-B99) Infectious and parasitic diseases,184
 2019,Number,Total,(A00-B99) Infectious and parasitic diseases,200
 2020,Number,Total,(A00-B99) Infectious and parasitic diseases,162
+2021,Number,Total,(A00-B99) Infectious and parasitic diseases,140
 2003,Number,Total,"(C00-C97,D00-D48) Neoplasms",2411
 2004,Number,Total,"(C00-C97,D00-D48) Neoplasms",2330
 2005,Number,Total,"(C00-C97,D00-D48) Neoplasms",2653
@@ -53,6 +55,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(C00-C97,D00-D48) Neoplasms",2938
 2019,Number,Total,"(C00-C97,D00-D48) Neoplasms",2891
 2020,Number,Total,"(C00-C97,D00-D48) Neoplasms",2719
+2021,Number,Total,"(C00-C97,D00-D48) Neoplasms",2623
 2003,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",8
 2004,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",13
 2005,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",15
@@ -71,6 +74,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",36
 2019,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",24
 2020,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",27
+2021,Number,Total,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",22
 2003,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,180
 2004,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,160
 2005,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,727
@@ -89,6 +93,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,844
 2019,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,604
 2020,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,825
+2021,Number,Total,(E00-E90) Endocrine metabolic and nutritional diseases,921
 2003,Number,Total,(F00-F99) Mental and behavioural disorders,33
 2004,Number,Total,(F00-F99) Mental and behavioural disorders,58
 2005,Number,Total,(F00-F99) Mental and behavioural disorders,80
@@ -107,6 +112,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(F00-F99) Mental and behavioural disorders,85
 2019,Number,Total,(F00-F99) Mental and behavioural disorders,72
 2020,Number,Total,(F00-F99) Mental and behavioural disorders,72
+2021,Number,Total,(F00-F99) Mental and behavioural disorders,107
 2003,Number,Total,(G00-G99) Diseases of the nervous system,65
 2004,Number,Total,(G00-G99) Diseases of the nervous system,91
 2005,Number,Total,(G00-G99) Diseases of the nervous system,170
@@ -125,6 +131,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(G00-G99) Diseases of the nervous system,169
 2019,Number,Total,(G00-G99) Diseases of the nervous system,165
 2020,Number,Total,(G00-G99) Diseases of the nervous system,188
+2021,Number,Total,(G00-G99) Diseases of the nervous system,173
 2003,Number,Total,(H00-H59) Diseases of the eye,0
 2004,Number,Total,(H00-H59) Diseases of the eye,0
 2005,Number,Total,(H00-H59) Diseases of the eye,0
@@ -143,6 +150,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(H00-H59) Diseases of the eye,0
 2019,Number,Total,(H00-H59) Diseases of the eye,0
 2020,Number,Total,(H00-H59) Diseases of the eye,0
+2021,Number,Total,(H00-H59) Diseases of the eye,0
 2003,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
 2004,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
 2005,Number,Total,(H60–H93) Diseases of the ear and adnexa,1
@@ -161,6 +169,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
 2019,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
 2020,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
+2021,Number,Total,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,Total,(I00-I99) Diseases of the circulatory system,7071
 2004,Number,Total,(I00-I99) Diseases of the circulatory system,7340
 2005,Number,Total,(I00-I99) Diseases of the circulatory system,7002
@@ -179,6 +188,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(I00-I99) Diseases of the circulatory system,6989
 2019,Number,Total,(I00-I99) Diseases of the circulatory system,7473
 2020,Number,Total,(I00-I99) Diseases of the circulatory system,7602
+2021,Number,Total,(I00-I99) Diseases of the circulatory system,7217
 2003,Number,Total,(J00-J99) Diseases of the respiratory system,304
 2004,Number,Total,(J00-J99) Diseases of the respiratory system,345
 2005,Number,Total,(J00-J99) Diseases of the respiratory system,504
@@ -197,6 +207,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(J00-J99) Diseases of the respiratory system,626
 2019,Number,Total,(J00-J99) Diseases of the respiratory system,596
 2020,Number,Total,(J00-J99) Diseases of the respiratory system,631
+2021,Number,Total,(J00-J99) Diseases of the respiratory system,640
 2003,Number,Total,(K00-K93) Diseases of the digestive system,352
 2004,Number,Total,(K00-K93) Diseases of the digestive system,347
 2005,Number,Total,(K00-K93) Diseases of the digestive system,343
@@ -215,6 +226,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(K00-K93) Diseases of the digestive system,481
 2019,Number,Total,(K00-K93) Diseases of the digestive system,419
 2020,Number,Total,(K00-K93) Diseases of the digestive system,438
+2021,Number,Total,(K00-K93) Diseases of the digestive system,400
 2003,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,0
 2004,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,3
 2005,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,0
@@ -233,6 +245,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,22
 2019,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,23
 2020,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,30
+2021,Number,Total,(L00-L99) Diseases of the skin and subcutaneous tissue,33
 2003,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,6
 2004,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,3
 2005,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,12
@@ -251,6 +264,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,21
 2019,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,13
 2020,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,28
+2021,Number,Total,(M00-M99) Diseases of the musculoskeletal system and connective tissue,8
 2003,Number,Total,(N00-N99) Diseases of the genitourinary system,222
 2004,Number,Total,(N00-N99) Diseases of the genitourinary system,205
 2005,Number,Total,(N00-N99) Diseases of the genitourinary system,257
@@ -269,6 +283,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(N00-N99) Diseases of the genitourinary system,220
 2019,Number,Total,(N00-N99) Diseases of the genitourinary system,195
 2020,Number,Total,(N00-N99) Diseases of the genitourinary system,221
+2021,Number,Total,(N00-N99) Diseases of the genitourinary system,197
 2003,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",1
 2004,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2005,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",2
@@ -287,6 +302,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",1
 2019,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2020,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",3
+2021,Number,Total,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2003,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,44
 2004,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,38
 2005,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,27
@@ -305,6 +321,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,10
 2019,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,11
 2020,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,34
+2021,Number,Total,(P00-P96) Certain conditions originating in the perinatal period,9
 2003,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",10
 2004,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",11
 2005,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",14
@@ -323,6 +340,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",5
 2019,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",4
 2020,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",6
+2021,Number,Total,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",5
 2003,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1612
 2004,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1462
 2005,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1249
@@ -341,6 +359,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1650
 2019,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1961
 2020,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1599
+2021,Number,Total,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",2213
 2003,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",580
 2004,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",552
 2005,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",618
@@ -359,6 +378,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",482
 2019,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",430
 2020,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",405
+2021,Number,Total,"(S00-T98) Injuries, poisoning and consequences of external causes",448
 2003,Number,Total,(U00-U85) Special purpose codes,0
 2004,Number,Total,(U00-U85) Special purpose codes,0
 2005,Number,Total,(U00-U85) Special purpose codes,0
@@ -377,6 +397,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,Total,(U00-U85) Special purpose codes,0
 2019,Number,Total,(U00-U85) Special purpose codes,0
 2020,Number,Total,(U00-U85) Special purpose codes,1592
+2021,Number,Total,(U00-U85) Special purpose codes,3846
 2003,Number,M,Total,6804
 2004,Number,M,Total,6735
 2005,Number,M,Total,7239
@@ -395,6 +416,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,Total,7449
 2019,Number,M,Total,7753
 2020,Number,M,Total,8613
+2021,Number,M,Total,9943
 2003,Number,M,(A00-B99) Infectious and parasitic diseases,59
 2004,Number,M,(A00-B99) Infectious and parasitic diseases,75
 2005,Number,M,(A00-B99) Infectious and parasitic diseases,78
@@ -413,6 +435,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(A00-B99) Infectious and parasitic diseases,109
 2019,Number,M,(A00-B99) Infectious and parasitic diseases,119
 2020,Number,M,(A00-B99) Infectious and parasitic diseases,87
+2021,Number,M,(A00-B99) Infectious and parasitic diseases,86
 2003,Number,M,"(C00-C97,D00-D48) Neoplasms",1461
 2004,Number,M,"(C00-C97,D00-D48) Neoplasms",1402
 2005,Number,M,"(C00-C97,D00-D48) Neoplasms",1581
@@ -431,6 +454,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(C00-C97,D00-D48) Neoplasms",1729
 2019,Number,M,"(C00-C97,D00-D48) Neoplasms",1705
 2020,Number,M,"(C00-C97,D00-D48) Neoplasms",1622
+2021,Number,M,"(C00-C97,D00-D48) Neoplasms",1558
 2003,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",6
 2004,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",2
 2005,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",5
@@ -449,6 +473,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",18
 2019,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",8
 2020,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",12
+2021,Number,M,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",7
 2003,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,71
 2004,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,68
 2005,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,286
@@ -467,6 +492,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,386
 2019,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,261
 2020,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,340
+2021,Number,M,(E00-E90) Endocrine metabolic and nutritional diseases,387
 2003,Number,M,(F00-F99) Mental and behavioural disorders,24
 2004,Number,M,(F00-F99) Mental and behavioural disorders,46
 2005,Number,M,(F00-F99) Mental and behavioural disorders,64
@@ -485,6 +511,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(F00-F99) Mental and behavioural disorders,55
 2019,Number,M,(F00-F99) Mental and behavioural disorders,50
 2020,Number,M,(F00-F99) Mental and behavioural disorders,43
+2021,Number,M,(F00-F99) Mental and behavioural disorders,63
 2003,Number,M,(G00-G99) Diseases of the nervous system,39
 2004,Number,M,(G00-G99) Diseases of the nervous system,53
 2005,Number,M,(G00-G99) Diseases of the nervous system,86
@@ -503,6 +530,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(G00-G99) Diseases of the nervous system,82
 2019,Number,M,(G00-G99) Diseases of the nervous system,84
 2020,Number,M,(G00-G99) Diseases of the nervous system,91
+2021,Number,M,(G00-G99) Diseases of the nervous system,100
 2003,Number,M,(H00-H59) Diseases of the eye,0
 2004,Number,M,(H00-H59) Diseases of the eye,0
 2005,Number,M,(H00-H59) Diseases of the eye,0
@@ -521,6 +549,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(H00-H59) Diseases of the eye,0
 2019,Number,M,(H00-H59) Diseases of the eye,0
 2020,Number,M,(H00-H59) Diseases of the eye,0
+2021,Number,M,(H00-H59) Diseases of the eye,0
 2003,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2004,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2005,Number,M,(H60–H93) Diseases of the ear and adnexa,1
@@ -539,6 +568,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2019,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2020,Number,M,(H60–H93) Diseases of the ear and adnexa,0
+2021,Number,M,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,M,(I00-I99) Diseases of the circulatory system,3323
 2004,Number,M,(I00-I99) Diseases of the circulatory system,3383
 2005,Number,M,(I00-I99) Diseases of the circulatory system,3325
@@ -557,6 +587,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(I00-I99) Diseases of the circulatory system,3084
 2019,Number,M,(I00-I99) Diseases of the circulatory system,3440
 2020,Number,M,(I00-I99) Diseases of the circulatory system,3452
+2021,Number,M,(I00-I99) Diseases of the circulatory system,3261
 2003,Number,M,(J00-J99) Diseases of the respiratory system,184
 2004,Number,M,(J00-J99) Diseases of the respiratory system,211
 2005,Number,M,(J00-J99) Diseases of the respiratory system,284
@@ -575,6 +606,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(J00-J99) Diseases of the respiratory system,344
 2019,Number,M,(J00-J99) Diseases of the respiratory system,338
 2020,Number,M,(J00-J99) Diseases of the respiratory system,377
+2021,Number,M,(J00-J99) Diseases of the respiratory system,369
 2003,Number,M,(K00-K93) Diseases of the digestive system,216
 2004,Number,M,(K00-K93) Diseases of the digestive system,206
 2005,Number,M,(K00-K93) Diseases of the digestive system,219
@@ -593,6 +625,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(K00-K93) Diseases of the digestive system,290
 2019,Number,M,(K00-K93) Diseases of the digestive system,239
 2020,Number,M,(K00-K93) Diseases of the digestive system,269
+2021,Number,M,(K00-K93) Diseases of the digestive system,244
 2003,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,0
 2004,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,0
 2005,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,0
@@ -611,6 +644,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,12
 2019,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,7
 2020,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,13
+2021,Number,M,(L00-L99) Diseases of the skin and subcutaneous tissue,12
 2003,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,3
 2004,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,1
 2005,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,5
@@ -629,6 +663,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,4
 2019,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,4
 2020,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,7
+2021,Number,M,(M00-M99) Diseases of the musculoskeletal system and connective tissue,5
 2003,Number,M,(N00-N99) Diseases of the genitourinary system,123
 2004,Number,M,(N00-N99) Diseases of the genitourinary system,113
 2005,Number,M,(N00-N99) Diseases of the genitourinary system,160
@@ -647,6 +682,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(N00-N99) Diseases of the genitourinary system,117
 2019,Number,M,(N00-N99) Diseases of the genitourinary system,104
 2020,Number,M,(N00-N99) Diseases of the genitourinary system,113
+2021,Number,M,(N00-N99) Diseases of the genitourinary system,107
 2003,Number,M,(P00-P96) Certain conditions originating in the perinatal period,23
 2004,Number,M,(P00-P96) Certain conditions originating in the perinatal period,28
 2005,Number,M,(P00-P96) Certain conditions originating in the perinatal period,17
@@ -665,6 +701,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(P00-P96) Certain conditions originating in the perinatal period,3
 2019,Number,M,(P00-P96) Certain conditions originating in the perinatal period,6
 2020,Number,M,(P00-P96) Certain conditions originating in the perinatal period,16
+2021,Number,M,(P00-P96) Certain conditions originating in the perinatal period,5
 2003,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",7
 2004,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",10
 2005,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",6
@@ -683,6 +720,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",2
 2019,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",0
 2020,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",3
+2021,Number,M,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",5
 2003,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",821
 2004,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",726
 2005,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",659
@@ -701,6 +739,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",844
 2019,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1048
 2020,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",834
+2021,Number,M,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1187
 2003,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",444
 2004,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",411
 2005,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",463
@@ -719,6 +758,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",370
 2019,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",340
 2020,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",304
+2021,Number,M,"(S00-T98) Injuries, poisoning and consequences of external causes",334
 2003,Number,M,(U00-U85) Special purpose codes,0
 2004,Number,M,(U00-U85) Special purpose codes,0
 2005,Number,M,(U00-U85) Special purpose codes,0
@@ -737,6 +777,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,M,(U00-U85) Special purpose codes,0
 2019,Number,M,(U00-U85) Special purpose codes,0
 2020,Number,M,(U00-U85) Special purpose codes,1030
+2021,Number,M,(U00-U85) Special purpose codes,2213
 2003,Number,F,Total,6184
 2004,Number,F,Total,6347
 2005,Number,F,Total,6563
@@ -755,6 +796,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,Total,7314
 2019,Number,F,Total,7328
 2020,Number,F,Total,7969
+2021,Number,F,Total,9059
 2003,Number,F,(A00-B99) Infectious and parasitic diseases,30
 2004,Number,F,(A00-B99) Infectious and parasitic diseases,49
 2005,Number,F,(A00-B99) Infectious and parasitic diseases,50
@@ -773,6 +815,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(A00-B99) Infectious and parasitic diseases,75
 2019,Number,F,(A00-B99) Infectious and parasitic diseases,81
 2020,Number,F,(A00-B99) Infectious and parasitic diseases,75
+2021,Number,F,(A00-B99) Infectious and parasitic diseases,54
 2003,Number,F,"(C00-C97,D00-D48) Neoplasms",950
 2004,Number,F,"(C00-C97,D00-D48) Neoplasms",928
 2005,Number,F,"(C00-C97,D00-D48) Neoplasms",1072
@@ -791,6 +834,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(C00-C97,D00-D48) Neoplasms",1209
 2019,Number,F,"(C00-C97,D00-D48) Neoplasms",1186
 2020,Number,F,"(C00-C97,D00-D48) Neoplasms",1097
+2021,Number,F,"(C00-C97,D00-D48) Neoplasms",1065
 2003,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",2
 2004,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",11
 2005,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",10
@@ -809,6 +853,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",18
 2019,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",16
 2020,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",15
+2021,Number,F,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",15
 2003,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,109
 2004,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,92
 2005,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,441
@@ -827,6 +872,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,458
 2019,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,343
 2020,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,485
+2021,Number,F,(E00-E90) Endocrine metabolic and nutritional diseases,534
 2003,Number,F,(F00-F99) Mental and behavioural disorders,9
 2004,Number,F,(F00-F99) Mental and behavioural disorders,12
 2005,Number,F,(F00-F99) Mental and behavioural disorders,16
@@ -845,6 +891,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(F00-F99) Mental and behavioural disorders,30
 2019,Number,F,(F00-F99) Mental and behavioural disorders,22
 2020,Number,F,(F00-F99) Mental and behavioural disorders,29
+2021,Number,F,(F00-F99) Mental and behavioural disorders,44
 2003,Number,F,(G00-G99) Diseases of the nervous system,26
 2004,Number,F,(G00-G99) Diseases of the nervous system,38
 2005,Number,F,(G00-G99) Diseases of the nervous system,84
@@ -863,6 +910,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(G00-G99) Diseases of the nervous system,87
 2019,Number,F,(G00-G99) Diseases of the nervous system,81
 2020,Number,F,(G00-G99) Diseases of the nervous system,97
+2021,Number,F,(G00-G99) Diseases of the nervous system,73
 2003,Number,F,(H00-H59) Diseases of the eye,0
 2004,Number,F,(H00-H59) Diseases of the eye,0
 2005,Number,F,(H00-H59) Diseases of the eye,0
@@ -881,6 +929,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(H00-H59) Diseases of the eye,0
 2019,Number,F,(H00-H59) Diseases of the eye,0
 2020,Number,F,(H00-H59) Diseases of the eye,0
+2021,Number,F,(H00-H59) Diseases of the eye,0
 2003,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2004,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2005,Number,F,(H60–H93) Diseases of the ear and adnexa,0
@@ -899,6 +948,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2019,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2020,Number,F,(H60–H93) Diseases of the ear and adnexa,0
+2021,Number,F,(H60–H93) Diseases of the ear and adnexa,0
 2003,Number,F,(I00-I99) Diseases of the circulatory system,3748
 2004,Number,F,(I00-I99) Diseases of the circulatory system,3957
 2005,Number,F,(I00-I99) Diseases of the circulatory system,3677
@@ -917,6 +967,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(I00-I99) Diseases of the circulatory system,3905
 2019,Number,F,(I00-I99) Diseases of the circulatory system,4033
 2020,Number,F,(I00-I99) Diseases of the circulatory system,4150
+2021,Number,F,(I00-I99) Diseases of the circulatory system,3956
 2003,Number,F,(J00-J99) Diseases of the respiratory system,120
 2004,Number,F,(J00-J99) Diseases of the respiratory system,134
 2005,Number,F,(J00-J99) Diseases of the respiratory system,220
@@ -935,6 +986,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(J00-J99) Diseases of the respiratory system,282
 2019,Number,F,(J00-J99) Diseases of the respiratory system,258
 2020,Number,F,(J00-J99) Diseases of the respiratory system,254
+2021,Number,F,(J00-J99) Diseases of the respiratory system,271
 2003,Number,F,(K00-K93) Diseases of the digestive system,136
 2004,Number,F,(K00-K93) Diseases of the digestive system,141
 2005,Number,F,(K00-K93) Diseases of the digestive system,124
@@ -953,6 +1005,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(K00-K93) Diseases of the digestive system,191
 2019,Number,F,(K00-K93) Diseases of the digestive system,180
 2020,Number,F,(K00-K93) Diseases of the digestive system,169
+2021,Number,F,(K00-K93) Diseases of the digestive system,156
 2003,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,0
 2004,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,3
 2005,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,0
@@ -971,6 +1024,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,10
 2019,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,16
 2020,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,17
+2021,Number,F,(L00-L99) Diseases of the skin and subcutaneous tissue,21
 2003,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,3
 2004,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,2
 2005,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,7
@@ -989,6 +1043,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,17
 2019,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,9
 2020,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,21
+2021,Number,F,(M00-M99) Diseases of the musculoskeletal system and connective tissue,3
 2003,Number,F,(N00-N99) Diseases of the genitourinary system,99
 2004,Number,F,(N00-N99) Diseases of the genitourinary system,92
 2005,Number,F,(N00-N99) Diseases of the genitourinary system,97
@@ -1007,6 +1062,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(N00-N99) Diseases of the genitourinary system,103
 2019,Number,F,(N00-N99) Diseases of the genitourinary system,91
 2020,Number,F,(N00-N99) Diseases of the genitourinary system,108
+2021,Number,F,(N00-N99) Diseases of the genitourinary system,90
 2003,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",1
 2004,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2005,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",2
@@ -1025,6 +1081,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",1
 2019,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2020,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",3
+2021,Number,F,"(O00-O99) Pregnancy, childbirth and the puerperium",0
 2003,Number,F,(P00-P96) Certain conditions originating in the perinatal period,21
 2004,Number,F,(P00-P96) Certain conditions originating in the perinatal period,10
 2005,Number,F,(P00-P96) Certain conditions originating in the perinatal period,10
@@ -1043,6 +1100,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(P00-P96) Certain conditions originating in the perinatal period,7
 2019,Number,F,(P00-P96) Certain conditions originating in the perinatal period,5
 2020,Number,F,(P00-P96) Certain conditions originating in the perinatal period,18
+2021,Number,F,(P00-P96) Certain conditions originating in the perinatal period,4
 2003,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",3
 2004,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",1
 2005,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",8
@@ -1061,6 +1119,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",3
 2019,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",4
 2020,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",3
+2021,Number,F,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",0
 2003,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",791
 2004,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",736
 2005,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",590
@@ -1079,6 +1138,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",806
 2019,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",913
 2020,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",765
+2021,Number,F,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1026
 2003,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",136
 2004,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",141
 2005,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",155
@@ -1097,6 +1157,7 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",112
 2019,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",90
 2020,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",101
+2021,Number,F,"(S00-T98) Injuries, poisoning and consequences of external causes",114
 2003,Number,F,(U00-U85) Special purpose codes,0
 2004,Number,F,(U00-U85) Special purpose codes,0
 2005,Number,F,(U00-U85) Special purpose codes,0
@@ -1115,3 +1176,4 @@ Year,UNIT_MEASURE,Sex,Cause of death (as per ICD-10 codes),Value
 2018,Number,F,(U00-U85) Special purpose codes,0
 2019,Number,F,(U00-U85) Special purpose codes,0
 2020,Number,F,(U00-U85) Special purpose codes,562
+2021,Number,F,(U00-U85) Special purpose codes,1633
