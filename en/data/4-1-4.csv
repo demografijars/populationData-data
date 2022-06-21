@@ -4,11 +4,11 @@ Year,UNIT_MEASURE,Type of users,Value
 2018,Number,Total,113895
 2019,Number,Total,111620
 2020,Number,Total,107536
-2016,Number,Underage users,23870
-2017,Number,Underage users,20700
-2018,Number,Underage users,18358
-2019,Number,Underage users,19180
-2020,Number,Underage users,17486
+2016,Number,Minor users,23870
+2017,Number,Minor users,20700
+2018,Number,Minor users,18358
+2019,Number,Minor users,19180
+2020,Number,Minor users,17486
 2016,Number,Adult users,91121
 2017,Number,Adult users,92531
 2018,Number,Adult users,95537
