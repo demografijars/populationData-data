@@ -17,6 +17,7 @@ Year,UNIT_MEASURE,Sex,Value
 2018,Number,Total,17
 2019,Number,Total,15
 2020,Number,Total,43
+2021,Number,Total,17
 2003,Number,M,32
 2004,Number,M,43
 2005,Number,M,20
@@ -35,6 +36,7 @@ Year,UNIT_MEASURE,Sex,Value
 2018,Number,M,7
 2019,Number,M,7
 2020,Number,M,21
+2021,Number,M,10
 2003,Number,F,32
 2004,Number,F,18
 2005,Number,F,17
@@ -53,3 +55,4 @@ Year,UNIT_MEASURE,Sex,Value
 2018,Number,F,10
 2019,Number,F,8
 2020,Number,F,22
+2021,Number,F,7
