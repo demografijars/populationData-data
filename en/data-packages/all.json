@@ -416,7 +416,7 @@
           }
         ]
       },
-      "title": "Children who completed primary school by sex"
+      "title": "Pupils who completed primary school by sex"
     },
     {
       "path": "5-1-1/data.csv",
@@ -1465,7 +1465,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by sex"
+      "title": "Pupils at the beginning of school year by sex"
     },
     {
       "path": "1-6-2/data.csv",
@@ -2683,7 +2683,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by type of school"
+      "title": "Pupils at the beginning of school year by type of school"
     },
     {
       "path": "5-2-1/data.csv",
@@ -2725,7 +2725,7 @@
           }
         ]
       },
-      "title": "Children at the beginning of school year by sex"
+      "title": "Pupils at the beginning of school year by sex"
     },
     {
       "path": "5-6-3/data.csv",
@@ -3356,7 +3356,7 @@
           }
         ]
       },
-      "title": "Teachers in high schools by sex"
+      "title": "Teachers in secondary schools by sex"
     },
     {
       "path": "3-3-4/data.csv",
@@ -3985,7 +3985,7 @@
           }
         ]
       },
-      "title": "Children who completed high school by sex"
+      "title": "Pupils who completed secondary school by sex"
     },
     {
       "path": "5-4-2/data.csv",
@@ -5394,7 +5394,7 @@
           }
         ]
       },
-      "title": "Children who completed high school by type of school"
+      "title": "Pupils who completed secondary school by type of school"
     },
     {
       "path": "4-1-2/data.csv",
