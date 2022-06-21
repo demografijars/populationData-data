@@ -17,6 +17,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,Total,Live births,9568
 2019,Number,Total,Live births,9274
 2020,Number,Total,Live births,9161
+2021,Number,Total,Live births,9274
 2003,Number,M,Live births,5450
 2004,Number,M,Live births,5515
 2005,Number,M,Live births,5302
@@ -35,6 +36,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,M,Live births,5001
 2019,Number,M,Live births,4907
 2020,Number,M,Live births,4792
+2021,Number,M,Live births,4754
 2003,Number,F,Live births,5087
 2004,Number,F,Live births,5113
 2005,Number,F,Live births,5020
@@ -53,6 +55,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,F,Live births,4567
 2019,Number,F,Live births,4367
 2020,Number,F,Live births,4369
+2021,Number,F,Live births,4520
 2003,Number,Total,Deaths,12988
 2004,Number,Total,Deaths,13082
 2005,Number,Total,Deaths,13802
@@ -71,6 +74,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,Total,Deaths,14763
 2019,Number,Total,Deaths,15081
 2020,Number,Total,Deaths,16582
+2021,Number,Total,Deaths,19002
 2003,Number,M,Deaths,6804
 2004,Number,M,Deaths,6735
 2005,Number,M,Deaths,7239
@@ -89,6 +93,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,M,Deaths,7449
 2019,Number,M,Deaths,7753
 2020,Number,M,Deaths,8613
+2021,Number,M,Deaths,9943
 2003,Number,F,Deaths,6184
 2004,Number,F,Deaths,6347
 2005,Number,F,Deaths,6563
@@ -107,6 +112,7 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,F,Deaths,7314
 2019,Number,F,Deaths,7328
 2020,Number,F,Deaths,7969
+2021,Number,F,Deaths,9059
 2003,Number,Total,Natural increase,-2451
 2004,Number,Total,Natural increase,-2454
 2005,Number,Total,Natural increase,-3480
@@ -125,3 +131,4 @@ Year,UNIT_MEASURE,Sex,Vital statistics,Value
 2018,Number,Total,Natural increase,-5195
 2019,Number,Total,Natural increase,-5807
 2020,Number,Total,Natural increase,-7421
+2021,Number,Total,Natural increase,-9728
