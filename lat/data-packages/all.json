@@ -4670,8 +4670,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "Ž",
+                "Ukupno",
                 ""
               ]
             },

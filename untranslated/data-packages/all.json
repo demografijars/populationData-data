@@ -4300,8 +4300,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "_T",
                 ""
               ]
             }
