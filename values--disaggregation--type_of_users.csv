@@ -2,7 +2,7 @@ Value,en,lat,cir,Disaggregation combinations using this value,Number of indicato
 adult_facilities,Social welfare institutions for adults,Ustanove za odrasle,Установе за одрасле,1,1
 adult_users,Adult users,Punoljetni korisnici,Пунољетни корисници,2,2
 institutions_for_children_and_youth,Social welfare institutions for children and youth,Ustanove za djecu i omladinu,Установе за дјецу и омладину,1,1
-number_of_children,"Children, users of child allowance",Djeca korisnici dječijeg doplatka,Дјеца корисници дјечијег доплатка,1,1
-number_of_users,"Families, users of child allowance",Porodice korisnici dječijeg doplatka,Породице корисници дјечијег доплатка,1,1
+number_of_children,"Children, users of child allowance",Djeca korisnici dječijeg doplatka,Број дјеце,1,1
+number_of_users,"Families, users of child allowance",Porodice korisnici dječijeg doplatka,Број корисника,1,1
 total,Total,Ukupno,Укупно,3,3
 underage_users,Minor users,Maloljetni korisnici,Малољетни корисници,2,2
