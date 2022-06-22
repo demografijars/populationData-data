@@ -313,8 +313,8 @@ TYPE_OF_USERS: Vrsta korisnika
 SP_beneficiaries: Korisnici socijalne zaštite
 underage_users: Maloljetni korisnici
 adult_users: Punoljetni korisnici
-number_of_users: Porodice korisnici dječijeg doplatka
-number_of_children: Djeca korisnici dječijeg doplatka
+number_of_users: Broj korisnika
+number_of_children: Broj djece
 social_protection_institutions_by_type_of_institution: Ustanove socijalne zaštite po vrsti ustanove
 users_of_social_protection_institutions_by_gender: Korisnici ustanova socijalne zaštite po polu
 male: Muški
