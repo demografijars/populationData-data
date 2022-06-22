@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Children, users of child allowance",
-                "Families, users of child allowance"
+                "Number of children",
+                "Number of users"
               ]
             },
             "title": "Type of users"
