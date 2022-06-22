@@ -312,8 +312,8 @@ TYPE_OF_USERS: Врста корисника
 underage_users: Малољетни корисници
 adult_users: Пунољетни корисници
 SP_beneficiaries: Корисници социјалне заштите
-number_of_users: Породице корисници дјечијег доплатка
-number_of_children: Дјеца корисници дјечијег доплатка
+number_of_users: Број корисника
+number_of_children: Број дјеце
 social_protection_institutions_by_type_of_institution: Установе социјалне заштите по врсти установе
 institutions_for_children_and_youth: Установе за дјецу и омладину
 adult_facilities: Установе за одрасле
