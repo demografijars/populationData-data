@@ -2,27 +2,27 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Total,102262
 2013,Number,Republika Srpska,M,Total,46720
 2013,Number,Republika Srpska,F,Total,55542
-2013,Number,City of Banja Luka,Total,Total,13450
-2013,Number,City of Banja Luka,M,Total,6251
-2013,Number,City of Banja Luka,F,Total,7199
-2013,Number,Berkovici,Total,Total,165
-2013,Number,Berkovici,M,Total,75
-2013,Number,Berkovici,F,Total,90
-2013,Number,City of Bijeljina,Total,Total,8763
-2013,Number,City of Bijeljina,M,Total,3967
-2013,Number,City of Bijeljina,F,Total,4796
-2013,Number,Bileca,Total,Total,813
-2013,Number,Bileca,M,Total,339
-2013,Number,Bileca,F,Total,474
+2013,Number,Grad Banja Luka,Total,Total,13450
+2013,Number,Grad Banja Luka,M,Total,6251
+2013,Number,Grad Banja Luka,F,Total,7199
+2013,Number,Berkovići,Total,Total,165
+2013,Number,Berkovići,M,Total,75
+2013,Number,Berkovići,F,Total,90
+2013,Number,Grad Bijeljina,Total,Total,8763
+2013,Number,Grad Bijeljina,M,Total,3967
+2013,Number,Grad Bijeljina,F,Total,4796
+2013,Number,Bileća,Total,Total,813
+2013,Number,Bileća,M,Total,339
+2013,Number,Bileća,F,Total,474
 2013,Number,Bratunac,Total,Total,1534
 2013,Number,Bratunac,M,Total,688
 2013,Number,Bratunac,F,Total,846
 2013,Number,Brod,Total,Total,1420
 2013,Number,Brod,M,Total,658
 2013,Number,Brod,F,Total,762
-2013,Number,Visegrad,Total,Total,1097
-2013,Number,Visegrad,M,Total,422
-2013,Number,Visegrad,F,Total,675
+2013,Number,Višegrad,Total,Total,1097
+2013,Number,Višegrad,M,Total,422
+2013,Number,Višegrad,F,Total,675
 2013,Number,Vlasenica,Total,Total,786
 2013,Number,Vlasenica,M,Total,393
 2013,Number,Vlasenica,F,Total,393
@@ -32,108 +32,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Total,597
 2013,Number,Gacko,M,Total,261
 2013,Number,Gacko,F,Total,336
-2013,Number,City of Gradiska,Total,Total,4427
-2013,Number,City of Gradiska,M,Total,1965
-2013,Number,City of Gradiska,F,Total,2462
-2013,Number,City of Derventa,Total,Total,2529
-2013,Number,City of Derventa,M,Total,1153
-2013,Number,City of Derventa,F,Total,1376
-2013,Number,City of Doboj,Total,Total,7404
-2013,Number,City of Doboj,M,Total,3292
-2013,Number,City of Doboj,F,Total,4112
-2013,Number,Donji Zabar,Total,Total,313
-2013,Number,Donji Zabar,M,Total,146
-2013,Number,Donji Zabar,F,Total,167
-2013,Number,City of Zvornik,Total,Total,4328
-2013,Number,City of Zvornik,M,Total,2027
-2013,Number,City of Zvornik,F,Total,2301
-2013,Number,East Ilidza,Total,Total,1025
-2013,Number,East Ilidza,M,Total,464
-2013,Number,East Ilidza,F,Total,561
-2013,Number,East Drvar,Total,Total,9
-2013,Number,East Drvar,M,Total,5
-2013,Number,East Drvar,F,Total,4
-2013,Number,East Mostar,Total,Total,14
-2013,Number,East Mostar,M,Total,4
-2013,Number,East Mostar,F,Total,10
-2013,Number,East Stari Grad,Total,Total,100
-2013,Number,East Stari Grad,M,Total,42
-2013,Number,East Stari Grad,F,Total,58
-2013,Number,East Novo Sarajevo,Total,Total,611
-2013,Number,East Novo Sarajevo,M,Total,276
-2013,Number,East Novo Sarajevo,F,Total,335
+2013,Number,Grad Gradiška,Total,Total,4427
+2013,Number,Grad Gradiška,M,Total,1965
+2013,Number,Grad Gradiška,F,Total,2462
+2013,Number,Grad Derventa,Total,Total,2529
+2013,Number,Grad Derventa,M,Total,1153
+2013,Number,Grad Derventa,F,Total,1376
+2013,Number,Grad Doboj,Total,Total,7404
+2013,Number,Grad Doboj,M,Total,3292
+2013,Number,Grad Doboj,F,Total,4112
+2013,Number,Donji Žabar,Total,Total,313
+2013,Number,Donji Žabar,M,Total,146
+2013,Number,Donji Žabar,F,Total,167
+2013,Number,Grad Zvornik,Total,Total,4328
+2013,Number,Grad Zvornik,M,Total,2027
+2013,Number,Grad Zvornik,F,Total,2301
+2013,Number,Istočna Ilidža,Total,Total,1025
+2013,Number,Istočna Ilidža,M,Total,464
+2013,Number,Istočna Ilidža,F,Total,561
+2013,Number,Istočni Drvar,Total,Total,9
+2013,Number,Istočni Drvar,M,Total,5
+2013,Number,Istočni Drvar,F,Total,4
+2013,Number,Istočni Mostar,Total,Total,14
+2013,Number,Istočni Mostar,M,Total,4
+2013,Number,Istočni Mostar,F,Total,10
+2013,Number,Istočni Stari Grad,Total,Total,100
+2013,Number,Istočni Stari Grad,M,Total,42
+2013,Number,Istočni Stari Grad,F,Total,58
+2013,Number,Istočno Novo Sarajevo,Total,Total,611
+2013,Number,Istočno Novo Sarajevo,M,Total,276
+2013,Number,Istočno Novo Sarajevo,F,Total,335
 2013,Number,Jezero,Total,Total,80
 2013,Number,Jezero,M,Total,37
 2013,Number,Jezero,F,Total,43
 2013,Number,Kalinovik,Total,Total,203
 2013,Number,Kalinovik,M,Total,88
 2013,Number,Kalinovik,F,Total,115
-2013,Number,Knezevo,Total,Total,933
-2013,Number,Knezevo,M,Total,449
-2013,Number,Knezevo,F,Total,484
+2013,Number,Kneževo,Total,Total,933
+2013,Number,Kneževo,M,Total,449
+2013,Number,Kneževo,F,Total,484
 2013,Number,Kozarska Dubica,Total,Total,2078
 2013,Number,Kozarska Dubica,M,Total,919
 2013,Number,Kozarska Dubica,F,Total,1159
 2013,Number,Kostajnica,Total,Total,475
 2013,Number,Kostajnica,M,Total,216
 2013,Number,Kostajnica,F,Total,259
-2013,Number,Kotor Varos,Total,Total,1857
-2013,Number,Kotor Varos,M,Total,865
-2013,Number,Kotor Varos,F,Total,992
+2013,Number,Kotor Varoš,Total,Total,1857
+2013,Number,Kotor Varoš,M,Total,865
+2013,Number,Kotor Varoš,F,Total,992
 2013,Number,Krupa Na Uni,Total,Total,204
 2013,Number,Krupa Na Uni,M,Total,93
 2013,Number,Krupa Na Uni,F,Total,111
 2013,Number,Kupres,Total,Total,49
 2013,Number,Kupres,M,Total,27
 2013,Number,Kupres,F,Total,22
-2013,Number,Laktasi,Total,Total,2445
-2013,Number,Laktasi,M,Total,1196
-2013,Number,Laktasi,F,Total,1249
+2013,Number,Laktaši,Total,Total,2445
+2013,Number,Laktaši,M,Total,1196
+2013,Number,Laktaši,F,Total,1249
 2013,Number,Lopare,Total,Total,1612
 2013,Number,Lopare,M,Total,791
 2013,Number,Lopare,F,Total,821
 2013,Number,Ljubinje,Total,Total,197
 2013,Number,Ljubinje,M,Total,84
 2013,Number,Ljubinje,F,Total,113
-2013,Number,Milici,Total,Total,860
-2013,Number,Milici,M,Total,392
-2013,Number,Milici,F,Total,468
-2013,Number,Modrica,Total,Total,2458
-2013,Number,Modrica,M,Total,1119
-2013,Number,Modrica,F,Total,1339
-2013,Number,Mrkonjic Grad,Total,Total,1300
-2013,Number,Mrkonjic Grad,M,Total,602
-2013,Number,Mrkonjic Grad,F,Total,698
+2013,Number,Milići,Total,Total,860
+2013,Number,Milići,M,Total,392
+2013,Number,Milići,F,Total,468
+2013,Number,Modriča,Total,Total,2458
+2013,Number,Modriča,M,Total,1119
+2013,Number,Modriča,F,Total,1339
+2013,Number,Mrkonjić Grad,Total,Total,1300
+2013,Number,Mrkonjić Grad,M,Total,602
+2013,Number,Mrkonjić Grad,F,Total,698
 2013,Number,Nevesinje,Total,Total,876
 2013,Number,Nevesinje,M,Total,379
 2013,Number,Nevesinje,F,Total,497
 2013,Number,Novi Grad,Total,Total,2687
 2013,Number,Novi Grad,M,Total,1179
 2013,Number,Novi Grad,F,Total,1508
-2013,Number,Novo Gorazde,Total,Total,206
-2013,Number,Novo Gorazde,M,Total,101
-2013,Number,Novo Gorazde,F,Total,105
+2013,Number,Novo Goražde,Total,Total,206
+2013,Number,Novo Goražde,M,Total,101
+2013,Number,Novo Goražde,F,Total,105
 2013,Number,Osmaci,Total,Total,513
 2013,Number,Osmaci,M,Total,234
 2013,Number,Osmaci,F,Total,279
-2013,Number,Ostra Luka,Total,Total,394
-2013,Number,Ostra Luka,M,Total,205
-2013,Number,Ostra Luka,F,Total,189
+2013,Number,Oštra Luka,Total,Total,394
+2013,Number,Oštra Luka,M,Total,205
+2013,Number,Oštra Luka,F,Total,189
 2013,Number,Pale,Total,Total,1289
 2013,Number,Pale,M,Total,594
 2013,Number,Pale,F,Total,695
-2013,Number,Pelagicevo,Total,Total,688
-2013,Number,Pelagicevo,M,Total,299
-2013,Number,Pelagicevo,F,Total,389
+2013,Number,Pelagićevo,Total,Total,688
+2013,Number,Pelagićevo,M,Total,299
+2013,Number,Pelagićevo,F,Total,389
 2013,Number,Petrovac,Total,Total,16
 2013,Number,Petrovac,M,Total,6
 2013,Number,Petrovac,F,Total,10
 2013,Number,Petrovo,Total,Total,944
 2013,Number,Petrovo,M,Total,399
 2013,Number,Petrovo,F,Total,545
-2013,Number,City of Prijedor,Total,Total,7173
-2013,Number,City of Prijedor,M,Total,3333
-2013,Number,City of Prijedor,F,Total,3840
+2013,Number,Grad Prijedor,Total,Total,7173
+2013,Number,Grad Prijedor,M,Total,3333
+2013,Number,Grad Prijedor,F,Total,3840
 2013,Number,Prnjavor,Total,Total,3309
 2013,Number,Prnjavor,M,Total,1497
 2013,Number,Prnjavor,F,Total,1812
@@ -155,63 +155,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Total,1061
 2013,Number,Srebrenica,M,Total,447
 2013,Number,Srebrenica,F,Total,614
-2013,Number,Teslic,Total,Total,3562
-2013,Number,Teslic,M,Total,1683
-2013,Number,Teslic,F,Total,1879
-2013,Number,City of Trebinje,Total,Total,1860
-2013,Number,City of Trebinje,M,Total,823
-2013,Number,City of Trebinje,F,Total,1037
+2013,Number,Teslić,Total,Total,3562
+2013,Number,Teslić,M,Total,1683
+2013,Number,Teslić,F,Total,1879
+2013,Number,Grad Trebinje,Total,Total,1860
+2013,Number,Grad Trebinje,M,Total,823
+2013,Number,Grad Trebinje,F,Total,1037
 2013,Number,Trnovo,Total,Total,171
 2013,Number,Trnovo,M,Total,70
 2013,Number,Trnovo,F,Total,101
 2013,Number,Ugljevik,Total,Total,1179
 2013,Number,Ugljevik,M,Total,532
 2013,Number,Ugljevik,F,Total,647
-2013,Number,Foca,Total,Total,1473
-2013,Number,Foca,M,Total,725
-2013,Number,Foca,F,Total,748
+2013,Number,Foča,Total,Total,1473
+2013,Number,Foča,M,Total,725
+2013,Number,Foča,F,Total,748
 2013,Number,Han Pijesak,Total,Total,269
 2013,Number,Han Pijesak,M,Total,99
 2013,Number,Han Pijesak,F,Total,170
-2013,Number,Cajnice,Total,Total,461
-2013,Number,Cajnice,M,Total,208
-2013,Number,Cajnice,F,Total,253
-2013,Number,Celinac,Total,Total,1672
-2013,Number,Celinac,M,Total,800
-2013,Number,Celinac,F,Total,872
-2013,Number,Samac,Total,Total,1634
-2013,Number,Samac,M,Total,724
-2013,Number,Samac,F,Total,910
-2013,Number,Sekovici,Total,Total,595
-2013,Number,Sekovici,M,Total,279
-2013,Number,Sekovici,F,Total,316
-2013,Number,Sipovo,Total,Total,843
-2013,Number,Sipovo,M,Total,391
-2013,Number,Sipovo,F,Total,452
+2013,Number,Čajniče,Total,Total,461
+2013,Number,Čajniče,M,Total,208
+2013,Number,Čajniče,F,Total,253
+2013,Number,Čelinac,Total,Total,1672
+2013,Number,Čelinac,M,Total,800
+2013,Number,Čelinac,F,Total,872
+2013,Number,Šamac,Total,Total,1634
+2013,Number,Šamac,M,Total,724
+2013,Number,Šamac,F,Total,910
+2013,Number,Šekovići,Total,Total,595
+2013,Number,Šekovići,M,Total,279
+2013,Number,Šekovići,F,Total,316
+2013,Number,Šipovo,Total,Total,843
+2013,Number,Šipovo,M,Total,391
+2013,Number,Šipovo,F,Total,452
 2013,Number,Republika Srpska,Total,"Seeing, even with the use of seeing aids",43020
 2013,Number,Republika Srpska,M,"Seeing, even with the use of seeing aids",18052
 2013,Number,Republika Srpska,F,"Seeing, even with the use of seeing aids",24968
-2013,Number,City of Banja Luka,Total,"Seeing, even with the use of seeing aids",5370
-2013,Number,City of Banja Luka,M,"Seeing, even with the use of seeing aids",2232
-2013,Number,City of Banja Luka,F,"Seeing, even with the use of seeing aids",3138
-2013,Number,Berkovici,Total,"Seeing, even with the use of seeing aids",73
-2013,Number,Berkovici,M,"Seeing, even with the use of seeing aids",33
-2013,Number,Berkovici,F,"Seeing, even with the use of seeing aids",40
-2013,Number,City of Bijeljina,Total,"Seeing, even with the use of seeing aids",3450
-2013,Number,City of Bijeljina,M,"Seeing, even with the use of seeing aids",1424
-2013,Number,City of Bijeljina,F,"Seeing, even with the use of seeing aids",2026
-2013,Number,Bileca,Total,"Seeing, even with the use of seeing aids",375
-2013,Number,Bileca,M,"Seeing, even with the use of seeing aids",159
-2013,Number,Bileca,F,"Seeing, even with the use of seeing aids",216
+2013,Number,Grad Banja Luka,Total,"Seeing, even with the use of seeing aids",5370
+2013,Number,Grad Banja Luka,M,"Seeing, even with the use of seeing aids",2232
+2013,Number,Grad Banja Luka,F,"Seeing, even with the use of seeing aids",3138
+2013,Number,Berkovići,Total,"Seeing, even with the use of seeing aids",73
+2013,Number,Berkovići,M,"Seeing, even with the use of seeing aids",33
+2013,Number,Berkovići,F,"Seeing, even with the use of seeing aids",40
+2013,Number,Grad Bijeljina,Total,"Seeing, even with the use of seeing aids",3450
+2013,Number,Grad Bijeljina,M,"Seeing, even with the use of seeing aids",1424
+2013,Number,Grad Bijeljina,F,"Seeing, even with the use of seeing aids",2026
+2013,Number,Bileća,Total,"Seeing, even with the use of seeing aids",375
+2013,Number,Bileća,M,"Seeing, even with the use of seeing aids",159
+2013,Number,Bileća,F,"Seeing, even with the use of seeing aids",216
 2013,Number,Bratunac,Total,"Seeing, even with the use of seeing aids",791
 2013,Number,Bratunac,M,"Seeing, even with the use of seeing aids",328
 2013,Number,Bratunac,F,"Seeing, even with the use of seeing aids",463
 2013,Number,Brod,Total,"Seeing, even with the use of seeing aids",596
 2013,Number,Brod,M,"Seeing, even with the use of seeing aids",252
 2013,Number,Brod,F,"Seeing, even with the use of seeing aids",344
-2013,Number,Visegrad,Total,"Seeing, even with the use of seeing aids",409
-2013,Number,Visegrad,M,"Seeing, even with the use of seeing aids",162
-2013,Number,Visegrad,F,"Seeing, even with the use of seeing aids",247
+2013,Number,Višegrad,Total,"Seeing, even with the use of seeing aids",409
+2013,Number,Višegrad,M,"Seeing, even with the use of seeing aids",162
+2013,Number,Višegrad,F,"Seeing, even with the use of seeing aids",247
 2013,Number,Vlasenica,Total,"Seeing, even with the use of seeing aids",372
 2013,Number,Vlasenica,M,"Seeing, even with the use of seeing aids",171
 2013,Number,Vlasenica,F,"Seeing, even with the use of seeing aids",201
@@ -221,108 +221,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,"Seeing, even with the use of seeing aids",245
 2013,Number,Gacko,M,"Seeing, even with the use of seeing aids",107
 2013,Number,Gacko,F,"Seeing, even with the use of seeing aids",138
-2013,Number,City of Gradiska,Total,"Seeing, even with the use of seeing aids",1881
-2013,Number,City of Gradiska,M,"Seeing, even with the use of seeing aids",754
-2013,Number,City of Gradiska,F,"Seeing, even with the use of seeing aids",1127
-2013,Number,City of Derventa,Total,"Seeing, even with the use of seeing aids",1172
-2013,Number,City of Derventa,M,"Seeing, even with the use of seeing aids",476
-2013,Number,City of Derventa,F,"Seeing, even with the use of seeing aids",696
-2013,Number,City of Doboj,Total,"Seeing, even with the use of seeing aids",3265
-2013,Number,City of Doboj,M,"Seeing, even with the use of seeing aids",1332
-2013,Number,City of Doboj,F,"Seeing, even with the use of seeing aids",1933
-2013,Number,Donji Zabar,Total,"Seeing, even with the use of seeing aids",122
-2013,Number,Donji Zabar,M,"Seeing, even with the use of seeing aids",50
-2013,Number,Donji Zabar,F,"Seeing, even with the use of seeing aids",72
-2013,Number,City of Zvornik,Total,"Seeing, even with the use of seeing aids",1920
-2013,Number,City of Zvornik,M,"Seeing, even with the use of seeing aids",842
-2013,Number,City of Zvornik,F,"Seeing, even with the use of seeing aids",1078
-2013,Number,East Ilidza,Total,"Seeing, even with the use of seeing aids",423
-2013,Number,East Ilidza,M,"Seeing, even with the use of seeing aids",183
-2013,Number,East Ilidza,F,"Seeing, even with the use of seeing aids",240
-2013,Number,East Drvar,Total,"Seeing, even with the use of seeing aids",5
-2013,Number,East Drvar,M,"Seeing, even with the use of seeing aids",2
-2013,Number,East Drvar,F,"Seeing, even with the use of seeing aids",3
-2013,Number,East Mostar,Total,"Seeing, even with the use of seeing aids",9
-2013,Number,East Mostar,M,"Seeing, even with the use of seeing aids",3
-2013,Number,East Mostar,F,"Seeing, even with the use of seeing aids",6
-2013,Number,East Stari Grad,Total,"Seeing, even with the use of seeing aids",49
-2013,Number,East Stari Grad,M,"Seeing, even with the use of seeing aids",22
-2013,Number,East Stari Grad,F,"Seeing, even with the use of seeing aids",27
-2013,Number,East Novo Sarajevo,Total,"Seeing, even with the use of seeing aids",255
-2013,Number,East Novo Sarajevo,M,"Seeing, even with the use of seeing aids",90
-2013,Number,East Novo Sarajevo,F,"Seeing, even with the use of seeing aids",165
+2013,Number,Grad Gradiška,Total,"Seeing, even with the use of seeing aids",1881
+2013,Number,Grad Gradiška,M,"Seeing, even with the use of seeing aids",754
+2013,Number,Grad Gradiška,F,"Seeing, even with the use of seeing aids",1127
+2013,Number,Grad Derventa,Total,"Seeing, even with the use of seeing aids",1172
+2013,Number,Grad Derventa,M,"Seeing, even with the use of seeing aids",476
+2013,Number,Grad Derventa,F,"Seeing, even with the use of seeing aids",696
+2013,Number,Grad Doboj,Total,"Seeing, even with the use of seeing aids",3265
+2013,Number,Grad Doboj,M,"Seeing, even with the use of seeing aids",1332
+2013,Number,Grad Doboj,F,"Seeing, even with the use of seeing aids",1933
+2013,Number,Donji Žabar,Total,"Seeing, even with the use of seeing aids",122
+2013,Number,Donji Žabar,M,"Seeing, even with the use of seeing aids",50
+2013,Number,Donji Žabar,F,"Seeing, even with the use of seeing aids",72
+2013,Number,Grad Zvornik,Total,"Seeing, even with the use of seeing aids",1920
+2013,Number,Grad Zvornik,M,"Seeing, even with the use of seeing aids",842
+2013,Number,Grad Zvornik,F,"Seeing, even with the use of seeing aids",1078
+2013,Number,Istočna Ilidža,Total,"Seeing, even with the use of seeing aids",423
+2013,Number,Istočna Ilidža,M,"Seeing, even with the use of seeing aids",183
+2013,Number,Istočna Ilidža,F,"Seeing, even with the use of seeing aids",240
+2013,Number,Istočni Drvar,Total,"Seeing, even with the use of seeing aids",5
+2013,Number,Istočni Drvar,M,"Seeing, even with the use of seeing aids",2
+2013,Number,Istočni Drvar,F,"Seeing, even with the use of seeing aids",3
+2013,Number,Istočni Mostar,Total,"Seeing, even with the use of seeing aids",9
+2013,Number,Istočni Mostar,M,"Seeing, even with the use of seeing aids",3
+2013,Number,Istočni Mostar,F,"Seeing, even with the use of seeing aids",6
+2013,Number,Istočni Stari Grad,Total,"Seeing, even with the use of seeing aids",49
+2013,Number,Istočni Stari Grad,M,"Seeing, even with the use of seeing aids",22
+2013,Number,Istočni Stari Grad,F,"Seeing, even with the use of seeing aids",27
+2013,Number,Istočno Novo Sarajevo,Total,"Seeing, even with the use of seeing aids",255
+2013,Number,Istočno Novo Sarajevo,M,"Seeing, even with the use of seeing aids",90
+2013,Number,Istočno Novo Sarajevo,F,"Seeing, even with the use of seeing aids",165
 2013,Number,Jezero,Total,"Seeing, even with the use of seeing aids",44
 2013,Number,Jezero,M,"Seeing, even with the use of seeing aids",18
 2013,Number,Jezero,F,"Seeing, even with the use of seeing aids",26
 2013,Number,Kalinovik,Total,"Seeing, even with the use of seeing aids",87
 2013,Number,Kalinovik,M,"Seeing, even with the use of seeing aids",35
 2013,Number,Kalinovik,F,"Seeing, even with the use of seeing aids",52
-2013,Number,Knezevo,Total,"Seeing, even with the use of seeing aids",355
-2013,Number,Knezevo,M,"Seeing, even with the use of seeing aids",159
-2013,Number,Knezevo,F,"Seeing, even with the use of seeing aids",196
+2013,Number,Kneževo,Total,"Seeing, even with the use of seeing aids",355
+2013,Number,Kneževo,M,"Seeing, even with the use of seeing aids",159
+2013,Number,Kneževo,F,"Seeing, even with the use of seeing aids",196
 2013,Number,Kozarska Dubica,Total,"Seeing, even with the use of seeing aids",788
 2013,Number,Kozarska Dubica,M,"Seeing, even with the use of seeing aids",329
 2013,Number,Kozarska Dubica,F,"Seeing, even with the use of seeing aids",459
 2013,Number,Kostajnica,Total,"Seeing, even with the use of seeing aids",226
 2013,Number,Kostajnica,M,"Seeing, even with the use of seeing aids",104
 2013,Number,Kostajnica,F,"Seeing, even with the use of seeing aids",122
-2013,Number,Kotor Varos,Total,"Seeing, even with the use of seeing aids",894
-2013,Number,Kotor Varos,M,"Seeing, even with the use of seeing aids",374
-2013,Number,Kotor Varos,F,"Seeing, even with the use of seeing aids",520
+2013,Number,Kotor Varoš,Total,"Seeing, even with the use of seeing aids",894
+2013,Number,Kotor Varoš,M,"Seeing, even with the use of seeing aids",374
+2013,Number,Kotor Varoš,F,"Seeing, even with the use of seeing aids",520
 2013,Number,Krupa Na Uni,Total,"Seeing, even with the use of seeing aids",98
 2013,Number,Krupa Na Uni,M,"Seeing, even with the use of seeing aids",47
 2013,Number,Krupa Na Uni,F,"Seeing, even with the use of seeing aids",51
 2013,Number,Kupres,Total,"Seeing, even with the use of seeing aids",12
 2013,Number,Kupres,M,"Seeing, even with the use of seeing aids",8
 2013,Number,Kupres,F,"Seeing, even with the use of seeing aids",4
-2013,Number,Laktasi,Total,"Seeing, even with the use of seeing aids",1042
-2013,Number,Laktasi,M,"Seeing, even with the use of seeing aids",460
-2013,Number,Laktasi,F,"Seeing, even with the use of seeing aids",582
+2013,Number,Laktaši,Total,"Seeing, even with the use of seeing aids",1042
+2013,Number,Laktaši,M,"Seeing, even with the use of seeing aids",460
+2013,Number,Laktaši,F,"Seeing, even with the use of seeing aids",582
 2013,Number,Lopare,Total,"Seeing, even with the use of seeing aids",691
 2013,Number,Lopare,M,"Seeing, even with the use of seeing aids",297
 2013,Number,Lopare,F,"Seeing, even with the use of seeing aids",394
 2013,Number,Ljubinje,Total,"Seeing, even with the use of seeing aids",82
 2013,Number,Ljubinje,M,"Seeing, even with the use of seeing aids",36
 2013,Number,Ljubinje,F,"Seeing, even with the use of seeing aids",46
-2013,Number,Milici,Total,"Seeing, even with the use of seeing aids",390
-2013,Number,Milici,M,"Seeing, even with the use of seeing aids",165
-2013,Number,Milici,F,"Seeing, even with the use of seeing aids",225
-2013,Number,Modrica,Total,"Seeing, even with the use of seeing aids",990
-2013,Number,Modrica,M,"Seeing, even with the use of seeing aids",443
-2013,Number,Modrica,F,"Seeing, even with the use of seeing aids",547
-2013,Number,Mrkonjic Grad,Total,"Seeing, even with the use of seeing aids",524
-2013,Number,Mrkonjic Grad,M,"Seeing, even with the use of seeing aids",227
-2013,Number,Mrkonjic Grad,F,"Seeing, even with the use of seeing aids",297
+2013,Number,Milići,Total,"Seeing, even with the use of seeing aids",390
+2013,Number,Milići,M,"Seeing, even with the use of seeing aids",165
+2013,Number,Milići,F,"Seeing, even with the use of seeing aids",225
+2013,Number,Modriča,Total,"Seeing, even with the use of seeing aids",990
+2013,Number,Modriča,M,"Seeing, even with the use of seeing aids",443
+2013,Number,Modriča,F,"Seeing, even with the use of seeing aids",547
+2013,Number,Mrkonjić Grad,Total,"Seeing, even with the use of seeing aids",524
+2013,Number,Mrkonjić Grad,M,"Seeing, even with the use of seeing aids",227
+2013,Number,Mrkonjić Grad,F,"Seeing, even with the use of seeing aids",297
 2013,Number,Nevesinje,Total,"Seeing, even with the use of seeing aids",401
 2013,Number,Nevesinje,M,"Seeing, even with the use of seeing aids",187
 2013,Number,Nevesinje,F,"Seeing, even with the use of seeing aids",214
 2013,Number,Novi Grad,Total,"Seeing, even with the use of seeing aids",1236
 2013,Number,Novi Grad,M,"Seeing, even with the use of seeing aids",483
 2013,Number,Novi Grad,F,"Seeing, even with the use of seeing aids",753
-2013,Number,Novo Gorazde,Total,"Seeing, even with the use of seeing aids",86
-2013,Number,Novo Gorazde,M,"Seeing, even with the use of seeing aids",35
-2013,Number,Novo Gorazde,F,"Seeing, even with the use of seeing aids",51
+2013,Number,Novo Goražde,Total,"Seeing, even with the use of seeing aids",86
+2013,Number,Novo Goražde,M,"Seeing, even with the use of seeing aids",35
+2013,Number,Novo Goražde,F,"Seeing, even with the use of seeing aids",51
 2013,Number,Osmaci,Total,"Seeing, even with the use of seeing aids",243
 2013,Number,Osmaci,M,"Seeing, even with the use of seeing aids",102
 2013,Number,Osmaci,F,"Seeing, even with the use of seeing aids",141
-2013,Number,Ostra Luka,Total,"Seeing, even with the use of seeing aids",176
-2013,Number,Ostra Luka,M,"Seeing, even with the use of seeing aids",88
-2013,Number,Ostra Luka,F,"Seeing, even with the use of seeing aids",88
+2013,Number,Oštra Luka,Total,"Seeing, even with the use of seeing aids",176
+2013,Number,Oštra Luka,M,"Seeing, even with the use of seeing aids",88
+2013,Number,Oštra Luka,F,"Seeing, even with the use of seeing aids",88
 2013,Number,Pale,Total,"Seeing, even with the use of seeing aids",492
 2013,Number,Pale,M,"Seeing, even with the use of seeing aids",213
 2013,Number,Pale,F,"Seeing, even with the use of seeing aids",279
-2013,Number,Pelagicevo,Total,"Seeing, even with the use of seeing aids",310
-2013,Number,Pelagicevo,M,"Seeing, even with the use of seeing aids",132
-2013,Number,Pelagicevo,F,"Seeing, even with the use of seeing aids",178
+2013,Number,Pelagićevo,Total,"Seeing, even with the use of seeing aids",310
+2013,Number,Pelagićevo,M,"Seeing, even with the use of seeing aids",132
+2013,Number,Pelagićevo,F,"Seeing, even with the use of seeing aids",178
 2013,Number,Petrovac,Total,"Seeing, even with the use of seeing aids",6
 2013,Number,Petrovac,M,"Seeing, even with the use of seeing aids",2
 2013,Number,Petrovac,F,"Seeing, even with the use of seeing aids",4
 2013,Number,Petrovo,Total,"Seeing, even with the use of seeing aids",433
 2013,Number,Petrovo,M,"Seeing, even with the use of seeing aids",178
 2013,Number,Petrovo,F,"Seeing, even with the use of seeing aids",255
-2013,Number,City of Prijedor,Total,"Seeing, even with the use of seeing aids",2857
-2013,Number,City of Prijedor,M,"Seeing, even with the use of seeing aids",1209
-2013,Number,City of Prijedor,F,"Seeing, even with the use of seeing aids",1648
+2013,Number,Grad Prijedor,Total,"Seeing, even with the use of seeing aids",2857
+2013,Number,Grad Prijedor,M,"Seeing, even with the use of seeing aids",1209
+2013,Number,Grad Prijedor,F,"Seeing, even with the use of seeing aids",1648
 2013,Number,Prnjavor,Total,"Seeing, even with the use of seeing aids",1364
 2013,Number,Prnjavor,M,"Seeing, even with the use of seeing aids",564
 2013,Number,Prnjavor,F,"Seeing, even with the use of seeing aids",800
@@ -344,63 +344,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,"Seeing, even with the use of seeing aids",487
 2013,Number,Srebrenica,M,"Seeing, even with the use of seeing aids",176
 2013,Number,Srebrenica,F,"Seeing, even with the use of seeing aids",311
-2013,Number,Teslic,Total,"Seeing, even with the use of seeing aids",1451
-2013,Number,Teslic,M,"Seeing, even with the use of seeing aids",633
-2013,Number,Teslic,F,"Seeing, even with the use of seeing aids",818
-2013,Number,City of Trebinje,Total,"Seeing, even with the use of seeing aids",736
-2013,Number,City of Trebinje,M,"Seeing, even with the use of seeing aids",297
-2013,Number,City of Trebinje,F,"Seeing, even with the use of seeing aids",439
+2013,Number,Teslić,Total,"Seeing, even with the use of seeing aids",1451
+2013,Number,Teslić,M,"Seeing, even with the use of seeing aids",633
+2013,Number,Teslić,F,"Seeing, even with the use of seeing aids",818
+2013,Number,Grad Trebinje,Total,"Seeing, even with the use of seeing aids",736
+2013,Number,Grad Trebinje,M,"Seeing, even with the use of seeing aids",297
+2013,Number,Grad Trebinje,F,"Seeing, even with the use of seeing aids",439
 2013,Number,Trnovo,Total,"Seeing, even with the use of seeing aids",62
 2013,Number,Trnovo,M,"Seeing, even with the use of seeing aids",25
 2013,Number,Trnovo,F,"Seeing, even with the use of seeing aids",37
 2013,Number,Ugljevik,Total,"Seeing, even with the use of seeing aids",488
 2013,Number,Ugljevik,M,"Seeing, even with the use of seeing aids",202
 2013,Number,Ugljevik,F,"Seeing, even with the use of seeing aids",286
-2013,Number,Foca,Total,"Seeing, even with the use of seeing aids",605
-2013,Number,Foca,M,"Seeing, even with the use of seeing aids",263
-2013,Number,Foca,F,"Seeing, even with the use of seeing aids",342
+2013,Number,Foča,Total,"Seeing, even with the use of seeing aids",605
+2013,Number,Foča,M,"Seeing, even with the use of seeing aids",263
+2013,Number,Foča,F,"Seeing, even with the use of seeing aids",342
 2013,Number,Han Pijesak,Total,"Seeing, even with the use of seeing aids",102
 2013,Number,Han Pijesak,M,"Seeing, even with the use of seeing aids",36
 2013,Number,Han Pijesak,F,"Seeing, even with the use of seeing aids",66
-2013,Number,Cajnice,Total,"Seeing, even with the use of seeing aids",219
-2013,Number,Cajnice,M,"Seeing, even with the use of seeing aids",93
-2013,Number,Cajnice,F,"Seeing, even with the use of seeing aids",126
-2013,Number,Celinac,Total,"Seeing, even with the use of seeing aids",752
-2013,Number,Celinac,M,"Seeing, even with the use of seeing aids",313
-2013,Number,Celinac,F,"Seeing, even with the use of seeing aids",439
-2013,Number,Samac,Total,"Seeing, even with the use of seeing aids",679
-2013,Number,Samac,M,"Seeing, even with the use of seeing aids",277
-2013,Number,Samac,F,"Seeing, even with the use of seeing aids",402
-2013,Number,Sekovici,Total,"Seeing, even with the use of seeing aids",307
-2013,Number,Sekovici,M,"Seeing, even with the use of seeing aids",130
-2013,Number,Sekovici,F,"Seeing, even with the use of seeing aids",177
-2013,Number,Sipovo,Total,"Seeing, even with the use of seeing aids",372
-2013,Number,Sipovo,M,"Seeing, even with the use of seeing aids",155
-2013,Number,Sipovo,F,"Seeing, even with the use of seeing aids",217
+2013,Number,Čajniče,Total,"Seeing, even with the use of seeing aids",219
+2013,Number,Čajniče,M,"Seeing, even with the use of seeing aids",93
+2013,Number,Čajniče,F,"Seeing, even with the use of seeing aids",126
+2013,Number,Čelinac,Total,"Seeing, even with the use of seeing aids",752
+2013,Number,Čelinac,M,"Seeing, even with the use of seeing aids",313
+2013,Number,Čelinac,F,"Seeing, even with the use of seeing aids",439
+2013,Number,Šamac,Total,"Seeing, even with the use of seeing aids",679
+2013,Number,Šamac,M,"Seeing, even with the use of seeing aids",277
+2013,Number,Šamac,F,"Seeing, even with the use of seeing aids",402
+2013,Number,Šekovići,Total,"Seeing, even with the use of seeing aids",307
+2013,Number,Šekovići,M,"Seeing, even with the use of seeing aids",130
+2013,Number,Šekovići,F,"Seeing, even with the use of seeing aids",177
+2013,Number,Šipovo,Total,"Seeing, even with the use of seeing aids",372
+2013,Number,Šipovo,M,"Seeing, even with the use of seeing aids",155
+2013,Number,Šipovo,F,"Seeing, even with the use of seeing aids",217
 2013,Number,Republika Srpska,Total,"Hearing, even with the use of hearing aids",26055
 2013,Number,Republika Srpska,M,"Hearing, even with the use of hearing aids",12971
 2013,Number,Republika Srpska,F,"Hearing, even with the use of hearing aids",13084
-2013,Number,City of Banja Luka,Total,"Hearing, even with the use of hearing aids",3262
-2013,Number,City of Banja Luka,M,"Hearing, even with the use of hearing aids",1678
-2013,Number,City of Banja Luka,F,"Hearing, even with the use of hearing aids",1584
-2013,Number,Berkovici,Total,"Hearing, even with the use of hearing aids",48
-2013,Number,Berkovici,M,"Hearing, even with the use of hearing aids",28
-2013,Number,Berkovici,F,"Hearing, even with the use of hearing aids",20
-2013,Number,City of Bijeljina,Total,"Hearing, even with the use of hearing aids",2026
-2013,Number,City of Bijeljina,M,"Hearing, even with the use of hearing aids",1028
-2013,Number,City of Bijeljina,F,"Hearing, even with the use of hearing aids",998
-2013,Number,Bileca,Total,"Hearing, even with the use of hearing aids",240
-2013,Number,Bileca,M,"Hearing, even with the use of hearing aids",122
-2013,Number,Bileca,F,"Hearing, even with the use of hearing aids",118
+2013,Number,Grad Banja Luka,Total,"Hearing, even with the use of hearing aids",3262
+2013,Number,Grad Banja Luka,M,"Hearing, even with the use of hearing aids",1678
+2013,Number,Grad Banja Luka,F,"Hearing, even with the use of hearing aids",1584
+2013,Number,Berkovići,Total,"Hearing, even with the use of hearing aids",48
+2013,Number,Berkovići,M,"Hearing, even with the use of hearing aids",28
+2013,Number,Berkovići,F,"Hearing, even with the use of hearing aids",20
+2013,Number,Grad Bijeljina,Total,"Hearing, even with the use of hearing aids",2026
+2013,Number,Grad Bijeljina,M,"Hearing, even with the use of hearing aids",1028
+2013,Number,Grad Bijeljina,F,"Hearing, even with the use of hearing aids",998
+2013,Number,Bileća,Total,"Hearing, even with the use of hearing aids",240
+2013,Number,Bileća,M,"Hearing, even with the use of hearing aids",122
+2013,Number,Bileća,F,"Hearing, even with the use of hearing aids",118
 2013,Number,Bratunac,Total,"Hearing, even with the use of hearing aids",420
 2013,Number,Bratunac,M,"Hearing, even with the use of hearing aids",196
 2013,Number,Bratunac,F,"Hearing, even with the use of hearing aids",224
 2013,Number,Brod,Total,"Hearing, even with the use of hearing aids",322
 2013,Number,Brod,M,"Hearing, even with the use of hearing aids",168
 2013,Number,Brod,F,"Hearing, even with the use of hearing aids",154
-2013,Number,Visegrad,Total,"Hearing, even with the use of hearing aids",276
-2013,Number,Visegrad,M,"Hearing, even with the use of hearing aids",128
-2013,Number,Visegrad,F,"Hearing, even with the use of hearing aids",148
+2013,Number,Višegrad,Total,"Hearing, even with the use of hearing aids",276
+2013,Number,Višegrad,M,"Hearing, even with the use of hearing aids",128
+2013,Number,Višegrad,F,"Hearing, even with the use of hearing aids",148
 2013,Number,Vlasenica,Total,"Hearing, even with the use of hearing aids",236
 2013,Number,Vlasenica,M,"Hearing, even with the use of hearing aids",117
 2013,Number,Vlasenica,F,"Hearing, even with the use of hearing aids",119
@@ -410,108 +410,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,"Hearing, even with the use of hearing aids",172
 2013,Number,Gacko,M,"Hearing, even with the use of hearing aids",80
 2013,Number,Gacko,F,"Hearing, even with the use of hearing aids",92
-2013,Number,City of Gradiska,Total,"Hearing, even with the use of hearing aids",1110
-2013,Number,City of Gradiska,M,"Hearing, even with the use of hearing aids",525
-2013,Number,City of Gradiska,F,"Hearing, even with the use of hearing aids",585
-2013,Number,City of Derventa,Total,"Hearing, even with the use of hearing aids",655
-2013,Number,City of Derventa,M,"Hearing, even with the use of hearing aids",320
-2013,Number,City of Derventa,F,"Hearing, even with the use of hearing aids",335
-2013,Number,City of Doboj,Total,"Hearing, even with the use of hearing aids",1902
-2013,Number,City of Doboj,M,"Hearing, even with the use of hearing aids",925
-2013,Number,City of Doboj,F,"Hearing, even with the use of hearing aids",977
-2013,Number,Donji Zabar,Total,"Hearing, even with the use of hearing aids",81
-2013,Number,Donji Zabar,M,"Hearing, even with the use of hearing aids",50
-2013,Number,Donji Zabar,F,"Hearing, even with the use of hearing aids",31
-2013,Number,City of Zvornik,Total,"Hearing, even with the use of hearing aids",1157
-2013,Number,City of Zvornik,M,"Hearing, even with the use of hearing aids",580
-2013,Number,City of Zvornik,F,"Hearing, even with the use of hearing aids",577
-2013,Number,East Ilidza,Total,"Hearing, even with the use of hearing aids",267
-2013,Number,East Ilidza,M,"Hearing, even with the use of hearing aids",123
-2013,Number,East Ilidza,F,"Hearing, even with the use of hearing aids",144
-2013,Number,East Drvar,Total,"Hearing, even with the use of hearing aids",4
-2013,Number,East Drvar,M,"Hearing, even with the use of hearing aids",1
-2013,Number,East Drvar,F,"Hearing, even with the use of hearing aids",3
-2013,Number,East Mostar,Total,"Hearing, even with the use of hearing aids",7
-2013,Number,East Mostar,M,"Hearing, even with the use of hearing aids",1
-2013,Number,East Mostar,F,"Hearing, even with the use of hearing aids",6
-2013,Number,East Stari Grad,Total,"Hearing, even with the use of hearing aids",29
-2013,Number,East Stari Grad,M,"Hearing, even with the use of hearing aids",15
-2013,Number,East Stari Grad,F,"Hearing, even with the use of hearing aids",14
-2013,Number,East Novo Sarajevo,Total,"Hearing, even with the use of hearing aids",153
-2013,Number,East Novo Sarajevo,M,"Hearing, even with the use of hearing aids",76
-2013,Number,East Novo Sarajevo,F,"Hearing, even with the use of hearing aids",77
+2013,Number,Grad Gradiška,Total,"Hearing, even with the use of hearing aids",1110
+2013,Number,Grad Gradiška,M,"Hearing, even with the use of hearing aids",525
+2013,Number,Grad Gradiška,F,"Hearing, even with the use of hearing aids",585
+2013,Number,Grad Derventa,Total,"Hearing, even with the use of hearing aids",655
+2013,Number,Grad Derventa,M,"Hearing, even with the use of hearing aids",320
+2013,Number,Grad Derventa,F,"Hearing, even with the use of hearing aids",335
+2013,Number,Grad Doboj,Total,"Hearing, even with the use of hearing aids",1902
+2013,Number,Grad Doboj,M,"Hearing, even with the use of hearing aids",925
+2013,Number,Grad Doboj,F,"Hearing, even with the use of hearing aids",977
+2013,Number,Donji Žabar,Total,"Hearing, even with the use of hearing aids",81
+2013,Number,Donji Žabar,M,"Hearing, even with the use of hearing aids",50
+2013,Number,Donji Žabar,F,"Hearing, even with the use of hearing aids",31
+2013,Number,Grad Zvornik,Total,"Hearing, even with the use of hearing aids",1157
+2013,Number,Grad Zvornik,M,"Hearing, even with the use of hearing aids",580
+2013,Number,Grad Zvornik,F,"Hearing, even with the use of hearing aids",577
+2013,Number,Istočna Ilidža,Total,"Hearing, even with the use of hearing aids",267
+2013,Number,Istočna Ilidža,M,"Hearing, even with the use of hearing aids",123
+2013,Number,Istočna Ilidža,F,"Hearing, even with the use of hearing aids",144
+2013,Number,Istočni Drvar,Total,"Hearing, even with the use of hearing aids",4
+2013,Number,Istočni Drvar,M,"Hearing, even with the use of hearing aids",1
+2013,Number,Istočni Drvar,F,"Hearing, even with the use of hearing aids",3
+2013,Number,Istočni Mostar,Total,"Hearing, even with the use of hearing aids",7
+2013,Number,Istočni Mostar,M,"Hearing, even with the use of hearing aids",1
+2013,Number,Istočni Mostar,F,"Hearing, even with the use of hearing aids",6
+2013,Number,Istočni Stari Grad,Total,"Hearing, even with the use of hearing aids",29
+2013,Number,Istočni Stari Grad,M,"Hearing, even with the use of hearing aids",15
+2013,Number,Istočni Stari Grad,F,"Hearing, even with the use of hearing aids",14
+2013,Number,Istočno Novo Sarajevo,Total,"Hearing, even with the use of hearing aids",153
+2013,Number,Istočno Novo Sarajevo,M,"Hearing, even with the use of hearing aids",76
+2013,Number,Istočno Novo Sarajevo,F,"Hearing, even with the use of hearing aids",77
 2013,Number,Jezero,Total,"Hearing, even with the use of hearing aids",34
 2013,Number,Jezero,M,"Hearing, even with the use of hearing aids",18
 2013,Number,Jezero,F,"Hearing, even with the use of hearing aids",16
 2013,Number,Kalinovik,Total,"Hearing, even with the use of hearing aids",56
 2013,Number,Kalinovik,M,"Hearing, even with the use of hearing aids",25
 2013,Number,Kalinovik,F,"Hearing, even with the use of hearing aids",31
-2013,Number,Knezevo,Total,"Hearing, even with the use of hearing aids",251
-2013,Number,Knezevo,M,"Hearing, even with the use of hearing aids",127
-2013,Number,Knezevo,F,"Hearing, even with the use of hearing aids",124
+2013,Number,Kneževo,Total,"Hearing, even with the use of hearing aids",251
+2013,Number,Kneževo,M,"Hearing, even with the use of hearing aids",127
+2013,Number,Kneževo,F,"Hearing, even with the use of hearing aids",124
 2013,Number,Kozarska Dubica,Total,"Hearing, even with the use of hearing aids",490
 2013,Number,Kozarska Dubica,M,"Hearing, even with the use of hearing aids",237
 2013,Number,Kozarska Dubica,F,"Hearing, even with the use of hearing aids",253
 2013,Number,Kostajnica,Total,"Hearing, even with the use of hearing aids",123
 2013,Number,Kostajnica,M,"Hearing, even with the use of hearing aids",65
 2013,Number,Kostajnica,F,"Hearing, even with the use of hearing aids",58
-2013,Number,Kotor Varos,Total,"Hearing, even with the use of hearing aids",485
-2013,Number,Kotor Varos,M,"Hearing, even with the use of hearing aids",244
-2013,Number,Kotor Varos,F,"Hearing, even with the use of hearing aids",241
+2013,Number,Kotor Varoš,Total,"Hearing, even with the use of hearing aids",485
+2013,Number,Kotor Varoš,M,"Hearing, even with the use of hearing aids",244
+2013,Number,Kotor Varoš,F,"Hearing, even with the use of hearing aids",241
 2013,Number,Krupa Na Uni,Total,"Hearing, even with the use of hearing aids",59
 2013,Number,Krupa Na Uni,M,"Hearing, even with the use of hearing aids",36
 2013,Number,Krupa Na Uni,F,"Hearing, even with the use of hearing aids",23
 2013,Number,Kupres,Total,"Hearing, even with the use of hearing aids",14
 2013,Number,Kupres,M,"Hearing, even with the use of hearing aids",10
 2013,Number,Kupres,F,"Hearing, even with the use of hearing aids",4
-2013,Number,Laktasi,Total,"Hearing, even with the use of hearing aids",610
-2013,Number,Laktasi,M,"Hearing, even with the use of hearing aids",322
-2013,Number,Laktasi,F,"Hearing, even with the use of hearing aids",288
+2013,Number,Laktaši,Total,"Hearing, even with the use of hearing aids",610
+2013,Number,Laktaši,M,"Hearing, even with the use of hearing aids",322
+2013,Number,Laktaši,F,"Hearing, even with the use of hearing aids",288
 2013,Number,Lopare,Total,"Hearing, even with the use of hearing aids",400
 2013,Number,Lopare,M,"Hearing, even with the use of hearing aids",187
 2013,Number,Lopare,F,"Hearing, even with the use of hearing aids",213
 2013,Number,Ljubinje,Total,"Hearing, even with the use of hearing aids",68
 2013,Number,Ljubinje,M,"Hearing, even with the use of hearing aids",33
 2013,Number,Ljubinje,F,"Hearing, even with the use of hearing aids",35
-2013,Number,Milici,Total,"Hearing, even with the use of hearing aids",209
-2013,Number,Milici,M,"Hearing, even with the use of hearing aids",98
-2013,Number,Milici,F,"Hearing, even with the use of hearing aids",111
-2013,Number,Modrica,Total,"Hearing, even with the use of hearing aids",623
-2013,Number,Modrica,M,"Hearing, even with the use of hearing aids",318
-2013,Number,Modrica,F,"Hearing, even with the use of hearing aids",305
-2013,Number,Mrkonjic Grad,Total,"Hearing, even with the use of hearing aids",388
-2013,Number,Mrkonjic Grad,M,"Hearing, even with the use of hearing aids",188
-2013,Number,Mrkonjic Grad,F,"Hearing, even with the use of hearing aids",200
+2013,Number,Milići,Total,"Hearing, even with the use of hearing aids",209
+2013,Number,Milići,M,"Hearing, even with the use of hearing aids",98
+2013,Number,Milići,F,"Hearing, even with the use of hearing aids",111
+2013,Number,Modriča,Total,"Hearing, even with the use of hearing aids",623
+2013,Number,Modriča,M,"Hearing, even with the use of hearing aids",318
+2013,Number,Modriča,F,"Hearing, even with the use of hearing aids",305
+2013,Number,Mrkonjić Grad,Total,"Hearing, even with the use of hearing aids",388
+2013,Number,Mrkonjić Grad,M,"Hearing, even with the use of hearing aids",188
+2013,Number,Mrkonjić Grad,F,"Hearing, even with the use of hearing aids",200
 2013,Number,Nevesinje,Total,"Hearing, even with the use of hearing aids",254
 2013,Number,Nevesinje,M,"Hearing, even with the use of hearing aids",119
 2013,Number,Nevesinje,F,"Hearing, even with the use of hearing aids",135
 2013,Number,Novi Grad,Total,"Hearing, even with the use of hearing aids",706
 2013,Number,Novi Grad,M,"Hearing, even with the use of hearing aids",334
 2013,Number,Novi Grad,F,"Hearing, even with the use of hearing aids",372
-2013,Number,Novo Gorazde,Total,"Hearing, even with the use of hearing aids",57
-2013,Number,Novo Gorazde,M,"Hearing, even with the use of hearing aids",31
-2013,Number,Novo Gorazde,F,"Hearing, even with the use of hearing aids",26
+2013,Number,Novo Goražde,Total,"Hearing, even with the use of hearing aids",57
+2013,Number,Novo Goražde,M,"Hearing, even with the use of hearing aids",31
+2013,Number,Novo Goražde,F,"Hearing, even with the use of hearing aids",26
 2013,Number,Osmaci,Total,"Hearing, even with the use of hearing aids",144
 2013,Number,Osmaci,M,"Hearing, even with the use of hearing aids",71
 2013,Number,Osmaci,F,"Hearing, even with the use of hearing aids",73
-2013,Number,Ostra Luka,Total,"Hearing, even with the use of hearing aids",97
-2013,Number,Ostra Luka,M,"Hearing, even with the use of hearing aids",65
-2013,Number,Ostra Luka,F,"Hearing, even with the use of hearing aids",32
+2013,Number,Oštra Luka,Total,"Hearing, even with the use of hearing aids",97
+2013,Number,Oštra Luka,M,"Hearing, even with the use of hearing aids",65
+2013,Number,Oštra Luka,F,"Hearing, even with the use of hearing aids",32
 2013,Number,Pale,Total,"Hearing, even with the use of hearing aids",318
 2013,Number,Pale,M,"Hearing, even with the use of hearing aids",164
 2013,Number,Pale,F,"Hearing, even with the use of hearing aids",154
-2013,Number,Pelagicevo,Total,"Hearing, even with the use of hearing aids",167
-2013,Number,Pelagicevo,M,"Hearing, even with the use of hearing aids",74
-2013,Number,Pelagicevo,F,"Hearing, even with the use of hearing aids",93
+2013,Number,Pelagićevo,Total,"Hearing, even with the use of hearing aids",167
+2013,Number,Pelagićevo,M,"Hearing, even with the use of hearing aids",74
+2013,Number,Pelagićevo,F,"Hearing, even with the use of hearing aids",93
 2013,Number,Petrovac,Total,"Hearing, even with the use of hearing aids",4
 2013,Number,Petrovac,M,"Hearing, even with the use of hearing aids",1
 2013,Number,Petrovac,F,"Hearing, even with the use of hearing aids",3
 2013,Number,Petrovo,Total,"Hearing, even with the use of hearing aids",257
 2013,Number,Petrovo,M,"Hearing, even with the use of hearing aids",134
 2013,Number,Petrovo,F,"Hearing, even with the use of hearing aids",123
-2013,Number,City of Prijedor,Total,"Hearing, even with the use of hearing aids",1805
-2013,Number,City of Prijedor,M,"Hearing, even with the use of hearing aids",944
-2013,Number,City of Prijedor,F,"Hearing, even with the use of hearing aids",861
+2013,Number,Grad Prijedor,Total,"Hearing, even with the use of hearing aids",1805
+2013,Number,Grad Prijedor,M,"Hearing, even with the use of hearing aids",944
+2013,Number,Grad Prijedor,F,"Hearing, even with the use of hearing aids",861
 2013,Number,Prnjavor,Total,"Hearing, even with the use of hearing aids",812
 2013,Number,Prnjavor,M,"Hearing, even with the use of hearing aids",383
 2013,Number,Prnjavor,F,"Hearing, even with the use of hearing aids",429
@@ -533,63 +533,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,"Hearing, even with the use of hearing aids",229
 2013,Number,Srebrenica,M,"Hearing, even with the use of hearing aids",109
 2013,Number,Srebrenica,F,"Hearing, even with the use of hearing aids",120
-2013,Number,Teslic,Total,"Hearing, even with the use of hearing aids",881
-2013,Number,Teslic,M,"Hearing, even with the use of hearing aids",435
-2013,Number,Teslic,F,"Hearing, even with the use of hearing aids",446
-2013,Number,City of Trebinje,Total,"Hearing, even with the use of hearing aids",461
-2013,Number,City of Trebinje,M,"Hearing, even with the use of hearing aids",227
-2013,Number,City of Trebinje,F,"Hearing, even with the use of hearing aids",234
+2013,Number,Teslić,Total,"Hearing, even with the use of hearing aids",881
+2013,Number,Teslić,M,"Hearing, even with the use of hearing aids",435
+2013,Number,Teslić,F,"Hearing, even with the use of hearing aids",446
+2013,Number,Grad Trebinje,Total,"Hearing, even with the use of hearing aids",461
+2013,Number,Grad Trebinje,M,"Hearing, even with the use of hearing aids",227
+2013,Number,Grad Trebinje,F,"Hearing, even with the use of hearing aids",234
 2013,Number,Trnovo,Total,"Hearing, even with the use of hearing aids",46
 2013,Number,Trnovo,M,"Hearing, even with the use of hearing aids",22
 2013,Number,Trnovo,F,"Hearing, even with the use of hearing aids",24
 2013,Number,Ugljevik,Total,"Hearing, even with the use of hearing aids",257
 2013,Number,Ugljevik,M,"Hearing, even with the use of hearing aids",117
 2013,Number,Ugljevik,F,"Hearing, even with the use of hearing aids",140
-2013,Number,Foca,Total,"Hearing, even with the use of hearing aids",430
-2013,Number,Foca,M,"Hearing, even with the use of hearing aids",216
-2013,Number,Foca,F,"Hearing, even with the use of hearing aids",214
+2013,Number,Foča,Total,"Hearing, even with the use of hearing aids",430
+2013,Number,Foča,M,"Hearing, even with the use of hearing aids",216
+2013,Number,Foča,F,"Hearing, even with the use of hearing aids",214
 2013,Number,Han Pijesak,Total,"Hearing, even with the use of hearing aids",68
 2013,Number,Han Pijesak,M,"Hearing, even with the use of hearing aids",28
 2013,Number,Han Pijesak,F,"Hearing, even with the use of hearing aids",40
-2013,Number,Cajnice,Total,"Hearing, even with the use of hearing aids",135
-2013,Number,Cajnice,M,"Hearing, even with the use of hearing aids",66
-2013,Number,Cajnice,F,"Hearing, even with the use of hearing aids",69
-2013,Number,Celinac,Total,"Hearing, even with the use of hearing aids",457
-2013,Number,Celinac,M,"Hearing, even with the use of hearing aids",233
-2013,Number,Celinac,F,"Hearing, even with the use of hearing aids",224
-2013,Number,Samac,Total,"Hearing, even with the use of hearing aids",419
-2013,Number,Samac,M,"Hearing, even with the use of hearing aids",217
-2013,Number,Samac,F,"Hearing, even with the use of hearing aids",202
-2013,Number,Sekovici,Total,"Hearing, even with the use of hearing aids",193
-2013,Number,Sekovici,M,"Hearing, even with the use of hearing aids",96
-2013,Number,Sekovici,F,"Hearing, even with the use of hearing aids",97
-2013,Number,Sipovo,Total,"Hearing, even with the use of hearing aids",219
-2013,Number,Sipovo,M,"Hearing, even with the use of hearing aids",104
-2013,Number,Sipovo,F,"Hearing, even with the use of hearing aids",115
+2013,Number,Čajniče,Total,"Hearing, even with the use of hearing aids",135
+2013,Number,Čajniče,M,"Hearing, even with the use of hearing aids",66
+2013,Number,Čajniče,F,"Hearing, even with the use of hearing aids",69
+2013,Number,Čelinac,Total,"Hearing, even with the use of hearing aids",457
+2013,Number,Čelinac,M,"Hearing, even with the use of hearing aids",233
+2013,Number,Čelinac,F,"Hearing, even with the use of hearing aids",224
+2013,Number,Šamac,Total,"Hearing, even with the use of hearing aids",419
+2013,Number,Šamac,M,"Hearing, even with the use of hearing aids",217
+2013,Number,Šamac,F,"Hearing, even with the use of hearing aids",202
+2013,Number,Šekovići,Total,"Hearing, even with the use of hearing aids",193
+2013,Number,Šekovići,M,"Hearing, even with the use of hearing aids",96
+2013,Number,Šekovići,F,"Hearing, even with the use of hearing aids",97
+2013,Number,Šipovo,Total,"Hearing, even with the use of hearing aids",219
+2013,Number,Šipovo,M,"Hearing, even with the use of hearing aids",104
+2013,Number,Šipovo,F,"Hearing, even with the use of hearing aids",115
 2013,Number,Republika Srpska,Total,Walking or climbing the stairs,63381
 2013,Number,Republika Srpska,M,Walking or climbing the stairs,26903
 2013,Number,Republika Srpska,F,Walking or climbing the stairs,36478
-2013,Number,City of Banja Luka,Total,Walking or climbing the stairs,8456
-2013,Number,City of Banja Luka,M,Walking or climbing the stairs,3667
-2013,Number,City of Banja Luka,F,Walking or climbing the stairs,4789
-2013,Number,Berkovici,Total,Walking or climbing the stairs,109
-2013,Number,Berkovici,M,Walking or climbing the stairs,45
-2013,Number,Berkovici,F,Walking or climbing the stairs,64
-2013,Number,City of Bijeljina,Total,Walking or climbing the stairs,5530
-2013,Number,City of Bijeljina,M,Walking or climbing the stairs,2356
-2013,Number,City of Bijeljina,F,Walking or climbing the stairs,3174
-2013,Number,Bileca,Total,Walking or climbing the stairs,533
-2013,Number,Bileca,M,Walking or climbing the stairs,193
-2013,Number,Bileca,F,Walking or climbing the stairs,340
+2013,Number,Grad Banja Luka,Total,Walking or climbing the stairs,8456
+2013,Number,Grad Banja Luka,M,Walking or climbing the stairs,3667
+2013,Number,Grad Banja Luka,F,Walking or climbing the stairs,4789
+2013,Number,Berkovići,Total,Walking or climbing the stairs,109
+2013,Number,Berkovići,M,Walking or climbing the stairs,45
+2013,Number,Berkovići,F,Walking or climbing the stairs,64
+2013,Number,Grad Bijeljina,Total,Walking or climbing the stairs,5530
+2013,Number,Grad Bijeljina,M,Walking or climbing the stairs,2356
+2013,Number,Grad Bijeljina,F,Walking or climbing the stairs,3174
+2013,Number,Bileća,Total,Walking or climbing the stairs,533
+2013,Number,Bileća,M,Walking or climbing the stairs,193
+2013,Number,Bileća,F,Walking or climbing the stairs,340
 2013,Number,Bratunac,Total,Walking or climbing the stairs,835
 2013,Number,Bratunac,M,Walking or climbing the stairs,372
 2013,Number,Bratunac,F,Walking or climbing the stairs,463
 2013,Number,Brod,Total,Walking or climbing the stairs,892
 2013,Number,Brod,M,Walking or climbing the stairs,392
 2013,Number,Brod,F,Walking or climbing the stairs,500
-2013,Number,Visegrad,Total,Walking or climbing the stairs,598
-2013,Number,Visegrad,M,Walking or climbing the stairs,227
-2013,Number,Visegrad,F,Walking or climbing the stairs,371
+2013,Number,Višegrad,Total,Walking or climbing the stairs,598
+2013,Number,Višegrad,M,Walking or climbing the stairs,227
+2013,Number,Višegrad,F,Walking or climbing the stairs,371
 2013,Number,Vlasenica,Total,Walking or climbing the stairs,440
 2013,Number,Vlasenica,M,Walking or climbing the stairs,211
 2013,Number,Vlasenica,F,Walking or climbing the stairs,229
@@ -599,108 +599,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Walking or climbing the stairs,385
 2013,Number,Gacko,M,Walking or climbing the stairs,152
 2013,Number,Gacko,F,Walking or climbing the stairs,233
-2013,Number,City of Gradiska,Total,Walking or climbing the stairs,2675
-2013,Number,City of Gradiska,M,Walking or climbing the stairs,1074
-2013,Number,City of Gradiska,F,Walking or climbing the stairs,1601
-2013,Number,City of Derventa,Total,Walking or climbing the stairs,1590
-2013,Number,City of Derventa,M,Walking or climbing the stairs,695
-2013,Number,City of Derventa,F,Walking or climbing the stairs,895
-2013,Number,City of Doboj,Total,Walking or climbing the stairs,4793
-2013,Number,City of Doboj,M,Walking or climbing the stairs,1953
-2013,Number,City of Doboj,F,Walking or climbing the stairs,2840
-2013,Number,Donji Zabar,Total,Walking or climbing the stairs,182
-2013,Number,Donji Zabar,M,Walking or climbing the stairs,76
-2013,Number,Donji Zabar,F,Walking or climbing the stairs,106
-2013,Number,City of Zvornik,Total,Walking or climbing the stairs,2535
-2013,Number,City of Zvornik,M,Walking or climbing the stairs,1092
-2013,Number,City of Zvornik,F,Walking or climbing the stairs,1443
-2013,Number,East Ilidza,Total,Walking or climbing the stairs,644
-2013,Number,East Ilidza,M,Walking or climbing the stairs,267
-2013,Number,East Ilidza,F,Walking or climbing the stairs,377
-2013,Number,East Drvar,Total,Walking or climbing the stairs,7
-2013,Number,East Drvar,M,Walking or climbing the stairs,4
-2013,Number,East Drvar,F,Walking or climbing the stairs,3
-2013,Number,East Mostar,Total,Walking or climbing the stairs,8
-2013,Number,East Mostar,M,Walking or climbing the stairs,2
-2013,Number,East Mostar,F,Walking or climbing the stairs,6
-2013,Number,East Stari Grad,Total,Walking or climbing the stairs,53
-2013,Number,East Stari Grad,M,Walking or climbing the stairs,22
-2013,Number,East Stari Grad,F,Walking or climbing the stairs,31
-2013,Number,East Novo Sarajevo,Total,Walking or climbing the stairs,380
-2013,Number,East Novo Sarajevo,M,Walking or climbing the stairs,163
-2013,Number,East Novo Sarajevo,F,Walking or climbing the stairs,217
+2013,Number,Grad Gradiška,Total,Walking or climbing the stairs,2675
+2013,Number,Grad Gradiška,M,Walking or climbing the stairs,1074
+2013,Number,Grad Gradiška,F,Walking or climbing the stairs,1601
+2013,Number,Grad Derventa,Total,Walking or climbing the stairs,1590
+2013,Number,Grad Derventa,M,Walking or climbing the stairs,695
+2013,Number,Grad Derventa,F,Walking or climbing the stairs,895
+2013,Number,Grad Doboj,Total,Walking or climbing the stairs,4793
+2013,Number,Grad Doboj,M,Walking or climbing the stairs,1953
+2013,Number,Grad Doboj,F,Walking or climbing the stairs,2840
+2013,Number,Donji Žabar,Total,Walking or climbing the stairs,182
+2013,Number,Donji Žabar,M,Walking or climbing the stairs,76
+2013,Number,Donji Žabar,F,Walking or climbing the stairs,106
+2013,Number,Grad Zvornik,Total,Walking or climbing the stairs,2535
+2013,Number,Grad Zvornik,M,Walking or climbing the stairs,1092
+2013,Number,Grad Zvornik,F,Walking or climbing the stairs,1443
+2013,Number,Istočna Ilidža,Total,Walking or climbing the stairs,644
+2013,Number,Istočna Ilidža,M,Walking or climbing the stairs,267
+2013,Number,Istočna Ilidža,F,Walking or climbing the stairs,377
+2013,Number,Istočni Drvar,Total,Walking or climbing the stairs,7
+2013,Number,Istočni Drvar,M,Walking or climbing the stairs,4
+2013,Number,Istočni Drvar,F,Walking or climbing the stairs,3
+2013,Number,Istočni Mostar,Total,Walking or climbing the stairs,8
+2013,Number,Istočni Mostar,M,Walking or climbing the stairs,2
+2013,Number,Istočni Mostar,F,Walking or climbing the stairs,6
+2013,Number,Istočni Stari Grad,Total,Walking or climbing the stairs,53
+2013,Number,Istočni Stari Grad,M,Walking or climbing the stairs,22
+2013,Number,Istočni Stari Grad,F,Walking or climbing the stairs,31
+2013,Number,Istočno Novo Sarajevo,Total,Walking or climbing the stairs,380
+2013,Number,Istočno Novo Sarajevo,M,Walking or climbing the stairs,163
+2013,Number,Istočno Novo Sarajevo,F,Walking or climbing the stairs,217
 2013,Number,Jezero,Total,Walking or climbing the stairs,60
 2013,Number,Jezero,M,Walking or climbing the stairs,29
 2013,Number,Jezero,F,Walking or climbing the stairs,31
 2013,Number,Kalinovik,Total,Walking or climbing the stairs,132
 2013,Number,Kalinovik,M,Walking or climbing the stairs,54
 2013,Number,Kalinovik,F,Walking or climbing the stairs,78
-2013,Number,Knezevo,Total,Walking or climbing the stairs,568
-2013,Number,Knezevo,M,Walking or climbing the stairs,255
-2013,Number,Knezevo,F,Walking or climbing the stairs,313
+2013,Number,Kneževo,Total,Walking or climbing the stairs,568
+2013,Number,Kneževo,M,Walking or climbing the stairs,255
+2013,Number,Kneževo,F,Walking or climbing the stairs,313
 2013,Number,Kozarska Dubica,Total,Walking or climbing the stairs,1369
 2013,Number,Kozarska Dubica,M,Walking or climbing the stairs,549
 2013,Number,Kozarska Dubica,F,Walking or climbing the stairs,820
 2013,Number,Kostajnica,Total,Walking or climbing the stairs,312
 2013,Number,Kostajnica,M,Walking or climbing the stairs,133
 2013,Number,Kostajnica,F,Walking or climbing the stairs,179
-2013,Number,Kotor Varos,Total,Walking or climbing the stairs,1074
-2013,Number,Kotor Varos,M,Walking or climbing the stairs,475
-2013,Number,Kotor Varos,F,Walking or climbing the stairs,599
+2013,Number,Kotor Varoš,Total,Walking or climbing the stairs,1074
+2013,Number,Kotor Varoš,M,Walking or climbing the stairs,475
+2013,Number,Kotor Varoš,F,Walking or climbing the stairs,599
 2013,Number,Krupa Na Uni,Total,Walking or climbing the stairs,112
 2013,Number,Krupa Na Uni,M,Walking or climbing the stairs,43
 2013,Number,Krupa Na Uni,F,Walking or climbing the stairs,69
 2013,Number,Kupres,Total,Walking or climbing the stairs,33
 2013,Number,Kupres,M,Walking or climbing the stairs,18
 2013,Number,Kupres,F,Walking or climbing the stairs,15
-2013,Number,Laktasi,Total,Walking or climbing the stairs,1426
-2013,Number,Laktasi,M,Walking or climbing the stairs,650
-2013,Number,Laktasi,F,Walking or climbing the stairs,776
+2013,Number,Laktaši,Total,Walking or climbing the stairs,1426
+2013,Number,Laktaši,M,Walking or climbing the stairs,650
+2013,Number,Laktaši,F,Walking or climbing the stairs,776
 2013,Number,Lopare,Total,Walking or climbing the stairs,984
 2013,Number,Lopare,M,Walking or climbing the stairs,447
 2013,Number,Lopare,F,Walking or climbing the stairs,537
 2013,Number,Ljubinje,Total,Walking or climbing the stairs,119
 2013,Number,Ljubinje,M,Walking or climbing the stairs,48
 2013,Number,Ljubinje,F,Walking or climbing the stairs,71
-2013,Number,Milici,Total,Walking or climbing the stairs,508
-2013,Number,Milici,M,Walking or climbing the stairs,224
-2013,Number,Milici,F,Walking or climbing the stairs,284
-2013,Number,Modrica,Total,Walking or climbing the stairs,1527
-2013,Number,Modrica,M,Walking or climbing the stairs,635
-2013,Number,Modrica,F,Walking or climbing the stairs,892
-2013,Number,Mrkonjic Grad,Total,Walking or climbing the stairs,798
-2013,Number,Mrkonjic Grad,M,Walking or climbing the stairs,355
-2013,Number,Mrkonjic Grad,F,Walking or climbing the stairs,443
+2013,Number,Milići,Total,Walking or climbing the stairs,508
+2013,Number,Milići,M,Walking or climbing the stairs,224
+2013,Number,Milići,F,Walking or climbing the stairs,284
+2013,Number,Modriča,Total,Walking or climbing the stairs,1527
+2013,Number,Modriča,M,Walking or climbing the stairs,635
+2013,Number,Modriča,F,Walking or climbing the stairs,892
+2013,Number,Mrkonjić Grad,Total,Walking or climbing the stairs,798
+2013,Number,Mrkonjić Grad,M,Walking or climbing the stairs,355
+2013,Number,Mrkonjić Grad,F,Walking or climbing the stairs,443
 2013,Number,Nevesinje,Total,Walking or climbing the stairs,551
 2013,Number,Nevesinje,M,Walking or climbing the stairs,209
 2013,Number,Nevesinje,F,Walking or climbing the stairs,342
 2013,Number,Novi Grad,Total,Walking or climbing the stairs,1711
 2013,Number,Novi Grad,M,Walking or climbing the stairs,700
 2013,Number,Novi Grad,F,Walking or climbing the stairs,1011
-2013,Number,Novo Gorazde,Total,Walking or climbing the stairs,135
-2013,Number,Novo Gorazde,M,Walking or climbing the stairs,61
-2013,Number,Novo Gorazde,F,Walking or climbing the stairs,74
+2013,Number,Novo Goražde,Total,Walking or climbing the stairs,135
+2013,Number,Novo Goražde,M,Walking or climbing the stairs,61
+2013,Number,Novo Goražde,F,Walking or climbing the stairs,74
 2013,Number,Osmaci,Total,Walking or climbing the stairs,288
 2013,Number,Osmaci,M,Walking or climbing the stairs,125
 2013,Number,Osmaci,F,Walking or climbing the stairs,163
-2013,Number,Ostra Luka,Total,Walking or climbing the stairs,224
-2013,Number,Ostra Luka,M,Walking or climbing the stairs,99
-2013,Number,Ostra Luka,F,Walking or climbing the stairs,125
+2013,Number,Oštra Luka,Total,Walking or climbing the stairs,224
+2013,Number,Oštra Luka,M,Walking or climbing the stairs,99
+2013,Number,Oštra Luka,F,Walking or climbing the stairs,125
 2013,Number,Pale,Total,Walking or climbing the stairs,822
 2013,Number,Pale,M,Walking or climbing the stairs,366
 2013,Number,Pale,F,Walking or climbing the stairs,456
-2013,Number,Pelagicevo,Total,Walking or climbing the stairs,445
-2013,Number,Pelagicevo,M,Walking or climbing the stairs,165
-2013,Number,Pelagicevo,F,Walking or climbing the stairs,280
+2013,Number,Pelagićevo,Total,Walking or climbing the stairs,445
+2013,Number,Pelagićevo,M,Walking or climbing the stairs,165
+2013,Number,Pelagićevo,F,Walking or climbing the stairs,280
 2013,Number,Petrovac,Total,Walking or climbing the stairs,8
 2013,Number,Petrovac,M,Walking or climbing the stairs,5
 2013,Number,Petrovac,F,Walking or climbing the stairs,3
 2013,Number,Petrovo,Total,Walking or climbing the stairs,602
 2013,Number,Petrovo,M,Walking or climbing the stairs,231
 2013,Number,Petrovo,F,Walking or climbing the stairs,371
-2013,Number,City of Prijedor,Total,Walking or climbing the stairs,4451
-2013,Number,City of Prijedor,M,Walking or climbing the stairs,1891
-2013,Number,City of Prijedor,F,Walking or climbing the stairs,2560
+2013,Number,Grad Prijedor,Total,Walking or climbing the stairs,4451
+2013,Number,Grad Prijedor,M,Walking or climbing the stairs,1891
+2013,Number,Grad Prijedor,F,Walking or climbing the stairs,2560
 2013,Number,Prnjavor,Total,Walking or climbing the stairs,2094
 2013,Number,Prnjavor,M,Walking or climbing the stairs,860
 2013,Number,Prnjavor,F,Walking or climbing the stairs,1234
@@ -722,63 +722,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Walking or climbing the stairs,621
 2013,Number,Srebrenica,M,Walking or climbing the stairs,256
 2013,Number,Srebrenica,F,Walking or climbing the stairs,365
-2013,Number,Teslic,Total,Walking or climbing the stairs,2201
-2013,Number,Teslic,M,Walking or climbing the stairs,973
-2013,Number,Teslic,F,Walking or climbing the stairs,1228
-2013,Number,City of Trebinje,Total,Walking or climbing the stairs,1198
-2013,Number,City of Trebinje,M,Walking or climbing the stairs,489
-2013,Number,City of Trebinje,F,Walking or climbing the stairs,709
+2013,Number,Teslić,Total,Walking or climbing the stairs,2201
+2013,Number,Teslić,M,Walking or climbing the stairs,973
+2013,Number,Teslić,F,Walking or climbing the stairs,1228
+2013,Number,Grad Trebinje,Total,Walking or climbing the stairs,1198
+2013,Number,Grad Trebinje,M,Walking or climbing the stairs,489
+2013,Number,Grad Trebinje,F,Walking or climbing the stairs,709
 2013,Number,Trnovo,Total,Walking or climbing the stairs,104
 2013,Number,Trnovo,M,Walking or climbing the stairs,41
 2013,Number,Trnovo,F,Walking or climbing the stairs,63
 2013,Number,Ugljevik,Total,Walking or climbing the stairs,734
 2013,Number,Ugljevik,M,Walking or climbing the stairs,312
 2013,Number,Ugljevik,F,Walking or climbing the stairs,422
-2013,Number,Foca,Total,Walking or climbing the stairs,945
-2013,Number,Foca,M,Walking or climbing the stairs,438
-2013,Number,Foca,F,Walking or climbing the stairs,507
+2013,Number,Foča,Total,Walking or climbing the stairs,945
+2013,Number,Foča,M,Walking or climbing the stairs,438
+2013,Number,Foča,F,Walking or climbing the stairs,507
 2013,Number,Han Pijesak,Total,Walking or climbing the stairs,187
 2013,Number,Han Pijesak,M,Walking or climbing the stairs,65
 2013,Number,Han Pijesak,F,Walking or climbing the stairs,122
-2013,Number,Cajnice,Total,Walking or climbing the stairs,262
-2013,Number,Cajnice,M,Walking or climbing the stairs,108
-2013,Number,Cajnice,F,Walking or climbing the stairs,154
-2013,Number,Celinac,Total,Walking or climbing the stairs,1038
-2013,Number,Celinac,M,Walking or climbing the stairs,469
-2013,Number,Celinac,F,Walking or climbing the stairs,569
-2013,Number,Samac,Total,Walking or climbing the stairs,1041
-2013,Number,Samac,M,Walking or climbing the stairs,413
-2013,Number,Samac,F,Walking or climbing the stairs,628
-2013,Number,Sekovici,Total,Walking or climbing the stairs,283
-2013,Number,Sekovici,M,Walking or climbing the stairs,125
-2013,Number,Sekovici,F,Walking or climbing the stairs,158
-2013,Number,Sipovo,Total,Walking or climbing the stairs,496
-2013,Number,Sipovo,M,Walking or climbing the stairs,223
-2013,Number,Sipovo,F,Walking or climbing the stairs,273
+2013,Number,Čajniče,Total,Walking or climbing the stairs,262
+2013,Number,Čajniče,M,Walking or climbing the stairs,108
+2013,Number,Čajniče,F,Walking or climbing the stairs,154
+2013,Number,Čelinac,Total,Walking or climbing the stairs,1038
+2013,Number,Čelinac,M,Walking or climbing the stairs,469
+2013,Number,Čelinac,F,Walking or climbing the stairs,569
+2013,Number,Šamac,Total,Walking or climbing the stairs,1041
+2013,Number,Šamac,M,Walking or climbing the stairs,413
+2013,Number,Šamac,F,Walking or climbing the stairs,628
+2013,Number,Šekovići,Total,Walking or climbing the stairs,283
+2013,Number,Šekovići,M,Walking or climbing the stairs,125
+2013,Number,Šekovići,F,Walking or climbing the stairs,158
+2013,Number,Šipovo,Total,Walking or climbing the stairs,496
+2013,Number,Šipovo,M,Walking or climbing the stairs,223
+2013,Number,Šipovo,F,Walking or climbing the stairs,273
 2013,Number,Republika Srpska,Total,Remembering or concentrating,18330
 2013,Number,Republika Srpska,M,Remembering or concentrating,8168
 2013,Number,Republika Srpska,F,Remembering or concentrating,10162
-2013,Number,City of Banja Luka,Total,Remembering or concentrating,2300
-2013,Number,City of Banja Luka,M,Remembering or concentrating,1087
-2013,Number,City of Banja Luka,F,Remembering or concentrating,1213
-2013,Number,Berkovici,Total,Remembering or concentrating,35
-2013,Number,Berkovici,M,Remembering or concentrating,13
-2013,Number,Berkovici,F,Remembering or concentrating,22
-2013,Number,City of Bijeljina,Total,Remembering or concentrating,1415
-2013,Number,City of Bijeljina,M,Remembering or concentrating,630
-2013,Number,City of Bijeljina,F,Remembering or concentrating,785
-2013,Number,Bileca,Total,Remembering or concentrating,126
-2013,Number,Bileca,M,Remembering or concentrating,61
-2013,Number,Bileca,F,Remembering or concentrating,65
+2013,Number,Grad Banja Luka,Total,Remembering or concentrating,2300
+2013,Number,Grad Banja Luka,M,Remembering or concentrating,1087
+2013,Number,Grad Banja Luka,F,Remembering or concentrating,1213
+2013,Number,Berkovići,Total,Remembering or concentrating,35
+2013,Number,Berkovići,M,Remembering or concentrating,13
+2013,Number,Berkovići,F,Remembering or concentrating,22
+2013,Number,Grad Bijeljina,Total,Remembering or concentrating,1415
+2013,Number,Grad Bijeljina,M,Remembering or concentrating,630
+2013,Number,Grad Bijeljina,F,Remembering or concentrating,785
+2013,Number,Bileća,Total,Remembering or concentrating,126
+2013,Number,Bileća,M,Remembering or concentrating,61
+2013,Number,Bileća,F,Remembering or concentrating,65
 2013,Number,Bratunac,Total,Remembering or concentrating,290
 2013,Number,Bratunac,M,Remembering or concentrating,116
 2013,Number,Bratunac,F,Remembering or concentrating,174
 2013,Number,Brod,Total,Remembering or concentrating,239
 2013,Number,Brod,M,Remembering or concentrating,104
 2013,Number,Brod,F,Remembering or concentrating,135
-2013,Number,Visegrad,Total,Remembering or concentrating,309
-2013,Number,Visegrad,M,Remembering or concentrating,75
-2013,Number,Visegrad,F,Remembering or concentrating,234
+2013,Number,Višegrad,Total,Remembering or concentrating,309
+2013,Number,Višegrad,M,Remembering or concentrating,75
+2013,Number,Višegrad,F,Remembering or concentrating,234
 2013,Number,Vlasenica,Total,Remembering or concentrating,137
 2013,Number,Vlasenica,M,Remembering or concentrating,60
 2013,Number,Vlasenica,F,Remembering or concentrating,77
@@ -788,108 +788,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Remembering or concentrating,90
 2013,Number,Gacko,M,Remembering or concentrating,42
 2013,Number,Gacko,F,Remembering or concentrating,48
-2013,Number,City of Gradiska,Total,Remembering or concentrating,831
-2013,Number,City of Gradiska,M,Remembering or concentrating,338
-2013,Number,City of Gradiska,F,Remembering or concentrating,493
-2013,Number,City of Derventa,Total,Remembering or concentrating,455
-2013,Number,City of Derventa,M,Remembering or concentrating,195
-2013,Number,City of Derventa,F,Remembering or concentrating,260
-2013,Number,City of Doboj,Total,Remembering or concentrating,1369
-2013,Number,City of Doboj,M,Remembering or concentrating,596
-2013,Number,City of Doboj,F,Remembering or concentrating,773
-2013,Number,Donji Zabar,Total,Remembering or concentrating,40
-2013,Number,Donji Zabar,M,Remembering or concentrating,19
-2013,Number,Donji Zabar,F,Remembering or concentrating,21
-2013,Number,City of Zvornik,Total,Remembering or concentrating,762
-2013,Number,City of Zvornik,M,Remembering or concentrating,330
-2013,Number,City of Zvornik,F,Remembering or concentrating,432
-2013,Number,East Ilidza,Total,Remembering or concentrating,149
-2013,Number,East Ilidza,M,Remembering or concentrating,64
-2013,Number,East Ilidza,F,Remembering or concentrating,85
-2013,Number,East Drvar,Total,Remembering or concentrating,1
-2013,Number,East Drvar,M,Remembering or concentrating,0
-2013,Number,East Drvar,F,Remembering or concentrating,1
-2013,Number,East Mostar,Total,Remembering or concentrating,3
-2013,Number,East Mostar,M,Remembering or concentrating,2
-2013,Number,East Mostar,F,Remembering or concentrating,1
-2013,Number,East Stari Grad,Total,Remembering or concentrating,20
-2013,Number,East Stari Grad,M,Remembering or concentrating,9
-2013,Number,East Stari Grad,F,Remembering or concentrating,11
-2013,Number,East Novo Sarajevo,Total,Remembering or concentrating,104
-2013,Number,East Novo Sarajevo,M,Remembering or concentrating,49
-2013,Number,East Novo Sarajevo,F,Remembering or concentrating,55
+2013,Number,Grad Gradiška,Total,Remembering or concentrating,831
+2013,Number,Grad Gradiška,M,Remembering or concentrating,338
+2013,Number,Grad Gradiška,F,Remembering or concentrating,493
+2013,Number,Grad Derventa,Total,Remembering or concentrating,455
+2013,Number,Grad Derventa,M,Remembering or concentrating,195
+2013,Number,Grad Derventa,F,Remembering or concentrating,260
+2013,Number,Grad Doboj,Total,Remembering or concentrating,1369
+2013,Number,Grad Doboj,M,Remembering or concentrating,596
+2013,Number,Grad Doboj,F,Remembering or concentrating,773
+2013,Number,Donji Žabar,Total,Remembering or concentrating,40
+2013,Number,Donji Žabar,M,Remembering or concentrating,19
+2013,Number,Donji Žabar,F,Remembering or concentrating,21
+2013,Number,Grad Zvornik,Total,Remembering or concentrating,762
+2013,Number,Grad Zvornik,M,Remembering or concentrating,330
+2013,Number,Grad Zvornik,F,Remembering or concentrating,432
+2013,Number,Istočna Ilidža,Total,Remembering or concentrating,149
+2013,Number,Istočna Ilidža,M,Remembering or concentrating,64
+2013,Number,Istočna Ilidža,F,Remembering or concentrating,85
+2013,Number,Istočni Drvar,Total,Remembering or concentrating,1
+2013,Number,Istočni Drvar,M,Remembering or concentrating,0
+2013,Number,Istočni Drvar,F,Remembering or concentrating,1
+2013,Number,Istočni Mostar,Total,Remembering or concentrating,3
+2013,Number,Istočni Mostar,M,Remembering or concentrating,2
+2013,Number,Istočni Mostar,F,Remembering or concentrating,1
+2013,Number,Istočni Stari Grad,Total,Remembering or concentrating,20
+2013,Number,Istočni Stari Grad,M,Remembering or concentrating,9
+2013,Number,Istočni Stari Grad,F,Remembering or concentrating,11
+2013,Number,Istočno Novo Sarajevo,Total,Remembering or concentrating,104
+2013,Number,Istočno Novo Sarajevo,M,Remembering or concentrating,49
+2013,Number,Istočno Novo Sarajevo,F,Remembering or concentrating,55
 2013,Number,Jezero,Total,Remembering or concentrating,27
 2013,Number,Jezero,M,Remembering or concentrating,15
 2013,Number,Jezero,F,Remembering or concentrating,12
 2013,Number,Kalinovik,Total,Remembering or concentrating,27
 2013,Number,Kalinovik,M,Remembering or concentrating,10
 2013,Number,Kalinovik,F,Remembering or concentrating,17
-2013,Number,Knezevo,Total,Remembering or concentrating,238
-2013,Number,Knezevo,M,Remembering or concentrating,113
-2013,Number,Knezevo,F,Remembering or concentrating,125
+2013,Number,Kneževo,Total,Remembering or concentrating,238
+2013,Number,Kneževo,M,Remembering or concentrating,113
+2013,Number,Kneževo,F,Remembering or concentrating,125
 2013,Number,Kozarska Dubica,Total,Remembering or concentrating,331
 2013,Number,Kozarska Dubica,M,Remembering or concentrating,154
 2013,Number,Kozarska Dubica,F,Remembering or concentrating,177
 2013,Number,Kostajnica,Total,Remembering or concentrating,98
 2013,Number,Kostajnica,M,Remembering or concentrating,41
 2013,Number,Kostajnica,F,Remembering or concentrating,57
-2013,Number,Kotor Varos,Total,Remembering or concentrating,339
-2013,Number,Kotor Varos,M,Remembering or concentrating,154
-2013,Number,Kotor Varos,F,Remembering or concentrating,185
+2013,Number,Kotor Varoš,Total,Remembering or concentrating,339
+2013,Number,Kotor Varoš,M,Remembering or concentrating,154
+2013,Number,Kotor Varoš,F,Remembering or concentrating,185
 2013,Number,Krupa Na Uni,Total,Remembering or concentrating,40
 2013,Number,Krupa Na Uni,M,Remembering or concentrating,19
 2013,Number,Krupa Na Uni,F,Remembering or concentrating,21
 2013,Number,Kupres,Total,Remembering or concentrating,13
 2013,Number,Kupres,M,Remembering or concentrating,9
 2013,Number,Kupres,F,Remembering or concentrating,4
-2013,Number,Laktasi,Total,Remembering or concentrating,410
-2013,Number,Laktasi,M,Remembering or concentrating,204
-2013,Number,Laktasi,F,Remembering or concentrating,206
+2013,Number,Laktaši,Total,Remembering or concentrating,410
+2013,Number,Laktaši,M,Remembering or concentrating,204
+2013,Number,Laktaši,F,Remembering or concentrating,206
 2013,Number,Lopare,Total,Remembering or concentrating,281
 2013,Number,Lopare,M,Remembering or concentrating,140
 2013,Number,Lopare,F,Remembering or concentrating,141
 2013,Number,Ljubinje,Total,Remembering or concentrating,44
 2013,Number,Ljubinje,M,Remembering or concentrating,17
 2013,Number,Ljubinje,F,Remembering or concentrating,27
-2013,Number,Milici,Total,Remembering or concentrating,158
-2013,Number,Milici,M,Remembering or concentrating,64
-2013,Number,Milici,F,Remembering or concentrating,94
-2013,Number,Modrica,Total,Remembering or concentrating,478
-2013,Number,Modrica,M,Remembering or concentrating,194
-2013,Number,Modrica,F,Remembering or concentrating,284
-2013,Number,Mrkonjic Grad,Total,Remembering or concentrating,228
-2013,Number,Mrkonjic Grad,M,Remembering or concentrating,98
-2013,Number,Mrkonjic Grad,F,Remembering or concentrating,130
+2013,Number,Milići,Total,Remembering or concentrating,158
+2013,Number,Milići,M,Remembering or concentrating,64
+2013,Number,Milići,F,Remembering or concentrating,94
+2013,Number,Modriča,Total,Remembering or concentrating,478
+2013,Number,Modriča,M,Remembering or concentrating,194
+2013,Number,Modriča,F,Remembering or concentrating,284
+2013,Number,Mrkonjić Grad,Total,Remembering or concentrating,228
+2013,Number,Mrkonjić Grad,M,Remembering or concentrating,98
+2013,Number,Mrkonjić Grad,F,Remembering or concentrating,130
 2013,Number,Nevesinje,Total,Remembering or concentrating,144
 2013,Number,Nevesinje,M,Remembering or concentrating,55
 2013,Number,Nevesinje,F,Remembering or concentrating,89
 2013,Number,Novi Grad,Total,Remembering or concentrating,475
 2013,Number,Novi Grad,M,Remembering or concentrating,223
 2013,Number,Novi Grad,F,Remembering or concentrating,252
-2013,Number,Novo Gorazde,Total,Remembering or concentrating,36
-2013,Number,Novo Gorazde,M,Remembering or concentrating,13
-2013,Number,Novo Gorazde,F,Remembering or concentrating,23
+2013,Number,Novo Goražde,Total,Remembering or concentrating,36
+2013,Number,Novo Goražde,M,Remembering or concentrating,13
+2013,Number,Novo Goražde,F,Remembering or concentrating,23
 2013,Number,Osmaci,Total,Remembering or concentrating,95
 2013,Number,Osmaci,M,Remembering or concentrating,43
 2013,Number,Osmaci,F,Remembering or concentrating,52
-2013,Number,Ostra Luka,Total,Remembering or concentrating,60
-2013,Number,Ostra Luka,M,Remembering or concentrating,30
-2013,Number,Ostra Luka,F,Remembering or concentrating,30
+2013,Number,Oštra Luka,Total,Remembering or concentrating,60
+2013,Number,Oštra Luka,M,Remembering or concentrating,30
+2013,Number,Oštra Luka,F,Remembering or concentrating,30
 2013,Number,Pale,Total,Remembering or concentrating,212
 2013,Number,Pale,M,Remembering or concentrating,91
 2013,Number,Pale,F,Remembering or concentrating,121
-2013,Number,Pelagicevo,Total,Remembering or concentrating,133
-2013,Number,Pelagicevo,M,Remembering or concentrating,65
-2013,Number,Pelagicevo,F,Remembering or concentrating,68
+2013,Number,Pelagićevo,Total,Remembering or concentrating,133
+2013,Number,Pelagićevo,M,Remembering or concentrating,65
+2013,Number,Pelagićevo,F,Remembering or concentrating,68
 2013,Number,Petrovac,Total,Remembering or concentrating,3
 2013,Number,Petrovac,M,Remembering or concentrating,1
 2013,Number,Petrovac,F,Remembering or concentrating,2
 2013,Number,Petrovo,Total,Remembering or concentrating,150
 2013,Number,Petrovo,M,Remembering or concentrating,62
 2013,Number,Petrovo,F,Remembering or concentrating,88
-2013,Number,City of Prijedor,Total,Remembering or concentrating,1532
-2013,Number,City of Prijedor,M,Remembering or concentrating,766
-2013,Number,City of Prijedor,F,Remembering or concentrating,766
+2013,Number,Grad Prijedor,Total,Remembering or concentrating,1532
+2013,Number,Grad Prijedor,M,Remembering or concentrating,766
+2013,Number,Grad Prijedor,F,Remembering or concentrating,766
 2013,Number,Prnjavor,Total,Remembering or concentrating,567
 2013,Number,Prnjavor,M,Remembering or concentrating,240
 2013,Number,Prnjavor,F,Remembering or concentrating,327
@@ -911,63 +911,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Remembering or concentrating,218
 2013,Number,Srebrenica,M,Remembering or concentrating,82
 2013,Number,Srebrenica,F,Remembering or concentrating,136
-2013,Number,Teslic,Total,Remembering or concentrating,644
-2013,Number,Teslic,M,Remembering or concentrating,272
-2013,Number,Teslic,F,Remembering or concentrating,372
-2013,Number,City of Trebinje,Total,Remembering or concentrating,313
-2013,Number,City of Trebinje,M,Remembering or concentrating,143
-2013,Number,City of Trebinje,F,Remembering or concentrating,170
+2013,Number,Teslić,Total,Remembering or concentrating,644
+2013,Number,Teslić,M,Remembering or concentrating,272
+2013,Number,Teslić,F,Remembering or concentrating,372
+2013,Number,Grad Trebinje,Total,Remembering or concentrating,313
+2013,Number,Grad Trebinje,M,Remembering or concentrating,143
+2013,Number,Grad Trebinje,F,Remembering or concentrating,170
 2013,Number,Trnovo,Total,Remembering or concentrating,39
 2013,Number,Trnovo,M,Remembering or concentrating,22
 2013,Number,Trnovo,F,Remembering or concentrating,17
 2013,Number,Ugljevik,Total,Remembering or concentrating,191
 2013,Number,Ugljevik,M,Remembering or concentrating,78
 2013,Number,Ugljevik,F,Remembering or concentrating,113
-2013,Number,Foca,Total,Remembering or concentrating,265
-2013,Number,Foca,M,Remembering or concentrating,126
-2013,Number,Foca,F,Remembering or concentrating,139
+2013,Number,Foča,Total,Remembering or concentrating,265
+2013,Number,Foča,M,Remembering or concentrating,126
+2013,Number,Foča,F,Remembering or concentrating,139
 2013,Number,Han Pijesak,Total,Remembering or concentrating,49
 2013,Number,Han Pijesak,M,Remembering or concentrating,15
 2013,Number,Han Pijesak,F,Remembering or concentrating,34
-2013,Number,Cajnice,Total,Remembering or concentrating,67
-2013,Number,Cajnice,M,Remembering or concentrating,30
-2013,Number,Cajnice,F,Remembering or concentrating,37
-2013,Number,Celinac,Total,Remembering or concentrating,298
-2013,Number,Celinac,M,Remembering or concentrating,150
-2013,Number,Celinac,F,Remembering or concentrating,148
-2013,Number,Samac,Total,Remembering or concentrating,252
-2013,Number,Samac,M,Remembering or concentrating,110
-2013,Number,Samac,F,Remembering or concentrating,142
-2013,Number,Sekovici,Total,Remembering or concentrating,94
-2013,Number,Sekovici,M,Remembering or concentrating,38
-2013,Number,Sekovici,F,Remembering or concentrating,56
-2013,Number,Sipovo,Total,Remembering or concentrating,137
-2013,Number,Sipovo,M,Remembering or concentrating,61
-2013,Number,Sipovo,F,Remembering or concentrating,76
+2013,Number,Čajniče,Total,Remembering or concentrating,67
+2013,Number,Čajniče,M,Remembering or concentrating,30
+2013,Number,Čajniče,F,Remembering or concentrating,37
+2013,Number,Čelinac,Total,Remembering or concentrating,298
+2013,Number,Čelinac,M,Remembering or concentrating,150
+2013,Number,Čelinac,F,Remembering or concentrating,148
+2013,Number,Šamac,Total,Remembering or concentrating,252
+2013,Number,Šamac,M,Remembering or concentrating,110
+2013,Number,Šamac,F,Remembering or concentrating,142
+2013,Number,Šekovići,Total,Remembering or concentrating,94
+2013,Number,Šekovići,M,Remembering or concentrating,38
+2013,Number,Šekovići,F,Remembering or concentrating,56
+2013,Number,Šipovo,Total,Remembering or concentrating,137
+2013,Number,Šipovo,M,Remembering or concentrating,61
+2013,Number,Šipovo,F,Remembering or concentrating,76
 2013,Number,Republika Srpska,Total,Dressing and personal hygiene,13502
 2013,Number,Republika Srpska,M,Dressing and personal hygiene,5773
 2013,Number,Republika Srpska,F,Dressing and personal hygiene,7729
-2013,Number,City of Banja Luka,Total,Dressing and personal hygiene,1717
-2013,Number,City of Banja Luka,M,Dressing and personal hygiene,774
-2013,Number,City of Banja Luka,F,Dressing and personal hygiene,943
-2013,Number,Berkovici,Total,Dressing and personal hygiene,29
-2013,Number,Berkovici,M,Dressing and personal hygiene,11
-2013,Number,Berkovici,F,Dressing and personal hygiene,18
-2013,Number,City of Bijeljina,Total,Dressing and personal hygiene,1050
-2013,Number,City of Bijeljina,M,Dressing and personal hygiene,468
-2013,Number,City of Bijeljina,F,Dressing and personal hygiene,582
-2013,Number,Bileca,Total,Dressing and personal hygiene,107
-2013,Number,Bileca,M,Dressing and personal hygiene,44
-2013,Number,Bileca,F,Dressing and personal hygiene,63
+2013,Number,Grad Banja Luka,Total,Dressing and personal hygiene,1717
+2013,Number,Grad Banja Luka,M,Dressing and personal hygiene,774
+2013,Number,Grad Banja Luka,F,Dressing and personal hygiene,943
+2013,Number,Berkovići,Total,Dressing and personal hygiene,29
+2013,Number,Berkovići,M,Dressing and personal hygiene,11
+2013,Number,Berkovići,F,Dressing and personal hygiene,18
+2013,Number,Grad Bijeljina,Total,Dressing and personal hygiene,1050
+2013,Number,Grad Bijeljina,M,Dressing and personal hygiene,468
+2013,Number,Grad Bijeljina,F,Dressing and personal hygiene,582
+2013,Number,Bileća,Total,Dressing and personal hygiene,107
+2013,Number,Bileća,M,Dressing and personal hygiene,44
+2013,Number,Bileća,F,Dressing and personal hygiene,63
 2013,Number,Bratunac,Total,Dressing and personal hygiene,172
 2013,Number,Bratunac,M,Dressing and personal hygiene,76
 2013,Number,Bratunac,F,Dressing and personal hygiene,96
 2013,Number,Brod,Total,Dressing and personal hygiene,143
 2013,Number,Brod,M,Dressing and personal hygiene,55
 2013,Number,Brod,F,Dressing and personal hygiene,88
-2013,Number,Visegrad,Total,Dressing and personal hygiene,232
-2013,Number,Visegrad,M,Dressing and personal hygiene,60
-2013,Number,Visegrad,F,Dressing and personal hygiene,172
+2013,Number,Višegrad,Total,Dressing and personal hygiene,232
+2013,Number,Višegrad,M,Dressing and personal hygiene,60
+2013,Number,Višegrad,F,Dressing and personal hygiene,172
 2013,Number,Vlasenica,Total,Dressing and personal hygiene,104
 2013,Number,Vlasenica,M,Dressing and personal hygiene,49
 2013,Number,Vlasenica,F,Dressing and personal hygiene,55
@@ -977,108 +977,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Dressing and personal hygiene,74
 2013,Number,Gacko,M,Dressing and personal hygiene,25
 2013,Number,Gacko,F,Dressing and personal hygiene,49
-2013,Number,City of Gradiska,Total,Dressing and personal hygiene,617
-2013,Number,City of Gradiska,M,Dressing and personal hygiene,252
-2013,Number,City of Gradiska,F,Dressing and personal hygiene,365
-2013,Number,City of Derventa,Total,Dressing and personal hygiene,298
-2013,Number,City of Derventa,M,Dressing and personal hygiene,114
-2013,Number,City of Derventa,F,Dressing and personal hygiene,184
-2013,Number,City of Doboj,Total,Dressing and personal hygiene,1011
-2013,Number,City of Doboj,M,Dressing and personal hygiene,408
-2013,Number,City of Doboj,F,Dressing and personal hygiene,603
-2013,Number,Donji Zabar,Total,Dressing and personal hygiene,31
-2013,Number,Donji Zabar,M,Dressing and personal hygiene,11
-2013,Number,Donji Zabar,F,Dressing and personal hygiene,20
-2013,Number,City of Zvornik,Total,Dressing and personal hygiene,518
-2013,Number,City of Zvornik,M,Dressing and personal hygiene,239
-2013,Number,City of Zvornik,F,Dressing and personal hygiene,279
-2013,Number,East Ilidza,Total,Dressing and personal hygiene,175
-2013,Number,East Ilidza,M,Dressing and personal hygiene,83
-2013,Number,East Ilidza,F,Dressing and personal hygiene,92
-2013,Number,East Drvar,Total,Dressing and personal hygiene,0
-2013,Number,East Drvar,M,Dressing and personal hygiene,0
-2013,Number,East Drvar,F,Dressing and personal hygiene,0
-2013,Number,East Mostar,Total,Dressing and personal hygiene,2
-2013,Number,East Mostar,M,Dressing and personal hygiene,1
-2013,Number,East Mostar,F,Dressing and personal hygiene,1
-2013,Number,East Stari Grad,Total,Dressing and personal hygiene,15
-2013,Number,East Stari Grad,M,Dressing and personal hygiene,6
-2013,Number,East Stari Grad,F,Dressing and personal hygiene,9
-2013,Number,East Novo Sarajevo,Total,Dressing and personal hygiene,77
-2013,Number,East Novo Sarajevo,M,Dressing and personal hygiene,34
-2013,Number,East Novo Sarajevo,F,Dressing and personal hygiene,43
+2013,Number,Grad Gradiška,Total,Dressing and personal hygiene,617
+2013,Number,Grad Gradiška,M,Dressing and personal hygiene,252
+2013,Number,Grad Gradiška,F,Dressing and personal hygiene,365
+2013,Number,Grad Derventa,Total,Dressing and personal hygiene,298
+2013,Number,Grad Derventa,M,Dressing and personal hygiene,114
+2013,Number,Grad Derventa,F,Dressing and personal hygiene,184
+2013,Number,Grad Doboj,Total,Dressing and personal hygiene,1011
+2013,Number,Grad Doboj,M,Dressing and personal hygiene,408
+2013,Number,Grad Doboj,F,Dressing and personal hygiene,603
+2013,Number,Donji Žabar,Total,Dressing and personal hygiene,31
+2013,Number,Donji Žabar,M,Dressing and personal hygiene,11
+2013,Number,Donji Žabar,F,Dressing and personal hygiene,20
+2013,Number,Grad Zvornik,Total,Dressing and personal hygiene,518
+2013,Number,Grad Zvornik,M,Dressing and personal hygiene,239
+2013,Number,Grad Zvornik,F,Dressing and personal hygiene,279
+2013,Number,Istočna Ilidža,Total,Dressing and personal hygiene,175
+2013,Number,Istočna Ilidža,M,Dressing and personal hygiene,83
+2013,Number,Istočna Ilidža,F,Dressing and personal hygiene,92
+2013,Number,Istočni Drvar,Total,Dressing and personal hygiene,0
+2013,Number,Istočni Drvar,M,Dressing and personal hygiene,0
+2013,Number,Istočni Drvar,F,Dressing and personal hygiene,0
+2013,Number,Istočni Mostar,Total,Dressing and personal hygiene,2
+2013,Number,Istočni Mostar,M,Dressing and personal hygiene,1
+2013,Number,Istočni Mostar,F,Dressing and personal hygiene,1
+2013,Number,Istočni Stari Grad,Total,Dressing and personal hygiene,15
+2013,Number,Istočni Stari Grad,M,Dressing and personal hygiene,6
+2013,Number,Istočni Stari Grad,F,Dressing and personal hygiene,9
+2013,Number,Istočno Novo Sarajevo,Total,Dressing and personal hygiene,77
+2013,Number,Istočno Novo Sarajevo,M,Dressing and personal hygiene,34
+2013,Number,Istočno Novo Sarajevo,F,Dressing and personal hygiene,43
 2013,Number,Jezero,Total,Dressing and personal hygiene,18
 2013,Number,Jezero,M,Dressing and personal hygiene,9
 2013,Number,Jezero,F,Dressing and personal hygiene,9
 2013,Number,Kalinovik,Total,Dressing and personal hygiene,26
 2013,Number,Kalinovik,M,Dressing and personal hygiene,8
 2013,Number,Kalinovik,F,Dressing and personal hygiene,18
-2013,Number,Knezevo,Total,Dressing and personal hygiene,171
-2013,Number,Knezevo,M,Dressing and personal hygiene,70
-2013,Number,Knezevo,F,Dressing and personal hygiene,101
+2013,Number,Kneževo,Total,Dressing and personal hygiene,171
+2013,Number,Kneževo,M,Dressing and personal hygiene,70
+2013,Number,Kneževo,F,Dressing and personal hygiene,101
 2013,Number,Kozarska Dubica,Total,Dressing and personal hygiene,243
 2013,Number,Kozarska Dubica,M,Dressing and personal hygiene,108
 2013,Number,Kozarska Dubica,F,Dressing and personal hygiene,135
 2013,Number,Kostajnica,Total,Dressing and personal hygiene,69
 2013,Number,Kostajnica,M,Dressing and personal hygiene,24
 2013,Number,Kostajnica,F,Dressing and personal hygiene,45
-2013,Number,Kotor Varos,Total,Dressing and personal hygiene,228
-2013,Number,Kotor Varos,M,Dressing and personal hygiene,100
-2013,Number,Kotor Varos,F,Dressing and personal hygiene,128
+2013,Number,Kotor Varoš,Total,Dressing and personal hygiene,228
+2013,Number,Kotor Varoš,M,Dressing and personal hygiene,100
+2013,Number,Kotor Varoš,F,Dressing and personal hygiene,128
 2013,Number,Krupa Na Uni,Total,Dressing and personal hygiene,19
 2013,Number,Krupa Na Uni,M,Dressing and personal hygiene,5
 2013,Number,Krupa Na Uni,F,Dressing and personal hygiene,14
 2013,Number,Kupres,Total,Dressing and personal hygiene,6
 2013,Number,Kupres,M,Dressing and personal hygiene,3
 2013,Number,Kupres,F,Dressing and personal hygiene,3
-2013,Number,Laktasi,Total,Dressing and personal hygiene,324
-2013,Number,Laktasi,M,Dressing and personal hygiene,162
-2013,Number,Laktasi,F,Dressing and personal hygiene,162
+2013,Number,Laktaši,Total,Dressing and personal hygiene,324
+2013,Number,Laktaši,M,Dressing and personal hygiene,162
+2013,Number,Laktaši,F,Dressing and personal hygiene,162
 2013,Number,Lopare,Total,Dressing and personal hygiene,190
 2013,Number,Lopare,M,Dressing and personal hygiene,85
 2013,Number,Lopare,F,Dressing and personal hygiene,105
 2013,Number,Ljubinje,Total,Dressing and personal hygiene,44
 2013,Number,Ljubinje,M,Dressing and personal hygiene,18
 2013,Number,Ljubinje,F,Dressing and personal hygiene,26
-2013,Number,Milici,Total,Dressing and personal hygiene,107
-2013,Number,Milici,M,Dressing and personal hygiene,42
-2013,Number,Milici,F,Dressing and personal hygiene,65
-2013,Number,Modrica,Total,Dressing and personal hygiene,383
-2013,Number,Modrica,M,Dressing and personal hygiene,152
-2013,Number,Modrica,F,Dressing and personal hygiene,231
-2013,Number,Mrkonjic Grad,Total,Dressing and personal hygiene,203
-2013,Number,Mrkonjic Grad,M,Dressing and personal hygiene,83
-2013,Number,Mrkonjic Grad,F,Dressing and personal hygiene,120
+2013,Number,Milići,Total,Dressing and personal hygiene,107
+2013,Number,Milići,M,Dressing and personal hygiene,42
+2013,Number,Milići,F,Dressing and personal hygiene,65
+2013,Number,Modriča,Total,Dressing and personal hygiene,383
+2013,Number,Modriča,M,Dressing and personal hygiene,152
+2013,Number,Modriča,F,Dressing and personal hygiene,231
+2013,Number,Mrkonjić Grad,Total,Dressing and personal hygiene,203
+2013,Number,Mrkonjić Grad,M,Dressing and personal hygiene,83
+2013,Number,Mrkonjić Grad,F,Dressing and personal hygiene,120
 2013,Number,Nevesinje,Total,Dressing and personal hygiene,104
 2013,Number,Nevesinje,M,Dressing and personal hygiene,38
 2013,Number,Nevesinje,F,Dressing and personal hygiene,66
 2013,Number,Novi Grad,Total,Dressing and personal hygiene,373
 2013,Number,Novi Grad,M,Dressing and personal hygiene,156
 2013,Number,Novi Grad,F,Dressing and personal hygiene,217
-2013,Number,Novo Gorazde,Total,Dressing and personal hygiene,20
-2013,Number,Novo Gorazde,M,Dressing and personal hygiene,7
-2013,Number,Novo Gorazde,F,Dressing and personal hygiene,13
+2013,Number,Novo Goražde,Total,Dressing and personal hygiene,20
+2013,Number,Novo Goražde,M,Dressing and personal hygiene,7
+2013,Number,Novo Goražde,F,Dressing and personal hygiene,13
 2013,Number,Osmaci,Total,Dressing and personal hygiene,43
 2013,Number,Osmaci,M,Dressing and personal hygiene,16
 2013,Number,Osmaci,F,Dressing and personal hygiene,27
-2013,Number,Ostra Luka,Total,Dressing and personal hygiene,39
-2013,Number,Ostra Luka,M,Dressing and personal hygiene,17
-2013,Number,Ostra Luka,F,Dressing and personal hygiene,22
+2013,Number,Oštra Luka,Total,Dressing and personal hygiene,39
+2013,Number,Oštra Luka,M,Dressing and personal hygiene,17
+2013,Number,Oštra Luka,F,Dressing and personal hygiene,22
 2013,Number,Pale,Total,Dressing and personal hygiene,174
 2013,Number,Pale,M,Dressing and personal hygiene,80
 2013,Number,Pale,F,Dressing and personal hygiene,94
-2013,Number,Pelagicevo,Total,Dressing and personal hygiene,71
-2013,Number,Pelagicevo,M,Dressing and personal hygiene,33
-2013,Number,Pelagicevo,F,Dressing and personal hygiene,38
+2013,Number,Pelagićevo,Total,Dressing and personal hygiene,71
+2013,Number,Pelagićevo,M,Dressing and personal hygiene,33
+2013,Number,Pelagićevo,F,Dressing and personal hygiene,38
 2013,Number,Petrovac,Total,Dressing and personal hygiene,4
 2013,Number,Petrovac,M,Dressing and personal hygiene,1
 2013,Number,Petrovac,F,Dressing and personal hygiene,3
 2013,Number,Petrovo,Total,Dressing and personal hygiene,106
 2013,Number,Petrovo,M,Dressing and personal hygiene,40
 2013,Number,Petrovo,F,Dressing and personal hygiene,66
-2013,Number,City of Prijedor,Total,Dressing and personal hygiene,1081
-2013,Number,City of Prijedor,M,Dressing and personal hygiene,517
-2013,Number,City of Prijedor,F,Dressing and personal hygiene,564
+2013,Number,Grad Prijedor,Total,Dressing and personal hygiene,1081
+2013,Number,Grad Prijedor,M,Dressing and personal hygiene,517
+2013,Number,Grad Prijedor,F,Dressing and personal hygiene,564
 2013,Number,Prnjavor,Total,Dressing and personal hygiene,418
 2013,Number,Prnjavor,M,Dressing and personal hygiene,182
 2013,Number,Prnjavor,F,Dressing and personal hygiene,236
@@ -1100,63 +1100,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Dressing and personal hygiene,99
 2013,Number,Srebrenica,M,Dressing and personal hygiene,34
 2013,Number,Srebrenica,F,Dressing and personal hygiene,65
-2013,Number,Teslic,Total,Dressing and personal hygiene,499
-2013,Number,Teslic,M,Dressing and personal hygiene,209
-2013,Number,Teslic,F,Dressing and personal hygiene,290
-2013,Number,City of Trebinje,Total,Dressing and personal hygiene,283
-2013,Number,City of Trebinje,M,Dressing and personal hygiene,104
-2013,Number,City of Trebinje,F,Dressing and personal hygiene,179
+2013,Number,Teslić,Total,Dressing and personal hygiene,499
+2013,Number,Teslić,M,Dressing and personal hygiene,209
+2013,Number,Teslić,F,Dressing and personal hygiene,290
+2013,Number,Grad Trebinje,Total,Dressing and personal hygiene,283
+2013,Number,Grad Trebinje,M,Dressing and personal hygiene,104
+2013,Number,Grad Trebinje,F,Dressing and personal hygiene,179
 2013,Number,Trnovo,Total,Dressing and personal hygiene,31
 2013,Number,Trnovo,M,Dressing and personal hygiene,12
 2013,Number,Trnovo,F,Dressing and personal hygiene,19
 2013,Number,Ugljevik,Total,Dressing and personal hygiene,151
 2013,Number,Ugljevik,M,Dressing and personal hygiene,63
 2013,Number,Ugljevik,F,Dressing and personal hygiene,88
-2013,Number,Foca,Total,Dressing and personal hygiene,230
-2013,Number,Foca,M,Dressing and personal hygiene,97
-2013,Number,Foca,F,Dressing and personal hygiene,133
+2013,Number,Foča,Total,Dressing and personal hygiene,230
+2013,Number,Foča,M,Dressing and personal hygiene,97
+2013,Number,Foča,F,Dressing and personal hygiene,133
 2013,Number,Han Pijesak,Total,Dressing and personal hygiene,48
 2013,Number,Han Pijesak,M,Dressing and personal hygiene,15
 2013,Number,Han Pijesak,F,Dressing and personal hygiene,33
-2013,Number,Cajnice,Total,Dressing and personal hygiene,50
-2013,Number,Cajnice,M,Dressing and personal hygiene,23
-2013,Number,Cajnice,F,Dressing and personal hygiene,27
-2013,Number,Celinac,Total,Dressing and personal hygiene,210
-2013,Number,Celinac,M,Dressing and personal hygiene,96
-2013,Number,Celinac,F,Dressing and personal hygiene,114
-2013,Number,Samac,Total,Dressing and personal hygiene,159
-2013,Number,Samac,M,Dressing and personal hygiene,67
-2013,Number,Samac,F,Dressing and personal hygiene,92
-2013,Number,Sekovici,Total,Dressing and personal hygiene,60
-2013,Number,Sekovici,M,Dressing and personal hygiene,29
-2013,Number,Sekovici,F,Dressing and personal hygiene,31
-2013,Number,Sipovo,Total,Dressing and personal hygiene,127
-2013,Number,Sipovo,M,Dressing and personal hygiene,46
-2013,Number,Sipovo,F,Dressing and personal hygiene,81
+2013,Number,Čajniče,Total,Dressing and personal hygiene,50
+2013,Number,Čajniče,M,Dressing and personal hygiene,23
+2013,Number,Čajniče,F,Dressing and personal hygiene,27
+2013,Number,Čelinac,Total,Dressing and personal hygiene,210
+2013,Number,Čelinac,M,Dressing and personal hygiene,96
+2013,Number,Čelinac,F,Dressing and personal hygiene,114
+2013,Number,Šamac,Total,Dressing and personal hygiene,159
+2013,Number,Šamac,M,Dressing and personal hygiene,67
+2013,Number,Šamac,F,Dressing and personal hygiene,92
+2013,Number,Šekovići,Total,Dressing and personal hygiene,60
+2013,Number,Šekovići,M,Dressing and personal hygiene,29
+2013,Number,Šekovići,F,Dressing and personal hygiene,31
+2013,Number,Šipovo,Total,Dressing and personal hygiene,127
+2013,Number,Šipovo,M,Dressing and personal hygiene,46
+2013,Number,Šipovo,F,Dressing and personal hygiene,81
 2013,Number,Republika Srpska,Total,Communication,10723
 2013,Number,Republika Srpska,M,Communication,5103
 2013,Number,Republika Srpska,F,Communication,5620
-2013,Number,City of Banja Luka,Total,Communication,1307
-2013,Number,City of Banja Luka,M,Communication,670
-2013,Number,City of Banja Luka,F,Communication,637
-2013,Number,Berkovici,Total,Communication,26
-2013,Number,Berkovici,M,Communication,11
-2013,Number,Berkovici,F,Communication,15
-2013,Number,City of Bijeljina,Total,Communication,793
-2013,Number,City of Bijeljina,M,Communication,398
-2013,Number,City of Bijeljina,F,Communication,395
-2013,Number,Bileca,Total,Communication,89
-2013,Number,Bileca,M,Communication,44
-2013,Number,Bileca,F,Communication,45
+2013,Number,Grad Banja Luka,Total,Communication,1307
+2013,Number,Grad Banja Luka,M,Communication,670
+2013,Number,Grad Banja Luka,F,Communication,637
+2013,Number,Berkovići,Total,Communication,26
+2013,Number,Berkovići,M,Communication,11
+2013,Number,Berkovići,F,Communication,15
+2013,Number,Grad Bijeljina,Total,Communication,793
+2013,Number,Grad Bijeljina,M,Communication,398
+2013,Number,Grad Bijeljina,F,Communication,395
+2013,Number,Bileća,Total,Communication,89
+2013,Number,Bileća,M,Communication,44
+2013,Number,Bileća,F,Communication,45
 2013,Number,Bratunac,Total,Communication,135
 2013,Number,Bratunac,M,Communication,56
 2013,Number,Bratunac,F,Communication,79
 2013,Number,Brod,Total,Communication,121
 2013,Number,Brod,M,Communication,60
 2013,Number,Brod,F,Communication,61
-2013,Number,Visegrad,Total,Communication,202
-2013,Number,Visegrad,M,Communication,55
-2013,Number,Visegrad,F,Communication,147
+2013,Number,Višegrad,Total,Communication,202
+2013,Number,Višegrad,M,Communication,55
+2013,Number,Višegrad,F,Communication,147
 2013,Number,Vlasenica,Total,Communication,96
 2013,Number,Vlasenica,M,Communication,50
 2013,Number,Vlasenica,F,Communication,46
@@ -1166,108 +1166,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Communication,70
 2013,Number,Gacko,M,Communication,30
 2013,Number,Gacko,F,Communication,40
-2013,Number,City of Gradiska,Total,Communication,504
-2013,Number,City of Gradiska,M,Communication,220
-2013,Number,City of Gradiska,F,Communication,284
-2013,Number,City of Derventa,Total,Communication,255
-2013,Number,City of Derventa,M,Communication,118
-2013,Number,City of Derventa,F,Communication,137
-2013,Number,City of Doboj,Total,Communication,786
-2013,Number,City of Doboj,M,Communication,353
-2013,Number,City of Doboj,F,Communication,433
-2013,Number,Donji Zabar,Total,Communication,23
-2013,Number,Donji Zabar,M,Communication,13
-2013,Number,Donji Zabar,F,Communication,10
-2013,Number,City of Zvornik,Total,Communication,402
-2013,Number,City of Zvornik,M,Communication,184
-2013,Number,City of Zvornik,F,Communication,218
-2013,Number,East Ilidza,Total,Communication,113
-2013,Number,East Ilidza,M,Communication,54
-2013,Number,East Ilidza,F,Communication,59
-2013,Number,East Drvar,Total,Communication,0
-2013,Number,East Drvar,M,Communication,0
-2013,Number,East Drvar,F,Communication,0
-2013,Number,East Mostar,Total,Communication,2
-2013,Number,East Mostar,M,Communication,1
-2013,Number,East Mostar,F,Communication,1
-2013,Number,East Stari Grad,Total,Communication,14
-2013,Number,East Stari Grad,M,Communication,9
-2013,Number,East Stari Grad,F,Communication,5
-2013,Number,East Novo Sarajevo,Total,Communication,65
-2013,Number,East Novo Sarajevo,M,Communication,33
-2013,Number,East Novo Sarajevo,F,Communication,32
+2013,Number,Grad Gradiška,Total,Communication,504
+2013,Number,Grad Gradiška,M,Communication,220
+2013,Number,Grad Gradiška,F,Communication,284
+2013,Number,Grad Derventa,Total,Communication,255
+2013,Number,Grad Derventa,M,Communication,118
+2013,Number,Grad Derventa,F,Communication,137
+2013,Number,Grad Doboj,Total,Communication,786
+2013,Number,Grad Doboj,M,Communication,353
+2013,Number,Grad Doboj,F,Communication,433
+2013,Number,Donji Žabar,Total,Communication,23
+2013,Number,Donji Žabar,M,Communication,13
+2013,Number,Donji Žabar,F,Communication,10
+2013,Number,Grad Zvornik,Total,Communication,402
+2013,Number,Grad Zvornik,M,Communication,184
+2013,Number,Grad Zvornik,F,Communication,218
+2013,Number,Istočna Ilidža,Total,Communication,113
+2013,Number,Istočna Ilidža,M,Communication,54
+2013,Number,Istočna Ilidža,F,Communication,59
+2013,Number,Istočni Drvar,Total,Communication,0
+2013,Number,Istočni Drvar,M,Communication,0
+2013,Number,Istočni Drvar,F,Communication,0
+2013,Number,Istočni Mostar,Total,Communication,2
+2013,Number,Istočni Mostar,M,Communication,1
+2013,Number,Istočni Mostar,F,Communication,1
+2013,Number,Istočni Stari Grad,Total,Communication,14
+2013,Number,Istočni Stari Grad,M,Communication,9
+2013,Number,Istočni Stari Grad,F,Communication,5
+2013,Number,Istočno Novo Sarajevo,Total,Communication,65
+2013,Number,Istočno Novo Sarajevo,M,Communication,33
+2013,Number,Istočno Novo Sarajevo,F,Communication,32
 2013,Number,Jezero,Total,Communication,14
 2013,Number,Jezero,M,Communication,6
 2013,Number,Jezero,F,Communication,8
 2013,Number,Kalinovik,Total,Communication,17
 2013,Number,Kalinovik,M,Communication,8
 2013,Number,Kalinovik,F,Communication,9
-2013,Number,Knezevo,Total,Communication,140
-2013,Number,Knezevo,M,Communication,59
-2013,Number,Knezevo,F,Communication,81
+2013,Number,Kneževo,Total,Communication,140
+2013,Number,Kneževo,M,Communication,59
+2013,Number,Kneževo,F,Communication,81
 2013,Number,Kozarska Dubica,Total,Communication,187
 2013,Number,Kozarska Dubica,M,Communication,94
 2013,Number,Kozarska Dubica,F,Communication,93
 2013,Number,Kostajnica,Total,Communication,53
 2013,Number,Kostajnica,M,Communication,21
 2013,Number,Kostajnica,F,Communication,32
-2013,Number,Kotor Varos,Total,Communication,176
-2013,Number,Kotor Varos,M,Communication,84
-2013,Number,Kotor Varos,F,Communication,92
+2013,Number,Kotor Varoš,Total,Communication,176
+2013,Number,Kotor Varoš,M,Communication,84
+2013,Number,Kotor Varoš,F,Communication,92
 2013,Number,Krupa Na Uni,Total,Communication,20
 2013,Number,Krupa Na Uni,M,Communication,8
 2013,Number,Krupa Na Uni,F,Communication,12
 2013,Number,Kupres,Total,Communication,6
 2013,Number,Kupres,M,Communication,4
 2013,Number,Kupres,F,Communication,2
-2013,Number,Laktasi,Total,Communication,283
-2013,Number,Laktasi,M,Communication,148
-2013,Number,Laktasi,F,Communication,135
+2013,Number,Laktaši,Total,Communication,283
+2013,Number,Laktaši,M,Communication,148
+2013,Number,Laktaši,F,Communication,135
 2013,Number,Lopare,Total,Communication,168
 2013,Number,Lopare,M,Communication,86
 2013,Number,Lopare,F,Communication,82
 2013,Number,Ljubinje,Total,Communication,31
 2013,Number,Ljubinje,M,Communication,14
 2013,Number,Ljubinje,F,Communication,17
-2013,Number,Milici,Total,Communication,77
-2013,Number,Milici,M,Communication,27
-2013,Number,Milici,F,Communication,50
-2013,Number,Modrica,Total,Communication,309
-2013,Number,Modrica,M,Communication,139
-2013,Number,Modrica,F,Communication,170
-2013,Number,Mrkonjic Grad,Total,Communication,176
-2013,Number,Mrkonjic Grad,M,Communication,73
-2013,Number,Mrkonjic Grad,F,Communication,103
+2013,Number,Milići,Total,Communication,77
+2013,Number,Milići,M,Communication,27
+2013,Number,Milići,F,Communication,50
+2013,Number,Modriča,Total,Communication,309
+2013,Number,Modriča,M,Communication,139
+2013,Number,Modriča,F,Communication,170
+2013,Number,Mrkonjić Grad,Total,Communication,176
+2013,Number,Mrkonjić Grad,M,Communication,73
+2013,Number,Mrkonjić Grad,F,Communication,103
 2013,Number,Nevesinje,Total,Communication,107
 2013,Number,Nevesinje,M,Communication,43
 2013,Number,Nevesinje,F,Communication,64
 2013,Number,Novi Grad,Total,Communication,277
 2013,Number,Novi Grad,M,Communication,121
 2013,Number,Novi Grad,F,Communication,156
-2013,Number,Novo Gorazde,Total,Communication,18
-2013,Number,Novo Gorazde,M,Communication,5
-2013,Number,Novo Gorazde,F,Communication,13
+2013,Number,Novo Goražde,Total,Communication,18
+2013,Number,Novo Goražde,M,Communication,5
+2013,Number,Novo Goražde,F,Communication,13
 2013,Number,Osmaci,Total,Communication,40
 2013,Number,Osmaci,M,Communication,19
 2013,Number,Osmaci,F,Communication,21
-2013,Number,Ostra Luka,Total,Communication,26
-2013,Number,Ostra Luka,M,Communication,10
-2013,Number,Ostra Luka,F,Communication,16
+2013,Number,Oštra Luka,Total,Communication,26
+2013,Number,Oštra Luka,M,Communication,10
+2013,Number,Oštra Luka,F,Communication,16
 2013,Number,Pale,Total,Communication,130
 2013,Number,Pale,M,Communication,59
 2013,Number,Pale,F,Communication,71
-2013,Number,Pelagicevo,Total,Communication,68
-2013,Number,Pelagicevo,M,Communication,33
-2013,Number,Pelagicevo,F,Communication,35
+2013,Number,Pelagićevo,Total,Communication,68
+2013,Number,Pelagićevo,M,Communication,33
+2013,Number,Pelagićevo,F,Communication,35
 2013,Number,Petrovac,Total,Communication,1
 2013,Number,Petrovac,M,Communication,0
 2013,Number,Petrovac,F,Communication,1
 2013,Number,Petrovo,Total,Communication,64
 2013,Number,Petrovo,M,Communication,36
 2013,Number,Petrovo,F,Communication,28
-2013,Number,City of Prijedor,Total,Communication,927
-2013,Number,City of Prijedor,M,Communication,517
-2013,Number,City of Prijedor,F,Communication,410
+2013,Number,Grad Prijedor,Total,Communication,927
+2013,Number,Grad Prijedor,M,Communication,517
+2013,Number,Grad Prijedor,F,Communication,410
 2013,Number,Prnjavor,Total,Communication,320
 2013,Number,Prnjavor,M,Communication,162
 2013,Number,Prnjavor,F,Communication,158
@@ -1289,63 +1289,63 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Communication,80
 2013,Number,Srebrenica,M,Communication,33
 2013,Number,Srebrenica,F,Communication,47
-2013,Number,Teslic,Total,Communication,387
-2013,Number,Teslic,M,Communication,189
-2013,Number,Teslic,F,Communication,198
-2013,Number,City of Trebinje,Total,Communication,205
-2013,Number,City of Trebinje,M,Communication,94
-2013,Number,City of Trebinje,F,Communication,111
+2013,Number,Teslić,Total,Communication,387
+2013,Number,Teslić,M,Communication,189
+2013,Number,Teslić,F,Communication,198
+2013,Number,Grad Trebinje,Total,Communication,205
+2013,Number,Grad Trebinje,M,Communication,94
+2013,Number,Grad Trebinje,F,Communication,111
 2013,Number,Trnovo,Total,Communication,22
 2013,Number,Trnovo,M,Communication,12
 2013,Number,Trnovo,F,Communication,10
 2013,Number,Ugljevik,Total,Communication,93
 2013,Number,Ugljevik,M,Communication,41
 2013,Number,Ugljevik,F,Communication,52
-2013,Number,Foca,Total,Communication,170
-2013,Number,Foca,M,Communication,81
-2013,Number,Foca,F,Communication,89
+2013,Number,Foča,Total,Communication,170
+2013,Number,Foča,M,Communication,81
+2013,Number,Foča,F,Communication,89
 2013,Number,Han Pijesak,Total,Communication,36
 2013,Number,Han Pijesak,M,Communication,14
 2013,Number,Han Pijesak,F,Communication,22
-2013,Number,Cajnice,Total,Communication,41
-2013,Number,Cajnice,M,Communication,17
-2013,Number,Cajnice,F,Communication,24
-2013,Number,Celinac,Total,Communication,163
-2013,Number,Celinac,M,Communication,72
-2013,Number,Celinac,F,Communication,91
-2013,Number,Samac,Total,Communication,146
-2013,Number,Samac,M,Communication,71
-2013,Number,Samac,F,Communication,75
-2013,Number,Sekovici,Total,Communication,68
-2013,Number,Sekovici,M,Communication,33
-2013,Number,Sekovici,F,Communication,35
-2013,Number,Sipovo,Total,Communication,92
-2013,Number,Sipovo,M,Communication,42
-2013,Number,Sipovo,F,Communication,50
+2013,Number,Čajniče,Total,Communication,41
+2013,Number,Čajniče,M,Communication,17
+2013,Number,Čajniče,F,Communication,24
+2013,Number,Čelinac,Total,Communication,163
+2013,Number,Čelinac,M,Communication,72
+2013,Number,Čelinac,F,Communication,91
+2013,Number,Šamac,Total,Communication,146
+2013,Number,Šamac,M,Communication,71
+2013,Number,Šamac,F,Communication,75
+2013,Number,Šekovići,Total,Communication,68
+2013,Number,Šekovići,M,Communication,33
+2013,Number,Šekovići,F,Communication,35
+2013,Number,Šipovo,Total,Communication,92
+2013,Number,Šipovo,M,Communication,42
+2013,Number,Šipovo,F,Communication,50
 2013,Number,Republika Srpska,Total,With multiple disabilities,38298
 2013,Number,Republika Srpska,M,With multiple disabilities,16292
 2013,Number,Republika Srpska,F,With multiple disabilities,22006
-2013,Number,City of Banja Luka,Total,With multiple disabilities,4944
-2013,Number,City of Banja Luka,M,With multiple disabilities,2158
-2013,Number,City of Banja Luka,F,With multiple disabilities,2786
-2013,Number,Berkovici,Total,With multiple disabilities,73
-2013,Number,Berkovici,M,With multiple disabilities,32
-2013,Number,Berkovici,F,With multiple disabilities,41
-2013,Number,City of Bijeljina,Total,With multiple disabilities,3094
-2013,Number,City of Bijeljina,M,With multiple disabilities,1359
-2013,Number,City of Bijeljina,F,With multiple disabilities,1735
-2013,Number,Bileca,Total,With multiple disabilities,350
-2013,Number,Bileca,M,With multiple disabilities,151
-2013,Number,Bileca,F,With multiple disabilities,199
+2013,Number,Grad Banja Luka,Total,With multiple disabilities,4944
+2013,Number,Grad Banja Luka,M,With multiple disabilities,2158
+2013,Number,Grad Banja Luka,F,With multiple disabilities,2786
+2013,Number,Berkovići,Total,With multiple disabilities,73
+2013,Number,Berkovići,M,With multiple disabilities,32
+2013,Number,Berkovići,F,With multiple disabilities,41
+2013,Number,Grad Bijeljina,Total,With multiple disabilities,3094
+2013,Number,Grad Bijeljina,M,With multiple disabilities,1359
+2013,Number,Grad Bijeljina,F,With multiple disabilities,1735
+2013,Number,Bileća,Total,With multiple disabilities,350
+2013,Number,Bileća,M,With multiple disabilities,151
+2013,Number,Bileća,F,With multiple disabilities,199
 2013,Number,Bratunac,Total,With multiple disabilities,566
 2013,Number,Bratunac,M,With multiple disabilities,243
 2013,Number,Bratunac,F,With multiple disabilities,323
 2013,Number,Brod,Total,With multiple disabilities,485
 2013,Number,Brod,M,With multiple disabilities,194
 2013,Number,Brod,F,With multiple disabilities,291
-2013,Number,Visegrad,Total,With multiple disabilities,477
-2013,Number,Visegrad,M,With multiple disabilities,145
-2013,Number,Visegrad,F,With multiple disabilities,332
+2013,Number,Višegrad,Total,With multiple disabilities,477
+2013,Number,Višegrad,M,With multiple disabilities,145
+2013,Number,Višegrad,F,With multiple disabilities,332
 2013,Number,Vlasenica,Total,With multiple disabilities,305
 2013,Number,Vlasenica,M,With multiple disabilities,130
 2013,Number,Vlasenica,F,With multiple disabilities,175
@@ -1355,108 +1355,108 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,With multiple disabilities,219
 2013,Number,Gacko,M,With multiple disabilities,84
 2013,Number,Gacko,F,With multiple disabilities,135
-2013,Number,City of Gradiska,Total,With multiple disabilities,1641
-2013,Number,City of Gradiska,M,With multiple disabilities,637
-2013,Number,City of Gradiska,F,With multiple disabilities,1004
-2013,Number,City of Derventa,Total,With multiple disabilities,938
-2013,Number,City of Derventa,M,With multiple disabilities,385
-2013,Number,City of Derventa,F,With multiple disabilities,553
-2013,Number,City of Doboj,Total,With multiple disabilities,3008
-2013,Number,City of Doboj,M,With multiple disabilities,1227
-2013,Number,City of Doboj,F,With multiple disabilities,1781
-2013,Number,Donji Zabar,Total,With multiple disabilities,89
-2013,Number,Donji Zabar,M,With multiple disabilities,42
-2013,Number,Donji Zabar,F,With multiple disabilities,47
-2013,Number,City of Zvornik,Total,With multiple disabilities,1546
-2013,Number,City of Zvornik,M,With multiple disabilities,670
-2013,Number,City of Zvornik,F,With multiple disabilities,876
-2013,Number,East Ilidza,Total,With multiple disabilities,394
-2013,Number,East Ilidza,M,With multiple disabilities,171
-2013,Number,East Ilidza,F,With multiple disabilities,223
-2013,Number,East Drvar,Total,With multiple disabilities,4
-2013,Number,East Drvar,M,With multiple disabilities,1
-2013,Number,East Drvar,F,With multiple disabilities,3
-2013,Number,East Mostar,Total,With multiple disabilities,7
-2013,Number,East Mostar,M,With multiple disabilities,2
-2013,Number,East Mostar,F,With multiple disabilities,5
-2013,Number,East Stari Grad,Total,With multiple disabilities,32
-2013,Number,East Stari Grad,M,With multiple disabilities,16
-2013,Number,East Stari Grad,F,With multiple disabilities,16
-2013,Number,East Novo Sarajevo,Total,With multiple disabilities,206
-2013,Number,East Novo Sarajevo,M,With multiple disabilities,87
-2013,Number,East Novo Sarajevo,F,With multiple disabilities,119
+2013,Number,Grad Gradiška,Total,With multiple disabilities,1641
+2013,Number,Grad Gradiška,M,With multiple disabilities,637
+2013,Number,Grad Gradiška,F,With multiple disabilities,1004
+2013,Number,Grad Derventa,Total,With multiple disabilities,938
+2013,Number,Grad Derventa,M,With multiple disabilities,385
+2013,Number,Grad Derventa,F,With multiple disabilities,553
+2013,Number,Grad Doboj,Total,With multiple disabilities,3008
+2013,Number,Grad Doboj,M,With multiple disabilities,1227
+2013,Number,Grad Doboj,F,With multiple disabilities,1781
+2013,Number,Donji Žabar,Total,With multiple disabilities,89
+2013,Number,Donji Žabar,M,With multiple disabilities,42
+2013,Number,Donji Žabar,F,With multiple disabilities,47
+2013,Number,Grad Zvornik,Total,With multiple disabilities,1546
+2013,Number,Grad Zvornik,M,With multiple disabilities,670
+2013,Number,Grad Zvornik,F,With multiple disabilities,876
+2013,Number,Istočna Ilidža,Total,With multiple disabilities,394
+2013,Number,Istočna Ilidža,M,With multiple disabilities,171
+2013,Number,Istočna Ilidža,F,With multiple disabilities,223
+2013,Number,Istočni Drvar,Total,With multiple disabilities,4
+2013,Number,Istočni Drvar,M,With multiple disabilities,1
+2013,Number,Istočni Drvar,F,With multiple disabilities,3
+2013,Number,Istočni Mostar,Total,With multiple disabilities,7
+2013,Number,Istočni Mostar,M,With multiple disabilities,2
+2013,Number,Istočni Mostar,F,With multiple disabilities,5
+2013,Number,Istočni Stari Grad,Total,With multiple disabilities,32
+2013,Number,Istočni Stari Grad,M,With multiple disabilities,16
+2013,Number,Istočni Stari Grad,F,With multiple disabilities,16
+2013,Number,Istočno Novo Sarajevo,Total,With multiple disabilities,206
+2013,Number,Istočno Novo Sarajevo,M,With multiple disabilities,87
+2013,Number,Istočno Novo Sarajevo,F,With multiple disabilities,119
 2013,Number,Jezero,Total,With multiple disabilities,40
 2013,Number,Jezero,M,With multiple disabilities,17
 2013,Number,Jezero,F,With multiple disabilities,23
 2013,Number,Kalinovik,Total,With multiple disabilities,80
 2013,Number,Kalinovik,M,With multiple disabilities,30
 2013,Number,Kalinovik,F,With multiple disabilities,50
-2013,Number,Knezevo,Total,With multiple disabilities,399
-2013,Number,Knezevo,M,With multiple disabilities,178
-2013,Number,Knezevo,F,With multiple disabilities,221
+2013,Number,Kneževo,Total,With multiple disabilities,399
+2013,Number,Kneževo,M,With multiple disabilities,178
+2013,Number,Kneževo,F,With multiple disabilities,221
 2013,Number,Kozarska Dubica,Total,With multiple disabilities,741
 2013,Number,Kozarska Dubica,M,With multiple disabilities,302
 2013,Number,Kozarska Dubica,F,With multiple disabilities,439
 2013,Number,Kostajnica,Total,With multiple disabilities,209
 2013,Number,Kostajnica,M,With multiple disabilities,93
 2013,Number,Kostajnica,F,With multiple disabilities,116
-2013,Number,Kotor Varos,Total,With multiple disabilities,702
-2013,Number,Kotor Varos,M,With multiple disabilities,310
-2013,Number,Kotor Varos,F,With multiple disabilities,392
+2013,Number,Kotor Varoš,Total,With multiple disabilities,702
+2013,Number,Kotor Varoš,M,With multiple disabilities,310
+2013,Number,Kotor Varoš,F,With multiple disabilities,392
 2013,Number,Krupa Na Uni,Total,With multiple disabilities,88
 2013,Number,Krupa Na Uni,M,With multiple disabilities,40
 2013,Number,Krupa Na Uni,F,With multiple disabilities,48
 2013,Number,Kupres,Total,With multiple disabilities,21
 2013,Number,Kupres,M,With multiple disabilities,13
 2013,Number,Kupres,F,With multiple disabilities,8
-2013,Number,Laktasi,Total,With multiple disabilities,887
-2013,Number,Laktasi,M,With multiple disabilities,413
-2013,Number,Laktasi,F,With multiple disabilities,474
+2013,Number,Laktaši,Total,With multiple disabilities,887
+2013,Number,Laktaši,M,With multiple disabilities,413
+2013,Number,Laktaši,F,With multiple disabilities,474
 2013,Number,Lopare,Total,With multiple disabilities,583
 2013,Number,Lopare,M,With multiple disabilities,254
 2013,Number,Lopare,F,With multiple disabilities,329
 2013,Number,Ljubinje,Total,With multiple disabilities,81
 2013,Number,Ljubinje,M,With multiple disabilities,34
 2013,Number,Ljubinje,F,With multiple disabilities,47
-2013,Number,Milici,Total,With multiple disabilities,314
-2013,Number,Milici,M,With multiple disabilities,130
-2013,Number,Milici,F,With multiple disabilities,184
-2013,Number,Modrica,Total,With multiple disabilities,927
-2013,Number,Modrica,M,With multiple disabilities,399
-2013,Number,Modrica,F,With multiple disabilities,528
-2013,Number,Mrkonjic Grad,Total,With multiple disabilities,475
-2013,Number,Mrkonjic Grad,M,With multiple disabilities,210
-2013,Number,Mrkonjic Grad,F,With multiple disabilities,265
+2013,Number,Milići,Total,With multiple disabilities,314
+2013,Number,Milići,M,With multiple disabilities,130
+2013,Number,Milići,F,With multiple disabilities,184
+2013,Number,Modriča,Total,With multiple disabilities,927
+2013,Number,Modriča,M,With multiple disabilities,399
+2013,Number,Modriča,F,With multiple disabilities,528
+2013,Number,Mrkonjić Grad,Total,With multiple disabilities,475
+2013,Number,Mrkonjić Grad,M,With multiple disabilities,210
+2013,Number,Mrkonjić Grad,F,With multiple disabilities,265
 2013,Number,Nevesinje,Total,With multiple disabilities,327
 2013,Number,Nevesinje,M,With multiple disabilities,130
 2013,Number,Nevesinje,F,With multiple disabilities,197
 2013,Number,Novi Grad,Total,With multiple disabilities,1049
 2013,Number,Novi Grad,M,With multiple disabilities,446
 2013,Number,Novi Grad,F,With multiple disabilities,603
-2013,Number,Novo Gorazde,Total,With multiple disabilities,75
-2013,Number,Novo Gorazde,M,With multiple disabilities,28
-2013,Number,Novo Gorazde,F,With multiple disabilities,47
+2013,Number,Novo Goražde,Total,With multiple disabilities,75
+2013,Number,Novo Goražde,M,With multiple disabilities,28
+2013,Number,Novo Goražde,F,With multiple disabilities,47
 2013,Number,Osmaci,Total,With multiple disabilities,189
 2013,Number,Osmaci,M,With multiple disabilities,79
 2013,Number,Osmaci,F,With multiple disabilities,110
-2013,Number,Ostra Luka,Total,With multiple disabilities,132
-2013,Number,Ostra Luka,M,With multiple disabilities,63
-2013,Number,Ostra Luka,F,With multiple disabilities,69
+2013,Number,Oštra Luka,Total,With multiple disabilities,132
+2013,Number,Oštra Luka,M,With multiple disabilities,63
+2013,Number,Oštra Luka,F,With multiple disabilities,69
 2013,Number,Pale,Total,With multiple disabilities,446
 2013,Number,Pale,M,With multiple disabilities,209
 2013,Number,Pale,F,With multiple disabilities,237
-2013,Number,Pelagicevo,Total,With multiple disabilities,268
-2013,Number,Pelagicevo,M,With multiple disabilities,102
-2013,Number,Pelagicevo,F,With multiple disabilities,166
+2013,Number,Pelagićevo,Total,With multiple disabilities,268
+2013,Number,Pelagićevo,M,With multiple disabilities,102
+2013,Number,Pelagićevo,F,With multiple disabilities,166
 2013,Number,Petrovac,Total,With multiple disabilities,7
 2013,Number,Petrovac,M,With multiple disabilities,4
 2013,Number,Petrovac,F,With multiple disabilities,3
 2013,Number,Petrovo,Total,With multiple disabilities,378
 2013,Number,Petrovo,M,With multiple disabilities,156
 2013,Number,Petrovo,F,With multiple disabilities,222
-2013,Number,City of Prijedor,Total,With multiple disabilities,2789
-2013,Number,City of Prijedor,M,With multiple disabilities,1276
-2013,Number,City of Prijedor,F,With multiple disabilities,1513
+2013,Number,Grad Prijedor,Total,With multiple disabilities,2789
+2013,Number,Grad Prijedor,M,With multiple disabilities,1276
+2013,Number,Grad Prijedor,F,With multiple disabilities,1513
 2013,Number,Prnjavor,Total,With multiple disabilities,1199
 2013,Number,Prnjavor,M,With multiple disabilities,465
 2013,Number,Prnjavor,F,With multiple disabilities,734
@@ -1478,36 +1478,36 @@ Year,UNIT_MEASURE,City/minicipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,With multiple disabilities,381
 2013,Number,Srebrenica,M,With multiple disabilities,144
 2013,Number,Srebrenica,F,With multiple disabilities,237
-2013,Number,Teslic,Total,With multiple disabilities,1374
-2013,Number,Teslic,M,With multiple disabilities,585
-2013,Number,Teslic,F,With multiple disabilities,789
-2013,Number,City of Trebinje,Total,With multiple disabilities,689
-2013,Number,City of Trebinje,M,With multiple disabilities,280
-2013,Number,City of Trebinje,F,With multiple disabilities,409
+2013,Number,Teslić,Total,With multiple disabilities,1374
+2013,Number,Teslić,M,With multiple disabilities,585
+2013,Number,Teslić,F,With multiple disabilities,789
+2013,Number,Grad Trebinje,Total,With multiple disabilities,689
+2013,Number,Grad Trebinje,M,With multiple disabilities,280
+2013,Number,Grad Trebinje,F,With multiple disabilities,409
 2013,Number,Trnovo,Total,With multiple disabilities,69
 2013,Number,Trnovo,M,With multiple disabilities,31
 2013,Number,Trnovo,F,With multiple disabilities,38
 2013,Number,Ugljevik,Total,With multiple disabilities,402
 2013,Number,Ugljevik,M,With multiple disabilities,165
 2013,Number,Ugljevik,F,With multiple disabilities,237
-2013,Number,Foca,Total,With multiple disabilities,581
-2013,Number,Foca,M,With multiple disabilities,262
-2013,Number,Foca,F,With multiple disabilities,319
+2013,Number,Foča,Total,With multiple disabilities,581
+2013,Number,Foča,M,With multiple disabilities,262
+2013,Number,Foča,F,With multiple disabilities,319
 2013,Number,Han Pijesak,Total,With multiple disabilities,95
 2013,Number,Han Pijesak,M,With multiple disabilities,30
 2013,Number,Han Pijesak,F,With multiple disabilities,65
-2013,Number,Cajnice,Total,With multiple disabilities,176
-2013,Number,Cajnice,M,With multiple disabilities,77
-2013,Number,Cajnice,F,With multiple disabilities,99
-2013,Number,Celinac,Total,With multiple disabilities,624
-2013,Number,Celinac,M,With multiple disabilities,269
-2013,Number,Celinac,F,With multiple disabilities,355
-2013,Number,Samac,Total,With multiple disabilities,567
-2013,Number,Samac,M,With multiple disabilities,228
-2013,Number,Samac,F,With multiple disabilities,339
-2013,Number,Sekovici,Total,With multiple disabilities,222
-2013,Number,Sekovici,M,With multiple disabilities,101
-2013,Number,Sekovici,F,With multiple disabilities,121
-2013,Number,Sipovo,Total,With multiple disabilities,322
-2013,Number,Sipovo,M,With multiple disabilities,132
-2013,Number,Sipovo,F,With multiple disabilities,190
+2013,Number,Čajniče,Total,With multiple disabilities,176
+2013,Number,Čajniče,M,With multiple disabilities,77
+2013,Number,Čajniče,F,With multiple disabilities,99
+2013,Number,Čelinac,Total,With multiple disabilities,624
+2013,Number,Čelinac,M,With multiple disabilities,269
+2013,Number,Čelinac,F,With multiple disabilities,355
+2013,Number,Šamac,Total,With multiple disabilities,567
+2013,Number,Šamac,M,With multiple disabilities,228
+2013,Number,Šamac,F,With multiple disabilities,339
+2013,Number,Šekovići,Total,With multiple disabilities,222
+2013,Number,Šekovići,M,With multiple disabilities,101
+2013,Number,Šekovići,F,With multiple disabilities,121
+2013,Number,Šipovo,Total,With multiple disabilities,322
+2013,Number,Šipovo,M,With multiple disabilities,132
+2013,Number,Šipovo,F,With multiple disabilities,190
