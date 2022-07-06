@@ -1,8 +1,8 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-adult_facilities,Social welfare institutions for adults,Ustanove za odrasle,Установе за одрасле,1,1
-adult_users,Adult users,Punoljetni korisnici,Пунољетни корисници,2,2
-institutions_for_children_and_youth,Social welfare institutions for children and youth,Ustanove za djecu i omladinu,Установе за дјецу и омладину,1,1
-number_of_children,Number of children,Broj djece,Број дјеце,1,1
-number_of_users,Number of users,Broj korisnika,Број корисника,1,1
-total,Total,Ukupno,Укупно,3,3
-underage_users,Minor users,Maloljetni korisnici,Малољетни корисници,2,2
+adult_facilities,Social welfare institutions for adults,Ustanove za odrasle,adult_facilities,1,1
+adult_users,Adult users,Punoljetni korisnici,adult_users,2,2
+institutions_for_children_and_youth,Social welfare institutions for children and youth,Ustanove za djecu i omladinu,institutions_for_children_and_youth,1,1
+number_of_children,Number of children,Broj djece,number_of_children,1,1
+number_of_users,Number of users,Broj korisnika,number_of_users,1,1
+total,Total,Ukupno,total,3,3
+underage_users,Minor users,Maloljetni korisnici,underage_users,2,2

@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Укупна стопа преваленце контрацепције",
-                "Стопа преваленце контрацепције (употребом традиционалних методa)",
-                "Стопа преваленце контрацепције (употребом савремених метода)",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Употреба контрацепције"
+            "title": "PREVALENCE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

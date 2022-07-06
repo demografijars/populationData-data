@@ -13,37 +13,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Година"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Мјерна јединица"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "Oбразовање",
-                "Умјетност и хуманистичке науке",
-                "Друштвене науке, новинарство и информисање",
-                "Пословање, администрација и право",
-                "Природне науке, математика и статистика",
-                "Информационе и комуникационе технологије",
-                "Инжeњерство, производња и грађевинарство",
-                "Пољопривреда, шумарство, рибарство и ветеринарство",
-                "Здравство и социјална заштита",
-                "Услуге",
+                "education",
+                "arts_and_humanities",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "natural_sciences,_mathematics_and_statistics",
+                "information_and_communication_technologies",
+                "engineering,_production_and_construction",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "health_and_social_protection",
+                "services",
                 ""
               ]
             },
-            "title": "Област образовања"
+            "title": "scientific_field"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Вриједност"
+            "title": "Value"
           }
         ]
       }

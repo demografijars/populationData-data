@@ -1,7 +1,7 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,Укупно,189,1
-bosnian,Bosnian,Bosanski,Босански,189,1
-croatian,Croatian,Hrvatski,Хрватски,189,1
-other_language,Other,Ostali,Остали,189,1
-serbian,Serbian,Srpski,Српски,189,1
-unknown_language,Unknown,Nepoznato,Непознато,189,1
+_T,Total,Ukupno,_T,189,1
+bosnian,Bosnian,Bosanski,bosnian,189,1
+croatian,Croatian,Hrvatski,croatian,189,1
+other_language,Other,Ostali,other_language,189,1
+serbian,Serbian,Srpski,serbian,189,1
+unknown_language,Unknown,Nepoznato,unknown_language,189,1

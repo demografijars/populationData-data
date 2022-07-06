@@ -1,4 +1,4 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-DEATHS,Deaths,Umrli,Умрли,5,2
-LIVE_BIRTH,Live births,Živorođeni,Живорођени,5,2
-NATURAL_CHANGE,Natural increase,Prirodni priraštaj,Природни прираштај,1,1
+DEATHS,Deaths,Umrli,DEATHS,5,2
+LIVE_BIRTH,Live births,Živorođeni,LIVE_BIRTH,5,2
+NATURAL_CHANGE,Natural increase,Prirodni priraštaj,NATURAL_CHANGE,1,1

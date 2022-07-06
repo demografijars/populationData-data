@@ -1,10 +1,10 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-_T,Total,Ukupno,Укупно,189,1
-agnostic,Agnostic,Agnostik,Агностик,189,1
-atheist,Atheist,Ateist,Атеист,189,1
-catholic,Catholic,Katolička,Католичка,189,1
-does_not_declare,did not declare,Ne izjašnjava se,Не изјашњава се,189,1
-muslim,Islam,Islamska,Исламска,189,1
-orthodox,Orthodox,Pravoslavna,Православна,189,1
-other_religion,Other,Ostali,Остали,189,1
-unknown_religion,Unknown,Nepoznato,Непознато,189,1
+_T,Total,Ukupno,_T,189,1
+agnostic,Agnostic,Agnostik,agnostic,189,1
+atheist,Atheist,Ateist,atheist,189,1
+catholic,Catholic,Katolička,catholic,189,1
+does_not_declare,did not declare,Ne izjašnjava se,does_not_declare,189,1
+muslim,Islam,Islamska,muslim,189,1
+orthodox,Orthodox,Pravoslavna,orthodox,189,1
+other_religion,Other,Ostali,other_religion,189,1
+unknown_religion,Unknown,Nepoznato,unknown_religion,189,1
