@@ -1,16 +1,16 @@
-Year,UNIT_MEASURE,Vrsta korisnika,Value
-2016,Broj,Ukupno,191604
-2017,Broj,Ukupno,184830
-2018,Broj,Ukupno,179164
-2019,Broj,Ukupno,171280
-2020,Broj,Ukupno,167786
-2016,Broj,Maloljetni korisnici,53648
-2017,Broj,Maloljetni korisnici,49035
-2018,Broj,Maloljetni korisnici,48462
-2019,Broj,Maloljetni korisnici,47135
-2020,Broj,Maloljetni korisnici,41066
-2016,Broj,Punoljetni korisnici,137956
-2017,Broj,Punoljetni korisnici,135795
-2018,Broj,Punoljetni korisnici,130702
-2019,Broj,Punoljetni korisnici,124145
-2020,Broj,Punoljetni korisnici,126720
+Year,UNIT_MEASURE,TYPE_OF_USERS,Value
+2016,Broj,total,191604
+2017,Broj,total,184830
+2018,Broj,total,179164
+2019,Broj,total,171280
+2020,Broj,total,167786
+2016,Broj,underage_users,53648
+2017,Broj,underage_users,49035
+2018,Broj,underage_users,48462
+2019,Broj,underage_users,47135
+2020,Broj,underage_users,41066
+2016,Broj,adult_users,137956
+2017,Broj,adult_users,135795
+2018,Broj,adult_users,130702
+2019,Broj,adult_users,124145
+2020,Broj,adult_users,126720

@@ -1,1179 +1,1179 @@
-Year,UNIT_MEASURE,Пол,CAUSE_OF_DEATH,Value
-2003,Број,Укупно,total,12988
-2004,Број,Укупно,total,13082
-2005,Број,Укупно,total,13802
-2006,Број,Укупно,total,13232
-2007,Број,Укупно,total,14146
-2008,Број,Укупно,total,13501
-2009,Број,Укупно,total,13775
-2010,Број,Укупно,total,13517
-2011,Број,Укупно,total,13658
-2012,Број,Укупно,total,13796
-2013,Број,Укупно,total,13978
-2014,Број,Укупно,total,14409
-2015,Број,Укупно,total,15059
-2016,Број,Укупно,total,13970
-2017,Број,Укупно,total,14663
-2018,Број,Укупно,total,14763
-2019,Број,Укупно,total,15081
-2020,Број,Укупно,total,16582
-2021,Број,Укупно,total,19002
-2003,Број,Укупно,infectious_and_parasitic,89
-2004,Број,Укупно,infectious_and_parasitic,124
-2005,Број,Укупно,infectious_and_parasitic,128
-2006,Број,Укупно,infectious_and_parasitic,111
-2007,Број,Укупно,infectious_and_parasitic,103
-2008,Број,Укупно,infectious_and_parasitic,118
-2009,Број,Укупно,infectious_and_parasitic,118
-2010,Број,Укупно,infectious_and_parasitic,109
-2011,Број,Укупно,infectious_and_parasitic,117
-2012,Број,Укупно,infectious_and_parasitic,135
-2013,Број,Укупно,infectious_and_parasitic,120
-2014,Број,Укупно,infectious_and_parasitic,136
-2015,Број,Укупно,infectious_and_parasitic,159
-2016,Број,Укупно,infectious_and_parasitic,187
-2017,Број,Укупно,infectious_and_parasitic,147
-2018,Број,Укупно,infectious_and_parasitic,184
-2019,Број,Укупно,infectious_and_parasitic,200
-2020,Број,Укупно,infectious_and_parasitic,162
-2021,Број,Укупно,infectious_and_parasitic,140
-2003,Број,Укупно,neoplasms,2411
-2004,Број,Укупно,neoplasms,2330
-2005,Број,Укупно,neoplasms,2653
-2006,Број,Укупно,neoplasms,2551
-2007,Број,Укупно,neoplasms,2733
-2008,Број,Укупно,neoplasms,2733
-2009,Број,Укупно,neoplasms,2822
-2010,Број,Укупно,neoplasms,2700
-2011,Број,Укупно,neoplasms,2802
-2012,Број,Укупно,neoplasms,2937
-2013,Број,Укупно,neoplasms,3090
-2014,Број,Укупно,neoplasms,3154
-2015,Број,Укупно,neoplasms,3138
-2016,Број,Укупно,neoplasms,2948
-2017,Број,Укупно,neoplasms,3027
-2018,Број,Укупно,neoplasms,2938
-2019,Број,Укупно,neoplasms,2891
-2020,Број,Укупно,neoplasms,2719
-2021,Број,Укупно,neoplasms,2623
-2003,Број,Укупно,diseases_of_the_blood,8
-2004,Број,Укупно,diseases_of_the_blood,13
-2005,Број,Укупно,diseases_of_the_blood,15
-2006,Број,Укупно,diseases_of_the_blood,6
-2007,Број,Укупно,diseases_of_the_blood,16
-2008,Број,Укупно,diseases_of_the_blood,8
-2009,Број,Укупно,diseases_of_the_blood,13
-2010,Број,Укупно,diseases_of_the_blood,15
-2011,Број,Укупно,diseases_of_the_blood,17
-2012,Број,Укупно,diseases_of_the_blood,15
-2013,Број,Укупно,diseases_of_the_blood,16
-2014,Број,Укупно,diseases_of_the_blood,10
-2015,Број,Укупно,diseases_of_the_blood,19
-2016,Број,Укупно,diseases_of_the_blood,24
-2017,Број,Укупно,diseases_of_the_blood,20
-2018,Број,Укупно,diseases_of_the_blood,36
-2019,Број,Укупно,diseases_of_the_blood,24
-2020,Број,Укупно,diseases_of_the_blood,27
-2021,Број,Укупно,diseases_of_the_blood,22
-2003,Број,Укупно,endocrine_metabolic_and_nutritional,180
-2004,Број,Укупно,endocrine_metabolic_and_nutritional,160
-2005,Број,Укупно,endocrine_metabolic_and_nutritional,727
-2006,Број,Укупно,endocrine_metabolic_and_nutritional,790
-2007,Број,Укупно,endocrine_metabolic_and_nutritional,791
-2008,Број,Укупно,endocrine_metabolic_and_nutritional,764
-2009,Број,Укупно,endocrine_metabolic_and_nutritional,891
-2010,Број,Укупно,endocrine_metabolic_and_nutritional,691
-2011,Број,Укупно,endocrine_metabolic_and_nutritional,654
-2012,Број,Укупно,endocrine_metabolic_and_nutritional,561
-2013,Број,Укупно,endocrine_metabolic_and_nutritional,800
-2014,Број,Укупно,endocrine_metabolic_and_nutritional,912
-2015,Број,Укупно,endocrine_metabolic_and_nutritional,762
-2016,Број,Укупно,endocrine_metabolic_and_nutritional,691
-2017,Број,Укупно,endocrine_metabolic_and_nutritional,825
-2018,Број,Укупно,endocrine_metabolic_and_nutritional,844
-2019,Број,Укупно,endocrine_metabolic_and_nutritional,604
-2020,Број,Укупно,endocrine_metabolic_and_nutritional,825
-2021,Број,Укупно,endocrine_metabolic_and_nutritional,921
-2003,Број,Укупно,mental_and_behavioural_disorders,33
-2004,Број,Укупно,mental_and_behavioural_disorders,58
-2005,Број,Укупно,mental_and_behavioural_disorders,80
-2006,Број,Укупно,mental_and_behavioural_disorders,82
-2007,Број,Укупно,mental_and_behavioural_disorders,107
-2008,Број,Укупно,mental_and_behavioural_disorders,101
-2009,Број,Укупно,mental_and_behavioural_disorders,122
-2010,Број,Укупно,mental_and_behavioural_disorders,84
-2011,Број,Укупно,mental_and_behavioural_disorders,72
-2012,Број,Укупно,mental_and_behavioural_disorders,58
-2013,Број,Укупно,mental_and_behavioural_disorders,95
-2014,Број,Укупно,mental_and_behavioural_disorders,84
-2015,Број,Укупно,mental_and_behavioural_disorders,72
-2016,Број,Укупно,mental_and_behavioural_disorders,98
-2017,Број,Укупно,mental_and_behavioural_disorders,113
-2018,Број,Укупно,mental_and_behavioural_disorders,85
-2019,Број,Укупно,mental_and_behavioural_disorders,72
-2020,Број,Укупно,mental_and_behavioural_disorders,72
-2021,Број,Укупно,mental_and_behavioural_disorders,107
-2003,Број,Укупно,diseases_of_the_nervous,65
-2004,Број,Укупно,diseases_of_the_nervous,91
-2005,Број,Укупно,diseases_of_the_nervous,170
-2006,Број,Укупно,diseases_of_the_nervous,184
-2007,Број,Укупно,diseases_of_the_nervous,155
-2008,Број,Укупно,diseases_of_the_nervous,146
-2009,Број,Укупно,diseases_of_the_nervous,133
-2010,Број,Укупно,diseases_of_the_nervous,152
-2011,Број,Укупно,diseases_of_the_nervous,209
-2012,Број,Укупно,diseases_of_the_nervous,207
-2013,Број,Укупно,diseases_of_the_nervous,185
-2014,Број,Укупно,diseases_of_the_nervous,186
-2015,Број,Укупно,diseases_of_the_nervous,212
-2016,Број,Укупно,diseases_of_the_nervous,171
-2017,Број,Укупно,diseases_of_the_nervous,197
-2018,Број,Укупно,diseases_of_the_nervous,169
-2019,Број,Укупно,diseases_of_the_nervous,165
-2020,Број,Укупно,diseases_of_the_nervous,188
-2021,Број,Укупно,diseases_of_the_nervous,173
-2003,Број,Укупно,diseases_of_the_eye,0
-2004,Број,Укупно,diseases_of_the_eye,0
-2005,Број,Укупно,diseases_of_the_eye,0
-2006,Број,Укупно,diseases_of_the_eye,0
-2007,Број,Укупно,diseases_of_the_eye,0
-2008,Број,Укупно,diseases_of_the_eye,0
-2009,Број,Укупно,diseases_of_the_eye,0
-2010,Број,Укупно,diseases_of_the_eye,0
-2011,Број,Укупно,diseases_of_the_eye,0
-2012,Број,Укупно,diseases_of_the_eye,0
-2013,Број,Укупно,diseases_of_the_eye,0
-2014,Број,Укупно,diseases_of_the_eye,0
-2015,Број,Укупно,diseases_of_the_eye,0
-2016,Број,Укупно,diseases_of_the_eye,0
-2017,Број,Укупно,diseases_of_the_eye,0
-2018,Број,Укупно,diseases_of_the_eye,0
-2019,Број,Укупно,diseases_of_the_eye,0
-2020,Број,Укупно,diseases_of_the_eye,0
-2021,Број,Укупно,diseases_of_the_eye,0
-2003,Број,Укупно,diseases_of_the_ear,0
-2004,Број,Укупно,diseases_of_the_ear,0
-2005,Број,Укупно,diseases_of_the_ear,1
-2006,Број,Укупно,diseases_of_the_ear,0
-2007,Број,Укупно,diseases_of_the_ear,1
-2008,Број,Укупно,diseases_of_the_ear,0
-2009,Број,Укупно,diseases_of_the_ear,0
-2010,Број,Укупно,diseases_of_the_ear,0
-2011,Број,Укупно,diseases_of_the_ear,0
-2012,Број,Укупно,diseases_of_the_ear,0
-2013,Број,Укупно,diseases_of_the_ear,0
-2014,Број,Укупно,diseases_of_the_ear,0
-2015,Број,Укупно,diseases_of_the_ear,0
-2016,Број,Укупно,diseases_of_the_ear,0
-2017,Број,Укупно,diseases_of_the_ear,0
-2018,Број,Укупно,diseases_of_the_ear,0
-2019,Број,Укупно,diseases_of_the_ear,0
-2020,Број,Укупно,diseases_of_the_ear,0
-2021,Број,Укупно,diseases_of_the_ear,0
-2003,Број,Укупно,diseases_of_the_circulatory,7071
-2004,Број,Укупно,diseases_of_the_circulatory,7340
-2005,Број,Укупно,diseases_of_the_circulatory,7002
-2006,Број,Укупно,diseases_of_the_circulatory,6463
-2007,Број,Укупно,diseases_of_the_circulatory,7097
-2008,Број,Укупно,diseases_of_the_circulatory,6965
-2009,Број,Укупно,diseases_of_the_circulatory,7014
-2010,Број,Укупно,diseases_of_the_circulatory,7211
-2011,Број,Укупно,diseases_of_the_circulatory,7339
-2012,Број,Укупно,diseases_of_the_circulatory,7625
-2013,Број,Укупно,diseases_of_the_circulatory,6687
-2014,Број,Укупно,diseases_of_the_circulatory,6777
-2015,Број,Укупно,diseases_of_the_circulatory,7275
-2016,Број,Укупно,diseases_of_the_circulatory,6920
-2017,Број,Укупно,diseases_of_the_circulatory,7180
-2018,Број,Укупно,diseases_of_the_circulatory,6989
-2019,Број,Укупно,diseases_of_the_circulatory,7473
-2020,Број,Укупно,diseases_of_the_circulatory,7602
-2021,Број,Укупно,diseases_of_the_circulatory,7217
-2003,Број,Укупно,diseases_of_the_respiratory,304
-2004,Број,Укупно,diseases_of_the_respiratory,345
-2005,Број,Укупно,diseases_of_the_respiratory,504
-2006,Број,Укупно,diseases_of_the_respiratory,520
-2007,Број,Укупно,diseases_of_the_respiratory,493
-2008,Број,Укупно,diseases_of_the_respiratory,449
-2009,Број,Укупно,diseases_of_the_respiratory,430
-2010,Број,Укупно,diseases_of_the_respiratory,450
-2011,Број,Укупно,diseases_of_the_respiratory,536
-2012,Број,Укупно,diseases_of_the_respiratory,424
-2013,Број,Укупно,diseases_of_the_respiratory,556
-2014,Број,Укупно,diseases_of_the_respiratory,524
-2015,Број,Укупно,diseases_of_the_respiratory,618
-2016,Број,Укупно,diseases_of_the_respiratory,510
-2017,Број,Укупно,diseases_of_the_respiratory,576
-2018,Број,Укупно,diseases_of_the_respiratory,626
-2019,Број,Укупно,diseases_of_the_respiratory,596
-2020,Број,Укупно,diseases_of_the_respiratory,631
-2021,Број,Укупно,diseases_of_the_respiratory,640
-2003,Број,Укупно,diseases_of_the_digestive,352
-2004,Број,Укупно,diseases_of_the_digestive,347
-2005,Број,Укупно,diseases_of_the_digestive,343
-2006,Број,Укупно,diseases_of_the_digestive,379
-2007,Број,Укупно,diseases_of_the_digestive,396
-2008,Број,Укупно,diseases_of_the_digestive,366
-2009,Број,Укупно,diseases_of_the_digestive,371
-2010,Број,Укупно,diseases_of_the_digestive,398
-2011,Број,Укупно,diseases_of_the_digestive,391
-2012,Број,Укупно,diseases_of_the_digestive,393
-2013,Број,Укупно,diseases_of_the_digestive,402
-2014,Број,Укупно,diseases_of_the_digestive,429
-2015,Број,Укупно,diseases_of_the_digestive,440
-2016,Број,Укупно,diseases_of_the_digestive,450
-2017,Број,Укупно,diseases_of_the_digestive,413
-2018,Број,Укупно,diseases_of_the_digestive,481
-2019,Број,Укупно,diseases_of_the_digestive,419
-2020,Број,Укупно,diseases_of_the_digestive,438
-2021,Број,Укупно,diseases_of_the_digestive,400
-2003,Број,Укупно,diseases_of_the_skin,0
-2004,Број,Укупно,diseases_of_the_skin,3
-2005,Број,Укупно,diseases_of_the_skin,0
-2006,Број,Укупно,diseases_of_the_skin,1
-2007,Број,Укупно,diseases_of_the_skin,2
-2008,Број,Укупно,diseases_of_the_skin,2
-2009,Број,Укупно,diseases_of_the_skin,3
-2010,Број,Укупно,diseases_of_the_skin,6
-2011,Број,Укупно,diseases_of_the_skin,1
-2012,Број,Укупно,diseases_of_the_skin,4
-2013,Број,Укупно,diseases_of_the_skin,20
-2014,Број,Укупно,diseases_of_the_skin,22
-2015,Број,Укупно,diseases_of_the_skin,22
-2016,Број,Укупно,diseases_of_the_skin,21
-2017,Број,Укупно,diseases_of_the_skin,24
-2018,Број,Укупно,diseases_of_the_skin,22
-2019,Број,Укупно,diseases_of_the_skin,23
-2020,Број,Укупно,diseases_of_the_skin,30
-2021,Број,Укупно,diseases_of_the_skin,33
-2003,Број,Укупно,diseases_of_the_musculoskeletal,6
-2004,Број,Укупно,diseases_of_the_musculoskeletal,3
-2005,Број,Укупно,diseases_of_the_musculoskeletal,12
-2006,Број,Укупно,diseases_of_the_musculoskeletal,10
-2007,Број,Укупно,diseases_of_the_musculoskeletal,13
-2008,Број,Укупно,diseases_of_the_musculoskeletal,17
-2009,Број,Укупно,diseases_of_the_musculoskeletal,13
-2010,Број,Укупно,diseases_of_the_musculoskeletal,11
-2011,Број,Укупно,diseases_of_the_musculoskeletal,18
-2012,Број,Укупно,diseases_of_the_musculoskeletal,16
-2013,Број,Укупно,diseases_of_the_musculoskeletal,28
-2014,Број,Укупно,diseases_of_the_musculoskeletal,22
-2015,Број,Укупно,diseases_of_the_musculoskeletal,30
-2016,Број,Укупно,diseases_of_the_musculoskeletal,19
-2017,Број,Укупно,diseases_of_the_musculoskeletal,17
-2018,Број,Укупно,diseases_of_the_musculoskeletal,21
-2019,Број,Укупно,diseases_of_the_musculoskeletal,13
-2020,Број,Укупно,diseases_of_the_musculoskeletal,28
-2021,Број,Укупно,diseases_of_the_musculoskeletal,8
-2003,Број,Укупно,diseases_of_the_genitourinary,222
-2004,Број,Укупно,diseases_of_the_genitourinary,205
-2005,Број,Укупно,diseases_of_the_genitourinary,257
-2006,Број,Укупно,diseases_of_the_genitourinary,266
-2007,Број,Укупно,diseases_of_the_genitourinary,275
-2008,Број,Укупно,diseases_of_the_genitourinary,268
-2009,Број,Укупно,diseases_of_the_genitourinary,257
-2010,Број,Укупно,diseases_of_the_genitourinary,255
-2011,Број,Укупно,diseases_of_the_genitourinary,175
-2012,Број,Укупно,diseases_of_the_genitourinary,236
-2013,Број,Укупно,diseases_of_the_genitourinary,213
-2014,Број,Укупно,diseases_of_the_genitourinary,150
-2015,Број,Укупно,diseases_of_the_genitourinary,179
-2016,Број,Укупно,diseases_of_the_genitourinary,218
-2017,Број,Укупно,diseases_of_the_genitourinary,193
-2018,Број,Укупно,diseases_of_the_genitourinary,220
-2019,Број,Укупно,diseases_of_the_genitourinary,195
-2020,Број,Укупно,diseases_of_the_genitourinary,221
-2021,Број,Укупно,diseases_of_the_genitourinary,197
-2003,Број,Укупно,pregnancy_childbirth_and_the,1
-2004,Број,Укупно,pregnancy_childbirth_and_the,0
-2005,Број,Укупно,pregnancy_childbirth_and_the,2
-2006,Број,Укупно,pregnancy_childbirth_and_the,2
-2007,Број,Укупно,pregnancy_childbirth_and_the,1
-2008,Број,Укупно,pregnancy_childbirth_and_the,1
-2009,Број,Укупно,pregnancy_childbirth_and_the,0
-2010,Број,Укупно,pregnancy_childbirth_and_the,1
-2011,Број,Укупно,pregnancy_childbirth_and_the,1
-2012,Број,Укупно,pregnancy_childbirth_and_the,0
-2013,Број,Укупно,pregnancy_childbirth_and_the,0
-2014,Број,Укупно,pregnancy_childbirth_and_the,0
-2015,Број,Укупно,pregnancy_childbirth_and_the,1
-2016,Број,Укупно,pregnancy_childbirth_and_the,1
-2017,Број,Укупно,pregnancy_childbirth_and_the,0
-2018,Број,Укупно,pregnancy_childbirth_and_the,1
-2019,Број,Укупно,pregnancy_childbirth_and_the,0
-2020,Број,Укупно,pregnancy_childbirth_and_the,3
-2021,Број,Укупно,pregnancy_childbirth_and_the,0
-2003,Број,Укупно,certain_conditions_originating,44
-2004,Број,Укупно,certain_conditions_originating,38
-2005,Број,Укупно,certain_conditions_originating,27
-2006,Број,Укупно,certain_conditions_originating,38
-2007,Број,Укупно,certain_conditions_originating,27
-2008,Број,Укупно,certain_conditions_originating,20
-2009,Број,Укупно,certain_conditions_originating,34
-2010,Број,Укупно,certain_conditions_originating,29
-2011,Број,Укупно,certain_conditions_originating,36
-2012,Број,Укупно,certain_conditions_originating,29
-2013,Број,Укупно,certain_conditions_originating,21
-2014,Број,Укупно,certain_conditions_originating,16
-2015,Број,Укупно,certain_conditions_originating,10
-2016,Број,Укупно,certain_conditions_originating,18
-2017,Број,Укупно,certain_conditions_originating,17
-2018,Број,Укупно,certain_conditions_originating,10
-2019,Број,Укупно,certain_conditions_originating,11
-2020,Број,Укупно,certain_conditions_originating,34
-2021,Број,Укупно,certain_conditions_originating,9
-2003,Број,Укупно,congenital_malformations_deformations,10
-2004,Број,Укупно,congenital_malformations_deformations,11
-2005,Број,Укупно,congenital_malformations_deformations,14
-2006,Број,Укупно,congenital_malformations_deformations,14
-2007,Број,Укупно,congenital_malformations_deformations,14
-2008,Број,Укупно,congenital_malformations_deformations,15
-2009,Број,Укупно,congenital_malformations_deformations,20
-2010,Број,Укупно,congenital_malformations_deformations,17
-2011,Број,Укупно,congenital_malformations_deformations,9
-2012,Број,Укупно,congenital_malformations_deformations,6
-2013,Број,Укупно,congenital_malformations_deformations,10
-2014,Број,Укупно,congenital_malformations_deformations,10
-2015,Број,Укупно,congenital_malformations_deformations,7
-2016,Број,Укупно,congenital_malformations_deformations,5
-2017,Број,Укупно,congenital_malformations_deformations,5
-2018,Број,Укупно,congenital_malformations_deformations,5
-2019,Број,Укупно,congenital_malformations_deformations,4
-2020,Број,Укупно,congenital_malformations_deformations,6
-2021,Број,Укупно,congenital_malformations_deformations,5
-2003,Број,Укупно,symptoms_signs_and_abnormal,1612
-2004,Број,Укупно,symptoms_signs_and_abnormal,1462
-2005,Број,Укупно,symptoms_signs_and_abnormal,1249
-2006,Број,Укупно,symptoms_signs_and_abnormal,1200
-2007,Број,Укупно,symptoms_signs_and_abnormal,1288
-2008,Број,Укупно,symptoms_signs_and_abnormal,945
-2009,Број,Укупно,symptoms_signs_and_abnormal,953
-2010,Број,Укупно,symptoms_signs_and_abnormal,877
-2011,Број,Укупно,symptoms_signs_and_abnormal,681
-2012,Број,Укупно,symptoms_signs_and_abnormal,612
-2013,Број,Укупно,symptoms_signs_and_abnormal,1231
-2014,Број,Укупно,symptoms_signs_and_abnormal,1445
-2015,Број,Укупно,symptoms_signs_and_abnormal,1556
-2016,Број,Укупно,symptoms_signs_and_abnormal,1198
-2017,Број,Укупно,symptoms_signs_and_abnormal,1435
-2018,Број,Укупно,symptoms_signs_and_abnormal,1650
-2019,Број,Укупно,symptoms_signs_and_abnormal,1961
-2020,Број,Укупно,symptoms_signs_and_abnormal,1599
-2021,Број,Укупно,symptoms_signs_and_abnormal,2213
-2003,Број,Укупно,injuries_poisoning_and_consequences,580
-2004,Број,Укупно,injuries_poisoning_and_consequences,552
-2005,Број,Укупно,injuries_poisoning_and_consequences,618
-2006,Број,Укупно,injuries_poisoning_and_consequences,615
-2007,Број,Укупно,injuries_poisoning_and_consequences,634
-2008,Број,Укупно,injuries_poisoning_and_consequences,584
-2009,Број,Укупно,injuries_poisoning_and_consequences,581
-2010,Број,Укупно,injuries_poisoning_and_consequences,511
-2011,Број,Укупно,injuries_poisoning_and_consequences,600
-2012,Број,Укупно,injuries_poisoning_and_consequences,538
-2013,Број,Укупно,injuries_poisoning_and_consequences,504
-2014,Број,Укупно,injuries_poisoning_and_consequences,532
-2015,Број,Укупно,injuries_poisoning_and_consequences,559
-2016,Број,Укупно,injuries_poisoning_and_consequences,491
-2017,Број,Укупно,injuries_poisoning_and_consequences,474
-2018,Број,Укупно,injuries_poisoning_and_consequences,482
-2019,Број,Укупно,injuries_poisoning_and_consequences,430
-2020,Број,Укупно,injuries_poisoning_and_consequences,405
-2021,Број,Укупно,injuries_poisoning_and_consequences,448
-2003,Број,Укупно,special_purpose_codes,0
-2004,Број,Укупно,special_purpose_codes,0
-2005,Број,Укупно,special_purpose_codes,0
-2006,Број,Укупно,special_purpose_codes,0
-2007,Број,Укупно,special_purpose_codes,0
-2008,Број,Укупно,special_purpose_codes,0
-2009,Број,Укупно,special_purpose_codes,0
-2010,Број,Укупно,special_purpose_codes,0
-2011,Број,Укупно,special_purpose_codes,0
-2012,Број,Укупно,special_purpose_codes,0
-2013,Број,Укупно,special_purpose_codes,0
-2014,Број,Укупно,special_purpose_codes,0
-2015,Број,Укупно,special_purpose_codes,0
-2016,Број,Укупно,special_purpose_codes,0
-2017,Број,Укупно,special_purpose_codes,0
-2018,Број,Укупно,special_purpose_codes,0
-2019,Број,Укупно,special_purpose_codes,0
-2020,Број,Укупно,special_purpose_codes,1592
-2021,Број,Укупно,special_purpose_codes,3846
-2003,Број,M,total,6804
-2004,Број,M,total,6735
-2005,Број,M,total,7239
-2006,Број,M,total,6904
-2007,Број,M,total,7302
-2008,Број,M,total,7058
-2009,Број,M,total,7099
-2010,Број,M,total,6935
-2011,Број,M,total,7001
-2012,Број,M,total,7064
-2013,Број,M,total,7237
-2014,Број,M,total,7386
-2015,Број,M,total,7640
-2016,Број,M,total,7198
-2017,Број,M,total,7363
-2018,Број,M,total,7449
-2019,Број,M,total,7753
-2020,Број,M,total,8613
-2021,Број,M,total,9943
-2003,Број,M,infectious_and_parasitic,59
-2004,Број,M,infectious_and_parasitic,75
-2005,Број,M,infectious_and_parasitic,78
-2006,Број,M,infectious_and_parasitic,73
-2007,Број,M,infectious_and_parasitic,70
-2008,Број,M,infectious_and_parasitic,72
-2009,Број,M,infectious_and_parasitic,75
-2010,Број,M,infectious_and_parasitic,72
-2011,Број,M,infectious_and_parasitic,79
-2012,Број,M,infectious_and_parasitic,69
-2013,Број,M,infectious_and_parasitic,73
-2014,Број,M,infectious_and_parasitic,80
-2015,Број,M,infectious_and_parasitic,92
-2016,Број,M,infectious_and_parasitic,104
-2017,Број,M,infectious_and_parasitic,85
-2018,Број,M,infectious_and_parasitic,109
-2019,Број,M,infectious_and_parasitic,119
-2020,Број,M,infectious_and_parasitic,87
-2021,Број,M,infectious_and_parasitic,86
-2003,Број,M,neoplasms,1461
-2004,Број,M,neoplasms,1402
-2005,Број,M,neoplasms,1581
-2006,Број,M,neoplasms,1536
-2007,Број,M,neoplasms,1624
-2008,Број,M,neoplasms,1658
-2009,Број,M,neoplasms,1661
-2010,Број,M,neoplasms,1595
-2011,Број,M,neoplasms,1684
-2012,Број,M,neoplasms,1754
-2013,Број,M,neoplasms,1859
-2014,Број,M,neoplasms,1801
-2015,Број,M,neoplasms,1783
-2016,Број,M,neoplasms,1739
-2017,Број,M,neoplasms,1759
-2018,Број,M,neoplasms,1729
-2019,Број,M,neoplasms,1705
-2020,Број,M,neoplasms,1622
-2021,Број,M,neoplasms,1558
-2003,Број,M,diseases_of_the_blood,6
-2004,Број,M,diseases_of_the_blood,2
-2005,Број,M,diseases_of_the_blood,5
-2006,Број,M,diseases_of_the_blood,2
-2007,Број,M,diseases_of_the_blood,6
-2008,Број,M,diseases_of_the_blood,3
-2009,Број,M,diseases_of_the_blood,4
-2010,Број,M,diseases_of_the_blood,5
-2011,Број,M,diseases_of_the_blood,7
-2012,Број,M,diseases_of_the_blood,9
-2013,Број,M,diseases_of_the_blood,8
-2014,Број,M,diseases_of_the_blood,2
-2015,Број,M,diseases_of_the_blood,9
-2016,Број,M,diseases_of_the_blood,9
-2017,Број,M,diseases_of_the_blood,3
-2018,Број,M,diseases_of_the_blood,18
-2019,Број,M,diseases_of_the_blood,8
-2020,Број,M,diseases_of_the_blood,12
-2021,Број,M,diseases_of_the_blood,7
-2003,Број,M,endocrine_metabolic_and_nutritional,71
-2004,Број,M,endocrine_metabolic_and_nutritional,68
-2005,Број,M,endocrine_metabolic_and_nutritional,286
-2006,Број,M,endocrine_metabolic_and_nutritional,306
-2007,Број,M,endocrine_metabolic_and_nutritional,349
-2008,Број,M,endocrine_metabolic_and_nutritional,310
-2009,Број,M,endocrine_metabolic_and_nutritional,361
-2010,Број,M,endocrine_metabolic_and_nutritional,289
-2011,Број,M,endocrine_metabolic_and_nutritional,257
-2012,Број,M,endocrine_metabolic_and_nutritional,211
-2013,Број,M,endocrine_metabolic_and_nutritional,341
-2014,Број,M,endocrine_metabolic_and_nutritional,411
-2015,Број,M,endocrine_metabolic_and_nutritional,362
-2016,Број,M,endocrine_metabolic_and_nutritional,313
-2017,Број,M,endocrine_metabolic_and_nutritional,373
-2018,Број,M,endocrine_metabolic_and_nutritional,386
-2019,Број,M,endocrine_metabolic_and_nutritional,261
-2020,Број,M,endocrine_metabolic_and_nutritional,340
-2021,Број,M,endocrine_metabolic_and_nutritional,387
-2003,Број,M,mental_and_behavioural_disorders,24
-2004,Број,M,mental_and_behavioural_disorders,46
-2005,Број,M,mental_and_behavioural_disorders,64
-2006,Број,M,mental_and_behavioural_disorders,67
-2007,Број,M,mental_and_behavioural_disorders,87
-2008,Број,M,mental_and_behavioural_disorders,82
-2009,Број,M,mental_and_behavioural_disorders,92
-2010,Број,M,mental_and_behavioural_disorders,73
-2011,Број,M,mental_and_behavioural_disorders,58
-2012,Број,M,mental_and_behavioural_disorders,46
-2013,Број,M,mental_and_behavioural_disorders,64
-2014,Број,M,mental_and_behavioural_disorders,63
-2015,Број,M,mental_and_behavioural_disorders,44
-2016,Број,M,mental_and_behavioural_disorders,72
-2017,Број,M,mental_and_behavioural_disorders,70
-2018,Број,M,mental_and_behavioural_disorders,55
-2019,Број,M,mental_and_behavioural_disorders,50
-2020,Број,M,mental_and_behavioural_disorders,43
-2021,Број,M,mental_and_behavioural_disorders,63
-2003,Број,M,diseases_of_the_nervous,39
-2004,Број,M,diseases_of_the_nervous,53
-2005,Број,M,diseases_of_the_nervous,86
-2006,Број,M,diseases_of_the_nervous,111
-2007,Број,M,diseases_of_the_nervous,85
-2008,Број,M,diseases_of_the_nervous,91
-2009,Број,M,diseases_of_the_nervous,78
-2010,Број,M,diseases_of_the_nervous,76
-2011,Број,M,diseases_of_the_nervous,112
-2012,Број,M,diseases_of_the_nervous,105
-2013,Број,M,diseases_of_the_nervous,98
-2014,Број,M,diseases_of_the_nervous,97
-2015,Број,M,diseases_of_the_nervous,106
-2016,Број,M,diseases_of_the_nervous,96
-2017,Број,M,diseases_of_the_nervous,102
-2018,Број,M,diseases_of_the_nervous,82
-2019,Број,M,diseases_of_the_nervous,84
-2020,Број,M,diseases_of_the_nervous,91
-2021,Број,M,diseases_of_the_nervous,100
-2003,Број,M,diseases_of_the_eye,0
-2004,Број,M,diseases_of_the_eye,0
-2005,Број,M,diseases_of_the_eye,0
-2006,Број,M,diseases_of_the_eye,0
-2007,Број,M,diseases_of_the_eye,0
-2008,Број,M,diseases_of_the_eye,0
-2009,Број,M,diseases_of_the_eye,0
-2010,Број,M,diseases_of_the_eye,0
-2011,Број,M,diseases_of_the_eye,0
-2012,Број,M,diseases_of_the_eye,0
-2013,Број,M,diseases_of_the_eye,0
-2014,Број,M,diseases_of_the_eye,0
-2015,Број,M,diseases_of_the_eye,0
-2016,Број,M,diseases_of_the_eye,0
-2017,Број,M,diseases_of_the_eye,0
-2018,Број,M,diseases_of_the_eye,0
-2019,Број,M,diseases_of_the_eye,0
-2020,Број,M,diseases_of_the_eye,0
-2021,Број,M,diseases_of_the_eye,0
-2003,Број,M,diseases_of_the_ear,0
-2004,Број,M,diseases_of_the_ear,0
-2005,Број,M,diseases_of_the_ear,1
-2006,Број,M,diseases_of_the_ear,0
-2007,Број,M,diseases_of_the_ear,1
-2008,Број,M,diseases_of_the_ear,0
-2009,Број,M,diseases_of_the_ear,0
-2010,Број,M,diseases_of_the_ear,0
-2011,Број,M,diseases_of_the_ear,0
-2012,Број,M,diseases_of_the_ear,0
-2013,Број,M,diseases_of_the_ear,0
-2014,Број,M,diseases_of_the_ear,0
-2015,Број,M,diseases_of_the_ear,0
-2016,Број,M,diseases_of_the_ear,0
-2017,Број,M,diseases_of_the_ear,0
-2018,Број,M,diseases_of_the_ear,0
-2019,Број,M,diseases_of_the_ear,0
-2020,Број,M,diseases_of_the_ear,0
-2021,Број,M,diseases_of_the_ear,0
-2003,Број,M,diseases_of_the_circulatory,3323
-2004,Број,M,diseases_of_the_circulatory,3383
-2005,Број,M,diseases_of_the_circulatory,3325
-2006,Број,M,diseases_of_the_circulatory,3005
-2007,Број,M,diseases_of_the_circulatory,3233
-2008,Број,M,diseases_of_the_circulatory,3209
-2009,Број,M,diseases_of_the_circulatory,3271
-2010,Број,M,diseases_of_the_circulatory,3285
-2011,Број,M,diseases_of_the_circulatory,3330
-2012,Број,M,diseases_of_the_circulatory,3516
-2013,Број,M,diseases_of_the_circulatory,3062
-2014,Број,M,diseases_of_the_circulatory,3142
-2015,Број,M,diseases_of_the_circulatory,3311
-2016,Број,M,diseases_of_the_circulatory,3177
-2017,Број,M,diseases_of_the_circulatory,3220
-2018,Број,M,diseases_of_the_circulatory,3084
-2019,Број,M,diseases_of_the_circulatory,3440
-2020,Број,M,diseases_of_the_circulatory,3452
-2021,Број,M,diseases_of_the_circulatory,3261
-2003,Број,M,diseases_of_the_respiratory,184
-2004,Број,M,diseases_of_the_respiratory,211
-2005,Број,M,diseases_of_the_respiratory,284
-2006,Број,M,diseases_of_the_respiratory,292
-2007,Број,M,diseases_of_the_respiratory,282
-2008,Број,M,diseases_of_the_respiratory,276
-2009,Број,M,diseases_of_the_respiratory,254
-2010,Број,M,diseases_of_the_respiratory,277
-2011,Број,M,diseases_of_the_respiratory,303
-2012,Број,M,diseases_of_the_respiratory,263
-2013,Број,M,diseases_of_the_respiratory,334
-2014,Број,M,diseases_of_the_respiratory,315
-2015,Број,M,diseases_of_the_respiratory,370
-2016,Број,M,diseases_of_the_respiratory,306
-2017,Број,M,diseases_of_the_respiratory,333
-2018,Број,M,diseases_of_the_respiratory,344
-2019,Број,M,diseases_of_the_respiratory,338
-2020,Број,M,diseases_of_the_respiratory,377
-2021,Број,M,diseases_of_the_respiratory,369
-2003,Број,M,diseases_of_the_digestive,216
-2004,Број,M,diseases_of_the_digestive,206
-2005,Број,M,diseases_of_the_digestive,219
-2006,Број,M,diseases_of_the_digestive,233
-2007,Број,M,diseases_of_the_digestive,249
-2008,Број,M,diseases_of_the_digestive,235
-2009,Број,M,diseases_of_the_digestive,223
-2010,Број,M,diseases_of_the_digestive,242
-2011,Број,M,diseases_of_the_digestive,255
-2012,Број,M,diseases_of_the_digestive,248
-2013,Број,M,diseases_of_the_digestive,219
-2014,Број,M,diseases_of_the_digestive,241
-2015,Број,M,diseases_of_the_digestive,249
-2016,Број,M,diseases_of_the_digestive,265
-2017,Број,M,diseases_of_the_digestive,229
-2018,Број,M,diseases_of_the_digestive,290
-2019,Број,M,diseases_of_the_digestive,239
-2020,Број,M,diseases_of_the_digestive,269
-2021,Број,M,diseases_of_the_digestive,244
-2003,Број,M,diseases_of_the_skin,0
-2004,Број,M,diseases_of_the_skin,0
-2005,Број,M,diseases_of_the_skin,0
-2006,Број,M,diseases_of_the_skin,0
-2007,Број,M,diseases_of_the_skin,0
-2008,Број,M,diseases_of_the_skin,0
-2009,Број,M,diseases_of_the_skin,1
-2010,Број,M,diseases_of_the_skin,4
-2011,Број,M,diseases_of_the_skin,0
-2012,Број,M,diseases_of_the_skin,3
-2013,Број,M,diseases_of_the_skin,9
-2014,Број,M,diseases_of_the_skin,13
-2015,Број,M,diseases_of_the_skin,7
-2016,Број,M,diseases_of_the_skin,7
-2017,Број,M,diseases_of_the_skin,5
-2018,Број,M,diseases_of_the_skin,12
-2019,Број,M,diseases_of_the_skin,7
-2020,Број,M,diseases_of_the_skin,13
-2021,Број,M,diseases_of_the_skin,12
-2003,Број,M,diseases_of_the_musculoskeletal,3
-2004,Број,M,diseases_of_the_musculoskeletal,1
-2005,Број,M,diseases_of_the_musculoskeletal,5
-2006,Број,M,diseases_of_the_musculoskeletal,1
-2007,Број,M,diseases_of_the_musculoskeletal,4
-2008,Број,M,diseases_of_the_musculoskeletal,3
-2009,Број,M,diseases_of_the_musculoskeletal,2
-2010,Број,M,diseases_of_the_musculoskeletal,3
-2011,Број,M,diseases_of_the_musculoskeletal,4
-2012,Број,M,diseases_of_the_musculoskeletal,4
-2013,Број,M,diseases_of_the_musculoskeletal,9
-2014,Број,M,diseases_of_the_musculoskeletal,8
-2015,Број,M,diseases_of_the_musculoskeletal,12
-2016,Број,M,diseases_of_the_musculoskeletal,6
-2017,Број,M,diseases_of_the_musculoskeletal,8
-2018,Број,M,diseases_of_the_musculoskeletal,4
-2019,Број,M,diseases_of_the_musculoskeletal,4
-2020,Број,M,diseases_of_the_musculoskeletal,7
-2021,Број,M,diseases_of_the_musculoskeletal,5
-2003,Број,M,diseases_of_the_genitourinary,123
-2004,Број,M,diseases_of_the_genitourinary,113
-2005,Број,M,diseases_of_the_genitourinary,160
-2006,Број,M,diseases_of_the_genitourinary,152
-2007,Број,M,diseases_of_the_genitourinary,163
-2008,Број,M,diseases_of_the_genitourinary,155
-2009,Број,M,diseases_of_the_genitourinary,139
-2010,Број,M,diseases_of_the_genitourinary,140
-2011,Број,M,diseases_of_the_genitourinary,101
-2012,Број,M,diseases_of_the_genitourinary,116
-2013,Број,M,diseases_of_the_genitourinary,121
-2014,Број,M,diseases_of_the_genitourinary,73
-2015,Број,M,diseases_of_the_genitourinary,93
-2016,Број,M,diseases_of_the_genitourinary,117
-2017,Број,M,diseases_of_the_genitourinary,96
-2018,Број,M,diseases_of_the_genitourinary,117
-2019,Број,M,diseases_of_the_genitourinary,104
-2020,Број,M,diseases_of_the_genitourinary,113
-2021,Број,M,diseases_of_the_genitourinary,107
-2003,Број,M,certain_conditions_originating,23
-2004,Број,M,certain_conditions_originating,28
-2005,Број,M,certain_conditions_originating,17
-2006,Број,M,certain_conditions_originating,26
-2007,Број,M,certain_conditions_originating,15
-2008,Број,M,certain_conditions_originating,12
-2009,Број,M,certain_conditions_originating,22
-2010,Број,M,certain_conditions_originating,13
-2011,Број,M,certain_conditions_originating,20
-2012,Број,M,certain_conditions_originating,18
-2013,Број,M,certain_conditions_originating,13
-2014,Број,M,certain_conditions_originating,7
-2015,Број,M,certain_conditions_originating,2
-2016,Број,M,certain_conditions_originating,13
-2017,Број,M,certain_conditions_originating,7
-2018,Број,M,certain_conditions_originating,3
-2019,Број,M,certain_conditions_originating,6
-2020,Број,M,certain_conditions_originating,16
-2021,Број,M,certain_conditions_originating,5
-2003,Број,M,congenital_malformations_deformations,7
-2004,Број,M,congenital_malformations_deformations,10
-2005,Број,M,congenital_malformations_deformations,6
-2006,Број,M,congenital_malformations_deformations,7
-2007,Број,M,congenital_malformations_deformations,8
-2008,Број,M,congenital_malformations_deformations,5
-2009,Број,M,congenital_malformations_deformations,7
-2010,Број,M,congenital_malformations_deformations,10
-2011,Број,M,congenital_malformations_deformations,7
-2012,Број,M,congenital_malformations_deformations,5
-2013,Број,M,congenital_malformations_deformations,7
-2014,Број,M,congenital_malformations_deformations,3
-2015,Број,M,congenital_malformations_deformations,3
-2016,Број,M,congenital_malformations_deformations,3
-2017,Број,M,congenital_malformations_deformations,4
-2018,Број,M,congenital_malformations_deformations,2
-2019,Број,M,congenital_malformations_deformations,0
-2020,Број,M,congenital_malformations_deformations,3
-2021,Број,M,congenital_malformations_deformations,5
-2003,Број,M,symptoms_signs_and_abnormal,821
-2004,Број,M,symptoms_signs_and_abnormal,726
-2005,Број,M,symptoms_signs_and_abnormal,659
-2006,Број,M,symptoms_signs_and_abnormal,627
-2007,Број,M,symptoms_signs_and_abnormal,638
-2008,Број,M,symptoms_signs_and_abnormal,496
-2009,Број,M,symptoms_signs_and_abnormal,485
-2010,Број,M,symptoms_signs_and_abnormal,446
-2011,Број,M,symptoms_signs_and_abnormal,302
-2012,Број,M,symptoms_signs_and_abnormal,277
-2013,Број,M,symptoms_signs_and_abnormal,643
-2014,Број,M,symptoms_signs_and_abnormal,718
-2015,Број,M,symptoms_signs_and_abnormal,780
-2016,Број,M,symptoms_signs_and_abnormal,598
-2017,Број,M,symptoms_signs_and_abnormal,720
-2018,Број,M,symptoms_signs_and_abnormal,844
-2019,Број,M,symptoms_signs_and_abnormal,1048
-2020,Број,M,symptoms_signs_and_abnormal,834
-2021,Број,M,symptoms_signs_and_abnormal,1187
-2003,Број,M,injuries_poisoning_and_consequences,444
-2004,Број,M,injuries_poisoning_and_consequences,411
-2005,Број,M,injuries_poisoning_and_consequences,463
-2006,Број,M,injuries_poisoning_and_consequences,466
-2007,Број,M,injuries_poisoning_and_consequences,488
-2008,Број,M,injuries_poisoning_and_consequences,451
-2009,Број,M,injuries_poisoning_and_consequences,424
-2010,Број,M,injuries_poisoning_and_consequences,405
-2011,Број,M,injuries_poisoning_and_consequences,482
-2012,Број,M,injuries_poisoning_and_consequences,420
-2013,Број,M,injuries_poisoning_and_consequences,377
-2014,Број,M,injuries_poisoning_and_consequences,412
-2015,Број,M,injuries_poisoning_and_consequences,417
-2016,Број,M,injuries_poisoning_and_consequences,373
-2017,Број,M,injuries_poisoning_and_consequences,349
-2018,Број,M,injuries_poisoning_and_consequences,370
-2019,Број,M,injuries_poisoning_and_consequences,340
-2020,Број,M,injuries_poisoning_and_consequences,304
-2021,Број,M,injuries_poisoning_and_consequences,334
-2003,Број,M,special_purpose_codes,0
-2004,Број,M,special_purpose_codes,0
-2005,Број,M,special_purpose_codes,0
-2006,Број,M,special_purpose_codes,0
-2007,Број,M,special_purpose_codes,0
-2008,Број,M,special_purpose_codes,0
-2009,Број,M,special_purpose_codes,0
-2010,Број,M,special_purpose_codes,0
-2011,Број,M,special_purpose_codes,0
-2012,Број,M,special_purpose_codes,0
-2013,Број,M,special_purpose_codes,0
-2014,Број,M,special_purpose_codes,0
-2015,Број,M,special_purpose_codes,0
-2016,Број,M,special_purpose_codes,0
-2017,Број,M,special_purpose_codes,0
-2018,Број,M,special_purpose_codes,0
-2019,Број,M,special_purpose_codes,0
-2020,Број,M,special_purpose_codes,1030
-2021,Број,M,special_purpose_codes,2213
-2003,Број,Ж,total,6184
-2004,Број,Ж,total,6347
-2005,Број,Ж,total,6563
-2006,Број,Ж,total,6328
-2007,Број,Ж,total,6844
-2008,Број,Ж,total,6443
-2009,Број,Ж,total,6676
-2010,Број,Ж,total,6582
-2011,Број,Ж,total,6657
-2012,Број,Ж,total,6732
-2013,Број,Ж,total,6741
-2014,Број,Ж,total,7023
-2015,Број,Ж,total,7419
-2016,Број,Ж,total,6772
-2017,Број,Ж,total,7300
-2018,Број,Ж,total,7314
-2019,Број,Ж,total,7328
-2020,Број,Ж,total,7969
-2021,Број,Ж,total,9059
-2003,Број,Ж,infectious_and_parasitic,30
-2004,Број,Ж,infectious_and_parasitic,49
-2005,Број,Ж,infectious_and_parasitic,50
-2006,Број,Ж,infectious_and_parasitic,38
-2007,Број,Ж,infectious_and_parasitic,33
-2008,Број,Ж,infectious_and_parasitic,46
-2009,Број,Ж,infectious_and_parasitic,43
-2010,Број,Ж,infectious_and_parasitic,37
-2011,Број,Ж,infectious_and_parasitic,38
-2012,Број,Ж,infectious_and_parasitic,66
-2013,Број,Ж,infectious_and_parasitic,47
-2014,Број,Ж,infectious_and_parasitic,56
-2015,Број,Ж,infectious_and_parasitic,67
-2016,Број,Ж,infectious_and_parasitic,83
-2017,Број,Ж,infectious_and_parasitic,62
-2018,Број,Ж,infectious_and_parasitic,75
-2019,Број,Ж,infectious_and_parasitic,81
-2020,Број,Ж,infectious_and_parasitic,75
-2021,Број,Ж,infectious_and_parasitic,54
-2003,Број,Ж,neoplasms,950
-2004,Број,Ж,neoplasms,928
-2005,Број,Ж,neoplasms,1072
-2006,Број,Ж,neoplasms,1015
-2007,Број,Ж,neoplasms,1109
-2008,Број,Ж,neoplasms,1075
-2009,Број,Ж,neoplasms,1161
-2010,Број,Ж,neoplasms,1105
-2011,Број,Ж,neoplasms,1118
-2012,Број,Ж,neoplasms,1183
-2013,Број,Ж,neoplasms,1231
-2014,Број,Ж,neoplasms,1353
-2015,Број,Ж,neoplasms,1355
-2016,Број,Ж,neoplasms,1209
-2017,Број,Ж,neoplasms,1268
-2018,Број,Ж,neoplasms,1209
-2019,Број,Ж,neoplasms,1186
-2020,Број,Ж,neoplasms,1097
-2021,Број,Ж,neoplasms,1065
-2003,Број,Ж,diseases_of_the_blood,2
-2004,Број,Ж,diseases_of_the_blood,11
-2005,Број,Ж,diseases_of_the_blood,10
-2006,Број,Ж,diseases_of_the_blood,4
-2007,Број,Ж,diseases_of_the_blood,10
-2008,Број,Ж,diseases_of_the_blood,5
-2009,Број,Ж,diseases_of_the_blood,9
-2010,Број,Ж,diseases_of_the_blood,10
-2011,Број,Ж,diseases_of_the_blood,10
-2012,Број,Ж,diseases_of_the_blood,6
-2013,Број,Ж,diseases_of_the_blood,8
-2014,Број,Ж,diseases_of_the_blood,8
-2015,Број,Ж,diseases_of_the_blood,10
-2016,Број,Ж,diseases_of_the_blood,15
-2017,Број,Ж,diseases_of_the_blood,17
-2018,Број,Ж,diseases_of_the_blood,18
-2019,Број,Ж,diseases_of_the_blood,16
-2020,Број,Ж,diseases_of_the_blood,15
-2021,Број,Ж,diseases_of_the_blood,15
-2003,Број,Ж,endocrine_metabolic_and_nutritional,109
-2004,Број,Ж,endocrine_metabolic_and_nutritional,92
-2005,Број,Ж,endocrine_metabolic_and_nutritional,441
-2006,Број,Ж,endocrine_metabolic_and_nutritional,484
-2007,Број,Ж,endocrine_metabolic_and_nutritional,442
-2008,Број,Ж,endocrine_metabolic_and_nutritional,454
-2009,Број,Ж,endocrine_metabolic_and_nutritional,530
-2010,Број,Ж,endocrine_metabolic_and_nutritional,402
-2011,Број,Ж,endocrine_metabolic_and_nutritional,397
-2012,Број,Ж,endocrine_metabolic_and_nutritional,350
-2013,Број,Ж,endocrine_metabolic_and_nutritional,459
-2014,Број,Ж,endocrine_metabolic_and_nutritional,501
-2015,Број,Ж,endocrine_metabolic_and_nutritional,400
-2016,Број,Ж,endocrine_metabolic_and_nutritional,378
-2017,Број,Ж,endocrine_metabolic_and_nutritional,452
-2018,Број,Ж,endocrine_metabolic_and_nutritional,458
-2019,Број,Ж,endocrine_metabolic_and_nutritional,343
-2020,Број,Ж,endocrine_metabolic_and_nutritional,485
-2021,Број,Ж,endocrine_metabolic_and_nutritional,534
-2003,Број,Ж,mental_and_behavioural_disorders,9
-2004,Број,Ж,mental_and_behavioural_disorders,12
-2005,Број,Ж,mental_and_behavioural_disorders,16
-2006,Број,Ж,mental_and_behavioural_disorders,15
-2007,Број,Ж,mental_and_behavioural_disorders,20
-2008,Број,Ж,mental_and_behavioural_disorders,19
-2009,Број,Ж,mental_and_behavioural_disorders,30
-2010,Број,Ж,mental_and_behavioural_disorders,11
-2011,Број,Ж,mental_and_behavioural_disorders,14
-2012,Број,Ж,mental_and_behavioural_disorders,12
-2013,Број,Ж,mental_and_behavioural_disorders,31
-2014,Број,Ж,mental_and_behavioural_disorders,21
-2015,Број,Ж,mental_and_behavioural_disorders,28
-2016,Број,Ж,mental_and_behavioural_disorders,26
-2017,Број,Ж,mental_and_behavioural_disorders,43
-2018,Број,Ж,mental_and_behavioural_disorders,30
-2019,Број,Ж,mental_and_behavioural_disorders,22
-2020,Број,Ж,mental_and_behavioural_disorders,29
-2021,Број,Ж,mental_and_behavioural_disorders,44
-2003,Број,Ж,diseases_of_the_nervous,26
-2004,Број,Ж,diseases_of_the_nervous,38
-2005,Број,Ж,diseases_of_the_nervous,84
-2006,Број,Ж,diseases_of_the_nervous,73
-2007,Број,Ж,diseases_of_the_nervous,70
-2008,Број,Ж,diseases_of_the_nervous,55
-2009,Број,Ж,diseases_of_the_nervous,55
-2010,Број,Ж,diseases_of_the_nervous,76
-2011,Број,Ж,diseases_of_the_nervous,97
-2012,Број,Ж,diseases_of_the_nervous,102
-2013,Број,Ж,diseases_of_the_nervous,87
-2014,Број,Ж,diseases_of_the_nervous,89
-2015,Број,Ж,diseases_of_the_nervous,106
-2016,Број,Ж,diseases_of_the_nervous,75
-2017,Број,Ж,diseases_of_the_nervous,95
-2018,Број,Ж,diseases_of_the_nervous,87
-2019,Број,Ж,diseases_of_the_nervous,81
-2020,Број,Ж,diseases_of_the_nervous,97
-2021,Број,Ж,diseases_of_the_nervous,73
-2003,Број,Ж,diseases_of_the_eye,0
-2004,Број,Ж,diseases_of_the_eye,0
-2005,Број,Ж,diseases_of_the_eye,0
-2006,Број,Ж,diseases_of_the_eye,0
-2007,Број,Ж,diseases_of_the_eye,0
-2008,Број,Ж,diseases_of_the_eye,0
-2009,Број,Ж,diseases_of_the_eye,0
-2010,Број,Ж,diseases_of_the_eye,0
-2011,Број,Ж,diseases_of_the_eye,0
-2012,Број,Ж,diseases_of_the_eye,0
-2013,Број,Ж,diseases_of_the_eye,0
-2014,Број,Ж,diseases_of_the_eye,0
-2015,Број,Ж,diseases_of_the_eye,0
-2016,Број,Ж,diseases_of_the_eye,0
-2017,Број,Ж,diseases_of_the_eye,0
-2018,Број,Ж,diseases_of_the_eye,0
-2019,Број,Ж,diseases_of_the_eye,0
-2020,Број,Ж,diseases_of_the_eye,0
-2021,Број,Ж,diseases_of_the_eye,0
-2003,Број,Ж,diseases_of_the_ear,0
-2004,Број,Ж,diseases_of_the_ear,0
-2005,Број,Ж,diseases_of_the_ear,0
-2006,Број,Ж,diseases_of_the_ear,0
-2007,Број,Ж,diseases_of_the_ear,0
-2008,Број,Ж,diseases_of_the_ear,0
-2009,Број,Ж,diseases_of_the_ear,0
-2010,Број,Ж,diseases_of_the_ear,0
-2011,Број,Ж,diseases_of_the_ear,0
-2012,Број,Ж,diseases_of_the_ear,0
-2013,Број,Ж,diseases_of_the_ear,0
-2014,Број,Ж,diseases_of_the_ear,0
-2015,Број,Ж,diseases_of_the_ear,0
-2016,Број,Ж,diseases_of_the_ear,0
-2017,Број,Ж,diseases_of_the_ear,0
-2018,Број,Ж,diseases_of_the_ear,0
-2019,Број,Ж,diseases_of_the_ear,0
-2020,Број,Ж,diseases_of_the_ear,0
-2021,Број,Ж,diseases_of_the_ear,0
-2003,Број,Ж,diseases_of_the_circulatory,3748
-2004,Број,Ж,diseases_of_the_circulatory,3957
-2005,Број,Ж,diseases_of_the_circulatory,3677
-2006,Број,Ж,diseases_of_the_circulatory,3458
-2007,Број,Ж,diseases_of_the_circulatory,3864
-2008,Број,Ж,diseases_of_the_circulatory,3756
-2009,Број,Ж,diseases_of_the_circulatory,3743
-2010,Број,Ж,diseases_of_the_circulatory,3926
-2011,Број,Ж,diseases_of_the_circulatory,4009
-2012,Број,Ж,diseases_of_the_circulatory,4109
-2013,Број,Ж,diseases_of_the_circulatory,3625
-2014,Број,Ж,diseases_of_the_circulatory,3635
-2015,Број,Ж,diseases_of_the_circulatory,3964
-2016,Број,Ж,diseases_of_the_circulatory,3743
-2017,Број,Ж,diseases_of_the_circulatory,3960
-2018,Број,Ж,diseases_of_the_circulatory,3905
-2019,Број,Ж,diseases_of_the_circulatory,4033
-2020,Број,Ж,diseases_of_the_circulatory,4150
-2021,Број,Ж,diseases_of_the_circulatory,3956
-2003,Број,Ж,diseases_of_the_respiratory,120
-2004,Број,Ж,diseases_of_the_respiratory,134
-2005,Број,Ж,diseases_of_the_respiratory,220
-2006,Број,Ж,diseases_of_the_respiratory,228
-2007,Број,Ж,diseases_of_the_respiratory,211
-2008,Број,Ж,diseases_of_the_respiratory,173
-2009,Број,Ж,diseases_of_the_respiratory,176
-2010,Број,Ж,diseases_of_the_respiratory,173
-2011,Број,Ж,diseases_of_the_respiratory,233
-2012,Број,Ж,diseases_of_the_respiratory,161
-2013,Број,Ж,diseases_of_the_respiratory,222
-2014,Број,Ж,diseases_of_the_respiratory,209
-2015,Број,Ж,diseases_of_the_respiratory,248
-2016,Број,Ж,diseases_of_the_respiratory,204
-2017,Број,Ж,diseases_of_the_respiratory,243
-2018,Број,Ж,diseases_of_the_respiratory,282
-2019,Број,Ж,diseases_of_the_respiratory,258
-2020,Број,Ж,diseases_of_the_respiratory,254
-2021,Број,Ж,diseases_of_the_respiratory,271
-2003,Број,Ж,diseases_of_the_digestive,136
-2004,Број,Ж,diseases_of_the_digestive,141
-2005,Број,Ж,diseases_of_the_digestive,124
-2006,Број,Ж,diseases_of_the_digestive,146
-2007,Број,Ж,diseases_of_the_digestive,147
-2008,Број,Ж,diseases_of_the_digestive,131
-2009,Број,Ж,diseases_of_the_digestive,148
-2010,Број,Ж,diseases_of_the_digestive,156
-2011,Број,Ж,diseases_of_the_digestive,136
-2012,Број,Ж,diseases_of_the_digestive,145
-2013,Број,Ж,diseases_of_the_digestive,183
-2014,Број,Ж,diseases_of_the_digestive,188
-2015,Број,Ж,diseases_of_the_digestive,191
-2016,Број,Ж,diseases_of_the_digestive,185
-2017,Број,Ж,diseases_of_the_digestive,184
-2018,Број,Ж,diseases_of_the_digestive,191
-2019,Број,Ж,diseases_of_the_digestive,180
-2020,Број,Ж,diseases_of_the_digestive,169
-2021,Број,Ж,diseases_of_the_digestive,156
-2003,Број,Ж,diseases_of_the_skin,0
-2004,Број,Ж,diseases_of_the_skin,3
-2005,Број,Ж,diseases_of_the_skin,0
-2006,Број,Ж,diseases_of_the_skin,1
-2007,Број,Ж,diseases_of_the_skin,2
-2008,Број,Ж,diseases_of_the_skin,2
-2009,Број,Ж,diseases_of_the_skin,2
-2010,Број,Ж,diseases_of_the_skin,2
-2011,Број,Ж,diseases_of_the_skin,1
-2012,Број,Ж,diseases_of_the_skin,1
-2013,Број,Ж,diseases_of_the_skin,11
-2014,Број,Ж,diseases_of_the_skin,9
-2015,Број,Ж,diseases_of_the_skin,15
-2016,Број,Ж,diseases_of_the_skin,14
-2017,Број,Ж,diseases_of_the_skin,19
-2018,Број,Ж,diseases_of_the_skin,10
-2019,Број,Ж,diseases_of_the_skin,16
-2020,Број,Ж,diseases_of_the_skin,17
-2021,Број,Ж,diseases_of_the_skin,21
-2003,Број,Ж,diseases_of_the_musculoskeletal,3
-2004,Број,Ж,diseases_of_the_musculoskeletal,2
-2005,Број,Ж,diseases_of_the_musculoskeletal,7
-2006,Број,Ж,diseases_of_the_musculoskeletal,9
-2007,Број,Ж,diseases_of_the_musculoskeletal,9
-2008,Број,Ж,diseases_of_the_musculoskeletal,14
-2009,Број,Ж,diseases_of_the_musculoskeletal,11
-2010,Број,Ж,diseases_of_the_musculoskeletal,8
-2011,Број,Ж,diseases_of_the_musculoskeletal,14
-2012,Број,Ж,diseases_of_the_musculoskeletal,12
-2013,Број,Ж,diseases_of_the_musculoskeletal,19
-2014,Број,Ж,diseases_of_the_musculoskeletal,14
-2015,Број,Ж,diseases_of_the_musculoskeletal,18
-2016,Број,Ж,diseases_of_the_musculoskeletal,13
-2017,Број,Ж,diseases_of_the_musculoskeletal,9
-2018,Број,Ж,diseases_of_the_musculoskeletal,17
-2019,Број,Ж,diseases_of_the_musculoskeletal,9
-2020,Број,Ж,diseases_of_the_musculoskeletal,21
-2021,Број,Ж,diseases_of_the_musculoskeletal,3
-2003,Број,Ж,diseases_of_the_genitourinary,99
-2004,Број,Ж,diseases_of_the_genitourinary,92
-2005,Број,Ж,diseases_of_the_genitourinary,97
-2006,Број,Ж,diseases_of_the_genitourinary,114
-2007,Број,Ж,diseases_of_the_genitourinary,112
-2008,Број,Ж,diseases_of_the_genitourinary,113
-2009,Број,Ж,diseases_of_the_genitourinary,118
-2010,Број,Ж,diseases_of_the_genitourinary,115
-2011,Број,Ж,diseases_of_the_genitourinary,74
-2012,Број,Ж,diseases_of_the_genitourinary,120
-2013,Број,Ж,diseases_of_the_genitourinary,92
-2014,Број,Ж,diseases_of_the_genitourinary,77
-2015,Број,Ж,diseases_of_the_genitourinary,86
-2016,Број,Ж,diseases_of_the_genitourinary,101
-2017,Број,Ж,diseases_of_the_genitourinary,97
-2018,Број,Ж,diseases_of_the_genitourinary,103
-2019,Број,Ж,diseases_of_the_genitourinary,91
-2020,Број,Ж,diseases_of_the_genitourinary,108
-2021,Број,Ж,diseases_of_the_genitourinary,90
-2003,Број,Ж,pregnancy_childbirth_and_the,1
-2004,Број,Ж,pregnancy_childbirth_and_the,0
-2005,Број,Ж,pregnancy_childbirth_and_the,2
-2006,Број,Ж,pregnancy_childbirth_and_the,2
-2007,Број,Ж,pregnancy_childbirth_and_the,1
-2008,Број,Ж,pregnancy_childbirth_and_the,1
-2009,Број,Ж,pregnancy_childbirth_and_the,0
-2010,Број,Ж,pregnancy_childbirth_and_the,1
-2011,Број,Ж,pregnancy_childbirth_and_the,1
-2012,Број,Ж,pregnancy_childbirth_and_the,0
-2013,Број,Ж,pregnancy_childbirth_and_the,0
-2014,Број,Ж,pregnancy_childbirth_and_the,0
-2015,Број,Ж,pregnancy_childbirth_and_the,1
-2016,Број,Ж,pregnancy_childbirth_and_the,1
-2017,Број,Ж,pregnancy_childbirth_and_the,0
-2018,Број,Ж,pregnancy_childbirth_and_the,1
-2019,Број,Ж,pregnancy_childbirth_and_the,0
-2020,Број,Ж,pregnancy_childbirth_and_the,3
-2021,Број,Ж,pregnancy_childbirth_and_the,0
-2003,Број,Ж,certain_conditions_originating,21
-2004,Број,Ж,certain_conditions_originating,10
-2005,Број,Ж,certain_conditions_originating,10
-2006,Број,Ж,certain_conditions_originating,12
-2007,Број,Ж,certain_conditions_originating,12
-2008,Број,Ж,certain_conditions_originating,8
-2009,Број,Ж,certain_conditions_originating,12
-2010,Број,Ж,certain_conditions_originating,16
-2011,Број,Ж,certain_conditions_originating,16
-2012,Број,Ж,certain_conditions_originating,11
-2013,Број,Ж,certain_conditions_originating,8
-2014,Број,Ж,certain_conditions_originating,9
-2015,Број,Ж,certain_conditions_originating,8
-2016,Број,Ж,certain_conditions_originating,5
-2017,Број,Ж,certain_conditions_originating,10
-2018,Број,Ж,certain_conditions_originating,7
-2019,Број,Ж,certain_conditions_originating,5
-2020,Број,Ж,certain_conditions_originating,18
-2021,Број,Ж,certain_conditions_originating,4
-2003,Број,Ж,congenital_malformations_deformations,3
-2004,Број,Ж,congenital_malformations_deformations,1
-2005,Број,Ж,congenital_malformations_deformations,8
-2006,Број,Ж,congenital_malformations_deformations,7
-2007,Број,Ж,congenital_malformations_deformations,6
-2008,Број,Ж,congenital_malformations_deformations,10
-2009,Број,Ж,congenital_malformations_deformations,13
-2010,Број,Ж,congenital_malformations_deformations,7
-2011,Број,Ж,congenital_malformations_deformations,2
-2012,Број,Ж,congenital_malformations_deformations,1
-2013,Број,Ж,congenital_malformations_deformations,3
-2014,Број,Ж,congenital_malformations_deformations,7
-2015,Број,Ж,congenital_malformations_deformations,4
-2016,Број,Ж,congenital_malformations_deformations,2
-2017,Број,Ж,congenital_malformations_deformations,1
-2018,Број,Ж,congenital_malformations_deformations,3
-2019,Број,Ж,congenital_malformations_deformations,4
-2020,Број,Ж,congenital_malformations_deformations,3
-2021,Број,Ж,congenital_malformations_deformations,0
-2003,Број,Ж,symptoms_signs_and_abnormal,791
-2004,Број,Ж,symptoms_signs_and_abnormal,736
-2005,Број,Ж,symptoms_signs_and_abnormal,590
-2006,Број,Ж,symptoms_signs_and_abnormal,573
-2007,Број,Ж,symptoms_signs_and_abnormal,650
-2008,Број,Ж,symptoms_signs_and_abnormal,449
-2009,Број,Ж,symptoms_signs_and_abnormal,468
-2010,Број,Ж,symptoms_signs_and_abnormal,431
-2011,Број,Ж,symptoms_signs_and_abnormal,379
-2012,Број,Ж,symptoms_signs_and_abnormal,335
-2013,Број,Ж,symptoms_signs_and_abnormal,588
-2014,Број,Ж,symptoms_signs_and_abnormal,727
-2015,Број,Ж,symptoms_signs_and_abnormal,776
-2016,Број,Ж,symptoms_signs_and_abnormal,600
-2017,Број,Ж,symptoms_signs_and_abnormal,715
-2018,Број,Ж,symptoms_signs_and_abnormal,806
-2019,Број,Ж,symptoms_signs_and_abnormal,913
-2020,Број,Ж,symptoms_signs_and_abnormal,765
-2021,Број,Ж,symptoms_signs_and_abnormal,1026
-2003,Број,Ж,injuries_poisoning_and_consequences,136
-2004,Број,Ж,injuries_poisoning_and_consequences,141
-2005,Број,Ж,injuries_poisoning_and_consequences,155
-2006,Број,Ж,injuries_poisoning_and_consequences,149
-2007,Број,Ж,injuries_poisoning_and_consequences,146
-2008,Број,Ж,injuries_poisoning_and_consequences,133
-2009,Број,Ж,injuries_poisoning_and_consequences,157
-2010,Број,Ж,injuries_poisoning_and_consequences,106
-2011,Број,Ж,injuries_poisoning_and_consequences,118
-2012,Број,Ж,injuries_poisoning_and_consequences,118
-2013,Број,Ж,injuries_poisoning_and_consequences,127
-2014,Број,Ж,injuries_poisoning_and_consequences,120
-2015,Број,Ж,injuries_poisoning_and_consequences,142
-2016,Број,Ж,injuries_poisoning_and_consequences,118
-2017,Број,Ж,injuries_poisoning_and_consequences,125
-2018,Број,Ж,injuries_poisoning_and_consequences,112
-2019,Број,Ж,injuries_poisoning_and_consequences,90
-2020,Број,Ж,injuries_poisoning_and_consequences,101
-2021,Број,Ж,injuries_poisoning_and_consequences,114
-2003,Број,Ж,special_purpose_codes,0
-2004,Број,Ж,special_purpose_codes,0
-2005,Број,Ж,special_purpose_codes,0
-2006,Број,Ж,special_purpose_codes,0
-2007,Број,Ж,special_purpose_codes,0
-2008,Број,Ж,special_purpose_codes,0
-2009,Број,Ж,special_purpose_codes,0
-2010,Број,Ж,special_purpose_codes,0
-2011,Број,Ж,special_purpose_codes,0
-2012,Број,Ж,special_purpose_codes,0
-2013,Број,Ж,special_purpose_codes,0
-2014,Број,Ж,special_purpose_codes,0
-2015,Број,Ж,special_purpose_codes,0
-2016,Број,Ж,special_purpose_codes,0
-2017,Број,Ж,special_purpose_codes,0
-2018,Број,Ж,special_purpose_codes,0
-2019,Број,Ж,special_purpose_codes,0
-2020,Број,Ж,special_purpose_codes,562
-2021,Број,Ж,special_purpose_codes,1633
+Year,UNIT_MEASURE,Пол,Узрок смрти (према шифрама болести по МКБ-10),Value
+2003,Број,Укупно,Укупно,12988
+2004,Број,Укупно,Укупно,13082
+2005,Број,Укупно,Укупно,13802
+2006,Број,Укупно,Укупно,13232
+2007,Број,Укупно,Укупно,14146
+2008,Број,Укупно,Укупно,13501
+2009,Број,Укупно,Укупно,13775
+2010,Број,Укупно,Укупно,13517
+2011,Број,Укупно,Укупно,13658
+2012,Број,Укупно,Укупно,13796
+2013,Број,Укупно,Укупно,13978
+2014,Број,Укупно,Укупно,14409
+2015,Број,Укупно,Укупно,15059
+2016,Број,Укупно,Укупно,13970
+2017,Број,Укупно,Укупно,14663
+2018,Број,Укупно,Укупно,14763
+2019,Број,Укупно,Укупно,15081
+2020,Број,Укупно,Укупно,16582
+2021,Број,Укупно,Укупно,19002
+2003,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,89
+2004,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,124
+2005,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,128
+2006,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,111
+2007,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,103
+2008,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,118
+2009,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,118
+2010,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,109
+2011,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,117
+2012,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,135
+2013,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,120
+2014,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,136
+2015,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,159
+2016,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,187
+2017,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,147
+2018,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,184
+2019,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,200
+2020,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,162
+2021,Број,Укупно,(А00-Б99) Инфективне и паразитске болести,140
+2003,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2411
+2004,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2330
+2005,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2653
+2006,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2551
+2007,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2733
+2008,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2733
+2009,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2822
+2010,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2700
+2011,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2802
+2012,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2937
+2013,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",3090
+2014,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",3154
+2015,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",3138
+2016,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2948
+2017,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",3027
+2018,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2938
+2019,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2891
+2020,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2719
+2021,Број,Укупно,"(Ц00-Ц97,Д00-Д48) Неоплазме",2623
+2003,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2004,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,13
+2005,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2006,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,6
+2007,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,16
+2008,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2009,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,13
+2010,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2011,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,17
+2012,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2013,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,16
+2014,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2015,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,19
+2016,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,24
+2017,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,20
+2018,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,36
+2019,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,24
+2020,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,27
+2021,Број,Укупно,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,22
+2003,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",180
+2004,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",160
+2005,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",727
+2006,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",790
+2007,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",791
+2008,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",764
+2009,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",891
+2010,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",691
+2011,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",654
+2012,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",561
+2013,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",800
+2014,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",912
+2015,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",762
+2016,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",691
+2017,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",825
+2018,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",844
+2019,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",604
+2020,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",825
+2021,Број,Укупно,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",921
+2003,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,33
+2004,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,58
+2005,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,80
+2006,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,82
+2007,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,107
+2008,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,101
+2009,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,122
+2010,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,84
+2011,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,72
+2012,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,58
+2013,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,95
+2014,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,84
+2015,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,72
+2016,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,98
+2017,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,113
+2018,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,85
+2019,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,72
+2020,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,72
+2021,Број,Укупно,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,107
+2003,Број,Укупно,(Г00-Г99) Болести нервног система,65
+2004,Број,Укупно,(Г00-Г99) Болести нервног система,91
+2005,Број,Укупно,(Г00-Г99) Болести нервног система,170
+2006,Број,Укупно,(Г00-Г99) Болести нервног система,184
+2007,Број,Укупно,(Г00-Г99) Болести нервног система,155
+2008,Број,Укупно,(Г00-Г99) Болести нервног система,146
+2009,Број,Укупно,(Г00-Г99) Болести нервног система,133
+2010,Број,Укупно,(Г00-Г99) Болести нервног система,152
+2011,Број,Укупно,(Г00-Г99) Болести нервног система,209
+2012,Број,Укупно,(Г00-Г99) Болести нервног система,207
+2013,Број,Укупно,(Г00-Г99) Болести нервног система,185
+2014,Број,Укупно,(Г00-Г99) Болести нервног система,186
+2015,Број,Укупно,(Г00-Г99) Болести нервног система,212
+2016,Број,Укупно,(Г00-Г99) Болести нервног система,171
+2017,Број,Укупно,(Г00-Г99) Болести нервног система,197
+2018,Број,Укупно,(Г00-Г99) Болести нервног система,169
+2019,Број,Укупно,(Г00-Г99) Болести нервног система,165
+2020,Број,Укупно,(Г00-Г99) Болести нервног система,188
+2021,Број,Укупно,(Г00-Г99) Болести нервног система,173
+2003,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2004,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2005,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2006,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2007,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2008,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2009,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2010,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2011,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2012,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2013,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2014,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2015,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2016,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2017,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2018,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2019,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2020,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2021,Број,Укупно,(Х00-Х59) Болести ока и припојка ока,0
+2003,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2004,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2005,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,1
+2006,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2007,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,1
+2008,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2009,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2010,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2011,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2012,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2013,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2014,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2015,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2016,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2017,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2018,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2019,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2020,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2021,Број,Укупно,(Х60-Х93) Болести ува и мастоидног наставка,0
+2003,Број,Укупно,(И00-И99) Болести циркулаторног система,7071
+2004,Број,Укупно,(И00-И99) Болести циркулаторног система,7340
+2005,Број,Укупно,(И00-И99) Болести циркулаторног система,7002
+2006,Број,Укупно,(И00-И99) Болести циркулаторног система,6463
+2007,Број,Укупно,(И00-И99) Болести циркулаторног система,7097
+2008,Број,Укупно,(И00-И99) Болести циркулаторног система,6965
+2009,Број,Укупно,(И00-И99) Болести циркулаторног система,7014
+2010,Број,Укупно,(И00-И99) Болести циркулаторног система,7211
+2011,Број,Укупно,(И00-И99) Болести циркулаторног система,7339
+2012,Број,Укупно,(И00-И99) Болести циркулаторног система,7625
+2013,Број,Укупно,(И00-И99) Болести циркулаторног система,6687
+2014,Број,Укупно,(И00-И99) Болести циркулаторног система,6777
+2015,Број,Укупно,(И00-И99) Болести циркулаторног система,7275
+2016,Број,Укупно,(И00-И99) Болести циркулаторног система,6920
+2017,Број,Укупно,(И00-И99) Болести циркулаторног система,7180
+2018,Број,Укупно,(И00-И99) Болести циркулаторног система,6989
+2019,Број,Укупно,(И00-И99) Болести циркулаторног система,7473
+2020,Број,Укупно,(И00-И99) Болести циркулаторног система,7602
+2021,Број,Укупно,(И00-И99) Болести циркулаторног система,7217
+2003,Број,Укупно,(Ј00-Ј99) Болести респираторног система,304
+2004,Број,Укупно,(Ј00-Ј99) Болести респираторног система,345
+2005,Број,Укупно,(Ј00-Ј99) Болести респираторног система,504
+2006,Број,Укупно,(Ј00-Ј99) Болести респираторног система,520
+2007,Број,Укупно,(Ј00-Ј99) Болести респираторног система,493
+2008,Број,Укупно,(Ј00-Ј99) Болести респираторног система,449
+2009,Број,Укупно,(Ј00-Ј99) Болести респираторног система,430
+2010,Број,Укупно,(Ј00-Ј99) Болести респираторног система,450
+2011,Број,Укупно,(Ј00-Ј99) Болести респираторног система,536
+2012,Број,Укупно,(Ј00-Ј99) Болести респираторног система,424
+2013,Број,Укупно,(Ј00-Ј99) Болести респираторног система,556
+2014,Број,Укупно,(Ј00-Ј99) Болести респираторног система,524
+2015,Број,Укупно,(Ј00-Ј99) Болести респираторног система,618
+2016,Број,Укупно,(Ј00-Ј99) Болести респираторног система,510
+2017,Број,Укупно,(Ј00-Ј99) Болести респираторног система,576
+2018,Број,Укупно,(Ј00-Ј99) Болести респираторног система,626
+2019,Број,Укупно,(Ј00-Ј99) Болести респираторног система,596
+2020,Број,Укупно,(Ј00-Ј99) Болести респираторног система,631
+2021,Број,Укупно,(Ј00-Ј99) Болести респираторног система,640
+2003,Број,Укупно,(К00-К93) Болести дигестивног система,352
+2004,Број,Укупно,(К00-К93) Болести дигестивног система,347
+2005,Број,Укупно,(К00-К93) Болести дигестивног система,343
+2006,Број,Укупно,(К00-К93) Болести дигестивног система,379
+2007,Број,Укупно,(К00-К93) Болести дигестивног система,396
+2008,Број,Укупно,(К00-К93) Болести дигестивног система,366
+2009,Број,Укупно,(К00-К93) Болести дигестивног система,371
+2010,Број,Укупно,(К00-К93) Болести дигестивног система,398
+2011,Број,Укупно,(К00-К93) Болести дигестивног система,391
+2012,Број,Укупно,(К00-К93) Болести дигестивног система,393
+2013,Број,Укупно,(К00-К93) Болести дигестивног система,402
+2014,Број,Укупно,(К00-К93) Болести дигестивног система,429
+2015,Број,Укупно,(К00-К93) Болести дигестивног система,440
+2016,Број,Укупно,(К00-К93) Болести дигестивног система,450
+2017,Број,Укупно,(К00-К93) Болести дигестивног система,413
+2018,Број,Укупно,(К00-К93) Болести дигестивног система,481
+2019,Број,Укупно,(К00-К93) Болести дигестивног система,419
+2020,Број,Укупно,(К00-К93) Болести дигестивног система,438
+2021,Број,Укупно,(К00-К93) Болести дигестивног система,400
+2003,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,0
+2004,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,3
+2005,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,0
+2006,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,1
+2007,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,2
+2008,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,2
+2009,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,3
+2010,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,6
+2011,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,1
+2012,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,4
+2013,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,20
+2014,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,22
+2015,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,22
+2016,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,21
+2017,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,24
+2018,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,22
+2019,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,23
+2020,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,30
+2021,Број,Укупно,(Л00-Л99) Болести коже и поткожног ткива,33
+2003,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,6
+2004,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2005,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,12
+2006,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,10
+2007,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,13
+2008,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,17
+2009,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,13
+2010,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,11
+2011,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,18
+2012,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,16
+2013,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,28
+2014,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,22
+2015,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,30
+2016,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,19
+2017,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,17
+2018,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,21
+2019,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,13
+2020,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,28
+2021,Број,Укупно,(М00-М99) Болести мишићно-коштаног система и везивног ткива,8
+2003,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,222
+2004,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,205
+2005,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,257
+2006,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,266
+2007,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,275
+2008,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,268
+2009,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,257
+2010,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,255
+2011,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,175
+2012,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,236
+2013,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,213
+2014,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,150
+2015,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,179
+2016,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,218
+2017,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,193
+2018,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,220
+2019,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,195
+2020,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,221
+2021,Број,Укупно,(Н00-Н99) Болести генитоуринарног система,197
+2003,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2004,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2005,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",2
+2006,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",2
+2007,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2008,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2009,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2010,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2011,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2012,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2013,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2014,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2015,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2016,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2017,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2018,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2019,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2020,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",3
+2021,Број,Укупно,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2003,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,44
+2004,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,38
+2005,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,27
+2006,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,38
+2007,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,27
+2008,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,20
+2009,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,34
+2010,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,29
+2011,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,36
+2012,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,29
+2013,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,21
+2014,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,16
+2015,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,10
+2016,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,18
+2017,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,17
+2018,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,10
+2019,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,11
+2020,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,34
+2021,Број,Укупно,(П00-П96) Одређена стања настала у перинаталном периоду,9
+2003,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2004,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",11
+2005,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",14
+2006,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",14
+2007,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",14
+2008,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",15
+2009,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",20
+2010,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",17
+2011,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",9
+2012,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",6
+2013,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2014,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2015,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2016,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2017,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2018,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2019,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",4
+2020,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",6
+2021,Број,Укупно,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2003,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1612
+2004,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1462
+2005,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1249
+2006,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1200
+2007,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1288
+2008,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",945
+2009,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",953
+2010,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",877
+2011,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",681
+2012,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",612
+2013,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1231
+2014,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1445
+2015,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1556
+2016,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1198
+2017,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1435
+2018,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1650
+2019,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1961
+2020,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1599
+2021,Број,Укупно,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",2213
+2003,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",580
+2004,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",552
+2005,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",618
+2006,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",615
+2007,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",634
+2008,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",584
+2009,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",581
+2010,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",511
+2011,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",600
+2012,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",538
+2013,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",504
+2014,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",532
+2015,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",559
+2016,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",491
+2017,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",474
+2018,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",482
+2019,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",430
+2020,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",405
+2021,Број,Укупно,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",448
+2003,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2004,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2005,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2006,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2007,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2008,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2009,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2010,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2011,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2012,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2013,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2014,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2015,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2016,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2017,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2018,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2019,Број,Укупно,(У00-У85) Шифре за посебне намјене,0
+2020,Број,Укупно,(У00-У85) Шифре за посебне намјене,1592
+2021,Број,Укупно,(У00-У85) Шифре за посебне намјене,3846
+2003,Број,M,Укупно,6804
+2004,Број,M,Укупно,6735
+2005,Број,M,Укупно,7239
+2006,Број,M,Укупно,6904
+2007,Број,M,Укупно,7302
+2008,Број,M,Укупно,7058
+2009,Број,M,Укупно,7099
+2010,Број,M,Укупно,6935
+2011,Број,M,Укупно,7001
+2012,Број,M,Укупно,7064
+2013,Број,M,Укупно,7237
+2014,Број,M,Укупно,7386
+2015,Број,M,Укупно,7640
+2016,Број,M,Укупно,7198
+2017,Број,M,Укупно,7363
+2018,Број,M,Укупно,7449
+2019,Број,M,Укупно,7753
+2020,Број,M,Укупно,8613
+2021,Број,M,Укупно,9943
+2003,Број,M,(А00-Б99) Инфективне и паразитске болести,59
+2004,Број,M,(А00-Б99) Инфективне и паразитске болести,75
+2005,Број,M,(А00-Б99) Инфективне и паразитске болести,78
+2006,Број,M,(А00-Б99) Инфективне и паразитске болести,73
+2007,Број,M,(А00-Б99) Инфективне и паразитске болести,70
+2008,Број,M,(А00-Б99) Инфективне и паразитске болести,72
+2009,Број,M,(А00-Б99) Инфективне и паразитске болести,75
+2010,Број,M,(А00-Б99) Инфективне и паразитске болести,72
+2011,Број,M,(А00-Б99) Инфективне и паразитске болести,79
+2012,Број,M,(А00-Б99) Инфективне и паразитске болести,69
+2013,Број,M,(А00-Б99) Инфективне и паразитске болести,73
+2014,Број,M,(А00-Б99) Инфективне и паразитске болести,80
+2015,Број,M,(А00-Б99) Инфективне и паразитске болести,92
+2016,Број,M,(А00-Б99) Инфективне и паразитске болести,104
+2017,Број,M,(А00-Б99) Инфективне и паразитске болести,85
+2018,Број,M,(А00-Б99) Инфективне и паразитске болести,109
+2019,Број,M,(А00-Б99) Инфективне и паразитске болести,119
+2020,Број,M,(А00-Б99) Инфективне и паразитске болести,87
+2021,Број,M,(А00-Б99) Инфективне и паразитске болести,86
+2003,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1461
+2004,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1402
+2005,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1581
+2006,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1536
+2007,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1624
+2008,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1658
+2009,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1661
+2010,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1595
+2011,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1684
+2012,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1754
+2013,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1859
+2014,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1801
+2015,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1783
+2016,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1739
+2017,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1759
+2018,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1729
+2019,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1705
+2020,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1622
+2021,Број,M,"(Ц00-Ц97,Д00-Д48) Неоплазме",1558
+2003,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,6
+2004,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,2
+2005,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,5
+2006,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,2
+2007,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,6
+2008,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,3
+2009,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,4
+2010,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,5
+2011,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,7
+2012,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,9
+2013,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2014,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,2
+2015,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,9
+2016,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,9
+2017,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,3
+2018,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,18
+2019,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2020,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,12
+2021,Број,M,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,7
+2003,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",71
+2004,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",68
+2005,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",286
+2006,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",306
+2007,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",349
+2008,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",310
+2009,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",361
+2010,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",289
+2011,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",257
+2012,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",211
+2013,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",341
+2014,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",411
+2015,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",362
+2016,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",313
+2017,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",373
+2018,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",386
+2019,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",261
+2020,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",340
+2021,Број,M,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",387
+2003,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,24
+2004,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,46
+2005,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,64
+2006,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,67
+2007,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,87
+2008,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,82
+2009,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,92
+2010,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,73
+2011,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,58
+2012,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,46
+2013,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,64
+2014,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,63
+2015,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,44
+2016,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,72
+2017,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,70
+2018,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,55
+2019,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,50
+2020,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,43
+2021,Број,M,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,63
+2003,Број,M,(Г00-Г99) Болести нервног система,39
+2004,Број,M,(Г00-Г99) Болести нервног система,53
+2005,Број,M,(Г00-Г99) Болести нервног система,86
+2006,Број,M,(Г00-Г99) Болести нервног система,111
+2007,Број,M,(Г00-Г99) Болести нервног система,85
+2008,Број,M,(Г00-Г99) Болести нервног система,91
+2009,Број,M,(Г00-Г99) Болести нервног система,78
+2010,Број,M,(Г00-Г99) Болести нервног система,76
+2011,Број,M,(Г00-Г99) Болести нервног система,112
+2012,Број,M,(Г00-Г99) Болести нервног система,105
+2013,Број,M,(Г00-Г99) Болести нервног система,98
+2014,Број,M,(Г00-Г99) Болести нервног система,97
+2015,Број,M,(Г00-Г99) Болести нервног система,106
+2016,Број,M,(Г00-Г99) Болести нервног система,96
+2017,Број,M,(Г00-Г99) Болести нервног система,102
+2018,Број,M,(Г00-Г99) Болести нервног система,82
+2019,Број,M,(Г00-Г99) Болести нервног система,84
+2020,Број,M,(Г00-Г99) Болести нервног система,91
+2021,Број,M,(Г00-Г99) Болести нервног система,100
+2003,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2004,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2005,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2006,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2007,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2008,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2009,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2010,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2011,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2012,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2013,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2014,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2015,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2016,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2017,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2018,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2019,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2020,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2021,Број,M,(Х00-Х59) Болести ока и припојка ока,0
+2003,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2004,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2005,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,1
+2006,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2007,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,1
+2008,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2009,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2010,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2011,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2012,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2013,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2014,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2015,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2016,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2017,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2018,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2019,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2020,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2021,Број,M,(Х60-Х93) Болести ува и мастоидног наставка,0
+2003,Број,M,(И00-И99) Болести циркулаторног система,3323
+2004,Број,M,(И00-И99) Болести циркулаторног система,3383
+2005,Број,M,(И00-И99) Болести циркулаторног система,3325
+2006,Број,M,(И00-И99) Болести циркулаторног система,3005
+2007,Број,M,(И00-И99) Болести циркулаторног система,3233
+2008,Број,M,(И00-И99) Болести циркулаторног система,3209
+2009,Број,M,(И00-И99) Болести циркулаторног система,3271
+2010,Број,M,(И00-И99) Болести циркулаторног система,3285
+2011,Број,M,(И00-И99) Болести циркулаторног система,3330
+2012,Број,M,(И00-И99) Болести циркулаторног система,3516
+2013,Број,M,(И00-И99) Болести циркулаторног система,3062
+2014,Број,M,(И00-И99) Болести циркулаторног система,3142
+2015,Број,M,(И00-И99) Болести циркулаторног система,3311
+2016,Број,M,(И00-И99) Болести циркулаторног система,3177
+2017,Број,M,(И00-И99) Болести циркулаторног система,3220
+2018,Број,M,(И00-И99) Болести циркулаторног система,3084
+2019,Број,M,(И00-И99) Болести циркулаторног система,3440
+2020,Број,M,(И00-И99) Болести циркулаторног система,3452
+2021,Број,M,(И00-И99) Болести циркулаторног система,3261
+2003,Број,M,(Ј00-Ј99) Болести респираторног система,184
+2004,Број,M,(Ј00-Ј99) Болести респираторног система,211
+2005,Број,M,(Ј00-Ј99) Болести респираторног система,284
+2006,Број,M,(Ј00-Ј99) Болести респираторног система,292
+2007,Број,M,(Ј00-Ј99) Болести респираторног система,282
+2008,Број,M,(Ј00-Ј99) Болести респираторног система,276
+2009,Број,M,(Ј00-Ј99) Болести респираторног система,254
+2010,Број,M,(Ј00-Ј99) Болести респираторног система,277
+2011,Број,M,(Ј00-Ј99) Болести респираторног система,303
+2012,Број,M,(Ј00-Ј99) Болести респираторног система,263
+2013,Број,M,(Ј00-Ј99) Болести респираторног система,334
+2014,Број,M,(Ј00-Ј99) Болести респираторног система,315
+2015,Број,M,(Ј00-Ј99) Болести респираторног система,370
+2016,Број,M,(Ј00-Ј99) Болести респираторног система,306
+2017,Број,M,(Ј00-Ј99) Болести респираторног система,333
+2018,Број,M,(Ј00-Ј99) Болести респираторног система,344
+2019,Број,M,(Ј00-Ј99) Болести респираторног система,338
+2020,Број,M,(Ј00-Ј99) Болести респираторног система,377
+2021,Број,M,(Ј00-Ј99) Болести респираторног система,369
+2003,Број,M,(К00-К93) Болести дигестивног система,216
+2004,Број,M,(К00-К93) Болести дигестивног система,206
+2005,Број,M,(К00-К93) Болести дигестивног система,219
+2006,Број,M,(К00-К93) Болести дигестивног система,233
+2007,Број,M,(К00-К93) Болести дигестивног система,249
+2008,Број,M,(К00-К93) Болести дигестивног система,235
+2009,Број,M,(К00-К93) Болести дигестивног система,223
+2010,Број,M,(К00-К93) Болести дигестивног система,242
+2011,Број,M,(К00-К93) Болести дигестивног система,255
+2012,Број,M,(К00-К93) Болести дигестивног система,248
+2013,Број,M,(К00-К93) Болести дигестивног система,219
+2014,Број,M,(К00-К93) Болести дигестивног система,241
+2015,Број,M,(К00-К93) Болести дигестивног система,249
+2016,Број,M,(К00-К93) Болести дигестивног система,265
+2017,Број,M,(К00-К93) Болести дигестивног система,229
+2018,Број,M,(К00-К93) Болести дигестивног система,290
+2019,Број,M,(К00-К93) Болести дигестивног система,239
+2020,Број,M,(К00-К93) Болести дигестивног система,269
+2021,Број,M,(К00-К93) Болести дигестивног система,244
+2003,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2004,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2005,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2006,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2007,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2008,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2009,Број,M,(Л00-Л99) Болести коже и поткожног ткива,1
+2010,Број,M,(Л00-Л99) Болести коже и поткожног ткива,4
+2011,Број,M,(Л00-Л99) Болести коже и поткожног ткива,0
+2012,Број,M,(Л00-Л99) Болести коже и поткожног ткива,3
+2013,Број,M,(Л00-Л99) Болести коже и поткожног ткива,9
+2014,Број,M,(Л00-Л99) Болести коже и поткожног ткива,13
+2015,Број,M,(Л00-Л99) Болести коже и поткожног ткива,7
+2016,Број,M,(Л00-Л99) Болести коже и поткожног ткива,7
+2017,Број,M,(Л00-Л99) Болести коже и поткожног ткива,5
+2018,Број,M,(Л00-Л99) Болести коже и поткожног ткива,12
+2019,Број,M,(Л00-Л99) Болести коже и поткожног ткива,7
+2020,Број,M,(Л00-Л99) Болести коже и поткожног ткива,13
+2021,Број,M,(Л00-Л99) Болести коже и поткожног ткива,12
+2003,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2004,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,1
+2005,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,5
+2006,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,1
+2007,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,4
+2008,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2009,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,2
+2010,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2011,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,4
+2012,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,4
+2013,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,9
+2014,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,8
+2015,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,12
+2016,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,6
+2017,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,8
+2018,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,4
+2019,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,4
+2020,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,7
+2021,Број,M,(М00-М99) Болести мишићно-коштаног система и везивног ткива,5
+2003,Број,M,(Н00-Н99) Болести генитоуринарног система,123
+2004,Број,M,(Н00-Н99) Болести генитоуринарног система,113
+2005,Број,M,(Н00-Н99) Болести генитоуринарног система,160
+2006,Број,M,(Н00-Н99) Болести генитоуринарног система,152
+2007,Број,M,(Н00-Н99) Болести генитоуринарног система,163
+2008,Број,M,(Н00-Н99) Болести генитоуринарног система,155
+2009,Број,M,(Н00-Н99) Болести генитоуринарног система,139
+2010,Број,M,(Н00-Н99) Болести генитоуринарног система,140
+2011,Број,M,(Н00-Н99) Болести генитоуринарног система,101
+2012,Број,M,(Н00-Н99) Болести генитоуринарног система,116
+2013,Број,M,(Н00-Н99) Болести генитоуринарног система,121
+2014,Број,M,(Н00-Н99) Болести генитоуринарног система,73
+2015,Број,M,(Н00-Н99) Болести генитоуринарног система,93
+2016,Број,M,(Н00-Н99) Болести генитоуринарног система,117
+2017,Број,M,(Н00-Н99) Болести генитоуринарног система,96
+2018,Број,M,(Н00-Н99) Болести генитоуринарног система,117
+2019,Број,M,(Н00-Н99) Болести генитоуринарног система,104
+2020,Број,M,(Н00-Н99) Болести генитоуринарног система,113
+2021,Број,M,(Н00-Н99) Болести генитоуринарног система,107
+2003,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,23
+2004,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,28
+2005,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,17
+2006,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,26
+2007,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,15
+2008,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,12
+2009,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,22
+2010,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,13
+2011,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,20
+2012,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,18
+2013,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,13
+2014,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,7
+2015,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,2
+2016,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,13
+2017,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,7
+2018,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,3
+2019,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,6
+2020,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,16
+2021,Број,M,(П00-П96) Одређена стања настала у перинаталном периоду,5
+2003,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2004,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2005,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",6
+2006,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2007,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",8
+2008,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2009,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2010,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2011,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2012,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2013,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2014,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2015,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2016,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2017,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",4
+2018,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",2
+2019,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",0
+2020,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2021,Број,M,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",5
+2003,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",821
+2004,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",726
+2005,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",659
+2006,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",627
+2007,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",638
+2008,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",496
+2009,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",485
+2010,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",446
+2011,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",302
+2012,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",277
+2013,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",643
+2014,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",718
+2015,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",780
+2016,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",598
+2017,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",720
+2018,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",844
+2019,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1048
+2020,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",834
+2021,Број,M,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1187
+2003,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",444
+2004,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",411
+2005,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",463
+2006,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",466
+2007,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",488
+2008,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",451
+2009,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",424
+2010,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",405
+2011,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",482
+2012,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",420
+2013,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",377
+2014,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",412
+2015,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",417
+2016,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",373
+2017,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",349
+2018,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",370
+2019,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",340
+2020,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",304
+2021,Број,M,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",334
+2003,Број,M,(У00-У85) Шифре за посебне намјене,0
+2004,Број,M,(У00-У85) Шифре за посебне намјене,0
+2005,Број,M,(У00-У85) Шифре за посебне намјене,0
+2006,Број,M,(У00-У85) Шифре за посебне намјене,0
+2007,Број,M,(У00-У85) Шифре за посебне намјене,0
+2008,Број,M,(У00-У85) Шифре за посебне намјене,0
+2009,Број,M,(У00-У85) Шифре за посебне намјене,0
+2010,Број,M,(У00-У85) Шифре за посебне намјене,0
+2011,Број,M,(У00-У85) Шифре за посебне намјене,0
+2012,Број,M,(У00-У85) Шифре за посебне намјене,0
+2013,Број,M,(У00-У85) Шифре за посебне намјене,0
+2014,Број,M,(У00-У85) Шифре за посебне намјене,0
+2015,Број,M,(У00-У85) Шифре за посебне намјене,0
+2016,Број,M,(У00-У85) Шифре за посебне намјене,0
+2017,Број,M,(У00-У85) Шифре за посебне намјене,0
+2018,Број,M,(У00-У85) Шифре за посебне намјене,0
+2019,Број,M,(У00-У85) Шифре за посебне намјене,0
+2020,Број,M,(У00-У85) Шифре за посебне намјене,1030
+2021,Број,M,(У00-У85) Шифре за посебне намјене,2213
+2003,Број,Ж,Укупно,6184
+2004,Број,Ж,Укупно,6347
+2005,Број,Ж,Укупно,6563
+2006,Број,Ж,Укупно,6328
+2007,Број,Ж,Укупно,6844
+2008,Број,Ж,Укупно,6443
+2009,Број,Ж,Укупно,6676
+2010,Број,Ж,Укупно,6582
+2011,Број,Ж,Укупно,6657
+2012,Број,Ж,Укупно,6732
+2013,Број,Ж,Укупно,6741
+2014,Број,Ж,Укупно,7023
+2015,Број,Ж,Укупно,7419
+2016,Број,Ж,Укупно,6772
+2017,Број,Ж,Укупно,7300
+2018,Број,Ж,Укупно,7314
+2019,Број,Ж,Укупно,7328
+2020,Број,Ж,Укупно,7969
+2021,Број,Ж,Укупно,9059
+2003,Број,Ж,(А00-Б99) Инфективне и паразитске болести,30
+2004,Број,Ж,(А00-Б99) Инфективне и паразитске болести,49
+2005,Број,Ж,(А00-Б99) Инфективне и паразитске болести,50
+2006,Број,Ж,(А00-Б99) Инфективне и паразитске болести,38
+2007,Број,Ж,(А00-Б99) Инфективне и паразитске болести,33
+2008,Број,Ж,(А00-Б99) Инфективне и паразитске болести,46
+2009,Број,Ж,(А00-Б99) Инфективне и паразитске болести,43
+2010,Број,Ж,(А00-Б99) Инфективне и паразитске болести,37
+2011,Број,Ж,(А00-Б99) Инфективне и паразитске болести,38
+2012,Број,Ж,(А00-Б99) Инфективне и паразитске болести,66
+2013,Број,Ж,(А00-Б99) Инфективне и паразитске болести,47
+2014,Број,Ж,(А00-Б99) Инфективне и паразитске болести,56
+2015,Број,Ж,(А00-Б99) Инфективне и паразитске болести,67
+2016,Број,Ж,(А00-Б99) Инфективне и паразитске болести,83
+2017,Број,Ж,(А00-Б99) Инфективне и паразитске болести,62
+2018,Број,Ж,(А00-Б99) Инфективне и паразитске болести,75
+2019,Број,Ж,(А00-Б99) Инфективне и паразитске болести,81
+2020,Број,Ж,(А00-Б99) Инфективне и паразитске болести,75
+2021,Број,Ж,(А00-Б99) Инфективне и паразитске болести,54
+2003,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",950
+2004,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",928
+2005,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1072
+2006,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1015
+2007,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1109
+2008,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1075
+2009,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1161
+2010,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1105
+2011,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1118
+2012,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1183
+2013,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1231
+2014,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1353
+2015,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1355
+2016,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1209
+2017,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1268
+2018,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1209
+2019,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1186
+2020,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1097
+2021,Број,Ж,"(Ц00-Ц97,Д00-Д48) Неоплазме",1065
+2003,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,2
+2004,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,11
+2005,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2006,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,4
+2007,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2008,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,5
+2009,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,9
+2010,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2011,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2012,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,6
+2013,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2014,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,8
+2015,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,10
+2016,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2017,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,17
+2018,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,18
+2019,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,16
+2020,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2021,Број,Ж,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,15
+2003,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",109
+2004,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",92
+2005,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",441
+2006,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",484
+2007,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",442
+2008,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",454
+2009,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",530
+2010,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",402
+2011,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",397
+2012,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",350
+2013,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",459
+2014,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",501
+2015,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",400
+2016,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",378
+2017,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",452
+2018,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",458
+2019,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",343
+2020,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",485
+2021,Број,Ж,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",534
+2003,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,9
+2004,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,12
+2005,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,16
+2006,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,15
+2007,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,20
+2008,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,19
+2009,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,30
+2010,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,11
+2011,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,14
+2012,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,12
+2013,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,31
+2014,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,21
+2015,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,28
+2016,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,26
+2017,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,43
+2018,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,30
+2019,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,22
+2020,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,29
+2021,Број,Ж,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,44
+2003,Број,Ж,(Г00-Г99) Болести нервног система,26
+2004,Број,Ж,(Г00-Г99) Болести нервног система,38
+2005,Број,Ж,(Г00-Г99) Болести нервног система,84
+2006,Број,Ж,(Г00-Г99) Болести нервног система,73
+2007,Број,Ж,(Г00-Г99) Болести нервног система,70
+2008,Број,Ж,(Г00-Г99) Болести нервног система,55
+2009,Број,Ж,(Г00-Г99) Болести нервног система,55
+2010,Број,Ж,(Г00-Г99) Болести нервног система,76
+2011,Број,Ж,(Г00-Г99) Болести нервног система,97
+2012,Број,Ж,(Г00-Г99) Болести нервног система,102
+2013,Број,Ж,(Г00-Г99) Болести нервног система,87
+2014,Број,Ж,(Г00-Г99) Болести нервног система,89
+2015,Број,Ж,(Г00-Г99) Болести нервног система,106
+2016,Број,Ж,(Г00-Г99) Болести нервног система,75
+2017,Број,Ж,(Г00-Г99) Болести нервног система,95
+2018,Број,Ж,(Г00-Г99) Болести нервног система,87
+2019,Број,Ж,(Г00-Г99) Болести нервног система,81
+2020,Број,Ж,(Г00-Г99) Болести нервног система,97
+2021,Број,Ж,(Г00-Г99) Болести нервног система,73
+2003,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2004,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2005,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2006,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2007,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2008,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2009,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2010,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2011,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2012,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2013,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2014,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2015,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2016,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2017,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2018,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2019,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2020,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2021,Број,Ж,(Х00-Х59) Болести ока и припојка ока,0
+2003,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2004,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2005,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2006,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2007,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2008,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2009,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2010,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2011,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2012,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2013,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2014,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2015,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2016,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2017,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2018,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2019,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2020,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2021,Број,Ж,(Х60-Х93) Болести ува и мастоидног наставка,0
+2003,Број,Ж,(И00-И99) Болести циркулаторног система,3748
+2004,Број,Ж,(И00-И99) Болести циркулаторног система,3957
+2005,Број,Ж,(И00-И99) Болести циркулаторног система,3677
+2006,Број,Ж,(И00-И99) Болести циркулаторног система,3458
+2007,Број,Ж,(И00-И99) Болести циркулаторног система,3864
+2008,Број,Ж,(И00-И99) Болести циркулаторног система,3756
+2009,Број,Ж,(И00-И99) Болести циркулаторног система,3743
+2010,Број,Ж,(И00-И99) Болести циркулаторног система,3926
+2011,Број,Ж,(И00-И99) Болести циркулаторног система,4009
+2012,Број,Ж,(И00-И99) Болести циркулаторног система,4109
+2013,Број,Ж,(И00-И99) Болести циркулаторног система,3625
+2014,Број,Ж,(И00-И99) Болести циркулаторног система,3635
+2015,Број,Ж,(И00-И99) Болести циркулаторног система,3964
+2016,Број,Ж,(И00-И99) Болести циркулаторног система,3743
+2017,Број,Ж,(И00-И99) Болести циркулаторног система,3960
+2018,Број,Ж,(И00-И99) Болести циркулаторног система,3905
+2019,Број,Ж,(И00-И99) Болести циркулаторног система,4033
+2020,Број,Ж,(И00-И99) Болести циркулаторног система,4150
+2021,Број,Ж,(И00-И99) Болести циркулаторног система,3956
+2003,Број,Ж,(Ј00-Ј99) Болести респираторног система,120
+2004,Број,Ж,(Ј00-Ј99) Болести респираторног система,134
+2005,Број,Ж,(Ј00-Ј99) Болести респираторног система,220
+2006,Број,Ж,(Ј00-Ј99) Болести респираторног система,228
+2007,Број,Ж,(Ј00-Ј99) Болести респираторног система,211
+2008,Број,Ж,(Ј00-Ј99) Болести респираторног система,173
+2009,Број,Ж,(Ј00-Ј99) Болести респираторног система,176
+2010,Број,Ж,(Ј00-Ј99) Болести респираторног система,173
+2011,Број,Ж,(Ј00-Ј99) Болести респираторног система,233
+2012,Број,Ж,(Ј00-Ј99) Болести респираторног система,161
+2013,Број,Ж,(Ј00-Ј99) Болести респираторног система,222
+2014,Број,Ж,(Ј00-Ј99) Болести респираторног система,209
+2015,Број,Ж,(Ј00-Ј99) Болести респираторног система,248
+2016,Број,Ж,(Ј00-Ј99) Болести респираторног система,204
+2017,Број,Ж,(Ј00-Ј99) Болести респираторног система,243
+2018,Број,Ж,(Ј00-Ј99) Болести респираторног система,282
+2019,Број,Ж,(Ј00-Ј99) Болести респираторног система,258
+2020,Број,Ж,(Ј00-Ј99) Болести респираторног система,254
+2021,Број,Ж,(Ј00-Ј99) Болести респираторног система,271
+2003,Број,Ж,(К00-К93) Болести дигестивног система,136
+2004,Број,Ж,(К00-К93) Болести дигестивног система,141
+2005,Број,Ж,(К00-К93) Болести дигестивног система,124
+2006,Број,Ж,(К00-К93) Болести дигестивног система,146
+2007,Број,Ж,(К00-К93) Болести дигестивног система,147
+2008,Број,Ж,(К00-К93) Болести дигестивног система,131
+2009,Број,Ж,(К00-К93) Болести дигестивног система,148
+2010,Број,Ж,(К00-К93) Болести дигестивног система,156
+2011,Број,Ж,(К00-К93) Болести дигестивног система,136
+2012,Број,Ж,(К00-К93) Болести дигестивног система,145
+2013,Број,Ж,(К00-К93) Болести дигестивног система,183
+2014,Број,Ж,(К00-К93) Болести дигестивног система,188
+2015,Број,Ж,(К00-К93) Болести дигестивног система,191
+2016,Број,Ж,(К00-К93) Болести дигестивног система,185
+2017,Број,Ж,(К00-К93) Болести дигестивног система,184
+2018,Број,Ж,(К00-К93) Болести дигестивног система,191
+2019,Број,Ж,(К00-К93) Болести дигестивног система,180
+2020,Број,Ж,(К00-К93) Болести дигестивног система,169
+2021,Број,Ж,(К00-К93) Болести дигестивног система,156
+2003,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,0
+2004,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,3
+2005,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,0
+2006,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,1
+2007,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,2
+2008,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,2
+2009,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,2
+2010,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,2
+2011,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,1
+2012,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,1
+2013,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,11
+2014,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,9
+2015,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,15
+2016,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,14
+2017,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,19
+2018,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,10
+2019,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,16
+2020,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,17
+2021,Број,Ж,(Л00-Л99) Болести коже и поткожног ткива,21
+2003,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2004,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,2
+2005,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,7
+2006,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,9
+2007,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,9
+2008,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,14
+2009,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,11
+2010,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,8
+2011,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,14
+2012,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,12
+2013,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,19
+2014,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,14
+2015,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,18
+2016,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,13
+2017,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,9
+2018,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,17
+2019,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,9
+2020,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,21
+2021,Број,Ж,(М00-М99) Болести мишићно-коштаног система и везивног ткива,3
+2003,Број,Ж,(Н00-Н99) Болести генитоуринарног система,99
+2004,Број,Ж,(Н00-Н99) Болести генитоуринарног система,92
+2005,Број,Ж,(Н00-Н99) Болести генитоуринарног система,97
+2006,Број,Ж,(Н00-Н99) Болести генитоуринарног система,114
+2007,Број,Ж,(Н00-Н99) Болести генитоуринарног система,112
+2008,Број,Ж,(Н00-Н99) Болести генитоуринарног система,113
+2009,Број,Ж,(Н00-Н99) Болести генитоуринарног система,118
+2010,Број,Ж,(Н00-Н99) Болести генитоуринарног система,115
+2011,Број,Ж,(Н00-Н99) Болести генитоуринарног система,74
+2012,Број,Ж,(Н00-Н99) Болести генитоуринарног система,120
+2013,Број,Ж,(Н00-Н99) Болести генитоуринарног система,92
+2014,Број,Ж,(Н00-Н99) Болести генитоуринарног система,77
+2015,Број,Ж,(Н00-Н99) Болести генитоуринарног система,86
+2016,Број,Ж,(Н00-Н99) Болести генитоуринарног система,101
+2017,Број,Ж,(Н00-Н99) Болести генитоуринарног система,97
+2018,Број,Ж,(Н00-Н99) Болести генитоуринарног система,103
+2019,Број,Ж,(Н00-Н99) Болести генитоуринарног система,91
+2020,Број,Ж,(Н00-Н99) Болести генитоуринарног система,108
+2021,Број,Ж,(Н00-Н99) Болести генитоуринарног система,90
+2003,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2004,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2005,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",2
+2006,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",2
+2007,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2008,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2009,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2010,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2011,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2012,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2013,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2014,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2015,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2016,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2017,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2018,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",1
+2019,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2020,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",3
+2021,Број,Ж,"(О00-О99) Трудноћа, порођај и пуерперијум",0
+2003,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,21
+2004,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,10
+2005,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,10
+2006,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,12
+2007,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,12
+2008,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,8
+2009,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,12
+2010,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,16
+2011,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,16
+2012,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,11
+2013,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,8
+2014,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,9
+2015,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,8
+2016,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,5
+2017,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,10
+2018,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,7
+2019,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,5
+2020,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,18
+2021,Број,Ж,(П00-П96) Одређена стања настала у перинаталном периоду,4
+2003,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2004,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",1
+2005,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",8
+2006,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2007,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",6
+2008,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",10
+2009,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",13
+2010,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2011,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",2
+2012,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",1
+2013,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2014,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7
+2015,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",4
+2016,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",2
+2017,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",1
+2018,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2019,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",4
+2020,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",3
+2021,Број,Ж,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",0
+2003,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",791
+2004,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",736
+2005,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",590
+2006,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",573
+2007,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",650
+2008,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",449
+2009,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",468
+2010,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",431
+2011,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",379
+2012,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",335
+2013,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",588
+2014,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",727
+2015,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",776
+2016,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",600
+2017,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",715
+2018,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",806
+2019,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",913
+2020,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",765
+2021,Број,Ж,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",1026
+2003,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",136
+2004,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",141
+2005,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",155
+2006,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",149
+2007,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",146
+2008,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",133
+2009,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",157
+2010,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",106
+2011,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",118
+2012,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",118
+2013,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",127
+2014,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",120
+2015,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",142
+2016,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",118
+2017,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",125
+2018,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",112
+2019,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",90
+2020,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",101
+2021,Број,Ж,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",114
+2003,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2004,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2005,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2006,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2007,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2008,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2009,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2010,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2011,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2012,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2013,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2014,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2015,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2016,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2017,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2018,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2019,Број,Ж,(У00-У85) Шифре за посебне намјене,0
+2020,Број,Ж,(У00-У85) Шифре за посебне намјене,562
+2021,Број,Ж,(У00-У85) Шифре за посебне намјене,1633

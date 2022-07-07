@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
@@ -31,14 +31,14 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Врста коефицијента зависности"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -49,7 +49,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "0",
                 "1",
                 "2",
@@ -163,12 +163,12 @@
                 ""
               ]
             },
-            "title": "Starost"
+            "title": "AGE"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

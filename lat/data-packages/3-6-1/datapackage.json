@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupna stopa prevalence kontracepcije",
-                "Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda)",
-                "Stopa prevalence kontracepcije (upotrebom savremenih metoda)",
+                "all_methods",
+                "traditional_methods",
+                "modern_methods",
                 ""
               ]
             },
-            "title": "Upotreba kontracepcije"
+            "title": "PREVALENCE"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

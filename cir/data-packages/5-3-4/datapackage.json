@@ -13,33 +13,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "gymnasium",
-                "technical_high_schools",
-                "vocational_high_schools",
-                "art_schools",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Гимназијe",
+                "Средње техничке школе",
+                "Средње стручне школе",
+                "Умјетничке школе",
+                "Вјерске школе",
+                "Средње школе за ученике са сметњама у развоју",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Врста школе"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

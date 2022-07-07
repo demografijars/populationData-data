@@ -13,30 +13,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "underage_users",
-                "adult_users",
+                "Укупно",
+                "Малољетни корисници",
+                "Пунољетни корисници",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Врста корисника"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

@@ -1,11 +1,11 @@
-Year,UNIT_MEASURE,Vrsta korisnika,Value
-2016,Broj,Broj korisnika,23202
-2017,Broj,Broj korisnika,20279
-2018,Broj,Broj korisnika,21839
-2019,Broj,Broj korisnika,15388
-2020,Broj,Broj korisnika,13381
-2016,Broj,Broj djece,33125
-2017,Broj,Broj djece,28767
-2018,Broj,Broj djece,27222
-2019,Broj,Broj djece,21862
-2020,Broj,Broj djece,19210
+Year,UNIT_MEASURE,TYPE_OF_USERS,Value
+2016,Broj,number_of_users,23202
+2017,Broj,number_of_users,20279
+2018,Broj,number_of_users,21839
+2019,Broj,number_of_users,15388
+2020,Broj,number_of_users,13381
+2016,Broj,number_of_children,33125
+2017,Broj,number_of_children,28767
+2018,Broj,number_of_children,27222
+2019,Broj,number_of_children,21862
+2020,Broj,number_of_children,19210

@@ -13,40 +13,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Година"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Мјерна јединица"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Укупно",
+                "Природне науке, математика и статистика",
+                "Инжeњерство, производња и грађевинарство",
+                "Информационе и комуникационе технологије",
+                "Здравство и социјална заштита",
+                "Пољопривреда, шумарство, рибарство и ветеринарство",
+                "Друштвене науке, новинарство и информисање",
+                "Пословање, администрација и право",
+                "Oбразовање",
+                "Умјетност и хуманистичке науке",
+                "Услуге",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Врста образовања"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Укупно",
                 "M",
                 "Ж",
                 ""
@@ -57,7 +57,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Вриједност"
           }
         ]
       }

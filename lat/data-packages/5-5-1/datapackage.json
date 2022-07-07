@@ -13,32 +13,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Magistarske studije",
-                "Master studije",
-                "Specijalističke studije",
+                "enrolled_in_master_of_science_studies",
+                "enrolled_in_master_studies",
+                "enrolled_in_specialist_studies",
                 ""
               ]
             },
-            "title": "Vrsta obrazovanja"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
@@ -49,7 +49,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

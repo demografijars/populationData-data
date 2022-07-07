@@ -13,40 +13,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
-                "Prirodne nauke, matematika i statistika",
-                "Inženjerstvo, proizvodnja i građevinarstvo",
-                "Informacione i komunikacione tehnologije",
-                "Zdravstvo i socijalna zaštita",
-                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
-                "Društvene nauke, novinarstvo i informisanje",
-                "Poslovanje, administracija i pravo",
-                "Obrazovanje",
-                "Umjetnost i humanističke nauke",
-                "Usluge",
+                "total",
+                "natural_sciences,_mathematics_and_statistics",
+                "engineering,_production_and_construction",
+                "information_and_communication_technologies",
+                "health_and_social_protection",
+                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
+                "social_sciences,_journalism_and_information",
+                "business,_administration_and_law",
+                "education",
+                "arts_and_humanities",
+                "services",
                 ""
               ]
             },
-            "title": "Vrsta obrazovanja"
+            "title": "type_of_education"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukupno",
+                "_T",
                 "M",
                 "Ž",
                 ""
@@ -57,7 +57,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

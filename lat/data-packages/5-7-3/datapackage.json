@@ -13,12 +13,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Godina"
+            "title": "Year"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Mjerna jedinica"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "SEX",
@@ -33,7 +33,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Vrijednost"
+            "title": "Value"
           }
         ]
       }

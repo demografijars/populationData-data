@@ -1,11 +1,11 @@
-Year,UNIT_MEASURE,Vrsta ustanove,Value
-2016,Broj,Ustanove za djecu i omladinu,530
-2017,Broj,Ustanove za djecu i omladinu,509
-2018,Broj,Ustanove za djecu i omladinu,509
-2019,Broj,Ustanove za djecu i omladinu,485
-2020,Broj,Ustanove za djecu i omladinu,478
-2016,Broj,Ustanove za odrasle,2020
-2017,Broj,Ustanove za odrasle,2228
-2018,Broj,Ustanove za odrasle,2661
-2019,Broj,Ustanove za odrasle,3116
-2020,Broj,Ustanove za odrasle,3087
+Year,UNIT_MEASURE,type_of_institution,Value
+2016,Broj,institutions_for_children_and_youth,530
+2017,Broj,institutions_for_children_and_youth,509
+2018,Broj,institutions_for_children_and_youth,509
+2019,Broj,institutions_for_children_and_youth,485
+2020,Broj,institutions_for_children_and_youth,478
+2016,Broj,adult_facilities,2020
+2017,Broj,adult_facilities,2228
+2018,Broj,adult_facilities,2661
+2019,Broj,adult_facilities,3116
+2020,Broj,adult_facilities,3087

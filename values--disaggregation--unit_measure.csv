@@ -11,16 +11,16 @@ Value,en,lat,cir,Disaggregation combinations using this value,Number of indicato
 2060,2060,2060,2060,50,1
 2065,2065,2065,2065,50,1
 2070,2070,2070,2070,50,1
-_%,% of total,% od ukupno,_%,254,13
-Age,Age,Starost,Age,11,6
+_%,% of total,_%,% од укупно,254,13
+Age,Age,Age,Старост,11,6
 BAM,BAM,BAM,BAM,2,2
-boys_to_girls,Number of boys to 100 girls,Broj dječaka na 100 djevojčica,boys_to_girls,1,1
-children_pre_woman,Number of children per woman 15-49,Broj djece po ženi od 15-49 starosti,children_pre_woman,1,1
-crude_death_rate_1000,Number per 1000 population,Stopa smrtnosti na 1.000 stanovnika,crude_death_rate_1000,2,2
+boys_to_girls,Number of boys to 100 girls,boys_to_girls,Број дјечака на 100 дјевојчица,1,1
+children_pre_woman,Number of children per woman 15-49,children_pre_woman,Број дјеце по жени од 15-49 старости,1,1
+crude_death_rate_1000,Number per 1000 population,crude_death_rate_1000,Стопа смртности на 1.000 становника,2,2
 EUR,EUR,EUR,EUR,2,2
-NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,Broj na 1.000 živorođenih,NO_PER_1000_LIVE_BIRTHS,4,4
-no_per_1000_marriages,Number per 1000 marriages,Broj na 1.000 brakova,no_per_1000_marriages,1,1
+NO_PER_1000_LIVE_BIRTHS,Number per 1000 live births,NO_PER_1000_LIVE_BIRTHS,Број на 1.000 живорођених,4,4
+no_per_1000_marriages,Number per 1000 marriages,no_per_1000_marriages,Број на 1.000 бракова,1,1
 NUMBER,Number,Broj,Број,17346,78
-number_birth_rate,Number per 1000 population,Stopa nataliteta na 1.000 stanovnika,number_birth_rate,3,3
-promil,‰,promil,promil,1,1
-USD,USD,USD,USD,2,2
+number_birth_rate,Number per 1000 population,number_birth_rate,Стопа наталитета на 1.000 становника,3,3
+promil,‰,promil,‰,1,1
+USD,USD,USD,УСД,2,2

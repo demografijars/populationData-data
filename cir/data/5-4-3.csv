@@ -1,41 +1,41 @@
-Year,UNIT_MEASURE,scientific_field,Value
-2017,Број,education,542
-2017,Број,arts_and_humanities,429
-2017,Број,"social_sciences,_journalism_and_information",725
-2017,Број,"business,_administration_and_law",1677
-2017,Број,"natural_sciences,_mathematics_and_statistics",209
-2017,Број,information_and_communication_technologies,262
-2017,Број,"engineering,_production_and_construction",367
-2017,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2017,Број,health_and_social_protection,547
-2017,Број,services,118
-2018,Број,education,459
-2018,Број,arts_and_humanities,403
-2018,Број,"social_sciences,_journalism_and_information",524
-2018,Број,"business,_administration_and_law",1320
-2018,Број,"natural_sciences,_mathematics_and_statistics",165
-2018,Број,information_and_communication_technologies,294
-2018,Број,"engineering,_production_and_construction",464
-2018,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",205
-2018,Број,health_and_social_protection,629
-2018,Број,services,101
-2019,Број,education,406
-2019,Број,arts_and_humanities,385
-2019,Број,"social_sciences,_journalism_and_information",482
-2019,Број,"business,_administration_and_law",1110
-2019,Број,"natural_sciences,_mathematics_and_statistics",168
-2019,Број,information_and_communication_technologies,231
-2019,Број,"engineering,_production_and_construction",461
-2019,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",238
-2019,Број,health_and_social_protection,534
-2019,Број,services,129
-2020,Број,education,336
-2020,Број,arts_and_humanities,433
-2020,Број,"social_sciences,_journalism_and_information",588
-2020,Број,"business,_administration_and_law",991
-2020,Број,"natural_sciences,_mathematics_and_statistics",166
-2020,Број,information_and_communication_technologies,254
-2020,Број,"engineering,_production_and_construction",438
-2020,Број,"agriculture,_forestry,_fisheries_and_veterinary_medicine",229
-2020,Број,health_and_social_protection,590
-2020,Број,services,159
+Year,UNIT_MEASURE,Област образовања,Value
+2017,Број,Oбразовање,542
+2017,Број,Умјетност и хуманистичке науке,429
+2017,Број,"Друштвене науке, новинарство и информисање",725
+2017,Број,"Пословање, администрација и право",1677
+2017,Број,"Природне науке, математика и статистика",209
+2017,Број,Информационе и комуникационе технологије,262
+2017,Број,"Инжeњерство, производња и грађевинарство",367
+2017,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",205
+2017,Број,Здравство и социјална заштита,547
+2017,Број,Услуге,118
+2018,Број,Oбразовање,459
+2018,Број,Умјетност и хуманистичке науке,403
+2018,Број,"Друштвене науке, новинарство и информисање",524
+2018,Број,"Пословање, администрација и право",1320
+2018,Број,"Природне науке, математика и статистика",165
+2018,Број,Информационе и комуникационе технологије,294
+2018,Број,"Инжeњерство, производња и грађевинарство",464
+2018,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",205
+2018,Број,Здравство и социјална заштита,629
+2018,Број,Услуге,101
+2019,Број,Oбразовање,406
+2019,Број,Умјетност и хуманистичке науке,385
+2019,Број,"Друштвене науке, новинарство и информисање",482
+2019,Број,"Пословање, администрација и право",1110
+2019,Број,"Природне науке, математика и статистика",168
+2019,Број,Информационе и комуникационе технологије,231
+2019,Број,"Инжeњерство, производња и грађевинарство",461
+2019,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",238
+2019,Број,Здравство и социјална заштита,534
+2019,Број,Услуге,129
+2020,Број,Oбразовање,336
+2020,Број,Умјетност и хуманистичке науке,433
+2020,Број,"Друштвене науке, новинарство и информисање",588
+2020,Број,"Пословање, администрација и право",991
+2020,Број,"Природне науке, математика и статистика",166
+2020,Број,Информационе и комуникационе технологије,254
+2020,Број,"Инжeњерство, производња и грађевинарство",438
+2020,Број,"Пољопривреда, шумарство, рибарство и ветеринарство",229
+2020,Број,Здравство и социјална заштита,590
+2020,Број,Услуге,159
