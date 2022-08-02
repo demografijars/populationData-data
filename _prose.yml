@@ -87,7 +87,7 @@ prose:
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
-            element: text
+            element: hidden
             label: "Indicator available"
             translation_key: metadata_fields.national_indicator_available
             scope: national
@@ -99,7 +99,7 @@ prose:
             scope: national
       - name: "national_geographical_coverage"
         field:
-            element: text
+            element: hidden
             label: "Geographical coverage"
             translation_key: metadata_fields.national_geographical_coverage
             scope: national
@@ -129,19 +129,19 @@ prose:
             scope: national
       - name: "quality_assurance"
         field:
-            element: text
+            element: hidden
             label: "Quality assurance"
             translation_key: metadata_fields.quality_assurance
             scope: national
       - name: "international_comparability"
         field:
-            element: text
+            element: hidden
             label: "Comparability with international data/standards"
             translation_key: metadata_fields.international_comparability
             scope: national
       - name: "comments_limitations"
         field:
-            element: text
+            element: hidden
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
             scope: national
