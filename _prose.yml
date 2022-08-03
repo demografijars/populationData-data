@@ -138,7 +138,7 @@ prose:
             element: hidden
             label: "Comparability with international data/standards"
             translation_key: metadata_fields.international_comparability
-            scope: national
+            scope: global
       - name: "comments_limitations"
         field:
             element: hidden
