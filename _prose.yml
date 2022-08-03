@@ -84,6 +84,12 @@ prose:
             translation_key: metadata_fields.goal_meta_link_text
             value: "UN metadata"
             scope: global
+      - name: "international_comparability"
+        field:
+            element: hidden
+            label: "Comparability with international data/standards"
+            translation_key: metadata_fields.international_comparability
+            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -133,12 +139,6 @@ prose:
             label: "Quality assurance"
             translation_key: metadata_fields.quality_assurance
             scope: national
-      - name: "international_comparability"
-        field:
-            element: hidden
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
-            scope: global
       - name: "comments_limitations"
         field:
             element: hidden
