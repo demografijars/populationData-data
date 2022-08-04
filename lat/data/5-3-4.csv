@@ -1,25 +1,25 @@
-Year,UNIT_MEASURE,type_of_school,Value
-2017,Broj,gymnasium,2467
-2017,Broj,technical_high_schools,6206
-2017,Broj,vocational_high_schools,1846
-2017,Broj,art_schools,78
-2017,Broj,religious_schools,17
-2017,Broj,high_schools_for_students_with_disabilities,28
-2018,Broj,gymnasium,2286
-2018,Broj,technical_high_schools,6125
-2018,Broj,vocational_high_schools,1887
-2018,Broj,art_schools,70
-2018,Broj,religious_schools,26
-2018,Broj,high_schools_for_students_with_disabilities,46
-2019,Broj,gymnasium,2281
-2019,Broj,technical_high_schools,6141
-2019,Broj,vocational_high_schools,1910
-2019,Broj,art_schools,64
-2019,Broj,religious_schools,13
-2019,Broj,high_schools_for_students_with_disabilities,62
-2020,Broj,gymnasium,2120
-2020,Broj,technical_high_schools,5841
-2020,Broj,vocational_high_schools,1828
-2020,Broj,art_schools,60
-2020,Broj,religious_schools,11
-2020,Broj,high_schools_for_students_with_disabilities,28
+Year,UNIT_MEASURE,Vrsta škole,Value
+2017,Broj,Gimnazije,2467
+2017,Broj,Srednje tehničke škole,6206
+2017,Broj,Srednje stručne škole,1846
+2017,Broj,Umjetničke škole,78
+2017,Broj,Vjerske škole,17
+2017,Broj,Srednje škole za učenike sa smetnjama u razvoju,28
+2018,Broj,Gimnazije,2286
+2018,Broj,Srednje tehničke škole,6125
+2018,Broj,Srednje stručne škole,1887
+2018,Broj,Umjetničke škole,70
+2018,Broj,Vjerske škole,26
+2018,Broj,Srednje škole za učenike sa smetnjama u razvoju,46
+2019,Broj,Gimnazije,2281
+2019,Broj,Srednje tehničke škole,6141
+2019,Broj,Srednje stručne škole,1910
+2019,Broj,Umjetničke škole,64
+2019,Broj,Vjerske škole,13
+2019,Broj,Srednje škole za učenike sa smetnjama u razvoju,62
+2020,Broj,Gimnazije,2120
+2020,Broj,Srednje tehničke škole,5841
+2020,Broj,Srednje stručne škole,1828
+2020,Broj,Umjetničke škole,60
+2020,Broj,Vjerske škole,11
+2020,Broj,Srednje škole za učenike sa smetnjama u razvoju,28

@@ -15,19 +15,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -38,7 +38,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -57,37 +57,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "education",
-                "arts_and_humanities",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "health_and_social_protection",
-                "services",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Informacione i komunikacione tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Zdravstvo i socijalna zaštita",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Oblast obrazovanja"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -106,33 +106,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "gymnasium",
-                "technical_high_schools",
-                "vocational_high_schools",
-                "art_schools",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Gimnazije",
+                "Srednje tehničke škole",
+                "Srednje stručne škole",
+                "Umjetničke škole",
+                "Vjerske škole",
+                "Srednje škole za učenike sa smetnjama u razvoju",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -151,17 +151,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -180,17 +180,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -209,19 +209,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -232,7 +232,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -251,17 +251,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -280,19 +280,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -303,7 +303,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -322,17 +322,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -351,19 +351,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -374,7 +374,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -393,7 +393,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "SEX",
@@ -410,12 +410,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -434,19 +434,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -457,7 +457,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -476,19 +476,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -499,7 +499,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -518,19 +518,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -539,7 +539,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -558,106 +558,106 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "1_member",
-                "2_members",
-                "3_members",
-                "4_members",
-                "5+_members",
+                "Ukupno",
+                "1 član",
+                "2 člana",
+                "3 člana",
+                "4 člana",
+                "5 i više članova",
                 ""
               ]
             },
-            "title": "NUMBER_OF_HOUSEHOLDS_BY_HOUSEHOLD_SIZE"
+            "title": "Broj članova"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -676,12 +676,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -696,7 +696,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -715,17 +715,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -744,29 +744,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Ustanove za djecu i omladinu",
+                "Ustanove za odrasle",
                 ""
               ]
             },
-            "title": "type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -785,17 +785,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -814,19 +814,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -837,7 +837,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -856,19 +856,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -881,7 +881,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -903,12 +903,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -927,30 +927,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "PREVALENCE",
             "type": "string",
             "constraints": {
               "enum": [
-                "all_methods",
-                "traditional_methods",
-                "modern_methods",
+                "Ukupna stopa prevalence kontracepcije",
+                "Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda)",
+                "Stopa prevalence kontracepcije (upotrebom savremenih metoda)",
                 ""
               ]
             },
-            "title": "PREVALENCE"
+            "title": "Upotreba kontracepcije"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -969,12 +969,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
@@ -987,14 +987,14 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Vrsta koeficijenta zavisnosti"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1005,7 +1005,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1024,17 +1024,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1053,19 +1053,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1076,7 +1076,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1095,7 +1095,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "SEX",
@@ -1112,12 +1112,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1136,40 +1136,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Ukupno",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1180,7 +1180,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1199,7 +1199,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "AGE",
@@ -1211,17 +1211,17 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1240,92 +1240,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1338,21 +1338,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "bosnian",
-                "croatian",
-                "serbian",
-                "other_language",
-                "unknown_language",
+                "Ukupno",
+                "Bosanski",
+                "Hrvatski",
+                "Srpski",
+                "Ostali",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Mother_tongue"
+            "title": "Maternji jezik"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1371,92 +1371,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1469,17 +1469,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "illiterate",
-                "unknown_literacy",
+                "Nepismeno",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Literacy"
+            "title": "Pismenost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1498,17 +1498,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1527,19 +1527,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1552,7 +1552,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0",
                 "1",
                 "2",
@@ -1642,12 +1642,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1666,17 +1666,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1695,32 +1695,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "public",
-                "private",
+                "Ukupno",
+                "Javna",
+                "Privatna",
                 ""
               ]
             },
-            "title": "type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -1731,7 +1731,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1750,17 +1750,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1779,17 +1779,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1808,17 +1808,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1837,48 +1837,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "CAUSE_OF_DEATH",
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_genitourinary",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
-                "diseases_of_the_musculoskeletal",
-                "pregnancy_childbirth_and_the",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulatornog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
+                "(A00-B99) Infektivne i parazitske bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H59) Bolesti oka i pripojka oka",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(N00-N99) Bolesti genitourinarnog sistema",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(V01-Y98) Spoljni uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1897,30 +1897,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "underage_users",
-                "adult_users",
+                "Ukupno",
+                "Maloljetni korisnici",
+                "Punoljetni korisnici",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1939,29 +1939,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
-                "number_of_users",
-                "number_of_children",
+                "Broj korisnika",
+                "Broj djece",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -1980,12 +1980,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "PYRAMID_SEX",
@@ -2097,7 +2097,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2116,19 +2116,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -2137,7 +2137,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2156,12 +2156,12 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2176,7 +2176,7 @@
           {
             "name": "Value",
             "type": "string",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2195,19 +2195,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2218,7 +2218,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2237,17 +2237,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2266,19 +2266,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2291,7 +2291,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0",
                 "1",
                 "2",
@@ -2416,12 +2416,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2440,102 +2440,102 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "agricultural_households_number",
             "type": "string",
             "constraints": {
               "enum": [
-                "agricultural_households",
-                "agricultural_selling",
+                "Obavljanje poljoprivredne aktivnosti",
+                "Obavljanje poljoprivredne aktivnosti i prodaja poljoprivrednih proizvoda na tržištu",
                 ""
               ]
             },
-            "title": "agricultural_households_number"
+            "title": "Poljoprivredna aktivnost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2554,17 +2554,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2583,19 +2583,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2606,7 +2606,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2625,17 +2625,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2654,30 +2654,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "institutions_for_children_and_youth",
-                "adult_facilities",
+                "Ukupno",
+                "Ustanove za djecu i omladinu",
+                "Ustanove za odrasle",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2696,40 +2696,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "social_sciences,_journalism_and_information",
-                "arts_and_humanities",
-                "information_and_communication_technologies",
-                "engineering,_production_and_construction",
-                "education",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "business,_administration_and_law",
-                "natural_sciences,_mathematics_and_statistics",
-                "services",
-                "health_and_social_protection",
+                "Ukupno",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Umjetnost i humanističke nauke",
+                "Informacione i komunikacione tehnologije",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Obrazovanje",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Poslovanje, administracija i pravo",
+                "Prirodne nauke, matematika i statistika",
+                "Usluge",
+                "Zdravstvo i socijalna zaštita",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Oblast obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2740,7 +2740,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2759,12 +2759,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -2783,17 +2783,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
+                "Živorođeni",
+                "Umrli",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2812,17 +2812,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2841,17 +2841,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2870,12 +2870,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
@@ -2892,12 +2892,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2916,17 +2916,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2945,19 +2945,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -2968,7 +2968,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -2987,107 +2987,107 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "NO_OF_CHILDREN",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "did_not_give_birth",
-                "one_child",
-                "two_children",
-                "three_children",
-                "four_children",
-                "5+_children",
+                "Ukupno",
+                "Nisu rađale",
+                "1 dijete",
+                "2 djece",
+                "3 djece",
+                "4 djece",
+                "5 i više djece",
                 ""
               ]
             },
-            "title": "NO_OF_CHILDREN"
+            "title": "Broj djece"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3106,17 +3106,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3135,30 +3135,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_USERS",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "underage_users",
-                "adult_users",
+                "Ukupno",
+                "Maloljetni korisnici",
+                "Punoljetni korisnici",
                 ""
               ]
             },
-            "title": "TYPE_OF_USERS"
+            "title": "Vrsta korisnika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3177,17 +3177,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3206,17 +3206,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3235,17 +3235,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3264,33 +3264,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_school",
             "type": "string",
             "constraints": {
               "enum": [
-                "gymnasium",
-                "technical_high_schools",
-                "vocational_high_schools",
-                "art_schools",
-                "religious_schools",
-                "high_schools_for_students_with_disabilities",
+                "Gimnazije",
+                "Srednje tehničke škole",
+                "Srednje stručne škole",
+                "Umjetničke škole",
+                "Vjerske škole",
+                "Srednje škole za učenike sa smetnjama u razvoju",
                 ""
               ]
             },
-            "title": "type_of_school"
+            "title": "Vrsta škole"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3309,17 +3309,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3338,17 +3338,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3367,17 +3367,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3396,17 +3396,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3425,17 +3425,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3454,30 +3454,30 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "public",
-                "private",
+                "Ukupno",
+                "Javna",
+                "Privatna",
                 ""
               ]
             },
-            "title": "type_of_institution"
+            "title": "Vrsta ustanove"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3496,92 +3496,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3594,24 +3594,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "muslim",
-                "catholic",
-                "orthodox",
-                "agnostic",
-                "atheist",
-                "other_religion",
-                "does_not_declare",
-                "unknown_religion",
+                "Ukupno",
+                "Islamska",
+                "Katolička",
+                "Pravoslavna",
+                "Agnostik",
+                "Ateist",
+                "Ostali",
+                "Ne izjašnjava se",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Religion"
+            "title": "Vjeroispovjest"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3630,19 +3630,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3653,7 +3653,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3672,12 +3672,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "TYPE_OF_DEPENDENCY_RATIO",
@@ -3690,7 +3690,7 @@
                 ""
               ]
             },
-            "title": "TYPE_OF_DEPENDENCY_RATIO"
+            "title": "Vrsta koeficijenta zavisnosti"
           },
           {
             "name": "SEX",
@@ -3707,7 +3707,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3726,17 +3726,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3755,19 +3755,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -3780,36 +3780,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "infectious_and_parasitic",
-                "neoplasms",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_ear",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "special_purpose_codes",
+                "Ukupno",
+                "(A00-B99) Infektivne i parazitske bolesti",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H59) Bolesti oka i pripojka oka",
+                "(H60-H93) Bolesti uva i mastoidnog nastavka",
+                "(I00-I99) Bolesti cirkulatornog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitourinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
+                "(U00-U85) Šifre za posebne namjene",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3828,17 +3828,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3857,17 +3857,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -3886,19 +3886,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0",
                 "1",
                 "2",
@@ -3993,14 +3993,14 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4011,7 +4011,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4030,19 +4030,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4055,18 +4055,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "LIVE_BIRTH",
-                "DEATHS",
-                "NATURAL_CHANGE",
+                "Živorođeni",
+                "Umrli",
+                "Prirodni priraštaj",
                 ""
               ]
             },
-            "title": "BIRTHS"
+            "title": "Vitalna statistika"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4085,17 +4085,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4114,17 +4114,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4143,17 +4143,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4172,14 +4172,14 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4192,42 +4192,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "neoplasms",
-                "diseases_of_the_circulatory",
-                "diseases_of_the_respiratory",
-                "diseases_of_the_digestive",
-                "symptoms_signs_and_abnormal",
-                "injuries_poisoning_and_consequences",
-                "total",
-                "infectious_and_parasitic",
-                "diseases_of_the_blood",
-                "endocrine_metabolic_and_nutritional",
-                "mental_and_behavioural_disorders",
-                "diseases_of_the_nervous",
-                "diseases_of_the_eye",
-                "diseases_of_the_skin",
-                "diseases_of_the_musculoskeletal",
-                "diseases_of_the_genitourinary",
-                "pregnancy_childbirth_and_the",
-                "certain_conditions_originating",
-                "congenital_malformations_deformations",
-                "external_causes_of_mortality",
-                "factors_influencing_health_status",
-                "unknown",
+                "(C00-C97,D00-D48) Neoplazme",
+                "(I00-I99) Bolesti cirkulatornog sistema",
+                "(J00-J99) Bolesti respiratornog sistema",
+                "(K00-K93) Bolesti digestivnog sistema",
+                "(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",
+                "(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",
+                "Ukupno",
+                "(A00-B99) Infektivne i parazitske bolesti",
+                "(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema",
+                "(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",
+                "(F00-F99) Duševni poremećaji i poremećaji ponašanja",
+                "(G00-G99) Bolesti nervnog sistema",
+                "(H00-H59) Bolesti oka i pripojka oka",
+                "(L00-L99) Bolesti kože i potkožnog tkiva",
+                "(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva",
+                "(N00-N99) Bolesti genitourinarnog sistema",
+                "(O00-O99) Trudnoća, porođaj i puerperijum",
+                "(P00-P96) Određena stanja nastala u perinatalnom periodu",
+                "(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",
+                "(V01-Y98) Spoljni uzroci smrtnosti",
+                "(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "CAUSE_OF_DEATH"
+            "title": "Uzrok smrti (prema šiframa bolesti po MKB-10)"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4246,91 +4246,91 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Municipality",
             "type": "string",
             "constraints": {
               "enum": [
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "Municipality"
+            "title": "Opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4343,7 +4343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -4365,12 +4365,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4389,17 +4389,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4418,17 +4418,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4447,19 +4447,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4470,7 +4470,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4489,17 +4489,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4518,17 +4518,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4547,17 +4547,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4576,17 +4576,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4605,92 +4605,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4703,23 +4703,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "eyesight",
-                "hearing",
-                "walking",
-                "memory",
-                "dressing",
-                "communication",
-                "multiple_disabilities",
+                "Ukupno",
+                "Vid, iako nosi naočare",
+                "Sluh, iako koristi slušni aparat",
+                "Hod ili penjanje uz stepenice",
+                "Pamćenje ili koncentracija",
+                "Odijevanje i održavanje lične higijene",
+                "Komunikacija",
+                "Sa više poteškoća",
                 ""
               ]
             },
-            "title": "Disabilities"
+            "title": "Vrsta poteškoće"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4738,19 +4738,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Age_group",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0-4",
                 "5-9",
                 "10-14",
@@ -4773,14 +4773,14 @@
                 ""
               ]
             },
-            "title": "Age_group"
+            "title": "Starosna grupa"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4791,7 +4791,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4810,92 +4810,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4908,22 +4908,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
-                "bosniaks",
-                "croats",
-                "serbs",
-                "other_ethnicity/nationality",
-                "does_not_declare_ethnicity/nationality",
-                "unknown_ethnicity/nationality",
+                "Ukupno",
+                "Bošnjaci",
+                "Hrvati",
+                "Srbi",
+                "Ostali",
+                "Ne izjašnjava se",
+                "Nepoznato",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Etnička/nacionalna pripadnost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4942,19 +4942,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -4965,7 +4965,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -4984,53 +4984,53 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Ukupno",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Oblast obrazovanja"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Magistarske studije",
+                "Master studije",
+                "Specijalističke studije",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5041,7 +5041,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5060,19 +5060,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5083,7 +5083,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5102,19 +5102,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5125,7 +5125,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5144,17 +5144,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5173,92 +5173,92 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocna_ilidza",
-                "istocni_drvar",
-                "istocni_mostar",
-                "istocni_stari_grad",
-                "istocno_novo_sarajevo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kozarska_dubica",
-                "kostajnica",
-                "kotor_varos",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pale",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "sokolac",
-                "srbac",
-                "srebrenica",
-                "teslic",
-                "grad_trebinje",
-                "trnovo",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočna Ilidža",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Istočni Stari Grad",
+                "Istočno Novo Sarajevo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kozarska Dubica",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pale",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Sokolac",
+                "Srbac",
+                "Srebrenica",
+                "Teslić",
+                "Grad Trebinje",
+                "Trnovo",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5271,22 +5271,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "no_education",
-                "incomplete_elementary",
-                "elementary_education",
-                "secondary_education",
-                "secondary_specialization",
-                "first_degree",
-                "university_degree",
+                "Bez obrazovanja",
+                "Nepotpuno osnovno obrazovanje",
+                "Osnovna škola",
+                "Srednja škola",
+                "Specijalizacija poslije srednje škole",
+                "Viša škola i prvi stepen fakulteta",
+                "Visoka škola / fakultet / akademija / univerzitet",
                 ""
               ]
             },
-            "title": "Educational_attainment"
+            "title": "Najviša završena škola"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5305,19 +5305,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5328,7 +5328,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5347,19 +5347,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5380,12 +5380,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5404,12 +5404,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -5418,7 +5418,7 @@
               "enum": [
                 "M",
                 "Ž",
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -5427,7 +5427,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5446,12 +5446,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
@@ -5468,7 +5468,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5487,17 +5487,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5516,19 +5516,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5549,12 +5549,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5573,19 +5573,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5606,12 +5606,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5630,94 +5630,94 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "ADMIN_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "republika_srpska",
-                "grad_banja_luka",
-                "berkovici",
-                "grad_bijeljina",
-                "bileca",
-                "bratunac",
-                "brod",
-                "visegrad",
-                "vlasenica",
-                "vukosavlje",
-                "gacko",
-                "grad_gradiska",
-                "grad_derventa",
-                "grad_doboj",
-                "donji_zabar",
-                "grad_zvornik",
-                "istocni_drvar",
-                "istocni_mostar",
-                "grad_istocno_sarajevo",
-                "istocna_ilidza",
-                "istocno_novo_sarajevo",
-                "istocni_stari_grad",
-                "pale",
-                "sokolac",
-                "trnovo",
-                "jezero",
-                "kalinovik",
-                "knezevo",
-                "kostajnica",
-                "kotor_varos",
-                "kozarska_dubica",
-                "krupa_na_uni",
-                "kupres",
-                "laktasi",
-                "lopare",
-                "ljubinje",
-                "milici",
-                "modrica",
-                "mrkonjic_grad",
-                "nevesinje",
-                "novi_grad",
-                "novo_gorazde",
-                "osmaci",
-                "ostra_luka",
-                "pelagicevo",
-                "petrovac",
-                "petrovo",
-                "grad_prijedor",
-                "prnjavor",
-                "ribnik",
-                "rogatica",
-                "rudo",
-                "srbac",
-                "srebrenica",
-                "stanari",
-                "teslic",
-                "grad_trebinje",
-                "ugljevik",
-                "foca",
-                "han_pijesak",
-                "cajnice",
-                "celinac",
-                "samac",
-                "sekovici",
-                "sipovo",
+                "Republika Srpska",
+                "Grad Banja Luka",
+                "Berkovići",
+                "Grad Bijeljina",
+                "Bileća",
+                "Bratunac",
+                "Brod",
+                "Višegrad",
+                "Vlasenica",
+                "Vukosavlje",
+                "Gacko",
+                "Grad Gradiška",
+                "Grad Derventa",
+                "Grad Doboj",
+                "Donji Žabar",
+                "Grad Zvornik",
+                "Istočni Drvar",
+                "Istočni Mostar",
+                "Grad Istočno Sarajevo",
+                "Istočna Ilidža",
+                "Istočno Novo Sarajevo",
+                "Istočni Stari Grad",
+                "Pale",
+                "Sokolac",
+                "Trnovo",
+                "Jezero",
+                "Kalinovik",
+                "Kneževo",
+                "Kostajnica",
+                "Kotor Varoš",
+                "Kozarska Dubica",
+                "Krupa Na Uni",
+                "Kupres",
+                "Laktaši",
+                "Lopare",
+                "Ljubinje",
+                "Milići",
+                "Modriča",
+                "Mrkonjić Grad",
+                "Nevesinje",
+                "Novi Grad",
+                "Novo Goražde",
+                "Osmaci",
+                "Oštra Luka",
+                "Pelagićevo",
+                "Petrovac",
+                "Petrovo",
+                "Grad Prijedor",
+                "Prnjavor",
+                "Ribnik",
+                "Rogatica",
+                "Rudo",
+                "Srbac",
+                "Srebrenica",
+                "Stanari",
+                "Teslić",
+                "Grad Trebinje",
+                "Ugljevik",
+                "Foča",
+                "Han Pijesak",
+                "Čajniče",
+                "Čelinac",
+                "Šamac",
+                "Šekovići",
+                "Šipovo",
                 ""
               ]
             },
-            "title": "ADMIN_AREA"
+            "title": "Grad/opština"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5749,16 +5749,16 @@
                 "80-84",
                 "85-89",
                 "90+",
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5777,19 +5777,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 ""
               ]
             },
@@ -5798,7 +5798,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5817,19 +5817,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5842,7 +5842,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "0",
                 "1-4",
                 "5-9",
@@ -5872,12 +5872,12 @@
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Starost"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5896,32 +5896,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "type_of_education",
             "type": "string",
             "constraints": {
               "enum": [
-                "enrolled_in_master_of_science_studies",
-                "enrolled_in_master_studies",
-                "enrolled_in_specialist_studies",
+                "Magistarske studije",
+                "Master studije",
+                "Specijalističke studije",
                 ""
               ]
             },
-            "title": "type_of_education"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5932,7 +5932,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -5951,40 +5951,40 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "scientific_field",
             "type": "string",
             "constraints": {
               "enum": [
-                "total",
-                "natural_sciences,_mathematics_and_statistics",
-                "engineering,_production_and_construction",
-                "information_and_communication_technologies",
-                "health_and_social_protection",
-                "agriculture,_forestry,_fisheries_and_veterinary_medicine",
-                "social_sciences,_journalism_and_information",
-                "business,_administration_and_law",
-                "education",
-                "arts_and_humanities",
-                "services",
+                "Ukupno",
+                "Prirodne nauke, matematika i statistika",
+                "Inženjerstvo, proizvodnja i građevinarstvo",
+                "Informacione i komunikacione tehnologije",
+                "Zdravstvo i socijalna zaštita",
+                "Poljoprivreda, šumarstvo, ribarstvo i veterinarstvo",
+                "Društvene nauke, novinarstvo i informisanje",
+                "Poslovanje, administracija i pravo",
+                "Obrazovanje",
+                "Umjetnost i humanističke nauke",
+                "Usluge",
                 ""
               ]
             },
-            "title": "scientific_field"
+            "title": "Oblast obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -5995,7 +5995,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -6014,17 +6014,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -6043,17 +6043,17 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -6072,7 +6072,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "SEX",
@@ -6089,12 +6089,12 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },
@@ -6113,32 +6113,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Godina"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Mjerna jedinica"
           },
           {
             "name": "Degree",
             "type": "string",
             "constraints": {
               "enum": [
-                "masters_of_science",
-                "masters",
-                "specialists",
+                "Magistri nauka",
+                "Masteri",
+                "Specijalisti",
                 ""
               ]
             },
-            "title": "Degree"
+            "title": "Vrsta obrazovanja"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "_T",
+                "Ukupno",
                 "M",
                 "Ž",
                 ""
@@ -6149,7 +6149,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Vrijednost"
           }
         ]
       },

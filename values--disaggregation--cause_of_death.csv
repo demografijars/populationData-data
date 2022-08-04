@@ -1,25 +1,25 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-certain_conditions_originating,(P00-P96) Certain conditions originating in the perinatal period,certain_conditions_originating,(П00-П96) Одређена стања настала у перинаталном периоду,7,3
-congenital_malformations_deformations,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities",congenital_malformations_deformations,"(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7,3
-diseases_of_the_blood,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",diseases_of_the_blood,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,7,3
-diseases_of_the_circulatory,(I00-I99) Diseases of the circulatory system,diseases_of_the_circulatory,(И00-И99) Болести циркулаторног система,7,3
-diseases_of_the_digestive,(K00-K93) Diseases of the digestive system,diseases_of_the_digestive,(К00-К93) Болести дигестивног система,7,3
-diseases_of_the_ear,(H60–H93) Diseases of the ear and adnexa,diseases_of_the_ear,(Х60-Х93) Болести ува и мастоидног наставка,3,1
-diseases_of_the_eye,(H00-H59) Diseases of the eye,diseases_of_the_eye,(Х00-Х59) Болести ока и припојка ока,7,3
-diseases_of_the_genitourinary,(N00-N99) Diseases of the genitourinary system,diseases_of_the_genitourinary,(Н00-Н99) Болести генитоуринарног система,7,3
-diseases_of_the_musculoskeletal,(M00-M99) Diseases of the musculoskeletal system and connective tissue,diseases_of_the_musculoskeletal,(М00-М99) Болести мишићно-коштаног система и везивног ткива,7,3
-diseases_of_the_nervous,(G00-G99) Diseases of the nervous system,diseases_of_the_nervous,(Г00-Г99) Болести нервног система,7,3
-diseases_of_the_respiratory,(J00-J99) Diseases of the respiratory system,diseases_of_the_respiratory,(Ј00-Ј99) Болести респираторног система,7,3
-diseases_of_the_skin,(L00-L99) Diseases of the skin and subcutaneous tissue,diseases_of_the_skin,(Л00-Л99) Болести коже и поткожног ткива,7,3
-endocrine_metabolic_and_nutritional,(E00-E90) Endocrine metabolic and nutritional diseases,endocrine_metabolic_and_nutritional,"(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",7,3
-external_causes_of_mortality,(V01-Y98) External causes of mortality,external_causes_of_mortality,(В01-Y98) Спољни узроци смртности,4,2
-factors_influencing_health_status,(Z00-Z99) Factors influencing health status and contract with health services,factors_influencing_health_status,(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом,4,2
-infectious_and_parasitic,(A00-B99) Infectious and parasitic diseases,infectious_and_parasitic,(А00-Б99) Инфективне и паразитске болести,7,3
-injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequences of external causes",injuries_poisoning_and_consequences,"(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",7,3
-mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,mental_and_behavioural_disorders,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,7,3
-neoplasms,"(C00-C97,D00-D48) Neoplasms",neoplasms,"(Ц00-Ц97,Д00-Д48) Неоплазме",7,3
-pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium",pregnancy_childbirth_and_the,"(О00-О99) Трудноћа, порођај и пуерперијум",5,3
-special_purpose_codes,(U00-U85) Special purpose codes,special_purpose_codes,(У00-У85) Шифре за посебне намјене,3,1
-symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",symptoms_signs_and_abnormal,"(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",7,3
-total,Total,total,Укупно,6,2
-unknown,Unknown,unknown,Непознато,4,2
+certain_conditions_originating,(P00-P96) Certain conditions originating in the perinatal period,(P00-P96) Određena stanja nastala u perinatalnom periodu,(П00-П96) Одређена стања настала у перинаталном периоду,7,3
+congenital_malformations_deformations,"(Q00-Q99) Congenital malformations, deformations and chromosomal abnormalities","(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti","(Q00-Q99) Конгениталне аномалије, деформације и хромозомске ненормалности",7,3
+diseases_of_the_blood,"(D50-D89) Diseases of the blood and blood-forming organs, disorders involving the immune mechanism",(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,(Д50-Д89) Болести крви и крвотворних органа и неки поремећаји имуног система,7,3
+diseases_of_the_circulatory,(I00-I99) Diseases of the circulatory system,(I00-I99) Bolesti cirkulatornog sistema,(И00-И99) Болести циркулаторног система,7,3
+diseases_of_the_digestive,(K00-K93) Diseases of the digestive system,(K00-K93) Bolesti digestivnog sistema,(К00-К93) Болести дигестивног система,7,3
+diseases_of_the_ear,(H60–H93) Diseases of the ear and adnexa,(H60-H93) Bolesti uva i mastoidnog nastavka,(Х60-Х93) Болести ува и мастоидног наставка,3,1
+diseases_of_the_eye,(H00-H59) Diseases of the eye,(H00-H59) Bolesti oka i pripojka oka,(Х00-Х59) Болести ока и припојка ока,7,3
+diseases_of_the_genitourinary,(N00-N99) Diseases of the genitourinary system,(N00-N99) Bolesti genitourinarnog sistema,(Н00-Н99) Болести генитоуринарног система,7,3
+diseases_of_the_musculoskeletal,(M00-M99) Diseases of the musculoskeletal system and connective tissue,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,(М00-М99) Болести мишићно-коштаног система и везивног ткива,7,3
+diseases_of_the_nervous,(G00-G99) Diseases of the nervous system,(G00-G99) Bolesti nervnog sistema,(Г00-Г99) Болести нервног система,7,3
+diseases_of_the_respiratory,(J00-J99) Diseases of the respiratory system,(J00-J99) Bolesti respiratornog sistema,(Ј00-Ј99) Болести респираторног система,7,3
+diseases_of_the_skin,(L00-L99) Diseases of the skin and subcutaneous tissue,(L00-L99) Bolesti kože i potkožnog tkiva,(Л00-Л99) Болести коже и поткожног ткива,7,3
+endocrine_metabolic_and_nutritional,(E00-E90) Endocrine metabolic and nutritional diseases,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma","(Е00-Е90) Болести жлијезда са унутрашњим лучењем, исхране и метаболизма",7,3
+external_causes_of_mortality,(V01-Y98) External causes of mortality,(V01-Y98) Spoljni uzroci smrtnosti,(В01-Y98) Спољни узроци смртности,4,2
+factors_influencing_health_status,(Z00-Z99) Factors influencing health status and contract with health services,(Z00-Z99) Faktori koji utiču na zdravstveno stanje i kontakt sa zdravstvenom službom,(З00-З99) Фактори који утичу на здравствено стање и контакт са здравственом службом,4,2
+infectious_and_parasitic,(A00-B99) Infectious and parasitic diseases,(A00-B99) Infektivne i parazitske bolesti,(А00-Б99) Инфективне и паразитске болести,7,3
+injuries_poisoning_and_consequences,"(S00-T98) Injuries, poisoning and consequences of external causes","(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora","(С00-Т98) Повреде, тровања и посљедице дјеловања спољних фактора",7,3
+mental_and_behavioural_disorders,(F00-F99) Mental and behavioural disorders,(F00-F99) Duševni poremećaji i poremećaji ponašanja,(Ф00-Ф99) Душевни поремећаји и поремећаји понашања,7,3
+neoplasms,"(C00-C97,D00-D48) Neoplasms","(C00-C97,D00-D48) Neoplazme","(Ц00-Ц97,Д00-Д48) Неоплазме",7,3
+pregnancy_childbirth_and_the,"(O00-O99) Pregnancy, childbirth and the puerperium","(O00-O99) Trudnoća, porođaj i puerperijum","(О00-О99) Трудноћа, порођај и пуерперијум",5,3
+special_purpose_codes,(U00-U85) Special purpose codes,(U00-U85) Šifre za posebne namjene,(У00-У85) Шифре за посебне намјене,3,1
+symptoms_signs_and_abnormal,"(R00-R99) Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu","(Р00-Р99) Симптоми, знакови и ненормални клинички и лабораторијски налази, некласификовани на другом мјесту",7,3
+total,Total,Ukupno,Укупно,6,2
+unknown,Unknown,Nepoznato,Непознато,4,2

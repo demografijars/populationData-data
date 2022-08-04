@@ -1,5 +1,5 @@
-Year,UNIT_MEASURE,AGE,Pol,Value
-2013,Broj,_T,Ukupno,1171179
+Year,UNIT_MEASURE,Starost,Pol,Value
+2013,Broj,Ukupno,Ukupno,1171179
 2013,Broj,0,Ukupno,10035
 2013,Broj,1,Ukupno,10460
 2013,Broj,2,Ukupno,10707
@@ -91,7 +91,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2013,Broj,88,Ukupno,1215
 2013,Broj,89,Ukupno,906
 2013,Broj,90 +,Ukupno,2101
-2013,Broj,_T,M,572298
+2013,Broj,Ukupno,M,572298
 2013,Broj,0,M,5127
 2013,Broj,1,M,5347
 2013,Broj,2,M,5471
@@ -183,7 +183,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2013,Broj,88,M,383
 2013,Broj,89,M,277
 2013,Broj,90 +,M,617
-2013,Broj,_T,Ž,598881
+2013,Broj,Ukupno,Ž,598881
 2013,Broj,0,Ž,4908
 2013,Broj,1,Ž,5113
 2013,Broj,2,Ž,5236
@@ -275,7 +275,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2013,Broj,88,Ž,832
 2013,Broj,89,Ž,629
 2013,Broj,90 +,Ž,1484
-2014,Broj,_T,Ukupno,1167082
+2014,Broj,Ukupno,Ukupno,1167082
 2014,Broj,0,Ukupno,9475
 2014,Broj,1,Ukupno,10043
 2014,Broj,2,Ukupno,10468
@@ -367,7 +367,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2014,Broj,88,Ukupno,1341
 2014,Broj,89,Ukupno,975
 2014,Broj,90 +,Ukupno,2300
-2014,Broj,_T,M,570176
+2014,Broj,Ukupno,M,570176
 2014,Broj,0,M,4901
 2014,Broj,1,M,5132
 2014,Broj,2,M,5344
@@ -459,7 +459,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2014,Broj,88,M,427
 2014,Broj,89,M,291
 2014,Broj,90 +,M,674
-2014,Broj,_T,Ž,596906
+2014,Broj,Ukupno,Ž,596906
 2014,Broj,0,Ž,4574
 2014,Broj,1,Ž,4911
 2014,Broj,2,Ž,5124
@@ -551,7 +551,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2014,Broj,88,Ž,914
 2014,Broj,89,Ž,684
 2014,Broj,90 +,Ž,1626
-2015,Broj,_T,Ukupno,1162164
+2015,Broj,Ukupno,Ukupno,1162164
 2015,Broj,0,Ukupno,9368
 2015,Broj,1,Ukupno,9480
 2015,Broj,2,Ukupno,10048
@@ -643,7 +643,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2015,Broj,88,Ukupno,1446
 2015,Broj,89,Ukupno,1067
 2015,Broj,90 +,Ukupno,2507
-2015,Broj,_T,M,567711
+2015,Broj,Ukupno,M,567711
 2015,Broj,0,M,4854
 2015,Broj,1,M,4907
 2015,Broj,2,M,5133
@@ -735,7 +735,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2015,Broj,88,M,467
 2015,Broj,89,M,329
 2015,Broj,90 +,M,749
-2015,Broj,_T,Ž,594453
+2015,Broj,Ukupno,Ž,594453
 2015,Broj,0,Ž,4514
 2015,Broj,1,Ž,4573
 2015,Broj,2,Ž,4915
@@ -827,7 +827,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2015,Broj,88,Ž,979
 2015,Broj,89,Ž,738
 2015,Broj,90 +,Ž,1758
-2016,Broj,_T,Ukupno,1157516
+2016,Broj,Ukupno,Ukupno,1157516
 2016,Broj,0,Ukupno,9378
 2016,Broj,1,Ukupno,9354
 2016,Broj,2,Ukupno,9505
@@ -919,7 +919,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2016,Broj,88,Ukupno,1744
 2016,Broj,89,Ukupno,1151
 2016,Broj,90 +,Ukupno,2720
-2016,Broj,_T,M,565368
+2016,Broj,Ukupno,M,565368
 2016,Broj,0,M,4855
 2016,Broj,1,M,4847
 2016,Broj,2,M,4934
@@ -1011,7 +1011,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2016,Broj,88,M,625
 2016,Broj,89,M,365
 2016,Broj,90 +,M,822
-2016,Broj,_T,Ž,592148
+2016,Broj,Ukupno,Ž,592148
 2016,Broj,0,Ž,4523
 2016,Broj,1,Ž,4507
 2016,Broj,2,Ž,4571
@@ -1103,7 +1103,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2016,Broj,88,Ž,1119
 2016,Broj,89,Ž,786
 2016,Broj,90 +,Ž,1898
-2017,Broj,_T,Ukupno,1153017
+2017,Broj,Ukupno,Ukupno,1153017
 2017,Broj,0,Ukupno,9367
 2017,Broj,1,Ukupno,9358
 2017,Broj,2,Ukupno,9392
@@ -1195,7 +1195,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2017,Broj,88,Ukupno,1887
 2017,Broj,89,Ukupno,1387
 2017,Broj,90 +,Ukupno,2935
-2017,Broj,_T,M,563187
+2017,Broj,Ukupno,M,563187
 2017,Broj,0,M,4861
 2017,Broj,1,M,4844
 2017,Broj,2,M,4897
@@ -1287,7 +1287,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2017,Broj,88,M,705
 2017,Broj,89,M,500
 2017,Broj,90 +,M,915
-2017,Broj,_T,Ž,589830
+2017,Broj,Ukupno,Ž,589830
 2017,Broj,0,Ž,4506
 2017,Broj,1,Ž,4514
 2017,Broj,2,Ž,4495
@@ -1379,7 +1379,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2017,Broj,88,Ž,1182
 2017,Broj,89,Ž,887
 2017,Broj,90 +,Ž,2020
-2018,Broj,_T,Ukupno,1147902
+2018,Broj,Ukupno,Ukupno,1147902
 2018,Broj,0,Ukupno,9155
 2018,Broj,1,Ukupno,9364
 2018,Broj,2,Ukupno,9354
@@ -1471,7 +1471,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2018,Broj,88,Ukupno,1979
 2018,Broj,89,Ukupno,1524
 2018,Broj,90 +,Ukupno,3110
-2018,Broj,_T,M,560795
+2018,Broj,Ukupno,M,560795
 2018,Broj,0,M,4784
 2018,Broj,1,M,4856
 2018,Broj,2,M,4846
@@ -1563,7 +1563,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2018,Broj,88,M,705
 2018,Broj,89,M,562
 2018,Broj,90 +,M,1002
-2018,Broj,_T,Ž,587107
+2018,Broj,Ukupno,Ž,587107
 2018,Broj,0,Ž,4371
 2018,Broj,1,Ž,4508
 2018,Broj,2,Ž,4508
@@ -1655,7 +1655,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2018,Broj,88,Ž,1274
 2018,Broj,89,Ž,962
 2018,Broj,90 +,Ž,2108
-2019,Broj,_T,Ukupno,1142495
+2019,Broj,Ukupno,Ukupno,1142495
 2019,Broj,0,Ukupno,9410
 2019,Broj,1,Ukupno,9427
 2019,Broj,2,Ukupno,9359
@@ -1747,7 +1747,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2019,Broj,88,Ukupno,2064
 2019,Broj,89,Ukupno,1618
 2019,Broj,90 +,Ukupno,3604
-2019,Broj,_T,M,558093
+2019,Broj,Ukupno,M,558093
 2019,Broj,0,M,4954
 2019,Broj,1,M,4914
 2019,Broj,2,M,4858
@@ -1839,7 +1839,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2019,Broj,88,M,728
 2019,Broj,89,M,565
 2019,Broj,90 +,M,1229
-2019,Broj,_T,Ž,584402
+2019,Broj,Ukupno,Ž,584402
 2019,Broj,0,Ž,4456
 2019,Broj,1,Ž,4513
 2019,Broj,2,Ž,4501
@@ -1931,7 +1931,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2019,Broj,88,Ž,1336
 2019,Broj,89,Ž,1053
 2019,Broj,90 +,Ž,2375
-2020,Broj,_T,Ukupno,1136274
+2020,Broj,Ukupno,Ukupno,1136274
 2020,Broj,0,Ukupno,9194
 2020,Broj,1,Ukupno,9402
 2020,Broj,2,Ukupno,9430
@@ -2023,7 +2023,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2020,Broj,88,Ukupno,2054
 2020,Broj,89,Ukupno,1693
 2020,Broj,90 +,Ukupno,4022
-2020,Broj,_T,M,557422
+2020,Broj,Ukupno,M,557422
 2020,Broj,0,M,4842
 2020,Broj,1,M,4961
 2020,Broj,2,M,4929
@@ -2115,7 +2115,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2020,Broj,88,M,721
 2020,Broj,89,M,593
 2020,Broj,90 +,M,1411
-2020,Broj,_T,Ž,578852
+2020,Broj,Ukupno,Ž,578852
 2020,Broj,0,Ž,4352
 2020,Broj,1,Ž,4441
 2020,Broj,2,Ž,4501
@@ -2207,7 +2207,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2020,Broj,88,Ž,1333
 2020,Broj,89,Ž,1100
 2020,Broj,90 +,Ž,2611
-2021,Broj,_T,Ukupno,1128309
+2021,Broj,Ukupno,Ukupno,1128309
 2021,Broj,0,Ukupno,9194
 2021,Broj,1,Ukupno,9193
 2021,Broj,2,Ukupno,9407
@@ -2299,7 +2299,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2021,Broj,88,Ukupno,2246
 2021,Broj,89,Ukupno,1640
 2021,Broj,90 +,Ukupno,4370
-2021,Broj,_T,M,555675
+2021,Broj,Ukupno,M,555675
 2021,Broj,0,M,4765
 2021,Broj,1,M,4851
 2021,Broj,2,M,4981
@@ -2391,7 +2391,7 @@ Year,UNIT_MEASURE,AGE,Pol,Value
 2021,Broj,88,M,783
 2021,Broj,89,M,577
 2021,Broj,90 +,M,1539
-2021,Broj,_T,Ž,572634
+2021,Broj,Ukupno,Ž,572634
 2021,Broj,0,Ž,4429
 2021,Broj,1,Ž,4342
 2021,Broj,2,Ž,4426

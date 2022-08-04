@@ -1,10 +1,10 @@
-Year,UNIT_MEASURE,PREVALENCE,Value
-2000,_%,all_methods,45.1
-2006,_%,all_methods,40.7
-2011,_%,all_methods,53.7
-2000,_%,traditional_methods,29.4
-2006,_%,traditional_methods,31.2
-2011,_%,traditional_methods,36.9
-2000,_%,modern_methods,15.7
-2006,_%,modern_methods,9.4
-2011,_%,modern_methods,16.8
+Year,UNIT_MEASURE,Upotreba kontracepcije,Value
+2000,% od ukupno,Ukupna stopa prevalence kontracepcije,45.1
+2006,% od ukupno,Ukupna stopa prevalence kontracepcije,40.7
+2011,% od ukupno,Ukupna stopa prevalence kontracepcije,53.7
+2000,% od ukupno,Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda),29.4
+2006,% od ukupno,Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda),31.2
+2011,% od ukupno,Stopa prevalence kontracepcije (upotrebom tradicionalnih metoda),36.9
+2000,% od ukupno,Stopa prevalence kontracepcije (upotrebom savremenih metoda),15.7
+2006,% od ukupno,Stopa prevalence kontracepcije (upotrebom savremenih metoda),9.4
+2011,% od ukupno,Stopa prevalence kontracepcije (upotrebom savremenih metoda),16.8
