@@ -362,3 +362,7 @@ promil: "‰"
 1.1.2_meta_promil: Promil
 1.1.2_meta_def_natural_growth_rate: Natural increase rate represents the difference between natality and mortality rates in the referent year
 1.1.2_meta_calculations: Difference between natality and mortality rates j=n-m
+1.2.1_meta_natality_rate: Natality rate
+1.2.1_meta_promil: Promil
+1.2.1_meta_def_natality_rate: Natality rate represents the ratio between number of live births and population estimate in the referent year
+1.2.1_meta_calculations: Number of live births per 1000 population in the referent year n=(N/P)*1000
