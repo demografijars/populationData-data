@@ -414,3 +414,8 @@ promil: ‰
 1.1.2_meta_promil: Promil
 1.1.2_meta_def_natural_growth_rate: Stopa prirodnog priraštaja predstavlja razliku između stope nataliteta i stope mortaliteta u posmatranoj godini
 1.1.2_meta_calculations: Razlika između stope nataliteta i stope mortaliteta j=n-m
+1.2.1_meta_natality_rate: Stopa nataliteta
+1.2.1_meta_promil: Promil
+1.2.1_meta_def_natality_rate: Stopa nataliteta predstavlja odnos između broja živorođenih i procijenjenog broja stanovnika u posmatranoj godini
+1.2.1_meta_calculations: Broj živorođenih na 1000 stanovnika u godini posmatranja n=(N/P)*1000
+
