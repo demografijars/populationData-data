@@ -422,4 +422,7 @@ promil: ‰
 1.2.2_meta_number: Broj
 1.2.2_meta_def_fertility_rate: Stopa ukupnog fertiliteta označava prosječan broj djece koje će žena roditi do kraja reproduktivnog perioda života, ukoliko sadašnje starosno-specifične stope fertiliteta ostanu iste
 1.2.2_meta_calculations: Izračunava se sabiranjem starosno-specifičnih stopa fertiliteta za svaku petogodišnju starosnu grupu žena od 15 do 49 godina života
-
+1.2.3_meta_sex_ratio_at_birth: Odnos polova pri rođenju
+1.2.3_meta_number: Broj
+1.2.3_meta_def_sex_ratio_at_birth: Odnos broja živorođenih muškaraca i broja živorođenih žena u populaciji
+1.2.3_meta_calculations: Broj živorođenih muškaraca podijeljen sa brojem živorođenih žena, pomnožen sa 100
