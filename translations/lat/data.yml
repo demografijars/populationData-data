@@ -426,3 +426,7 @@ promil: ‰
 1.2.3_meta_number: Broj
 1.2.3_meta_def_sex_ratio_at_birth: Odnos broja živorođenih muškaraca i broja živorođenih žena u populaciji
 1.2.3_meta_calculations: Broj živorođenih muškaraca podijeljen sa brojem živorođenih žena, pomnožen sa 100
+1.3.1_meta_mortality_rate: Stopa mortaliteta
+1.3.1_meta_promil: Promil
+1.3.1_meta_def_mortality_rate: Stopa mortaliteta predstavlja odnos između broja umrlih i procijenjenog broja stanovnika u posmatranoj godini
+1.3.1_meta_calculations: Broj umrlih na 1000 stanovnika u godini posmatranja m=(M/P)*1000
