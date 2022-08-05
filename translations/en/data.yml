@@ -374,3 +374,7 @@ promil: "‰"
 1.2.3_meta_number: Number
 1.2.3_meta_def_sex_ratio_at_birth: Ratio between live birth men and woman in population
 1.2.3_meta_calculations: Number of live birth men divided with number of live birth woman, multiplied with 100
+1.3.1_meta_mortality_rate: Mortality rate
+1.3.1_meta_promil: Promil
+1.3.1_meta_def_mortality_rate: Mortality rate represents the ratio between number of deaths and population estimate in the referent year
+1.3.1_meta_calculations: Number of deaths per 1000 population estimate in the referent year m=(M/P)*1000
