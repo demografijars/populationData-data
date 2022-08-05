@@ -419,7 +419,7 @@ promil: ‰
 1.2.1_meta_def_natality_rate: Stopa nataliteta predstavlja odnos između broja živorođenih i procijenjenog broja stanovnika u posmatranoj godini
 1.2.1_meta_calculations: Broj živorođenih na 1000 stanovnika u godini posmatranja n=(N/P)*1000
 1.2.2_meta_fertility_rate: Stopa ukupnog fertiliteta
-1.2.2_meta_broj: Broj
+1.2.2_meta_number: Broj
 1.2.2_meta_def_fertility_rate: Stopa ukupnog fertiliteta označava prosječan broj djece koje će žena roditi do kraja reproduktivnog perioda života, ukoliko sadašnje starosno-specifične stope fertiliteta ostanu iste
 1.2.2_meta_calculations: Izračunava se sabiranjem starosno-specifičnih stopa fertiliteta za svaku petogodišnju starosnu grupu žena od 15 do 49 godina života
 
