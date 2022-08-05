@@ -367,6 +367,6 @@ promil: "‰"
 1.2.1_meta_def_natality_rate: Natality rate represents the ratio between number of live births and population estimate in the referent year
 1.2.1_meta_calculations: Number of live births per 1000 population in the referent year n=(N/P)*1000
 1.2.2_meta_fertility_rate: Total fertility rate
-1.2.2_meta_broj: Number
+1.2.2_meta_number: Number
 1.2.2_meta_def_fertility_rate: The total fertility rate of a population is the average number of children that would be born to a woman over her lifetime if current age-specific fertility rates not change
 1.2.2_meta_calculations: Sum of age-specific fertility rates for each five-age group of woman between 15-49 year of life
