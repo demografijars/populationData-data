@@ -387,4 +387,9 @@ promil: "‰"
 1.3.4_meta_def_deaths_by_cause_of_death_and_sex: Cause of death covers diseases, morbid conditions or injuries which either resulted in or contributed to death, as well as circumstances of the accident or violence which produced such injuries.
 1.3.4_meta_calculations:
 1.3.4_meta_other_informations: Other informations
+1.3.5_meta_stillbirths_by_sex: Stillbirths by sex
+1.3.5_meta_number: Number
+1.3.5_meta_def_stillbirths_by_sex: Still-born child is considered a child, born or taken out from a mother’s body, who exhibits no signs of life, i.e. not breathing nor showing any other sign of life, where pregnancy lasted more than 22 weeks (approximately 6 lunar months) and weight at child-birth was 500 g or more
+1.3.5_meta_calculations:
+1.3.5_meta_other_informations: Other informations
 
