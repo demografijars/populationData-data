@@ -430,7 +430,7 @@ promil: ‰
 1.3.1_meta_promil: Promil
 1.3.1_meta_def_mortality_rate: Stopa mortaliteta predstavlja odnos između broja umrlih i procijenjenog broja stanovnika u posmatranoj godini
 1.3.1_meta_calculations: Broj umrlih na 1000 stanovnika u godini posmatranja m=(M/P)*1000
-1.3.3_meta_infant_deaths_rate: Stopa smrtnosti odojčadi
+1.3.3_meta_infant_mortality_rate: Stopa smrtnosti odojčadi
 1.3.3_meta_promil: Promil
-1.3.3_meta_def_infant_deaths: Stopa smrtnosti odojčadi predstavlja odnos između broja umrle djece do jedne godine starosti na 1000 živorođenih u posmatranoj godini
+1.3.3_meta_def_infant_mortality: Stopa smrtnosti odojčadi predstavlja odnos između broja umrle djece do jedne godine starosti na 1000 živorođenih u posmatranoj godini
 1.3.3_meta_calculations: Broj umrle djece do jedne godine starosti na 1000 živorođenih u godini posmatranja
