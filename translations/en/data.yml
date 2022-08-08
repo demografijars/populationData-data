@@ -409,7 +409,12 @@ promil: "‰"
 1.4.3_meta_other_informations: Other informations
 1.4.4_meta_average_age_of_spouses_at_first_marriage: Average age of spouses at first marriage
 1.4.4_meta_year: Year
-1.4.4_meta_def_average_age_of_spouses_at_first_marriage: The average age of the bride and groom represents the average age at the time of the first marriage
+1.4.4_meta_def_average_age_of_spouses_at_first_marriage: Average age of the bride and groom represents the average age at the time of the first marriage
 1.4.4_meta_calculations:
-1.4.4_meta_other_informations: Ostale informacije
+1.4.4_meta_other_informations: Other informations
+1.4.5_meta_average_age_of_husband_and_wife_at_divorce: Average age of husband and wife at divorce
+1.4.5_meta_year: Year
+1.4.5_meta_def_average_age_of_husband_and_wife_at_divorce: Average ages of husband and wife at divorce represents average years of age at divorce 
+1.4.5_meta_calculations:
+1.4.5_meta_other_informations: Other informations
 
