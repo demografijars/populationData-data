@@ -382,4 +382,9 @@ promil: "‰"
 1.3.3_meta_promil: Promil
 1.3.3_meta_def_infant_mortality: Infant mortality rate represents the number of deaths of children under one year of age per 1000 live births in the referent year
 1.3.3_meta_calculations: Number of deaths of children under one year of age per 1000 live births in the referent year
+1.3.4_meta_deaths_by_cause_of_death_and_sex: Deaths by cause of death and sex
+1.3.4_meta_number: Number
+1.3.4_meta_def_deaths_by_cause_of_death_and_sex: Cause of death covers diseases, morbid conditions or injuries which either resultedin or contributed to death, as well as circumstances of the accident or violence which produced such injuries.
+1.3.4_meta_calculations:
+1.3.4_meta_other_informations: Other informations
 
