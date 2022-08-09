@@ -432,23 +432,23 @@ promil: "‰"
 1.6.4_meta_def_divorciality_rate: Divorciality rate represents the ratio between number of divorces and estimated number of inhibitants in a referent year
 1.6.4_meta_calculations: Number of divorces per 1000 inhibitants in referent year
 1.6.4_meta_other_informations: Other informations
-1.1.1_meta_vital_statistics: Vital statistics
-1.1.1_meta_number: Number
+1.1.1_meta_vital_statistics:
+1.1.1_meta_number:
 1.1.1_meta_def_vital_statistics: 
 1.1.1_meta_calculations: 
 1.1.1_meta_other_informations: https://www.rzs.rs.ba/static/uploads/izvjestaji_o_kvalitetu/Izvjestaj_o_Kvalitetu_Rodjeni_i_Umrli_2020.pdf
-1.3.2_meta_infant_mortality: Infant mortality
-1.3.2_meta_number: Number
+1.3.2_meta_infant_mortality:
+1.3.2_meta_number:
 1.3.2_meta_def_infant_mortality: 
 1.3.2_meta_calculations: 
 1.3.2_meta_other_informations: https://www.rzs.rs.ba/static/uploads/izvjestaji_o_kvalitetu/Izvjestaj_o_Kvalitetu_Rodjeni_i_Umrli_2020.pdf
-1.6.1_meta_marriages: Marriages
-1.6.1_meta_number: Number
+1.6.1_meta_marriages:
+1.6.1_meta_number:
 1.6.1_meta_def_marriages: 
 1.6.1_meta_calculations:
 1.6.1_meta_other_informations: https://www.rzs.rs.ba/static/uploads/izvjestaji_o_kvalitetu/Izvjestaj_o_Kvalitetu_Sklopljeni_i_Razvedeni_Brakovi_2020.pdf
-1.6.3_meta_divorces: Divorces
-1.6.3_meta_number: Number
+1.6.3_meta_divorces:
+1.6.3_meta_number:
 1.6.3_meta_def_divorces: 
 1.6.3_meta_calculations:
 1.6.3_meta_other_informations: https://www.rzs.rs.ba/static/uploads/izvjestaji_o_kvalitetu/Izvjestaj_o_Kvalitetu_Sklopljeni_i_Razvedeni_Brakovi_2020.pdf
