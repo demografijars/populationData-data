@@ -427,4 +427,9 @@ promil: "‰"
 1.6.2_meta_def_nuptiality_rate: Nuptiality rate represents the ratio between number of marriages and estimated number of inhibitants in a referent year
 1.6.2_meta_calculations: Number of marriages per 1000 inhibitants in referent year
 1.6.2_meta_other_informations: Other informations
+1.6.4_meta_divorciality_rate: Divorciality rate
+1.6.4_meta_promil: Promil
+1.6.4_meta_def_divorciality_rate: Divorciality rate represents the ratio between number of divorces and estimated number of inhibitants in a referent year
+1.6.4_meta_calculations: Number of divorces per 1000 inhibitants in referent year
+1.6.4_meta_other_informations: Other informations
 
