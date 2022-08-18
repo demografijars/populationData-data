@@ -1,4 +1,7 @@
 Year,UNIT_MEASURE,Sex,Value
+2016,Number,Total,10861
+2016,Number,M,5651
+2016,Number,F,5210
 2017,Number,Total,10642
 2017,Number,M,5418
 2017,Number,F,5224
@@ -11,3 +14,6 @@ Year,UNIT_MEASURE,Sex,Value
 2020,Number,Total,9888
 2020,Number,M,5116
 2020,Number,F,4772
+2021,Number,Total,9832
+2021,Number,M,5047
+2021,Number,F,4785
