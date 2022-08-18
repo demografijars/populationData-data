@@ -1,4 +1,10 @@
 Year,UNIT_MEASURE,Type of school,Value
+2016,Number,Gymnasiums,2457
+2016,Number,Technical high schools,6300
+2016,Number,Vocational high schools,1996
+2016,Number,Art schools,70
+2016,Number,Religious schools,12
+2016,Number,High schools for students with disabilities,26
 2017,Number,Gymnasiums,2467
 2017,Number,Technical high schools,6206
 2017,Number,Vocational high schools,1846
@@ -23,3 +29,9 @@ Year,UNIT_MEASURE,Type of school,Value
 2020,Number,Art schools,60
 2020,Number,Religious schools,11
 2020,Number,High schools for students with disabilities,28
+2021,Number,Gymnasiums,1966
+2021,Number,Technical high schools,5675
+2021,Number,Vocational high schools,2023
+2021,Number,Art schools,93
+2021,Number,Religious schools,17
+2021,Number,High schools for students with disabilities,28

@@ -1,4 +1,10 @@
 Year,UNIT_MEASURE,type_of_school,Value
+2016,NUMBER,gymnasium,2457
+2016,NUMBER,technical_high_schools,6300
+2016,NUMBER,vocational_high_schools,1996
+2016,NUMBER,art_schools,70
+2016,NUMBER,religious_schools,12
+2016,NUMBER,high_schools_for_students_with_disabilities,26
 2017,NUMBER,gymnasium,2467
 2017,NUMBER,technical_high_schools,6206
 2017,NUMBER,vocational_high_schools,1846
@@ -23,3 +29,9 @@ Year,UNIT_MEASURE,type_of_school,Value
 2020,NUMBER,art_schools,60
 2020,NUMBER,religious_schools,11
 2020,NUMBER,high_schools_for_students_with_disabilities,28
+2021,NUMBER,gymnasium,1966
+2021,NUMBER,technical_high_schools,5675
+2021,NUMBER,vocational_high_schools,2023
+2021,NUMBER,art_schools,93
+2021,NUMBER,religious_schools,17
+2021,NUMBER,high_schools_for_students_with_disabilities,28
