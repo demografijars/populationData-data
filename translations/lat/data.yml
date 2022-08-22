@@ -483,3 +483,8 @@ promil: ‰
 1.6.4_meta_def_divorciality_rate: Stopa divorcijaliteta predstavlja odnos između broja razvedenih brakova i procijenjenog broja stanovnika u posmatranoj godini
 1.6.4_meta_calculations: Broj razvedenih brakova na 1000 stanovnika u godini posmatranja
 1.6.4_meta_other_informations: Ostale informacije
+2.1.5_meta_dependency_ratio_by_sex: Koeficijent zavisnosti prema polu
+2.1.5_meta_ratio: Postotak
+2.1.5_meta_def_dependency_ratio_by_sex: Predstavlja odnos broja stanovnika starih 65 i više godina – po polu i odgovarajućeg broja stanovnika starih od 0 do 14 godina
+2.1.5_meta_calculations: Odnos broj stanovnika starih 65 i više godina – po polu i odgovarajućeg broja stanovnika starih od 0 do 14 godina u godini posmatranja
+2.1.5_meta_other_informations: Ostale informacije
