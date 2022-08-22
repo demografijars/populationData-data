@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -25,9 +25,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(0-14+60+)/(15-59)",
-                "(0-19+65+)/(20-64)",
-                "(0-14+50+)/(15-49)",
+                "(60+)/(0-19)",
                 ""
               ]
             },
