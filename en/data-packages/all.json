@@ -5226,7 +5226,7 @@
             "constraints": {
               "enum": [
                 "",
-                "(60+)/(0-19)"
+                "(65+)/(0-14)"
               ]
             },
             "title": "Type of dependency ratio"
