@@ -425,3 +425,8 @@ promil: "‰"
 1.6.4_meta_def_divorciality_rate: Divorciality rate represents the ratio between number of divorces and estimated number of inhibitants in a referent year
 1.6.4_meta_calculations: Number of divorces per 1000 inhibitants in referent year
 1.6.4_meta_other_informations: Other informations
+2.1.5_meta_dependency_ratio_by_sex: Dependency ratio by sex
+2.1.5_meta_ratio: Ratio
+2.1.5_meta_def_dependency_ratio_by_sex: Represents the ratio between population over the age of 65 and population between 0-14 age in referent year
+2.1.5_meta_calculations: Ratio between population over the age of 65 by sex and population between 0-14 age in referent year 
+2.1.5_meta_other_informations: Ostale informacije
