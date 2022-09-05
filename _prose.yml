@@ -141,7 +141,7 @@ prose:
             scope: national
       - name: "comments_limitations"
         field:
-            element: hidden
+            element: text
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
             scope: national
