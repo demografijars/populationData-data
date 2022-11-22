@@ -14,6 +14,9 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Masters of science,Total,36
 2020,Number,Masters of science,M,20
 2020,Number,Masters of science,F,16
+2021,Number,Masters of science,Total,9
+2021,Number,Masters of science,M,1
+2021,Number,Masters of science,F,8
 2016,Number,Masters,Total,420
 2016,Number,Masters,M,200
 2016,Number,Masters,F,220
@@ -29,6 +32,9 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Masters,Total,261
 2020,Number,Masters,M,105
 2020,Number,Masters,F,156
+2021,Number,Masters,F,345
+2021,Number,Masters,F,145
+2021,Number,Masters,F,200
 2016,Number,Specialists,Total,101
 2016,Number,Specialists,M,32
 2016,Number,Specialists,F,69
@@ -44,3 +50,6 @@ Year,UNIT_MEASURE,Type of education,Sex,Value
 2020,Number,Specialists,Total,87
 2020,Number,Specialists,M,31
 2020,Number,Specialists,F,56
+2021,Number,Specialists,F,81
+2021,Number,Specialists,F,35
+2021,Number,Specialists,F,46

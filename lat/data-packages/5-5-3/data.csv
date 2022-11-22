@@ -14,6 +14,9 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Pol,Value
 2020,Broj,Magistri nauka,Ukupno,36
 2020,Broj,Magistri nauka,M,20
 2020,Broj,Magistri nauka,Ž,16
+2021,Broj,Magistri nauka,Ukupno,9
+2021,Broj,Magistri nauka,M,1
+2021,Broj,Magistri nauka,Ž,8
 2016,Broj,Masteri,Ukupno,420
 2016,Broj,Masteri,M,200
 2016,Broj,Masteri,Ž,220
@@ -29,6 +32,9 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Pol,Value
 2020,Broj,Masteri,Ukupno,261
 2020,Broj,Masteri,M,105
 2020,Broj,Masteri,Ž,156
+2021,Broj,Masteri,Ž,345
+2021,Broj,Masteri,Ž,145
+2021,Broj,Masteri,Ž,200
 2016,Broj,Specijalisti,Ukupno,101
 2016,Broj,Specijalisti,M,32
 2016,Broj,Specijalisti,Ž,69
@@ -44,3 +50,6 @@ Year,UNIT_MEASURE,Vrsta obrazovanja,Pol,Value
 2020,Broj,Specijalisti,Ukupno,87
 2020,Broj,Specijalisti,M,31
 2020,Broj,Specijalisti,Ž,56
+2021,Broj,Specijalisti,Ž,81
+2021,Broj,Specijalisti,Ž,35
+2021,Broj,Specijalisti,Ž,46

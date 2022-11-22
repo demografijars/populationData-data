@@ -14,6 +14,9 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2020,NUMBER,masters_of_science,_T,36
 2020,NUMBER,masters_of_science,M,20
 2020,NUMBER,masters_of_science,F,16
+2021,NUMBER,masters_of_science,_T,9
+2021,NUMBER,masters_of_science,M,1
+2021,NUMBER,masters_of_science,F,8
 2016,NUMBER,masters,_T,420
 2016,NUMBER,masters,M,200
 2016,NUMBER,masters,F,220
@@ -29,6 +32,9 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2020,NUMBER,masters,_T,261
 2020,NUMBER,masters,M,105
 2020,NUMBER,masters,F,156
+2021,NUMBER,masters,F,345
+2021,NUMBER,masters,F,145
+2021,NUMBER,masters,F,200
 2016,NUMBER,specialists,_T,101
 2016,NUMBER,specialists,M,32
 2016,NUMBER,specialists,F,69
@@ -44,3 +50,6 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2020,NUMBER,specialists,_T,87
 2020,NUMBER,specialists,M,31
 2020,NUMBER,specialists,F,56
+2021,NUMBER,specialists,F,81
+2021,NUMBER,specialists,F,35
+2021,NUMBER,specialists,F,46
