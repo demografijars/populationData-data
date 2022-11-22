@@ -428,27 +428,28 @@ Year,UNIT_MEASURE,Field of education,Type of education,Sex,Value
 2021,Number,Education,Master of science studies,F,0
 2021,Number,Arts and humanities,Master of science studies,F,0
 2021,Number,Services,Master of science studies,F,0
-2021,Number,"Natural sciences, mathematics and statistics",Master studies,Total,2334
-2021,Number,"Engineering, manufacturing and construction",Master studies,Total,93
-2021,Number,Information and communication technologies,Master studies,Total,461
-2021,Number,Health and social protection,Master studies,Total,86
-2021,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,69
-2021,Number,"Social sciences, journalism and information",Master studies,Total,200
-2021,Number,"Business, administration and law",Master studies,Total,546
-2021,Number,Education,Master studies,Total,200
-2021,Number,Arts and humanities,Master studies,Total,367
-2021,Number,Services,Master studies,Total,307
-2021,Number,Total,Master studies,M,5
-2021,Number,"Natural sciences, mathematics and statistics",Master studies,M,915
-2021,Number,"Engineering, manufacturing and construction",Master studies,M,24
-2021,Number,Information and communication technologies,Master studies,M,249
-2021,Number,Health and social protection,Master studies,M,60
-2021,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,M,14
-2021,Number,"Social sciences, journalism and information",Master studies,M,101
-2021,Number,"Business, administration and law",Master studies,M,177
-2021,Number,Education,Master studies,M,60
-2021,Number,Arts and humanities,Master studies,M,100
-2021,Number,Services,Master studies,M,130
+2021,Number,Total,Master studies,Total,2334
+2021,Number,"Natural sciences, mathematics and statistics",Master studies,Total,93
+2021,Number,"Engineering, manufacturing and construction",Master studies,Total,461
+2021,Number,Information and communication technologies,Master studies,Total,86
+2021,Number,Health and social protection,Master studies,Total,69
+2021,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,Total,200
+2021,Number,"Social sciences, journalism and information",Master studies,Total,546
+2021,Number,"Business, administration and law",Master studies,Total,200
+2021,Number,Education,Master studies,Total,367
+2021,Number,Arts and humanities,Master studies,Total,307
+2021,Number,Services,Master studies,Total,5
+2021,Number,Total,Master studies,M,915
+2021,Number,"Natural sciences, mathematics and statistics",Master studies,M,24
+2021,Number,"Engineering, manufacturing and construction",Master studies,M,249
+2021,Number,Information and communication technologies,Master studies,M,60
+2021,Number,Health and social protection,Master studies,M,14
+2021,Number,"Agriculture, forestry, fisheries and veterinary medicine",Master studies,M,101
+2021,Number,"Social sciences, journalism and information",Master studies,M,177
+2021,Number,"Business, administration and law",Master studies,M,60
+2021,Number,Education,Master studies,M,100
+2021,Number,Arts and humanities,Master studies,M,130
+2021,Number,Services,Master studies,M,0
 2021,Number,Total,Master studies,F,1419
 2021,Number,"Natural sciences, mathematics and statistics",Master studies,F,69
 2021,Number,"Engineering, manufacturing and construction",Master studies,F,212
