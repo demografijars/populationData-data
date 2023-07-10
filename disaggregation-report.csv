@@ -19,7 +19,7 @@ PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,PYRAMID_AGE,1,25
 PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,PYRAMID_SEX,1,2
 Religion,Religion,Vjeroispovjest,Вјероисповјест,1,9
 scientific_field,Field of education,Oblast obrazovanja,Област образовања,4,11
-SEX,Sex,Pol,Пол,55,3
+SEX,Sex,Pol,Пол,55,4
 TYPE_OF_DEPENDENCY_RATIO,Type of dependency ratio,Vrsta koeficijenta zavisnosti,Врста коефицијента зависности,2,4
 type_of_education,Type of education,Vrsta obrazovanja,Врста образовања,3,14
 type_of_institution,Type of institutions,Vrsta ustanove,Врста установе,3,6
