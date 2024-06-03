@@ -19,6 +19,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,Ukupno,Živorođeni,9161
 2021,Broj,Ukupno,Živorođeni,9274
 2022,Broj,Ukupno,Živorođeni,9118
+2023,Broj,Ukupno,Živorođeni,9309
 2003,Broj,M,Živorođeni,5450
 2004,Broj,M,Živorođeni,5515
 2005,Broj,M,Živorođeni,5302
@@ -39,6 +40,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,M,Živorođeni,4792
 2021,Broj,M,Živorođeni,4754
 2022,Broj,M,Živorođeni,4648
+2023,Broj,M,Živorođeni,4849
 2003,Broj,Ž,Živorođeni,5087
 2004,Broj,Ž,Živorođeni,5113
 2005,Broj,Ž,Živorođeni,5020
@@ -59,6 +61,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,Ž,Živorođeni,4369
 2021,Broj,Ž,Živorođeni,4520
 2022,Broj,Ž,Živorođeni,4470
+2023,Broj,Ž,Živorođeni,4460
 2003,Broj,Ukupno,Umrli,12988
 2004,Broj,Ukupno,Umrli,13082
 2005,Broj,Ukupno,Umrli,13802
@@ -79,6 +82,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,Ukupno,Umrli,16582
 2021,Broj,Ukupno,Umrli,19002
 2022,Broj,Ukupno,Umrli,16263
+2023,Broj,Ukupno,Umrli,13508
 2003,Broj,M,Umrli,6804
 2004,Broj,M,Umrli,6735
 2005,Broj,M,Umrli,7239
@@ -99,6 +103,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,M,Umrli,8613
 2021,Broj,M,Umrli,9943
 2022,Broj,M,Umrli,8469
+2023,Broj,M,Umrli,6978
 2003,Broj,Ž,Umrli,6184
 2004,Broj,Ž,Umrli,6347
 2005,Broj,Ž,Umrli,6563
@@ -119,6 +124,7 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,Ž,Umrli,7969
 2021,Broj,Ž,Umrli,9059
 2022,Broj,Ž,Umrli,7794
+2023,Broj,Ž,Umrli,6530
 2003,Broj,Ukupno,Prirodni priraštaj,-2451
 2004,Broj,Ukupno,Prirodni priraštaj,-2454
 2005,Broj,Ukupno,Prirodni priraštaj,-3480
@@ -139,3 +145,4 @@ Year,UNIT_MEASURE,Pol,Vitalna statistika,Value
 2020,Broj,Ukupno,Prirodni priraštaj,-7421
 2021,Broj,Ukupno,Prirodni priraštaj,-9728
 2022,Broj,Ukupno,Prirodni priraštaj,-7145
+2023,Broj,Ukupno,Prirodni priraštaj,-4199
