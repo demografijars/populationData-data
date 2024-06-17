@@ -609,7 +609,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "UNIT_MEASURE",
@@ -652,15 +652,13 @@
                 "_T",
                 "M",
                 "F",
-                "_M",
-                "_F",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

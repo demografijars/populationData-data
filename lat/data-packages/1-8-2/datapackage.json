@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Godina"
           },
           {
@@ -58,8 +58,6 @@
                 "Ukupno",
                 "M",
                 "Ž",
-                "_M",
-                "_F",
                 ""
               ]
             },
@@ -67,7 +65,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Vrijednost"
           }
         ]
