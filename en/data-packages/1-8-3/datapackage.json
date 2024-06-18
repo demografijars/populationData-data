@@ -16,6 +16,7 @@
             "constraints": {
               "enum": [
                 "",
+                "City/municipality",
                 "Berkovići",
                 "Bileća",
                 "Bratunac",
@@ -110,6 +111,7 @@
                 "80-84",
                 "85-89",
                 "90+",
+                "Age",
                 "Total"
               ]
             },
@@ -123,6 +125,9 @@
                 "",
                 "F",
                 "M",
+                "Sex",
+                "_F",
+                "_M",
                 "Total"
               ]
             },
@@ -140,7 +145,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           }
         ]

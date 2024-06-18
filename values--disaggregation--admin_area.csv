@@ -1,66 +1,67 @@
 Value,en,lat,cir,Disaggregation combinations using this value,Number of indicators
-berkovici,Berkovići,Berkovići,Берковићи,195,10
-bileca,Bileća,Bileća,Билећа,195,10
-bratunac,Bratunac,Bratunac,Братунац,195,10
-brod,Brod,Brod,Брод,195,10
-cajnice,Čajniče,Čajniče,Чајниче,195,10
-celinac,Čelinac,Čelinac,Челинац,195,10
-donji_zabar,Donji Žabar,Donji Žabar,Доњи Жабар,195,10
-foca,Foča,Foča,Фоча,195,10
-gacko,Gacko,Gacko,Гацко,195,10
-grad_banja_luka,Grad Banja Luka,Grad Banja Luka,Град Бања Лука,195,10
-grad_bijeljina,Grad Bijeljina,Grad Bijeljina,Град Бијељина,195,10
-grad_derventa,Grad Derventa,Grad Derventa,Град Дервента,195,10
-grad_doboj,Grad Doboj,Grad Doboj,Град Добој,195,10
-grad_gradiska,Grad Gradiška,Grad Gradiška,Град Градишка,195,10
+ADMIN_AREA,City/municipality,Grad/opština,Град/општина,1,1
+berkovici,Berkovići,Berkovići,Берковићи,235,10
+bileca,Bileća,Bileća,Билећа,235,10
+bratunac,Bratunac,Bratunac,Братунац,235,10
+brod,Brod,Brod,Брод,235,10
+cajnice,Čajniče,Čajniče,Чајниче,235,10
+celinac,Čelinac,Čelinac,Челинац,235,10
+donji_zabar,Donji Žabar,Donji Žabar,Доњи Жабар,235,10
+foca,Foča,Foča,Фоча,235,10
+gacko,Gacko,Gacko,Гацко,235,10
+grad_banja_luka,Grad Banja Luka,Grad Banja Luka,Град Бања Лука,235,10
+grad_bijeljina,Grad Bijeljina,Grad Bijeljina,Град Бијељина,235,10
+grad_derventa,Grad Derventa,Grad Derventa,Град Дервента,235,10
+grad_doboj,Grad Doboj,Grad Doboj,Град Добој,235,10
+grad_gradiska,Grad Gradiška,Grad Gradiška,Град Градишка,235,10
 grad_istocno_sarajevo,Grad Istočno Sarajevo,Grad Istočno Sarajevo,Град Источно Сарајево,60,1
-grad_prijedor,Grad Prijedor,Grad Prijedor,Град Приједор,195,10
-grad_trebinje,Grad Trebinje,Grad Trebinje,Град Требиње,195,10
-grad_zvornik,Grad Zvornik,Grad Zvornik,Град Зворник,195,10
-han_pijesak,Han Pijesak,Han Pijesak,Хан Пијесак,195,10
-istocna_ilidza,Istočna Ilidža,Istočna Ilidža,Источна Илиџа,195,10
-istocni_drvar,Istočni Drvar,Istočni Drvar,Источни Дрвар,195,10
-istocni_mostar,Istočni Mostar,Istočni Mostar,Источни Мостар,195,10
-istocni_stari_grad,Istočni Stari Grad,Istočni Stari Grad,Источни Стари Град,195,10
-istocno_novo_sarajevo,Istočno Novo Sarajevo,Istočno Novo Sarajevo,Источно Ново Сарајево,195,10
-jezero,Jezero,Jezero,Језеро,195,10
-kalinovik,Kalinovik,Kalinovik,Калиновик,195,10
-knezevo,Kneževo,Kneževo,Кнежево,195,10
-kostajnica,Kostajnica,Kostajnica,Костајница,195,10
-kotor_varos,Kotor Varoš,Kotor Varoš,Котор Варош,195,10
-kozarska_dubica,Kozarska Dubica,Kozarska Dubica,Козарска Дубица,195,10
-krupa_na_uni,Krupa Na Uni,Krupa Na Uni,Крупа на Уни,195,10
-kupres,Kupres,Kupres,Купрес,195,10
-laktasi,Laktaši,Laktaši,Лакташи,195,10
-ljubinje,Ljubinje,Ljubinje,Љубиње,195,10
-lopare,Lopare,Lopare,Лопаре,195,10
-milici,Milići,Milići,Милићи,195,10
-modrica,Modriča,Modriča,Модрича,195,10
-mrkonjic_grad,Mrkonjić Grad,Mrkonjić Grad,Мркоњић Град,195,10
-nevesinje,Nevesinje,Nevesinje,Невесиње,195,10
-novi_grad,Novi Grad,Novi Grad,Нови Град,195,10
-novo_gorazde,Novo Goražde,Novo Goražde,Ново Горажде,195,10
-osmaci,Osmaci,Osmaci,Осмаци,195,10
-ostra_luka,Oštra Luka,Oštra Luka,Оштра Лука,195,10
-pale,Pale,Pale,Пале,195,10
-pelagicevo,Pelagićevo,Pelagićevo,Пелагићево,195,10
-petrovac,Petrovac,Petrovac,Петровац,195,10
-petrovo,Petrovo,Petrovo,Петрово,195,10
-prnjavor,Prnjavor,Prnjavor,Прњавор,195,10
-republika_srpska,Republika Srpska,Republika Srpska,Република Српска,195,10
-ribnik,Ribnik,Ribnik,Рибник,195,10
-rogatica,Rogatica,Rogatica,Рогатица,195,10
-rudo,Rudo,Rudo,Рудо,195,10
-samac,Šamac,Šamac,Шамац,195,10
-sekovici,Šekovići,Šekovići,Шековићи,195,10
-sipovo,Šipovo,Šipovo,Шипово,195,10
-sokolac,Sokolac,Sokolac,Соколац,195,10
-srbac,Srbac,Srbac,Србац,195,10
-srebrenica,Srebrenica,Srebrenica,Сребреница,195,10
-stanari,Stanari,Stanari,Станари,60,1
-teslic,Teslić,Teslić,Теслић,195,10
-trnovo,Trnovo,Trnovo,Трново,195,10
-ugljevik,Ugljevik,Ugljevik,Угљевик,195,10
-visegrad,Višegrad,Višegrad,Вишеград,195,10
-vlasenica,Vlasenica,Vlasenica,Власеница,195,10
-vukosavlje,Vukosavlje,Vukosavlje,Вукосавље,195,10
+grad_prijedor,Grad Prijedor,Grad Prijedor,Град Приједор,235,10
+grad_trebinje,Grad Trebinje,Grad Trebinje,Град Требиње,235,10
+grad_zvornik,Grad Zvornik,Grad Zvornik,Град Зворник,235,10
+han_pijesak,Han Pijesak,Han Pijesak,Хан Пијесак,235,10
+istocna_ilidza,Istočna Ilidža,Istočna Ilidža,Источна Илиџа,235,10
+istocni_drvar,Istočni Drvar,Istočni Drvar,Источни Дрвар,235,10
+istocni_mostar,Istočni Mostar,Istočni Mostar,Источни Мостар,235,10
+istocni_stari_grad,Istočni Stari Grad,Istočni Stari Grad,Источни Стари Град,235,10
+istocno_novo_sarajevo,Istočno Novo Sarajevo,Istočno Novo Sarajevo,Источно Ново Сарајево,235,10
+jezero,Jezero,Jezero,Језеро,235,10
+kalinovik,Kalinovik,Kalinovik,Калиновик,235,10
+knezevo,Kneževo,Kneževo,Кнежево,235,10
+kostajnica,Kostajnica,Kostajnica,Костајница,235,10
+kotor_varos,Kotor Varoš,Kotor Varoš,Котор Варош,235,10
+kozarska_dubica,Kozarska Dubica,Kozarska Dubica,Козарска Дубица,235,10
+krupa_na_uni,Krupa Na Uni,Krupa Na Uni,Крупа на Уни,235,10
+kupres,Kupres,Kupres,Купрес,235,10
+laktasi,Laktaši,Laktaši,Лакташи,235,10
+ljubinje,Ljubinje,Ljubinje,Љубиње,235,10
+lopare,Lopare,Lopare,Лопаре,235,10
+milici,Milići,Milići,Милићи,235,10
+modrica,Modriča,Modriča,Модрича,235,10
+mrkonjic_grad,Mrkonjić Grad,Mrkonjić Grad,Мркоњић Град,235,10
+nevesinje,Nevesinje,Nevesinje,Невесиње,235,10
+novi_grad,Novi Grad,Novi Grad,Нови Град,235,10
+novo_gorazde,Novo Goražde,Novo Goražde,Ново Горажде,235,10
+osmaci,Osmaci,Osmaci,Осмаци,235,10
+ostra_luka,Oštra Luka,Oštra Luka,Оштра Лука,235,10
+pale,Pale,Pale,Пале,235,10
+pelagicevo,Pelagićevo,Pelagićevo,Пелагићево,235,10
+petrovac,Petrovac,Petrovac,Петровац,235,10
+petrovo,Petrovo,Petrovo,Петрово,235,10
+prnjavor,Prnjavor,Prnjavor,Прњавор,235,10
+republika_srpska,Republika Srpska,Republika Srpska,Република Српска,235,10
+ribnik,Ribnik,Ribnik,Рибник,235,10
+rogatica,Rogatica,Rogatica,Рогатица,235,10
+rudo,Rudo,Rudo,Рудо,235,10
+samac,Šamac,Šamac,Шамац,235,10
+sekovici,Šekovići,Šekovići,Шековићи,235,10
+sipovo,Šipovo,Šipovo,Шипово,235,10
+sokolac,Sokolac,Sokolac,Соколац,235,10
+srbac,Srbac,Srbac,Србац,235,10
+srebrenica,Srebrenica,Srebrenica,Сребреница,235,10
+stanari,Stanari,Stanari,Станари,100,1
+teslic,Teslić,Teslić,Теслић,235,10
+trnovo,Trnovo,Trnovo,Трново,235,10
+ugljevik,Ugljevik,Ugljevik,Угљевик,235,10
+visegrad,Višegrad,Višegrad,Вишеград,235,10
+vlasenica,Vlasenica,Vlasenica,Власеница,235,10
+vukosavlje,Vukosavlje,Vukosavlje,Вукосавље,235,10
