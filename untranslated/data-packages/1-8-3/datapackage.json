@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "UNIT_MEASURE",
@@ -88,7 +88,6 @@
                 "samac",
                 "sekovici",
                 "sipovo",
-                "ADMIN_AREA",
                 ""
               ]
             }
@@ -101,7 +100,6 @@
                 "_T",
                 "M",
                 "F",
-                "SEX",
                 "_M",
                 "_F",
                 ""
@@ -133,7 +131,6 @@
                 "85-89",
                 "90+",
                 "_T",
-                "AGE",
                 ""
               ]
             }

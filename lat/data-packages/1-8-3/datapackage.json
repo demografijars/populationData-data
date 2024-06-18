@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Godina"
           },
           {
@@ -90,7 +90,6 @@
                 "Šamac",
                 "Šekovići",
                 "Šipovo",
-                "Grad/opština",
                 ""
               ]
             },
@@ -104,7 +103,6 @@
                 "Ukupno",
                 "M",
                 "Ž",
-                "Pol",
                 "_M",
                 "_F",
                 ""
@@ -137,7 +135,6 @@
                 "85-89",
                 "90+",
                 "Ukupno",
-                "Starost",
                 ""
               ]
             },
