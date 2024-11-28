@@ -3184,6 +3184,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "T",
                 "M",
                 "Ž",
                 ""
