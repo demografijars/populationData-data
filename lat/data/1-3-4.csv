@@ -20,6 +20,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,Ukupno,19002
 2022,Broj,Ukupno,Ukupno,16263
 2023,Broj,Ukupno,Ukupno,13508
+2024,Broj,Ukupno,Ukupno,14136
 2003,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,89
 2004,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,124
 2005,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,128
@@ -41,6 +42,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,140
 2022,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,211
 2023,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,188
+2024,Broj,Ukupno,(A00-B99) Infektivne i parazitske bolesti,221
 2003,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2411
 2004,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2330
 2005,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2653
@@ -62,6 +64,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2623
 2022,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2635
 2023,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2630
+2024,Broj,Ukupno,"(C00-C97,D00-D48) Neoplazme",2807
 2003,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,8
 2004,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,13
 2005,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,15
@@ -83,6 +86,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,22
 2022,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,28
 2023,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,17
+2024,Broj,Ukupno,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,26
 2003,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",180
 2004,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",160
 2005,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",727
@@ -104,6 +108,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",921
 2022,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",994
 2023,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",904
+2024,Broj,Ukupno,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",934
 2003,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,33
 2004,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,58
 2005,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,80
@@ -125,6 +130,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,107
 2022,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,132
 2023,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,102
+2024,Broj,Ukupno,(F00-F99) Duševni poremećaji i poremećaji ponašanja,105
 2003,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,65
 2004,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,91
 2005,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,170
@@ -146,6 +152,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,173
 2022,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,168
 2023,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,157
+2024,Broj,Ukupno,(G00-G99) Bolesti nervnog sistema,194
 2003,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
 2004,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
 2005,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
@@ -167,6 +174,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
 2022,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
 2023,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
+2024,Broj,Ukupno,(H00-H59) Bolesti oka i pripojka oka,0
 2003,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2004,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2005,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,1
@@ -188,6 +196,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2022,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2023,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
+2024,Broj,Ukupno,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,7071
 2004,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,7340
 2005,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,7002
@@ -209,6 +218,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,7217
 2022,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,6791
 2023,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,6051
+2024,Broj,Ukupno,(I00-I99) Bolesti cirkulatornog sistema,6259
 2003,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,304
 2004,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,345
 2005,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,504
@@ -230,6 +240,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,640
 2022,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,567
 2023,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,586
+2024,Broj,Ukupno,(J00-J99) Bolesti respiratornog sistema,667
 2003,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,352
 2004,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,347
 2005,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,343
@@ -251,6 +262,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,400
 2022,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,460
 2023,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,457
+2024,Broj,Ukupno,(K00-K93) Bolesti digestivnog sistema,441
 2003,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2004,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,3
 2005,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -272,6 +284,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,33
 2022,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,31
 2023,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,45
+2024,Broj,Ukupno,(L00-L99) Bolesti kože i potkožnog tkiva,55
 2003,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,6
 2004,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,3
 2005,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,12
@@ -293,6 +306,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,8
 2022,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,24
 2023,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,13
+2024,Broj,Ukupno,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,17
 2003,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,222
 2004,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,205
 2005,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,257
@@ -314,6 +328,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,197
 2022,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,254
 2023,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,310
+2024,Broj,Ukupno,(N00-N99) Bolesti genitourinarnog sistema,313
 2003,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",1
 2004,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2005,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",2
@@ -335,6 +350,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2022,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",1
 2023,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",0
+2024,Broj,Ukupno,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2003,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,44
 2004,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,38
 2005,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,27
@@ -356,6 +372,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,9
 2022,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,19
 2023,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,14
+2024,Broj,Ukupno,(P00-P96) Određena stanja nastala u perinatalnom periodu,25
 2003,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",10
 2004,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",11
 2005,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",14
@@ -377,6 +394,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",5
 2022,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",13
 2023,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",7
+2024,Broj,Ukupno,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",11
 2003,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1612
 2004,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1462
 2005,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1249
@@ -398,6 +416,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",2213
 2022,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",2158
 2023,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1431
+2024,Broj,Ukupno,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1567
 2003,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",580
 2004,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",552
 2005,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",618
@@ -419,6 +438,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",448
 2022,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",465
 2023,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",434
+2024,Broj,Ukupno,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",422
 2003,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,0
 2004,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,0
 2005,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,0
@@ -440,6 +460,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,3846
 2022,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,1312
 2023,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,162
+2024,Broj,Ukupno,(U00-U85) Šifre za posebne namjene,72
 2003,Broj,M,Ukupno,6804
 2004,Broj,M,Ukupno,6735
 2005,Broj,M,Ukupno,7239
@@ -461,6 +482,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,Ukupno,9943
 2022,Broj,M,Ukupno,8469
 2023,Broj,M,Ukupno,6978
+2024,Broj,M,Ukupno,7289
 2003,Broj,M,(A00-B99) Infektivne i parazitske bolesti,59
 2004,Broj,M,(A00-B99) Infektivne i parazitske bolesti,75
 2005,Broj,M,(A00-B99) Infektivne i parazitske bolesti,78
@@ -482,6 +504,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(A00-B99) Infektivne i parazitske bolesti,86
 2022,Broj,M,(A00-B99) Infektivne i parazitske bolesti,115
 2023,Broj,M,(A00-B99) Infektivne i parazitske bolesti,105
+2024,Broj,M,(A00-B99) Infektivne i parazitske bolesti,105
 2003,Broj,M,"(C00-C97,D00-D48) Neoplazme",1461
 2004,Broj,M,"(C00-C97,D00-D48) Neoplazme",1402
 2005,Broj,M,"(C00-C97,D00-D48) Neoplazme",1581
@@ -503,6 +526,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,"(C00-C97,D00-D48) Neoplazme",1558
 2022,Broj,M,"(C00-C97,D00-D48) Neoplazme",1519
 2023,Broj,M,"(C00-C97,D00-D48) Neoplazme",1542
+2024,Broj,M,"(C00-C97,D00-D48) Neoplazme",1651
 2003,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,6
 2004,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,2
 2005,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,5
@@ -524,6 +548,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,7
 2022,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,9
 2023,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,10
+2024,Broj,M,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,10
 2003,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",71
 2004,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",68
 2005,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",286
@@ -545,6 +570,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",387
 2022,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",435
 2023,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",407
+2024,Broj,M,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",428
 2003,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,24
 2004,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,46
 2005,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,64
@@ -566,6 +592,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,63
 2022,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,94
 2023,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,64
+2024,Broj,M,(F00-F99) Duševni poremećaji i poremećaji ponašanja,63
 2003,Broj,M,(G00-G99) Bolesti nervnog sistema,39
 2004,Broj,M,(G00-G99) Bolesti nervnog sistema,53
 2005,Broj,M,(G00-G99) Bolesti nervnog sistema,86
@@ -587,6 +614,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(G00-G99) Bolesti nervnog sistema,100
 2022,Broj,M,(G00-G99) Bolesti nervnog sistema,90
 2023,Broj,M,(G00-G99) Bolesti nervnog sistema,78
+2024,Broj,M,(G00-G99) Bolesti nervnog sistema,100
 2003,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
 2004,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
 2005,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
@@ -608,6 +636,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
 2022,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
 2023,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
+2024,Broj,M,(H00-H59) Bolesti oka i pripojka oka,0
 2003,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2004,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2005,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,1
@@ -629,6 +658,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2022,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2023,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
+2024,Broj,M,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3323
 2004,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3383
 2005,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3325
@@ -650,6 +680,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3261
 2022,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,3175
 2023,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,2785
+2024,Broj,M,(I00-I99) Bolesti cirkulatornog sistema,2885
 2003,Broj,M,(J00-J99) Bolesti respiratornog sistema,184
 2004,Broj,M,(J00-J99) Bolesti respiratornog sistema,211
 2005,Broj,M,(J00-J99) Bolesti respiratornog sistema,284
@@ -671,6 +702,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(J00-J99) Bolesti respiratornog sistema,369
 2022,Broj,M,(J00-J99) Bolesti respiratornog sistema,311
 2023,Broj,M,(J00-J99) Bolesti respiratornog sistema,337
+2024,Broj,M,(J00-J99) Bolesti respiratornog sistema,400
 2003,Broj,M,(K00-K93) Bolesti digestivnog sistema,216
 2004,Broj,M,(K00-K93) Bolesti digestivnog sistema,206
 2005,Broj,M,(K00-K93) Bolesti digestivnog sistema,219
@@ -692,6 +724,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(K00-K93) Bolesti digestivnog sistema,244
 2022,Broj,M,(K00-K93) Bolesti digestivnog sistema,286
 2023,Broj,M,(K00-K93) Bolesti digestivnog sistema,267
+2024,Broj,M,(K00-K93) Bolesti digestivnog sistema,248
 2003,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2004,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2005,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -713,6 +746,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,12
 2022,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,13
 2023,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,18
+2024,Broj,M,(L00-L99) Bolesti kože i potkožnog tkiva,20
 2003,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,3
 2004,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,1
 2005,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,5
@@ -734,6 +768,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,5
 2022,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,11
 2023,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,4
+2024,Broj,M,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,9
 2003,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,123
 2004,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,113
 2005,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,160
@@ -755,6 +790,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,107
 2022,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,129
 2023,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,157
+2024,Broj,M,(N00-N99) Bolesti genitourinarnog sistema,176
 2003,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,23
 2004,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,28
 2005,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,17
@@ -776,6 +812,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,5
 2022,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,12
 2023,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,9
+2024,Broj,M,(P00-P96) Određena stanja nastala u perinatalnom periodu,11
 2003,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",7
 2004,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",10
 2005,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",6
@@ -797,6 +834,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",5
 2022,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",11
 2023,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",5
+2024,Broj,M,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",2
 2003,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",821
 2004,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",726
 2005,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",659
@@ -818,6 +856,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1187
 2022,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1167
 2023,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",768
+2024,Broj,M,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",845
 2003,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",444
 2004,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",411
 2005,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",463
@@ -839,6 +878,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",334
 2022,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",338
 2023,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",318
+2024,Broj,M,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",302
 2003,Broj,M,(U00-U85) Šifre za posebne namjene,0
 2004,Broj,M,(U00-U85) Šifre za posebne namjene,0
 2005,Broj,M,(U00-U85) Šifre za posebne namjene,0
@@ -860,6 +900,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,M,(U00-U85) Šifre za posebne namjene,2213
 2022,Broj,M,(U00-U85) Šifre za posebne namjene,754
 2023,Broj,M,(U00-U85) Šifre za posebne namjene,104
+2024,Broj,M,(U00-U85) Šifre za posebne namjene,34
 2003,Broj,Ž,Ukupno,6184
 2004,Broj,Ž,Ukupno,6347
 2005,Broj,Ž,Ukupno,6563
@@ -881,6 +922,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,Ukupno,9059
 2022,Broj,Ž,Ukupno,7794
 2023,Broj,Ž,Ukupno,6530
+2024,Broj,Ž,Ukupno,6847
 2003,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,30
 2004,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,49
 2005,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,50
@@ -902,6 +944,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,54
 2022,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,96
 2023,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,83
+2024,Broj,Ž,(A00-B99) Infektivne i parazitske bolesti,116
 2003,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",950
 2004,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",928
 2005,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1072
@@ -923,6 +966,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1065
 2022,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1116
 2023,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1088
+2024,Broj,Ž,"(C00-C97,D00-D48) Neoplazme",1156
 2003,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,2
 2004,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,11
 2005,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,10
@@ -944,6 +988,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,15
 2022,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,19
 2023,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,7
+2024,Broj,Ž,(D50-D89) Bolesti krvi i krvotvornih organa i neki poremećaji imunog sistema,16
 2003,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",109
 2004,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",92
 2005,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",441
@@ -965,6 +1010,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",534
 2022,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",559
 2023,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",497
+2024,Broj,Ž,"(E00-E90) Bolesti žlijezda sa unutrašnjim lučenjem, ishrane i metabolizma",506
 2003,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,9
 2004,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,12
 2005,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,16
@@ -986,6 +1032,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,44
 2022,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,38
 2023,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,38
+2024,Broj,Ž,(F00-F99) Duševni poremećaji i poremećaji ponašanja,42
 2003,Broj,Ž,(G00-G99) Bolesti nervnog sistema,26
 2004,Broj,Ž,(G00-G99) Bolesti nervnog sistema,38
 2005,Broj,Ž,(G00-G99) Bolesti nervnog sistema,84
@@ -1007,6 +1054,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(G00-G99) Bolesti nervnog sistema,73
 2022,Broj,Ž,(G00-G99) Bolesti nervnog sistema,78
 2023,Broj,Ž,(G00-G99) Bolesti nervnog sistema,79
+2024,Broj,Ž,(G00-G99) Bolesti nervnog sistema,94
 2003,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
 2004,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
 2005,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
@@ -1028,6 +1076,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
 2022,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
 2023,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
+2024,Broj,Ž,(H00-H59) Bolesti oka i pripojka oka,0
 2003,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2004,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2005,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
@@ -1049,6 +1098,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2022,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2023,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
+2024,Broj,Ž,(H60-H93) Bolesti uva i mastoidnog nastavka,0
 2003,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3748
 2004,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3957
 2005,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3677
@@ -1070,6 +1120,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3956
 2022,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3616
 2023,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3266
+2024,Broj,Ž,(I00-I99) Bolesti cirkulatornog sistema,3374
 2003,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,120
 2004,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,134
 2005,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,220
@@ -1091,6 +1142,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,271
 2022,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,256
 2023,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,249
+2024,Broj,Ž,(J00-J99) Bolesti respiratornog sistema,267
 2003,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,136
 2004,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,141
 2005,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,124
@@ -1112,6 +1164,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,156
 2022,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,174
 2023,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,190
+2024,Broj,Ž,(K00-K93) Bolesti digestivnog sistema,193
 2003,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,0
 2004,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,3
 2005,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,0
@@ -1133,6 +1186,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,21
 2022,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,18
 2023,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,27
+2024,Broj,Ž,(L00-L99) Bolesti kože i potkožnog tkiva,35
 2003,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,3
 2004,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,2
 2005,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,7
@@ -1154,6 +1208,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,3
 2022,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,13
 2023,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,9
+2024,Broj,Ž,(M00-M99) Bolesti mišićno-koštanog sistema i vezivnog tkiva,8
 2003,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,99
 2004,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,92
 2005,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,97
@@ -1175,6 +1230,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,90
 2022,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,125
 2023,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,153
+2024,Broj,Ž,(N00-N99) Bolesti genitourinarnog sistema,137
 2003,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",1
 2004,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2005,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",2
@@ -1196,6 +1252,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2022,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",1
 2023,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",0
+2024,Broj,Ž,"(O00-O99) Trudnoća, porođaj i puerperijum",0
 2003,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,21
 2004,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
 2005,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,10
@@ -1217,6 +1274,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,4
 2022,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,7
 2023,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,5
+2024,Broj,Ž,(P00-P96) Određena stanja nastala u perinatalnom periodu,14
 2003,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",3
 2004,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",1
 2005,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",8
@@ -1238,6 +1296,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",0
 2022,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",2
 2023,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",2
+2024,Broj,Ž,"(Q00-Q99) Kongenitalne anomalije, deformacije i hromozomske nenormalnosti",9
 2003,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",791
 2004,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",736
 2005,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",590
@@ -1259,6 +1318,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",1026
 2022,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",991
 2023,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",663
+2024,Broj,Ž,"(R00-R99) Simptomi, znakovi i nenormalni klinički i laboratorijski nalazi, neklasifikovani na drugom mjestu",722
 2003,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",136
 2004,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",141
 2005,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",155
@@ -1280,6 +1340,7 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",114
 2022,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",127
 2023,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",116
+2024,Broj,Ž,"(S00-T98) Povrede, trovanja i posljedice djelovanja spoljnih faktora",120
 2003,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
 2004,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
 2005,Broj,Ž,(U00-U85) Šifre za posebne namjene,0
@@ -1301,3 +1362,4 @@ Year,UNIT_MEASURE,Pol,Uzrok smrti (prema šiframa bolesti po MKB-10),Value
 2021,Broj,Ž,(U00-U85) Šifre za posebne namjene,1633
 2022,Broj,Ž,(U00-U85) Šifre za posebne namjene,558
 2023,Broj,Ž,(U00-U85) Šifre za posebne namjene,58
+2023,Broj,Ž,(U00-U85) Šifre za posebne namjene,38
