@@ -184,7 +184,7 @@ no_education: No education
 post_secondary_school_specialisation: Post-secondary school specialisation
 TYPE_OF_DEPENDENCY_RATIO: Type of dependency ratio
 NO_PER_1000_LIVE_BIRTHS: Number per 1000 live births
-no_per_1000_marriages: Number per 1000 marriages
+no_per_1000_population: Number per 1000 population
 census_pyramid: Census
 projection_pyramid: Year of projection
 LIVE_BORN_CHILDREN: Live-born children
@@ -430,3 +430,4 @@ promil: "‰"
 2.1.5_meta_def_dependency_ratio_by_sex: Represents the ratio between population over the age of 65 and population between 0-14 age in referent year
 2.1.5_meta_calculations: Ratio between population over the age of 65 by sex and population between 0-14 age in referent year 
 2.1.5_meta_other_informations: Ostale informacije
+
