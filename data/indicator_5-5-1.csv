@@ -71,3 +71,12 @@ Year,UNIT_MEASURE,type_of_education,SEX,Value
 2023,NUMBER,enrolled_in_specialist_studies,_T,203
 2023,NUMBER,enrolled_in_specialist_studies,M,61
 2023,NUMBER,enrolled_in_specialist_studies,F,142
+2024,NUMBER,enrolled_in_master_of_science_studies,_T,0
+2024,NUMBER,enrolled_in_master_of_science_studies,F,0
+2024,NUMBER,enrolled_in_master_of_science_studies,M,0
+2024,NUMBER,enrolled_in_master_studies,_T,2272
+2024,NUMBER,enrolled_in_master_studies,M,854
+2024,NUMBER,enrolled_in_master_studies,F,1418
+2024,NUMBER,enrolled_in_specialist_studies,_T,221
+2024,NUMBER,enrolled_in_specialist_studies,M,55
+2024,NUMBER,enrolled_in_specialist_studies,F,166
