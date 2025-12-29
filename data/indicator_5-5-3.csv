@@ -32,8 +32,8 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2020,NUMBER,masters,_T,261
 2020,NUMBER,masters,M,105
 2020,NUMBER,masters,F,156
-2021,NUMBER,masters,F,345
-2021,NUMBER,masters,F,145
+2021,NUMBER,masters,_T,345
+2021,NUMBER,masters,M,145
 2021,NUMBER,masters,F,200
 2016,NUMBER,specialists,_T,101
 2016,NUMBER,specialists,M,32
@@ -80,3 +80,4 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2024,NUMBER,specialists,_T,114
 2024,NUMBER,specialists,M,39
 2024,NUMBER,specialists,F,75
+
