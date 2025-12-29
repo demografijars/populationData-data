@@ -164,17 +164,17 @@ Year,UNIT_MEASURE,Field of education,Sex,Value
 2021,Number,"Natural sciences, mathematics and statistics",F,18
 2021,Number,Services,F,2
 2021,Number,Health and social protection,F,49
-2022,Number,Total,T,430
-2022,Number,"Social sciences, journalism and information",T,85
-2022,Number,Arts and humanities,T,59
-2022,Number,Information and communication technologies,T,9
-2022,Number,"Engineering, manufacturing and construction",T,53
-2022,Number,Education,T,35
-2022,Number,"Agriculture, forestry, fisheries and veterinary medicine",T,23
-2022,Number,"Business, administration and law",T,33
-2022,Number,"Natural sciences, mathematics and statistics",T,22
-2022,Number,Services,T,10
-2022,Number,Health and social protection,T,101
+2022,Number,Total,Total,430
+2022,Number,"Social sciences, journalism and information",Total,85
+2022,Number,Arts and humanities,Total,59
+2022,Number,Information and communication technologies,Total,9
+2022,Number,"Engineering, manufacturing and construction",Total,53
+2022,Number,Education,Total,35
+2022,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,23
+2022,Number,"Business, administration and law",Total,33
+2022,Number,"Natural sciences, mathematics and statistics",Total,22
+2022,Number,Services,Total,10
+2022,Number,Health and social protection,Total,101
 2022,Number,Total,M,193
 2022,Number,"Social sciences, journalism and information",M,46
 2022,Number,Arts and humanities,M,25
@@ -197,17 +197,17 @@ Year,UNIT_MEASURE,Field of education,Sex,Value
 2022,Number,"Natural sciences, mathematics and statistics",F,15
 2022,Number,Services,F,2
 2022,Number,Health and social protection,F,61
-2023,Number,Total,T,465
-2023,Number,"Social sciences, journalism and information",T,46
-2023,Number,Arts and humanities,T,71
-2023,Number,Information and communication technologies,T,8
-2023,Number,"Engineering, manufacturing and construction",T,53
-2023,Number,Education,T,49
-2023,Number,"Agriculture, forestry, fisheries and veterinary medicine",T,9
-2023,Number,"Business, administration and law",T,66
-2023,Number,"Natural sciences, mathematics and statistics",T,25
-2023,Number,Services,T,3
-2023,Number,Health and social protection,T,135
+2023,Number,Total,Total,465
+2023,Number,"Social sciences, journalism and information",Total,46
+2023,Number,Arts and humanities,Total,71
+2023,Number,Information and communication technologies,Total,8
+2023,Number,"Engineering, manufacturing and construction",Total,53
+2023,Number,Education,Total,49
+2023,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,9
+2023,Number,"Business, administration and law",Total,66
+2023,Number,"Natural sciences, mathematics and statistics",Total,25
+2023,Number,Services,Total,3
+2023,Number,Health and social protection,Total,135
 2023,Number,Total,M,179
 2023,Number,"Social sciences, journalism and information",M,11
 2023,Number,Arts and humanities,M,23
@@ -230,17 +230,17 @@ Year,UNIT_MEASURE,Field of education,Sex,Value
 2023,Number,"Natural sciences, mathematics and statistics",F,15
 2023,Number,Services,F,1
 2023,Number,Health and social protection,F,77
-2024,Number,Total,T,475
-2024,Number,"Social sciences, journalism and information",T,65
-2024,Number,Arts and humanities,T,68
-2024,Number,Information and communication technologies,T,10
-2024,Number,"Engineering, manufacturing and construction",T,50
-2024,Number,Education,T,88
-2024,Number,"Agriculture, forestry, fisheries and veterinary medicine",T,21
-2024,Number,"Business, administration and law",T,31
-2024,Number,"Natural sciences, mathematics and statistics",T,21
-2024,Number,Services,T,1
-2024,Number,Health and social protection,T,120
+2024,Number,Total,Total,475
+2024,Number,"Social sciences, journalism and information",Total,65
+2024,Number,Arts and humanities,Total,68
+2024,Number,Information and communication technologies,Total,10
+2024,Number,"Engineering, manufacturing and construction",Total,50
+2024,Number,Education,Total,88
+2024,Number,"Agriculture, forestry, fisheries and veterinary medicine",Total,21
+2024,Number,"Business, administration and law",Total,31
+2024,Number,"Natural sciences, mathematics and statistics",Total,21
+2024,Number,Services,Total,1
+2024,Number,Health and social protection,Total,120
 2024,Number,Total,M,181
 2024,Number,"Social sciences, journalism and information",M,20
 2024,Number,Arts and humanities,M,27
