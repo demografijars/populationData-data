@@ -42962,6 +42962,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,0-4,2
 2024,NUMBER,istocni_mostar,M,0-4,2
 2024,NUMBER,istocni_mostar,F,0-4,0
+2024,NUMBER,grad_istocno_sarajevo,_T,0-4,2660
+2024,NUMBER,grad_istocno_sarajevo,M,0-4,1329
+2024,NUMBER,grad_istocno_sarajevo,F,0-4,1331
 2024,NUMBER,istocni_stari_grad,_T,0-4,40
 2024,NUMBER,istocni_stari_grad,M,0-4,25
 2024,NUMBER,istocni_stari_grad,F,0-4,15
@@ -43154,6 +43157,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,5-9,2
 2024,NUMBER,istocni_mostar,M,5-9,0
 2024,NUMBER,istocni_mostar,F,5-9,2
+2024,NUMBER,grad_istocno_sarajevo,_T,5-9,2678
+2024,NUMBER,grad_istocno_sarajevo,M,5-9,1414
+2024,NUMBER,grad_istocno_sarajevo,F,5-9,1264
 2024,NUMBER,istocni_stari_grad,_T,5-9,36
 2024,NUMBER,istocni_stari_grad,M,5-9,21
 2024,NUMBER,istocni_stari_grad,F,5-9,15
@@ -43346,6 +43352,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,10-14,8
 2024,NUMBER,istocni_mostar,M,10-14,5
 2024,NUMBER,istocni_mostar,F,10-14,3
+2024,NUMBER,grad_istocno_sarajevo,_T,10-14,2757
+2024,NUMBER,grad_istocno_sarajevo,M,10-14,1431
+2024,NUMBER,grad_istocno_sarajevo,F,10-14,1326
 2024,NUMBER,istocni_stari_grad,_T,10-14,37
 2024,NUMBER,istocni_stari_grad,M,10-14,24
 2024,NUMBER,istocni_stari_grad,F,10-14,13
@@ -43538,6 +43547,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,15-19,11
 2024,NUMBER,istocni_mostar,M,15-19,4
 2024,NUMBER,istocni_mostar,F,15-19,7
+2024,NUMBER,grad_istocno_sarajevo,_T,15-19,2800
+2024,NUMBER,grad_istocno_sarajevo,M,15-19,1423
+2024,NUMBER,grad_istocno_sarajevo,F,15-19,1377
 2024,NUMBER,istocni_stari_grad,_T,15-19,43
 2024,NUMBER,istocni_stari_grad,M,15-19,29
 2024,NUMBER,istocni_stari_grad,F,15-19,14
@@ -43730,6 +43742,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,20-24,19
 2024,NUMBER,istocni_mostar,M,20-24,11
 2024,NUMBER,istocni_mostar,F,20-24,8
+2024,NUMBER,grad_istocno_sarajevo,_T,20-24,2815
+2024,NUMBER,grad_istocno_sarajevo,M,20-24,1487
+2024,NUMBER,grad_istocno_sarajevo,F,20-24,1328
 2024,NUMBER,istocni_stari_grad,_T,20-24,28
 2024,NUMBER,istocni_stari_grad,M,20-24,18
 2024,NUMBER,istocni_stari_grad,F,20-24,10
@@ -43922,6 +43937,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,25-29,15
 2024,NUMBER,istocni_mostar,M,25-29,11
 2024,NUMBER,istocni_mostar,F,25-29,4
+2024,NUMBER,grad_istocno_sarajevo,_T,25-29,3615
+2024,NUMBER,grad_istocno_sarajevo,M,25-29,1837
+2024,NUMBER,grad_istocno_sarajevo,F,25-29,1778
 2024,NUMBER,istocni_stari_grad,_T,25-29,55
 2024,NUMBER,istocni_stari_grad,M,25-29,27
 2024,NUMBER,istocni_stari_grad,F,25-29,28
@@ -44114,6 +44132,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,30-34,11
 2024,NUMBER,istocni_mostar,M,30-34,10
 2024,NUMBER,istocni_mostar,F,30-34,1
+2024,NUMBER,grad_istocno_sarajevo,_T,30-34,3789
+2024,NUMBER,grad_istocno_sarajevo,M,30-34,1981
+2024,NUMBER,grad_istocno_sarajevo,F,30-34,1808
 2024,NUMBER,istocni_stari_grad,_T,30-34,39
 2024,NUMBER,istocni_stari_grad,M,30-34,22
 2024,NUMBER,istocni_stari_grad,F,30-34,17
@@ -44306,6 +44327,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,35-39,9
 2024,NUMBER,istocni_mostar,M,35-39,5
 2024,NUMBER,istocni_mostar,F,35-39,4
+2024,NUMBER,grad_istocno_sarajevo,_T,35-39,4271
+2024,NUMBER,grad_istocno_sarajevo,M,35-39,2293
+2024,NUMBER,grad_istocno_sarajevo,F,35-39,984
 2024,NUMBER,istocni_stari_grad,_T,35-39,57
 2024,NUMBER,istocni_stari_grad,M,35-39,46
 2024,NUMBER,istocni_stari_grad,F,35-39,11
@@ -44498,6 +44522,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,40-44,11
 2024,NUMBER,istocni_mostar,M,40-44,6
 2024,NUMBER,istocni_mostar,F,40-44,5
+2024,NUMBER,grad_istocno_sarajevo,_T,40-44,4706
+2024,NUMBER,grad_istocno_sarajevo,M,40-44,2397
+2024,NUMBER,grad_istocno_sarajevo,F,40-44,2309
 2024,NUMBER,istocni_stari_grad,_T,40-44,68
 2024,NUMBER,istocni_stari_grad,M,40-44,39
 2024,NUMBER,istocni_stari_grad,F,40-44,29
@@ -44690,6 +44717,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,45-49,19
 2024,NUMBER,istocni_mostar,M,45-49,12
 2024,NUMBER,istocni_mostar,F,45-49,7
+2024,NUMBER,grad_istocno_sarajevo,_T,45-49,4128
+2024,NUMBER,grad_istocno_sarajevo,M,45-49,2208
+2024,NUMBER,grad_istocno_sarajevo,F,45-49,1920
 2024,NUMBER,istocni_stari_grad,_T,45-49,52
 2024,NUMBER,istocni_stari_grad,M,45-49,31
 2024,NUMBER,istocni_stari_grad,F,45-49,21
@@ -44882,6 +44912,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,50-54,27
 2024,NUMBER,istocni_mostar,M,50-54,19
 2024,NUMBER,istocni_mostar,F,50-54,8
+2024,NUMBER,grad_istocno_sarajevo,_T,50-54,3397
+2024,NUMBER,grad_istocno_sarajevo,M,50-54,1752
+2024,NUMBER,grad_istocno_sarajevo,F,50-54,1645
 2024,NUMBER,istocni_stari_grad,_T,50-54,44
 2024,NUMBER,istocni_stari_grad,M,50-54,19
 2024,NUMBER,istocni_stari_grad,F,50-54,25
@@ -45074,6 +45107,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,55-59,19
 2024,NUMBER,istocni_mostar,M,55-59,12
 2024,NUMBER,istocni_mostar,F,55-59,7
+2024,NUMBER,grad_istocno_sarajevo,_T,55-59,3693
+2024,NUMBER,grad_istocno_sarajevo,M,55-59,1796
+2024,NUMBER,grad_istocno_sarajevo,F,55-59,1897
 2024,NUMBER,istocni_stari_grad,_T,55-59,48
 2024,NUMBER,istocni_stari_grad,M,55-59,34
 2024,NUMBER,istocni_stari_grad,F,55-59,14
@@ -45266,6 +45302,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,60-64,11
 2024,NUMBER,istocni_mostar,M,60-64,8
 2024,NUMBER,istocni_mostar,F,60-64,3
+2024,NUMBER,grad_istocno_sarajevo,_T,60-64,4409
+2024,NUMBER,grad_istocno_sarajevo,M,60-64,1956
+2024,NUMBER,grad_istocno_sarajevo,F,60-64,2453
 2024,NUMBER,istocni_stari_grad,_T,60-64,75
 2024,NUMBER,istocni_stari_grad,M,60-64,42
 2024,NUMBER,istocni_stari_grad,F,60-64,33
@@ -45458,6 +45497,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,65-69,8
 2024,NUMBER,istocni_mostar,M,65-69,7
 2024,NUMBER,istocni_mostar,F,65-69,1
+2024,NUMBER,grad_istocno_sarajevo,_T,65-69,5039
+2024,NUMBER,grad_istocno_sarajevo,M,65-69,2319
+2024,NUMBER,grad_istocno_sarajevo,F,65-69,2720
 2024,NUMBER,istocni_stari_grad,_T,65-69,98
 2024,NUMBER,istocni_stari_grad,M,65-69,44
 2024,NUMBER,istocni_stari_grad,F,65-69,54
@@ -45650,6 +45692,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,70-74,7
 2024,NUMBER,istocni_mostar,M,70-74,7
 2024,NUMBER,istocni_mostar,F,70-74,0
+2024,NUMBER,grad_istocno_sarajevo,_T,70-74,4187
+2024,NUMBER,grad_istocno_sarajevo,M,70-74,1788
+2024,NUMBER,grad_istocno_sarajevo,F,70-74,2399
 2024,NUMBER,istocni_stari_grad,_T,70-74,89
 2024,NUMBER,istocni_stari_grad,M,70-74,40
 2024,NUMBER,istocni_stari_grad,F,70-74,49
@@ -45842,6 +45887,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,75-79,11
 2024,NUMBER,istocni_mostar,M,75-79,4
 2024,NUMBER,istocni_mostar,F,75-79,7
+2024,NUMBER,grad_istocno_sarajevo,_T,75-79,2437
+2024,NUMBER,grad_istocno_sarajevo,M,75-79,914
+2024,NUMBER,grad_istocno_sarajevo,F,75-79,1523
 2024,NUMBER,istocni_stari_grad,_T,75-79,63
 2024,NUMBER,istocni_stari_grad,M,75-79,26
 2024,NUMBER,istocni_stari_grad,F,75-79,37
@@ -46034,6 +46082,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,80-84,24
 2024,NUMBER,istocni_mostar,M,80-84,9
 2024,NUMBER,istocni_mostar,F,80-84,15
+2024,NUMBER,grad_istocno_sarajevo,_T,80-84,1561
+2024,NUMBER,grad_istocno_sarajevo,M,80-84,597
+2024,NUMBER,grad_istocno_sarajevo,F,80-84,964
 2024,NUMBER,istocni_stari_grad,_T,80-84,35
 2024,NUMBER,istocni_stari_grad,M,80-84,17
 2024,NUMBER,istocni_stari_grad,F,80-84,18
@@ -46226,6 +46277,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,85-89,14
 2024,NUMBER,istocni_mostar,M,85-89,5
 2024,NUMBER,istocni_mostar,F,85-89,9
+2024,NUMBER,grad_istocno_sarajevo,_T,85-89,1125
+2024,NUMBER,grad_istocno_sarajevo,M,85-89,400
+2024,NUMBER,grad_istocno_sarajevo,F,85-89,725
 2024,NUMBER,istocni_stari_grad,_T,85-89,40
 2024,NUMBER,istocni_stari_grad,M,85-89,16
 2024,NUMBER,istocni_stari_grad,F,85-89,24
@@ -46418,6 +46472,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,90+,11
 2024,NUMBER,istocni_mostar,M,90+,6
 2024,NUMBER,istocni_mostar,F,90+,5
+2024,NUMBER,grad_istocno_sarajevo,_T,90+,352
+2024,NUMBER,grad_istocno_sarajevo,M,90+,140
+2024,NUMBER,grad_istocno_sarajevo,F,90+,212
 2024,NUMBER,istocni_stari_grad,_T,90+,6
 2024,NUMBER,istocni_stari_grad,M,90+,1
 2024,NUMBER,istocni_stari_grad,F,90+,5
@@ -46610,6 +46667,9 @@ Year,UNIT_MEASURE,ADMIN_AREA,SEX,AGE,Value
 2024,NUMBER,istocni_mostar,_T,_T,239
 2024,NUMBER,istocni_mostar,M,_T,143
 2024,NUMBER,istocni_mostar,F,_T,96
+2024,NUMBER,grad_istocno_sarajevo,_T,_T,60419
+2024,NUMBER,grad_istocno_sarajevo,M,_T,29462
+2024,NUMBER,grad_istocno_sarajevo,F,_T,30957
 2024,NUMBER,istocni_stari_grad,_T,_T,953
 2024,NUMBER,istocni_stari_grad,M,_T,521
 2024,NUMBER,istocni_stari_grad,F,_T,432
