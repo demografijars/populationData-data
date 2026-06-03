@@ -1,8 +1,8 @@
 Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Republika Srpska,Engaged in agricultural activities,140960
-2013,Number,Grad Banja Luka,Engaged in agricultural activities,8832
+2013,Number,City of Banja Luka,Engaged in agricultural activities,8832
 2013,Number,Berkovići,Engaged in agricultural activities,450
-2013,Number,Grad Bijeljina,Engaged in agricultural activities,10563
+2013,Number,City of Bijeljina,Engaged in agricultural activities,10563
 2013,Number,Bileća,Engaged in agricultural activities,1659
 2013,Number,Bratunac,Engaged in agricultural activities,3166
 2013,Number,Brod,Engaged in agricultural activities,1512
@@ -10,11 +10,11 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Vlasenica,Engaged in agricultural activities,1381
 2013,Number,Vukosavlje,Engaged in agricultural activities,532
 2013,Number,Gacko,Engaged in agricultural activities,986
-2013,Number,Grad Gradiška,Engaged in agricultural activities,6402
-2013,Number,Grad Derventa,Engaged in agricultural activities,3038
-2013,Number,Grad Doboj,Engaged in agricultural activities,9221
+2013,Number,City of Gradiška,Engaged in agricultural activities,6402
+2013,Number,City of Derventa,Engaged in agricultural activities,3038
+2013,Number,City of Doboj,Engaged in agricultural activities,9221
 2013,Number,Donji Žabar,Engaged in agricultural activities,617
-2013,Number,Grad Zvornik,Engaged in agricultural activities,7120
+2013,Number,City of Zvornik,Engaged in agricultural activities,7120
 2013,Number,Istočna Ilidža,Engaged in agricultural activities,1045
 2013,Number,Istočni Drvar,Engaged in agricultural activities,11
 2013,Number,Istočni Mostar,Engaged in agricultural activities,60
@@ -28,7 +28,7 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Kotor Varoš,Engaged in agricultural activities,1826
 2013,Number,Krupa Na Uni,Engaged in agricultural activities,453
 2013,Number,Kupres,Engaged in agricultural activities,85
-2013,Number,Laktaši,Engaged in agricultural activities,3882
+2013,Number,City of Laktaši,Engaged in agricultural activities,3882
 2013,Number,Lopare,Engaged in agricultural activities,2416
 2013,Number,Ljubinje,Engaged in agricultural activities,598
 2013,Number,Milići,Engaged in agricultural activities,1395
@@ -43,16 +43,16 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Pelagićevo,Engaged in agricultural activities,869
 2013,Number,Petrovac,Engaged in agricultural activities,54
 2013,Number,Petrovo,Engaged in agricultural activities,1388
-2013,Number,Grad Prijedor,Engaged in agricultural activities,8920
-2013,Number,Prnjavor,Engaged in agricultural activities,6121
+2013,Number,City of Prijedor,Engaged in agricultural activities,8920
+2013,Number,City of Prnjavor,Engaged in agricultural activities,6121
 2013,Number,Ribnik,Engaged in agricultural activities,1579
 2013,Number,Rogatica,Engaged in agricultural activities,1481
 2013,Number,Rudo,Engaged in agricultural activities,1466
 2013,Number,Sokolac,Engaged in agricultural activities,1586
 2013,Number,Srbac,Engaged in agricultural activities,2852
 2013,Number,Srebrenica,Engaged in agricultural activities,1905
-2013,Number,Teslić,Engaged in agricultural activities,7062
-2013,Number,Grad Trebinje,Engaged in agricultural activities,2485
+2013,Number,City of Teslić,Engaged in agricultural activities,7062
+2013,Number,City of Trebinje,Engaged in agricultural activities,2485
 2013,Number,Trnovo,Engaged in agricultural activities,341
 2013,Number,Ugljevik,Engaged in agricultural activities,2419
 2013,Number,Foča,Engaged in agricultural activities,1965
@@ -63,9 +63,9 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Šekovići,Engaged in agricultural activities,890
 2013,Number,Šipovo,Engaged in agricultural activities,1649
 2013,Number,Republika Srpska,Engaged in agricultural activities that sell their products in the market,25335
-2013,Number,Grad Banja Luka,Engaged in agricultural activities that sell their products in the market,593
+2013,Number,City of Banja Luka,Engaged in agricultural activities that sell their products in the market,593
 2013,Number,Berkovići,Engaged in agricultural activities that sell their products in the market,234
-2013,Number,Grad Bijeljina,Engaged in agricultural activities that sell their products in the market,4977
+2013,Number,City of Bijeljina,Engaged in agricultural activities that sell their products in the market,4977
 2013,Number,Bileća,Engaged in agricultural activities that sell their products in the market,213
 2013,Number,Bratunac,Engaged in agricultural activities that sell their products in the market,704
 2013,Number,Brod,Engaged in agricultural activities that sell their products in the market,134
@@ -73,11 +73,11 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Vlasenica,Engaged in agricultural activities that sell their products in the market,241
 2013,Number,Vukosavlje,Engaged in agricultural activities that sell their products in the market,74
 2013,Number,Gacko,Engaged in agricultural activities that sell their products in the market,437
-2013,Number,Grad Gradiška,Engaged in agricultural activities that sell their products in the market,2285
-2013,Number,Grad Derventa,Engaged in agricultural activities that sell their products in the market,455
-2013,Number,Grad Doboj,Engaged in agricultural activities that sell their products in the market,515
+2013,Number,City of Gradiška,Engaged in agricultural activities that sell their products in the market,2285
+2013,Number,City of Derventa,Engaged in agricultural activities that sell their products in the market,455
+2013,Number,City of Doboj,Engaged in agricultural activities that sell their products in the market,515
 2013,Number,Donji Žabar,Engaged in agricultural activities that sell their products in the market,219
-2013,Number,Grad Zvornik,Engaged in agricultural activities that sell their products in the market,770
+2013,Number,City of Zvornik,Engaged in agricultural activities that sell their products in the market,770
 2013,Number,Istočna Ilidža,Engaged in agricultural activities that sell their products in the market,51
 2013,Number,Istočni Drvar,Engaged in agricultural activities that sell their products in the market,1
 2013,Number,Istočni Mostar,Engaged in agricultural activities that sell their products in the market,9
@@ -91,7 +91,7 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Kotor Varoš,Engaged in agricultural activities that sell their products in the market,139
 2013,Number,Krupa Na Uni,Engaged in agricultural activities that sell their products in the market,288
 2013,Number,Kupres,Engaged in agricultural activities that sell their products in the market,72
-2013,Number,Laktaši,Engaged in agricultural activities that sell their products in the market,662
+2013,Number,City of Laktaši,Engaged in agricultural activities that sell their products in the market,662
 2013,Number,Lopare,Engaged in agricultural activities that sell their products in the market,668
 2013,Number,Ljubinje,Engaged in agricultural activities that sell their products in the market,269
 2013,Number,Milići,Engaged in agricultural activities that sell their products in the market,185
@@ -106,16 +106,16 @@ Year,UNIT_MEASURE,City/municipality,Agricultural activity,Value
 2013,Number,Pelagićevo,Engaged in agricultural activities that sell their products in the market,256
 2013,Number,Petrovac,Engaged in agricultural activities that sell their products in the market,12
 2013,Number,Petrovo,Engaged in agricultural activities that sell their products in the market,61
-2013,Number,Grad Prijedor,Engaged in agricultural activities that sell their products in the market,798
-2013,Number,Prnjavor,Engaged in agricultural activities that sell their products in the market,986
+2013,Number,City of Prijedor,Engaged in agricultural activities that sell their products in the market,798
+2013,Number,City of Prnjavor,Engaged in agricultural activities that sell their products in the market,986
 2013,Number,Ribnik,Engaged in agricultural activities that sell their products in the market,93
 2013,Number,Rogatica,Engaged in agricultural activities that sell their products in the market,265
 2013,Number,Rudo,Engaged in agricultural activities that sell their products in the market,244
 2013,Number,Sokolac,Engaged in agricultural activities that sell their products in the market,292
 2013,Number,Srbac,Engaged in agricultural activities that sell their products in the market,594
 2013,Number,Srebrenica,Engaged in agricultural activities that sell their products in the market,469
-2013,Number,Teslić,Engaged in agricultural activities that sell their products in the market,576
-2013,Number,Grad Trebinje,Engaged in agricultural activities that sell their products in the market,327
+2013,Number,City of Teslić,Engaged in agricultural activities that sell their products in the market,576
+2013,Number,City of Trebinje,Engaged in agricultural activities that sell their products in the market,327
 2013,Number,Trnovo,Engaged in agricultural activities that sell their products in the market,17
 2013,Number,Ugljevik,Engaged in agricultural activities that sell their products in the market,632
 2013,Number,Foča,Engaged in agricultural activities that sell their products in the market,262

@@ -2,15 +2,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Total,1170342
 2013,Number,Republika Srpska,M,Total,571812
 2013,Number,Republika Srpska,F,Total,598530
-2013,Number,Grad Banja Luka,Total,Total,180053
-2013,Number,Grad Banja Luka,M,Total,86510
-2013,Number,Grad Banja Luka,F,Total,93543
+2013,Number,City of Banja Luka,Total,Total,180053
+2013,Number,City of Banja Luka,M,Total,86510
+2013,Number,City of Banja Luka,F,Total,93543
 2013,Number,Berkovići,Total,Total,2041
 2013,Number,Berkovići,M,Total,1032
 2013,Number,Berkovići,F,Total,1009
-2013,Number,Grad Bijeljina,Total,Total,103874
-2013,Number,Grad Bijeljina,M,Total,50760
-2013,Number,Grad Bijeljina,F,Total,53114
+2013,Number,City of Bijeljina,Total,Total,103874
+2013,Number,City of Bijeljina,M,Total,50760
+2013,Number,City of Bijeljina,F,Total,53114
 2013,Number,Bileća,Total,Total,10607
 2013,Number,Bileća,M,Total,5346
 2013,Number,Bileća,F,Total,5261
@@ -32,21 +32,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Total,8710
 2013,Number,Gacko,M,Total,4423
 2013,Number,Gacko,F,Total,4287
-2013,Number,Grad Gradiška,Total,Total,49196
-2013,Number,Grad Gradiška,M,Total,23944
-2013,Number,Grad Gradiška,F,Total,25252
-2013,Number,Grad Derventa,Total,Total,25922
-2013,Number,Grad Derventa,M,Total,12629
-2013,Number,Grad Derventa,F,Total,13293
-2013,Number,Grad Doboj,Total,Total,68514
-2013,Number,Grad Doboj,M,Total,33222
-2013,Number,Grad Doboj,F,Total,35292
+2013,Number,City of Gradiška,Total,Total,49196
+2013,Number,City of Gradiška,M,Total,23944
+2013,Number,City of Gradiška,F,Total,25252
+2013,Number,City of Derventa,Total,Total,25922
+2013,Number,City of Derventa,M,Total,12629
+2013,Number,City of Derventa,F,Total,13293
+2013,Number,City of Doboj,Total,Total,68514
+2013,Number,City of Doboj,M,Total,33222
+2013,Number,City of Doboj,F,Total,35292
 2013,Number,Donji Žabar,Total,Total,3669
 2013,Number,Donji Žabar,M,Total,1853
 2013,Number,Donji Žabar,F,Total,1816
-2013,Number,Grad Zvornik,Total,Total,54407
-2013,Number,Grad Zvornik,M,Total,26803
-2013,Number,Grad Zvornik,F,Total,27604
+2013,Number,City of Zvornik,Total,Total,54407
+2013,Number,City of Zvornik,M,Total,26803
+2013,Number,City of Zvornik,F,Total,27604
 2013,Number,Istočna Ilidža,Total,Total,14437
 2013,Number,Istočna Ilidža,M,Total,6905
 2013,Number,Istočna Ilidža,F,Total,7532
@@ -86,9 +86,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Total,293
 2013,Number,Kupres,M,Total,157
 2013,Number,Kupres,F,Total,136
-2013,Number,Laktaši,Total,Total,34210
-2013,Number,Laktaši,M,Total,16905
-2013,Number,Laktaši,F,Total,17305
+2013,Number,City of Laktaši,Total,Total,34210
+2013,Number,City of Laktaši,M,Total,16905
+2013,Number,City of Laktaši,F,Total,17305
 2013,Number,Lopare,Total,Total,14689
 2013,Number,Lopare,M,Total,7377
 2013,Number,Lopare,F,Total,7312
@@ -131,12 +131,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Total,6317
 2013,Number,Petrovo,M,Total,3043
 2013,Number,Petrovo,F,Total,3274
-2013,Number,Grad Prijedor,Total,Total,80916
-2013,Number,Grad Prijedor,M,Total,39418
-2013,Number,Grad Prijedor,F,Total,41498
-2013,Number,Prnjavor,Total,Total,34357
-2013,Number,Prnjavor,M,Total,16675
-2013,Number,Prnjavor,F,Total,17682
+2013,Number,City of Prijedor,Total,Total,80916
+2013,Number,City of Prijedor,M,Total,39418
+2013,Number,City of Prijedor,F,Total,41498
+2013,Number,City of Prnjavor,Total,Total,34357
+2013,Number,City of Prnjavor,M,Total,16675
+2013,Number,City of Prnjavor,F,Total,17682
 2013,Number,Ribnik,Total,Total,5851
 2013,Number,Ribnik,M,Total,2900
 2013,Number,Ribnik,F,Total,2951
@@ -155,12 +155,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Total,11698
 2013,Number,Srebrenica,M,Total,5714
 2013,Number,Srebrenica,F,Total,5984
-2013,Number,Teslić,Total,Total,37236
-2013,Number,Teslić,M,Total,17894
-2013,Number,Teslić,F,Total,19342
-2013,Number,Grad Trebinje,Total,Total,28239
-2013,Number,Grad Trebinje,M,Total,13760
-2013,Number,Grad Trebinje,F,Total,14479
+2013,Number,City of Teslić,Total,Total,37236
+2013,Number,City of Teslić,M,Total,17894
+2013,Number,City of Teslić,F,Total,19342
+2013,Number,City of Trebinje,Total,Total,28239
+2013,Number,City of Trebinje,M,Total,13760
+2013,Number,City of Trebinje,F,Total,14479
 2013,Number,Trnovo,Total,Total,1983
 2013,Number,Trnovo,M,Total,953
 2013,Number,Trnovo,F,Total,1030
@@ -191,15 +191,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Bosnian,150221
 2013,Number,Republika Srpska,M,Bosnian,73026
 2013,Number,Republika Srpska,F,Bosnian,77195
-2013,Number,Grad Banja Luka,Total,Bosnian,6792
-2013,Number,Grad Banja Luka,M,Bosnian,3152
-2013,Number,Grad Banja Luka,F,Bosnian,3640
+2013,Number,City of Banja Luka,Total,Bosnian,6792
+2013,Number,City of Banja Luka,M,Bosnian,3152
+2013,Number,City of Banja Luka,F,Bosnian,3640
 2013,Number,Berkovići,Total,Bosnian,155
 2013,Number,Berkovići,M,Bosnian,87
 2013,Number,Berkovići,F,Bosnian,68
-2013,Number,Grad Bijeljina,Total,Bosnian,11651
-2013,Number,Grad Bijeljina,M,Bosnian,5712
-2013,Number,Grad Bijeljina,F,Bosnian,5939
+2013,Number,City of Bijeljina,Total,Bosnian,11651
+2013,Number,City of Bijeljina,M,Bosnian,5712
+2013,Number,City of Bijeljina,F,Bosnian,5939
 2013,Number,Bileća,Total,Bosnian,21
 2013,Number,Bileća,M,Bosnian,14
 2013,Number,Bileća,F,Bosnian,7
@@ -221,21 +221,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Bosnian,331
 2013,Number,Gacko,M,Bosnian,178
 2013,Number,Gacko,F,Bosnian,153
-2013,Number,Grad Gradiška,Total,Bosnian,6335
-2013,Number,Grad Gradiška,M,Bosnian,3083
-2013,Number,Grad Gradiška,F,Bosnian,3252
-2013,Number,Grad Derventa,Total,Bosnian,1791
-2013,Number,Grad Derventa,M,Bosnian,857
-2013,Number,Grad Derventa,F,Bosnian,934
-2013,Number,Grad Doboj,Total,Bosnian,14749
-2013,Number,Grad Doboj,M,Bosnian,7085
-2013,Number,Grad Doboj,F,Bosnian,7664
+2013,Number,City of Gradiška,Total,Bosnian,6335
+2013,Number,City of Gradiška,M,Bosnian,3083
+2013,Number,City of Gradiška,F,Bosnian,3252
+2013,Number,City of Derventa,Total,Bosnian,1791
+2013,Number,City of Derventa,M,Bosnian,857
+2013,Number,City of Derventa,F,Bosnian,934
+2013,Number,City of Doboj,Total,Bosnian,14749
+2013,Number,City of Doboj,M,Bosnian,7085
+2013,Number,City of Doboj,F,Bosnian,7664
 2013,Number,Donji Žabar,Total,Bosnian,11
 2013,Number,Donji Žabar,M,Bosnian,3
 2013,Number,Donji Žabar,F,Bosnian,8
-2013,Number,Grad Zvornik,Total,Bosnian,16813
-2013,Number,Grad Zvornik,M,Bosnian,8218
-2013,Number,Grad Zvornik,F,Bosnian,8595
+2013,Number,City of Zvornik,Total,Bosnian,16813
+2013,Number,City of Zvornik,M,Bosnian,8218
+2013,Number,City of Zvornik,F,Bosnian,8595
 2013,Number,Istočna Ilidža,Total,Bosnian,691
 2013,Number,Istočna Ilidža,M,Bosnian,322
 2013,Number,Istočna Ilidža,F,Bosnian,369
@@ -275,9 +275,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Bosnian,0
 2013,Number,Kupres,M,Bosnian,0
 2013,Number,Kupres,F,Bosnian,0
-2013,Number,Laktaši,Total,Bosnian,112
-2013,Number,Laktaši,M,Bosnian,58
-2013,Number,Laktaši,F,Bosnian,54
+2013,Number,City of Laktaši,Total,Bosnian,112
+2013,Number,City of Laktaši,M,Bosnian,58
+2013,Number,City of Laktaši,F,Bosnian,54
 2013,Number,Lopare,Total,Bosnian,1315
 2013,Number,Lopare,M,Bosnian,648
 2013,Number,Lopare,F,Bosnian,667
@@ -320,12 +320,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Bosnian,7
 2013,Number,Petrovo,M,Bosnian,4
 2013,Number,Petrovo,F,Bosnian,3
-2013,Number,Grad Prijedor,Total,Bosnian,22548
-2013,Number,Grad Prijedor,M,Bosnian,10781
-2013,Number,Grad Prijedor,F,Bosnian,11767
-2013,Number,Prnjavor,Total,Bosnian,2792
-2013,Number,Prnjavor,M,Bosnian,1344
-2013,Number,Prnjavor,F,Bosnian,1448
+2013,Number,City of Prijedor,Total,Bosnian,22548
+2013,Number,City of Prijedor,M,Bosnian,10781
+2013,Number,City of Prijedor,F,Bosnian,11767
+2013,Number,City of Prnjavor,Total,Bosnian,2792
+2013,Number,City of Prnjavor,M,Bosnian,1344
+2013,Number,City of Prnjavor,F,Bosnian,1448
 2013,Number,Ribnik,Total,Bosnian,3
 2013,Number,Ribnik,M,Bosnian,1
 2013,Number,Ribnik,F,Bosnian,2
@@ -344,12 +344,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Bosnian,6145
 2013,Number,Srebrenica,M,Bosnian,2921
 2013,Number,Srebrenica,F,Bosnian,3224
-2013,Number,Teslić,Total,Bosnian,7090
-2013,Number,Teslić,M,Bosnian,3489
-2013,Number,Teslić,F,Bosnian,3601
-2013,Number,Grad Trebinje,Total,Bosnian,860
-2013,Number,Grad Trebinje,M,Bosnian,425
-2013,Number,Grad Trebinje,F,Bosnian,435
+2013,Number,City of Teslić,Total,Bosnian,7090
+2013,Number,City of Teslić,M,Bosnian,3489
+2013,Number,City of Teslić,F,Bosnian,3601
+2013,Number,City of Trebinje,Total,Bosnian,860
+2013,Number,City of Trebinje,M,Bosnian,425
+2013,Number,City of Trebinje,F,Bosnian,435
 2013,Number,Trnovo,Total,Bosnian,820
 2013,Number,Trnovo,M,Bosnian,406
 2013,Number,Trnovo,F,Bosnian,414
@@ -380,15 +380,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Croatian,17315
 2013,Number,Republika Srpska,M,Croatian,7870
 2013,Number,Republika Srpska,F,Croatian,9445
-2013,Number,Grad Banja Luka,Total,Croatian,1621
-2013,Number,Grad Banja Luka,M,Croatian,586
-2013,Number,Grad Banja Luka,F,Croatian,1035
+2013,Number,City of Banja Luka,Total,Croatian,1621
+2013,Number,City of Banja Luka,M,Croatian,586
+2013,Number,City of Banja Luka,F,Croatian,1035
 2013,Number,Berkovići,Total,Croatian,4
 2013,Number,Berkovići,M,Croatian,1
 2013,Number,Berkovići,F,Croatian,3
-2013,Number,Grad Bijeljina,Total,Croatian,134
-2013,Number,Grad Bijeljina,M,Croatian,34
-2013,Number,Grad Bijeljina,F,Croatian,100
+2013,Number,City of Bijeljina,Total,Croatian,134
+2013,Number,City of Bijeljina,M,Croatian,34
+2013,Number,City of Bijeljina,F,Croatian,100
 2013,Number,Bileća,Total,Croatian,6
 2013,Number,Bileća,M,Croatian,0
 2013,Number,Bileća,F,Croatian,6
@@ -410,21 +410,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Croatian,4
 2013,Number,Gacko,M,Croatian,4
 2013,Number,Gacko,F,Croatian,0
-2013,Number,Grad Gradiška,Total,Croatian,358
-2013,Number,Grad Gradiška,M,Croatian,120
-2013,Number,Grad Gradiška,F,Croatian,238
-2013,Number,Grad Derventa,Total,Croatian,1861
-2013,Number,Grad Derventa,M,Croatian,950
-2013,Number,Grad Derventa,F,Croatian,911
-2013,Number,Grad Doboj,Total,Croatian,869
-2013,Number,Grad Doboj,M,Croatian,378
-2013,Number,Grad Doboj,F,Croatian,491
+2013,Number,City of Gradiška,Total,Croatian,358
+2013,Number,City of Gradiška,M,Croatian,120
+2013,Number,City of Gradiška,F,Croatian,238
+2013,Number,City of Derventa,Total,Croatian,1861
+2013,Number,City of Derventa,M,Croatian,950
+2013,Number,City of Derventa,F,Croatian,911
+2013,Number,City of Doboj,Total,Croatian,869
+2013,Number,City of Doboj,M,Croatian,378
+2013,Number,City of Doboj,F,Croatian,491
 2013,Number,Donji Žabar,Total,Croatian,985
 2013,Number,Donji Žabar,M,Croatian,497
 2013,Number,Donji Žabar,F,Croatian,488
-2013,Number,Grad Zvornik,Total,Croatian,29
-2013,Number,Grad Zvornik,M,Croatian,2
-2013,Number,Grad Zvornik,F,Croatian,27
+2013,Number,City of Zvornik,Total,Croatian,29
+2013,Number,City of Zvornik,M,Croatian,2
+2013,Number,City of Zvornik,F,Croatian,27
 2013,Number,Istočna Ilidža,Total,Croatian,76
 2013,Number,Istočna Ilidža,M,Croatian,24
 2013,Number,Istočna Ilidža,F,Croatian,52
@@ -464,9 +464,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Croatian,0
 2013,Number,Kupres,M,Croatian,0
 2013,Number,Kupres,F,Croatian,0
-2013,Number,Laktaši,Total,Croatian,175
-2013,Number,Laktaši,M,Croatian,60
-2013,Number,Laktaši,F,Croatian,115
+2013,Number,City of Laktaši,Total,Croatian,175
+2013,Number,City of Laktaši,M,Croatian,60
+2013,Number,City of Laktaši,F,Croatian,115
 2013,Number,Lopare,Total,Croatian,23
 2013,Number,Lopare,M,Croatian,1
 2013,Number,Lopare,F,Croatian,22
@@ -509,12 +509,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Croatian,12
 2013,Number,Petrovo,M,Croatian,2
 2013,Number,Petrovo,F,Croatian,10
-2013,Number,Grad Prijedor,Total,Croatian,639
-2013,Number,Grad Prijedor,M,Croatian,284
-2013,Number,Grad Prijedor,F,Croatian,355
-2013,Number,Prnjavor,Total,Croatian,171
-2013,Number,Prnjavor,M,Croatian,59
-2013,Number,Prnjavor,F,Croatian,112
+2013,Number,City of Prijedor,Total,Croatian,639
+2013,Number,City of Prijedor,M,Croatian,284
+2013,Number,City of Prijedor,F,Croatian,355
+2013,Number,City of Prnjavor,Total,Croatian,171
+2013,Number,City of Prnjavor,M,Croatian,59
+2013,Number,City of Prnjavor,F,Croatian,112
 2013,Number,Ribnik,Total,Croatian,2
 2013,Number,Ribnik,M,Croatian,0
 2013,Number,Ribnik,F,Croatian,2
@@ -533,12 +533,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Croatian,6
 2013,Number,Srebrenica,M,Croatian,2
 2013,Number,Srebrenica,F,Croatian,4
-2013,Number,Teslić,Total,Croatian,766
-2013,Number,Teslić,M,Croatian,360
-2013,Number,Teslić,F,Croatian,406
-2013,Number,Grad Trebinje,Total,Croatian,149
-2013,Number,Grad Trebinje,M,Croatian,66
-2013,Number,Grad Trebinje,F,Croatian,83
+2013,Number,City of Teslić,Total,Croatian,766
+2013,Number,City of Teslić,M,Croatian,360
+2013,Number,City of Teslić,F,Croatian,406
+2013,Number,City of Trebinje,Total,Croatian,149
+2013,Number,City of Trebinje,M,Croatian,66
+2013,Number,City of Trebinje,F,Croatian,83
 2013,Number,Trnovo,Total,Croatian,13
 2013,Number,Trnovo,M,Croatian,5
 2013,Number,Trnovo,F,Croatian,8
@@ -569,15 +569,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Serbian,982480
 2013,Number,Republika Srpska,M,Serbian,481743
 2013,Number,Republika Srpska,F,Serbian,500737
-2013,Number,Grad Banja Luka,Total,Serbian,166022
-2013,Number,Grad Banja Luka,M,Serbian,80369
-2013,Number,Grad Banja Luka,F,Serbian,85653
+2013,Number,City of Banja Luka,Total,Serbian,166022
+2013,Number,City of Banja Luka,M,Serbian,80369
+2013,Number,City of Banja Luka,F,Serbian,85653
 2013,Number,Berkovići,Total,Serbian,1875
 2013,Number,Berkovići,M,Serbian,942
 2013,Number,Berkovići,F,Serbian,933
-2013,Number,Grad Bijeljina,Total,Serbian,90547
-2013,Number,Grad Bijeljina,M,Serbian,44290
-2013,Number,Grad Bijeljina,F,Serbian,46257
+2013,Number,City of Bijeljina,Total,Serbian,90547
+2013,Number,City of Bijeljina,M,Serbian,44290
+2013,Number,City of Bijeljina,F,Serbian,46257
 2013,Number,Bileća,Total,Serbian,10534
 2013,Number,Bileća,M,Serbian,5307
 2013,Number,Bileća,F,Serbian,5227
@@ -599,21 +599,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Serbian,8356
 2013,Number,Gacko,M,Serbian,4234
 2013,Number,Gacko,F,Serbian,4122
-2013,Number,Grad Gradiška,Total,Serbian,41393
-2013,Number,Grad Gradiška,M,Serbian,20221
-2013,Number,Grad Gradiška,F,Serbian,21172
-2013,Number,Grad Derventa,Total,Serbian,21749
-2013,Number,Grad Derventa,M,Serbian,10593
-2013,Number,Grad Derventa,F,Serbian,11156
-2013,Number,Grad Doboj,Total,Serbian,51338
-2013,Number,Grad Doboj,M,Serbian,25045
-2013,Number,Grad Doboj,F,Serbian,26293
+2013,Number,City of Gradiška,Total,Serbian,41393
+2013,Number,City of Gradiška,M,Serbian,20221
+2013,Number,City of Gradiška,F,Serbian,21172
+2013,Number,City of Derventa,Total,Serbian,21749
+2013,Number,City of Derventa,M,Serbian,10593
+2013,Number,City of Derventa,F,Serbian,11156
+2013,Number,City of Doboj,Total,Serbian,51338
+2013,Number,City of Doboj,M,Serbian,25045
+2013,Number,City of Doboj,F,Serbian,26293
 2013,Number,Donji Žabar,Total,Serbian,2652
 2013,Number,Donji Žabar,M,Serbian,1345
 2013,Number,Donji Žabar,F,Serbian,1307
-2013,Number,Grad Zvornik,Total,Serbian,37330
-2013,Number,Grad Zvornik,M,Serbian,18483
-2013,Number,Grad Zvornik,F,Serbian,18847
+2013,Number,City of Zvornik,Total,Serbian,37330
+2013,Number,City of Zvornik,M,Serbian,18483
+2013,Number,City of Zvornik,F,Serbian,18847
 2013,Number,Istočna Ilidža,Total,Serbian,13532
 2013,Number,Istočna Ilidža,M,Serbian,6502
 2013,Number,Istočna Ilidža,F,Serbian,7030
@@ -653,9 +653,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Serbian,290
 2013,Number,Kupres,M,Serbian,155
 2013,Number,Kupres,F,Serbian,135
-2013,Number,Laktaši,Total,Serbian,33263
-2013,Number,Laktaši,M,Serbian,16465
-2013,Number,Laktaši,F,Serbian,16798
+2013,Number,City of Laktaši,Total,Serbian,33263
+2013,Number,City of Laktaši,M,Serbian,16465
+2013,Number,City of Laktaši,F,Serbian,16798
 2013,Number,Lopare,Total,Serbian,13299
 2013,Number,Lopare,M,Serbian,6707
 2013,Number,Lopare,F,Serbian,6592
@@ -698,12 +698,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Serbian,6252
 2013,Number,Petrovo,M,Serbian,3020
 2013,Number,Petrovo,F,Serbian,3232
-2013,Number,Grad Prijedor,Total,Serbian,55452
-2013,Number,Grad Prijedor,M,Serbian,27205
-2013,Number,Grad Prijedor,F,Serbian,28247
-2013,Number,Prnjavor,Total,Serbian,30213
-2013,Number,Prnjavor,M,Serbian,14687
-2013,Number,Prnjavor,F,Serbian,15526
+2013,Number,City of Prijedor,Total,Serbian,55452
+2013,Number,City of Prijedor,M,Serbian,27205
+2013,Number,City of Prijedor,F,Serbian,28247
+2013,Number,City of Prnjavor,Total,Serbian,30213
+2013,Number,City of Prnjavor,M,Serbian,14687
+2013,Number,City of Prnjavor,F,Serbian,15526
 2013,Number,Ribnik,Total,Serbian,5830
 2013,Number,Ribnik,M,Serbian,2891
 2013,Number,Ribnik,F,Serbian,2939
@@ -722,12 +722,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Serbian,5469
 2013,Number,Srebrenica,M,Serbian,2745
 2013,Number,Srebrenica,F,Serbian,2724
-2013,Number,Teslić,Total,Serbian,28458
-2013,Number,Teslić,M,Serbian,13628
-2013,Number,Teslić,F,Serbian,14830
-2013,Number,Grad Trebinje,Total,Serbian,26940
-2013,Number,Grad Trebinje,M,Serbian,13155
-2013,Number,Grad Trebinje,F,Serbian,13785
+2013,Number,City of Teslić,Total,Serbian,28458
+2013,Number,City of Teslić,M,Serbian,13628
+2013,Number,City of Teslić,F,Serbian,14830
+2013,Number,City of Trebinje,Total,Serbian,26940
+2013,Number,City of Trebinje,M,Serbian,13155
+2013,Number,City of Trebinje,F,Serbian,13785
 2013,Number,Trnovo,Total,Serbian,1141
 2013,Number,Trnovo,M,Serbian,537
 2013,Number,Trnovo,F,Serbian,604
@@ -758,15 +758,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Other,17824
 2013,Number,Republika Srpska,M,Other,8017
 2013,Number,Republika Srpska,F,Other,9807
-2013,Number,Grad Banja Luka,Total,Other,5207
-2013,Number,Grad Banja Luka,M,Other,2214
-2013,Number,Grad Banja Luka,F,Other,2993
+2013,Number,City of Banja Luka,Total,Other,5207
+2013,Number,City of Banja Luka,M,Other,2214
+2013,Number,City of Banja Luka,F,Other,2993
 2013,Number,Berkovići,Total,Other,5
 2013,Number,Berkovići,M,Other,2
 2013,Number,Berkovići,F,Other,3
-2013,Number,Grad Bijeljina,Total,Other,1418
-2013,Number,Grad Bijeljina,M,Other,673
-2013,Number,Grad Bijeljina,F,Other,745
+2013,Number,City of Bijeljina,Total,Other,1418
+2013,Number,City of Bijeljina,M,Other,673
+2013,Number,City of Bijeljina,F,Other,745
 2013,Number,Bileća,Total,Other,32
 2013,Number,Bileća,M,Other,18
 2013,Number,Bileća,F,Other,14
@@ -788,21 +788,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Other,9
 2013,Number,Gacko,M,Other,5
 2013,Number,Gacko,F,Other,4
-2013,Number,Grad Gradiška,Total,Other,1025
-2013,Number,Grad Gradiška,M,Other,481
-2013,Number,Grad Gradiška,F,Other,544
-2013,Number,Grad Derventa,Total,Other,447
-2013,Number,Grad Derventa,M,Other,196
-2013,Number,Grad Derventa,F,Other,251
-2013,Number,Grad Doboj,Total,Other,1380
-2013,Number,Grad Doboj,M,Other,644
-2013,Number,Grad Doboj,F,Other,736
+2013,Number,City of Gradiška,Total,Other,1025
+2013,Number,City of Gradiška,M,Other,481
+2013,Number,City of Gradiška,F,Other,544
+2013,Number,City of Derventa,Total,Other,447
+2013,Number,City of Derventa,M,Other,196
+2013,Number,City of Derventa,F,Other,251
+2013,Number,City of Doboj,Total,Other,1380
+2013,Number,City of Doboj,M,Other,644
+2013,Number,City of Doboj,F,Other,736
 2013,Number,Donji Žabar,Total,Other,15
 2013,Number,Donji Žabar,M,Other,4
 2013,Number,Donji Žabar,F,Other,11
-2013,Number,Grad Zvornik,Total,Other,116
-2013,Number,Grad Zvornik,M,Other,48
-2013,Number,Grad Zvornik,F,Other,68
+2013,Number,City of Zvornik,Total,Other,116
+2013,Number,City of Zvornik,M,Other,48
+2013,Number,City of Zvornik,F,Other,68
 2013,Number,Istočna Ilidža,Total,Other,125
 2013,Number,Istočna Ilidža,M,Other,50
 2013,Number,Istočna Ilidža,F,Other,75
@@ -842,9 +842,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Other,3
 2013,Number,Kupres,M,Other,2
 2013,Number,Kupres,F,Other,1
-2013,Number,Laktaši,Total,Other,578
-2013,Number,Laktaši,M,Other,286
-2013,Number,Laktaši,F,Other,292
+2013,Number,City of Laktaši,Total,Other,578
+2013,Number,City of Laktaši,M,Other,286
+2013,Number,City of Laktaši,F,Other,292
 2013,Number,Lopare,Total,Other,28
 2013,Number,Lopare,M,Other,9
 2013,Number,Lopare,F,Other,19
@@ -887,12 +887,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Other,41
 2013,Number,Petrovo,M,Other,15
 2013,Number,Petrovo,F,Other,26
-2013,Number,Grad Prijedor,Total,Other,1883
-2013,Number,Grad Prijedor,M,Other,879
-2013,Number,Grad Prijedor,F,Other,1004
-2013,Number,Prnjavor,Total,Other,1131
-2013,Number,Prnjavor,M,Other,565
-2013,Number,Prnjavor,F,Other,566
+2013,Number,City of Prijedor,Total,Other,1883
+2013,Number,City of Prijedor,M,Other,879
+2013,Number,City of Prijedor,F,Other,1004
+2013,Number,City of Prnjavor,Total,Other,1131
+2013,Number,City of Prnjavor,M,Other,565
+2013,Number,City of Prnjavor,F,Other,566
 2013,Number,Ribnik,Total,Other,13
 2013,Number,Ribnik,M,Other,5
 2013,Number,Ribnik,F,Other,8
@@ -911,12 +911,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Other,49
 2013,Number,Srebrenica,M,Other,32
 2013,Number,Srebrenica,F,Other,17
-2013,Number,Teslić,Total,Other,864
-2013,Number,Teslić,M,Other,390
-2013,Number,Teslić,F,Other,474
-2013,Number,Grad Trebinje,Total,Other,269
-2013,Number,Grad Trebinje,M,Other,101
-2013,Number,Grad Trebinje,F,Other,168
+2013,Number,City of Teslić,Total,Other,864
+2013,Number,City of Teslić,M,Other,390
+2013,Number,City of Teslić,F,Other,474
+2013,Number,City of Trebinje,Total,Other,269
+2013,Number,City of Trebinje,M,Other,101
+2013,Number,City of Trebinje,F,Other,168
 2013,Number,Trnovo,Total,Other,8
 2013,Number,Trnovo,M,Other,5
 2013,Number,Trnovo,F,Other,3
@@ -947,15 +947,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Republika Srpska,Total,Unknown,2502
 2013,Number,Republika Srpska,M,Unknown,1156
 2013,Number,Republika Srpska,F,Unknown,1346
-2013,Number,Grad Banja Luka,Total,Unknown,411
-2013,Number,Grad Banja Luka,M,Unknown,189
-2013,Number,Grad Banja Luka,F,Unknown,222
+2013,Number,City of Banja Luka,Total,Unknown,411
+2013,Number,City of Banja Luka,M,Unknown,189
+2013,Number,City of Banja Luka,F,Unknown,222
 2013,Number,Berkovići,Total,Unknown,2
 2013,Number,Berkovići,M,Unknown,0
 2013,Number,Berkovići,F,Unknown,2
-2013,Number,Grad Bijeljina,Total,Unknown,124
-2013,Number,Grad Bijeljina,M,Unknown,51
-2013,Number,Grad Bijeljina,F,Unknown,73
+2013,Number,City of Bijeljina,Total,Unknown,124
+2013,Number,City of Bijeljina,M,Unknown,51
+2013,Number,City of Bijeljina,F,Unknown,73
 2013,Number,Bileća,Total,Unknown,14
 2013,Number,Bileća,M,Unknown,7
 2013,Number,Bileća,F,Unknown,7
@@ -977,21 +977,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Gacko,Total,Unknown,10
 2013,Number,Gacko,M,Unknown,2
 2013,Number,Gacko,F,Unknown,8
-2013,Number,Grad Gradiška,Total,Unknown,85
-2013,Number,Grad Gradiška,M,Unknown,39
-2013,Number,Grad Gradiška,F,Unknown,46
-2013,Number,Grad Derventa,Total,Unknown,74
-2013,Number,Grad Derventa,M,Unknown,33
-2013,Number,Grad Derventa,F,Unknown,41
-2013,Number,Grad Doboj,Total,Unknown,178
-2013,Number,Grad Doboj,M,Unknown,70
-2013,Number,Grad Doboj,F,Unknown,108
+2013,Number,City of Gradiška,Total,Unknown,85
+2013,Number,City of Gradiška,M,Unknown,39
+2013,Number,City of Gradiška,F,Unknown,46
+2013,Number,City of Derventa,Total,Unknown,74
+2013,Number,City of Derventa,M,Unknown,33
+2013,Number,City of Derventa,F,Unknown,41
+2013,Number,City of Doboj,Total,Unknown,178
+2013,Number,City of Doboj,M,Unknown,70
+2013,Number,City of Doboj,F,Unknown,108
 2013,Number,Donji Žabar,Total,Unknown,6
 2013,Number,Donji Žabar,M,Unknown,4
 2013,Number,Donji Žabar,F,Unknown,2
-2013,Number,Grad Zvornik,Total,Unknown,119
-2013,Number,Grad Zvornik,M,Unknown,52
-2013,Number,Grad Zvornik,F,Unknown,67
+2013,Number,City of Zvornik,Total,Unknown,119
+2013,Number,City of Zvornik,M,Unknown,52
+2013,Number,City of Zvornik,F,Unknown,67
 2013,Number,Istočna Ilidža,Total,Unknown,13
 2013,Number,Istočna Ilidža,M,Unknown,7
 2013,Number,Istočna Ilidža,F,Unknown,6
@@ -1031,9 +1031,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Kupres,Total,Unknown,0
 2013,Number,Kupres,M,Unknown,0
 2013,Number,Kupres,F,Unknown,0
-2013,Number,Laktaši,Total,Unknown,82
-2013,Number,Laktaši,M,Unknown,36
-2013,Number,Laktaši,F,Unknown,46
+2013,Number,City of Laktaši,Total,Unknown,82
+2013,Number,City of Laktaši,M,Unknown,36
+2013,Number,City of Laktaši,F,Unknown,46
 2013,Number,Lopare,Total,Unknown,24
 2013,Number,Lopare,M,Unknown,12
 2013,Number,Lopare,F,Unknown,12
@@ -1076,12 +1076,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Petrovo,Total,Unknown,5
 2013,Number,Petrovo,M,Unknown,2
 2013,Number,Petrovo,F,Unknown,3
-2013,Number,Grad Prijedor,Total,Unknown,394
-2013,Number,Grad Prijedor,M,Unknown,269
-2013,Number,Grad Prijedor,F,Unknown,125
-2013,Number,Prnjavor,Total,Unknown,50
-2013,Number,Prnjavor,M,Unknown,20
-2013,Number,Prnjavor,F,Unknown,30
+2013,Number,City of Prijedor,Total,Unknown,394
+2013,Number,City of Prijedor,M,Unknown,269
+2013,Number,City of Prijedor,F,Unknown,125
+2013,Number,City of Prnjavor,Total,Unknown,50
+2013,Number,City of Prnjavor,M,Unknown,20
+2013,Number,City of Prnjavor,F,Unknown,30
 2013,Number,Ribnik,Total,Unknown,3
 2013,Number,Ribnik,M,Unknown,3
 2013,Number,Ribnik,F,Unknown,0
@@ -1100,12 +1100,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Mother tongue,Value
 2013,Number,Srebrenica,Total,Unknown,29
 2013,Number,Srebrenica,M,Unknown,14
 2013,Number,Srebrenica,F,Unknown,15
-2013,Number,Teslić,Total,Unknown,58
-2013,Number,Teslić,M,Unknown,27
-2013,Number,Teslić,F,Unknown,31
-2013,Number,Grad Trebinje,Total,Unknown,21
-2013,Number,Grad Trebinje,M,Unknown,13
-2013,Number,Grad Trebinje,F,Unknown,8
+2013,Number,City of Teslić,Total,Unknown,58
+2013,Number,City of Teslić,M,Unknown,27
+2013,Number,City of Teslić,F,Unknown,31
+2013,Number,City of Trebinje,Total,Unknown,21
+2013,Number,City of Trebinje,M,Unknown,13
+2013,Number,City of Trebinje,F,Unknown,8
 2013,Number,Trnovo,Total,Unknown,1
 2013,Number,Trnovo,M,Unknown,0
 2013,Number,Trnovo,F,Unknown,1

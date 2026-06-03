@@ -2,15 +2,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Total,102262
 2013,Number,Republika Srpska,M,Total,46720
 2013,Number,Republika Srpska,F,Total,55542
-2013,Number,Grad Banja Luka,Total,Total,13450
-2013,Number,Grad Banja Luka,M,Total,6251
-2013,Number,Grad Banja Luka,F,Total,7199
+2013,Number,City of Banja Luka,Total,Total,13450
+2013,Number,City of Banja Luka,M,Total,6251
+2013,Number,City of Banja Luka,F,Total,7199
 2013,Number,Berkovići,Total,Total,165
 2013,Number,Berkovići,M,Total,75
 2013,Number,Berkovići,F,Total,90
-2013,Number,Grad Bijeljina,Total,Total,8763
-2013,Number,Grad Bijeljina,M,Total,3967
-2013,Number,Grad Bijeljina,F,Total,4796
+2013,Number,City of Bijeljina,Total,Total,8763
+2013,Number,City of Bijeljina,M,Total,3967
+2013,Number,City of Bijeljina,F,Total,4796
 2013,Number,Bileća,Total,Total,813
 2013,Number,Bileća,M,Total,339
 2013,Number,Bileća,F,Total,474
@@ -32,21 +32,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Total,597
 2013,Number,Gacko,M,Total,261
 2013,Number,Gacko,F,Total,336
-2013,Number,Grad Gradiška,Total,Total,4427
-2013,Number,Grad Gradiška,M,Total,1965
-2013,Number,Grad Gradiška,F,Total,2462
-2013,Number,Grad Derventa,Total,Total,2529
-2013,Number,Grad Derventa,M,Total,1153
-2013,Number,Grad Derventa,F,Total,1376
-2013,Number,Grad Doboj,Total,Total,7404
-2013,Number,Grad Doboj,M,Total,3292
-2013,Number,Grad Doboj,F,Total,4112
+2013,Number,City of Gradiška,Total,Total,4427
+2013,Number,City of Gradiška,M,Total,1965
+2013,Number,City of Gradiška,F,Total,2462
+2013,Number,City of Derventa,Total,Total,2529
+2013,Number,City of Derventa,M,Total,1153
+2013,Number,City of Derventa,F,Total,1376
+2013,Number,City of Doboj,Total,Total,7404
+2013,Number,City of Doboj,M,Total,3292
+2013,Number,City of Doboj,F,Total,4112
 2013,Number,Donji Žabar,Total,Total,313
 2013,Number,Donji Žabar,M,Total,146
 2013,Number,Donji Žabar,F,Total,167
-2013,Number,Grad Zvornik,Total,Total,4328
-2013,Number,Grad Zvornik,M,Total,2027
-2013,Number,Grad Zvornik,F,Total,2301
+2013,Number,City of Zvornik,Total,Total,4328
+2013,Number,City of Zvornik,M,Total,2027
+2013,Number,City of Zvornik,F,Total,2301
 2013,Number,Istočna Ilidža,Total,Total,1025
 2013,Number,Istočna Ilidža,M,Total,464
 2013,Number,Istočna Ilidža,F,Total,561
@@ -86,9 +86,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,Total,49
 2013,Number,Kupres,M,Total,27
 2013,Number,Kupres,F,Total,22
-2013,Number,Laktaši,Total,Total,2445
-2013,Number,Laktaši,M,Total,1196
-2013,Number,Laktaši,F,Total,1249
+2013,Number,City of Laktaši,Total,Total,2445
+2013,Number,City of Laktaši,M,Total,1196
+2013,Number,City of Laktaši,F,Total,1249
 2013,Number,Lopare,Total,Total,1612
 2013,Number,Lopare,M,Total,791
 2013,Number,Lopare,F,Total,821
@@ -131,12 +131,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,Total,944
 2013,Number,Petrovo,M,Total,399
 2013,Number,Petrovo,F,Total,545
-2013,Number,Grad Prijedor,Total,Total,7173
-2013,Number,Grad Prijedor,M,Total,3333
-2013,Number,Grad Prijedor,F,Total,3840
-2013,Number,Prnjavor,Total,Total,3309
-2013,Number,Prnjavor,M,Total,1497
-2013,Number,Prnjavor,F,Total,1812
+2013,Number,City of Prijedor,Total,Total,7173
+2013,Number,City of Prijedor,M,Total,3333
+2013,Number,City of Prijedor,F,Total,3840
+2013,Number,City of Prnjavor,Total,Total,3309
+2013,Number,City of Prnjavor,M,Total,1497
+2013,Number,City of Prnjavor,F,Total,1812
 2013,Number,Ribnik,Total,Total,701
 2013,Number,Ribnik,M,Total,323
 2013,Number,Ribnik,F,Total,378
@@ -155,12 +155,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Total,1061
 2013,Number,Srebrenica,M,Total,447
 2013,Number,Srebrenica,F,Total,614
-2013,Number,Teslić,Total,Total,3562
-2013,Number,Teslić,M,Total,1683
-2013,Number,Teslić,F,Total,1879
-2013,Number,Grad Trebinje,Total,Total,1860
-2013,Number,Grad Trebinje,M,Total,823
-2013,Number,Grad Trebinje,F,Total,1037
+2013,Number,City of Teslić,Total,Total,3562
+2013,Number,City of Teslić,M,Total,1683
+2013,Number,City of Teslić,F,Total,1879
+2013,Number,City of Trebinje,Total,Total,1860
+2013,Number,City of Trebinje,M,Total,823
+2013,Number,City of Trebinje,F,Total,1037
 2013,Number,Trnovo,Total,Total,171
 2013,Number,Trnovo,M,Total,70
 2013,Number,Trnovo,F,Total,101
@@ -191,15 +191,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,"Seeing, even with the use of seeing aids",43020
 2013,Number,Republika Srpska,M,"Seeing, even with the use of seeing aids",18052
 2013,Number,Republika Srpska,F,"Seeing, even with the use of seeing aids",24968
-2013,Number,Grad Banja Luka,Total,"Seeing, even with the use of seeing aids",5370
-2013,Number,Grad Banja Luka,M,"Seeing, even with the use of seeing aids",2232
-2013,Number,Grad Banja Luka,F,"Seeing, even with the use of seeing aids",3138
+2013,Number,City of Banja Luka,Total,"Seeing, even with the use of seeing aids",5370
+2013,Number,City of Banja Luka,M,"Seeing, even with the use of seeing aids",2232
+2013,Number,City of Banja Luka,F,"Seeing, even with the use of seeing aids",3138
 2013,Number,Berkovići,Total,"Seeing, even with the use of seeing aids",73
 2013,Number,Berkovići,M,"Seeing, even with the use of seeing aids",33
 2013,Number,Berkovići,F,"Seeing, even with the use of seeing aids",40
-2013,Number,Grad Bijeljina,Total,"Seeing, even with the use of seeing aids",3450
-2013,Number,Grad Bijeljina,M,"Seeing, even with the use of seeing aids",1424
-2013,Number,Grad Bijeljina,F,"Seeing, even with the use of seeing aids",2026
+2013,Number,City of Bijeljina,Total,"Seeing, even with the use of seeing aids",3450
+2013,Number,City of Bijeljina,M,"Seeing, even with the use of seeing aids",1424
+2013,Number,City of Bijeljina,F,"Seeing, even with the use of seeing aids",2026
 2013,Number,Bileća,Total,"Seeing, even with the use of seeing aids",375
 2013,Number,Bileća,M,"Seeing, even with the use of seeing aids",159
 2013,Number,Bileća,F,"Seeing, even with the use of seeing aids",216
@@ -221,21 +221,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,"Seeing, even with the use of seeing aids",245
 2013,Number,Gacko,M,"Seeing, even with the use of seeing aids",107
 2013,Number,Gacko,F,"Seeing, even with the use of seeing aids",138
-2013,Number,Grad Gradiška,Total,"Seeing, even with the use of seeing aids",1881
-2013,Number,Grad Gradiška,M,"Seeing, even with the use of seeing aids",754
-2013,Number,Grad Gradiška,F,"Seeing, even with the use of seeing aids",1127
-2013,Number,Grad Derventa,Total,"Seeing, even with the use of seeing aids",1172
-2013,Number,Grad Derventa,M,"Seeing, even with the use of seeing aids",476
-2013,Number,Grad Derventa,F,"Seeing, even with the use of seeing aids",696
-2013,Number,Grad Doboj,Total,"Seeing, even with the use of seeing aids",3265
-2013,Number,Grad Doboj,M,"Seeing, even with the use of seeing aids",1332
-2013,Number,Grad Doboj,F,"Seeing, even with the use of seeing aids",1933
+2013,Number,City of Gradiška,Total,"Seeing, even with the use of seeing aids",1881
+2013,Number,City of Gradiška,M,"Seeing, even with the use of seeing aids",754
+2013,Number,City of Gradiška,F,"Seeing, even with the use of seeing aids",1127
+2013,Number,City of Derventa,Total,"Seeing, even with the use of seeing aids",1172
+2013,Number,City of Derventa,M,"Seeing, even with the use of seeing aids",476
+2013,Number,City of Derventa,F,"Seeing, even with the use of seeing aids",696
+2013,Number,City of Doboj,Total,"Seeing, even with the use of seeing aids",3265
+2013,Number,City of Doboj,M,"Seeing, even with the use of seeing aids",1332
+2013,Number,City of Doboj,F,"Seeing, even with the use of seeing aids",1933
 2013,Number,Donji Žabar,Total,"Seeing, even with the use of seeing aids",122
 2013,Number,Donji Žabar,M,"Seeing, even with the use of seeing aids",50
 2013,Number,Donji Žabar,F,"Seeing, even with the use of seeing aids",72
-2013,Number,Grad Zvornik,Total,"Seeing, even with the use of seeing aids",1920
-2013,Number,Grad Zvornik,M,"Seeing, even with the use of seeing aids",842
-2013,Number,Grad Zvornik,F,"Seeing, even with the use of seeing aids",1078
+2013,Number,City of Zvornik,Total,"Seeing, even with the use of seeing aids",1920
+2013,Number,City of Zvornik,M,"Seeing, even with the use of seeing aids",842
+2013,Number,City of Zvornik,F,"Seeing, even with the use of seeing aids",1078
 2013,Number,Istočna Ilidža,Total,"Seeing, even with the use of seeing aids",423
 2013,Number,Istočna Ilidža,M,"Seeing, even with the use of seeing aids",183
 2013,Number,Istočna Ilidža,F,"Seeing, even with the use of seeing aids",240
@@ -275,9 +275,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,"Seeing, even with the use of seeing aids",12
 2013,Number,Kupres,M,"Seeing, even with the use of seeing aids",8
 2013,Number,Kupres,F,"Seeing, even with the use of seeing aids",4
-2013,Number,Laktaši,Total,"Seeing, even with the use of seeing aids",1042
-2013,Number,Laktaši,M,"Seeing, even with the use of seeing aids",460
-2013,Number,Laktaši,F,"Seeing, even with the use of seeing aids",582
+2013,Number,City of Laktaši,Total,"Seeing, even with the use of seeing aids",1042
+2013,Number,City of Laktaši,M,"Seeing, even with the use of seeing aids",460
+2013,Number,City of Laktaši,F,"Seeing, even with the use of seeing aids",582
 2013,Number,Lopare,Total,"Seeing, even with the use of seeing aids",691
 2013,Number,Lopare,M,"Seeing, even with the use of seeing aids",297
 2013,Number,Lopare,F,"Seeing, even with the use of seeing aids",394
@@ -320,12 +320,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,"Seeing, even with the use of seeing aids",433
 2013,Number,Petrovo,M,"Seeing, even with the use of seeing aids",178
 2013,Number,Petrovo,F,"Seeing, even with the use of seeing aids",255
-2013,Number,Grad Prijedor,Total,"Seeing, even with the use of seeing aids",2857
-2013,Number,Grad Prijedor,M,"Seeing, even with the use of seeing aids",1209
-2013,Number,Grad Prijedor,F,"Seeing, even with the use of seeing aids",1648
-2013,Number,Prnjavor,Total,"Seeing, even with the use of seeing aids",1364
-2013,Number,Prnjavor,M,"Seeing, even with the use of seeing aids",564
-2013,Number,Prnjavor,F,"Seeing, even with the use of seeing aids",800
+2013,Number,City of Prijedor,Total,"Seeing, even with the use of seeing aids",2857
+2013,Number,City of Prijedor,M,"Seeing, even with the use of seeing aids",1209
+2013,Number,City of Prijedor,F,"Seeing, even with the use of seeing aids",1648
+2013,Number,City of Prnjavor,Total,"Seeing, even with the use of seeing aids",1364
+2013,Number,City of Prnjavor,M,"Seeing, even with the use of seeing aids",564
+2013,Number,City of Prnjavor,F,"Seeing, even with the use of seeing aids",800
 2013,Number,Ribnik,Total,"Seeing, even with the use of seeing aids",293
 2013,Number,Ribnik,M,"Seeing, even with the use of seeing aids",137
 2013,Number,Ribnik,F,"Seeing, even with the use of seeing aids",156
@@ -344,12 +344,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,"Seeing, even with the use of seeing aids",487
 2013,Number,Srebrenica,M,"Seeing, even with the use of seeing aids",176
 2013,Number,Srebrenica,F,"Seeing, even with the use of seeing aids",311
-2013,Number,Teslić,Total,"Seeing, even with the use of seeing aids",1451
-2013,Number,Teslić,M,"Seeing, even with the use of seeing aids",633
-2013,Number,Teslić,F,"Seeing, even with the use of seeing aids",818
-2013,Number,Grad Trebinje,Total,"Seeing, even with the use of seeing aids",736
-2013,Number,Grad Trebinje,M,"Seeing, even with the use of seeing aids",297
-2013,Number,Grad Trebinje,F,"Seeing, even with the use of seeing aids",439
+2013,Number,City of Teslić,Total,"Seeing, even with the use of seeing aids",1451
+2013,Number,City of Teslić,M,"Seeing, even with the use of seeing aids",633
+2013,Number,City of Teslić,F,"Seeing, even with the use of seeing aids",818
+2013,Number,City of Trebinje,Total,"Seeing, even with the use of seeing aids",736
+2013,Number,City of Trebinje,M,"Seeing, even with the use of seeing aids",297
+2013,Number,City of Trebinje,F,"Seeing, even with the use of seeing aids",439
 2013,Number,Trnovo,Total,"Seeing, even with the use of seeing aids",62
 2013,Number,Trnovo,M,"Seeing, even with the use of seeing aids",25
 2013,Number,Trnovo,F,"Seeing, even with the use of seeing aids",37
@@ -380,15 +380,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,"Hearing, even with the use of hearing aids",26055
 2013,Number,Republika Srpska,M,"Hearing, even with the use of hearing aids",12971
 2013,Number,Republika Srpska,F,"Hearing, even with the use of hearing aids",13084
-2013,Number,Grad Banja Luka,Total,"Hearing, even with the use of hearing aids",3262
-2013,Number,Grad Banja Luka,M,"Hearing, even with the use of hearing aids",1678
-2013,Number,Grad Banja Luka,F,"Hearing, even with the use of hearing aids",1584
+2013,Number,City of Banja Luka,Total,"Hearing, even with the use of hearing aids",3262
+2013,Number,City of Banja Luka,M,"Hearing, even with the use of hearing aids",1678
+2013,Number,City of Banja Luka,F,"Hearing, even with the use of hearing aids",1584
 2013,Number,Berkovići,Total,"Hearing, even with the use of hearing aids",48
 2013,Number,Berkovići,M,"Hearing, even with the use of hearing aids",28
 2013,Number,Berkovići,F,"Hearing, even with the use of hearing aids",20
-2013,Number,Grad Bijeljina,Total,"Hearing, even with the use of hearing aids",2026
-2013,Number,Grad Bijeljina,M,"Hearing, even with the use of hearing aids",1028
-2013,Number,Grad Bijeljina,F,"Hearing, even with the use of hearing aids",998
+2013,Number,City of Bijeljina,Total,"Hearing, even with the use of hearing aids",2026
+2013,Number,City of Bijeljina,M,"Hearing, even with the use of hearing aids",1028
+2013,Number,City of Bijeljina,F,"Hearing, even with the use of hearing aids",998
 2013,Number,Bileća,Total,"Hearing, even with the use of hearing aids",240
 2013,Number,Bileća,M,"Hearing, even with the use of hearing aids",122
 2013,Number,Bileća,F,"Hearing, even with the use of hearing aids",118
@@ -410,21 +410,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,"Hearing, even with the use of hearing aids",172
 2013,Number,Gacko,M,"Hearing, even with the use of hearing aids",80
 2013,Number,Gacko,F,"Hearing, even with the use of hearing aids",92
-2013,Number,Grad Gradiška,Total,"Hearing, even with the use of hearing aids",1110
-2013,Number,Grad Gradiška,M,"Hearing, even with the use of hearing aids",525
-2013,Number,Grad Gradiška,F,"Hearing, even with the use of hearing aids",585
-2013,Number,Grad Derventa,Total,"Hearing, even with the use of hearing aids",655
-2013,Number,Grad Derventa,M,"Hearing, even with the use of hearing aids",320
-2013,Number,Grad Derventa,F,"Hearing, even with the use of hearing aids",335
-2013,Number,Grad Doboj,Total,"Hearing, even with the use of hearing aids",1902
-2013,Number,Grad Doboj,M,"Hearing, even with the use of hearing aids",925
-2013,Number,Grad Doboj,F,"Hearing, even with the use of hearing aids",977
+2013,Number,City of Gradiška,Total,"Hearing, even with the use of hearing aids",1110
+2013,Number,City of Gradiška,M,"Hearing, even with the use of hearing aids",525
+2013,Number,City of Gradiška,F,"Hearing, even with the use of hearing aids",585
+2013,Number,City of Derventa,Total,"Hearing, even with the use of hearing aids",655
+2013,Number,City of Derventa,M,"Hearing, even with the use of hearing aids",320
+2013,Number,City of Derventa,F,"Hearing, even with the use of hearing aids",335
+2013,Number,City of Doboj,Total,"Hearing, even with the use of hearing aids",1902
+2013,Number,City of Doboj,M,"Hearing, even with the use of hearing aids",925
+2013,Number,City of Doboj,F,"Hearing, even with the use of hearing aids",977
 2013,Number,Donji Žabar,Total,"Hearing, even with the use of hearing aids",81
 2013,Number,Donji Žabar,M,"Hearing, even with the use of hearing aids",50
 2013,Number,Donji Žabar,F,"Hearing, even with the use of hearing aids",31
-2013,Number,Grad Zvornik,Total,"Hearing, even with the use of hearing aids",1157
-2013,Number,Grad Zvornik,M,"Hearing, even with the use of hearing aids",580
-2013,Number,Grad Zvornik,F,"Hearing, even with the use of hearing aids",577
+2013,Number,City of Zvornik,Total,"Hearing, even with the use of hearing aids",1157
+2013,Number,City of Zvornik,M,"Hearing, even with the use of hearing aids",580
+2013,Number,City of Zvornik,F,"Hearing, even with the use of hearing aids",577
 2013,Number,Istočna Ilidža,Total,"Hearing, even with the use of hearing aids",267
 2013,Number,Istočna Ilidža,M,"Hearing, even with the use of hearing aids",123
 2013,Number,Istočna Ilidža,F,"Hearing, even with the use of hearing aids",144
@@ -464,9 +464,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,"Hearing, even with the use of hearing aids",14
 2013,Number,Kupres,M,"Hearing, even with the use of hearing aids",10
 2013,Number,Kupres,F,"Hearing, even with the use of hearing aids",4
-2013,Number,Laktaši,Total,"Hearing, even with the use of hearing aids",610
-2013,Number,Laktaši,M,"Hearing, even with the use of hearing aids",322
-2013,Number,Laktaši,F,"Hearing, even with the use of hearing aids",288
+2013,Number,City of Laktaši,Total,"Hearing, even with the use of hearing aids",610
+2013,Number,City of Laktaši,M,"Hearing, even with the use of hearing aids",322
+2013,Number,City of Laktaši,F,"Hearing, even with the use of hearing aids",288
 2013,Number,Lopare,Total,"Hearing, even with the use of hearing aids",400
 2013,Number,Lopare,M,"Hearing, even with the use of hearing aids",187
 2013,Number,Lopare,F,"Hearing, even with the use of hearing aids",213
@@ -509,12 +509,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,"Hearing, even with the use of hearing aids",257
 2013,Number,Petrovo,M,"Hearing, even with the use of hearing aids",134
 2013,Number,Petrovo,F,"Hearing, even with the use of hearing aids",123
-2013,Number,Grad Prijedor,Total,"Hearing, even with the use of hearing aids",1805
-2013,Number,Grad Prijedor,M,"Hearing, even with the use of hearing aids",944
-2013,Number,Grad Prijedor,F,"Hearing, even with the use of hearing aids",861
-2013,Number,Prnjavor,Total,"Hearing, even with the use of hearing aids",812
-2013,Number,Prnjavor,M,"Hearing, even with the use of hearing aids",383
-2013,Number,Prnjavor,F,"Hearing, even with the use of hearing aids",429
+2013,Number,City of Prijedor,Total,"Hearing, even with the use of hearing aids",1805
+2013,Number,City of Prijedor,M,"Hearing, even with the use of hearing aids",944
+2013,Number,City of Prijedor,F,"Hearing, even with the use of hearing aids",861
+2013,Number,City of Prnjavor,Total,"Hearing, even with the use of hearing aids",812
+2013,Number,City of Prnjavor,M,"Hearing, even with the use of hearing aids",383
+2013,Number,City of Prnjavor,F,"Hearing, even with the use of hearing aids",429
 2013,Number,Ribnik,Total,"Hearing, even with the use of hearing aids",199
 2013,Number,Ribnik,M,"Hearing, even with the use of hearing aids",97
 2013,Number,Ribnik,F,"Hearing, even with the use of hearing aids",102
@@ -533,12 +533,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,"Hearing, even with the use of hearing aids",229
 2013,Number,Srebrenica,M,"Hearing, even with the use of hearing aids",109
 2013,Number,Srebrenica,F,"Hearing, even with the use of hearing aids",120
-2013,Number,Teslić,Total,"Hearing, even with the use of hearing aids",881
-2013,Number,Teslić,M,"Hearing, even with the use of hearing aids",435
-2013,Number,Teslić,F,"Hearing, even with the use of hearing aids",446
-2013,Number,Grad Trebinje,Total,"Hearing, even with the use of hearing aids",461
-2013,Number,Grad Trebinje,M,"Hearing, even with the use of hearing aids",227
-2013,Number,Grad Trebinje,F,"Hearing, even with the use of hearing aids",234
+2013,Number,City of Teslić,Total,"Hearing, even with the use of hearing aids",881
+2013,Number,City of Teslić,M,"Hearing, even with the use of hearing aids",435
+2013,Number,City of Teslić,F,"Hearing, even with the use of hearing aids",446
+2013,Number,City of Trebinje,Total,"Hearing, even with the use of hearing aids",461
+2013,Number,City of Trebinje,M,"Hearing, even with the use of hearing aids",227
+2013,Number,City of Trebinje,F,"Hearing, even with the use of hearing aids",234
 2013,Number,Trnovo,Total,"Hearing, even with the use of hearing aids",46
 2013,Number,Trnovo,M,"Hearing, even with the use of hearing aids",22
 2013,Number,Trnovo,F,"Hearing, even with the use of hearing aids",24
@@ -569,15 +569,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Walking or climbing the stairs,63381
 2013,Number,Republika Srpska,M,Walking or climbing the stairs,26903
 2013,Number,Republika Srpska,F,Walking or climbing the stairs,36478
-2013,Number,Grad Banja Luka,Total,Walking or climbing the stairs,8456
-2013,Number,Grad Banja Luka,M,Walking or climbing the stairs,3667
-2013,Number,Grad Banja Luka,F,Walking or climbing the stairs,4789
+2013,Number,City of Banja Luka,Total,Walking or climbing the stairs,8456
+2013,Number,City of Banja Luka,M,Walking or climbing the stairs,3667
+2013,Number,City of Banja Luka,F,Walking or climbing the stairs,4789
 2013,Number,Berkovići,Total,Walking or climbing the stairs,109
 2013,Number,Berkovići,M,Walking or climbing the stairs,45
 2013,Number,Berkovići,F,Walking or climbing the stairs,64
-2013,Number,Grad Bijeljina,Total,Walking or climbing the stairs,5530
-2013,Number,Grad Bijeljina,M,Walking or climbing the stairs,2356
-2013,Number,Grad Bijeljina,F,Walking or climbing the stairs,3174
+2013,Number,City of Bijeljina,Total,Walking or climbing the stairs,5530
+2013,Number,City of Bijeljina,M,Walking or climbing the stairs,2356
+2013,Number,City of Bijeljina,F,Walking or climbing the stairs,3174
 2013,Number,Bileća,Total,Walking or climbing the stairs,533
 2013,Number,Bileća,M,Walking or climbing the stairs,193
 2013,Number,Bileća,F,Walking or climbing the stairs,340
@@ -599,21 +599,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Walking or climbing the stairs,385
 2013,Number,Gacko,M,Walking or climbing the stairs,152
 2013,Number,Gacko,F,Walking or climbing the stairs,233
-2013,Number,Grad Gradiška,Total,Walking or climbing the stairs,2675
-2013,Number,Grad Gradiška,M,Walking or climbing the stairs,1074
-2013,Number,Grad Gradiška,F,Walking or climbing the stairs,1601
-2013,Number,Grad Derventa,Total,Walking or climbing the stairs,1590
-2013,Number,Grad Derventa,M,Walking or climbing the stairs,695
-2013,Number,Grad Derventa,F,Walking or climbing the stairs,895
-2013,Number,Grad Doboj,Total,Walking or climbing the stairs,4793
-2013,Number,Grad Doboj,M,Walking or climbing the stairs,1953
-2013,Number,Grad Doboj,F,Walking or climbing the stairs,2840
+2013,Number,City of Gradiška,Total,Walking or climbing the stairs,2675
+2013,Number,City of Gradiška,M,Walking or climbing the stairs,1074
+2013,Number,City of Gradiška,F,Walking or climbing the stairs,1601
+2013,Number,City of Derventa,Total,Walking or climbing the stairs,1590
+2013,Number,City of Derventa,M,Walking or climbing the stairs,695
+2013,Number,City of Derventa,F,Walking or climbing the stairs,895
+2013,Number,City of Doboj,Total,Walking or climbing the stairs,4793
+2013,Number,City of Doboj,M,Walking or climbing the stairs,1953
+2013,Number,City of Doboj,F,Walking or climbing the stairs,2840
 2013,Number,Donji Žabar,Total,Walking or climbing the stairs,182
 2013,Number,Donji Žabar,M,Walking or climbing the stairs,76
 2013,Number,Donji Žabar,F,Walking or climbing the stairs,106
-2013,Number,Grad Zvornik,Total,Walking or climbing the stairs,2535
-2013,Number,Grad Zvornik,M,Walking or climbing the stairs,1092
-2013,Number,Grad Zvornik,F,Walking or climbing the stairs,1443
+2013,Number,City of Zvornik,Total,Walking or climbing the stairs,2535
+2013,Number,City of Zvornik,M,Walking or climbing the stairs,1092
+2013,Number,City of Zvornik,F,Walking or climbing the stairs,1443
 2013,Number,Istočna Ilidža,Total,Walking or climbing the stairs,644
 2013,Number,Istočna Ilidža,M,Walking or climbing the stairs,267
 2013,Number,Istočna Ilidža,F,Walking or climbing the stairs,377
@@ -653,9 +653,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,Walking or climbing the stairs,33
 2013,Number,Kupres,M,Walking or climbing the stairs,18
 2013,Number,Kupres,F,Walking or climbing the stairs,15
-2013,Number,Laktaši,Total,Walking or climbing the stairs,1426
-2013,Number,Laktaši,M,Walking or climbing the stairs,650
-2013,Number,Laktaši,F,Walking or climbing the stairs,776
+2013,Number,City of Laktaši,Total,Walking or climbing the stairs,1426
+2013,Number,City of Laktaši,M,Walking or climbing the stairs,650
+2013,Number,City of Laktaši,F,Walking or climbing the stairs,776
 2013,Number,Lopare,Total,Walking or climbing the stairs,984
 2013,Number,Lopare,M,Walking or climbing the stairs,447
 2013,Number,Lopare,F,Walking or climbing the stairs,537
@@ -698,12 +698,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,Walking or climbing the stairs,602
 2013,Number,Petrovo,M,Walking or climbing the stairs,231
 2013,Number,Petrovo,F,Walking or climbing the stairs,371
-2013,Number,Grad Prijedor,Total,Walking or climbing the stairs,4451
-2013,Number,Grad Prijedor,M,Walking or climbing the stairs,1891
-2013,Number,Grad Prijedor,F,Walking or climbing the stairs,2560
-2013,Number,Prnjavor,Total,Walking or climbing the stairs,2094
-2013,Number,Prnjavor,M,Walking or climbing the stairs,860
-2013,Number,Prnjavor,F,Walking or climbing the stairs,1234
+2013,Number,City of Prijedor,Total,Walking or climbing the stairs,4451
+2013,Number,City of Prijedor,M,Walking or climbing the stairs,1891
+2013,Number,City of Prijedor,F,Walking or climbing the stairs,2560
+2013,Number,City of Prnjavor,Total,Walking or climbing the stairs,2094
+2013,Number,City of Prnjavor,M,Walking or climbing the stairs,860
+2013,Number,City of Prnjavor,F,Walking or climbing the stairs,1234
 2013,Number,Ribnik,Total,Walking or climbing the stairs,438
 2013,Number,Ribnik,M,Walking or climbing the stairs,182
 2013,Number,Ribnik,F,Walking or climbing the stairs,256
@@ -722,12 +722,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Walking or climbing the stairs,621
 2013,Number,Srebrenica,M,Walking or climbing the stairs,256
 2013,Number,Srebrenica,F,Walking or climbing the stairs,365
-2013,Number,Teslić,Total,Walking or climbing the stairs,2201
-2013,Number,Teslić,M,Walking or climbing the stairs,973
-2013,Number,Teslić,F,Walking or climbing the stairs,1228
-2013,Number,Grad Trebinje,Total,Walking or climbing the stairs,1198
-2013,Number,Grad Trebinje,M,Walking or climbing the stairs,489
-2013,Number,Grad Trebinje,F,Walking or climbing the stairs,709
+2013,Number,City of Teslić,Total,Walking or climbing the stairs,2201
+2013,Number,City of Teslić,M,Walking or climbing the stairs,973
+2013,Number,City of Teslić,F,Walking or climbing the stairs,1228
+2013,Number,City of Trebinje,Total,Walking or climbing the stairs,1198
+2013,Number,City of Trebinje,M,Walking or climbing the stairs,489
+2013,Number,City of Trebinje,F,Walking or climbing the stairs,709
 2013,Number,Trnovo,Total,Walking or climbing the stairs,104
 2013,Number,Trnovo,M,Walking or climbing the stairs,41
 2013,Number,Trnovo,F,Walking or climbing the stairs,63
@@ -758,15 +758,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Remembering or concentrating,18330
 2013,Number,Republika Srpska,M,Remembering or concentrating,8168
 2013,Number,Republika Srpska,F,Remembering or concentrating,10162
-2013,Number,Grad Banja Luka,Total,Remembering or concentrating,2300
-2013,Number,Grad Banja Luka,M,Remembering or concentrating,1087
-2013,Number,Grad Banja Luka,F,Remembering or concentrating,1213
+2013,Number,City of Banja Luka,Total,Remembering or concentrating,2300
+2013,Number,City of Banja Luka,M,Remembering or concentrating,1087
+2013,Number,City of Banja Luka,F,Remembering or concentrating,1213
 2013,Number,Berkovići,Total,Remembering or concentrating,35
 2013,Number,Berkovići,M,Remembering or concentrating,13
 2013,Number,Berkovići,F,Remembering or concentrating,22
-2013,Number,Grad Bijeljina,Total,Remembering or concentrating,1415
-2013,Number,Grad Bijeljina,M,Remembering or concentrating,630
-2013,Number,Grad Bijeljina,F,Remembering or concentrating,785
+2013,Number,City of Bijeljina,Total,Remembering or concentrating,1415
+2013,Number,City of Bijeljina,M,Remembering or concentrating,630
+2013,Number,City of Bijeljina,F,Remembering or concentrating,785
 2013,Number,Bileća,Total,Remembering or concentrating,126
 2013,Number,Bileća,M,Remembering or concentrating,61
 2013,Number,Bileća,F,Remembering or concentrating,65
@@ -788,21 +788,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Remembering or concentrating,90
 2013,Number,Gacko,M,Remembering or concentrating,42
 2013,Number,Gacko,F,Remembering or concentrating,48
-2013,Number,Grad Gradiška,Total,Remembering or concentrating,831
-2013,Number,Grad Gradiška,M,Remembering or concentrating,338
-2013,Number,Grad Gradiška,F,Remembering or concentrating,493
-2013,Number,Grad Derventa,Total,Remembering or concentrating,455
-2013,Number,Grad Derventa,M,Remembering or concentrating,195
-2013,Number,Grad Derventa,F,Remembering or concentrating,260
-2013,Number,Grad Doboj,Total,Remembering or concentrating,1369
-2013,Number,Grad Doboj,M,Remembering or concentrating,596
-2013,Number,Grad Doboj,F,Remembering or concentrating,773
+2013,Number,City of Gradiška,Total,Remembering or concentrating,831
+2013,Number,City of Gradiška,M,Remembering or concentrating,338
+2013,Number,City of Gradiška,F,Remembering or concentrating,493
+2013,Number,City of Derventa,Total,Remembering or concentrating,455
+2013,Number,City of Derventa,M,Remembering or concentrating,195
+2013,Number,City of Derventa,F,Remembering or concentrating,260
+2013,Number,City of Doboj,Total,Remembering or concentrating,1369
+2013,Number,City of Doboj,M,Remembering or concentrating,596
+2013,Number,City of Doboj,F,Remembering or concentrating,773
 2013,Number,Donji Žabar,Total,Remembering or concentrating,40
 2013,Number,Donji Žabar,M,Remembering or concentrating,19
 2013,Number,Donji Žabar,F,Remembering or concentrating,21
-2013,Number,Grad Zvornik,Total,Remembering or concentrating,762
-2013,Number,Grad Zvornik,M,Remembering or concentrating,330
-2013,Number,Grad Zvornik,F,Remembering or concentrating,432
+2013,Number,City of Zvornik,Total,Remembering or concentrating,762
+2013,Number,City of Zvornik,M,Remembering or concentrating,330
+2013,Number,City of Zvornik,F,Remembering or concentrating,432
 2013,Number,Istočna Ilidža,Total,Remembering or concentrating,149
 2013,Number,Istočna Ilidža,M,Remembering or concentrating,64
 2013,Number,Istočna Ilidža,F,Remembering or concentrating,85
@@ -842,9 +842,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,Remembering or concentrating,13
 2013,Number,Kupres,M,Remembering or concentrating,9
 2013,Number,Kupres,F,Remembering or concentrating,4
-2013,Number,Laktaši,Total,Remembering or concentrating,410
-2013,Number,Laktaši,M,Remembering or concentrating,204
-2013,Number,Laktaši,F,Remembering or concentrating,206
+2013,Number,City of Laktaši,Total,Remembering or concentrating,410
+2013,Number,City of Laktaši,M,Remembering or concentrating,204
+2013,Number,City of Laktaši,F,Remembering or concentrating,206
 2013,Number,Lopare,Total,Remembering or concentrating,281
 2013,Number,Lopare,M,Remembering or concentrating,140
 2013,Number,Lopare,F,Remembering or concentrating,141
@@ -887,12 +887,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,Remembering or concentrating,150
 2013,Number,Petrovo,M,Remembering or concentrating,62
 2013,Number,Petrovo,F,Remembering or concentrating,88
-2013,Number,Grad Prijedor,Total,Remembering or concentrating,1532
-2013,Number,Grad Prijedor,M,Remembering or concentrating,766
-2013,Number,Grad Prijedor,F,Remembering or concentrating,766
-2013,Number,Prnjavor,Total,Remembering or concentrating,567
-2013,Number,Prnjavor,M,Remembering or concentrating,240
-2013,Number,Prnjavor,F,Remembering or concentrating,327
+2013,Number,City of Prijedor,Total,Remembering or concentrating,1532
+2013,Number,City of Prijedor,M,Remembering or concentrating,766
+2013,Number,City of Prijedor,F,Remembering or concentrating,766
+2013,Number,City of Prnjavor,Total,Remembering or concentrating,567
+2013,Number,City of Prnjavor,M,Remembering or concentrating,240
+2013,Number,City of Prnjavor,F,Remembering or concentrating,327
 2013,Number,Ribnik,Total,Remembering or concentrating,123
 2013,Number,Ribnik,M,Remembering or concentrating,56
 2013,Number,Ribnik,F,Remembering or concentrating,67
@@ -911,12 +911,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Remembering or concentrating,218
 2013,Number,Srebrenica,M,Remembering or concentrating,82
 2013,Number,Srebrenica,F,Remembering or concentrating,136
-2013,Number,Teslić,Total,Remembering or concentrating,644
-2013,Number,Teslić,M,Remembering or concentrating,272
-2013,Number,Teslić,F,Remembering or concentrating,372
-2013,Number,Grad Trebinje,Total,Remembering or concentrating,313
-2013,Number,Grad Trebinje,M,Remembering or concentrating,143
-2013,Number,Grad Trebinje,F,Remembering or concentrating,170
+2013,Number,City of Teslić,Total,Remembering or concentrating,644
+2013,Number,City of Teslić,M,Remembering or concentrating,272
+2013,Number,City of Teslić,F,Remembering or concentrating,372
+2013,Number,City of Trebinje,Total,Remembering or concentrating,313
+2013,Number,City of Trebinje,M,Remembering or concentrating,143
+2013,Number,City of Trebinje,F,Remembering or concentrating,170
 2013,Number,Trnovo,Total,Remembering or concentrating,39
 2013,Number,Trnovo,M,Remembering or concentrating,22
 2013,Number,Trnovo,F,Remembering or concentrating,17
@@ -947,15 +947,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Dressing and personal hygiene,13502
 2013,Number,Republika Srpska,M,Dressing and personal hygiene,5773
 2013,Number,Republika Srpska,F,Dressing and personal hygiene,7729
-2013,Number,Grad Banja Luka,Total,Dressing and personal hygiene,1717
-2013,Number,Grad Banja Luka,M,Dressing and personal hygiene,774
-2013,Number,Grad Banja Luka,F,Dressing and personal hygiene,943
+2013,Number,City of Banja Luka,Total,Dressing and personal hygiene,1717
+2013,Number,City of Banja Luka,M,Dressing and personal hygiene,774
+2013,Number,City of Banja Luka,F,Dressing and personal hygiene,943
 2013,Number,Berkovići,Total,Dressing and personal hygiene,29
 2013,Number,Berkovići,M,Dressing and personal hygiene,11
 2013,Number,Berkovići,F,Dressing and personal hygiene,18
-2013,Number,Grad Bijeljina,Total,Dressing and personal hygiene,1050
-2013,Number,Grad Bijeljina,M,Dressing and personal hygiene,468
-2013,Number,Grad Bijeljina,F,Dressing and personal hygiene,582
+2013,Number,City of Bijeljina,Total,Dressing and personal hygiene,1050
+2013,Number,City of Bijeljina,M,Dressing and personal hygiene,468
+2013,Number,City of Bijeljina,F,Dressing and personal hygiene,582
 2013,Number,Bileća,Total,Dressing and personal hygiene,107
 2013,Number,Bileća,M,Dressing and personal hygiene,44
 2013,Number,Bileća,F,Dressing and personal hygiene,63
@@ -977,21 +977,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Dressing and personal hygiene,74
 2013,Number,Gacko,M,Dressing and personal hygiene,25
 2013,Number,Gacko,F,Dressing and personal hygiene,49
-2013,Number,Grad Gradiška,Total,Dressing and personal hygiene,617
-2013,Number,Grad Gradiška,M,Dressing and personal hygiene,252
-2013,Number,Grad Gradiška,F,Dressing and personal hygiene,365
-2013,Number,Grad Derventa,Total,Dressing and personal hygiene,298
-2013,Number,Grad Derventa,M,Dressing and personal hygiene,114
-2013,Number,Grad Derventa,F,Dressing and personal hygiene,184
-2013,Number,Grad Doboj,Total,Dressing and personal hygiene,1011
-2013,Number,Grad Doboj,M,Dressing and personal hygiene,408
-2013,Number,Grad Doboj,F,Dressing and personal hygiene,603
+2013,Number,City of Gradiška,Total,Dressing and personal hygiene,617
+2013,Number,City of Gradiška,M,Dressing and personal hygiene,252
+2013,Number,City of Gradiška,F,Dressing and personal hygiene,365
+2013,Number,City of Derventa,Total,Dressing and personal hygiene,298
+2013,Number,City of Derventa,M,Dressing and personal hygiene,114
+2013,Number,City of Derventa,F,Dressing and personal hygiene,184
+2013,Number,City of Doboj,Total,Dressing and personal hygiene,1011
+2013,Number,City of Doboj,M,Dressing and personal hygiene,408
+2013,Number,City of Doboj,F,Dressing and personal hygiene,603
 2013,Number,Donji Žabar,Total,Dressing and personal hygiene,31
 2013,Number,Donji Žabar,M,Dressing and personal hygiene,11
 2013,Number,Donji Žabar,F,Dressing and personal hygiene,20
-2013,Number,Grad Zvornik,Total,Dressing and personal hygiene,518
-2013,Number,Grad Zvornik,M,Dressing and personal hygiene,239
-2013,Number,Grad Zvornik,F,Dressing and personal hygiene,279
+2013,Number,City of Zvornik,Total,Dressing and personal hygiene,518
+2013,Number,City of Zvornik,M,Dressing and personal hygiene,239
+2013,Number,City of Zvornik,F,Dressing and personal hygiene,279
 2013,Number,Istočna Ilidža,Total,Dressing and personal hygiene,175
 2013,Number,Istočna Ilidža,M,Dressing and personal hygiene,83
 2013,Number,Istočna Ilidža,F,Dressing and personal hygiene,92
@@ -1031,9 +1031,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,Dressing and personal hygiene,6
 2013,Number,Kupres,M,Dressing and personal hygiene,3
 2013,Number,Kupres,F,Dressing and personal hygiene,3
-2013,Number,Laktaši,Total,Dressing and personal hygiene,324
-2013,Number,Laktaši,M,Dressing and personal hygiene,162
-2013,Number,Laktaši,F,Dressing and personal hygiene,162
+2013,Number,City of Laktaši,Total,Dressing and personal hygiene,324
+2013,Number,City of Laktaši,M,Dressing and personal hygiene,162
+2013,Number,City of Laktaši,F,Dressing and personal hygiene,162
 2013,Number,Lopare,Total,Dressing and personal hygiene,190
 2013,Number,Lopare,M,Dressing and personal hygiene,85
 2013,Number,Lopare,F,Dressing and personal hygiene,105
@@ -1076,12 +1076,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,Dressing and personal hygiene,106
 2013,Number,Petrovo,M,Dressing and personal hygiene,40
 2013,Number,Petrovo,F,Dressing and personal hygiene,66
-2013,Number,Grad Prijedor,Total,Dressing and personal hygiene,1081
-2013,Number,Grad Prijedor,M,Dressing and personal hygiene,517
-2013,Number,Grad Prijedor,F,Dressing and personal hygiene,564
-2013,Number,Prnjavor,Total,Dressing and personal hygiene,418
-2013,Number,Prnjavor,M,Dressing and personal hygiene,182
-2013,Number,Prnjavor,F,Dressing and personal hygiene,236
+2013,Number,City of Prijedor,Total,Dressing and personal hygiene,1081
+2013,Number,City of Prijedor,M,Dressing and personal hygiene,517
+2013,Number,City of Prijedor,F,Dressing and personal hygiene,564
+2013,Number,City of Prnjavor,Total,Dressing and personal hygiene,418
+2013,Number,City of Prnjavor,M,Dressing and personal hygiene,182
+2013,Number,City of Prnjavor,F,Dressing and personal hygiene,236
 2013,Number,Ribnik,Total,Dressing and personal hygiene,111
 2013,Number,Ribnik,M,Dressing and personal hygiene,50
 2013,Number,Ribnik,F,Dressing and personal hygiene,61
@@ -1100,12 +1100,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Dressing and personal hygiene,99
 2013,Number,Srebrenica,M,Dressing and personal hygiene,34
 2013,Number,Srebrenica,F,Dressing and personal hygiene,65
-2013,Number,Teslić,Total,Dressing and personal hygiene,499
-2013,Number,Teslić,M,Dressing and personal hygiene,209
-2013,Number,Teslić,F,Dressing and personal hygiene,290
-2013,Number,Grad Trebinje,Total,Dressing and personal hygiene,283
-2013,Number,Grad Trebinje,M,Dressing and personal hygiene,104
-2013,Number,Grad Trebinje,F,Dressing and personal hygiene,179
+2013,Number,City of Teslić,Total,Dressing and personal hygiene,499
+2013,Number,City of Teslić,M,Dressing and personal hygiene,209
+2013,Number,City of Teslić,F,Dressing and personal hygiene,290
+2013,Number,City of Trebinje,Total,Dressing and personal hygiene,283
+2013,Number,City of Trebinje,M,Dressing and personal hygiene,104
+2013,Number,City of Trebinje,F,Dressing and personal hygiene,179
 2013,Number,Trnovo,Total,Dressing and personal hygiene,31
 2013,Number,Trnovo,M,Dressing and personal hygiene,12
 2013,Number,Trnovo,F,Dressing and personal hygiene,19
@@ -1136,15 +1136,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,Communication,10723
 2013,Number,Republika Srpska,M,Communication,5103
 2013,Number,Republika Srpska,F,Communication,5620
-2013,Number,Grad Banja Luka,Total,Communication,1307
-2013,Number,Grad Banja Luka,M,Communication,670
-2013,Number,Grad Banja Luka,F,Communication,637
+2013,Number,City of Banja Luka,Total,Communication,1307
+2013,Number,City of Banja Luka,M,Communication,670
+2013,Number,City of Banja Luka,F,Communication,637
 2013,Number,Berkovići,Total,Communication,26
 2013,Number,Berkovići,M,Communication,11
 2013,Number,Berkovići,F,Communication,15
-2013,Number,Grad Bijeljina,Total,Communication,793
-2013,Number,Grad Bijeljina,M,Communication,398
-2013,Number,Grad Bijeljina,F,Communication,395
+2013,Number,City of Bijeljina,Total,Communication,793
+2013,Number,City of Bijeljina,M,Communication,398
+2013,Number,City of Bijeljina,F,Communication,395
 2013,Number,Bileća,Total,Communication,89
 2013,Number,Bileća,M,Communication,44
 2013,Number,Bileća,F,Communication,45
@@ -1166,21 +1166,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,Communication,70
 2013,Number,Gacko,M,Communication,30
 2013,Number,Gacko,F,Communication,40
-2013,Number,Grad Gradiška,Total,Communication,504
-2013,Number,Grad Gradiška,M,Communication,220
-2013,Number,Grad Gradiška,F,Communication,284
-2013,Number,Grad Derventa,Total,Communication,255
-2013,Number,Grad Derventa,M,Communication,118
-2013,Number,Grad Derventa,F,Communication,137
-2013,Number,Grad Doboj,Total,Communication,786
-2013,Number,Grad Doboj,M,Communication,353
-2013,Number,Grad Doboj,F,Communication,433
+2013,Number,City of Gradiška,Total,Communication,504
+2013,Number,City of Gradiška,M,Communication,220
+2013,Number,City of Gradiška,F,Communication,284
+2013,Number,City of Derventa,Total,Communication,255
+2013,Number,City of Derventa,M,Communication,118
+2013,Number,City of Derventa,F,Communication,137
+2013,Number,City of Doboj,Total,Communication,786
+2013,Number,City of Doboj,M,Communication,353
+2013,Number,City of Doboj,F,Communication,433
 2013,Number,Donji Žabar,Total,Communication,23
 2013,Number,Donji Žabar,M,Communication,13
 2013,Number,Donji Žabar,F,Communication,10
-2013,Number,Grad Zvornik,Total,Communication,402
-2013,Number,Grad Zvornik,M,Communication,184
-2013,Number,Grad Zvornik,F,Communication,218
+2013,Number,City of Zvornik,Total,Communication,402
+2013,Number,City of Zvornik,M,Communication,184
+2013,Number,City of Zvornik,F,Communication,218
 2013,Number,Istočna Ilidža,Total,Communication,113
 2013,Number,Istočna Ilidža,M,Communication,54
 2013,Number,Istočna Ilidža,F,Communication,59
@@ -1220,9 +1220,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,Communication,6
 2013,Number,Kupres,M,Communication,4
 2013,Number,Kupres,F,Communication,2
-2013,Number,Laktaši,Total,Communication,283
-2013,Number,Laktaši,M,Communication,148
-2013,Number,Laktaši,F,Communication,135
+2013,Number,City of Laktaši,Total,Communication,283
+2013,Number,City of Laktaši,M,Communication,148
+2013,Number,City of Laktaši,F,Communication,135
 2013,Number,Lopare,Total,Communication,168
 2013,Number,Lopare,M,Communication,86
 2013,Number,Lopare,F,Communication,82
@@ -1265,12 +1265,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,Communication,64
 2013,Number,Petrovo,M,Communication,36
 2013,Number,Petrovo,F,Communication,28
-2013,Number,Grad Prijedor,Total,Communication,927
-2013,Number,Grad Prijedor,M,Communication,517
-2013,Number,Grad Prijedor,F,Communication,410
-2013,Number,Prnjavor,Total,Communication,320
-2013,Number,Prnjavor,M,Communication,162
-2013,Number,Prnjavor,F,Communication,158
+2013,Number,City of Prijedor,Total,Communication,927
+2013,Number,City of Prijedor,M,Communication,517
+2013,Number,City of Prijedor,F,Communication,410
+2013,Number,City of Prnjavor,Total,Communication,320
+2013,Number,City of Prnjavor,M,Communication,162
+2013,Number,City of Prnjavor,F,Communication,158
 2013,Number,Ribnik,Total,Communication,91
 2013,Number,Ribnik,M,Communication,45
 2013,Number,Ribnik,F,Communication,46
@@ -1289,12 +1289,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,Communication,80
 2013,Number,Srebrenica,M,Communication,33
 2013,Number,Srebrenica,F,Communication,47
-2013,Number,Teslić,Total,Communication,387
-2013,Number,Teslić,M,Communication,189
-2013,Number,Teslić,F,Communication,198
-2013,Number,Grad Trebinje,Total,Communication,205
-2013,Number,Grad Trebinje,M,Communication,94
-2013,Number,Grad Trebinje,F,Communication,111
+2013,Number,City of Teslić,Total,Communication,387
+2013,Number,City of Teslić,M,Communication,189
+2013,Number,City of Teslić,F,Communication,198
+2013,Number,City of Trebinje,Total,Communication,205
+2013,Number,City of Trebinje,M,Communication,94
+2013,Number,City of Trebinje,F,Communication,111
 2013,Number,Trnovo,Total,Communication,22
 2013,Number,Trnovo,M,Communication,12
 2013,Number,Trnovo,F,Communication,10
@@ -1325,15 +1325,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Republika Srpska,Total,With multiple disabilities,38298
 2013,Number,Republika Srpska,M,With multiple disabilities,16292
 2013,Number,Republika Srpska,F,With multiple disabilities,22006
-2013,Number,Grad Banja Luka,Total,With multiple disabilities,4944
-2013,Number,Grad Banja Luka,M,With multiple disabilities,2158
-2013,Number,Grad Banja Luka,F,With multiple disabilities,2786
+2013,Number,City of Banja Luka,Total,With multiple disabilities,4944
+2013,Number,City of Banja Luka,M,With multiple disabilities,2158
+2013,Number,City of Banja Luka,F,With multiple disabilities,2786
 2013,Number,Berkovići,Total,With multiple disabilities,73
 2013,Number,Berkovići,M,With multiple disabilities,32
 2013,Number,Berkovići,F,With multiple disabilities,41
-2013,Number,Grad Bijeljina,Total,With multiple disabilities,3094
-2013,Number,Grad Bijeljina,M,With multiple disabilities,1359
-2013,Number,Grad Bijeljina,F,With multiple disabilities,1735
+2013,Number,City of Bijeljina,Total,With multiple disabilities,3094
+2013,Number,City of Bijeljina,M,With multiple disabilities,1359
+2013,Number,City of Bijeljina,F,With multiple disabilities,1735
 2013,Number,Bileća,Total,With multiple disabilities,350
 2013,Number,Bileća,M,With multiple disabilities,151
 2013,Number,Bileća,F,With multiple disabilities,199
@@ -1355,21 +1355,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Gacko,Total,With multiple disabilities,219
 2013,Number,Gacko,M,With multiple disabilities,84
 2013,Number,Gacko,F,With multiple disabilities,135
-2013,Number,Grad Gradiška,Total,With multiple disabilities,1641
-2013,Number,Grad Gradiška,M,With multiple disabilities,637
-2013,Number,Grad Gradiška,F,With multiple disabilities,1004
-2013,Number,Grad Derventa,Total,With multiple disabilities,938
-2013,Number,Grad Derventa,M,With multiple disabilities,385
-2013,Number,Grad Derventa,F,With multiple disabilities,553
-2013,Number,Grad Doboj,Total,With multiple disabilities,3008
-2013,Number,Grad Doboj,M,With multiple disabilities,1227
-2013,Number,Grad Doboj,F,With multiple disabilities,1781
+2013,Number,City of Gradiška,Total,With multiple disabilities,1641
+2013,Number,City of Gradiška,M,With multiple disabilities,637
+2013,Number,City of Gradiška,F,With multiple disabilities,1004
+2013,Number,City of Derventa,Total,With multiple disabilities,938
+2013,Number,City of Derventa,M,With multiple disabilities,385
+2013,Number,City of Derventa,F,With multiple disabilities,553
+2013,Number,City of Doboj,Total,With multiple disabilities,3008
+2013,Number,City of Doboj,M,With multiple disabilities,1227
+2013,Number,City of Doboj,F,With multiple disabilities,1781
 2013,Number,Donji Žabar,Total,With multiple disabilities,89
 2013,Number,Donji Žabar,M,With multiple disabilities,42
 2013,Number,Donji Žabar,F,With multiple disabilities,47
-2013,Number,Grad Zvornik,Total,With multiple disabilities,1546
-2013,Number,Grad Zvornik,M,With multiple disabilities,670
-2013,Number,Grad Zvornik,F,With multiple disabilities,876
+2013,Number,City of Zvornik,Total,With multiple disabilities,1546
+2013,Number,City of Zvornik,M,With multiple disabilities,670
+2013,Number,City of Zvornik,F,With multiple disabilities,876
 2013,Number,Istočna Ilidža,Total,With multiple disabilities,394
 2013,Number,Istočna Ilidža,M,With multiple disabilities,171
 2013,Number,Istočna Ilidža,F,With multiple disabilities,223
@@ -1409,9 +1409,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Kupres,Total,With multiple disabilities,21
 2013,Number,Kupres,M,With multiple disabilities,13
 2013,Number,Kupres,F,With multiple disabilities,8
-2013,Number,Laktaši,Total,With multiple disabilities,887
-2013,Number,Laktaši,M,With multiple disabilities,413
-2013,Number,Laktaši,F,With multiple disabilities,474
+2013,Number,City of Laktaši,Total,With multiple disabilities,887
+2013,Number,City of Laktaši,M,With multiple disabilities,413
+2013,Number,City of Laktaši,F,With multiple disabilities,474
 2013,Number,Lopare,Total,With multiple disabilities,583
 2013,Number,Lopare,M,With multiple disabilities,254
 2013,Number,Lopare,F,With multiple disabilities,329
@@ -1454,12 +1454,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Petrovo,Total,With multiple disabilities,378
 2013,Number,Petrovo,M,With multiple disabilities,156
 2013,Number,Petrovo,F,With multiple disabilities,222
-2013,Number,Grad Prijedor,Total,With multiple disabilities,2789
-2013,Number,Grad Prijedor,M,With multiple disabilities,1276
-2013,Number,Grad Prijedor,F,With multiple disabilities,1513
-2013,Number,Prnjavor,Total,With multiple disabilities,1199
-2013,Number,Prnjavor,M,With multiple disabilities,465
-2013,Number,Prnjavor,F,With multiple disabilities,734
+2013,Number,City of Prijedor,Total,With multiple disabilities,2789
+2013,Number,City of Prijedor,M,With multiple disabilities,1276
+2013,Number,City of Prijedor,F,With multiple disabilities,1513
+2013,Number,City of Prnjavor,Total,With multiple disabilities,1199
+2013,Number,City of Prnjavor,M,With multiple disabilities,465
+2013,Number,City of Prnjavor,F,With multiple disabilities,734
 2013,Number,Ribnik,Total,With multiple disabilities,272
 2013,Number,Ribnik,M,With multiple disabilities,128
 2013,Number,Ribnik,F,With multiple disabilities,144
@@ -1478,12 +1478,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Type of disability,Value
 2013,Number,Srebrenica,Total,With multiple disabilities,381
 2013,Number,Srebrenica,M,With multiple disabilities,144
 2013,Number,Srebrenica,F,With multiple disabilities,237
-2013,Number,Teslić,Total,With multiple disabilities,1374
-2013,Number,Teslić,M,With multiple disabilities,585
-2013,Number,Teslić,F,With multiple disabilities,789
-2013,Number,Grad Trebinje,Total,With multiple disabilities,689
-2013,Number,Grad Trebinje,M,With multiple disabilities,280
-2013,Number,Grad Trebinje,F,With multiple disabilities,409
+2013,Number,City of Teslić,Total,With multiple disabilities,1374
+2013,Number,City of Teslić,M,With multiple disabilities,585
+2013,Number,City of Teslić,F,With multiple disabilities,789
+2013,Number,City of Trebinje,Total,With multiple disabilities,689
+2013,Number,City of Trebinje,M,With multiple disabilities,280
+2013,Number,City of Trebinje,F,With multiple disabilities,409
 2013,Number,Trnovo,Total,With multiple disabilities,69
 2013,Number,Trnovo,M,With multiple disabilities,31
 2013,Number,Trnovo,F,With multiple disabilities,38

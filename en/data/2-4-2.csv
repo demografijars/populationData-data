@@ -2,15 +2,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,No education,58651
 2013,Number,Republika Srpska,M,No education,9370
 2013,Number,Republika Srpska,F,No education,49281
-2013,Number,Grad Banja Luka,Total,No education,5673
-2013,Number,Grad Banja Luka,M,No education,921
-2013,Number,Grad Banja Luka,F,No education,4752
+2013,Number,City of Banja Luka,Total,No education,5673
+2013,Number,City of Banja Luka,M,No education,921
+2013,Number,City of Banja Luka,F,No education,4752
 2013,Number,Berkovići,Total,No education,104
 2013,Number,Berkovići,M,No education,8
 2013,Number,Berkovići,F,No education,96
-2013,Number,Grad Bijeljina,Total,No education,3916
-2013,Number,Grad Bijeljina,M,No education,650
-2013,Number,Grad Bijeljina,F,No education,3266
+2013,Number,City of Bijeljina,Total,No education,3916
+2013,Number,City of Bijeljina,M,No education,650
+2013,Number,City of Bijeljina,F,No education,3266
 2013,Number,Bileća,Total,No education,246
 2013,Number,Bileća,M,No education,42
 2013,Number,Bileća,F,No education,204
@@ -32,21 +32,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,No education,268
 2013,Number,Gacko,M,No education,22
 2013,Number,Gacko,F,No education,246
-2013,Number,Grad Gradiška,Total,No education,2608
-2013,Number,Grad Gradiška,M,No education,425
-2013,Number,Grad Gradiška,F,No education,2183
-2013,Number,Grad Derventa,Total,No education,1538
-2013,Number,Grad Derventa,M,No education,281
-2013,Number,Grad Derventa,F,No education,1257
-2013,Number,Grad Doboj,Total,No education,3364
-2013,Number,Grad Doboj,M,No education,496
-2013,Number,Grad Doboj,F,No education,2868
+2013,Number,City of Gradiška,Total,No education,2608
+2013,Number,City of Gradiška,M,No education,425
+2013,Number,City of Gradiška,F,No education,2183
+2013,Number,City of Derventa,Total,No education,1538
+2013,Number,City of Derventa,M,No education,281
+2013,Number,City of Derventa,F,No education,1257
+2013,Number,City of Doboj,Total,No education,3364
+2013,Number,City of Doboj,M,No education,496
+2013,Number,City of Doboj,F,No education,2868
 2013,Number,Donji Žabar,Total,No education,209
 2013,Number,Donji Žabar,M,No education,37
 2013,Number,Donji Žabar,F,No education,172
-2013,Number,Grad Zvornik,Total,No education,3216
-2013,Number,Grad Zvornik,M,No education,484
-2013,Number,Grad Zvornik,F,No education,2732
+2013,Number,City of Zvornik,Total,No education,3216
+2013,Number,City of Zvornik,M,No education,484
+2013,Number,City of Zvornik,F,No education,2732
 2013,Number,Istočna Ilidža,Total,No education,280
 2013,Number,Istočna Ilidža,M,No education,33
 2013,Number,Istočna Ilidža,F,No education,247
@@ -86,9 +86,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,No education,103
 2013,Number,Kupres,M,No education,33
 2013,Number,Kupres,F,No education,70
-2013,Number,Laktaši,Total,No education,1363
-2013,Number,Laktaši,M,No education,229
-2013,Number,Laktaši,F,No education,1134
+2013,Number,City of Laktaši,Total,No education,1363
+2013,Number,City of Laktaši,M,No education,229
+2013,Number,City of Laktaši,F,No education,1134
 2013,Number,Lopare,Total,No education,1235
 2013,Number,Lopare,M,No education,243
 2013,Number,Lopare,F,No education,992
@@ -131,12 +131,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,No education,403
 2013,Number,Petrovo,M,No education,48
 2013,Number,Petrovo,F,No education,355
-2013,Number,Grad Prijedor,Total,No education,3918
-2013,Number,Grad Prijedor,M,No education,760
-2013,Number,Grad Prijedor,F,No education,3158
-2013,Number,Prnjavor,Total,No education,2654
-2013,Number,Prnjavor,M,No education,391
-2013,Number,Prnjavor,F,No education,2263
+2013,Number,City of Prijedor,Total,No education,3918
+2013,Number,City of Prijedor,M,No education,760
+2013,Number,City of Prijedor,F,No education,3158
+2013,Number,City of Prnjavor,Total,No education,2654
+2013,Number,City of Prnjavor,M,No education,391
+2013,Number,City of Prnjavor,F,No education,2263
 2013,Number,Ribnik,Total,No education,680
 2013,Number,Ribnik,M,No education,118
 2013,Number,Ribnik,F,No education,562
@@ -155,12 +155,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,No education,852
 2013,Number,Srebrenica,M,No education,105
 2013,Number,Srebrenica,F,No education,747
-2013,Number,Teslić,Total,No education,3299
-2013,Number,Teslić,M,No education,471
-2013,Number,Teslić,F,No education,2828
-2013,Number,Grad Trebinje,Total,No education,382
-2013,Number,Grad Trebinje,M,No education,44
-2013,Number,Grad Trebinje,F,No education,338
+2013,Number,City of Teslić,Total,No education,3299
+2013,Number,City of Teslić,M,No education,471
+2013,Number,City of Teslić,F,No education,2828
+2013,Number,City of Trebinje,Total,No education,382
+2013,Number,City of Trebinje,M,No education,44
+2013,Number,City of Trebinje,F,No education,338
 2013,Number,Trnovo,Total,No education,143
 2013,Number,Trnovo,M,No education,14
 2013,Number,Trnovo,F,No education,129
@@ -191,15 +191,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Incomplete primary education,97022
 2013,Number,Republika Srpska,M,Incomplete primary education,33465
 2013,Number,Republika Srpska,F,Incomplete primary education,63557
-2013,Number,Grad Banja Luka,Total,Incomplete primary education,6483
-2013,Number,Grad Banja Luka,M,Incomplete primary education,2117
-2013,Number,Grad Banja Luka,F,Incomplete primary education,4366
+2013,Number,City of Banja Luka,Total,Incomplete primary education,6483
+2013,Number,City of Banja Luka,M,Incomplete primary education,2117
+2013,Number,City of Banja Luka,F,Incomplete primary education,4366
 2013,Number,Berkovići,Total,Incomplete primary education,229
 2013,Number,Berkovići,M,Incomplete primary education,74
 2013,Number,Berkovići,F,Incomplete primary education,155
-2013,Number,Grad Bijeljina,Total,Incomplete primary education,10740
-2013,Number,Grad Bijeljina,M,Incomplete primary education,3999
-2013,Number,Grad Bijeljina,F,Incomplete primary education,6741
+2013,Number,City of Bijeljina,Total,Incomplete primary education,10740
+2013,Number,City of Bijeljina,M,Incomplete primary education,3999
+2013,Number,City of Bijeljina,F,Incomplete primary education,6741
 2013,Number,Bileća,Total,Incomplete primary education,747
 2013,Number,Bileća,M,Incomplete primary education,187
 2013,Number,Bileća,F,Incomplete primary education,560
@@ -221,21 +221,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Incomplete primary education,496
 2013,Number,Gacko,M,Incomplete primary education,135
 2013,Number,Gacko,F,Incomplete primary education,361
-2013,Number,Grad Gradiška,Total,Incomplete primary education,4821
-2013,Number,Grad Gradiška,M,Incomplete primary education,1832
-2013,Number,Grad Gradiška,F,Incomplete primary education,2989
-2013,Number,Grad Derventa,Total,Incomplete primary education,2759
-2013,Number,Grad Derventa,M,Incomplete primary education,1030
-2013,Number,Grad Derventa,F,Incomplete primary education,1729
-2013,Number,Grad Doboj,Total,Incomplete primary education,6019
-2013,Number,Grad Doboj,M,Incomplete primary education,1823
-2013,Number,Grad Doboj,F,Incomplete primary education,4196
+2013,Number,City of Gradiška,Total,Incomplete primary education,4821
+2013,Number,City of Gradiška,M,Incomplete primary education,1832
+2013,Number,City of Gradiška,F,Incomplete primary education,2989
+2013,Number,City of Derventa,Total,Incomplete primary education,2759
+2013,Number,City of Derventa,M,Incomplete primary education,1030
+2013,Number,City of Derventa,F,Incomplete primary education,1729
+2013,Number,City of Doboj,Total,Incomplete primary education,6019
+2013,Number,City of Doboj,M,Incomplete primary education,1823
+2013,Number,City of Doboj,F,Incomplete primary education,4196
 2013,Number,Donji Žabar,Total,Incomplete primary education,707
 2013,Number,Donji Žabar,M,Incomplete primary education,304
 2013,Number,Donji Žabar,F,Incomplete primary education,403
-2013,Number,Grad Zvornik,Total,Incomplete primary education,4702
-2013,Number,Grad Zvornik,M,Incomplete primary education,1472
-2013,Number,Grad Zvornik,F,Incomplete primary education,3230
+2013,Number,City of Zvornik,Total,Incomplete primary education,4702
+2013,Number,City of Zvornik,M,Incomplete primary education,1472
+2013,Number,City of Zvornik,F,Incomplete primary education,3230
 2013,Number,Istočna Ilidža,Total,Incomplete primary education,550
 2013,Number,Istočna Ilidža,M,Incomplete primary education,65
 2013,Number,Istočna Ilidža,F,Incomplete primary education,485
@@ -275,9 +275,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Incomplete primary education,19
 2013,Number,Kupres,M,Incomplete primary education,9
 2013,Number,Kupres,F,Incomplete primary education,10
-2013,Number,Laktaši,Total,Incomplete primary education,2504
-2013,Number,Laktaši,M,Incomplete primary education,946
-2013,Number,Laktaši,F,Incomplete primary education,1558
+2013,Number,City of Laktaši,Total,Incomplete primary education,2504
+2013,Number,City of Laktaši,M,Incomplete primary education,946
+2013,Number,City of Laktaši,F,Incomplete primary education,1558
 2013,Number,Lopare,Total,Incomplete primary education,2118
 2013,Number,Lopare,M,Incomplete primary education,943
 2013,Number,Lopare,F,Incomplete primary education,1175
@@ -320,12 +320,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Incomplete primary education,733
 2013,Number,Petrovo,M,Incomplete primary education,180
 2013,Number,Petrovo,F,Incomplete primary education,553
-2013,Number,Grad Prijedor,Total,Incomplete primary education,6219
-2013,Number,Grad Prijedor,M,Incomplete primary education,1948
-2013,Number,Grad Prijedor,F,Incomplete primary education,4271
-2013,Number,Prnjavor,Total,Incomplete primary education,4458
-2013,Number,Prnjavor,M,Incomplete primary education,1948
-2013,Number,Prnjavor,F,Incomplete primary education,2510
+2013,Number,City of Prijedor,Total,Incomplete primary education,6219
+2013,Number,City of Prijedor,M,Incomplete primary education,1948
+2013,Number,City of Prijedor,F,Incomplete primary education,4271
+2013,Number,City of Prnjavor,Total,Incomplete primary education,4458
+2013,Number,City of Prnjavor,M,Incomplete primary education,1948
+2013,Number,City of Prnjavor,F,Incomplete primary education,2510
 2013,Number,Ribnik,Total,Incomplete primary education,641
 2013,Number,Ribnik,M,Incomplete primary education,249
 2013,Number,Ribnik,F,Incomplete primary education,392
@@ -344,12 +344,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Incomplete primary education,1086
 2013,Number,Srebrenica,M,Incomplete primary education,308
 2013,Number,Srebrenica,F,Incomplete primary education,778
-2013,Number,Teslić,Total,Incomplete primary education,4433
-2013,Number,Teslić,M,Incomplete primary education,1551
-2013,Number,Teslić,F,Incomplete primary education,2882
-2013,Number,Grad Trebinje,Total,Incomplete primary education,1156
-2013,Number,Grad Trebinje,M,Incomplete primary education,210
-2013,Number,Grad Trebinje,F,Incomplete primary education,946
+2013,Number,City of Teslić,Total,Incomplete primary education,4433
+2013,Number,City of Teslić,M,Incomplete primary education,1551
+2013,Number,City of Teslić,F,Incomplete primary education,2882
+2013,Number,City of Trebinje,Total,Incomplete primary education,1156
+2013,Number,City of Trebinje,M,Incomplete primary education,210
+2013,Number,City of Trebinje,F,Incomplete primary education,946
 2013,Number,Trnovo,Total,Incomplete primary education,151
 2013,Number,Trnovo,M,Incomplete primary education,36
 2013,Number,Trnovo,F,Incomplete primary education,115
@@ -380,15 +380,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Primary school,212834
 2013,Number,Republika Srpska,M,Primary school,95682
 2013,Number,Republika Srpska,F,Primary school,117152
-2013,Number,Grad Banja Luka,Total,Primary school,23011
-2013,Number,Grad Banja Luka,M,Primary school,9927
-2013,Number,Grad Banja Luka,F,Primary school,13084
+2013,Number,City of Banja Luka,Total,Primary school,23011
+2013,Number,City of Banja Luka,M,Primary school,9927
+2013,Number,City of Banja Luka,F,Primary school,13084
 2013,Number,Berkovići,Total,Primary school,430
 2013,Number,Berkovići,M,Primary school,221
 2013,Number,Berkovići,F,Primary school,209
-2013,Number,Grad Bijeljina,Total,Primary school,18771
-2013,Number,Grad Bijeljina,M,Primary school,8590
-2013,Number,Grad Bijeljina,F,Primary school,10181
+2013,Number,City of Bijeljina,Total,Primary school,18771
+2013,Number,City of Bijeljina,M,Primary school,8590
+2013,Number,City of Bijeljina,F,Primary school,10181
 2013,Number,Bileća,Total,Primary school,1951
 2013,Number,Bileća,M,Primary school,867
 2013,Number,Bileća,F,Primary school,1084
@@ -410,21 +410,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Primary school,1356
 2013,Number,Gacko,M,Primary school,530
 2013,Number,Gacko,F,Primary school,826
-2013,Number,Grad Gradiška,Total,Primary school,9626
-2013,Number,Grad Gradiška,M,Primary school,4493
-2013,Number,Grad Gradiška,F,Primary school,5133
-2013,Number,Grad Derventa,Total,Primary school,5260
-2013,Number,Grad Derventa,M,Primary school,2463
-2013,Number,Grad Derventa,F,Primary school,2797
-2013,Number,Grad Doboj,Total,Primary school,13403
-2013,Number,Grad Doboj,M,Primary school,5750
-2013,Number,Grad Doboj,F,Primary school,7653
+2013,Number,City of Gradiška,Total,Primary school,9626
+2013,Number,City of Gradiška,M,Primary school,4493
+2013,Number,City of Gradiška,F,Primary school,5133
+2013,Number,City of Derventa,Total,Primary school,5260
+2013,Number,City of Derventa,M,Primary school,2463
+2013,Number,City of Derventa,F,Primary school,2797
+2013,Number,City of Doboj,Total,Primary school,13403
+2013,Number,City of Doboj,M,Primary school,5750
+2013,Number,City of Doboj,F,Primary school,7653
 2013,Number,Donji Žabar,Total,Primary school,815
 2013,Number,Donji Žabar,M,Primary school,408
 2013,Number,Donji Žabar,F,Primary school,407
-2013,Number,Grad Zvornik,Total,Primary school,11440
-2013,Number,Grad Zvornik,M,Primary school,5163
-2013,Number,Grad Zvornik,F,Primary school,6277
+2013,Number,City of Zvornik,Total,Primary school,11440
+2013,Number,City of Zvornik,M,Primary school,5163
+2013,Number,City of Zvornik,F,Primary school,6277
 2013,Number,Istočna Ilidža,Total,Primary school,1676
 2013,Number,Istočna Ilidža,M,Primary school,519
 2013,Number,Istočna Ilidža,F,Primary school,1157
@@ -464,9 +464,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Primary school,53
 2013,Number,Kupres,M,Primary school,33
 2013,Number,Kupres,F,Primary school,20
-2013,Number,Laktaši,Total,Primary school,6602
-2013,Number,Laktaši,M,Primary school,3078
-2013,Number,Laktaši,F,Primary school,3524
+2013,Number,City of Laktaši,Total,Primary school,6602
+2013,Number,City of Laktaši,M,Primary school,3078
+2013,Number,City of Laktaši,F,Primary school,3524
 2013,Number,Lopare,Total,Primary school,3267
 2013,Number,Lopare,M,Primary school,1670
 2013,Number,Lopare,F,Primary school,1597
@@ -509,12 +509,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Primary school,1114
 2013,Number,Petrovo,M,Primary school,464
 2013,Number,Petrovo,F,Primary school,650
-2013,Number,Grad Prijedor,Total,Primary school,15121
-2013,Number,Grad Prijedor,M,Primary school,6682
-2013,Number,Grad Prijedor,F,Primary school,8439
-2013,Number,Prnjavor,Total,Primary school,7504
-2013,Number,Prnjavor,M,Primary school,3697
-2013,Number,Prnjavor,F,Primary school,3807
+2013,Number,City of Prijedor,Total,Primary school,15121
+2013,Number,City of Prijedor,M,Primary school,6682
+2013,Number,City of Prijedor,F,Primary school,8439
+2013,Number,City of Prnjavor,Total,Primary school,7504
+2013,Number,City of Prnjavor,M,Primary school,3697
+2013,Number,City of Prnjavor,F,Primary school,3807
 2013,Number,Ribnik,Total,Primary school,1275
 2013,Number,Ribnik,M,Primary school,651
 2013,Number,Ribnik,F,Primary school,624
@@ -533,12 +533,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Primary school,2494
 2013,Number,Srebrenica,M,Primary school,1115
 2013,Number,Srebrenica,F,Primary school,1379
-2013,Number,Teslić,Total,Primary school,7412
-2013,Number,Teslić,M,Primary school,3540
-2013,Number,Teslić,F,Primary school,3872
-2013,Number,Grad Trebinje,Total,Primary school,3757
-2013,Number,Grad Trebinje,M,Primary school,1267
-2013,Number,Grad Trebinje,F,Primary school,2490
+2013,Number,City of Teslić,Total,Primary school,7412
+2013,Number,City of Teslić,M,Primary school,3540
+2013,Number,City of Teslić,F,Primary school,3872
+2013,Number,City of Trebinje,Total,Primary school,3757
+2013,Number,City of Trebinje,M,Primary school,1267
+2013,Number,City of Trebinje,F,Primary school,2490
 2013,Number,Trnovo,Total,Primary school,342
 2013,Number,Trnovo,M,Primary school,106
 2013,Number,Trnovo,F,Primary school,236
@@ -569,15 +569,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Secondary school,508414
 2013,Number,Republika Srpska,M,Secondary school,280747
 2013,Number,Republika Srpska,F,Secondary school,227667
-2013,Number,Grad Banja Luka,Total,Secondary school,83044
-2013,Number,Grad Banja Luka,M,Secondary school,42327
-2013,Number,Grad Banja Luka,F,Secondary school,40717
+2013,Number,City of Banja Luka,Total,Secondary school,83044
+2013,Number,City of Banja Luka,M,Secondary school,42327
+2013,Number,City of Banja Luka,F,Secondary school,40717
 2013,Number,Berkovići,Total,Secondary school,771
 2013,Number,Berkovići,M,Secondary school,446
 2013,Number,Berkovići,F,Secondary school,325
-2013,Number,Grad Bijeljina,Total,Secondary school,43231
-2013,Number,Grad Bijeljina,M,Secondary school,23560
-2013,Number,Grad Bijeljina,F,Secondary school,19671
+2013,Number,City of Bijeljina,Total,Secondary school,43231
+2013,Number,City of Bijeljina,M,Secondary school,23560
+2013,Number,City of Bijeljina,F,Secondary school,19671
 2013,Number,Bileća,Total,Secondary school,4799
 2013,Number,Bileća,M,Secondary school,2692
 2013,Number,Bileća,F,Secondary school,2107
@@ -599,21 +599,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Secondary school,3801
 2013,Number,Gacko,M,Secondary school,2151
 2013,Number,Gacko,F,Secondary school,1650
-2013,Number,Grad Gradiška,Total,Secondary school,21633
-2013,Number,Grad Gradiška,M,Secondary school,11815
-2013,Number,Grad Gradiška,F,Secondary school,9818
-2013,Number,Grad Derventa,Total,Secondary school,10884
-2013,Number,Grad Derventa,M,Secondary school,6033
-2013,Number,Grad Derventa,F,Secondary school,4851
-2013,Number,Grad Doboj,Total,Secondary school,29051
-2013,Number,Grad Doboj,M,Secondary school,16192
-2013,Number,Grad Doboj,F,Secondary school,12859
+2013,Number,City of Gradiška,Total,Secondary school,21633
+2013,Number,City of Gradiška,M,Secondary school,11815
+2013,Number,City of Gradiška,F,Secondary school,9818
+2013,Number,City of Derventa,Total,Secondary school,10884
+2013,Number,City of Derventa,M,Secondary school,6033
+2013,Number,City of Derventa,F,Secondary school,4851
+2013,Number,City of Doboj,Total,Secondary school,29051
+2013,Number,City of Doboj,M,Secondary school,16192
+2013,Number,City of Doboj,F,Secondary school,12859
 2013,Number,Donji Žabar,Total,Secondary school,1261
 2013,Number,Donji Žabar,M,Secondary school,739
 2013,Number,Donji Žabar,F,Secondary school,522
-2013,Number,Grad Zvornik,Total,Secondary school,21815
-2013,Number,Grad Zvornik,M,Secondary school,12776
-2013,Number,Grad Zvornik,F,Secondary school,9039
+2013,Number,City of Zvornik,Total,Secondary school,21815
+2013,Number,City of Zvornik,M,Secondary school,12776
+2013,Number,City of Zvornik,F,Secondary school,9039
 2013,Number,Istočna Ilidža,Total,Secondary school,7474
 2013,Number,Istočna Ilidža,M,Secondary school,4082
 2013,Number,Istočna Ilidža,F,Secondary school,3392
@@ -653,9 +653,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Secondary school,84
 2013,Number,Kupres,M,Secondary school,59
 2013,Number,Kupres,F,Secondary school,25
-2013,Number,Laktaši,Total,Secondary school,15658
-2013,Number,Laktaši,M,Secondary school,8480
-2013,Number,Laktaši,F,Secondary school,7178
+2013,Number,City of Laktaši,Total,Secondary school,15658
+2013,Number,City of Laktaši,M,Secondary school,8480
+2013,Number,City of Laktaši,F,Secondary school,7178
 2013,Number,Lopare,Total,Secondary school,5477
 2013,Number,Lopare,M,Secondary school,3169
 2013,Number,Lopare,F,Secondary school,2308
@@ -698,12 +698,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Secondary school,2821
 2013,Number,Petrovo,M,Secondary school,1664
 2013,Number,Petrovo,F,Secondary school,1157
-2013,Number,Grad Prijedor,Total,Secondary school,37714
-2013,Number,Grad Prijedor,M,Secondary school,20808
-2013,Number,Grad Prijedor,F,Secondary school,16906
-2013,Number,Prnjavor,Total,Secondary school,12669
-2013,Number,Prnjavor,M,Secondary school,7015
-2013,Number,Prnjavor,F,Secondary school,5654
+2013,Number,City of Prijedor,Total,Secondary school,37714
+2013,Number,City of Prijedor,M,Secondary school,20808
+2013,Number,City of Prijedor,F,Secondary school,16906
+2013,Number,City of Prnjavor,Total,Secondary school,12669
+2013,Number,City of Prnjavor,M,Secondary school,7015
+2013,Number,City of Prnjavor,F,Secondary school,5654
 2013,Number,Ribnik,Total,Secondary school,2154
 2013,Number,Ribnik,M,Secondary school,1291
 2013,Number,Ribnik,F,Secondary school,863
@@ -722,12 +722,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Secondary school,4716
 2013,Number,Srebrenica,M,Secondary school,2832
 2013,Number,Srebrenica,F,Secondary school,1884
-2013,Number,Teslić,Total,Secondary school,14063
-2013,Number,Teslić,M,Secondary school,8090
-2013,Number,Teslić,F,Secondary school,5973
-2013,Number,Grad Trebinje,Total,Secondary school,13551
-2013,Number,Grad Trebinje,M,Secondary school,7183
-2013,Number,Grad Trebinje,F,Secondary school,6368
+2013,Number,City of Teslić,Total,Secondary school,14063
+2013,Number,City of Teslić,M,Secondary school,8090
+2013,Number,City of Teslić,F,Secondary school,5973
+2013,Number,City of Trebinje,Total,Secondary school,13551
+2013,Number,City of Trebinje,M,Secondary school,7183
+2013,Number,City of Trebinje,F,Secondary school,6368
 2013,Number,Trnovo,Total,Secondary school,942
 2013,Number,Trnovo,M,Secondary school,576
 2013,Number,Trnovo,F,Secondary school,366
@@ -758,15 +758,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Secondary specialization,7618
 2013,Number,Republika Srpska,M,Secondary specialization,6324
 2013,Number,Republika Srpska,F,Secondary specialization,1294
-2013,Number,Grad Banja Luka,Total,Secondary specialization,1552
-2013,Number,Grad Banja Luka,M,Secondary specialization,1261
-2013,Number,Grad Banja Luka,F,Secondary specialization,291
+2013,Number,City of Banja Luka,Total,Secondary specialization,1552
+2013,Number,City of Banja Luka,M,Secondary specialization,1261
+2013,Number,City of Banja Luka,F,Secondary specialization,291
 2013,Number,Berkovići,Total,Secondary specialization,11
 2013,Number,Berkovići,M,Secondary specialization,11
 2013,Number,Berkovići,F,Secondary specialization,0
-2013,Number,Grad Bijeljina,Total,Secondary specialization,564
-2013,Number,Grad Bijeljina,M,Secondary specialization,485
-2013,Number,Grad Bijeljina,F,Secondary specialization,79
+2013,Number,City of Bijeljina,Total,Secondary specialization,564
+2013,Number,City of Bijeljina,M,Secondary specialization,485
+2013,Number,City of Bijeljina,F,Secondary specialization,79
 2013,Number,Bileća,Total,Secondary specialization,68
 2013,Number,Bileća,M,Secondary specialization,56
 2013,Number,Bileća,F,Secondary specialization,12
@@ -788,21 +788,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Secondary specialization,269
 2013,Number,Gacko,M,Secondary specialization,249
 2013,Number,Gacko,F,Secondary specialization,20
-2013,Number,Grad Gradiška,Total,Secondary specialization,192
-2013,Number,Grad Gradiška,M,Secondary specialization,142
-2013,Number,Grad Gradiška,F,Secondary specialization,50
-2013,Number,Grad Derventa,Total,Secondary specialization,120
-2013,Number,Grad Derventa,M,Secondary specialization,94
-2013,Number,Grad Derventa,F,Secondary specialization,26
-2013,Number,Grad Doboj,Total,Secondary specialization,507
-2013,Number,Grad Doboj,M,Secondary specialization,448
-2013,Number,Grad Doboj,F,Secondary specialization,59
+2013,Number,City of Gradiška,Total,Secondary specialization,192
+2013,Number,City of Gradiška,M,Secondary specialization,142
+2013,Number,City of Gradiška,F,Secondary specialization,50
+2013,Number,City of Derventa,Total,Secondary specialization,120
+2013,Number,City of Derventa,M,Secondary specialization,94
+2013,Number,City of Derventa,F,Secondary specialization,26
+2013,Number,City of Doboj,Total,Secondary specialization,507
+2013,Number,City of Doboj,M,Secondary specialization,448
+2013,Number,City of Doboj,F,Secondary specialization,59
 2013,Number,Donji Žabar,Total,Secondary specialization,10
 2013,Number,Donji Žabar,M,Secondary specialization,8
 2013,Number,Donji Žabar,F,Secondary specialization,2
-2013,Number,Grad Zvornik,Total,Secondary specialization,277
-2013,Number,Grad Zvornik,M,Secondary specialization,244
-2013,Number,Grad Zvornik,F,Secondary specialization,33
+2013,Number,City of Zvornik,Total,Secondary specialization,277
+2013,Number,City of Zvornik,M,Secondary specialization,244
+2013,Number,City of Zvornik,F,Secondary specialization,33
 2013,Number,Istočna Ilidža,Total,Secondary specialization,140
 2013,Number,Istočna Ilidža,M,Secondary specialization,123
 2013,Number,Istočna Ilidža,F,Secondary specialization,17
@@ -842,9 +842,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Secondary specialization,1
 2013,Number,Kupres,M,Secondary specialization,0
 2013,Number,Kupres,F,Secondary specialization,1
-2013,Number,Laktaši,Total,Secondary specialization,169
-2013,Number,Laktaši,M,Secondary specialization,141
-2013,Number,Laktaši,F,Secondary specialization,28
+2013,Number,City of Laktaši,Total,Secondary specialization,169
+2013,Number,City of Laktaši,M,Secondary specialization,141
+2013,Number,City of Laktaši,F,Secondary specialization,28
 2013,Number,Lopare,Total,Secondary specialization,64
 2013,Number,Lopare,M,Secondary specialization,45
 2013,Number,Lopare,F,Secondary specialization,19
@@ -887,12 +887,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Secondary specialization,79
 2013,Number,Petrovo,M,Secondary specialization,74
 2013,Number,Petrovo,F,Secondary specialization,5
-2013,Number,Grad Prijedor,Total,Secondary specialization,666
-2013,Number,Grad Prijedor,M,Secondary specialization,492
-2013,Number,Grad Prijedor,F,Secondary specialization,174
-2013,Number,Prnjavor,Total,Secondary specialization,112
-2013,Number,Prnjavor,M,Secondary specialization,83
-2013,Number,Prnjavor,F,Secondary specialization,29
+2013,Number,City of Prijedor,Total,Secondary specialization,666
+2013,Number,City of Prijedor,M,Secondary specialization,492
+2013,Number,City of Prijedor,F,Secondary specialization,174
+2013,Number,City of Prnjavor,Total,Secondary specialization,112
+2013,Number,City of Prnjavor,M,Secondary specialization,83
+2013,Number,City of Prnjavor,F,Secondary specialization,29
 2013,Number,Ribnik,Total,Secondary specialization,14
 2013,Number,Ribnik,M,Secondary specialization,13
 2013,Number,Ribnik,F,Secondary specialization,1
@@ -911,12 +911,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Secondary specialization,33
 2013,Number,Srebrenica,M,Secondary specialization,26
 2013,Number,Srebrenica,F,Secondary specialization,7
-2013,Number,Teslić,Total,Secondary specialization,170
-2013,Number,Teslić,M,Secondary specialization,138
-2013,Number,Teslić,F,Secondary specialization,32
-2013,Number,Grad Trebinje,Total,Secondary specialization,432
-2013,Number,Grad Trebinje,M,Secondary specialization,394
-2013,Number,Grad Trebinje,F,Secondary specialization,38
+2013,Number,City of Teslić,Total,Secondary specialization,170
+2013,Number,City of Teslić,M,Secondary specialization,138
+2013,Number,City of Teslić,F,Secondary specialization,32
+2013,Number,City of Trebinje,Total,Secondary specialization,432
+2013,Number,City of Trebinje,M,Secondary specialization,394
+2013,Number,City of Trebinje,F,Secondary specialization,38
 2013,Number,Trnovo,Total,Secondary specialization,15
 2013,Number,Trnovo,M,Secondary specialization,13
 2013,Number,Trnovo,F,Secondary specialization,2
@@ -947,15 +947,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Higher school and first degree of faculty,33960
 2013,Number,Republika Srpska,M,Higher school and first degree of faculty,19142
 2013,Number,Republika Srpska,F,Higher school and first degree of faculty,14818
-2013,Number,Grad Banja Luka,Total,Higher school and first degree of faculty,7972
-2013,Number,Grad Banja Luka,M,Higher school and first degree of faculty,4272
-2013,Number,Grad Banja Luka,F,Higher school and first degree of faculty,3700
+2013,Number,City of Banja Luka,Total,Higher school and first degree of faculty,7972
+2013,Number,City of Banja Luka,M,Higher school and first degree of faculty,4272
+2013,Number,City of Banja Luka,F,Higher school and first degree of faculty,3700
 2013,Number,Berkovići,Total,Higher school and first degree of faculty,47
 2013,Number,Berkovići,M,Higher school and first degree of faculty,34
 2013,Number,Berkovići,F,Higher school and first degree of faculty,13
-2013,Number,Grad Bijeljina,Total,Higher school and first degree of faculty,3354
-2013,Number,Grad Bijeljina,M,Higher school and first degree of faculty,1805
-2013,Number,Grad Bijeljina,F,Higher school and first degree of faculty,1549
+2013,Number,City of Bijeljina,Total,Higher school and first degree of faculty,3354
+2013,Number,City of Bijeljina,M,Higher school and first degree of faculty,1805
+2013,Number,City of Bijeljina,F,Higher school and first degree of faculty,1549
 2013,Number,Bileća,Total,Higher school and first degree of faculty,434
 2013,Number,Bileća,M,Higher school and first degree of faculty,249
 2013,Number,Bileća,F,Higher school and first degree of faculty,185
@@ -977,21 +977,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Higher school and first degree of faculty,335
 2013,Number,Gacko,M,Higher school and first degree of faculty,191
 2013,Number,Gacko,F,Higher school and first degree of faculty,144
-2013,Number,Grad Gradiška,Total,Higher school and first degree of faculty,1222
-2013,Number,Grad Gradiška,M,Higher school and first degree of faculty,658
-2013,Number,Grad Gradiška,F,Higher school and first degree of faculty,564
-2013,Number,Grad Derventa,Total,Higher school and first degree of faculty,542
-2013,Number,Grad Derventa,M,Higher school and first degree of faculty,331
-2013,Number,Grad Derventa,F,Higher school and first degree of faculty,211
-2013,Number,Grad Doboj,Total,Higher school and first degree of faculty,1827
-2013,Number,Grad Doboj,M,Higher school and first degree of faculty,1078
-2013,Number,Grad Doboj,F,Higher school and first degree of faculty,749
+2013,Number,City of Gradiška,Total,Higher school and first degree of faculty,1222
+2013,Number,City of Gradiška,M,Higher school and first degree of faculty,658
+2013,Number,City of Gradiška,F,Higher school and first degree of faculty,564
+2013,Number,City of Derventa,Total,Higher school and first degree of faculty,542
+2013,Number,City of Derventa,M,Higher school and first degree of faculty,331
+2013,Number,City of Derventa,F,Higher school and first degree of faculty,211
+2013,Number,City of Doboj,Total,Higher school and first degree of faculty,1827
+2013,Number,City of Doboj,M,Higher school and first degree of faculty,1078
+2013,Number,City of Doboj,F,Higher school and first degree of faculty,749
 2013,Number,Donji Žabar,Total,Higher school and first degree of faculty,37
 2013,Number,Donji Žabar,M,Higher school and first degree of faculty,23
 2013,Number,Donji Žabar,F,Higher school and first degree of faculty,14
-2013,Number,Grad Zvornik,Total,Higher school and first degree of faculty,1283
-2013,Number,Grad Zvornik,M,Higher school and first degree of faculty,716
-2013,Number,Grad Zvornik,F,Higher school and first degree of faculty,567
+2013,Number,City of Zvornik,Total,Higher school and first degree of faculty,1283
+2013,Number,City of Zvornik,M,Higher school and first degree of faculty,716
+2013,Number,City of Zvornik,F,Higher school and first degree of faculty,567
 2013,Number,Istočna Ilidža,Total,Higher school and first degree of faculty,513
 2013,Number,Istočna Ilidža,M,Higher school and first degree of faculty,315
 2013,Number,Istočna Ilidža,F,Higher school and first degree of faculty,198
@@ -1031,9 +1031,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Higher school and first degree of faculty,2
 2013,Number,Kupres,M,Higher school and first degree of faculty,2
 2013,Number,Kupres,F,Higher school and first degree of faculty,0
-2013,Number,Laktaši,Total,Higher school and first degree of faculty,822
-2013,Number,Laktaši,M,Higher school and first degree of faculty,462
-2013,Number,Laktaši,F,Higher school and first degree of faculty,360
+2013,Number,City of Laktaši,Total,Higher school and first degree of faculty,822
+2013,Number,City of Laktaši,M,Higher school and first degree of faculty,462
+2013,Number,City of Laktaši,F,Higher school and first degree of faculty,360
 2013,Number,Lopare,Total,Higher school and first degree of faculty,217
 2013,Number,Lopare,M,Higher school and first degree of faculty,133
 2013,Number,Lopare,F,Higher school and first degree of faculty,84
@@ -1076,12 +1076,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Higher school and first degree of faculty,166
 2013,Number,Petrovo,M,Higher school and first degree of faculty,109
 2013,Number,Petrovo,F,Higher school and first degree of faculty,57
-2013,Number,Grad Prijedor,Total,Higher school and first degree of faculty,2448
-2013,Number,Grad Prijedor,M,Higher school and first degree of faculty,1252
-2013,Number,Grad Prijedor,F,Higher school and first degree of faculty,1196
-2013,Number,Prnjavor,Total,Higher school and first degree of faculty,670
-2013,Number,Prnjavor,M,Higher school and first degree of faculty,388
-2013,Number,Prnjavor,F,Higher school and first degree of faculty,282
+2013,Number,City of Prijedor,Total,Higher school and first degree of faculty,2448
+2013,Number,City of Prijedor,M,Higher school and first degree of faculty,1252
+2013,Number,City of Prijedor,F,Higher school and first degree of faculty,1196
+2013,Number,City of Prnjavor,Total,Higher school and first degree of faculty,670
+2013,Number,City of Prnjavor,M,Higher school and first degree of faculty,388
+2013,Number,City of Prnjavor,F,Higher school and first degree of faculty,282
 2013,Number,Ribnik,Total,Higher school and first degree of faculty,99
 2013,Number,Ribnik,M,Higher school and first degree of faculty,68
 2013,Number,Ribnik,F,Higher school and first degree of faculty,31
@@ -1100,12 +1100,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Higher school and first degree of faculty,290
 2013,Number,Srebrenica,M,Higher school and first degree of faculty,171
 2013,Number,Srebrenica,F,Higher school and first degree of faculty,119
-2013,Number,Teslić,Total,Higher school and first degree of faculty,577
-2013,Number,Teslić,M,Higher school and first degree of faculty,335
-2013,Number,Teslić,F,Higher school and first degree of faculty,242
-2013,Number,Grad Trebinje,Total,Higher school and first degree of faculty,1442
-2013,Number,Grad Trebinje,M,Higher school and first degree of faculty,806
-2013,Number,Grad Trebinje,F,Higher school and first degree of faculty,636
+2013,Number,City of Teslić,Total,Higher school and first degree of faculty,577
+2013,Number,City of Teslić,M,Higher school and first degree of faculty,335
+2013,Number,City of Teslić,F,Higher school and first degree of faculty,242
+2013,Number,City of Trebinje,Total,Higher school and first degree of faculty,1442
+2013,Number,City of Trebinje,M,Higher school and first degree of faculty,806
+2013,Number,City of Trebinje,F,Higher school and first degree of faculty,636
 2013,Number,Trnovo,Total,Higher school and first degree of faculty,52
 2013,Number,Trnovo,M,Higher school and first degree of faculty,37
 2013,Number,Trnovo,F,Higher school and first degree of faculty,15
@@ -1136,15 +1136,15 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Republika Srpska,Total,Faculty / academy / university,87036
 2013,Number,Republika Srpska,M,Faculty / academy / university,42562
 2013,Number,Republika Srpska,F,Faculty / academy / university,44474
-2013,Number,Grad Banja Luka,Total,Faculty / academy / university,25924
-2013,Number,Grad Banja Luka,M,Faculty / academy / university,12201
-2013,Number,Grad Banja Luka,F,Faculty / academy / university,13723
+2013,Number,City of Banja Luka,Total,Faculty / academy / university,25924
+2013,Number,City of Banja Luka,M,Faculty / academy / university,12201
+2013,Number,City of Banja Luka,F,Faculty / academy / university,13723
 2013,Number,Berkovići,Total,Faculty / academy / university,92
 2013,Number,Berkovići,M,Faculty / academy / university,51
 2013,Number,Berkovići,F,Faculty / academy / university,41
-2013,Number,Grad Bijeljina,Total,Faculty / academy / university,8088
-2013,Number,Grad Bijeljina,M,Faculty / academy / university,3846
-2013,Number,Grad Bijeljina,F,Faculty / academy / university,4242
+2013,Number,City of Bijeljina,Total,Faculty / academy / university,8088
+2013,Number,City of Bijeljina,M,Faculty / academy / university,3846
+2013,Number,City of Bijeljina,F,Faculty / academy / university,4242
 2013,Number,Bileća,Total,Faculty / academy / university,791
 2013,Number,Bileća,M,Faculty / academy / university,443
 2013,Number,Bileća,F,Faculty / academy / university,348
@@ -1166,21 +1166,21 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Gacko,Total,Faculty / academy / university,812
 2013,Number,Gacko,M,Faculty / academy / university,413
 2013,Number,Gacko,F,Faculty / academy / university,399
-2013,Number,Grad Gradiška,Total,Faculty / academy / university,2538
-2013,Number,Grad Gradiška,M,Faculty / academy / university,1270
-2013,Number,Grad Gradiška,F,Faculty / academy / university,1268
-2013,Number,Grad Derventa,Total,Faculty / academy / university,1242
-2013,Number,Grad Derventa,M,Faculty / academy / university,598
-2013,Number,Grad Derventa,F,Faculty / academy / university,644
-2013,Number,Grad Doboj,Total,Faculty / academy / university,4634
-2013,Number,Grad Doboj,M,Faculty / academy / university,2420
-2013,Number,Grad Doboj,F,Faculty / academy / university,2214
+2013,Number,City of Gradiška,Total,Faculty / academy / university,2538
+2013,Number,City of Gradiška,M,Faculty / academy / university,1270
+2013,Number,City of Gradiška,F,Faculty / academy / university,1268
+2013,Number,City of Derventa,Total,Faculty / academy / university,1242
+2013,Number,City of Derventa,M,Faculty / academy / university,598
+2013,Number,City of Derventa,F,Faculty / academy / university,644
+2013,Number,City of Doboj,Total,Faculty / academy / university,4634
+2013,Number,City of Doboj,M,Faculty / academy / university,2420
+2013,Number,City of Doboj,F,Faculty / academy / university,2214
 2013,Number,Donji Žabar,Total,Faculty / academy / university,100
 2013,Number,Donji Žabar,M,Faculty / academy / university,59
 2013,Number,Donji Žabar,F,Faculty / academy / university,41
-2013,Number,Grad Zvornik,Total,Faculty / academy / university,2964
-2013,Number,Grad Zvornik,M,Faculty / academy / university,1529
-2013,Number,Grad Zvornik,F,Faculty / academy / university,1435
+2013,Number,City of Zvornik,Total,Faculty / academy / university,2964
+2013,Number,City of Zvornik,M,Faculty / academy / university,1529
+2013,Number,City of Zvornik,F,Faculty / academy / university,1435
 2013,Number,Istočna Ilidža,Total,Faculty / academy / university,1844
 2013,Number,Istočna Ilidža,M,Faculty / academy / university,802
 2013,Number,Istočna Ilidža,F,Faculty / academy / university,1042
@@ -1220,9 +1220,9 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Kupres,Total,Faculty / academy / university,4
 2013,Number,Kupres,M,Faculty / academy / university,3
 2013,Number,Kupres,F,Faculty / academy / university,1
-2013,Number,Laktaši,Total,Faculty / academy / university,1729
-2013,Number,Laktaši,M,Faculty / academy / university,829
-2013,Number,Laktaši,F,Faculty / academy / university,900
+2013,Number,City of Laktaši,Total,Faculty / academy / university,1729
+2013,Number,City of Laktaši,M,Faculty / academy / university,829
+2013,Number,City of Laktaši,F,Faculty / academy / university,900
 2013,Number,Lopare,Total,Faculty / academy / university,560
 2013,Number,Lopare,M,Faculty / academy / university,264
 2013,Number,Lopare,F,Faculty / academy / university,296
@@ -1265,12 +1265,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Petrovo,Total,Faculty / academy / university,259
 2013,Number,Petrovo,M,Faculty / academy / university,134
 2013,Number,Petrovo,F,Faculty / academy / university,125
-2013,Number,Grad Prijedor,Total,Faculty / academy / university,4646
-2013,Number,Grad Prijedor,M,Faculty / academy / university,2220
-2013,Number,Grad Prijedor,F,Faculty / academy / university,2426
-2013,Number,Prnjavor,Total,Faculty / academy / university,1336
-2013,Number,Prnjavor,M,Faculty / academy / university,627
-2013,Number,Prnjavor,F,Faculty / academy / university,709
+2013,Number,City of Prijedor,Total,Faculty / academy / university,4646
+2013,Number,City of Prijedor,M,Faculty / academy / university,2220
+2013,Number,City of Prijedor,F,Faculty / academy / university,2426
+2013,Number,City of Prnjavor,Total,Faculty / academy / university,1336
+2013,Number,City of Prnjavor,M,Faculty / academy / university,627
+2013,Number,City of Prnjavor,F,Faculty / academy / university,709
 2013,Number,Ribnik,Total,Faculty / academy / university,195
 2013,Number,Ribnik,M,Faculty / academy / university,108
 2013,Number,Ribnik,F,Faculty / academy / university,87
@@ -1289,12 +1289,12 @@ Year,UNIT_MEASURE,City/municipality,Sex,Highest educational attainment,Value
 2013,Number,Srebrenica,Total,Faculty / academy / university,741
 2013,Number,Srebrenica,M,Faculty / academy / university,395
 2013,Number,Srebrenica,F,Faculty / academy / university,346
-2013,Number,Teslić,Total,Faculty / academy / university,1351
-2013,Number,Teslić,M,Faculty / academy / university,689
-2013,Number,Teslić,F,Faculty / academy / university,662
-2013,Number,Grad Trebinje,Total,Faculty / academy / university,3262
-2013,Number,Grad Trebinje,M,Faculty / academy / university,1642
-2013,Number,Grad Trebinje,F,Faculty / academy / university,1620
+2013,Number,City of Teslić,Total,Faculty / academy / university,1351
+2013,Number,City of Teslić,M,Faculty / academy / university,689
+2013,Number,City of Teslić,F,Faculty / academy / university,662
+2013,Number,City of Trebinje,Total,Faculty / academy / university,3262
+2013,Number,City of Trebinje,M,Faculty / academy / university,1642
+2013,Number,City of Trebinje,F,Faculty / academy / university,1620
 2013,Number,Trnovo,Total,Faculty / academy / university,139
 2013,Number,Trnovo,M,Faculty / academy / university,66
 2013,Number,Trnovo,F,Faculty / academy / university,73

@@ -1,8 +1,8 @@
 Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Republika Srpska,Total,408825
-2013,Number,Grad Banja Luka,Total,65010
+2013,Number,City of Banja Luka,Total,65010
 2013,Number,Berkovići,Total,636
-2013,Number,Grad Bijeljina,Total,34309
+2013,Number,City of Bijeljina,Total,34309
 2013,Number,Bileća,Total,3307
 2013,Number,Bratunac,Total,5945
 2013,Number,Brod,Total,5599
@@ -10,11 +10,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,Total,3712
 2013,Number,Vukosavlje,Total,1537
 2013,Number,Gacko,Total,2766
-2013,Number,Grad Gradiška,Total,16939
-2013,Number,Grad Derventa,Total,9345
-2013,Number,Grad Doboj,Total,25447
+2013,Number,City of Gradiška,Total,16939
+2013,Number,City of Derventa,Total,9345
+2013,Number,City of Doboj,Total,25447
 2013,Number,Donji Žabar,Total,1191
-2013,Number,Grad Zvornik,Total,17690
+2013,Number,City of Zvornik,Total,17690
 2013,Number,Istočna Ilidža,Total,4981
 2013,Number,Istočni Drvar,Total,38
 2013,Number,Istočni Mostar,Total,83
@@ -28,7 +28,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,Total,5863
 2013,Number,Krupa Na Uni,Total,543
 2013,Number,Kupres,Total,128
-2013,Number,Laktaši,Total,11293
+2013,Number,City of Laktaši,Total,11293
 2013,Number,Lopare,Total,5081
 2013,Number,Ljubinje,Total,1077
 2013,Number,Milići,Total,3579
@@ -43,16 +43,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,Total,1787
 2013,Number,Petrovac,Total,130
 2013,Number,Petrovo,Total,2532
-2013,Number,Grad Prijedor,Total,27961
-2013,Number,Prnjavor,Total,12166
+2013,Number,City of Prijedor,Total,27961
+2013,Number,City of Prnjavor,Total,12166
 2013,Number,Ribnik,Total,2252
 2013,Number,Rogatica,Total,3871
 2013,Number,Rudo,Total,2847
 2013,Number,Sokolac,Total,4276
 2013,Number,Srbac,Total,6157
 2013,Number,Srebrenica,Total,3792
-2013,Number,Teslić,Total,13255
-2013,Number,Grad Trebinje,Total,9394
+2013,Number,City of Teslić,Total,13255
+2013,Number,City of Trebinje,Total,9394
 2013,Number,Trnovo,Total,800
 2013,Number,Ugljevik,Total,4867
 2013,Number,Foča,Total,6544
@@ -63,9 +63,9 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Šekovići,Total,2517
 2013,Number,Šipovo,Total,3665
 2013,Number,Republika Srpska,1 member,91300
-2013,Number,Grad Banja Luka,1 member,13984
+2013,Number,City of Banja Luka,1 member,13984
 2013,Number,Berkovići,1 member,129
-2013,Number,Grad Bijeljina,1 member,6984
+2013,Number,City of Bijeljina,1 member,6984
 2013,Number,Bileća,1 member,629
 2013,Number,Bratunac,1 member,1155
 2013,Number,Brod,1 member,1360
@@ -73,11 +73,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,1 member,768
 2013,Number,Vukosavlje,1 member,348
 2013,Number,Gacko,1 member,522
-2013,Number,Grad Gradiška,1 member,3782
-2013,Number,Grad Derventa,1 member,2270
-2013,Number,Grad Doboj,1 member,6230
+2013,Number,City of Gradiška,1 member,3782
+2013,Number,City of Derventa,1 member,2270
+2013,Number,City of Doboj,1 member,6230
 2013,Number,Donji Žabar,1 member,271
-2013,Number,Grad Zvornik,1 member,3323
+2013,Number,City of Zvornik,1 member,3323
 2013,Number,Istočna Ilidža,1 member,949
 2013,Number,Istočni Drvar,1 member,24
 2013,Number,Istočni Mostar,1 member,29
@@ -91,7 +91,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,1 member,1089
 2013,Number,Krupa Na Uni,1 member,159
 2013,Number,Kupres,1 member,44
-2013,Number,Laktaši,1 member,2093
+2013,Number,City of Laktaši,1 member,2093
 2013,Number,Lopare,1 member,1256
 2013,Number,Ljubinje,1 member,196
 2013,Number,Milići,1 member,789
@@ -106,16 +106,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,1 member,640
 2013,Number,Petrovac,1 member,34
 2013,Number,Petrovo,1 member,726
-2013,Number,Grad Prijedor,1 member,6423
-2013,Number,Prnjavor,1 member,2943
+2013,Number,City of Prijedor,1 member,6423
+2013,Number,City of Prnjavor,1 member,2943
 2013,Number,Ribnik,1 member,642
 2013,Number,Rogatica,1 member,986
 2013,Number,Rudo,1 member,696
 2013,Number,Sokolac,1 member,1022
 2013,Number,Srbac,1 member,1507
 2013,Number,Srebrenica,1 member,874
-2013,Number,Teslić,1 member,3060
-2013,Number,Grad Trebinje,1 member,1848
+2013,Number,City of Teslić,1 member,3060
+2013,Number,City of Trebinje,1 member,1848
 2013,Number,Trnovo,1 member,223
 2013,Number,Ugljevik,1 member,1019
 2013,Number,Foča,1 member,1635
@@ -126,9 +126,9 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Šekovići,1 member,708
 2013,Number,Šipovo,1 member,839
 2013,Number,Republika Srpska,2 members,107130
-2013,Number,Grad Banja Luka,2 members,17243
+2013,Number,City of Banja Luka,2 members,17243
 2013,Number,Berkovići,2 members,166
-2013,Number,Grad Bijeljina,2 members,8272
+2013,Number,City of Bijeljina,2 members,8272
 2013,Number,Bileća,2 members,719
 2013,Number,Bratunac,2 members,1345
 2013,Number,Brod,2 members,1439
@@ -136,11 +136,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,2 members,1001
 2013,Number,Vukosavlje,2 members,425
 2013,Number,Gacko,2 members,622
-2013,Number,Grad Gradiška,2 members,4438
-2013,Number,Grad Derventa,2 members,2598
-2013,Number,Grad Doboj,2 members,7242
+2013,Number,City of Gradiška,2 members,4438
+2013,Number,City of Derventa,2 members,2598
+2013,Number,City of Doboj,2 members,7242
 2013,Number,Donji Žabar,2 members,290
-2013,Number,Grad Zvornik,2 members,4288
+2013,Number,City of Zvornik,2 members,4288
 2013,Number,Istočna Ilidža,2 members,1316
 2013,Number,Istočni Drvar,2 members,7
 2013,Number,Istočni Mostar,2 members,15
@@ -154,7 +154,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,2 members,1358
 2013,Number,Krupa Na Uni,2 members,128
 2013,Number,Kupres,2 members,48
-2013,Number,Laktaši,2 members,2768
+2013,Number,City of Laktaši,2 members,2768
 2013,Number,Lopare,2 members,1261
 2013,Number,Ljubinje,2 members,254
 2013,Number,Milići,2 members,859
@@ -169,16 +169,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,2 members,516
 2013,Number,Petrovac,2 members,35
 2013,Number,Petrovo,2 members,760
-2013,Number,Grad Prijedor,2 members,7125
-2013,Number,Prnjavor,2 members,3253
+2013,Number,City of Prijedor,2 members,7125
+2013,Number,City of Prnjavor,2 members,3253
 2013,Number,Ribnik,2 members,673
 2013,Number,Rogatica,2 members,1120
 2013,Number,Rudo,2 members,851
 2013,Number,Sokolac,2 members,1227
 2013,Number,Srbac,2 members,1729
 2013,Number,Srebrenica,2 members,858
-2013,Number,Teslić,2 members,3602
-2013,Number,Grad Trebinje,2 members,2317
+2013,Number,City of Teslić,2 members,3602
+2013,Number,City of Trebinje,2 members,2317
 2013,Number,Trnovo,2 members,250
 2013,Number,Ugljevik,2 members,1118
 2013,Number,Foča,2 members,1877
@@ -189,9 +189,9 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Šekovići,2 members,783
 2013,Number,Šipovo,2 members,1059
 2013,Number,Republika Srpska,3 members,79155
-2013,Number,Grad Banja Luka,3 members,14267
+2013,Number,City of Banja Luka,3 members,14267
 2013,Number,Berkovići,3 members,92
-2013,Number,Grad Bijeljina,3 members,6586
+2013,Number,City of Bijeljina,3 members,6586
 2013,Number,Bileća,3 members,620
 2013,Number,Bratunac,3 members,1137
 2013,Number,Brod,3 members,1107
@@ -199,11 +199,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,3 members,747
 2013,Number,Vukosavlje,3 members,280
 2013,Number,Gacko,3 members,561
-2013,Number,Grad Gradiška,3 members,3140
-2013,Number,Grad Derventa,3 members,1688
-2013,Number,Grad Doboj,3 members,4956
+2013,Number,City of Gradiška,3 members,3140
+2013,Number,City of Derventa,3 members,1688
+2013,Number,City of Doboj,3 members,4956
 2013,Number,Donji Žabar,3 members,178
-2013,Number,Grad Zvornik,3 members,3400
+2013,Number,City of Zvornik,3 members,3400
 2013,Number,Istočna Ilidža,3 members,1075
 2013,Number,Istočni Drvar,3 members,6
 2013,Number,Istočni Mostar,3 members,12
@@ -217,7 +217,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,3 members,1079
 2013,Number,Krupa Na Uni,3 members,84
 2013,Number,Kupres,3 members,16
-2013,Number,Laktaši,3 members,2241
+2013,Number,City of Laktaši,3 members,2241
 2013,Number,Lopare,3 members,908
 2013,Number,Ljubinje,3 members,234
 2013,Number,Milići,3 members,709
@@ -232,16 +232,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,3 members,225
 2013,Number,Petrovac,3 members,22
 2013,Number,Petrovo,3 members,448
-2013,Number,Grad Prijedor,3 members,5351
-2013,Number,Prnjavor,3 members,2183
+2013,Number,City of Prijedor,3 members,5351
+2013,Number,City of Prnjavor,3 members,2183
 2013,Number,Ribnik,3 members,356
 2013,Number,Rogatica,3 members,709
 2013,Number,Rudo,3 members,523
 2013,Number,Sokolac,3 members,808
 2013,Number,Srbac,3 members,1106
 2013,Number,Srebrenica,3 members,656
-2013,Number,Teslić,3 members,2559
-2013,Number,Grad Trebinje,3 members,1871
+2013,Number,City of Teslić,3 members,2559
+2013,Number,City of Trebinje,3 members,1871
 2013,Number,Trnovo,3 members,143
 2013,Number,Ugljevik,3 members,821
 2013,Number,Foča,3 members,1263
@@ -252,9 +252,9 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Šekovići,3 members,418
 2013,Number,Šipovo,3 members,696
 2013,Number,Republika Srpska,4 members,72771
-2013,Number,Grad Banja Luka,4 members,12952
+2013,Number,City of Banja Luka,4 members,12952
 2013,Number,Berkovići,4 members,84
-2013,Number,Grad Bijeljina,4 members,6377
+2013,Number,City of Bijeljina,4 members,6377
 2013,Number,Bileća,4 members,616
 2013,Number,Bratunac,4 members,1161
 2013,Number,Brod,4 members,928
@@ -262,11 +262,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,4 members,687
 2013,Number,Vukosavlje,4 members,249
 2013,Number,Gacko,4 members,480
-2013,Number,Grad Gradiška,4 members,2878
-2013,Number,Grad Derventa,4 members,1520
-2013,Number,Grad Doboj,4 members,4148
+2013,Number,City of Gradiška,4 members,2878
+2013,Number,City of Derventa,4 members,1520
+2013,Number,City of Doboj,4 members,4148
 2013,Number,Donji Žabar,4 members,184
-2013,Number,Grad Zvornik,4 members,3448
+2013,Number,City of Zvornik,4 members,3448
 2013,Number,Istočna Ilidža,4 members,1028
 2013,Number,Istočni Drvar,4 members,0
 2013,Number,Istočni Mostar,4 members,10
@@ -280,7 +280,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,4 members,1206
 2013,Number,Krupa Na Uni,4 members,72
 2013,Number,Kupres,4 members,6
-2013,Number,Laktaši,4 members,2345
+2013,Number,City of Laktaši,4 members,2345
 2013,Number,Lopare,4 members,805
 2013,Number,Ljubinje,4 members,194
 2013,Number,Milići,4 members,714
@@ -295,16 +295,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,4 members,191
 2013,Number,Petrovac,4 members,19
 2013,Number,Petrovo,4 members,370
-2013,Number,Grad Prijedor,4 members,4862
-2013,Number,Prnjavor,4 members,1953
+2013,Number,City of Prijedor,4 members,4862
+2013,Number,City of Prnjavor,4 members,1953
 2013,Number,Ribnik,4 members,308
 2013,Number,Rogatica,4 members,630
 2013,Number,Rudo,4 members,467
 2013,Number,Sokolac,4 members,728
 2013,Number,Srbac,4 members,1011
 2013,Number,Srebrenica,4 members,652
-2013,Number,Teslić,4 members,2147
-2013,Number,Grad Trebinje,4 members,1765
+2013,Number,City of Teslić,4 members,2147
+2013,Number,City of Trebinje,4 members,1765
 2013,Number,Trnovo,4 members,110
 2013,Number,Ugljevik,4 members,932
 2013,Number,Foča,4 members,1115
@@ -315,9 +315,9 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Šekovići,4 members,379
 2013,Number,Šipovo,4 members,620
 2013,Number,Republika Srpska,5+ members,58469
-2013,Number,Grad Banja Luka,5+ members,6564
+2013,Number,City of Banja Luka,5+ members,6564
 2013,Number,Berkovići,5+ members,165
-2013,Number,Grad Bijeljina,5+ members,6090
+2013,Number,City of Bijeljina,5+ members,6090
 2013,Number,Bileća,5+ members,723
 2013,Number,Bratunac,5+ members,1147
 2013,Number,Brod,5+ members,765
@@ -325,11 +325,11 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Vlasenica,5+ members,509
 2013,Number,Vukosavlje,5+ members,235
 2013,Number,Gacko,5+ members,581
-2013,Number,Grad Gradiška,5+ members,2701
-2013,Number,Grad Derventa,5+ members,1269
-2013,Number,Grad Doboj,5+ members,2871
+2013,Number,City of Gradiška,5+ members,2701
+2013,Number,City of Derventa,5+ members,1269
+2013,Number,City of Doboj,5+ members,2871
 2013,Number,Donji Žabar,5+ members,268
-2013,Number,Grad Zvornik,5+ members,3231
+2013,Number,City of Zvornik,5+ members,3231
 2013,Number,Istočna Ilidža,5+ members,613
 2013,Number,Istočni Drvar,5+ members,1
 2013,Number,Istočni Mostar,5+ members,17
@@ -343,7 +343,7 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Kotor Varoš,5+ members,1131
 2013,Number,Krupa Na Uni,5+ members,100
 2013,Number,Kupres,5+ members,14
-2013,Number,Laktaši,5+ members,1846
+2013,Number,City of Laktaši,5+ members,1846
 2013,Number,Lopare,5+ members,851
 2013,Number,Ljubinje,5+ members,199
 2013,Number,Milići,5+ members,508
@@ -358,16 +358,16 @@ Year,UNIT_MEASURE,City/municipality,Household size,Value
 2013,Number,Pelagićevo,5+ members,215
 2013,Number,Petrovac,5+ members,20
 2013,Number,Petrovo,5+ members,228
-2013,Number,Grad Prijedor,5+ members,4200
-2013,Number,Prnjavor,5+ members,1834
+2013,Number,City of Prijedor,5+ members,4200
+2013,Number,City of Prnjavor,5+ members,1834
 2013,Number,Ribnik,5+ members,273
 2013,Number,Rogatica,5+ members,426
 2013,Number,Rudo,5+ members,310
 2013,Number,Sokolac,5+ members,491
 2013,Number,Srbac,5+ members,804
 2013,Number,Srebrenica,5+ members,752
-2013,Number,Teslić,5+ members,1887
-2013,Number,Grad Trebinje,5+ members,1593
+2013,Number,City of Teslić,5+ members,1887
+2013,Number,City of Trebinje,5+ members,1593
 2013,Number,Trnovo,5+ members,74
 2013,Number,Ugljevik,5+ members,977
 2013,Number,Foča,5+ members,654
