@@ -86,9 +86,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Ukupno,293
 2013,Broj,Kupres,M,Ukupno,157
 2013,Broj,Kupres,Ž,Ukupno,136
-2013,Broj,Laktaši,Ukupno,Ukupno,34210
-2013,Broj,Laktaši,M,Ukupno,16905
-2013,Broj,Laktaši,Ž,Ukupno,17305
+2013,Broj,Grad Laktaši,Ukupno,Ukupno,34210
+2013,Broj,Grad Laktaši,M,Ukupno,16905
+2013,Broj,Grad Laktaši,Ž,Ukupno,17305
 2013,Broj,Lopare,Ukupno,Ukupno,14689
 2013,Broj,Lopare,M,Ukupno,7377
 2013,Broj,Lopare,Ž,Ukupno,7312
@@ -134,9 +134,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Ukupno,80916
 2013,Broj,Grad Prijedor,M,Ukupno,39418
 2013,Broj,Grad Prijedor,Ž,Ukupno,41498
-2013,Broj,Prnjavor,Ukupno,Ukupno,34357
-2013,Broj,Prnjavor,M,Ukupno,16675
-2013,Broj,Prnjavor,Ž,Ukupno,17682
+2013,Broj,Grad Prnjavor,Ukupno,Ukupno,34357
+2013,Broj,Grad Prnjavor,M,Ukupno,16675
+2013,Broj,Grad Prnjavor,Ž,Ukupno,17682
 2013,Broj,Ribnik,Ukupno,Ukupno,5851
 2013,Broj,Ribnik,M,Ukupno,2900
 2013,Broj,Ribnik,Ž,Ukupno,2951
@@ -155,9 +155,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Ukupno,11698
 2013,Broj,Srebrenica,M,Ukupno,5714
 2013,Broj,Srebrenica,Ž,Ukupno,5984
-2013,Broj,Teslić,Ukupno,Ukupno,37236
-2013,Broj,Teslić,M,Ukupno,17894
-2013,Broj,Teslić,Ž,Ukupno,19342
+2013,Broj,Grad Teslić,Ukupno,Ukupno,37236
+2013,Broj,Grad Teslić,M,Ukupno,17894
+2013,Broj,Grad Teslić,Ž,Ukupno,19342
 2013,Broj,Grad Trebinje,Ukupno,Ukupno,28239
 2013,Broj,Grad Trebinje,M,Ukupno,13760
 2013,Broj,Grad Trebinje,Ž,Ukupno,14479
@@ -275,9 +275,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Bošnjaci,0
 2013,Broj,Kupres,M,Bošnjaci,0
 2013,Broj,Kupres,Ž,Bošnjaci,0
-2013,Broj,Laktaši,Ukupno,Bošnjaci,104
-2013,Broj,Laktaši,M,Bošnjaci,47
-2013,Broj,Laktaši,Ž,Bošnjaci,57
+2013,Broj,Grad Laktaši,Ukupno,Bošnjaci,104
+2013,Broj,Grad Laktaši,M,Bošnjaci,47
+2013,Broj,Grad Laktaši,Ž,Bošnjaci,57
 2013,Broj,Lopare,Ukupno,Bošnjaci,1310
 2013,Broj,Lopare,M,Bošnjaci,646
 2013,Broj,Lopare,Ž,Bošnjaci,664
@@ -323,9 +323,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Bošnjaci,22303
 2013,Broj,Grad Prijedor,M,Bošnjaci,10669
 2013,Broj,Grad Prijedor,Ž,Bošnjaci,11634
-2013,Broj,Prnjavor,Ukupno,Bošnjaci,2749
-2013,Broj,Prnjavor,M,Bošnjaci,1329
-2013,Broj,Prnjavor,Ž,Bošnjaci,1420
+2013,Broj,Grad Prnjavor,Ukupno,Bošnjaci,2749
+2013,Broj,Grad Prnjavor,M,Bošnjaci,1329
+2013,Broj,Grad Prnjavor,Ž,Bošnjaci,1420
 2013,Broj,Ribnik,Ukupno,Bošnjaci,0
 2013,Broj,Ribnik,M,Bošnjaci,0
 2013,Broj,Ribnik,Ž,Bošnjaci,0
@@ -344,9 +344,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Bošnjaci,6122
 2013,Broj,Srebrenica,M,Bošnjaci,2913
 2013,Broj,Srebrenica,Ž,Bošnjaci,3209
-2013,Broj,Teslić,Ukupno,Bošnjaci,6887
-2013,Broj,Teslić,M,Bošnjaci,3387
-2013,Broj,Teslić,Ž,Bošnjaci,3500
+2013,Broj,Grad Teslić,Ukupno,Bošnjaci,6887
+2013,Broj,Grad Teslić,M,Bošnjaci,3387
+2013,Broj,Grad Teslić,Ž,Bošnjaci,3500
 2013,Broj,Grad Trebinje,Ukupno,Bošnjaci,863
 2013,Broj,Grad Trebinje,M,Bošnjaci,426
 2013,Broj,Grad Trebinje,Ž,Bošnjaci,437
@@ -464,9 +464,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Hrvati,0
 2013,Broj,Kupres,M,Hrvati,0
 2013,Broj,Kupres,Ž,Hrvati,0
-2013,Broj,Laktaši,Ukupno,Hrvati,500
-2013,Broj,Laktaši,M,Hrvati,175
-2013,Broj,Laktaši,Ž,Hrvati,325
+2013,Broj,Grad Laktaši,Ukupno,Hrvati,500
+2013,Broj,Grad Laktaši,M,Hrvati,175
+2013,Broj,Grad Laktaši,Ž,Hrvati,325
 2013,Broj,Lopare,Ukupno,Hrvati,48
 2013,Broj,Lopare,M,Hrvati,9
 2013,Broj,Lopare,Ž,Hrvati,39
@@ -512,9 +512,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Hrvati,1666
 2013,Broj,Grad Prijedor,M,Hrvati,679
 2013,Broj,Grad Prijedor,Ž,Hrvati,987
-2013,Broj,Prnjavor,Ukupno,Hrvati,423
-2013,Broj,Prnjavor,M,Hrvati,150
-2013,Broj,Prnjavor,Ž,Hrvati,273
+2013,Broj,Grad Prnjavor,Ukupno,Hrvati,423
+2013,Broj,Grad Prnjavor,M,Hrvati,150
+2013,Broj,Grad Prnjavor,Ž,Hrvati,273
 2013,Broj,Ribnik,Ukupno,Hrvati,11
 2013,Broj,Ribnik,M,Hrvati,4
 2013,Broj,Ribnik,Ž,Hrvati,7
@@ -533,9 +533,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Hrvati,14
 2013,Broj,Srebrenica,M,Hrvati,6
 2013,Broj,Srebrenica,Ž,Hrvati,8
-2013,Broj,Teslić,Ukupno,Hrvati,1346
-2013,Broj,Teslić,M,Hrvati,581
-2013,Broj,Teslić,Ž,Hrvati,765
+2013,Broj,Grad Teslić,Ukupno,Hrvati,1346
+2013,Broj,Grad Teslić,M,Hrvati,581
+2013,Broj,Grad Teslić,Ž,Hrvati,765
 2013,Broj,Grad Trebinje,Ukupno,Hrvati,295
 2013,Broj,Grad Trebinje,M,Hrvati,99
 2013,Broj,Grad Trebinje,Ž,Hrvati,196
@@ -653,9 +653,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Srbi,292
 2013,Broj,Kupres,M,Srbi,156
 2013,Broj,Kupres,Ž,Srbi,136
-2013,Broj,Laktaši,Ukupno,Srbi,32761
-2013,Broj,Laktaši,M,Srbi,16275
-2013,Broj,Laktaši,Ž,Srbi,16486
+2013,Broj,Grad Laktaši,Ukupno,Srbi,32761
+2013,Broj,Grad Laktaši,M,Srbi,16275
+2013,Broj,Grad Laktaši,Ž,Srbi,16486
 2013,Broj,Lopare,Ukupno,Srbi,13267
 2013,Broj,Lopare,M,Srbi,6695
 2013,Broj,Lopare,Ž,Srbi,6572
@@ -701,9 +701,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Srbi,54365
 2013,Broj,Grad Prijedor,M,Srbi,26834
 2013,Broj,Grad Prijedor,Ž,Srbi,27531
-2013,Broj,Prnjavor,Ukupno,Srbi,29478
-2013,Broj,Prnjavor,M,Srbi,14352
-2013,Broj,Prnjavor,Ž,Srbi,15126
+2013,Broj,Grad Prnjavor,Ukupno,Srbi,29478
+2013,Broj,Grad Prnjavor,M,Srbi,14352
+2013,Broj,Grad Prnjavor,Ž,Srbi,15126
 2013,Broj,Ribnik,Ukupno,Srbi,5825
 2013,Broj,Ribnik,M,Srbi,2891
 2013,Broj,Ribnik,Ž,Srbi,2934
@@ -722,9 +722,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Srbi,5467
 2013,Broj,Srebrenica,M,Srbi,2743
 2013,Broj,Srebrenica,Ž,Srbi,2724
-2013,Broj,Teslić,Ukupno,Srbi,28166
-2013,Broj,Teslić,M,Srbi,13545
-2013,Broj,Teslić,Ž,Srbi,14621
+2013,Broj,Grad Teslić,Ukupno,Srbi,28166
+2013,Broj,Grad Teslić,M,Srbi,13545
+2013,Broj,Grad Teslić,Ž,Srbi,14621
 2013,Broj,Grad Trebinje,Ukupno,Srbi,26484
 2013,Broj,Grad Trebinje,M,Srbi,12943
 2013,Broj,Grad Trebinje,Ž,Srbi,13541
@@ -842,9 +842,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Ostali,0
 2013,Broj,Kupres,M,Ostali,0
 2013,Broj,Kupres,Ž,Ostali,0
-2013,Broj,Laktaši,Ukupno,Ostali,562
-2013,Broj,Laktaši,M,Ostali,285
-2013,Broj,Laktaši,Ž,Ostali,277
+2013,Broj,Grad Laktaši,Ukupno,Ostali,562
+2013,Broj,Grad Laktaši,M,Ostali,285
+2013,Broj,Grad Laktaši,Ž,Ostali,277
 2013,Broj,Lopare,Ukupno,Ostali,31
 2013,Broj,Lopare,M,Ostali,16
 2013,Broj,Lopare,Ž,Ostali,15
@@ -890,9 +890,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Ostali,1495
 2013,Broj,Grad Prijedor,M,Ostali,712
 2013,Broj,Grad Prijedor,Ž,Ostali,783
-2013,Broj,Prnjavor,Ukupno,Ostali,1452
-2013,Broj,Prnjavor,M,Ostali,738
-2013,Broj,Prnjavor,Ž,Ostali,714
+2013,Broj,Grad Prnjavor,Ukupno,Ostali,1452
+2013,Broj,Grad Prnjavor,M,Ostali,738
+2013,Broj,Grad Prnjavor,Ž,Ostali,714
 2013,Broj,Ribnik,Ukupno,Ostali,11
 2013,Broj,Ribnik,M,Ostali,3
 2013,Broj,Ribnik,Ž,Ostali,8
@@ -911,9 +911,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Ostali,59
 2013,Broj,Srebrenica,M,Ostali,34
 2013,Broj,Srebrenica,Ž,Ostali,25
-2013,Broj,Teslić,Ukupno,Ostali,454
-2013,Broj,Teslić,M,Ostali,222
-2013,Broj,Teslić,Ž,Ostali,232
+2013,Broj,Grad Teslić,Ukupno,Ostali,454
+2013,Broj,Grad Teslić,M,Ostali,222
+2013,Broj,Grad Teslić,Ž,Ostali,232
 2013,Broj,Grad Trebinje,Ukupno,Ostali,398
 2013,Broj,Grad Trebinje,M,Ostali,204
 2013,Broj,Grad Trebinje,Ž,Ostali,194
@@ -1031,9 +1031,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Ne izjašnjava se,1
 2013,Broj,Kupres,M,Ne izjašnjava se,1
 2013,Broj,Kupres,Ž,Ne izjašnjava se,0
-2013,Broj,Laktaši,Ukupno,Ne izjašnjava se,237
-2013,Broj,Laktaši,M,Ne izjašnjava se,103
-2013,Broj,Laktaši,Ž,Ne izjašnjava se,134
+2013,Broj,Grad Laktaši,Ukupno,Ne izjašnjava se,237
+2013,Broj,Grad Laktaši,M,Ne izjašnjava se,103
+2013,Broj,Grad Laktaši,Ž,Ne izjašnjava se,134
 2013,Broj,Lopare,Ukupno,Ne izjašnjava se,23
 2013,Broj,Lopare,M,Ne izjašnjava se,5
 2013,Broj,Lopare,Ž,Ne izjašnjava se,18
@@ -1079,9 +1079,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Ne izjašnjava se,718
 2013,Broj,Grad Prijedor,M,Ne izjašnjava se,267
 2013,Broj,Grad Prijedor,Ž,Ne izjašnjava se,451
-2013,Broj,Prnjavor,Ukupno,Ne izjašnjava se,225
-2013,Broj,Prnjavor,M,Ne izjašnjava se,96
-2013,Broj,Prnjavor,Ž,Ne izjašnjava se,129
+2013,Broj,Grad Prnjavor,Ukupno,Ne izjašnjava se,225
+2013,Broj,Grad Prnjavor,M,Ne izjašnjava se,96
+2013,Broj,Grad Prnjavor,Ž,Ne izjašnjava se,129
 2013,Broj,Ribnik,Ukupno,Ne izjašnjava se,2
 2013,Broj,Ribnik,M,Ne izjašnjava se,0
 2013,Broj,Ribnik,Ž,Ne izjašnjava se,2
@@ -1100,9 +1100,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Ne izjašnjava se,22
 2013,Broj,Srebrenica,M,Ne izjašnjava se,10
 2013,Broj,Srebrenica,Ž,Ne izjašnjava se,12
-2013,Broj,Teslić,Ukupno,Ne izjašnjava se,339
-2013,Broj,Teslić,M,Ne izjašnjava se,136
-2013,Broj,Teslić,Ž,Ne izjašnjava se,203
+2013,Broj,Grad Teslić,Ukupno,Ne izjašnjava se,339
+2013,Broj,Grad Teslić,M,Ne izjašnjava se,136
+2013,Broj,Grad Teslić,Ž,Ne izjašnjava se,203
 2013,Broj,Grad Trebinje,Ukupno,Ne izjašnjava se,180
 2013,Broj,Grad Trebinje,M,Ne izjašnjava se,77
 2013,Broj,Grad Trebinje,Ž,Ne izjašnjava se,103
@@ -1220,9 +1220,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Kupres,Ukupno,Nepoznato,0
 2013,Broj,Kupres,M,Nepoznato,0
 2013,Broj,Kupres,Ž,Nepoznato,0
-2013,Broj,Laktaši,Ukupno,Nepoznato,46
-2013,Broj,Laktaši,M,Nepoznato,20
-2013,Broj,Laktaši,Ž,Nepoznato,26
+2013,Broj,Grad Laktaši,Ukupno,Nepoznato,46
+2013,Broj,Grad Laktaši,M,Nepoznato,20
+2013,Broj,Grad Laktaši,Ž,Nepoznato,26
 2013,Broj,Lopare,Ukupno,Nepoznato,10
 2013,Broj,Lopare,M,Nepoznato,6
 2013,Broj,Lopare,Ž,Nepoznato,4
@@ -1268,9 +1268,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Grad Prijedor,Ukupno,Nepoznato,369
 2013,Broj,Grad Prijedor,M,Nepoznato,257
 2013,Broj,Grad Prijedor,Ž,Nepoznato,112
-2013,Broj,Prnjavor,Ukupno,Nepoznato,30
-2013,Broj,Prnjavor,M,Nepoznato,10
-2013,Broj,Prnjavor,Ž,Nepoznato,20
+2013,Broj,Grad Prnjavor,Ukupno,Nepoznato,30
+2013,Broj,Grad Prnjavor,M,Nepoznato,10
+2013,Broj,Grad Prnjavor,Ž,Nepoznato,20
 2013,Broj,Ribnik,Ukupno,Nepoznato,2
 2013,Broj,Ribnik,M,Nepoznato,2
 2013,Broj,Ribnik,Ž,Nepoznato,0
@@ -1289,9 +1289,9 @@ Year,UNIT_MEASURE,Grad/opština,Pol,Etnička/nacionalna pripadnost,Value
 2013,Broj,Srebrenica,Ukupno,Nepoznato,14
 2013,Broj,Srebrenica,M,Nepoznato,8
 2013,Broj,Srebrenica,Ž,Nepoznato,6
-2013,Broj,Teslić,Ukupno,Nepoznato,44
-2013,Broj,Teslić,M,Nepoznato,23
-2013,Broj,Teslić,Ž,Nepoznato,21
+2013,Broj,Grad Teslić,Ukupno,Nepoznato,44
+2013,Broj,Grad Teslić,M,Nepoznato,23
+2013,Broj,Grad Teslić,Ž,Nepoznato,21
 2013,Broj,Grad Trebinje,Ukupno,Nepoznato,19
 2013,Broj,Grad Trebinje,M,Nepoznato,11
 2013,Broj,Grad Trebinje,Ž,Nepoznato,8
