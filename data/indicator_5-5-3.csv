@@ -80,5 +80,12 @@ Year,UNIT_MEASURE,Degree,SEX,Value
 2024,NUMBER,specialists,_T,114
 2024,NUMBER,specialists,M,39
 2024,NUMBER,specialists,F,75
-
-
+2025,NUMBER,masters_of_science,_T,6
+2025,NUMBER,masters_of_science,M,1
+2025,NUMBER,masters_of_science,F,5
+2025,NUMBER,masters,_T,394
+2025,NUMBER,masters,M,135
+2025,NUMBER,masters,F,259
+2025,NUMBER,specialists,_T,136
+2025,NUMBER,specialists,M,49
+2025,NUMBER,specialists,F,87
